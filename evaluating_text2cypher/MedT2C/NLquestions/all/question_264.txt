@@ -1,0 +1,1 @@
+List the genes that interact with the gene 'PTEN' and participate in the pathway named 'Adaptive Immune System'.

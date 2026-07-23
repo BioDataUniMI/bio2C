@@ -1,0 +1,25 @@
+{
+  "g2.name": "HSP90AA1",
+  "p.name": "VEGFA-VEGFR2 Pathway"
+}
+
+{
+  "g2.name": "HSP90AA1",
+  "p.name": "Integrin-linked kinase signaling"
+}
+
+{
+  "g2.name": "HSP90AA1",
+  "p.name": "Disease"
+}
+
+{
+  "g2.name": "HSP90AA1",
+  "p.name": "IL2 signaling events mediated by PI3K"
+}
+
+{
+  "g2.name": "HSP90AA1",
+  "p.name": "Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
+}
+

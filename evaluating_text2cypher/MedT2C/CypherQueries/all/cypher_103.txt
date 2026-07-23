@@ -1,0 +1,1 @@
+MATCH (c1:Compound {identifier: 'DB01603'})-[r:RESEMBLES_CrC]->(c2:Compound) WHERE r.similarity > 0.7 RETURN c1.name, c2.name, r.similarity ORDER BY r.similarity DESC

@@ -1,0 +1,1 @@
+Which genes co-vary with each other and participate in the same cellular component named 'mitotic spindle'?

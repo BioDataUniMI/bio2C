@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'NR1H2'})<-[r:REGULATES_GrG]-(g2:Gene) WHERE 'overexpression upregulates' IN r.subtypes RETURN g2.name

@@ -1,0 +1,1 @@
+MATCH (s:Symptom {name: 'Low Back Pain'})<-[:PRESENTS_DpS]-(d:Disease) RETURN d.name

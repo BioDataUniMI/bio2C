@@ -1,0 +1,1 @@
+Identify the genes that both interact with gene 'CEBPE' and participate in the 'miRNAs involved in DNA damage response' pathway.

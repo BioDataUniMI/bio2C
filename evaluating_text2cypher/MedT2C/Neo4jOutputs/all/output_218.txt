@@ -1,0 +1,20 @@
+{
+  "s.name": "Purpura, Thrombocytopenic, Idiopathic"
+}
+
+{
+  "s.name": "Dyspepsia"
+}
+
+{
+  "s.name": "Abdomen, Acute"
+}
+
+{
+  "s.name": "Williams Syndrome"
+}
+
+{
+  "s.name": "Abdominal Pain"
+}
+

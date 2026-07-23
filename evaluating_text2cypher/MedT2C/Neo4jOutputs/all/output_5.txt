@@ -1,0 +1,25 @@
+{
+  "g.name": "COL11A1",
+  "cc.name": "banded collagen fibril"
+}
+
+{
+  "g.name": "COL11A1",
+  "cc.name": "collagen type XI trimer"
+}
+
+{
+  "g.name": "COL11A1",
+  "cc.name": "complex of collagen trimers"
+}
+
+{
+  "g.name": "COL11A1",
+  "cc.name": "collagen trimer"
+}
+
+{
+  "g.name": "COL11A1",
+  "cc.name": "fibrillar collagen trimer"
+}
+

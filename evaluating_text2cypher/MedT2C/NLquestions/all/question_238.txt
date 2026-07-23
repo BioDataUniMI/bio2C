@@ -1,0 +1,1 @@
+Can you count all the compounds that downregulate genes that are also downregulated by 'Metformin'?

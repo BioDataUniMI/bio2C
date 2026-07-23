@@ -1,0 +1,6 @@
+Errore durante l'esecuzione della query:
+{neo4j_code: Neo.ClientError.Statement.SyntaxError} {message: Invalid input ' ': expected 't/T' (line 1, column 33 (offset: 32))
+"MATCH (d:Disease {name: 'Crohn's disease'})-[:DOWNREGULATES_DdG]->(g:Gene)<-[:UPREGULATES_CuG]-(c:Compound {name: 'Amodiaquine'}) MATCH (g)-[:PARTICIPATES_GpPW]->(p:Pathway) RETURN p.name LIMIT 5"
+                                 ^} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Invalid input ' ': expected 't/T' (line 1, column 33 (offset: 32))
+"MATCH (d:Disease {name: 'Crohn's disease'})-[:DOWNREGULATES_DdG]->(g:Gene)<-[:UPREGULATES_CuG]-(c:Compound {name: 'Amodiaquine'}) MATCH (g)-[:PARTICIPATES_GpPW]->(p:Pathway) RETURN p.name LIMIT 5"
+                                 ^}

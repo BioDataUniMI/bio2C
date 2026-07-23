@@ -1,0 +1,25 @@
+{
+  "c.name": "Leucovorin",
+  "s.name": "Pruritus"
+}
+
+{
+  "c.name": "Leucovorin",
+  "s.name": "Leukopenia"
+}
+
+{
+  "c.name": "Leucovorin",
+  "s.name": "Caecitis"
+}
+
+{
+  "c.name": "Leucovorin",
+  "s.name": "Chills"
+}
+
+{
+  "c.name": "Leucovorin",
+  "s.name": "Skin disorder"
+}
+

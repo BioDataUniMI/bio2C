@@ -1,0 +1,36 @@
+{
+  "g.name": "HTR7",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "ADRA1A",
+  "r.actions": [
+    "unknown"
+  ]
+}
+
+{
+  "g.name": "CYP2D6",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "ABCB1",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "HRH2",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+

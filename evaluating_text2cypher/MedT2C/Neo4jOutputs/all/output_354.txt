@@ -1,0 +1,12 @@
+{
+  "g.name": "AMPD2"
+}
+
+{
+  "g.name": "AMPD1"
+}
+
+{
+  "g.name": "AMPD3"
+}
+

@@ -1,0 +1,15 @@
+{
+  "d2.name": "primary biliary cirrhosis",
+  "r.source": "MEDLINE cooccurrence"
+}
+
+{
+  "d2.name": "membranous glomerulonephritis",
+  "r.source": "MEDLINE cooccurrence"
+}
+
+{
+  "d2.name": "liver cancer",
+  "r.source": "MEDLINE cooccurrence"
+}
+

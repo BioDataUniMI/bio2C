@@ -1,0 +1,25 @@
+{
+  "g.name": "PI4KB",
+  "max_affinity": 960.0
+}
+
+{
+  "g.name": "BMPR1B",
+  "max_affinity": 1000.0
+}
+
+{
+  "g.name": "LYN",
+  "max_affinity": 989.44429
+}
+
+{
+  "g.name": "MAP3K19",
+  "max_affinity": 980.0
+}
+
+{
+  "g.name": "FGFR1",
+  "max_affinity": 990.0
+}
+

@@ -1,0 +1,45 @@
+{
+  "c.name": "Codeine",
+  "g.name": "OPRM1",
+  "b.actions": [
+    "agonist",
+    "partial agonist"
+  ]
+}
+
+{
+  "c.name": "Pseudoephedrine",
+  "g.name": "ADRB1",
+  "b.actions": [
+    "agonist",
+    "partial agonist"
+  ]
+}
+
+{
+  "c.name": "Dezocine",
+  "g.name": "OPRM1",
+  "b.actions": [
+    "agonist",
+    "partial agonist"
+  ]
+}
+
+{
+  "c.name": "Ergotamine",
+  "g.name": "ADRA2B",
+  "b.actions": [
+    "agonist",
+    "partial agonist"
+  ]
+}
+
+{
+  "c.name": "Ketamine",
+  "g.name": "DRD2",
+  "b.actions": [
+    "agonist",
+    "partial agonist"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass) RETURN DISTINCT pc.class_type

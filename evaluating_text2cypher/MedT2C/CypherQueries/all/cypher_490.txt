@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[:BINDS_CbG]->(g:Gene) WITH c, COUNT(g) AS num_genes WHERE num_genes > 30 RETURN c.name, num_genes

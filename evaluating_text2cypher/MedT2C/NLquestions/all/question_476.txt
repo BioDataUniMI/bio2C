@@ -1,0 +1,1 @@
+List the compounds that bind with genes and have multiple associated actions (more than 2).

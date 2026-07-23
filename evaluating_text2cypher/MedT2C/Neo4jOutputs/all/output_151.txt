@@ -1,0 +1,25 @@
+{
+  "pc.name": "Nonsteroidal Anti-inflammatory Compounds",
+  "compound_count": 27
+}
+
+{
+  "pc.name": "Calcium Channel Antagonists",
+  "compound_count": 24
+}
+
+{
+  "pc.name": "Phenothiazines",
+  "compound_count": 21
+}
+
+{
+  "pc.name": "Dihydropyridines",
+  "compound_count": 19
+}
+
+{
+  "pc.name": "Sulfonylurea Compounds",
+  "compound_count": 14
+}
+

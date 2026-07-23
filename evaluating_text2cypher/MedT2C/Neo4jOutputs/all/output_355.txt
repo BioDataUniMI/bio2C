@@ -1,0 +1,30 @@
+{
+  "c1.name": "Doxorubicin",
+  "c2.name": "Epirubicin",
+  "shared_diseases": 14
+}
+
+{
+  "c1.name": "Epirubicin",
+  "c2.name": "Doxorubicin",
+  "shared_diseases": 14
+}
+
+{
+  "c1.name": "Prednisolone",
+  "c2.name": "Prednisone",
+  "shared_diseases": 12
+}
+
+{
+  "c1.name": "Prednisone",
+  "c2.name": "Prednisolone",
+  "shared_diseases": 12
+}
+
+{
+  "c1.name": "Betamethasone",
+  "c2.name": "Dexamethasone",
+  "shared_diseases": 11
+}
+

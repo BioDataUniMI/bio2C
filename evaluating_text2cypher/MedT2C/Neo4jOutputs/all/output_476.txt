@@ -1,0 +1,50 @@
+{
+  "c.name": "Nifedipine",
+  "g.name": "ABCB1",
+  "b.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Nifedipine",
+  "g.name": "CYP3A4",
+  "b.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Pindolol",
+  "g.name": "CYP2D6",
+  "b.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Isoniazid",
+  "g.name": "CYP2E1",
+  "b.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Colchicine",
+  "g.name": "CYP3A4",
+  "b.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+

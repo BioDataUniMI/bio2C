@@ -1,0 +1,20 @@
+{
+  "bp.name": "regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transiti..."
+}
+
+{
+  "bp.name": "negative regulation of protein serine/threonine kinase activity"
+}
+
+{
+  "bp.name": "regulation of protein kinase activity"
+}
+
+{
+  "bp.name": "regulation of phosphatidylinositol 3-kinase signaling"
+}
+
+{
+  "bp.name": "regulation of cyclin-dependent protein serine/threonine kinase activity"
+}
+

@@ -1,0 +1,20 @@
+{
+  "g.name": "NFKBIA"
+}
+
+{
+  "g.name": "GTF3C4"
+}
+
+{
+  "g.name": "IL16"
+}
+
+{
+  "g.name": "BIN1"
+}
+
+{
+  "g.name": "CBX1"
+}
+

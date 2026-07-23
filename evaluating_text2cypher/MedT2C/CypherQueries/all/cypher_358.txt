@@ -1,0 +1,1 @@
+MATCH (se:SideEffect {name: 'Nausea'})<-[:CAUSES_CcSE]-(c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE r.affinity_nM = 1000 RETURN g.name

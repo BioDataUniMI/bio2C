@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Tacrolimus'})-[r1:BINDS_CbG]->(g:Gene)<-[:ASSOCIATES_DaG]-(d:Disease) WHERE d.name CONTAINS 'chronic' RETURN g.name, d.name

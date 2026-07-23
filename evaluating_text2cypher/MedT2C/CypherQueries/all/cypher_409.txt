@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass) WHERE pc.class_type = 'Physiologic Effect' RETURN pc.name

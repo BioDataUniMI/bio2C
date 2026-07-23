@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound) WITH p, COUNT(c) AS compound_count RETURN AVG(compound_count) AS average_compound_count

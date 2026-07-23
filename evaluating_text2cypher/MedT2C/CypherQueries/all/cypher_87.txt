@@ -1,0 +1,1 @@
+MATCH (pc1:PharmacologicClass {name: 'Decreased Platelet Aggregation'})-[:INCLUDES_PCiC]->(c1:Compound)-[:BINDS_CbG]->(g:Gene)<-[:BINDS_CbG]-(c2:Compound)<-[:INCLUDES_PCiC]-(pc2:PharmacologicClass {name: 'Thyroxine'}), (g)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) RETURN DISTINCT bp.name

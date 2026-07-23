@@ -1,0 +1,1 @@
+MATCH (d:Disease {url: 'http://purl.obolibrary.org/obo/DOID_7693'}) RETURN d.name

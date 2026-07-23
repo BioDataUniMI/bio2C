@@ -1,0 +1,25 @@
+{
+  "c.name": "Hyoscyamine",
+  "g.name": "CHRM2"
+}
+
+{
+  "c.name": "Hyoscyamine",
+  "g.name": "CHRM3"
+}
+
+{
+  "c.name": "Hyoscyamine",
+  "g.name": "CHRM4"
+}
+
+{
+  "c.name": "Hyoscyamine",
+  "g.name": "CHRM1"
+}
+
+{
+  "c.name": "Propantheline",
+  "g.name": "CHRM2"
+}
+

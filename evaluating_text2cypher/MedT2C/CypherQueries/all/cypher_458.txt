@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'immune system'})<-[:LOCALIZES_DlA]-(d:Disease) RETURN d.name

@@ -1,0 +1,20 @@
+{
+  "d1.name": "type 2 diabetes mellitus"
+}
+
+{
+  "d1.name": "coronary artery disease"
+}
+
+{
+  "d1.name": "ovarian cancer"
+}
+
+{
+  "d1.name": "malignant glioma"
+}
+
+{
+  "d1.name": "amyotrophic lateral sclerosis"
+}
+

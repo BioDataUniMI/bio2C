@@ -1,0 +1,1 @@
+MATCH (a1:Anatomy {name: 'sense organ'})-[:EXPRESSES_AeG]->(g:Gene) MATCH (a2:Anatomy {name: 'lung'})-[:EXPRESSES_AeG]->(g) WHERE g.chromosome = 'Y' RETURN g.name AS GeneName

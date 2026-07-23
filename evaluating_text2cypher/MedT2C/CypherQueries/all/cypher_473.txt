@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[b:BINDS_CbG]->(g:Gene) WHERE b.affinity_nM < 0.3  RETURN g.name, MIN(b.affinity_nM) AS min_affinity

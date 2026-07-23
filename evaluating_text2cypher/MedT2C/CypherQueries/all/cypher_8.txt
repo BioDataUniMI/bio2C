@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:PARTICIPATES_GpCC]->(cc:CellularComponent) WITH g, COUNT(r) AS participationCount RETURN g.name, participationCount ORDER BY participationCount ASC, g.name ASC LIMIT 5

@@ -1,0 +1,1 @@
+MATCH (g:Gene {name:'TP53'})-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE bp.name CONTAINS 'stimulus' RETURN bp.name

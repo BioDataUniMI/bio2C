@@ -1,0 +1,20 @@
+{
+  "d.name": "meningioma"
+}
+
+{
+  "d.name": "degenerative disc disease"
+}
+
+{
+  "d.name": "bone cancer"
+}
+
+{
+  "d.name": "abdominal aortic aneurysm"
+}
+
+{
+  "d.name": "germ cell cancer"
+}
+

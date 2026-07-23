@@ -1,0 +1,40 @@
+{
+  "c.name": "Theophylline",
+  "g.name": "PDE3B",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Choline",
+  "g.name": "PDE3B",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Oxtriphylline",
+  "g.name": "PDE3B",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Dipyridamole",
+  "g.name": "PDE3B",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Papaverine",
+  "g.name": "PDE10A",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+

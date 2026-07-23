@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'osteoporosis'})<-[:TREATS_CtD]-(c:Compound)-[r:DOWNREGULATES_CdG]->(g:Gene) WHERE r.z_score < -10 RETURN g.name, r.z_score

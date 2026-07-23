@@ -1,0 +1,25 @@
+{
+  "g.name": "NLGN4Y",
+  "g.description": "neuroligin 4, Y-linked"
+}
+
+{
+  "g.name": "PRY",
+  "g.description": "PTPN13-like, Y-linked"
+}
+
+{
+  "g.name": "TSPY4",
+  "g.description": "testis specific protein, Y-linked 4"
+}
+
+{
+  "g.name": "DDX3Y",
+  "g.description": "DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked"
+}
+
+{
+  "g.name": "TBL1Y",
+  "g.description": "transducin (beta)-like 1, Y-linked"
+}
+

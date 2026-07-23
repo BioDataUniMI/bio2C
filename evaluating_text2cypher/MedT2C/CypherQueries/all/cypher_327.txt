@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name:'STAT3'})-[:REGULATES_GrG]->(g2:Gene) WHERE g2.name STARTS WITH 'HIST' RETURN g2.name

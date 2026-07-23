@@ -1,0 +1,25 @@
+{
+  "g2.name": "HMGN3",
+  "g2.chromosome": "6"
+}
+
+{
+  "g2.name": "HDAC2",
+  "g2.chromosome": "6"
+}
+
+{
+  "g2.name": "HIST1H1D",
+  "g2.chromosome": "6"
+}
+
+{
+  "g2.name": "SRF",
+  "g2.chromosome": "6"
+}
+
+{
+  "g2.name": "HIST1H1E",
+  "g2.chromosome": "6"
+}
+

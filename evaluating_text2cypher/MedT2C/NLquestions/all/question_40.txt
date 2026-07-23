@@ -1,0 +1,1 @@
+Find diseases associated with genes that are participating either in the 'Wnt signaling pathway' or in the 'Notch signaling pathway'.

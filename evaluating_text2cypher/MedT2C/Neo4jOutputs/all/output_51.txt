@@ -1,0 +1,20 @@
+{
+  "se.name": "Acute coronary syndrome"
+}
+
+{
+  "se.name": "Acute leukaemia"
+}
+
+{
+  "se.name": "Acute promyelocytic leukaemia"
+}
+
+{
+  "se.name": "Acute cardiac toxicity"
+}
+
+{
+  "se.name": "Acute myeloid leukaemia"
+}
+

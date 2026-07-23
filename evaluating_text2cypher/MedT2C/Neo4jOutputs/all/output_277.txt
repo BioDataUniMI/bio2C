@@ -1,0 +1,20 @@
+{
+  "g.name": "ORC3"
+}
+
+{
+  "g.name": "RPA1"
+}
+
+{
+  "g.name": "POLD1"
+}
+
+{
+  "g.name": "SMC3"
+}
+
+{
+  "g.name": "SMC1A"
+}
+

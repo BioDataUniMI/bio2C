@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'HIST1H4F'})-[:PARTICIPATES_GpCC]->(cc:CellularComponent), (g1)-[:PARTICIPATES_GpPW]->(pw:Pathway), (g2:Gene)-[:PARTICIPATES_GpCC]->(cc) WHERE (g2)-[:PARTICIPATES_GpPW]->(pw) AND g2.chromosome = '1' RETURN DISTINCT g2.name

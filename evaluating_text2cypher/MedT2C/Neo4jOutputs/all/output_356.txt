@@ -1,0 +1,25 @@
+{
+  "g2.name": "PRKDC",
+  "r.method": "measured"
+}
+
+{
+  "g2.name": "CCNE2",
+  "r.method": "measured"
+}
+
+{
+  "g2.name": "KAT6A",
+  "r.method": "measured"
+}
+
+{
+  "g2.name": "ZNF623",
+  "r.method": "measured"
+}
+
+{
+  "g2.name": "HNF4G",
+  "r.method": "measured"
+}
+

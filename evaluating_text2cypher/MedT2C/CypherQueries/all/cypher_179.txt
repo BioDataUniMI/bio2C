@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[r:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(:Pathway {name: 'MAPK Signaling Pathway'}) RETURN COUNT(r)

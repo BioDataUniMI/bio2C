@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'hypertension'})-[:DOWNREGULATES_DdG]->(g:Gene) RETURN g.name

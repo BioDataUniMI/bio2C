@@ -1,0 +1,20 @@
+{
+  "d.name": "Kawasaki disease"
+}
+
+{
+  "d.name": "colon cancer"
+}
+
+{
+  "d.name": "hematologic cancer"
+}
+
+{
+  "d.name": "malaria"
+}
+
+{
+  "d.name": "skin cancer"
+}
+

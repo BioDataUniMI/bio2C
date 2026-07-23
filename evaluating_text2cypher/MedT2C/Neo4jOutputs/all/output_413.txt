@@ -1,0 +1,36 @@
+{
+  "g.name": "CYP11A1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "CYP1A1",
+  "r.actions": [
+    "inducer"
+  ]
+}
+
+{
+  "g.name": "ABCG2",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "ABCB1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "CYP2C9",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+

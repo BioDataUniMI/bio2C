@@ -1,0 +1,1 @@
+MATCH (s:Symptom {name: 'Fever'})<-[:PRESENTS_DpS]-(d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy {name: 'superior mesenteric artery'}) RETURN d.name

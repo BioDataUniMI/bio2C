@@ -1,0 +1,1 @@
+Can you find compounds that downregulate genes downregulated also by 'Metformin', having a 'z_score' for the dowregulation with 'Metformin' below -6 (z_score < -6)?

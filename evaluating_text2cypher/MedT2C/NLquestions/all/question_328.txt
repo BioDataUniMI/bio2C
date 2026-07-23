@@ -1,0 +1,1 @@
+List the actions associated with the binding of genes on chromosome 'X' bound by compounds that palliate the disease 'bipolar disorder'.

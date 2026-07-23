@@ -1,0 +1,16 @@
+{
+  "g.name": "ACE2"
+}
+
+{
+  "g.name": "ABCB1"
+}
+
+{
+  "g.name": "ACE"
+}
+
+{
+  "g.name": "SLC15A1"
+}
+

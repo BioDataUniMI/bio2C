@@ -1,0 +1,1 @@
+Which diseases present both 'Abdominal Pain' and 'Vomiting' as symptoms?

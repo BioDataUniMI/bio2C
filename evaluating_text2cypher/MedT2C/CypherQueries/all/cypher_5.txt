@@ -1,0 +1,1 @@
+MATCH (cc:CellularComponent)<-[:PARTICIPATES_GpCC]-(g:Gene) WHERE (g)<-[:UPREGULATES_AuG]-(:Anatomy {name: 'ear'}) OR (g)<-[:EXPRESSES_AeG]-(:Anatomy {name: 'sense organ'}) AND cc.name CONTAINS 'collagen' RETURN g.name, cc.name

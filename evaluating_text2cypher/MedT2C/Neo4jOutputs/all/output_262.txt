@@ -1,0 +1,20 @@
+{
+  "g.name": "NAMPT"
+}
+
+{
+  "g.name": "LEPR"
+}
+
+{
+  "g.name": "FGF2"
+}
+
+{
+  "g.name": "MTNR1B"
+}
+
+{
+  "g.name": "ADIPOQ"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WHERE d.name CONTAINS 'diabete' RETURN d.name, COLLECT(s.name)

@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'polycystic ovary syndrome'})<-[:TREATS_CtD]-(c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE 'substrate' IN r.actions RETURN c.name, g.name, r.actions

@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Thiazolidinediones'})-[:INCLUDES_PCiC]->(c:Compound)-[:DOWNREGULATES_CdG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'sexual reproduction'}) RETURN g.name

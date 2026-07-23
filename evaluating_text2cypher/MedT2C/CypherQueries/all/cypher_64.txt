@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'common carotid artery plus branches'})<-[:LOCALIZES_DlA]->(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WHERE s.name = 'Weight Gain' OR s.name = 'Albuminuria' RETURN d.name AS disease_name

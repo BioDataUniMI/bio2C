@@ -1,0 +1,20 @@
+{
+  "g.name": "RPS4Y1",
+  "pathway_count": 25
+}
+
+{
+  "g.name": "KDM5D",
+  "pathway_count": 2
+}
+
+{
+  "g.name": "SRY",
+  "pathway_count": 1
+}
+
+{
+  "g.name": "EIF1AY",
+  "pathway_count": 1
+}
+

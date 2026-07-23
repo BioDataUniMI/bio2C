@@ -1,0 +1,25 @@
+{
+  "g2.name": "CALM1",
+  "g2.chromosome": "14"
+}
+
+{
+  "g2.name": "PGF",
+  "g2.chromosome": "14"
+}
+
+{
+  "g2.name": "HIF1A",
+  "g2.chromosome": "14"
+}
+
+{
+  "g2.name": "HSP90AA1",
+  "g2.chromosome": "14"
+}
+
+{
+  "g2.name": "GNG2",
+  "g2.chromosome": "14"
+}
+

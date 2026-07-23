@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Antrafenine'})<-[COVARIES_GcG]-(c2:Compound) RETURN c2.name

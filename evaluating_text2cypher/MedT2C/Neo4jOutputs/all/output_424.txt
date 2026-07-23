@@ -1,0 +1,20 @@
+{
+  "g2.name": "KNG1"
+}
+
+{
+  "g2.name": "HSPD1"
+}
+
+{
+  "g2.name": "RUVBL2"
+}
+
+{
+  "g2.name": "CEBPA"
+}
+
+{
+  "g2.name": "MYC"
+}
+

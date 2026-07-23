@@ -1,0 +1,25 @@
+{
+  "c.name": "Prednisolone",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Calcitriol",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Cholecalciferol",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Prednisone",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Acitretin",
+  "r.source": "PharmacotherapyDB"
+}
+

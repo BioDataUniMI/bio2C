@@ -1,0 +1,5 @@
+{
+  "cc.identifier": "GO:0042383",
+  "cc.url": "http://purl.obolibrary.org/obo/GO_0042383"
+}
+

@@ -1,0 +1,10 @@
+{
+  "g.name": "SUV39H1",
+  "bp.name": "cellular response to DNA damage stimulus"
+}
+
+{
+  "g.name": "SUV39H1",
+  "bp.name": "chromatin silencing at rDNA"
+}
+

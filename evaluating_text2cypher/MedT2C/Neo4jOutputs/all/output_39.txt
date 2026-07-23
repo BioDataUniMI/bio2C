@@ -1,0 +1,20 @@
+{
+  "g.name": "SLC9A1"
+}
+
+{
+  "g.name": "ALOX15"
+}
+
+{
+  "g.name": "TIMP4"
+}
+
+{
+  "g.name": "SELENBP1"
+}
+
+{
+  "g.name": "GRK4"
+}
+

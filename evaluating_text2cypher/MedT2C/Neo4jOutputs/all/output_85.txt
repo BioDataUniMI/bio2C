@@ -1,0 +1,20 @@
+{
+  "bp.name": "monocarboxylic acid metabolic process"
+}
+
+{
+  "bp.name": "monocarboxylic acid transport"
+}
+
+{
+  "bp.name": "organic hydroxy compound metabolic process"
+}
+
+{
+  "bp.name": "organic acid transport"
+}
+
+{
+  "bp.name": "sodium-independent organic anion transport"
+}
+

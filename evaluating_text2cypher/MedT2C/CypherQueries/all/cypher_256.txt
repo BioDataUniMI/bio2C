@@ -1,0 +1,1 @@
+MATCH (g:Gene {name:'MCM9'})-[:COVARIES_GcG]->(g2:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN mf.name

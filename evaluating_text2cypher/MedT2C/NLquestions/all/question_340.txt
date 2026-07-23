@@ -1,0 +1,1 @@
+How many genes regulate the gene 'MYC' and are also regulated by 'IL6ST'?

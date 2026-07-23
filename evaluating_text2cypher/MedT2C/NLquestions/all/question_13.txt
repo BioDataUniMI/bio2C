@@ -1,0 +1,1 @@
+Retrieve genes whose names contain 'USP', such that they interact with a gene that participates in both the 'Cell Cycle' and 'DNA Repair' pathways.

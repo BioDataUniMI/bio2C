@@ -1,0 +1,25 @@
+{
+  "c.name": "Ziprasidone",
+  "num_genes": 34
+}
+
+{
+  "c.name": "Pazopanib",
+  "num_genes": 40
+}
+
+{
+  "c.name": "Ruxolitinib",
+  "num_genes": 43
+}
+
+{
+  "c.name": "Verapamil",
+  "num_genes": 41
+}
+
+{
+  "c.name": "Aripiprazole",
+  "num_genes": 36
+}
+

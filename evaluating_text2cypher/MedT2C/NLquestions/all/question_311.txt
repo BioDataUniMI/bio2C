@@ -1,0 +1,1 @@
+Which genes are downregulated by 'SRRT' and participate in the biological process 'immune response-regulating signaling pathway'?

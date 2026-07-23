@@ -1,0 +1,1 @@
+MATCH (c1:Compound)-[r1:UPREGULATES_CuG]->(g:Gene {identifier: 51026})<-[r2:DOWNREGULATES_CdG]-(c2:Compound) WHERE c1.name STARTS WITH 'P' AND c2.name STARTS WITH 'P' RETURN c1.name,c2.name

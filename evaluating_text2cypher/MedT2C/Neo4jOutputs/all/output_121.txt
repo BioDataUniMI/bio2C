@@ -1,0 +1,4 @@
+{
+  "pharmacologic_class_count": 18
+}
+

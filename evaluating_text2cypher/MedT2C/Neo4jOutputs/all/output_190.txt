@@ -1,0 +1,25 @@
+{
+  "g.name": "HTR1A",
+  "mf.name": "G-protein coupled serotonin receptor activity"
+}
+
+{
+  "g.name": "HTR1A",
+  "mf.name": "G-protein coupled receptor activity"
+}
+
+{
+  "g.name": "HTR1A",
+  "mf.name": "serotonin receptor activity"
+}
+
+{
+  "g.name": "HTR1A",
+  "mf.name": "G-protein coupled amine receptor activity"
+}
+
+{
+  "g.name": "ADRB2",
+  "mf.name": "bradykinin receptor binding"
+}
+

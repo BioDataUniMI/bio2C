@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:PALLIATES_CpD]-(c:Compound), (d)-[r:UPREGULATES_DuG]->(g:Gene) WHERE r.log2_fold_change > 1 RETURN c.name, d.name, r.log2_fold_change

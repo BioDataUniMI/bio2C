@@ -1,0 +1,1 @@
+Which genes interact with the gene 'PTEN' and participate in the same biological process with it, having more than 2 interaction sources including 'Lit-BM-13'?

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'FBXL12'})-[:REGULATES_GrG]->(g2:Gene)-[r:PARTICIPATES_GpCC]->(cc:CellularComponent {name: 'proteasome accessory complex'}) RETURN g2.name

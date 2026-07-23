@@ -1,0 +1,45 @@
+{
+  "g1.name": "LIG1",
+  "g2.name": "LBR",
+  "r.subtypes": [
+    "knockdown downregulates",
+    "overexpression downregulates"
+  ]
+}
+
+{
+  "g1.name": "LIG1",
+  "g2.name": "CDC20",
+  "r.subtypes": [
+    "knockdown downregulates",
+    "overexpression downregulates"
+  ]
+}
+
+{
+  "g1.name": "LIG1",
+  "g2.name": "RRP1B",
+  "r.subtypes": [
+    "knockdown downregulates",
+    "overexpression downregulates"
+  ]
+}
+
+{
+  "g1.name": "LIG1",
+  "g2.name": "PCNA",
+  "r.subtypes": [
+    "knockdown downregulates",
+    "overexpression downregulates"
+  ]
+}
+
+{
+  "g1.name": "LIG1",
+  "g2.name": "TUBB6",
+  "r.subtypes": [
+    "knockdown downregulates",
+    "overexpression downregulates"
+  ]
+}
+

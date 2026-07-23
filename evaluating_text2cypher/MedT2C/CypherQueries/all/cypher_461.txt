@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE 'inhibitor' IN r.actions AND g.name CONTAINS 'PDE' RETURN c.name, g.name, r.actions

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'BRCA1'})-[:INTERACTS_GiG]->(g2:Gene)<-[:INTERACTS_GiG]-(g3:Gene {name: 'BRCA2'}) RETURN g2.name

@@ -1,0 +1,1 @@
+List the diseases that localize to 'gonad', ordered by the highest number of presented symptoms.

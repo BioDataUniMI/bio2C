@@ -1,0 +1,1 @@
+Return distinct genes that bind compounds included in the pharmacologic class 'Penicillins'.

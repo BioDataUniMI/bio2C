@@ -1,0 +1,20 @@
+{
+  "bp.name": "unsaturated fatty acid metabolic process"
+}
+
+{
+  "bp.name": "response to drug"
+}
+
+{
+  "bp.name": "arachidonic acid metabolic process"
+}
+
+{
+  "bp.name": "response to xenobiotic stimulus"
+}
+
+{
+  "bp.name": "oxidation-reduction process"
+}
+

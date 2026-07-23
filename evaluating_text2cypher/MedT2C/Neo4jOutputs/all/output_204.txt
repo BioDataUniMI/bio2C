@@ -1,0 +1,7 @@
+{
+  "c.name": "Acetylsalicylic acid",
+  "r.actions": [
+    "acetylation"
+  ]
+}
+

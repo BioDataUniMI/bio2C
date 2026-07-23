@@ -1,0 +1,20 @@
+{
+  "bp.name": "RNA splicing"
+}
+
+{
+  "bp.name": "mRNA splicing, via spliceosome"
+}
+
+{
+  "bp.name": "RNA splicing, via transesterification reactions"
+}
+
+{
+  "bp.name": "RNA processing"
+}
+
+{
+  "bp.name": "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile"
+}
+

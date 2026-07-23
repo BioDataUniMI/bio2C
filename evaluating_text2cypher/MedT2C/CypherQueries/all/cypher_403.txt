@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'atopic dermatitis'})<-[:TREATS_CtD]-(c:Compound), (d)-[:LOCALIZES_DlA]->(a:Anatomy {name: 'sweat gland'}) RETURN c.name

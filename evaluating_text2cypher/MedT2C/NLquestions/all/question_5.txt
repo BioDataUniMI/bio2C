@@ -1,0 +1,1 @@
+List cellular components whose name contains 'collagene' in which the genes which are either upregulated in the 'ear' or expressed in the 'sense organ' participate.

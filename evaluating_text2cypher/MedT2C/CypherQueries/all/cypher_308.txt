@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'AKT1'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction)<-[:PARTICIPATES_GpMF]-(g2:Gene) WHERE g2.name STARTS WITH 'ANX' RETURN g2.name

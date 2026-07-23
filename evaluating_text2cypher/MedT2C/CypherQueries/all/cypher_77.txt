@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Nelfinavir'})-[:DOWNREGULATES_CdG]->(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway {name: 'Carbohydrate metabolism'}) MATCH (g)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN mf.name

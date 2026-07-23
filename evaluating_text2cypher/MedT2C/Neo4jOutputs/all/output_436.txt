@@ -1,0 +1,36 @@
+{
+  "g2.name": "SLC7A5",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "r.pubmed_ids": [
+    "11011012",
+    "15200428"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "r.pubmed_ids": [
+    "8398701"
+  ]
+}
+

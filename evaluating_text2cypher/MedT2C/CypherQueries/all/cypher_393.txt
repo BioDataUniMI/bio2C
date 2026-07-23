@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Ziprasidone'})-[:BINDS_CbG]->(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'aromatase activity'}) RETURN g.name

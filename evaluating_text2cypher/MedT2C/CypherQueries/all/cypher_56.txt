@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[:TREATS_CtD]->(d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy) WHERE a.name = 'cardiovascular system' OR a.name = 'respiratory system' RETURN c.name

@@ -1,0 +1,1 @@
+Which diseases present the similar symptom with the disease 'hypertension'? List the distinct diseases whose names contains 'malignant'.

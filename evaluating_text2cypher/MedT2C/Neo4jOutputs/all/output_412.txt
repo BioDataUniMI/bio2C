@@ -1,0 +1,25 @@
+{
+  "g.name": "CXCL8",
+  "r.log2_fold_change": 0.27253
+}
+
+{
+  "g.name": "SLC16A12",
+  "r.log2_fold_change": 0.2211
+}
+
+{
+  "g.name": "OR2B3",
+  "r.log2_fold_change": 0.21673
+}
+
+{
+  "g.name": "CCL3",
+  "r.log2_fold_change": 0.21653
+}
+
+{
+  "g.name": "IL1RN",
+  "r.log2_fold_change": 0.21429
+}
+

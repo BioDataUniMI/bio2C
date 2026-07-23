@@ -1,0 +1,20 @@
+{
+  "g1.name": "SNX17"
+}
+
+{
+  "g1.name": "FAS"
+}
+
+{
+  "g1.name": "ERBB3"
+}
+
+{
+  "g1.name": "AHR"
+}
+
+{
+  "g1.name": "ESR1"
+}
+

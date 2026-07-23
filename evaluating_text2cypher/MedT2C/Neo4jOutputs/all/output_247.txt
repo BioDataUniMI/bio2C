@@ -1,0 +1,25 @@
+{
+  "g2.name": "EIF4EBP1",
+  "g2.chromosome": "8"
+}
+
+{
+  "g2.name": "LYPLA1",
+  "g2.chromosome": "8"
+}
+
+{
+  "g2.name": "FABP5",
+  "g2.chromosome": "8"
+}
+
+{
+  "g2.name": "DECR1",
+  "g2.chromosome": "8"
+}
+
+{
+  "g2.name": "POLR3D",
+  "g2.chromosome": "8"
+}
+

@@ -1,0 +1,1 @@
+MATCH (:Disease {name: 'osteoporosis'})<-[:TREATS_CtD]-(c:Compound)-[r:DOWNREGULATES_CdG]->(g:Gene) WHERE r.z_score > -5 WITH g, MAX(r.z_score) AS max_z_score RETURN g.name, max_z_score ORDER BY max_z_score DESC, g.name ASC LIMIT 5

@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:TREATS_CtD]-(c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE d.name CONTAINS 'cancer' AND r.affinity_nM < 0.5 RETURN c.name, g.name, d.name, r.affinity_nM

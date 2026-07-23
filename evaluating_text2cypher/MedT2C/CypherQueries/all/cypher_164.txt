@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'EGFR'})-[:PARTICIPATES_GpPW]->(p:Pathway)<-[:PARTICIPATES_GpPW]-(g2:Gene {name: 'KRAS'}) RETURN p.name

@@ -1,0 +1,1 @@
+MATCH (:Disease {name: 'systemic scleroderma'})<-[:TREATS_CtD]-(c:Compound)-[r:DOWNREGULATES_CdG]->(g:Gene) WHERE r.z_score > -5 WITH g, MIN(r.z_score) AS min_z_score RETURN g.name, min_z_score ORDER BY min_z_score ASC, g.name ASC LIMIT 5

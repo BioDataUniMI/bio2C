@@ -1,0 +1,20 @@
+{
+  "mf.name": "GTP binding"
+}
+
+{
+  "mf.name": "GTPase activity"
+}
+
+{
+  "mf.name": "Rab GTPase binding"
+}
+
+{
+  "mf.name": "small GTPase binding"
+}
+
+{
+  "mf.name": "GTPase binding"
+}
+

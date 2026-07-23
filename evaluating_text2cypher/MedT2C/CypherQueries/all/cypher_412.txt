@@ -1,0 +1,1 @@
+MATCH (d:Disease {name:'abdominal aortic aneurysm'})-[r:UPREGULATES_DuG]->(g:Gene) WHERE r.log2_fold_change > 0.2 RETURN g.name, r.log2_fold_change ORDER BY r.log2_fold_change DESC

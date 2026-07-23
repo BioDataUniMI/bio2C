@@ -1,0 +1,39 @@
+{
+  "c.name": "Fluphenazine",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Bupropion",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Erythromycin",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Albendazole",
+  "r.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Carbamazepine",
+  "r.actions": [
+    "inducer",
+    "inhibitor",
+    "substrate"
+  ]
+}
+

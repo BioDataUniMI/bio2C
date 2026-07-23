@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'rheumatoid arthritis'})<-[r1:TREATS_CtD|PALLIATES_CpD]-(c:Compound) RETURN c.name, TYPE(r1)

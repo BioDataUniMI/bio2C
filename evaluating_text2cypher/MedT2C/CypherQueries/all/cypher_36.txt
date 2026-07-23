@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE NOT (g)-[:INTERACTS_GiG]->(:Gene {chromosome: 'X'}) RETURN g.name AS gene

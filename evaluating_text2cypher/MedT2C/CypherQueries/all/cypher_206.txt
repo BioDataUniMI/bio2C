@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'CDH1'})-[:PARTICIPATES_GpCC]->(cc:CellularComponent) RETURN cc.name

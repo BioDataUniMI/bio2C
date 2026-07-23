@@ -1,0 +1,1 @@
+MATCH (se:SideEffect {name: 'Insomnia'})<-[:CAUSES_CcSE]-(c:Compound) WHERE c.name ENDS WITH 'amol' RETURN c.name

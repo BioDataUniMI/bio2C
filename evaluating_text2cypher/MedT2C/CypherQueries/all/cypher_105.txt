@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'lung cancer'})-[c:DOWNREGULATES_DdG]->(:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess)<-[:PARTICIPATES_GpBP]-(:Gene)<-[:UPREGULATES_DuG]-(d2:Disease) RETURN COUNT(d2) AS num_diseases

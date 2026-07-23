@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Tirofiban'})-[:TREATS_CtD]->(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WITH d,COUNT(s) as s_count RETURN d.name,s_count ORDER BY s_count ASC

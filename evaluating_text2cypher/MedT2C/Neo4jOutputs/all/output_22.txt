@@ -1,0 +1,25 @@
+{
+  "g.name": "FOS",
+  "expression_count": 98
+}
+
+{
+  "g.name": "IGF1",
+  "expression_count": 90
+}
+
+{
+  "g.name": "AKT1",
+  "expression_count": 88
+}
+
+{
+  "g.name": "RPL34",
+  "expression_count": 88
+}
+
+{
+  "g.name": "CALM1",
+  "expression_count": 87
+}
+

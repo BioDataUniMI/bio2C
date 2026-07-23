@@ -1,0 +1,20 @@
+{
+  "disease_name": "obesity"
+}
+
+{
+  "disease_name": "type 2 diabetes mellitus"
+}
+
+{
+  "disease_name": "chronic kidney failure"
+}
+
+{
+  "disease_name": "type 1 diabetes mellitus"
+}
+
+{
+  "disease_name": "metabolic syndrome X"
+}
+

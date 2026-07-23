@@ -1,0 +1,12 @@
+{
+  "c.name": "Adenosine triphosphate",
+  "r.actions": null
+}
+
+{
+  "c.name": "Arsenic trioxide",
+  "r.actions": [
+    "inducer"
+  ]
+}
+

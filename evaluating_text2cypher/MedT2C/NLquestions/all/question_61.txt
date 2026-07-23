@@ -1,0 +1,1 @@
+Look for the average number of diseases treated by compounds included in each pharmacologic class.

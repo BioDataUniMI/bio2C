@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:INTERACTS_GiG]->(:Gene {name: 'MYC'})-[:PARTICIPATES_GpPW]->(p:Pathway) WHERE p.name = 'Cell Cycle' OR p.name = 'Wnt Signaling' RETURN g.name

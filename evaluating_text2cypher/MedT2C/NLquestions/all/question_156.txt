@@ -1,0 +1,1 @@
+List the pathways participated in by genes associated with the disease 'prostate cancer', considering only pathways with at least 40 such genes. Return the pathway name and the number of distinct associated genes, ordered by gene count in descending order.

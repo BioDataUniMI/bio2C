@@ -1,0 +1,1 @@
+Find genes that interact with the gene 'BRCA1' and participate in the molecular function named 'hormone receptor binding' that also 'BRCA1' is known to be participating in.

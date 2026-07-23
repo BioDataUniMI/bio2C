@@ -1,0 +1,1 @@
+List the molecular functions in which genes that are downregulated by the compound 'Nelfinavir' and participate in the pathway 'Carbohydrate metabolism' participate.

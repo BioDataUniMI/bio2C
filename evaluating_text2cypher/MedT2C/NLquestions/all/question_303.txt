@@ -1,0 +1,1 @@
+Identify the diseases whose name include 'malignant' that share the same symptoms of 'migraine'.

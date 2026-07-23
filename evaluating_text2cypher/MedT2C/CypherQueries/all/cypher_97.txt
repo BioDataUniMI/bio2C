@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r1:BINDS_CbG]->(g:Gene {identifier: 3362}), (c)-[:PALLIATES_CpD]->(d:Disease) WHERE d.name CONTAINS 'Tourette' RETURN g.name, c.name, d.name

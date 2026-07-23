@@ -1,0 +1,30 @@
+{
+  "c1.name": "Conjugated Estrogens",
+  "c2.name": "Dexamethasone",
+  "d1.name": "breast cancer"
+}
+
+{
+  "c1.name": "Conjugated Estrogens",
+  "c2.name": "Medroxyprogesterone Acetate",
+  "d1.name": "breast cancer"
+}
+
+{
+  "c1.name": "Conjugated Estrogens",
+  "c2.name": "Megestrol acetate",
+  "d1.name": "breast cancer"
+}
+
+{
+  "c1.name": "Conjugated Estrogens",
+  "c2.name": "Methyltestosterone",
+  "d1.name": "breast cancer"
+}
+
+{
+  "c1.name": "Conjugated Estrogens",
+  "c2.name": "Estradiol valerate/Dienogest",
+  "d1.name": "breast cancer"
+}
+

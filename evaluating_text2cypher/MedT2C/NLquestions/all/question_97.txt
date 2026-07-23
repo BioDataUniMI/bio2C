@@ -1,0 +1,1 @@
+List the names of compounds that bind to gene whose identifier is 3362 and also the diseases name that they palliate contain the word 'Tourette'.

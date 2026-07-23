@@ -1,0 +1,25 @@
+{
+  "c.name": "Docetaxel",
+  "r.affinity_nM": 0.82
+}
+
+{
+  "c.name": "Vandetanib",
+  "r.affinity_nM": 63.40357
+}
+
+{
+  "c.name": "Afatinib",
+  "r.affinity_nM": 0.20177
+}
+
+{
+  "c.name": "Bosutinib",
+  "r.affinity_nM": 57.343
+}
+
+{
+  "c.name": "Erlotinib",
+  "r.affinity_nM": 5.8230900000000005
+}
+

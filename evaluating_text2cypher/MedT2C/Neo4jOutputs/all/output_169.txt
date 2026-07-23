@@ -1,0 +1,20 @@
+{
+  "g2.name": "HSP90B1"
+}
+
+{
+  "g2.name": "FKBP8"
+}
+
+{
+  "g2.name": "VAPA"
+}
+
+{
+  "g2.name": "ITGA5"
+}
+
+{
+  "g2.name": "PTPN12"
+}
+

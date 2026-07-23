@@ -1,0 +1,1 @@
+Retrieve distinct blood-related anatomical locations that diseases presenting the symptom 'Fever' localize to.

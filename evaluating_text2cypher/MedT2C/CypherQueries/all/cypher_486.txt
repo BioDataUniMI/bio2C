@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'hematologic cancer'})<-[:TREATS_CtD]-(c:Compound) WHERE NOT (c)-[:CAUSES_CcSE]->(:SideEffect) RETURN c.name

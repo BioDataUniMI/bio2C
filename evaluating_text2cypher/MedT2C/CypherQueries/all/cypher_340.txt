@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'MYC'})-[:REGULATES_GrG]->(g2:Gene)<-[:REGULATES_GrG]-(g3:Gene {name: 'IL6ST'}) RETURN COUNT(g2)

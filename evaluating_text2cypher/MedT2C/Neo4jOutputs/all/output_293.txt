@@ -1,0 +1,20 @@
+{
+  "c2.name": "Doxorubicin"
+}
+
+{
+  "c2.name": "Bleomycin"
+}
+
+{
+  "c2.name": "Anagrelide"
+}
+
+{
+  "c2.name": "Imatinib"
+}
+
+{
+  "c2.name": "Lenalidomide"
+}
+

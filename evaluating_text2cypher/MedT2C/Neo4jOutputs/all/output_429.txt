@@ -1,0 +1,20 @@
+{
+  "g.name": "DNASE1L3"
+}
+
+{
+  "g.name": "ACIN1"
+}
+
+{
+  "g.name": "VIM"
+}
+
+{
+  "g.name": "HTRA2"
+}
+
+{
+  "g.name": "PRKCQ"
+}
+

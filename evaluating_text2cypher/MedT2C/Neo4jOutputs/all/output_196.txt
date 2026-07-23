@@ -1,0 +1,20 @@
+{
+  "g.name": "CHRNB2"
+}
+
+{
+  "g.name": "CHRNA4"
+}
+
+{
+  "g.name": "CHGB"
+}
+
+{
+  "g.name": "CHRM1"
+}
+
+{
+  "g.name": "CHRNA7"
+}
+

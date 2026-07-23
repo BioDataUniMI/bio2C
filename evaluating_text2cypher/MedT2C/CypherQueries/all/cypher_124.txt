@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass {name: 'Benzothiazoles'})-[:INCLUDES_PCiC]->(c:Compound)-[:CAUSES_CcSE]->(s:SideEffect {identifier: 'C0030193'}) RETURN c.name

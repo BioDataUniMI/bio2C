@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'regulation of heart contraction'})<-[:PARTICIPATES_GpBP]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN COUNT(DISTINCT mf) AS distinct_molecular_functions

@@ -1,0 +1,20 @@
+{
+  "g.name": "CNDP2"
+}
+
+{
+  "g.name": "ZDHHC6"
+}
+
+{
+  "g.name": "S100A6"
+}
+
+{
+  "g.name": "CAST"
+}
+
+{
+  "g.name": "GJA1"
+}
+

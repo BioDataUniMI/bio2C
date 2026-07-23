@@ -1,0 +1,1 @@
+Find the compounds that bind to the gene with name 'CYP3A4' and belong to the pharmacologic class 'Central Nervous System Stimulation'.

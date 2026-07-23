@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:INTERACTS_GiG]->(g2:Gene {name:'GNA12'} ) MATCH (g1)-[:PARTICIPATES_GpPW]->(pw:Pathway)<-[:PARTICIPATES_GpPW]-(g2) RETURN g1.name, pw.name

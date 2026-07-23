@@ -1,0 +1,27 @@
+{
+  "g.name": "SPTLC1",
+  "r.actions": null
+}
+
+{
+  "g.name": "SARS",
+  "r.actions": null
+}
+
+{
+  "g.name": "SPTLC2",
+  "r.actions": null
+}
+
+{
+  "g.name": "CBS",
+  "r.actions": null
+}
+
+{
+  "g.name": "SLC16A10",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+

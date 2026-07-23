@@ -1,0 +1,25 @@
+{
+  "c2.name": "Simvastatin",
+  "r.z_score": -6.671
+}
+
+{
+  "c2.name": "Clofarabine",
+  "r.z_score": -6.671
+}
+
+{
+  "c2.name": "Erlotinib",
+  "r.z_score": -6.671
+}
+
+{
+  "c2.name": "Nitazoxanide",
+  "r.z_score": -6.671
+}
+
+{
+  "c2.name": "Raloxifene",
+  "r.z_score": -6.671
+}
+

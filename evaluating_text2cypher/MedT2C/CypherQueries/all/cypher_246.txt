@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'AKT1'})<-[r:BINDS_CbG]-(c:Compound) RETURN c.name, r.actions

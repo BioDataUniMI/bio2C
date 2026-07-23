@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Oxazolidinones'})-[:INCLUDES_PCiC]->(c:Compound)-[:UPREGULATES_CuG]->(g:Gene) RETURN g.name

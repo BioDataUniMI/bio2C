@@ -1,0 +1,25 @@
+{
+  "g.name": "RPL34",
+  "ig.name": "PSTPIP1"
+}
+
+{
+  "g.name": "RPL34",
+  "ig.name": "CNBP"
+}
+
+{
+  "g.name": "RPL34",
+  "ig.name": "DDX56"
+}
+
+{
+  "g.name": "RPL34",
+  "ig.name": "UBC"
+}
+
+{
+  "g.name": "RPL34",
+  "ig.name": "UBL4A"
+}
+

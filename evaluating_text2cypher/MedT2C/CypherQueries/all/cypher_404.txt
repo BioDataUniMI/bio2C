@@ -1,0 +1,1 @@
+MATCH (s:Symptom {name: 'Fatigue'})<-[:PRESENTS_DpS]-(d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy {name: 'vertebral column'}) RETURN d.name

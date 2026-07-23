@@ -1,0 +1,25 @@
+{
+  "g.name": "GNB5",
+  "max_z_score": -4.054
+}
+
+{
+  "g.name": "PRPF4",
+  "max_z_score": -4.083
+}
+
+{
+  "g.name": "RUVBL1",
+  "max_z_score": -4.127
+}
+
+{
+  "g.name": "ETS1",
+  "max_z_score": -4.13
+}
+
+{
+  "g.name": "SH3BP5",
+  "max_z_score": -4.135
+}
+

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'NR1H2'})-[r:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpBP]->(:BiologicalProcess)<-[:PARTICIPATES_GpBP]-(g1:Gene) WHERE 'hetio-dag' IN r.sources AND SIZE(r.sources) > 2 RETURN DISTINCT g2.name, r.sources

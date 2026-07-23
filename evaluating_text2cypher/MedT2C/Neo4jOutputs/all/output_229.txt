@@ -1,0 +1,20 @@
+{
+  "g2.name": "MEGF9"
+}
+
+{
+  "g2.name": "SYK"
+}
+
+{
+  "g2.name": "NFIB"
+}
+
+{
+  "g2.name": "IFNB1"
+}
+
+{
+  "g2.name": "UGCG"
+}
+

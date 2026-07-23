@@ -1,0 +1,16 @@
+{
+  "g.name": "KRAS",
+  "r.sources": [
+    "DISEASES",
+    "DisGeNET"
+  ]
+}
+
+{
+  "g.name": "TP53",
+  "r.sources": [
+    "DISEASES",
+    "DisGeNET"
+  ]
+}
+

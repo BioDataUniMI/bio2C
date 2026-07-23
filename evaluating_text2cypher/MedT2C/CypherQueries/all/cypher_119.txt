@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'hypertension'})<-[:TREATS_CtD]-(c:Compound)-[:CAUSES_CcSE]->(se:SideEffect) RETURN COUNT(Distinct se) AS side_effect_count

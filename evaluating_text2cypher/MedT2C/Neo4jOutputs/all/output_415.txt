@@ -1,0 +1,20 @@
+{
+  "g2.name": "TMA16"
+}
+
+{
+  "g2.name": "GAR1"
+}
+
+{
+  "g2.name": "FRG1"
+}
+
+{
+  "g2.name": "ZNF330"
+}
+
+{
+  "g2.name": "PLRG1"
+}
+

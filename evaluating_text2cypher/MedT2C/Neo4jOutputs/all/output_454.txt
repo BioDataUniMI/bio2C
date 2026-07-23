@@ -1,0 +1,30 @@
+{
+  "g.name": "CAMK1D",
+  "g.chromosome": "10",
+  "r.affinity_nM": 120.0
+}
+
+{
+  "g.name": "DAPK3",
+  "g.chromosome": "19",
+  "r.affinity_nM": 89.0
+}
+
+{
+  "g.name": "PRKG2",
+  "g.chromosome": "4",
+  "r.affinity_nM": 690.0
+}
+
+{
+  "g.name": "TAOK3",
+  "g.chromosome": "12",
+  "r.affinity_nM": 590.0
+}
+
+{
+  "g.name": "PHKG2",
+  "g.chromosome": "16",
+  "r.affinity_nM": 1000.0
+}
+

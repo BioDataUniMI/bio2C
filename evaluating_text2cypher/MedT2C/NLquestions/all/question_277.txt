@@ -1,0 +1,1 @@
+List genes that interact with the gene 'CDK4' when participating in the 'chromosomal region'.

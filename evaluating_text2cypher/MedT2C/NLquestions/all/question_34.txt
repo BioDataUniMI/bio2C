@@ -1,0 +1,1 @@
+List genes that interact with the gene 'KLK2' and are involved in the same biological processes.

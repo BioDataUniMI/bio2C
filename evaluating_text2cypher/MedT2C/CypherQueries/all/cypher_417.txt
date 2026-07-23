@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction {name: 'nuclease activity'})<-[:PARTICIPATES_GpMF]-(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WHERE p.name CONTAINS 'mRNA' RETURN g.name, p.name

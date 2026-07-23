@@ -1,0 +1,1 @@
+Which genes have the maximum binding affinities with compounds and what are the affinities? Consider only high affinities (> 900).

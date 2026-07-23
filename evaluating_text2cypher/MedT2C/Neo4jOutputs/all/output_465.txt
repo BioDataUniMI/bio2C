@@ -1,0 +1,25 @@
+{
+  "c.name": "Lisinopril",
+  "TYPE(r)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Methotrexate",
+  "TYPE(r)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Captopril",
+  "TYPE(r)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Pentoxifylline",
+  "TYPE(r)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Leflunomide",
+  "TYPE(r)": "TREATS_CtD"
+}
+

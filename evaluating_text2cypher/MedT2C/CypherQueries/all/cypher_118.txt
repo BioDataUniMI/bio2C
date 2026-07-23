@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE bp.name = 'establishment of protein localization to chromatin' OR bp.name = 'postsynaptic membrane assembly' RETURN COUNT(DISTINCT g) AS gene_count

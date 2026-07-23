@@ -1,0 +1,20 @@
+{
+  "d.name": "endogenous depression"
+}
+
+{
+  "d.name": "panic disorder"
+}
+
+{
+  "d.name": "attention deficit hyperactivity disorder"
+}
+
+{
+  "d.name": "schizophrenia"
+}
+
+{
+  "d.name": "migraine"
+}
+

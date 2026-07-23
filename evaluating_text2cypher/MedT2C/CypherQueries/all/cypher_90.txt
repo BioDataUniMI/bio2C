@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:DOWNREGULATES_DdG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Integration of provirus'}) RETURN d.name

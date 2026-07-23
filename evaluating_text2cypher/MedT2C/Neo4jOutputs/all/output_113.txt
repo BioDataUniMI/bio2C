@@ -1,0 +1,25 @@
+{
+  "p.name": "Signaling Pathways",
+  "geneCount": 1956
+}
+
+{
+  "p.name": "Metabolism",
+  "geneCount": 1564
+}
+
+{
+  "p.name": "Disease",
+  "geneCount": 1253
+}
+
+{
+  "p.name": "Gene Expression",
+  "geneCount": 1142
+}
+
+{
+  "p.name": "Immune System",
+  "geneCount": 1134
+}
+

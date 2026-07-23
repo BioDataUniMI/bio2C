@@ -1,0 +1,20 @@
+{
+  "gene": "IQGAP3"
+}
+
+{
+  "gene": "C1D"
+}
+
+{
+  "gene": "AMOTL1"
+}
+
+{
+  "gene": "MAOA"
+}
+
+{
+  "gene": "KDM4A"
+}
+

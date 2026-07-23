@@ -1,0 +1,25 @@
+{
+  "c.name": "Triprolidine",
+  "c2.name": "Cloperastine"
+}
+
+{
+  "c.name": "Doxepin",
+  "c2.name": "Dimetindene"
+}
+
+{
+  "c.name": "Doxepin",
+  "c2.name": "Orphenadrine"
+}
+
+{
+  "c.name": "Doxepin",
+  "c2.name": "Bromodiphenhydramine"
+}
+
+{
+  "c.name": "Doxepin",
+  "c2.name": "Doxylamine"
+}
+

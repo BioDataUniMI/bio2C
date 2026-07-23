@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'BRCA1'})-[:REGULATES_GrG]->(g2:Gene)<-[r:BINDS_CbG]-(c:Compound) RETURN g2.name, c.name, r.pubmed_ids

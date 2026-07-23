@@ -1,0 +1,25 @@
+{
+  "d2.name": "polycystic ovary syndrome",
+  "g.name": "CKS2"
+}
+
+{
+  "d2.name": "polycystic ovary syndrome",
+  "g.name": "DENND1A"
+}
+
+{
+  "d2.name": "polycystic ovary syndrome",
+  "g.name": "C9orf3"
+}
+
+{
+  "d2.name": "polycystic ovary syndrome",
+  "g.name": "FUT7"
+}
+
+{
+  "d2.name": "polycystic ovary syndrome",
+  "g.name": "ADGRD2"
+}
+

@@ -1,0 +1,1 @@
+MATCH (c1:Compound)-[:PALLIATES_CpD]->(d1:Disease)<-[:PALLIATES_CpD]-(c2:Compound) WHERE c1 <> c2 AND d1.name CONTAINS 'cancer' AND c1.name CONTAINS 'Estrogens' OR c2.name CONTAINS 'Estrogens' RETURN c1.name, c2.name, d1.name

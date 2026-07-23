@@ -1,0 +1,41 @@
+{
+  "g2.name": "SLC7A5",
+  "c.name": "Dextrothyroxine",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "c.name": "L-DOPA",
+  "r.pubmed_ids": [
+    "11011012",
+    "15200428"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "c.name": "Liothyronine",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "c.name": "Levothyroxine",
+  "r.pubmed_ids": [
+    "11901210"
+  ]
+}
+
+{
+  "g2.name": "SLC7A5",
+  "c.name": "Melphalan",
+  "r.pubmed_ids": [
+    "8398701"
+  ]
+}
+

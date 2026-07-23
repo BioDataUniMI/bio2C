@@ -1,0 +1,20 @@
+{
+  "g.name": "TWF1"
+}
+
+{
+  "g.name": "EZR"
+}
+
+{
+  "g.name": "PLEKHA1"
+}
+
+{
+  "g.name": "EPS8"
+}
+
+{
+  "g.name": "TESC"
+}
+

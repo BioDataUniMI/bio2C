@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpCC]->(cc:CellularComponent) WITH cc, COUNT(g) AS geneCount WHERE geneCount >= 500 RETURN cc.name, geneCount ORDER BY geneCount DESC

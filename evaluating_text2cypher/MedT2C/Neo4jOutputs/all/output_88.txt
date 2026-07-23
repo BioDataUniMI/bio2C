@@ -1,0 +1,16 @@
+{
+  "bp.name": "one-carbon metabolic process"
+}
+
+{
+  "bp.name": "bicarbonate transport"
+}
+
+{
+  "bp.name": "organic anion transport"
+}
+
+{
+  "bp.name": "anion transport"
+}
+

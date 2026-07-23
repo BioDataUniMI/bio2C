@@ -1,0 +1,1 @@
+List the genes that regulate the gene 'EGFR' and for each gene propose the list of the associated molecular functions in which it participates.

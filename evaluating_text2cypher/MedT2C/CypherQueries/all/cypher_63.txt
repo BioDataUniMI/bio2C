@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WHERE d.identifier = 'DOID:0060119' OR d.identifier = 'DOID:1686' RETURN s.name AS symptom_name

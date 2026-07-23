@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'PTEN'})-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE bp.name CONTAINS 'growth' RETURN bp.name

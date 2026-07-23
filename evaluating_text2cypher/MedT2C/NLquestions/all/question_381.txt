@@ -1,0 +1,1 @@
+Which genes participating in the 'MAPK Signaling Pathway' interact with genes, when the interacting genes are on the same chromosome and that chromosome is '1'?

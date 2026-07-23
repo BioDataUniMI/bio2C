@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Metformin'})-[:CAUSES_CcSE]->(se:SideEffect)<-[:CAUSES_CcSE]-(c2:Compound) WHERE c2.name CONTAINS 'acid' RETURN c2.name

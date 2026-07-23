@@ -1,0 +1,25 @@
+{
+  "p.name": "DNA Damage Response (only ATM dependent)",
+  "gene_count": 29
+}
+
+{
+  "p.name": "miRNA Regulation of DNA Damage Response",
+  "gene_count": 16
+}
+
+{
+  "p.name": "DNA Damage Response",
+  "gene_count": 16
+}
+
+{
+  "p.name": "DNA Repair",
+  "gene_count": 12
+}
+
+{
+  "p.name": "DNA Damage/Telomere Stress Induced Senescence",
+  "gene_count": 7
+}
+

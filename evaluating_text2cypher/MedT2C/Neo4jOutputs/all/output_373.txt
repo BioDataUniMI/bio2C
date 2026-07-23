@@ -1,0 +1,30 @@
+{
+  "g.name": "ACHE",
+  "c.name": "Procainamide",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "g.name": "ADK",
+  "c.name": "Adenosine",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "g.name": "ADK",
+  "c.name": "Vidarabine",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "g.name": "BMPR1B",
+  "c.name": "Pazopanib",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "g.name": "BTK",
+  "c.name": "Mitoxantrone",
+  "r.affinity_nM": 1000.0
+}
+

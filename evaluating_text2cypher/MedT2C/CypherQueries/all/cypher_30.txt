@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Nicergoline'})-[r:DOWNREGULATES_CdG]->(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN g.name, mf.name

@@ -1,0 +1,1 @@
+MATCH (c1:Compound)-[:TREATS_CtD]->(d:Disease {name: 'hypertension'}) MATCH (g1:Gene)<-[:DOWNREGULATES_CdG]-(c1) WHERE c1.name ENDS WITH 'one' RETURN c1.name AS Compound1, g1.name AS Gene1

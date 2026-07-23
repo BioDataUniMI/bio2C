@@ -1,0 +1,1 @@
+MATCH (se:SideEffect)<-[:CAUSES_CcSE]-(c:Compound)-[:TREATS_CtD]->(d:Disease)  WHERE d.name CONTAINS 'cancer' AND se.name CONTAINS 'pressure' RETURN DISTINCT se.name

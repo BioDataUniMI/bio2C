@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:REGULATES_GrG]->(:Gene {name: 'TP53'}) RETURN g.name

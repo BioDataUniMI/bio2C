@@ -1,0 +1,1 @@
+Identify the genes object of interaction with 'CIDEA' and that are associated with the same biological processes in ehich 'CIDEA' participates. Moreover, report the list of the associated shared biological processes.

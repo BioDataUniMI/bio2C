@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'retina'})<-[:LOCALIZES_DlA]-(d:Disease)-[:PRESENTS_DpS]->(s:Symptom {name: 'Obesity'}) RETURN d.name 

@@ -1,0 +1,20 @@
+{
+  "se.name": "Pain localised"
+}
+
+{
+  "se.name": "Genital pain"
+}
+
+{
+  "se.name": "Musculoskeletal pain"
+}
+
+{
+  "se.name": "Adnexa uteri pain"
+}
+
+{
+  "se.name": "Abdominal pain generalised"
+}
+

@@ -1,0 +1,1 @@
+MATCH (:Gene {name: 'DHDH'})-[:COVARIES_GcG]->(g:Gene)-[:PARTICIPATES_GpCC]->(:CellularComponent {name: 'chromatin'}) RETURN g.name

@@ -1,0 +1,25 @@
+{
+  "mf.name": "transferase activity, transferring glycosyl groups",
+  "gene_count": 2
+}
+
+{
+  "mf.name": "sialyltransferase activity",
+  "gene_count": 2
+}
+
+{
+  "mf.name": "alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity",
+  "gene_count": 1
+}
+
+{
+  "mf.name": "carboxylic acid binding",
+  "gene_count": 1
+}
+
+{
+  "mf.name": "sialic acid binding",
+  "gene_count": 1
+}
+

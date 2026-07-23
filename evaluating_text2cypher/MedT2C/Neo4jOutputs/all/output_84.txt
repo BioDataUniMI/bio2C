@@ -1,0 +1,20 @@
+{
+  "g.name": "GABRR1"
+}
+
+{
+  "g.name": "GABRA4"
+}
+
+{
+  "g.name": "GABRR2"
+}
+
+{
+  "g.name": "GABRA2"
+}
+
+{
+  "g.name": "GABRQ"
+}
+

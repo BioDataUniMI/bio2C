@@ -1,0 +1,1 @@
+MATCH (a1:Anatomy {name: 'sense organ'})-[:EXPRESSES_AeG]->(g:Gene {name: 'DPYSL5'})<-[:EXPRESSES_AeG]-(a2:Anatomy) RETURN a2.name AS Anatomy2

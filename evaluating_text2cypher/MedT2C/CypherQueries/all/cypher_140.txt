@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:COVARIES_GcG]->(g1:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Abnormal metabolism in phenylketonuria'}) RETURN COUNT(g) ORDER BY COUNT(g) ASC

@@ -1,0 +1,20 @@
+{
+  "bp.name": "regulation of developmental growth"
+}
+
+{
+  "bp.name": "fibroblast growth factor receptor signaling pathway"
+}
+
+{
+  "bp.name": "cellular response to growth factor stimulus"
+}
+
+{
+  "bp.name": "prostate gland growth"
+}
+
+{
+  "bp.name": "negative regulation of organ growth"
+}
+

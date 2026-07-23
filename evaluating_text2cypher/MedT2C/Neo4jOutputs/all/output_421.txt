@@ -1,0 +1,20 @@
+{
+  "se.name": "Tachycardia"
+}
+
+{
+  "se.name": "Drowsiness"
+}
+
+{
+  "se.name": "Feeling abnormal"
+}
+
+{
+  "se.name": "Confusional state"
+}
+
+{
+  "se.name": "Palpitations"
+}
+

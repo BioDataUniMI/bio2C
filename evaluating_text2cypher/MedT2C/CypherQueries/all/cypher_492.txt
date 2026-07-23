@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'atopic dermatitis'})<-[:TREATS_CtD]-(c:Compound) WHERE NOT (c)-[:CAUSES_CcSE]->(:SideEffect {name: 'Drowsiness'}) RETURN c.name

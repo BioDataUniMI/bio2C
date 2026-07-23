@@ -1,0 +1,25 @@
+{
+  "g.name": "KCNH2",
+  "c.name": "Azelastine"
+}
+
+{
+  "g.name": "CAMK2G",
+  "c.name": "Ruxolitinib"
+}
+
+{
+  "g.name": "EPHA2",
+  "c.name": "Crizotinib"
+}
+
+{
+  "g.name": "MAP3K12",
+  "c.name": "Sunitinib"
+}
+
+{
+  "g.name": "OPRK1",
+  "c.name": "Alvimopan"
+}
+

@@ -1,0 +1,1 @@
+How does diseases with 'Headache' symptom localize within the body where the anatomy name contains 'artery'?

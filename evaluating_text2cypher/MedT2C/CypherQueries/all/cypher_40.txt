@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:ASSOCIATES_DaG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway) WHERE pw.name = 'Wnt signaling pathway' OR pw.name = 'Notch signaling pathway' RETURN d.name

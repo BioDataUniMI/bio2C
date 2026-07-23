@@ -1,0 +1,5 @@
+{
+  "g.name": "ACE",
+  "r.affinity_nM": 1.21596
+}
+

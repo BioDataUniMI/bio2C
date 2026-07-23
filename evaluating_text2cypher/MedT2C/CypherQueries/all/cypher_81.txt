@@ -1,0 +1,1 @@
+MATCH (se:SideEffect)<-[:CAUSES_CcSE]-(c:Compound)-[:TREATS_CtD]->(d:Disease) WHERE se.name = 'Abdominal distension' AND d.name = 'ovarian cancer' RETURN c.name

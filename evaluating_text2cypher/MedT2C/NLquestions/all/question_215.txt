@@ -1,0 +1,1 @@
+Which genes interact with the gene 'KRAS' and are associated with the disease 'stomach cancer'?

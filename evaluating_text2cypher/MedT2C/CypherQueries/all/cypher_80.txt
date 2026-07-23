@@ -1,0 +1,1 @@
+MATCH (se:SideEffect {name: 'Vertigo'})<-[:CAUSES_CcSE]-(c:Compound)-[:TREATS_CtD]->(d:Disease)-[:PRESENTS_DpS]->(s:Symptom {name:'Headache'}) RETURN c.name, d.name

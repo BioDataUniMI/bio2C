@@ -1,0 +1,1 @@
+List the genes whose name starts with 'MAP' that participate in the same molecular function of 'EGFR' and are known to interact with other genes.

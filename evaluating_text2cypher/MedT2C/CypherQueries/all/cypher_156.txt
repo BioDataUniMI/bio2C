@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'prostate cancer'})-[:ASSOCIATES_DaG]->(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WITH p, COUNT(DISTINCT g) AS gene_count WHERE gene_count >= 40 RETURN p.name, gene_count ORDER BY gene_count DESC

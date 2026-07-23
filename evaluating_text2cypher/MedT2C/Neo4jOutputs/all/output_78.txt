@@ -1,0 +1,20 @@
+{
+  "se.name": "Blood pressure increased"
+}
+
+{
+  "se.name": "Blood pressure fluctuation"
+}
+
+{
+  "se.name": "Change in blood pressure"
+}
+
+{
+  "se.name": "Blood pressure abnormal"
+}
+
+{
+  "se.name": "Intracranial pressure increased"
+}
+

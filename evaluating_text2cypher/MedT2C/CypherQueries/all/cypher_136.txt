@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'CEBPE'})-[:INTERACTS_GiG]->(interacting:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway {name: 'miRNAs involved in DNA damage response'}) RETURN interacting.name

@@ -1,0 +1,20 @@
+{
+  "g2.name": "BRAF"
+}
+
+{
+  "g2.name": "MAPK14"
+}
+
+{
+  "g2.name": "IKBKG"
+}
+
+{
+  "g2.name": "CREB1"
+}
+
+{
+  "g2.name": "CHUK"
+}
+

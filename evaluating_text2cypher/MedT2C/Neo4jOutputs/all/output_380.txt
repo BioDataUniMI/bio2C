@@ -1,0 +1,20 @@
+{
+  "g2.name": "SUMO2"
+}
+
+{
+  "g2.name": "POLR2A"
+}
+
+{
+  "g2.name": "AURKA"
+}
+
+{
+  "g2.name": "RB1"
+}
+
+{
+  "g2.name": "SUMO1"
+}
+

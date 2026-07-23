@@ -1,0 +1,1 @@
+MATCH (c1:Compound)-[:RESEMBLES_CrC]->(c2:Compound) WHERE c1.name ENDS WITH 'sone' AND c2.name ENDS WITH 'sone' RETURN c1.name, c2.name

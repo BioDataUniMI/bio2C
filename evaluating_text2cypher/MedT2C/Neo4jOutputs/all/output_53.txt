@@ -1,0 +1,25 @@
+{
+  "d.name": "type 2 diabetes mellitus",
+  "a.name": "tibial nerve"
+}
+
+{
+  "d.name": "type 2 diabetes mellitus",
+  "a.name": "secretion of lacrimal gland"
+}
+
+{
+  "d.name": "type 2 diabetes mellitus",
+  "a.name": "sciatic nerve"
+}
+
+{
+  "d.name": "type 2 diabetes mellitus",
+  "a.name": "retina"
+}
+
+{
+  "d.name": "type 2 diabetes mellitus",
+  "a.name": "brachial artery"
+}
+

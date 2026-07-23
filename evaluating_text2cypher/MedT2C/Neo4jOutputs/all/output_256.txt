@@ -1,0 +1,8 @@
+{
+  "mf.name": "protein domain specific binding"
+}
+
+{
+  "mf.name": "protein C-terminus binding"
+}
+

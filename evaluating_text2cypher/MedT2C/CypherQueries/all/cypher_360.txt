@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'TP53'})-[r:INTERACTS_GiG]->(g2:Gene) WHERE 'hetio-dag' IN r.sources AND SIZE(r.sources) > 3 RETURN g2.name, r.sources

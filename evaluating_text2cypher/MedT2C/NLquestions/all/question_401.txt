@@ -1,0 +1,1 @@
+List the compounds that bind genes and are characterized by both the actions 'agonist' and 'partial agonist'.

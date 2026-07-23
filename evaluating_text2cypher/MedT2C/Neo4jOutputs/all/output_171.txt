@@ -1,0 +1,25 @@
+{
+  "g2.name": "CDK2",
+  "p.name": "Regulation of DNA replication"
+}
+
+{
+  "g2.name": "RB1",
+  "p.name": "E2F mediated regulation of DNA replication"
+}
+
+{
+  "g2.name": "RB1",
+  "p.name": "Regulation of DNA replication"
+}
+
+{
+  "g2.name": "ORC3",
+  "p.name": "Regulation of DNA replication"
+}
+
+{
+  "g2.name": "ORC3",
+  "p.name": "E2F mediated regulation of DNA replication"
+}
+

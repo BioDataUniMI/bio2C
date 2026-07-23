@@ -1,0 +1,30 @@
+{
+  "c1.name": "Meticillin",
+  "c2.name": "Nafcillin",
+  "r.similarity": 0.7333
+}
+
+{
+  "c1.name": "Meticillin",
+  "c2.name": "Oxacillin",
+  "r.similarity": 0.7211
+}
+
+{
+  "c1.name": "Meticillin",
+  "c2.name": "Flucloxacillin",
+  "r.similarity": 0.7152
+}
+
+{
+  "c1.name": "Meticillin",
+  "c2.name": "Dicloxacillin",
+  "r.similarity": 0.7152
+}
+
+{
+  "c1.name": "Meticillin",
+  "c2.name": "Cloxacillin",
+  "r.similarity": 0.7114
+}
+

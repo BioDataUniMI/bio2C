@@ -1,0 +1,31 @@
+{
+  "c.name": "Docetaxel",
+  "r.actions": null
+}
+
+{
+  "c.name": "Vandetanib",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Afatinib",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Bosutinib",
+  "r.actions": null
+}
+
+{
+  "c.name": "Lidocaine",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+

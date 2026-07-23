@@ -1,0 +1,1 @@
+How many genes interact with 'AKT1' and participate in the same molecular function in which 'AKT1' participates?

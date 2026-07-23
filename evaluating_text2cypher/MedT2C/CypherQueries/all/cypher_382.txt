@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Dopamine'})-[:BINDS_CbG]->(g:Gene)<-[:ASSOCIATES_DaG]-(d:Disease {name:'obesity'}) RETURN g.name

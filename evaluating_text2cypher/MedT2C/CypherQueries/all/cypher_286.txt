@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'FOXO3'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'chromatin DNA binding'})<-[:PARTICIPATES_GpMF]-(g2:Gene) WHERE g1.chromosome = g2.chromosome RETURN g2.name, g2.chromosome

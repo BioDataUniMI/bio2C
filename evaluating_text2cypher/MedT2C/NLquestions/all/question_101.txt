@@ -1,0 +1,1 @@
+Which malignant-related diseases present the similar symptom with the disease 'hypertension'? List the distinct diseases names.

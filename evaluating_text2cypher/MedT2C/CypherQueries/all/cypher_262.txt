@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'gestational diabetes'})-[:ASSOCIATES_DaG]->(g:Gene) RETURN g.name

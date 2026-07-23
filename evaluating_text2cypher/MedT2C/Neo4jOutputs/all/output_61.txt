@@ -1,0 +1,4 @@
+{
+  "average_disease_count": 5.0
+}
+

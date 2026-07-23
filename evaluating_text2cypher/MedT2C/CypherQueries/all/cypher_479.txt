@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'GABRA3'})<-[r:BINDS_CbG]-(c:Compound) WHERE '10209232' IN r.pubmed_ids RETURN c.name, r.pubmed_ids

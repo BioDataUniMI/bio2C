@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'DNA repair'})<-[:PARTICIPATES_GpBP]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'phosphatase activity'}) RETURN g.name

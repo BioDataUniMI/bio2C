@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'prostate cancer'})-[:ASSOCIATES_DaG]->(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WHERE p.name CONTAINS 'DNA' RETURN p.name, COUNT(DISTINCT g) AS gene_count ORDER BY gene_count DESC

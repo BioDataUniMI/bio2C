@@ -1,0 +1,20 @@
+{
+  "se.name": "Feeling abnormal"
+}
+
+{
+  "se.name": "Diarrhoea"
+}
+
+{
+  "se.name": "Sweating"
+}
+
+{
+  "se.name": "Retching"
+}
+
+{
+  "se.name": "Arrhythmia"
+}
+

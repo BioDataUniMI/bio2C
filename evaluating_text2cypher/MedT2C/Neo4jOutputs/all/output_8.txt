@@ -1,0 +1,25 @@
+{
+  "g.name": "A1BG",
+  "participationCount": 1
+}
+
+{
+  "g.name": "A1CF",
+  "participationCount": 1
+}
+
+{
+  "g.name": "A4GNT",
+  "participationCount": 1
+}
+
+{
+  "g.name": "AADAT",
+  "participationCount": 1
+}
+
+{
+  "g.name": "AANAT",
+  "participationCount": 1
+}
+

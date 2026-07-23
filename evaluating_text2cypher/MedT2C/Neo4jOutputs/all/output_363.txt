@@ -1,0 +1,16 @@
+{
+  "c.name": "Cimetidine"
+}
+
+{
+  "c.name": "Famotidine"
+}
+
+{
+  "c.name": "Nizatidine"
+}
+
+{
+  "c.name": "Ranitidine"
+}
+

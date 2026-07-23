@@ -1,0 +1,1 @@
+Retrieve two genes both in the same chromosome ('1') interacting with each other and both of them participate in the pathway 'Vpu mediated degradation of CD4'.

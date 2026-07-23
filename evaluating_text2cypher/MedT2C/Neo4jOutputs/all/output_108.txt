@@ -1,0 +1,25 @@
+{
+  "cc.name": "membrane protein complex",
+  "geneCount": 1000
+}
+
+{
+  "cc.name": "nuclear outer membrane-endoplasmic reticulum membrane network",
+  "geneCount": 959
+}
+
+{
+  "cc.name": "neuron projection",
+  "geneCount": 947
+}
+
+{
+  "cc.name": "endoplasmic reticulum membrane",
+  "geneCount": 939
+}
+
+{
+  "cc.name": "plasma membrane region",
+  "geneCount": 938
+}
+

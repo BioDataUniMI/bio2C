@@ -1,0 +1,25 @@
+{
+  "c.name": "Epirubicin",
+  "d.name": "peripheral nervous system neoplasm"
+}
+
+{
+  "c.name": "Epirubicin",
+  "d.name": "bone cancer"
+}
+
+{
+  "c.name": "Betaxolol",
+  "d.name": "hypertension"
+}
+
+{
+  "c.name": "Terazosin",
+  "d.name": "hypertension"
+}
+
+{
+  "c.name": "Methylprednisolone",
+  "d.name": "allergic rhinitis"
+}
+

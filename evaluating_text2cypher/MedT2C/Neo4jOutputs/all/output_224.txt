@@ -1,0 +1,12 @@
+{
+  "g.name": "SIRT2"
+}
+
+{
+  "g.name": "RIPK1"
+}
+
+{
+  "g.name": "CYLD"
+}
+

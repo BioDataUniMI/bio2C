@@ -1,0 +1,1 @@
+List distinct genes that participate in the same molecular function in which 'STAT3' participates. Report only those whose description include the word 'histone'.

@@ -1,0 +1,1 @@
+Provide a list of compounds that bind the gene 'EGFR' and their binding actions.

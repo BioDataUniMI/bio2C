@@ -1,0 +1,20 @@
+{
+  "g.name": "ZSWIM6"
+}
+
+{
+  "g.name": "ABHD6"
+}
+
+{
+  "g.name": "PI4KB"
+}
+
+{
+  "g.name": "PLXNB2"
+}
+
+{
+  "g.name": "RHOBTB3"
+}
+

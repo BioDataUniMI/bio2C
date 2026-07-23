@@ -1,0 +1,1 @@
+Which compounds treat or palliate in patients with 'systemic scleroderma'? Include the type of relationship in the output.

@@ -1,0 +1,1 @@
+List all distinct compounds whose name ends with 'en' that either upregulate or downregulate genes associated with the 'obesity' dosease.

@@ -1,0 +1,1 @@
+Identify genes that interact with 'RELA' and participate in the biological process named 'response to hydrogen peroxide' in which also 'RELA' participates in.

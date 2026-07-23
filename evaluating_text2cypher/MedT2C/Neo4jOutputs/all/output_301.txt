@@ -1,0 +1,20 @@
+{
+  "c2.name": "Naproxen"
+}
+
+{
+  "c2.name": "Flurbiprofen"
+}
+
+{
+  "c2.name": "Tamoxifen"
+}
+
+{
+  "c2.name": "Ketoprofen"
+}
+
+{
+  "c2.name": "Baclofen"
+}
+

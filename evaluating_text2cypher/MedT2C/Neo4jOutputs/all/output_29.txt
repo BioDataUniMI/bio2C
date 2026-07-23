@@ -1,0 +1,27 @@
+{
+  "g1.name": "PUS7L",
+  "g2.name": "HDAC2",
+  "c.name": "Oxtriphylline",
+  "r.actions": [
+    "activator"
+  ]
+}
+
+{
+  "g1.name": "PUS7L",
+  "g2.name": "HDAC2",
+  "c.name": "Aminophylline",
+  "r.actions": [
+    "activator"
+  ]
+}
+
+{
+  "g1.name": "PUS7L",
+  "g2.name": "HDAC2",
+  "c.name": "Theophylline",
+  "r.actions": [
+    "activator"
+  ]
+}
+

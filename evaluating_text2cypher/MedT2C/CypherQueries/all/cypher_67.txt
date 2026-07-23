@@ -1,0 +1,1 @@
+MATCH (:Anatomy {name: 'heart'})-[:EXPRESSES_AeG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'reproductive system development'}) RETURN g.name

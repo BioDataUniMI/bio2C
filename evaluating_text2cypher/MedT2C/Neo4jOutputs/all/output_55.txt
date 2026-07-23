@@ -1,0 +1,25 @@
+{
+  "c.name": "Valproic Acid",
+  "pc.name": "Decreased Central Nervous System Disorganized Electrical Activity"
+}
+
+{
+  "c.name": "Verapamil",
+  "pc.name": "Calcium Channel Antagonists"
+}
+
+{
+  "c.name": "Gabapentin",
+  "pc.name": "Decreased Central Nervous System Disorganized Electrical Activity"
+}
+
+{
+  "c.name": "Topiramate",
+  "pc.name": "Cytochrome P450 2C19 Inhibitors"
+}
+
+{
+  "c.name": "Topiramate",
+  "pc.name": "Cytochrome P450 3A4 Inducers"
+}
+

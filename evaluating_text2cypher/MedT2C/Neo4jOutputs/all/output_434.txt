@@ -1,0 +1,20 @@
+{
+  "g2.name": "HRSP12"
+}
+
+{
+  "g2.name": "NFKBIB"
+}
+
+{
+  "g2.name": "GPR35"
+}
+
+{
+  "g2.name": "QPRT"
+}
+
+{
+  "g2.name": "NGEF"
+}
+

@@ -1,0 +1,1 @@
+List the genes that are downregulated by compounds in the context of treating 'osteoporosis', when the downregulation 'z_score' is low (let's say < -10).

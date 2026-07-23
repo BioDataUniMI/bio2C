@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction {name: 'kinase activity'})<-[:PARTICIPATES_GpMF]-(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WITH g, COUNT(bp) AS process_count RETURN AVG(process_count) AS avg_processes_per_gene

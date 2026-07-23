@@ -1,0 +1,20 @@
+{
+  "g.name": "ADRB2"
+}
+
+{
+  "g.name": "SLC6A4"
+}
+
+{
+  "g.name": "HTR2A"
+}
+
+{
+  "g.name": "SLC22A1"
+}
+
+{
+  "g.name": "HTR2C"
+}
+

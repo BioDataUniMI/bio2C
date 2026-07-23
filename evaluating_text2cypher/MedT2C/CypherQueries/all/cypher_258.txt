@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'asthma'})-[:ASSOCIATES_DaG]->(g:Gene) WITH COLLECT(g.name) AS genes1 MATCH (d2:Disease {name: 'multiple sclerosis'})-[:ASSOCIATES_DaG]->(g:Gene) WITH genes1, COLLECT(g.name) AS genes2 RETURN genes1, genes2

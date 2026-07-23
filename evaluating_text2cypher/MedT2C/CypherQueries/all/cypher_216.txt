@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'D-serine metabolic process'})<-[:PARTICIPATES_GpBP]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN g.name, mf.name

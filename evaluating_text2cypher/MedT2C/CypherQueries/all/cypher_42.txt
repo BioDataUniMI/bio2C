@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE (g)<-[:EXPRESSES_AeG]-(:Anatomy {name: 'brain'}) AND (g)<-[:UPREGULATES_DuG|DOWNREGULATES_DdG]-(:Disease {name: 'schizophrenia'}) RETURN g.name

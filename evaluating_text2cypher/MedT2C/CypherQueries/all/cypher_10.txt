@@ -1,0 +1,1 @@
+MATCH (cc:CellularComponent {name: 'ruffle membrane'})<-[:PARTICIPATES_GpCC]-(g:Gene)<-[:EXPRESSES_AeG]-(a:Anatomy {name: 'liver'}) RETURN g.name

@@ -1,0 +1,1 @@
+Which ANX-like genes participate in the same molecular functions for the gene 'AKT1'?

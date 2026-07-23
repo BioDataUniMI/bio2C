@@ -1,0 +1,20 @@
+{
+  "g.name": "AKT1"
+}
+
+{
+  "g.name": "PRKCE"
+}
+
+{
+  "g.name": "CCL3"
+}
+
+{
+  "g.name": "PIK3C3"
+}
+
+{
+  "g.name": "JAK3"
+}
+

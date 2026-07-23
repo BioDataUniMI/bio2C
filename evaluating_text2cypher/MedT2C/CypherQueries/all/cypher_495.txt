@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.chromosome = 'Y' AND g.description CONTAINS 'Y-linked' RETURN g.name, g.description

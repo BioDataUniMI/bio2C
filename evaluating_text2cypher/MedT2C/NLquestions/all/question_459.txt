@@ -1,0 +1,1 @@
+Which compounds treat or palliate 'rheumatoid arthritis'? Include the type of relationship in the output.

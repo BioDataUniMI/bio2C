@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'bipolar disorder'})<-[:PALLIATES_CpD]-(c:Compound) RETURN c.name

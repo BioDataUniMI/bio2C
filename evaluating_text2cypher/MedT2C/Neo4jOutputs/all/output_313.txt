@@ -1,0 +1,20 @@
+{
+  "s.name": "Sarcopenia"
+}
+
+{
+  "s.name": "Muscular Atrophy"
+}
+
+{
+  "s.name": "Paraplegia"
+}
+
+{
+  "s.name": "Asthenia"
+}
+
+{
+  "s.name": "Quadriplegia"
+}
+

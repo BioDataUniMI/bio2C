@@ -1,0 +1,1 @@
+List genes located on chromosome 'Y' that participate in the same molecular function of 'STAT3'.

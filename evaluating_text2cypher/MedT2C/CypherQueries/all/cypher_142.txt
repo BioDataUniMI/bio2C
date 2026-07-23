@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'Crohn\'s disease'})-[:DOWNREGULATES_DdG]->(g:Gene)<-[:UPREGULATES_CuG]-(c:Compound {name: 'Amodiaquine'}) MATCH (g)-[:PARTICIPATES_GpPW]->(p:Pathway) RETURN p.name

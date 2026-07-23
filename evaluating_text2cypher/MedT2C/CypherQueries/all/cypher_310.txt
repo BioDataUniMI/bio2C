@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'pancreatic cancer'})<-[:TREATS_CtD]-(c:Compound)-[:UPREGULATES_CuG]->(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'histone binding'}) RETURN c.name

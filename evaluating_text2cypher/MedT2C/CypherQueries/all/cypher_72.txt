@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:COVARIES_GcG]->(covarying:Gene) WHERE g.name = 'MYBPC2' OR g.name = 'LIMS1' RETURN covarying.name

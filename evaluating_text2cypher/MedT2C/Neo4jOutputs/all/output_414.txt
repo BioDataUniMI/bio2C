@@ -1,0 +1,36 @@
+{
+  "g.name": "NDUFS1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "SLC22A1",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "NDUFA4L2",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "NDUFC1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "g.name": "NDUFA1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+

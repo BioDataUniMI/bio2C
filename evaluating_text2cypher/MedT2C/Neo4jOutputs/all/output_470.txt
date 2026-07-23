@@ -1,0 +1,25 @@
+{
+  "g.name": "EIF4G1",
+  "min_z_score": -4.996
+}
+
+{
+  "g.name": "PLK1",
+  "min_z_score": -4.973
+}
+
+{
+  "g.name": "PUF60",
+  "min_z_score": -4.967
+}
+
+{
+  "g.name": "SLC25A13",
+  "min_z_score": -4.964
+}
+
+{
+  "g.name": "GTSE1",
+  "min_z_score": -4.953
+}
+

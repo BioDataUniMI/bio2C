@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'hypertension'})<-[:TREATS_CtD]-(c:Compound) RETURN c.name

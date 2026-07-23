@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'CDKN1A'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction)<-[:PARTICIPATES_GpMF]-(g2:Gene {name: 'GK5'}) RETURN mf.name

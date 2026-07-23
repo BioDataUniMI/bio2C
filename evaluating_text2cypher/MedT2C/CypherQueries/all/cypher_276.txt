@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'BRCA2'})-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE bp.name CONTAINS 'DNA' RETURN bp.name

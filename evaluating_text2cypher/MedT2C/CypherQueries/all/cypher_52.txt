@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'melanoma'})<-[:TREATS_CtD]-(c:Compound)-[:UPREGULATES_CuG]->(g:Gene) RETURN c.name, g.name

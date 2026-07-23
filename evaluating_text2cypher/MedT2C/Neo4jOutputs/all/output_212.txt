@@ -1,0 +1,25 @@
+{
+  "g.name": "CCNE1",
+  "p.name": "miRNAs involved in DNA damage response"
+}
+
+{
+  "g.name": "CCND3",
+  "p.name": "miRNAs involved in DNA damage response"
+}
+
+{
+  "g.name": "AKT2",
+  "p.name": "TFs Regulate miRNAs related to cardiac hypertrophy"
+}
+
+{
+  "g.name": "ATM",
+  "p.name": "miRNAs involved in DNA damage response"
+}
+
+{
+  "g.name": "AKT1",
+  "p.name": "TFs Regulate miRNAs related to cardiac hypertrophy"
+}
+

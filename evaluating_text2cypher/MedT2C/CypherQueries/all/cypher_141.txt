@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound {identifier: 'DB00451'}) RETURN pc.name

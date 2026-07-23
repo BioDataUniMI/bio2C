@@ -1,0 +1,1 @@
+Which genes on chromosome 'X' that are covaried with genes participate in the pathway named 'Apoptosis'?

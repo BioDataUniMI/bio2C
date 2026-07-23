@@ -1,0 +1,1 @@
+MATCH (p:Pathway {name: 'Apoptosis'})<-[:PARTICIPATES_GpPW]-(g1:Gene)-[:COVARIES_GcG]->(g2:Gene) WHERE g2.chromosome = 'X' RETURN g2.name

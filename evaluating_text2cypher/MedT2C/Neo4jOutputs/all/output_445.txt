@@ -1,0 +1,35 @@
+{
+  "c.name": "Docetaxel",
+  "g.name": "GHRHR",
+  "d.name": "pancreatic cancer",
+  "r.affinity_nM": 0.14
+}
+
+{
+  "c.name": "Sunitinib",
+  "g.name": "PDGFRB",
+  "d.name": "pancreatic cancer",
+  "r.affinity_nM": 0.33158000000000004
+}
+
+{
+  "c.name": "Docetaxel",
+  "g.name": "GHRHR",
+  "d.name": "prostate cancer",
+  "r.affinity_nM": 0.14
+}
+
+{
+  "c.name": "Estradiol",
+  "g.name": "ESR1",
+  "d.name": "prostate cancer",
+  "r.affinity_nM": 0.2
+}
+
+{
+  "c.name": "Methotrexate",
+  "g.name": "DHFR",
+  "d.name": "breast cancer",
+  "r.affinity_nM": 0.18354
+}
+

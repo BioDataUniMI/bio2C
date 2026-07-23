@@ -1,0 +1,17 @@
+{
+  "g1.name": "CIDEA",
+  "COLLECT(bp.name)": [
+    "regulation of lipid metabolic process",
+    "response to organic cyclic compound",
+    "regulation of establishment of protein localization",
+    "regulation of secretion",
+    "positive regulation of lipid storage",
+    "regulation of protein localization",
+    "regulation of lipid storage",
+    "negative regulation of transport",
+    "regulation of secretion by cell",
+    "regulation of protein transport",
+    "regulation of protein secretion"
+  ]
+}
+

@@ -1,0 +1,1 @@
+With which genes does the gene 'BRCA1' interact, that participate in the molecular function named 'ubiquitin protein ligase binding' in which also 'BRCA1' participates.

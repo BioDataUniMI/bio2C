@@ -1,0 +1,20 @@
+{
+  "g2.name": "SMAD3"
+}
+
+{
+  "g2.name": "STAT5A"
+}
+
+{
+  "g2.name": "PALB2"
+}
+
+{
+  "g2.name": "RPA1"
+}
+
+{
+  "g2.name": "SMAD2"
+}
+

@@ -1,0 +1,1 @@
+List all diseases presenting the symptom 'Pain', ordered by the count of genes they are associated with.

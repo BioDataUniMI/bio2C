@@ -1,0 +1,25 @@
+{
+  "g.name": "IGFBP2",
+  "r.z_score": -10.278
+}
+
+{
+  "g.name": "CDC20",
+  "r.z_score": -15.285
+}
+
+{
+  "g.name": "PIH1D1",
+  "r.z_score": -14.677
+}
+
+{
+  "g.name": "TEX10",
+  "r.z_score": -10.4
+}
+
+{
+  "g.name": "FHL2",
+  "r.z_score": -11.461
+}
+

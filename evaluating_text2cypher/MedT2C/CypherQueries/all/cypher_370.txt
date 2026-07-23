@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Adrenergic Agonists'})-[:INCLUDES_PCiC]->(c:Compound)-[r:BINDS_CbG]->(g:Gene) RETURN g.name, r.actions

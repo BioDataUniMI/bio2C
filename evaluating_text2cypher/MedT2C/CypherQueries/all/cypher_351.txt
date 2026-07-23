@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:UPREGULATES_DuG]->(g:Gene) WHERE d.name CONTAINS 'diabete' RETURN g.name, d.name

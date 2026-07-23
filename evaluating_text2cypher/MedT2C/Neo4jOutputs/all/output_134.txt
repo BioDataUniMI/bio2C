@@ -1,0 +1,25 @@
+{
+  "a.name": "bone marrow",
+  "disease_count": 18
+}
+
+{
+  "a.name": "bone tissue",
+  "disease_count": 14
+}
+
+{
+  "a.name": "occipital bone",
+  "disease_count": 13
+}
+
+{
+  "a.name": "temporal bone",
+  "disease_count": 13
+}
+
+{
+  "a.name": "petrous part of temporal bone",
+  "disease_count": 12
+}
+

@@ -1,0 +1,1 @@
+MATCH (:Anatomy {name: 'heart'})<-[:LOCALIZES_DlA]-(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WITH d, COUNT(s) AS symptom_count RETURN AVG(symptom_count) AS avg_symptoms

@@ -1,0 +1,1 @@
+List compounds that resemble each other in the graph, where both end with 'sone'.

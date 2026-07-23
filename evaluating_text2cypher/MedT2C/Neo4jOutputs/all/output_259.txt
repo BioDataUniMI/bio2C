@@ -1,0 +1,20 @@
+{
+  "g.name": "CYP2C9"
+}
+
+{
+  "g.name": "ALB"
+}
+
+{
+  "g.name": "CYP2C8"
+}
+
+{
+  "g.name": "ORM1"
+}
+
+{
+  "g.name": "CYP3A4"
+}
+

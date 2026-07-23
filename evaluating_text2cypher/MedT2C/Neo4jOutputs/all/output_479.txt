@@ -1,0 +1,40 @@
+{
+  "c.name": "Heptabarbital",
+  "r.pubmed_ids": [
+    "10209232",
+    "11264449"
+  ]
+}
+
+{
+  "c.name": "Talbutal",
+  "r.pubmed_ids": [
+    "10209232",
+    "11264449"
+  ]
+}
+
+{
+  "c.name": "Butethal",
+  "r.pubmed_ids": [
+    "10209232",
+    "11264449"
+  ]
+}
+
+{
+  "c.name": "Amobarbital",
+  "r.pubmed_ids": [
+    "10209232",
+    "11264449"
+  ]
+}
+
+{
+  "c.name": "Aprobarbital",
+  "r.pubmed_ids": [
+    "10209232",
+    "11264449"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Can you find genes that participate in the molecular function 'chromatin DNA binding' in which also 'FOXO3' participates in and that are located on the same chromosome of the gene 'FOXO3'?

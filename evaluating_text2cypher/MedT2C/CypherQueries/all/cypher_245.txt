@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r:BINDS_CbG]->(g:Gene)-[:PARTICIPATES_GpPW]->(:Pathway {name: 'DNA Repair'}) RETURN c.name, g.name, r.actions

@@ -1,0 +1,1 @@
+Among the genes which interact with the gene 'TLE2', how many genes participate in RNA-related pathway?

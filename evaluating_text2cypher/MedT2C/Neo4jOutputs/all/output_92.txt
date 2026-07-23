@@ -1,0 +1,20 @@
+{
+  "d2.name": "psoriasis"
+}
+
+{
+  "d2.name": "rheumatoid arthritis"
+}
+
+{
+  "d2.name": "systemic scleroderma"
+}
+
+{
+  "d2.name": "Crohn's disease"
+}
+
+{
+  "d2.name": "ulcerative colitis"
+}
+

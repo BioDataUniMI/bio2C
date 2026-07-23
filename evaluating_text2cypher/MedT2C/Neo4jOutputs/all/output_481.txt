@@ -1,0 +1,25 @@
+{
+  "g.name": "CYP2C19",
+  "g2.name": "CAST"
+}
+
+{
+  "g.name": "CYP2C19",
+  "g2.name": "LAP3"
+}
+
+{
+  "g.name": "ADRB2",
+  "g2.name": "CAST"
+}
+
+{
+  "g.name": "ADRB2",
+  "g2.name": "LAP3"
+}
+
+{
+  "g.name": "ADRB1",
+  "g2.name": "CAST"
+}
+

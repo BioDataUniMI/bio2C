@@ -1,0 +1,1 @@
+What genes are commonly upregulated in 'schizophrenia' when the upregulation 'log2_fold_change' is stricly higher than 0.03?

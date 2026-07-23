@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'TP53'})-[:PARTICIPATES_GpPW]->(p:Pathway) RETURN COUNT(p) AS pathway_count

@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound)-[:TREATS_CtD]->(d:Disease {name: 'glaucoma'}) RETURN p.name, c.name ORDER BY p.name

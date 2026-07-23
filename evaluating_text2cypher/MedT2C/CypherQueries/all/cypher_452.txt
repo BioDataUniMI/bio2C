@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:BINDS_CbG]-(c:Compound {name: 'Lisinopril'}) WHERE r.affinity_nM IS NOT NULL RETURN g.name, r.affinity_nM

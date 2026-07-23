@@ -1,0 +1,20 @@
+{
+  "g.name": "PPP1R15A"
+}
+
+{
+  "g.name": "PPP1R13L"
+}
+
+{
+  "g.name": "PPP2R5B"
+}
+
+{
+  "g.name": "PPP2CB"
+}
+
+{
+  "g.name": "PPP1R13L"
+}
+

@@ -1,0 +1,1 @@
+Which diseases present the 'Paraplegia'? Find the number of compounds which treat each kind of these diseases.

@@ -1,0 +1,12 @@
+{
+  "g.name": "KDM3A"
+}
+
+{
+  "g.name": "CCNB1"
+}
+
+{
+  "g.name": "RGS2"
+}
+

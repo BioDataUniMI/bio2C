@@ -1,0 +1,20 @@
+{
+  "symptom_name": "Neck Pain"
+}
+
+{
+  "symptom_name": "Chest Pain"
+}
+
+{
+  "symptom_name": "Chest Pain"
+}
+
+{
+  "symptom_name": "Abdominal Pain"
+}
+
+{
+  "symptom_name": "Abdominal Pain"
+}
+

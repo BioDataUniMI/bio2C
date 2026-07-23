@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'multiple sclerosis'})<-[:TREATS_CtD]-(c:Compound)-[:CAUSES_CcSE]->(se:SideEffect) WITH c, COUNT(se) AS side_effect_count RETURN c.name, side_effect_count ORDER BY side_effect_count ASC, c.name ASC LIMIT 3

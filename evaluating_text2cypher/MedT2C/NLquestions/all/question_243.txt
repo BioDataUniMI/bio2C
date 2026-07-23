@@ -1,0 +1,1 @@
+List diseases that present 'Fatigue' as a symptom.

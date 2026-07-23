@@ -1,0 +1,1 @@
+Which disease associated with genes is linked to the highest number of pathways (breaking ties alphabetically according to disease name), and what is that number?

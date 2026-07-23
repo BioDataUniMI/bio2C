@@ -1,0 +1,25 @@
+{
+  "g.name": "NPEPL1",
+  "r.log2_fold_change": 0.03291
+}
+
+{
+  "g.name": "SMIM22",
+  "r.log2_fold_change": 0.10218
+}
+
+{
+  "g.name": "NEURL3",
+  "r.log2_fold_change": 0.13822
+}
+
+{
+  "g.name": "CTTN",
+  "r.log2_fold_change": 0.03289
+}
+
+{
+  "g.name": "MROH1",
+  "r.log2_fold_change": 0.06397
+}
+

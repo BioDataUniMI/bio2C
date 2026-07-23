@@ -1,0 +1,1 @@
+Can you provide all the compounds whose name ends with the substring 'sone'?

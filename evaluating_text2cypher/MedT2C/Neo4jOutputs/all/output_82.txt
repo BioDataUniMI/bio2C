@@ -1,0 +1,25 @@
+{
+  "d.name": "malignant glioma",
+  "COUNT(c)": 2
+}
+
+{
+  "d.name": "osteoporosis",
+  "COUNT(c)": 15
+}
+
+{
+  "d.name": "amyotrophic lateral sclerosis",
+  "COUNT(c)": 1
+}
+
+{
+  "d.name": "testicular cancer",
+  "COUNT(c)": 11
+}
+
+{
+  "d.name": "skin cancer",
+  "COUNT(c)": 9
+}
+

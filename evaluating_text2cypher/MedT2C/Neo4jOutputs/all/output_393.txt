@@ -1,0 +1,20 @@
+{
+  "g.name": "CYP3A7"
+}
+
+{
+  "g.name": "CYP3A5"
+}
+
+{
+  "g.name": "CYP3A4"
+}
+
+{
+  "g.name": "CYP2D6"
+}
+
+{
+  "g.name": "CYP1A2"
+}
+

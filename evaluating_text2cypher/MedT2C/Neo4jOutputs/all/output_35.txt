@@ -1,0 +1,20 @@
+{
+  "cc.name": "transcription factor TFIID complex"
+}
+
+{
+  "cc.name": "nuclear periphery"
+}
+
+{
+  "cc.name": "nuclear chromatin"
+}
+
+{
+  "cc.name": "PML body"
+}
+
+{
+  "cc.name": "nuclear matrix"
+}
+

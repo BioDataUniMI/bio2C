@@ -1,0 +1,16 @@
+{
+  "d.name": "malaria"
+}
+
+{
+  "d.name": "malaria"
+}
+
+{
+  "d.name": "acquired immunodeficiency syndrome"
+}
+
+{
+  "d.name": "Crohn's disease"
+}
+

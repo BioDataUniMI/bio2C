@@ -1,0 +1,1 @@
+Retrieve the anatomical locations that are localized in diseases presenting the symptom 'Obesity' and that resemble 'atherosclerosis'.

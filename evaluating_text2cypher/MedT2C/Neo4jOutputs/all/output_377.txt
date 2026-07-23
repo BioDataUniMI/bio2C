@@ -1,0 +1,25 @@
+{
+  "g.name": "GLRX",
+  "r.z_score": 124.556
+}
+
+{
+  "g.name": "LGMN",
+  "r.z_score": 103.51
+}
+
+{
+  "g.name": "LIPA",
+  "r.z_score": 104.871
+}
+
+{
+  "g.name": "PTPN1",
+  "r.z_score": 106.75
+}
+
+{
+  "g.name": "MCOLN1",
+  "r.z_score": 117.436
+}
+

@@ -1,0 +1,1 @@
+Retrieve the diseases treated by the 'Tirofiban' and order them by the number of number of symptoms they presents. Start from the one which presents the fewest symptoms.

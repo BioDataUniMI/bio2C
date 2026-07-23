@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'EGFR'})<-[:REGULATES_GrG]-(g2:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN g2.name, COLLECT(DISTINCT mf.name) AS molecular_functions

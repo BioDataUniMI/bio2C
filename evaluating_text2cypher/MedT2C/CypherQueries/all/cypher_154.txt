@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'hematologic cancer'})-[:UPREGULATES_DuG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Immune System'}) RETURN COUNT(g)

@@ -1,0 +1,1 @@
+Which distinct compounds whose name ends with 'sone' are known to cause the same side effects of 'Danazol'?

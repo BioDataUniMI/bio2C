@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'obesity'})<-[:TREATS_CtD]-(c:Compound)-[:DOWNREGULATES_CdG]->(g:Gene {name: 'RRP1B'}) RETURN c.name

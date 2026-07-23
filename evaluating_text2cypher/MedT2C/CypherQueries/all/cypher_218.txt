@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'celiac disease'})-[:PRESENTS_DpS]->(s:Symptom) RETURN s.name

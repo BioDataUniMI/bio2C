@@ -1,0 +1,1 @@
+Show compounds that resemble 'Acetaminophen' in the database.

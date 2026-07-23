@@ -1,0 +1,20 @@
+{
+  "g2.name": "RBBP6"
+}
+
+{
+  "g2.name": "RBBP9"
+}
+
+{
+  "g2.name": "RBM19"
+}
+
+{
+  "g2.name": "RBM4B"
+}
+
+{
+  "g2.name": "RBBP5"
+}
+

@@ -1,0 +1,25 @@
+{
+  "c.name": "Dabrafenib",
+  "r.affinity_nM": null
+}
+
+{
+  "c.name": "Nilotinib",
+  "r.affinity_nM": 984.37798
+}
+
+{
+  "c.name": "Regorafenib",
+  "r.affinity_nM": 28.0
+}
+
+{
+  "c.name": "Sorafenib",
+  "r.affinity_nM": null
+}
+
+{
+  "c.name": "Vemurafenib",
+  "r.affinity_nM": 45.82576
+}
+

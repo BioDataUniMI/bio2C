@@ -1,0 +1,20 @@
+{
+  "g1.name": "JUN"
+}
+
+{
+  "g1.name": "MDM2"
+}
+
+{
+  "g1.name": "PPP2CB"
+}
+
+{
+  "g1.name": "EZH2"
+}
+
+{
+  "g1.name": "HDAC2"
+}
+

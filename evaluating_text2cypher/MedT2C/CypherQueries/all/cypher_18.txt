@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'liver'})<-[:LOCALIZES_DlA]-(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) WHERE s.name CONTAINS 'Pain' RETURN s.name AS symptom_name

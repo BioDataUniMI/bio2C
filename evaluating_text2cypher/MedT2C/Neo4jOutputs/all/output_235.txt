@@ -1,0 +1,20 @@
+{
+  "bp.name": "positive regulation of cell death"
+}
+
+{
+  "bp.name": "positive regulation of protein catabolic process"
+}
+
+{
+  "bp.name": "positive regulation of proteasomal ubiquitin-dependent protein catabolic process"
+}
+
+{
+  "bp.name": "positive regulation of cell cycle phase transition"
+}
+
+{
+  "bp.name": "positive regulation of proteasomal protein catabolic process"
+}
+

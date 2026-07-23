@@ -1,0 +1,1 @@
+Count all the genes interaction occurring in the 'MAPK Signaling Pathway'.

@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Thyroxine'})-[:INCLUDES_PCiC]->(c:Compound)-[:UPREGULATES_CuG]->(g:Gene {name: 'GPATCH8'}) MATCH (c)-[:CAUSES_CcSE]->(se:SideEffect) RETURN se.name

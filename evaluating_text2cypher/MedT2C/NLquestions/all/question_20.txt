@@ -1,0 +1,1 @@
+List distinct RNA-related pathways in which the genes that interact with gene 'DFFA' participate.

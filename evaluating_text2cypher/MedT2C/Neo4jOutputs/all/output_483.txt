@@ -1,0 +1,20 @@
+{
+  "g.name": "SLC15A2"
+}
+
+{
+  "g.name": "SLC15A1"
+}
+
+{
+  "g.name": "SLCO1B1"
+}
+
+{
+  "g.name": "CYP3A4"
+}
+
+{
+  "g.name": "CYP2C19"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'PTEN'})-[:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway {name: 'Adaptive Immune System'}) RETURN g2.name

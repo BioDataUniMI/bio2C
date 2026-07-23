@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Alitretinoin'})-[:CAUSES_CcSE]->(se:SideEffect)<-[:CAUSES_CcSE]-(c2:Compound)-[:DOWNREGULATES_CdG]->(g:Gene)<-[:DOWNREGULATES_CdG]-(c1) RETURN COUNT(c2) AS num_compounds

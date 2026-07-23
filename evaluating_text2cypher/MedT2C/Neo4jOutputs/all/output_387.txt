@@ -1,0 +1,20 @@
+{
+  "g.name": "ACE2",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "ABCB1",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "ACE",
+  "r.affinity_nM": 1.21596
+}
+
+{
+  "g.name": "SLC15A1",
+  "r.affinity_nM": null
+}
+

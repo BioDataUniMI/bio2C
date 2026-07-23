@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[:DOWNREGULATES_CdG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE c.name ENDS WITH 'nin' AND bp.name in ['endocytosis', 'viral process'] RETURN DISTINCT c.name

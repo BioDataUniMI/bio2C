@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:TREATS_CtD]-(c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE d.name CONTAINS 'liver' AND r.affinity_nM IS NOT NULL RETURN c.name, g.name, d.name, r.affinity_nM

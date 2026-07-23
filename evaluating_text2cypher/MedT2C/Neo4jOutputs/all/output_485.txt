@@ -1,0 +1,25 @@
+{
+  "g.name": "PIN1",
+  "c1.name": "Trazodone"
+}
+
+{
+  "g.name": "POLR2I",
+  "c1.name": "Clozapine"
+}
+
+{
+  "g.name": "STUB1",
+  "c1.name": "Clozapine"
+}
+
+{
+  "g.name": "HAT1",
+  "c1.name": "Clozapine"
+}
+
+{
+  "g.name": "C2CD5",
+  "c1.name": "Clozapine"
+}
+

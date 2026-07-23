@@ -1,0 +1,20 @@
+{
+  "g2.name": "COASY"
+}
+
+{
+  "g2.name": "RFXANK"
+}
+
+{
+  "g2.name": "RPS6"
+}
+
+{
+  "g2.name": "JAZF1"
+}
+
+{
+  "g2.name": "DDX10"
+}
+

@@ -1,0 +1,1 @@
+Retrieve diseases that are similar to 'obesity' and have associated genes located on chromosome 9.

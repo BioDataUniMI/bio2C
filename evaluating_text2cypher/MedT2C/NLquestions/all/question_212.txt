@@ -1,0 +1,1 @@
+List the genes that participate in the molecular function 'kinase activity' and their associated pathways. Moreover, consider only pathways whose name contains the string 'miRNAs'.

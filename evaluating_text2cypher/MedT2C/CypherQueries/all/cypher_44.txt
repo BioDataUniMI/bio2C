@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpPW]->(p1:Pathway {name: 'DNA Repair'}), (g)-[:PARTICIPATES_GpPW]->(p2:Pathway {name: 'Cell Cycle'}) RETURN g.name

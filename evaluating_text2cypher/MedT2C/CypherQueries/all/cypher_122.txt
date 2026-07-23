@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[:TREATS_CtD]->(d:Disease {name: 'nicotine dependence'})-[:DOWNREGULATES_DdG]->(g:Gene) RETURN COUNT(g) AS gene_count

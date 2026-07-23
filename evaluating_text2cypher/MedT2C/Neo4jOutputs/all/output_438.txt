@@ -1,0 +1,38 @@
+{
+  "g2.name": "MAGI3",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "PXN",
+  "r.sources": [
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "SLC9A3R1",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "MVP",
+  "r.sources": [
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+

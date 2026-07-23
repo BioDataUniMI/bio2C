@@ -1,0 +1,30 @@
+{
+  "c.name": "Octreotide",
+  "d1.name": "thymus cancer",
+  "d2.name": "pancreatic cancer"
+}
+
+{
+  "c.name": "Betamethasone",
+  "d1.name": "hematologic cancer",
+  "d2.name": "prostate cancer"
+}
+
+{
+  "c.name": "Dexamethasone",
+  "d1.name": "hematologic cancer",
+  "d2.name": "prostate cancer"
+}
+
+{
+  "c.name": "Dexamethasone",
+  "d1.name": "hematologic cancer",
+  "d2.name": "breast cancer"
+}
+
+{
+  "c.name": "Medroxyprogesterone Acetate",
+  "d1.name": "uterine cancer",
+  "d2.name": "breast cancer"
+}
+

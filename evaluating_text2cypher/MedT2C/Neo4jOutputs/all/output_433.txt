@@ -1,0 +1,39 @@
+{
+  "c.name": "Dexamethasone",
+  "COLLECT(se.name)": [
+    "Dry skin",
+    "Loss of skin markings"
+  ]
+}
+
+{
+  "c.name": "Betamethasone",
+  "COLLECT(se.name)": [
+    "Dry skin",
+    "Loss of skin markings"
+  ]
+}
+
+{
+  "c.name": "Indacaterol",
+  "COLLECT(se.name)": [
+    "Unspecified disorder of skin and subcutaneous tissue"
+  ]
+}
+
+{
+  "c.name": "Hydrocortisone",
+  "COLLECT(se.name)": [
+    "Dry skin",
+    "Unspecified disorder of skin and subcutaneous tissue"
+  ]
+}
+
+{
+  "c.name": "Formoterol",
+  "COLLECT(se.name)": [
+    "Dry skin",
+    "Unspecified disorder of skin and subcutaneous tissue"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "g2.name": "TAF9",
+  "p.name": "Late Phase of HIV Life Cycle"
+}
+
+{
+  "g2.name": "TAF9",
+  "p.name": "HIV Infection"
+}
+
+{
+  "g2.name": "TAF9",
+  "p.name": "Transcription of the HIV genome"
+}
+
+{
+  "g2.name": "TAF9",
+  "p.name": "HIV Life Cycle"
+}
+
+{
+  "g2.name": "TAF9",
+  "p.name": "HIV Transcription Initiation"
+}
+

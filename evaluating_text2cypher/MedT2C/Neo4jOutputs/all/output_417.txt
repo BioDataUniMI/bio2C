@@ -1,0 +1,25 @@
+{
+  "g.name": "PARN",
+  "p.name": "Metabolism of mRNA"
+}
+
+{
+  "g.name": "PARN",
+  "p.name": "Regulation of mRNA stability by proteins that bind AU-rich elements"
+}
+
+{
+  "g.name": "PARN",
+  "p.name": "Deadenylation of mRNA"
+}
+
+{
+  "g.name": "PARN",
+  "p.name": "KSRP destabilizes mRNA"
+}
+
+{
+  "g.name": "PARN",
+  "p.name": "Deadenylation-dependent mRNA decay"
+}
+

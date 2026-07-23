@@ -1,0 +1,1 @@
+Can you list genes that regulate the gene 'MYC' and share the same chromosome with it? Return also the regulation methods.

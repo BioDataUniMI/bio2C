@@ -1,0 +1,65 @@
+{
+  "d.name": "gestational diabetes",
+  "COLLECT(s.name)": [
+    "Weight Gain",
+    "Fetal Distress",
+    "Fetal Hypoxia",
+    "Fetal Macrosomia",
+    "Overweight",
+    "Birth Weight",
+    "Fetal Weight"
+  ]
+}
+
+{
+  "d.name": "type 1 diabetes mellitus",
+  "COLLECT(s.name)": [
+    "Polyuria",
+    "Down Syndrome",
+    "Proteinuria",
+    "Deafness",
+    "Brain Death",
+    "Hearing Loss, High-Frequency",
+    "Blindness",
+    "Insulin Coma",
+    "Bulimia",
+    "Fetal Distress",
+    "Weight Gain",
+    "Kearns-Sayre Syndrome",
+    "Gingival Hemorrhage",
+    "Albuminuria",
+    "Polydipsia",
+    "Dyspepsia",
+    "Pupil Disorders",
+    "Body Weight",
+    "Urinary Bladder, Neurogenic",
+    "Birth Weight",
+    "Hypotension, Orthostatic",
+    "Hearing Loss, Sensorineural",
+    "Fetal Macrosomia",
+    "Gastroparesis",
+    "Color Vision Defects",
+    "Wolfram Syndrome"
+  ]
+}
+
+{
+  "d.name": "type 2 diabetes mellitus",
+  "COLLECT(s.name)": [
+    "Gastroparesis",
+    "Obesity, Abdominal",
+    "Albuminuria",
+    "Birth Weight",
+    "Urinary Bladder, Overactive",
+    "Overweight",
+    "Weight Gain",
+    "Obesity",
+    "Weight Loss",
+    "Microvascular Angina",
+    "Body Weight",
+    "Flushing",
+    "Proteinuria",
+    "Acute Coronary Syndrome"
+  ]
+}
+

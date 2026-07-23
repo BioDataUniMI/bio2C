@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:INTERACTS_GiG]->(g2:Gene {name: 'RELA'})-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'response to hydrogen peroxide'})<-[:PARTICIPATES_GpBP]-(g1:Gene) RETURN g1.name

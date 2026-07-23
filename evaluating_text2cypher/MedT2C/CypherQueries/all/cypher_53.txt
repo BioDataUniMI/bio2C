@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Linagliptin'})-[:TREATS_CtD]->(d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy) RETURN d.name, a.name

@@ -1,0 +1,1 @@
+Which distinct diseases resemble Behcet-related disease' and downregulate the genes which participate in the pathway 'Late Phase of HIV Life Cycle'? 

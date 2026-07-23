@@ -1,0 +1,1 @@
+MATCH (se:SideEffect)<-[:CAUSES_CcSE]-(c:Compound) WHERE se.name IN ['Aggression', 'Feeling abnormal'] AND c.name ENDS WITH 'sone' RETURN c.name

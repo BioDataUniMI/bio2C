@@ -1,0 +1,25 @@
+{
+  "d.name": "hematologic cancer",
+  "gene_count": 550
+}
+
+{
+  "d.name": "breast cancer",
+  "gene_count": 540
+}
+
+{
+  "d.name": "prostate cancer",
+  "gene_count": 535
+}
+
+{
+  "d.name": "rheumatoid arthritis",
+  "gene_count": 267
+}
+
+{
+  "d.name": "anemia",
+  "gene_count": 262
+}
+

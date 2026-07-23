@@ -1,0 +1,1 @@
+Identify genes that interact with 'MYC' and participate in either 'Cell Cycle' or 'Wnt Signaling' pathways.

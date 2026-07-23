@@ -1,0 +1,1 @@
+Which genes have the minimum binding affinities with compounds and what are the affinities? Consider only low affinities (< 0.3).

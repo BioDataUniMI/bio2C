@@ -1,0 +1,1 @@
+Identify the number of diseases that upregulated genes which participate in the same biological processes involving the gene downregulate by 'lung cancer'.

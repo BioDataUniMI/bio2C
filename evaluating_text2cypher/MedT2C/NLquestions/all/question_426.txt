@@ -1,0 +1,1 @@
+Investigate compounds that palliate the same cancer-related diseases and such that at least one of them includes the word 'Estrogens' in the name.

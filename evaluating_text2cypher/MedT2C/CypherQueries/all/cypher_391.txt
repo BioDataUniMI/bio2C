@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name:'MAML2'} )-[:COVARIES_GcG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway)<-[:PARTICIPATES_GpPW]-(g1:Gene) RETURN g2.name

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpMF]->(:MolecularFunction {name: 'AMP deaminase activity'}) RETURN g.name

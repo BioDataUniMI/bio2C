@@ -1,0 +1,25 @@
+{
+  "c.name": "Acetaminophen",
+  "c.url": "http://www.drugbank.ca/drugs/DB00316"
+}
+
+{
+  "c.name": "Acetylsalicylic acid",
+  "c.url": "http://www.drugbank.ca/drugs/DB00945"
+}
+
+{
+  "c.name": "Naratriptan",
+  "c.url": "http://www.drugbank.ca/drugs/DB00952"
+}
+
+{
+  "c.name": "Indomethacin",
+  "c.url": "http://www.drugbank.ca/drugs/DB00328"
+}
+
+{
+  "c.name": "Cyclobenzaprine",
+  "c.url": "http://www.drugbank.ca/drugs/DB00924"
+}
+

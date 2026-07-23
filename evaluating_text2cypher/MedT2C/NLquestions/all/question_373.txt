@@ -1,0 +1,1 @@
+Which compound-binds-gene triples are characterized by a non-null binding affinities? Return 5 triples order from highest affinity to lowest breaking ties alphabetically according to compound and gene name.

@@ -1,0 +1,4 @@
+{
+  "max_disease_count": 36
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'alcohol dependence'})-[:DOWNREGULATES_DdG]->(g:Gene) WHERE g.name STARTS WITH 'COX' RETURN g.name

@@ -1,0 +1,1 @@
+Among the genes participating in the pathway 'Immune System', how many of them are upregulated by the disease 'hematologic cancer'?

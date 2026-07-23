@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Azathioprine'})-[r:BINDS_CbG]->(g:Gene) RETURN g.name, r.actions

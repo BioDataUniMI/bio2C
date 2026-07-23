@@ -1,0 +1,1 @@
+Find genes that covary with the gene 'CDH1' when the latter participates in the cellular component named 'cell cortex'.

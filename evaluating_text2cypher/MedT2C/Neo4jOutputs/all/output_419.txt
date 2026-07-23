@@ -1,0 +1,55 @@
+{
+  "g1.name": "NAMPT",
+  "g2.name": "IFITM3",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g1.name": "FGF2",
+  "g2.name": "FGFBP1",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g1.name": "FGF2",
+  "g2.name": "FGFR1",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g1.name": "FGF2",
+  "g2.name": "FGFR2",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g1.name": "GCK",
+  "g2.name": "PFKFB1",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+

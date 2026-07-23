@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(:Pathway {name: 'MAPK Signaling Pathway'}) WHERE g1.chromosome = g2.chromosome = '1' RETURN g1.name, g2.name

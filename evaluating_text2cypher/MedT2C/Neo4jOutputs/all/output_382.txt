@@ -1,0 +1,20 @@
+{
+  "g.name": "DRD4"
+}
+
+{
+  "g.name": "DRD1"
+}
+
+{
+  "g.name": "COMT"
+}
+
+{
+  "g.name": "SLC22A1"
+}
+
+{
+  "g.name": "SLC6A4"
+}
+

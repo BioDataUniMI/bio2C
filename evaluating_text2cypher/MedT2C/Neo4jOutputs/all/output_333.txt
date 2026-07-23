@@ -1,0 +1,12 @@
+{
+  "mf.name": "transferase activity, transferring phosphorus-containing groups"
+}
+
+{
+  "mf.name": "phosphotransferase activity, alcohol group as acceptor"
+}
+
+{
+  "mf.name": "kinase activity"
+}
+

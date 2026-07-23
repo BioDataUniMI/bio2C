@@ -1,0 +1,20 @@
+{
+  "g2.name": "DLGAP5"
+}
+
+{
+  "g2.name": "COASY"
+}
+
+{
+  "g2.name": "MSRB1"
+}
+
+{
+  "g2.name": "PTPRF"
+}
+
+{
+  "g2.name": "KIAA1804"
+}
+

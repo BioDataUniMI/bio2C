@@ -1,0 +1,20 @@
+{
+  "g.name": "CTNNB1"
+}
+
+{
+  "g.name": "ARID1A"
+}
+
+{
+  "g.name": "CST3"
+}
+
+{
+  "g.name": "NEFH"
+}
+
+{
+  "g.name": "ICAM1"
+}
+

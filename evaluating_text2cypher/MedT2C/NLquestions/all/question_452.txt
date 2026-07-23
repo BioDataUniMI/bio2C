@@ -1,0 +1,1 @@
+List the genes that are characterized by non-null binding affinities with the compound 'Lisinopril'.

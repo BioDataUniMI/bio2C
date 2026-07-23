@@ -1,0 +1,1 @@
+Which genes participate in the 'DNA Repair' pathway and regulate genes where 'knockdown downregulates' and 'overexpression downregulates' are both subtypes of the regulation?

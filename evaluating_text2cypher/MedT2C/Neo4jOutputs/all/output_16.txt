@@ -1,0 +1,5 @@
+{
+  "bp.name": "'de novo' CTP biosynthetic process",
+  "gene_count": 2
+}
+

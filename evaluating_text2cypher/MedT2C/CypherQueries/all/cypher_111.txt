@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WHERE p.name = 'Apoptosis' OR p.name = 'Cell Cycle' RETURN COUNT(g)

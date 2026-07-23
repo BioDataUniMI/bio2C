@@ -1,0 +1,20 @@
+{
+  "d.name": "testicular cancer"
+}
+
+{
+  "d.name": "pancreatitis"
+}
+
+{
+  "d.name": "uterine cancer"
+}
+
+{
+  "d.name": "Crohn's disease"
+}
+
+{
+  "d.name": "duodenum cancer"
+}
+

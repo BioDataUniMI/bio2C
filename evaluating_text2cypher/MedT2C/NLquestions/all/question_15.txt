@@ -1,0 +1,1 @@
+What distinct GTPase-related molecular functions do genes participating in the biological process 'cytokinesis' or 'chemotaxis' participate in

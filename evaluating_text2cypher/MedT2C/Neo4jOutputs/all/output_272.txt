@@ -1,0 +1,20 @@
+{
+  "d.name": "meningioma"
+}
+
+{
+  "d.name": "conduct disorder"
+}
+
+{
+  "d.name": "brain cancer"
+}
+
+{
+  "d.name": "multiple sclerosis"
+}
+
+{
+  "d.name": "malignant glioma"
+}
+

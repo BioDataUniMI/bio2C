@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'MAPK1'})-[:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway {name: 'MAPK Signaling Pathway'}) RETURN g2.name

@@ -1,0 +1,1 @@
+Which pharmacologic class has the minimum number of compounds (breaking ties alphabetically according to pharmacologic class name), and what is the count?

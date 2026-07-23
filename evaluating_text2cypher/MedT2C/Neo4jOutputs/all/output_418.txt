@@ -1,0 +1,24 @@
+{
+  "c.name": "Aprepitant",
+  "d.name": "colon cancer",
+  "r.log2_fold_change": 1.0211
+}
+
+{
+  "c.name": "Celecoxib",
+  "d.name": "colon cancer",
+  "r.log2_fold_change": 1.0211
+}
+
+{
+  "c.name": "Betamethasone",
+  "d.name": "colon cancer",
+  "r.log2_fold_change": 1.0211
+}
+
+{
+  "c.name": "Dexamethasone",
+  "d.name": "colon cancer",
+  "r.log2_fold_change": 1.0211
+}
+

@@ -1,0 +1,1 @@
+Which genes participate in shared pathways with 'AKT1' and also share the same chromosome?

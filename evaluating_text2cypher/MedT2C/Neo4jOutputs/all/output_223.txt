@@ -1,0 +1,20 @@
+{
+  "d.name": "ulcerative colitis"
+}
+
+{
+  "d.name": "Crohn's disease"
+}
+
+{
+  "d.name": "rheumatoid arthritis"
+}
+
+{
+  "d.name": "ankylosing spondylitis"
+}
+
+{
+  "d.name": "ulcerative colitis"
+}
+

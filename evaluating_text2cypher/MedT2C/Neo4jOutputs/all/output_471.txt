@@ -1,0 +1,59 @@
+{
+  "g2.name": "TBC1D15",
+  "molecular_functions": [
+    "enzyme regulator activity",
+    "nucleoside-triphosphatase regulator activity",
+    "enzyme activator activity",
+    "GTPase regulator activity",
+    "GTPase activator activity"
+  ]
+}
+
+{
+  "g2.name": "F7",
+  "molecular_functions": [
+    "glycoprotein binding",
+    "serine hydrolase activity",
+    "serine-type endopeptidase activity",
+    "peptidase activity",
+    "calcium ion binding",
+    "serine-type peptidase activity",
+    "endopeptidase activity",
+    "peptidase activity, acting on L-amino acid peptides"
+  ]
+}
+
+{
+  "g2.name": "TTC3",
+  "molecular_functions": [
+    "ubiquitin-like protein transferase activity",
+    "ligase activity",
+    "ubiquitin-protein transferase activity"
+  ]
+}
+
+{
+  "g2.name": "UBA52",
+  "molecular_functions": [
+    "structural constituent of ribosome",
+    "structural molecule activity"
+  ]
+}
+
+{
+  "g2.name": "SUCLG1",
+  "molecular_functions": [
+    "cofactor binding",
+    "acid-thiol ligase activity",
+    "CoA-ligase activity",
+    "GTP binding",
+    "ligase activity",
+    "ligase activity, forming carbon-sulfur bonds",
+    "guanyl ribonucleotide binding",
+    "guanyl nucleotide binding",
+    "succinate-CoA ligase activity",
+    "succinate-CoA ligase (GDP-forming) activity",
+    "succinate-CoA ligase (ADP-forming) activity"
+  ]
+}
+

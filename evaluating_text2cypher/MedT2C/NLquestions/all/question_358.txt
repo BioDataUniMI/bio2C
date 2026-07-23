@@ -1,0 +1,1 @@
+List the genes that are bound by compounds causing the side effect 'Nausea' and binding 'affinity_nM' equal to 1000.

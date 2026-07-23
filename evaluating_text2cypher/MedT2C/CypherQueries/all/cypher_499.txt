@@ -1,0 +1,1 @@
+MATCH (s:Symptom) WHERE toLower(s.name) CONTAINS 'sleep' RETURN s.name

@@ -1,0 +1,20 @@
+{
+  "g1.name": "AARS"
+}
+
+{
+  "g1.name": "HSPD1"
+}
+
+{
+  "g1.name": "NONO"
+}
+
+{
+  "g1.name": "HSP90AB1"
+}
+
+{
+  "g1.name": "PRDX2"
+}
+

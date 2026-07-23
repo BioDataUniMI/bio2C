@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess )<-[:PARTICIPATES_GpBP]-(g:Gene) WHERE bp.name CONTAINS 'apoptosis' RETURN bp.name, COLLECT(g.name)

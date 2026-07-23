@@ -1,0 +1,1 @@
+MATCH (:Anatomy {name: 'midbrain'})-[:DOWNREGULATES_AdG]->(g:Gene)-[:INTERACTS_GiG]->(:Gene {name: 'HNF4A'}) RETURN g.name

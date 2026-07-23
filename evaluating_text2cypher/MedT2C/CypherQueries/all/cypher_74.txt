@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'CDK1'})-[:INTERACTS_GiG]->(g1:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WITH g1, COUNT(p) as pw_count RETURN AVG(pw_count)

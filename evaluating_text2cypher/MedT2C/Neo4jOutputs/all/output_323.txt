@@ -1,0 +1,20 @@
+{
+  "g.name": "MEX3A"
+}
+
+{
+  "g.name": "ZC2HC1C"
+}
+
+{
+  "g.name": "STK33"
+}
+
+{
+  "g.name": "ZBED8"
+}
+
+{
+  "g.name": "DNAAF3"
+}
+

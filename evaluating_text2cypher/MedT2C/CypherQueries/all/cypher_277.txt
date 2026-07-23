@@ -1,0 +1,1 @@
+MATCH (:Gene {name: 'CDK4'})-[:INTERACTS_GiG]->(g:Gene)-[:PARTICIPATES_GpCC]->(:CellularComponent {name: 'chromosomal region'}) RETURN g.name

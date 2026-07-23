@@ -1,0 +1,1 @@
+Look for the distinct diseases that associate the genes which participate in the pathways 'Signaling by GPCR' and 'Oxidative Stress'.

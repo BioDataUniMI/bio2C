@@ -1,0 +1,1 @@
+Which genes are regulated by the gene 'MYC' and they are located on the same chromosome of 'MYC'?

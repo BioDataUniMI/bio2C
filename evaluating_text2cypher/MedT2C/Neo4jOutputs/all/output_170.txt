@@ -1,0 +1,25 @@
+{
+  "g.name": "UHRF1",
+  "mf.name": "nucleosome binding"
+}
+
+{
+  "g.name": "UHRF1",
+  "mf.name": "core promoter proximal region DNA binding"
+}
+
+{
+  "g.name": "UHRF1",
+  "mf.name": "transcription regulatory region sequence-specific DNA binding"
+}
+
+{
+  "g.name": "UHRF1",
+  "mf.name": "ubiquitin-protein transferase activity"
+}
+
+{
+  "g.name": "UHRF1",
+  "mf.name": "methyl-CpG binding"
+}
+

@@ -1,0 +1,20 @@
+{
+  "c.name": "Dexamethasone"
+}
+
+{
+  "c.name": "Medroxyprogesterone Acetate"
+}
+
+{
+  "c.name": "Megestrol acetate"
+}
+
+{
+  "c.name": "Methyltestosterone"
+}
+
+{
+  "c.name": "Estradiol valerate/Dienogest"
+}
+

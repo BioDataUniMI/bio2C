@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess)<-[:PARTICIPATES_GpBP]-(other:Gene) WHERE g.name = 'CCL5' RETURN COUNT(other) AS gene_count

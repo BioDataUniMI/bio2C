@@ -1,0 +1,37 @@
+{
+  "g.name": "CYP2C19",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "ADRB2",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "ADRB1",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "CYP2D6",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "ABCB1",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+

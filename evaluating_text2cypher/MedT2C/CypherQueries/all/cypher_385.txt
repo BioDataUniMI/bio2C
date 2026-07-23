@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'psoriasis'})<-[r:TREATS_CtD]-(c:Compound) RETURN c.name, r.source

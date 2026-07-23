@@ -1,0 +1,25 @@
+{
+  "g.name": "HTR2A",
+  "min_affinity": 0.2942
+}
+
+{
+  "g.name": "HRH1",
+  "min_affinity": 0.087
+}
+
+{
+  "g.name": "CYSLTR1",
+  "min_affinity": 0.26
+}
+
+{
+  "g.name": "JAK2",
+  "min_affinity": 0.036000000000000004
+}
+
+{
+  "g.name": "DRD2",
+  "min_affinity": 8e-05
+}
+

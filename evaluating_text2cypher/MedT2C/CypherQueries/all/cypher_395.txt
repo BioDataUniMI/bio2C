@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'rheumatoid arthritis'})<-[:PALLIATES_CpD]-(c:Compound)-[r:CAUSES_CcSE]->(se:SideEffect) WHERE se.name CONTAINS 'paralysis' RETURN c.name, se.name

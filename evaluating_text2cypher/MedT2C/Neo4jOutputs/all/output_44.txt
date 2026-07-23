@@ -1,0 +1,20 @@
+{
+  "g.name": "BRCA1"
+}
+
+{
+  "g.name": "UBA52"
+}
+
+{
+  "g.name": "POLE2"
+}
+
+{
+  "g.name": "POLE"
+}
+
+{
+  "g.name": "UBC"
+}
+

@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction {name: 'GTPase activity'})<-[:PARTICIPATES_GpMF]-(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) RETURN COUNT(g)

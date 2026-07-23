@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Metoprolol'})-[:BINDS_CbG]->(g:Gene),(c)-[:DOWNREGULATES_CdG]->(g2:Gene) RETURN g.name, g2.name

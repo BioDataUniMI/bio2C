@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'migraine'})-[:PRESENTS_DpS]->(s:Symptom)<-[:PRESENTS_DpS]-(d2:Disease) WHERE d2.name CONTAINS 'malignant' RETURN DISTINCT d2.name

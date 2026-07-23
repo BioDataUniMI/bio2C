@@ -1,0 +1,1 @@
+MATCH (:Gene {name: 'BRCA1'})-[:COVARIES_GcG]->(g:Gene)-[:PARTICIPATES_GpCC]->(cc:CellularComponent {name: 'telomere cap complex'}) RETURN g.name

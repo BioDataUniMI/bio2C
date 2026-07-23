@@ -1,0 +1,20 @@
+{
+  "c2.name": "Betamethasone"
+}
+
+{
+  "c2.name": "Dexamethasone"
+}
+
+{
+  "c2.name": "Hydrocortisone"
+}
+
+{
+  "c2.name": "Prednisone"
+}
+
+{
+  "c2.name": "Fludrocortisone"
+}
+

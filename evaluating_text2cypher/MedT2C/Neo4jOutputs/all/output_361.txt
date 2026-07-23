@@ -1,0 +1,20 @@
+{
+  "g.name": "H1FOO"
+}
+
+{
+  "g.name": "MLH3"
+}
+
+{
+  "g.name": "AURKA"
+}
+
+{
+  "g.name": "TERF2"
+}
+
+{
+  "g.name": "SYCP1"
+}
+

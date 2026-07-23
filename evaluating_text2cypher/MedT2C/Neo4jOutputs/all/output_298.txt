@@ -1,0 +1,25 @@
+{
+  "d.name": "hypertension",
+  "a.name": "renal artery"
+}
+
+{
+  "d.name": "adrenal gland cancer",
+  "a.name": "renal artery"
+}
+
+{
+  "d.name": "intracranial aneurysm",
+  "a.name": "radial artery"
+}
+
+{
+  "d.name": "hypertension",
+  "a.name": "radial artery"
+}
+
+{
+  "d.name": "hypertension",
+  "a.name": "middle cerebral artery"
+}
+

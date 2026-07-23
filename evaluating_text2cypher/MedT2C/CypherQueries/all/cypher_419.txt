@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'gestational diabetes'})-[:ASSOCIATES_DaG]->(g1:Gene)-[r:INTERACTS_GiG]->(g2:Gene) WHERE 'hetio-dag' IN r.sources AND SIZE(r.sources) > 3 RETURN g1.name, g2.name, r.sources

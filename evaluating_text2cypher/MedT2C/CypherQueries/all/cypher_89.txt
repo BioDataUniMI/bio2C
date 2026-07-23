@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'azoospermia'})-[:UPREGULATES_DuG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Metabolism'}) RETURN g.name

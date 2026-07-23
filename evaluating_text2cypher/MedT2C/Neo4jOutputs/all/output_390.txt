@@ -1,0 +1,25 @@
+{
+  "c1.name": "Medrysone",
+  "c2.name": "Paramethasone"
+}
+
+{
+  "c1.name": "Prednisone",
+  "c2.name": "Paramethasone"
+}
+
+{
+  "c1.name": "Betamethasone",
+  "c2.name": "Paramethasone"
+}
+
+{
+  "c1.name": "Hydrocortisone",
+  "c2.name": "Paramethasone"
+}
+
+{
+  "c1.name": "Dexamethasone",
+  "c2.name": "Paramethasone"
+}
+

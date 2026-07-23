@@ -1,0 +1,1 @@
+How many genes that participate in the molecular function 'Receptor Binding' also participate in biological processes?

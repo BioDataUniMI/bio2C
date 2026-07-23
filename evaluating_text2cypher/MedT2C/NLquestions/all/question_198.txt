@@ -1,0 +1,1 @@
+List the genes that regulate the gene 'TP53' and participate in the 'chromatin' cellular component.

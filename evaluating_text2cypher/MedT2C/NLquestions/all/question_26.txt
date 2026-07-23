@@ -1,0 +1,1 @@
+Find unique diseases upregulating or downregulating the genes which participate in the pathway 'Oxidative phosphorylation'.

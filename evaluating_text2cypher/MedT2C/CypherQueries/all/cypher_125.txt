@@ -1,0 +1,1 @@
+MATCH (s:SideEffect)<-[:CAUSES_CcSE]-(c:Compound) RETURN s.name, COUNT(c) AS compound_count ORDER BY compound_count DESC, s.name ASC LIMIT 3

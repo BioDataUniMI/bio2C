@@ -1,0 +1,20 @@
+{
+  "cc.name": "organelle subcompartment"
+}
+
+{
+  "cc.name": "plasma membrane raft"
+}
+
+{
+  "cc.name": "cytoplasmic side of membrane"
+}
+
+{
+  "cc.name": "cell cortex"
+}
+
+{
+  "cc.name": "lamellipodium"
+}
+

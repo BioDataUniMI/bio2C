@@ -1,0 +1,20 @@
+{
+  "g2.name": "CTNNAL1"
+}
+
+{
+  "g2.name": "TRIM22"
+}
+
+{
+  "g2.name": "HSPD1"
+}
+
+{
+  "g2.name": "PIK3C2B"
+}
+
+{
+  "g2.name": "GPSM3"
+}
+

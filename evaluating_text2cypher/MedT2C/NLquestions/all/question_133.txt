@@ -1,0 +1,1 @@
+Find the maximum number of genes which are downregulated by a anatomical structure and upregulated by 'bone marrow'.

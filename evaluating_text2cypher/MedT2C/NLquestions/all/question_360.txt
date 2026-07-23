@@ -1,0 +1,1 @@
+With which genes does the gene 'TP53' interact, when the interaction is supported by more that 3 sources including 'hetio-dag'?

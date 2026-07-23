@@ -1,0 +1,20 @@
+{
+  "p.name": "Signaling by NGF"
+}
+
+{
+  "p.name": "Signaling by EGFR"
+}
+
+{
+  "p.name": "Disease"
+}
+
+{
+  "p.name": "Signaling by GPCR"
+}
+
+{
+  "p.name": "EGFR Transactivation by Gastrin"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'CDK4'})-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess)<-[:PARTICIPATES_GpBP]-(g2:Gene {name:'STXBP4'}) RETURN bp.name

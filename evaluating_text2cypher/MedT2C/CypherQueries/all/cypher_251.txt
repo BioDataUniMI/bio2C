@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'STAT3'})-[:REGULATES_GrG]->(:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) WHERE mf.name CONTAINS 'GTP' RETURN mf.name

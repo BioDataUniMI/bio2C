@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:ASSOCIATES_DaG]->(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WITH d, COUNT(DISTINCT p) AS pathway_count RETURN d.name, pathway_count ORDER BY pathway_count DESC, d.name ASC LIMIT 1

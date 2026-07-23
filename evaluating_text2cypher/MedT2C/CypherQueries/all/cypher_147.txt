@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'coronary artery disease'})<-[:TREATS_CtD]-(c:Compound)-[:TREATS_CtD]->(d2:Disease {name: 'glaucoma'}) MATCH (c)-[:CAUSES_CcSE]->(se:SideEffect) RETURN c.name, COUNT(se)

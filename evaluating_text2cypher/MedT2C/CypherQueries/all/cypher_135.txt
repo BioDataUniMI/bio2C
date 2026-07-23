@@ -1,0 +1,1 @@
+MATCH (a:Anatomy)-[:EXPRESSES_AeG]->(g:Gene)<-[:DOWNREGULATES_AdG]-(b:Anatomy {name: 'liver'}) RETURN COUNT(a)

@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Ziprasidone'})-[:RESEMBLES_CrC]->(c1:Compound)-[:DOWNREGULATES_CdG]->(g:Gene) RETURN g.name, c1.name

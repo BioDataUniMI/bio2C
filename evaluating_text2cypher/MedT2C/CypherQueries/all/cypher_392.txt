@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Vinca Alkaloids'})-[:INCLUDES_PCiC]->(c:Compound)-[:UPREGULATES_CuG]->(g:Gene) WHERE g.name CONTAINS 'PPP' RETURN g.name

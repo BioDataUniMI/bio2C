@@ -1,0 +1,1 @@
+What are the distinct anatomical locations whose name include 'system' associated with genes in cellular component with identifier 'GO:0034677' or with name 'nuclear chromosome, telomeric region'?

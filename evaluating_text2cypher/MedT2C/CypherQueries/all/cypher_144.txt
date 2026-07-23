@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass {name: 'Adrenergic beta2-Agonists'})-[:INCLUDES_PCiC]->(c:Compound)-[:TREATS_CtD]->(d:Disease) WITH c,COUNT(d) as disease_count RETURN AVG(disease_count)

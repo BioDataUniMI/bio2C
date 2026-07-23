@@ -1,0 +1,6 @@
+Errore durante l'esecuzione della query:
+{neo4j_code: Neo.ClientError.Statement.SyntaxError} {message: Invalid input 'f': expected 'a/A' or 'e/E' (line 1, column 149 (offset: 148))
+"MATCH (bp:BiologicalProcess {name: 'regulation of heart contraction'})<-[:PARTICIPATES_GpBP]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) mf.name CONTAINS 'RNA' RETURN DISTINCT mf.name LIMIT 5"
+                                                                                                                                                     ^} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Invalid input 'f': expected 'a/A' or 'e/E' (line 1, column 149 (offset: 148))
+"MATCH (bp:BiologicalProcess {name: 'regulation of heart contraction'})<-[:PARTICIPATES_GpBP]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) mf.name CONTAINS 'RNA' RETURN DISTINCT mf.name LIMIT 5"
+                                                                                                                                                     ^}

@@ -1,0 +1,20 @@
+{
+  "g2.name": "HSP90AB1"
+}
+
+{
+  "g2.name": "HSP90AB1"
+}
+
+{
+  "g2.name": "HSP90AB1"
+}
+
+{
+  "g2.name": "HSP90AB1"
+}
+
+{
+  "g2.name": "HSP90AB1"
+}
+

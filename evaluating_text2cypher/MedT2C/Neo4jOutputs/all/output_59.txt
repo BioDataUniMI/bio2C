@@ -1,0 +1,25 @@
+{
+  "c.name": "Sibutramine",
+  "g.name": "TXNDC9"
+}
+
+{
+  "c.name": "Sibutramine",
+  "g.name": "MIF"
+}
+
+{
+  "c.name": "Sibutramine",
+  "g.name": "MTHFD2"
+}
+
+{
+  "c.name": "Sibutramine",
+  "g.name": "TIMM9"
+}
+
+{
+  "c.name": "Sibutramine",
+  "g.name": "MRPL19"
+}
+

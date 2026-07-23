@@ -1,0 +1,1 @@
+Identify compounds that palliate diseases also treated by 'Metformin'.

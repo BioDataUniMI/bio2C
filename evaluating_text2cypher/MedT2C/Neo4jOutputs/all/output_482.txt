@@ -1,0 +1,25 @@
+{
+  "mf.name": "protein homodimerization activity",
+  "g.name": "PSMD7"
+}
+
+{
+  "mf.name": "MDM2/MDM4 family protein binding",
+  "g.name": "PSME3"
+}
+
+{
+  "mf.name": "endopeptidase regulator activity",
+  "g.name": "PSME3"
+}
+
+{
+  "mf.name": "enzyme activator activity",
+  "g.name": "PSME3"
+}
+
+{
+  "mf.name": "peptidase activator activity",
+  "g.name": "PSME3"
+}
+

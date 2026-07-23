@@ -1,0 +1,1 @@
+Find genes that interact with 'PTEN' and participate in the same biological process named 'heart development' in which also 'PTEN' participates.

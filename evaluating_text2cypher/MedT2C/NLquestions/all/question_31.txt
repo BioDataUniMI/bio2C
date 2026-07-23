@@ -1,0 +1,1 @@
+What are the diseases associated with genes starting with the letter 'A' that are bound to the compound 'Progesterone' and have a binding affinity between 10 and 100 nM?

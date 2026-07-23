@@ -1,0 +1,1 @@
+MATCH (c1:Compound)-[:TREATS_CtD]->(d:Disease)<-[:TREATS_CtD]-(c2:Compound) WHERE c1 <> c2 WITH c1, c2, COUNT(DISTINCT d) AS shared_diseases RETURN c1.name, c2.name, shared_diseases ORDER BY shared_diseases DESC, c1.name ASC, c2.name ASC LIMIT 5

@@ -1,0 +1,16 @@
+{
+  "g1.name": "SPRY1"
+}
+
+{
+  "g1.name": "RBMX"
+}
+
+{
+  "g1.name": "RING1"
+}
+
+{
+  "g1.name": "SAMD7"
+}
+

@@ -1,0 +1,1 @@
+Find five biological processes in which genes bound by compounds included in the pharmacologic class 'Thyroxine' participate.

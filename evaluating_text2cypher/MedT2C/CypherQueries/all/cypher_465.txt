@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'systemic scleroderma'})<-[r:TREATS_CtD|PALLIATES_CpD]-(c:Compound) RETURN c.name, TYPE(r)

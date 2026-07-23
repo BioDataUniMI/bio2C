@@ -1,0 +1,1 @@
+Which are the top 5 genes with the highest downregulation 'z_score' in response to compounds that treat osteoporosis, considering only 'z_score' > -5? In case of ties, order alphabetically by gene name.

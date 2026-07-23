@@ -1,0 +1,25 @@
+{
+  "c.name": "Gabapentin",
+  "se.name": "VIIth nerve paralysis"
+}
+
+{
+  "c.name": "Gabapentin",
+  "se.name": "Nerve paralysis"
+}
+
+{
+  "c.name": "Gabapentin",
+  "se.name": "Facial paralysis"
+}
+
+{
+  "c.name": "Lidocaine",
+  "se.name": "Cranial nerve paralysis"
+}
+
+{
+  "c.name": "Lidocaine",
+  "se.name": "Respiratory paralysis"
+}
+

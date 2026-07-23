@@ -1,0 +1,20 @@
+{
+  "g1.name": "GSTZ1"
+}
+
+{
+  "g1.name": "NDUFB7"
+}
+
+{
+  "g1.name": "TRAM2"
+}
+
+{
+  "g1.name": "PUF60"
+}
+
+{
+  "g1.name": "RPTOR"
+}
+

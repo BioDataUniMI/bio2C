@@ -1,0 +1,1 @@
+Can you find genes that interact with the gene 'TP53' when those genes participate in the cellular component 'chromatin'?

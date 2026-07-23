@@ -1,0 +1,1 @@
+Which genes interact with the gene NR1H2 and participate in the same biological processes in which the mentioned gene participates, when interaction sources exceed 2 items (> 2) and one of those items is 'hetio-dag'?

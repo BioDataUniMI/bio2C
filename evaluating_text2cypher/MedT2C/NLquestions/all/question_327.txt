@@ -1,0 +1,1 @@
+Which genes whose name starts with 'HIST' are regulated by the gene 'STAT3'?

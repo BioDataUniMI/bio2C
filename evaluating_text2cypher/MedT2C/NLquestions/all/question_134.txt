@@ -1,0 +1,1 @@
+Order the bone-related anatomical structures by the number of diseases which localize in each of them. Start with the largest number.

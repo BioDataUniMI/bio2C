@@ -1,0 +1,8 @@
+{
+  "g2.name": "RPGRIP1"
+}
+
+{
+  "g2.name": "TINF2"
+}
+

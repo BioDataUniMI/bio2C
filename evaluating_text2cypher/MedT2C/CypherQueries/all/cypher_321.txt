@@ -1,0 +1,1 @@
+MATCH (d:Disease {name:'nicotine dependence'})<-[:PALLIATES_CpD]-(c:Compound) RETURN c.name

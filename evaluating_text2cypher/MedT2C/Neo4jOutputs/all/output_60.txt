@@ -1,0 +1,25 @@
+{
+  "p.name": "Adrenergic alpha2-Agonists",
+  "c.name": "Clonidine"
+}
+
+{
+  "p.name": "Cholinergic Muscarinic Agonists",
+  "c.name": "Pilocarpine"
+}
+
+{
+  "p.name": "Iodine",
+  "c.name": "Echothiophate"
+}
+
+{
+  "p.name": "Prostaglandins",
+  "c.name": "Travoprost"
+}
+
+{
+  "p.name": "Prostaglandins",
+  "c.name": "Latanoprost"
+}
+

@@ -1,0 +1,12 @@
+{
+  "d.name": "psoriasis"
+}
+
+{
+  "d.name": "ankylosing spondylitis"
+}
+
+{
+  "d.name": "psoriatic arthritis"
+}
+

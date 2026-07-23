@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'EGFR'})<-[:BINDS_CbG]-(c:Compound)-[:CAUSES_CcSE]->(se:SideEffect) WHERE se.name CONTAINS 'pain' RETURN se.name

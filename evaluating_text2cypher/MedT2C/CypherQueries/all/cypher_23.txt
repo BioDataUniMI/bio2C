@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound)-[:UPREGULATES_CuG|DOWNREGULATES_CdG]->(g:Gene) WHERE pc.name = 'Cytochrome P450 2D6 Inducers' RETURN g.name

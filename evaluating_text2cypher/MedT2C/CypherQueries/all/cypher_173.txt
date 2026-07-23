@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'PTPN11'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN mf.name

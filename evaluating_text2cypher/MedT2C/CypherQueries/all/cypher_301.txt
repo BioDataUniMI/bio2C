@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Ibuprofen'})-[:CAUSES_CcSE]->(se:SideEffect)<-[:CAUSES_CcSE]-(c2:Compound) WHERE c2.name ENDS WITH 'en' RETURN DISTINCT c2.name

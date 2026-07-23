@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass {name: 'Central Nervous System Stimulation'})-[:INCLUDES_PCiC]->(c:Compound)-[:BINDS_CbG]->(g:Gene {name: 'CYP3A4'}) RETURN c.name

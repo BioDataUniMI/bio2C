@@ -1,0 +1,25 @@
+{
+  "g1.name": "NGF",
+  "g2.name": "NTRK1"
+}
+
+{
+  "g1.name": "SFN",
+  "g2.name": "MAP3K6"
+}
+
+{
+  "g1.name": "PRKAB2",
+  "g2.name": "MAP3K6"
+}
+
+{
+  "g1.name": "PRKAA2",
+  "g2.name": "MAP3K6"
+}
+
+{
+  "g1.name": "NTRK1",
+  "g2.name": "RAP1A"
+}
+

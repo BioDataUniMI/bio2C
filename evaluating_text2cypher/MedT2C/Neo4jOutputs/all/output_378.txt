@@ -1,0 +1,30 @@
+{
+  "c.name": "Pazopanib",
+  "r.affinity_nM": 960.0,
+  "g.name": "PI4KB"
+}
+
+{
+  "c.name": "Pazopanib",
+  "r.affinity_nM": 989.44429,
+  "g.name": "LYN"
+}
+
+{
+  "c.name": "Pazopanib",
+  "r.affinity_nM": 940.0,
+  "g.name": "MAP3K19"
+}
+
+{
+  "c.name": "Pazopanib",
+  "r.affinity_nM": 990.0,
+  "g.name": "FGFR1"
+}
+
+{
+  "c.name": "Acarbose",
+  "r.affinity_nM": 996.0,
+  "g.name": "AMY1A"
+}
+

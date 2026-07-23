@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'MYC'})<-[r:REGULATES_GrG]-(g2:Gene) WHERE g1.chromosome = g2.chromosome RETURN g2.name, r.method

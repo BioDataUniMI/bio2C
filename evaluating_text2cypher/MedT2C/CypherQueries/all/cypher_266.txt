@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'MCM9'})-[:PARTICIPATES_GpPW]->(pw:Pathway) RETURN pw.name

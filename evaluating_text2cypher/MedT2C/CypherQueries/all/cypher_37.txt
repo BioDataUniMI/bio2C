@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'azoospermia'})-[:ASSOCIATES_DaG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'female sex differentiation'}) RETURN g.name

@@ -1,0 +1,20 @@
+{
+  "g2.name": "ME3"
+}
+
+{
+  "g2.name": "TPMT"
+}
+
+{
+  "g2.name": "ZNF503"
+}
+
+{
+  "g2.name": "PGK1"
+}
+
+{
+  "g2.name": "SYK"
+}
+

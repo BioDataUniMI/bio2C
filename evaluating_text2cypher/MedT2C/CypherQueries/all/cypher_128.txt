@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy) WITH a, COUNT(d) AS disease_count RETURN MAX(disease_count) AS max_disease_count

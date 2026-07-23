@@ -1,0 +1,1 @@
+Which pairs of distinct genes on chromosome 2 both participate in the same pathway and are both associated with the molecular function 'frizzled binding'? Return the two gene names.

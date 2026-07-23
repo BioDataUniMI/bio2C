@@ -1,0 +1,1 @@
+Which compounds whose name ends with 'sone' are known to cause either the side effect 'Aggression' or 'Feeling abnormal' ?

@@ -1,0 +1,1 @@
+MATCH (a:Anatomy)-[:DOWNREGULATES_AdG]->(g:Gene)<-[:UPREGULATES_AuG]-(b:Anatomy {name: 'bone marrow'}) WITH a,COUNT(g) as gene_count RETURN MAX(gene_count)

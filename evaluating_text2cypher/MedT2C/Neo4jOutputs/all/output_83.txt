@@ -1,0 +1,25 @@
+{
+  "c.name": "Vemurafenib",
+  "d.name": "skin cancer"
+}
+
+{
+  "c.name": "Vemurafenib",
+  "d.name": "melanoma"
+}
+
+{
+  "c.name": "Raloxifene",
+  "d.name": "breast cancer"
+}
+
+{
+  "c.name": "Verapamil",
+  "d.name": "migraine"
+}
+
+{
+  "c.name": "Cisplatin",
+  "d.name": "urinary bladder cancer"
+}
+

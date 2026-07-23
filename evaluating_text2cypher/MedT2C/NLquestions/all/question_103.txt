@@ -1,0 +1,1 @@
+What are the compounds that resemble the compound with identifier 'DB01603' and that have a similarity score greater than 0.7? Start listing the compounds by the largest similarity.

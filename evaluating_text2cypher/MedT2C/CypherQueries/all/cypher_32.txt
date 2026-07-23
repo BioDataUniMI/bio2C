@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r:BINDS_CbG]->(g:Gene {name: 'CYP1A2'}) WHERE 'inhibitor' IN r.actions OR 'substrate' IN r.actions AND c.name STARTS WITH 'B' RETURN c.name, r.actions

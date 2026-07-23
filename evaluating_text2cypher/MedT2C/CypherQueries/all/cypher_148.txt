@@ -1,0 +1,1 @@
+MATCH (se:SideEffect)<-[:CAUSES_CcSE]-(c:Compound)-[:TREATS_CtD]->(d:Disease {name: 'asthma'}) WITH c,COUNT(se) as se_count RETURN c.name,se_count ORDER BY se_count DESC

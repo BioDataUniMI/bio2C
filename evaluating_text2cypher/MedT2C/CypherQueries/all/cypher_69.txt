@@ -1,0 +1,1 @@
+MATCH (a:Anatomy)-[:UPREGULATES_AuG]->(g:Gene) WHERE g.name = 'CFAP45' OR g.name = 'EDN3' RETURN DISTINCT a.name

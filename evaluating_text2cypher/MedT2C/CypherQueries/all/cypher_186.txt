@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Amitriptyline'})-[:RESEMBLES_CrC]->(c2:Compound)-[:PALLIATES_CpD]->(d:Disease) RETURN d.name

@@ -1,0 +1,1 @@
+Which distinct compounds treating diseases present symptoms related to 'Pain'?

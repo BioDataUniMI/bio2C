@@ -1,0 +1,20 @@
+{
+  "g2.name": "MAPK1"
+}
+
+{
+  "g2.name": "MAPK6"
+}
+
+{
+  "g2.name": "MAPK4"
+}
+
+{
+  "g2.name": "MAP3K4"
+}
+
+{
+  "g2.name": "MAP3K7"
+}
+

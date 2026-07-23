@@ -1,0 +1,30 @@
+{
+  "g.name": "AR",
+  "r.affinity_nM": 10.40461,
+  "d.name": "polycystic ovary syndrome"
+}
+
+{
+  "g.name": "AR",
+  "r.affinity_nM": 10.40461,
+  "d.name": "prostate cancer"
+}
+
+{
+  "g.name": "AR",
+  "r.affinity_nM": 10.40461,
+  "d.name": "type 2 diabetes mellitus"
+}
+
+{
+  "g.name": "AR",
+  "r.affinity_nM": 10.40461,
+  "d.name": "breast cancer"
+}
+
+{
+  "g.name": "AR",
+  "r.affinity_nM": 10.40461,
+  "d.name": "obesity"
+}
+

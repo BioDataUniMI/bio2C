@@ -1,0 +1,20 @@
+{
+  "g.name": "EYA1"
+}
+
+{
+  "g.name": "APTX"
+}
+
+{
+  "g.name": "PNKP"
+}
+
+{
+  "g.name": "PPP4C"
+}
+
+{
+  "g.name": "EYA3"
+}
+

@@ -1,0 +1,1 @@
+Look for compunds whose name ends with 'nin' and which downregulate the genes participating the biological process 'endocytosis' or 'viral process'.

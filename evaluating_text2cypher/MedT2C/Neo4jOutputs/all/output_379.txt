@@ -1,0 +1,20 @@
+{
+  "g.name": "GNS"
+}
+
+{
+  "g.name": "NOS1"
+}
+
+{
+  "g.name": "ABCB9"
+}
+
+{
+  "g.name": "PLBD2"
+}
+
+{
+  "g.name": "SLC15A4"
+}
+

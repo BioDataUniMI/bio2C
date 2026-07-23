@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'asthma'})<-[r:TREATS_CtD]-(c:Compound)-[:CAUSES_CcSE]->(se:SideEffect) WHERE se.name CONTAINS 'skin' RETURN c.name, COLLECT(se.name)

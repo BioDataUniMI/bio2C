@@ -1,0 +1,1 @@
+List diseases that resemble the disease whose identifier is 'DOID:1793'. Skip first two diseases.

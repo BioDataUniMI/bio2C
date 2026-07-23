@@ -1,0 +1,20 @@
+{
+  "g2.name": "HNRNPH2"
+}
+
+{
+  "g2.name": "USP27X"
+}
+
+{
+  "g2.name": "TMSB4X"
+}
+
+{
+  "g2.name": "BRWD3"
+}
+
+{
+  "g2.name": "MAGEE2"
+}
+

@@ -1,0 +1,20 @@
+{
+  "c.name": "Acetaminophen"
+}
+
+{
+  "c.name": "Acetylsalicylic acid"
+}
+
+{
+  "c.name": "Naratriptan"
+}
+
+{
+  "c.name": "Indomethacin"
+}
+
+{
+  "c.name": "Cyclobenzaprine"
+}
+

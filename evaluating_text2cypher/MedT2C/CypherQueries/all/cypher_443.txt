@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Metformin'})-[r:DOWNREGULATES_CdG]->(g:Gene)<-[:DOWNREGULATES_CdG]-(c2:Compound) WHERE r.z_score < -6 RETURN c2.name, r.z_score

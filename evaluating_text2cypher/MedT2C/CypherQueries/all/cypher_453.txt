@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[b:BINDS_CbG {affinity_nM: 100}]-(c:Compound) RETURN g.name, c.name

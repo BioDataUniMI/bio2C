@@ -1,0 +1,25 @@
+{
+  "d2.name": "metabolic syndrome X",
+  "a.name": "autonomic nervous system"
+}
+
+{
+  "d2.name": "metabolic syndrome X",
+  "a.name": "arteriole"
+}
+
+{
+  "d2.name": "metabolic syndrome X",
+  "a.name": "liver"
+}
+
+{
+  "d2.name": "metabolic syndrome X",
+  "a.name": "tunica intima"
+}
+
+{
+  "d2.name": "metabolic syndrome X",
+  "a.name": "endothelium"
+}
+

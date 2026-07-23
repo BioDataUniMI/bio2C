@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Metformin'})-[:DOWNREGULATES_CdG]->(g:Gene)<-[:DOWNREGULATES_CdG]-(c2:Compound) RETURN COUNT(c2)

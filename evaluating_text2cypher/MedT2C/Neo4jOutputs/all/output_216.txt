@@ -1,0 +1,25 @@
+{
+  "g.name": "SRR",
+  "mf.name": "calcium ion binding"
+}
+
+{
+  "g.name": "SRR",
+  "mf.name": "amino acid binding"
+}
+
+{
+  "g.name": "SRR",
+  "mf.name": "carboxylic acid binding"
+}
+
+{
+  "g.name": "SRR",
+  "mf.name": "PDZ domain binding"
+}
+
+{
+  "g.name": "SRR",
+  "mf.name": "carbon-nitrogen lyase activity"
+}
+

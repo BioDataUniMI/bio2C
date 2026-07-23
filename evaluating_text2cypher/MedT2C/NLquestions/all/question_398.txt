@@ -1,0 +1,1 @@
+What genes are commonly expressed in the 'brain' and associated with 'schizophrenia'? Report only those whose name starts with 'SNAP'.

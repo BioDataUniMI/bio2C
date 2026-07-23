@@ -1,0 +1,1 @@
+Find genes that are regulated by the gene whose identifier is 83448 and the compounds by which they are bound with actions including 'activator'.

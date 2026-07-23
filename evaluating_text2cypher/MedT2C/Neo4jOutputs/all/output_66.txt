@@ -1,0 +1,20 @@
+{
+  "g.name": "STAT4"
+}
+
+{
+  "g.name": "CYTIP"
+}
+
+{
+  "g.name": "ARHGAP4"
+}
+
+{
+  "g.name": "GPSM3"
+}
+
+{
+  "g.name": "SKAP1"
+}
+

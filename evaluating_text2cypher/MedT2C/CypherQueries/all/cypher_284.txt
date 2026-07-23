@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'glaucoma'})<-[:PALLIATES_CpD]-(c:Compound) RETURN c.name

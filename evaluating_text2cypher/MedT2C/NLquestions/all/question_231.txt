@@ -1,0 +1,1 @@
+Consider genes regulated by BRCA1 that are bound by compounds. What PubMed IDs support those compound-gene binding interactions?

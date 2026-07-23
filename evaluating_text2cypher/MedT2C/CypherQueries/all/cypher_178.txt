@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'BRCA1'})-[:INTERACTS_GiG]->(g2:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'hormone receptor binding'})<-[:PARTICIPATES_GpMF]-(g1) RETURN g2.name

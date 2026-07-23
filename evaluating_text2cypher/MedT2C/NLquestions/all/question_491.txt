@@ -1,0 +1,1 @@
+List the genes that interact with the gene 'AKT1', are on the same chromosome of 'AKT1', and participate in the same pathway in which 'AKT1' participates.

@@ -1,0 +1,20 @@
+{
+  "g2.name": "MYC"
+}
+
+{
+  "g2.name": "KIF2C"
+}
+
+{
+  "g2.name": "MAP2K6"
+}
+
+{
+  "g2.name": "BCL2"
+}
+
+{
+  "g2.name": "MRGPRX4"
+}
+

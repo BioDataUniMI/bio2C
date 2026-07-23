@@ -1,0 +1,20 @@
+{
+  "c.name": "Triamcinolone"
+}
+
+{
+  "c.name": "Balsalazide"
+}
+
+{
+  "c.name": "Sulfasalazine"
+}
+
+{
+  "c.name": "Nicotine"
+}
+
+{
+  "c.name": "Mercaptopurine"
+}
+

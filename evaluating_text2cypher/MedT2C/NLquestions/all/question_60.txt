@@ -1,0 +1,1 @@
+List the pharmacologic classes including compounds that treat the disease 'glaucoma', sorted by the pharmacologic class name.

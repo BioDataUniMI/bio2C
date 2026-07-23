@@ -1,0 +1,25 @@
+{
+  "c.name": "Docetaxel",
+  "g.name": "GFOD1"
+}
+
+{
+  "c.name": "Docetaxel",
+  "g.name": "AURKA"
+}
+
+{
+  "c.name": "Docetaxel",
+  "g.name": "HIST2H2BE"
+}
+
+{
+  "c.name": "Docetaxel",
+  "g.name": "HIST1H3H"
+}
+
+{
+  "c.name": "Docetaxel",
+  "g.name": "RELB"
+}
+

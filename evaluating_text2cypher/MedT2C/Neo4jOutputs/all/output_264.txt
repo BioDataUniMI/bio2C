@@ -1,0 +1,20 @@
+{
+  "g2.name": "UBE2L3"
+}
+
+{
+  "g2.name": "FZR1"
+}
+
+{
+  "g2.name": "STUB1"
+}
+
+{
+  "g2.name": "WWP1"
+}
+
+{
+  "g2.name": "UBC"
+}
+

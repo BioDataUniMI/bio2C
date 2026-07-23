@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[:DOWNREGULATES_CdG]->(g:Gene) RETURN c.name, COUNT(g) AS gene_count ORDER BY gene_count DESC, c.name ASC LIMIT 1

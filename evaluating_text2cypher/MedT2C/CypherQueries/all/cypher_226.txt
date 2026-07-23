@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'extracellular matrix disassembly'})<-[:PARTICIPATES_GpBP]-(g:Gene) WHERE g.chromosome = 'X' RETURN g.name

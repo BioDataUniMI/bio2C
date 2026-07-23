@@ -1,0 +1,20 @@
+{
+  "c2.name": "Pamidronate"
+}
+
+{
+  "c2.name": "Calcium Acetate"
+}
+
+{
+  "c2.name": "Alendronate"
+}
+
+{
+  "c2.name": "Raloxifene"
+}
+
+{
+  "c2.name": "Risedronate"
+}
+

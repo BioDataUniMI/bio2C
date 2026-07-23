@@ -1,0 +1,20 @@
+{
+  "a.name": "mandible"
+}
+
+{
+  "a.name": "parathyroid gland"
+}
+
+{
+  "a.name": "skull"
+}
+
+{
+  "a.name": "manual digit"
+}
+
+{
+  "a.name": "hip"
+}
+

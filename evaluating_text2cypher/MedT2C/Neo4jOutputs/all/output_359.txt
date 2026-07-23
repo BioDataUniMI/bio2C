@@ -1,0 +1,20 @@
+{
+  "g2.name": "PSMC1"
+}
+
+{
+  "g2.name": "PSMD7"
+}
+
+{
+  "g2.name": "PSMD1"
+}
+
+{
+  "g2.name": "PSMD13"
+}
+
+{
+  "g2.name": "PSMD2"
+}
+

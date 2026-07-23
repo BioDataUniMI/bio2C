@@ -1,0 +1,20 @@
+{
+  "c.name": "Fluorouracil",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Vinblastine",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Hydroxyurea",
+  "r.source": "PharmacotherapyDB"
+}
+
+{
+  "c.name": "Docetaxel",
+  "r.source": "PharmacotherapyDB"
+}
+

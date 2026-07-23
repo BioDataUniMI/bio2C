@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'breast cancer'})<-[:PALLIATES_CpD]-(c:Compound) WHERE NOT (c)-[:PALLIATES_CpD]->(:Disease {name: 'lung cancer'}) RETURN c.name

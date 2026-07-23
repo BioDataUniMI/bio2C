@@ -1,0 +1,1 @@
+Retrieve the genes that interact with both 'BRCA1' and 'BRCA2' in the graph.

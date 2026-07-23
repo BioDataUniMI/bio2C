@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound) RETURN p.name, COUNT(c) AS compound_count ORDER BY compound_count ASC, p.name ASC LIMIT 1

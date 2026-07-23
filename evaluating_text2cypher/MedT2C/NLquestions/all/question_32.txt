@@ -1,0 +1,1 @@
+Retrieve the names of compounds starting wth the letter 'B' which bind the gene whose name is 'CYP1A2' and where the binding action includes 'inhibitor' or 'substrate'.

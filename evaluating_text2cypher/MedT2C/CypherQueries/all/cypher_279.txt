@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'restless legs syndrome'})<-[:PALLIATES_CpD]-(c:Compound) RETURN c.name

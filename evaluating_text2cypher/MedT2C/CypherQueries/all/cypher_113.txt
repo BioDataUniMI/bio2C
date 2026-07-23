@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WITH p, COUNT(g) AS geneCount WHERE geneCount >= 500 RETURN p.name, geneCount ORDER BY geneCount DESC

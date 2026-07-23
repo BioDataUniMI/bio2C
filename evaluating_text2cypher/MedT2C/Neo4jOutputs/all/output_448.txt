@@ -1,0 +1,35 @@
+{
+  "c.name": "Doxorubicin",
+  "g.name": "YWHAG",
+  "d.name": "bone cancer",
+  "r.affinity_nM": 780.25
+}
+
+{
+  "c.name": "Doxorubicin",
+  "g.name": "AURKA",
+  "d.name": "bone cancer",
+  "r.affinity_nM": 40.0
+}
+
+{
+  "c.name": "Doxorubicin",
+  "g.name": "TOP2A",
+  "d.name": "bone cancer",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "c.name": "Doxorubicin",
+  "g.name": "DHCR7",
+  "d.name": "bone cancer",
+  "r.affinity_nM": 547.7225599999998
+}
+
+{
+  "c.name": "Methotrexate",
+  "g.name": "TYMS",
+  "d.name": "bone cancer",
+  "r.affinity_nM": 600.0
+}
+

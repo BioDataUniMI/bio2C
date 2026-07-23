@@ -1,0 +1,1 @@
+MATCH (s1:Symptom {name: 'Abdominal Pain'})<-[:PRESENTS_DpS]-(d:Disease)-[:PRESENTS_DpS]->(s2:Symptom {name: 'Jaundice'}) RETURN d.name

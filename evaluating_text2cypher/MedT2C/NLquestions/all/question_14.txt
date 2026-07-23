@@ -1,0 +1,1 @@
+Which distinct molecular functions related to 'RNA' do genes that participate in the biological process 'regulation of heart contraction' also participate in?

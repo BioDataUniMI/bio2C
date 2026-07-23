@@ -1,0 +1,1 @@
+MATCH (cc:CellularComponent {name: 'proteasome accessory complex'})<-[:PARTICIPATES_GpCC]-(g:Gene)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction) RETURN mf.name, g.name

@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Ruxolitinib'})-[:TREATS_CtD]->(d:Disease)<-[:TREATS_CtD]-(c2:Compound) RETURN c2.name

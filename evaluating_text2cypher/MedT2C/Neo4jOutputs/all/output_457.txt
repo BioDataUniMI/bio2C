@@ -1,0 +1,20 @@
+{
+  "g.name": "SLC5A8"
+}
+
+{
+  "g.name": "SMAP1"
+}
+
+{
+  "g.name": "SLC39A8"
+}
+
+{
+  "g.name": "ACAP1"
+}
+
+{
+  "g.name": "KCP"
+}
+

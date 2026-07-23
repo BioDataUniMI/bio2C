@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'BRAF'})<-[:INTERACTS_GiG]-(g2:Gene)-[:PARTICIPATES_GpBP]->(:BiologicalProcess)<-[:PARTICIPATES_GpBP]-(g1) RETURN COUNT(g2)

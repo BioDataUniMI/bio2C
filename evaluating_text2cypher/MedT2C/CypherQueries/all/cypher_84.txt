@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Triazolam'})-[:BINDS_CbG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'cell-cell signaling'}) RETURN g.name

@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'obesity'})-[:DOWNREGULATES_DdG]->(g:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WITH g, COUNT(p) AS pathway_count RETURN AVG(pathway_count)

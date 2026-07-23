@@ -1,0 +1,1 @@
+MATCH (s:Symptom {name: 'Fever'})<-[:PRESENTS_DpS]-(d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy) WHERE a.name CONTAINS 'blood' RETURN DISTINCT a.name

@@ -1,0 +1,1 @@
+Which compounds are effective in palliating 'migraine'? Return their name and URL.

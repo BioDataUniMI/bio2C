@@ -1,0 +1,20 @@
+{
+  "bp.name": "positive regulation of cell cycle"
+}
+
+{
+  "bp.name": "positive regulation of cell cycle process"
+}
+
+{
+  "bp.name": "regulation of cell cycle phase transition"
+}
+
+{
+  "bp.name": "positive regulation of cell proliferation"
+}
+
+{
+  "bp.name": "positive regulation of cell cycle phase transition"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:PARTICIPATES_GpCC]->(cc:CellularComponent) WHERE cc.name = 'chromosomal region' or cc.name = 'excitatory synapse' RETURN COUNT(g)

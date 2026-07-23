@@ -1,0 +1,1 @@
+MATCH (n:Compound {identifier: 'DB00997'})-[r:TREATS_CtD]->(d:Disease) WHERE NOT d.name CONTAINS 'cancer' RETURN n.name, d.name

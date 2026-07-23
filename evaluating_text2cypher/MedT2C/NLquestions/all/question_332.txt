@@ -1,0 +1,1 @@
+Which diseases present the symptom 'Headache' and localize in the 'central nervous system'?

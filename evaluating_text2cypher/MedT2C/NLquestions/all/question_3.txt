@@ -1,0 +1,1 @@
+Which anatomical entities express the gene DPYSL5, given that it is expressed in the anatomy 'sense organ'?

@@ -1,0 +1,4 @@
+{
+  "COUNT(DISTINCT g2)": 2167
+}
+

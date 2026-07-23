@@ -1,0 +1,1 @@
+Which genes interact with gene 'AKT1' and participate in the same pathway named 'Estrogen signaling pathway' in which also 'AKT1' participate?

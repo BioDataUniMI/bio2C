@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'PIK3CA'})-[:COVARIES_GcG]->(g2:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway {name: 'TOR Signaling'}) RETURN g2.name

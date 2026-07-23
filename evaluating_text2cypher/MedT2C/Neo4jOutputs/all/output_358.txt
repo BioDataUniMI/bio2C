@@ -1,0 +1,20 @@
+{
+  "g.name": "ACHE"
+}
+
+{
+  "g.name": "PIP4K2C"
+}
+
+{
+  "g.name": "TOP2A"
+}
+
+{
+  "g.name": "EPHA5"
+}
+
+{
+  "g.name": "ADK"
+}
+

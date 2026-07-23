@@ -1,0 +1,25 @@
+{
+  "c.name": "Varenicline",
+  "g.name": "CHRFAM7A"
+}
+
+{
+  "c.name": "Varenicline",
+  "g.name": "CHRNA6"
+}
+
+{
+  "c.name": "Varenicline",
+  "g.name": "CHRNA4"
+}
+
+{
+  "c.name": "Varenicline",
+  "g.name": "CHRNA7"
+}
+
+{
+  "c.name": "Varenicline",
+  "g.name": "CHRNB2"
+}
+

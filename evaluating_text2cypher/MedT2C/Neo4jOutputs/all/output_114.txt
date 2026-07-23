@@ -1,0 +1,25 @@
+{
+  "p.name": "Metabolism of mRNA",
+  "gene_count": 7
+}
+
+{
+  "p.name": "Metabolism of RNA",
+  "gene_count": 7
+}
+
+{
+  "p.name": "mRNA Processing",
+  "gene_count": 5
+}
+
+{
+  "p.name": "Processing of Capped Intron-Containing Pre-mRNA",
+  "gene_count": 5
+}
+
+{
+  "p.name": "mRNA Splicing",
+  "gene_count": 5
+}
+

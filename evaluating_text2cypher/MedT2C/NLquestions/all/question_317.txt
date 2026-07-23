@@ -1,0 +1,1 @@
+Which genes have a binding relationship with the compound 'Warfarin' and are involved in the regulation of the gene named 'SELL'?

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'MYC'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction)<-[:PARTICIPATES_GpMF]-(g2:Gene) WHERE g2 <> g1 RETURN COUNT(DISTINCT g2)

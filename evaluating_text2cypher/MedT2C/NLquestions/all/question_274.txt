@@ -1,0 +1,1 @@
+Which genes interact with the gene named 'VCAM1' and participate in the biological process 'negative regulation of neuron apoptotic process' in which also 'VCAM1' participates?

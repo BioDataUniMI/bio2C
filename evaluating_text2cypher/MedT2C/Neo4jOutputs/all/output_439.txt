@@ -1,0 +1,18 @@
+{
+  "g2.name": "NCOA6",
+  "r.sources": [
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "NCOR2",
+  "r.sources": [
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+

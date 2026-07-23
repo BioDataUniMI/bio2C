@@ -1,0 +1,34 @@
+{
+  "c.name": "Metformin",
+  "g.name": "SLC22A1",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Metformin",
+  "g.name": "SLC22A2",
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Metformin",
+  "g.name": "SLC29A4",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "c.name": "Metformin",
+  "g.name": "SLC22A3",
+  "r.actions": [
+    "substrate"
+  ]
+}
+

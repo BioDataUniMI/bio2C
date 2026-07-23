@@ -1,0 +1,20 @@
+{
+  "g.name": "RNF20"
+}
+
+{
+  "g.name": "PARK7"
+}
+
+{
+  "g.name": "TRRAP"
+}
+
+{
+  "g.name": "KAT2B"
+}
+
+{
+  "g.name": "KLF4"
+}
+

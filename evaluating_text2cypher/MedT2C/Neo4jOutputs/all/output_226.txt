@@ -1,0 +1,12 @@
+{
+  "g.name": "TIMP1"
+}
+
+{
+  "g.name": "COL4A6"
+}
+
+{
+  "g.name": "COL4A5"
+}
+

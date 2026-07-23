@@ -1,0 +1,50 @@
+{
+  "g2.name": "UBE3A",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "PBK",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "USP7",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "UBE2I",
+  "r.sources": [
+    "II_binary",
+    "II_literature",
+    "Lit-BM-13",
+    "hetio-dag"
+  ]
+}
+
+{
+  "g2.name": "MAGEB18",
+  "r.sources": [
+    "HI-I-05",
+    "II_binary",
+    "II_literature",
+    "hetio-dag"
+  ]
+}
+

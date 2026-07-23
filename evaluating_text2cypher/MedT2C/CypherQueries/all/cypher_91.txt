@@ -1,0 +1,1 @@
+MATCH (pw1:Pathway {name: 'Signaling by GPCR'})<-[:PARTICIPATES_GpPW]-(:Gene)<-[:ASSOCIATES_DaG]-(d1:Disease)-[:ASSOCIATES_DaG]->(:Gene)-[:PARTICIPATES_GpPW]->(pw2:Pathway {name: 'Oxidative Stress'}) RETURN DISTINCT d1.name

@@ -1,0 +1,12 @@
+{
+  "pc.class_type": "Chemical/Ingredient"
+}
+
+{
+  "pc.class_type": "Physiologic Effect"
+}
+
+{
+  "pc.class_type": "Mechanism of Action"
+}
+

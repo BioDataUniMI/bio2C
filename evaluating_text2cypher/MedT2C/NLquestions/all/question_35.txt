@@ -1,0 +1,1 @@
+Identify the cellular components associated with the genes named 'TP53' and 'BRCA1'.

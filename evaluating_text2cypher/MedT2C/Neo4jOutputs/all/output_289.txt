@@ -1,0 +1,20 @@
+{
+  "c.name": "Quinidine barbiturate"
+}
+
+{
+  "c.name": "Gallium nitrate"
+}
+
+{
+  "c.name": "Bismuth Subsalicylate"
+}
+
+{
+  "c.name": "Gallium nitrate"
+}
+
+{
+  "c.name": "Adenosine triphosphate"
+}
+

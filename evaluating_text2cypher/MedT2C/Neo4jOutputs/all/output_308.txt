@@ -1,0 +1,20 @@
+{
+  "g2.name": "ANXA5"
+}
+
+{
+  "g2.name": "ANXA8"
+}
+
+{
+  "g2.name": "ANXA2"
+}
+
+{
+  "g2.name": "ANXA8"
+}
+
+{
+  "g2.name": "ANXA9"
+}
+

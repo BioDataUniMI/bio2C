@@ -1,0 +1,20 @@
+{
+  "symptom_name": "Snoring"
+}
+
+{
+  "symptom_name": "Syncope, Vasovagal"
+}
+
+{
+  "symptom_name": "Earache"
+}
+
+{
+  "symptom_name": "Dyspnea"
+}
+
+{
+  "symptom_name": "Oral Hemorrhage"
+}
+

@@ -1,0 +1,20 @@
+{
+  "mf.name": "isomerase activity"
+}
+
+{
+  "mf.name": "carbohydrate binding"
+}
+
+{
+  "mf.name": "monosaccharide binding"
+}
+
+{
+  "mf.name": "intramolecular oxidoreductase activity, interconverting aldoses and ketoses"
+}
+
+{
+  "mf.name": "intramolecular oxidoreductase activity"
+}
+

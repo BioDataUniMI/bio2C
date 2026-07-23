@@ -1,0 +1,24 @@
+{
+  "g.name": "HTR6",
+  "c.name": "Olanzapine",
+  "d.name": "Gilles de la Tourette syndrome"
+}
+
+{
+  "g.name": "HTR6",
+  "c.name": "Ziprasidone",
+  "d.name": "Gilles de la Tourette syndrome"
+}
+
+{
+  "g.name": "HTR6",
+  "c.name": "Perphenazine",
+  "d.name": "Gilles de la Tourette syndrome"
+}
+
+{
+  "g.name": "HTR6",
+  "c.name": "Pimozide",
+  "d.name": "Gilles de la Tourette syndrome"
+}
+

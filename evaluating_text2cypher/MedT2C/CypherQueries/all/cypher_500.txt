@@ -1,0 +1,1 @@
+MATCH (se:SideEffect) WHERE toLower(se.name) CONTAINS 'pain' RETURN se.name

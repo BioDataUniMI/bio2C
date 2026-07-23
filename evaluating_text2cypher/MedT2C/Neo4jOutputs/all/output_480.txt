@@ -1,0 +1,25 @@
+{
+  "g1.name": "CDH2",
+  "pw.name": "Posttranslational regulation of adherens junction stability and dissassembly"
+}
+
+{
+  "g1.name": "CDH1",
+  "pw.name": "Posttranslational regulation of adherens junction stability and dissassembly"
+}
+
+{
+  "g1.name": "RHOA",
+  "pw.name": "Platelet activation, signaling and aggregation"
+}
+
+{
+  "g1.name": "F2R",
+  "pw.name": "Platelet activation, signaling and aggregation"
+}
+
+{
+  "g1.name": "APP",
+  "pw.name": "Platelet activation, signaling and aggregation"
+}
+

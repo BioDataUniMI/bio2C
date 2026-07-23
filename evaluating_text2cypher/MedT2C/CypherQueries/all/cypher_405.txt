@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'schizophrenia'})-[r:UPREGULATES_DuG]->(g:Gene) WHERE r.log2_fold_change > 0.03 RETURN g.name, r.log2_fold_change

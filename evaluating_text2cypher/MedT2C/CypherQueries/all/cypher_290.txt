@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'EGFR'})<-[r:BINDS_CbG]-(c:Compound) RETURN c.name, r.affinity_nM

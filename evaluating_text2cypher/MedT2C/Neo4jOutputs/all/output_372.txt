@@ -1,0 +1,20 @@
+{
+  "g.name": "TSC22D3"
+}
+
+{
+  "g.name": "RGS2"
+}
+
+{
+  "g.name": "DDIT4"
+}
+
+{
+  "g.name": "SERPINA3"
+}
+
+{
+  "g.name": "NFIL3"
+}
+

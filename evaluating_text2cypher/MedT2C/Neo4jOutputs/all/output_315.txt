@@ -1,0 +1,20 @@
+{
+  "g2.name": "IRS4"
+}
+
+{
+  "g2.name": "FRS3"
+}
+
+{
+  "g2.name": "FRS2"
+}
+
+{
+  "g2.name": "SRC"
+}
+
+{
+  "g2.name": "SHC1"
+}
+

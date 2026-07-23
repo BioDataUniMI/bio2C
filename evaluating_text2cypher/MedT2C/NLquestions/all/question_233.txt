@@ -1,0 +1,1 @@
+Which genes the gene 'PTEN' interact with when these participate in the biological process 'activation of immune response' in which also 'PTEN' participates in?

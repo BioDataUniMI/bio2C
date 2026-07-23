@@ -1,0 +1,20 @@
+{
+  "se.name": "Non-cardiac chest pain"
+}
+
+{
+  "se.name": "Cancer pain"
+}
+
+{
+  "se.name": "Oropharyngeal pain"
+}
+
+{
+  "se.name": "Bone pain"
+}
+
+{
+  "se.name": "Abdominal pain upper"
+}
+

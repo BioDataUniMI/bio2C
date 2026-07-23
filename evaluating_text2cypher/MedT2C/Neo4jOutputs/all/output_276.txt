@@ -1,0 +1,20 @@
+{
+  "bp.name": "DNA damage response, signal transduction resulting in transcription"
+}
+
+{
+  "bp.name": "regulation of DNA metabolic process"
+}
+
+{
+  "bp.name": "DNA-dependent DNA replication"
+}
+
+{
+  "bp.name": "programmed DNA elimination"
+}
+
+{
+  "bp.name": "DNA-dependent DNA replication maintenance of fidelity"
+}
+

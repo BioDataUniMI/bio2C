@@ -1,0 +1,30 @@
+{
+  "c.name": "Adenosine",
+  "g.name": "ADK",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "c.name": "Asenapine",
+  "g.name": "SLC6A4",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "c.name": "Atomoxetine",
+  "g.name": "HTR1B",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "c.name": "Atomoxetine",
+  "g.name": "HTR1D",
+  "r.affinity_nM": 1000.0
+}
+
+{
+  "c.name": "Atomoxetine",
+  "g.name": "HTR2A",
+  "r.affinity_nM": 1000.0
+}
+

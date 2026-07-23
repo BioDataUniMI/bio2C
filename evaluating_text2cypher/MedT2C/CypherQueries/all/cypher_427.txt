@@ -1,0 +1,1 @@
+MATCH (se:SideEffect)<-[:CAUSES_CcSE]-(c:Compound) WHERE se.name IN ['Insomnia', 'Headache'] AND c.name ENDS WITH 'ate' RETURN c.name

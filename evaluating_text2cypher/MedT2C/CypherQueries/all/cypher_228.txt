@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'asthma'})<-[:TREATS_CtD]-(c:Compound) RETURN c.name

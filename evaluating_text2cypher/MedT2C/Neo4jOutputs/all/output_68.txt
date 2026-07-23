@@ -1,0 +1,25 @@
+{
+  "GeneName1": "WNT10A",
+  "GeneName2": "WNT6"
+}
+
+{
+  "GeneName1": "WNT10A",
+  "GeneName2": "WNT6"
+}
+
+{
+  "GeneName1": "WNT10A",
+  "GeneName2": "FZD7"
+}
+
+{
+  "GeneName1": "WNT10A",
+  "GeneName2": "FZD7"
+}
+
+{
+  "GeneName1": "WNT10A",
+  "GeneName2": "WNT6"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'C1QBP'})-[:INTERACTS_GiG]->(g2:Gene)-[RESEMBLES_GrG]-(g1) RETURN g2.name

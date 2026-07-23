@@ -1,0 +1,1 @@
+Find genes that regulate the gene 'LPL' and that participate in 'regulation of synapse structural plasticity' biological processes.

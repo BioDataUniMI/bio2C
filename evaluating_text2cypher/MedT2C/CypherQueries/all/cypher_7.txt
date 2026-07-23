@@ -1,0 +1,1 @@
+MATCH (a:Anatomy)-[b:EXPRESSES_AeG]->(g:Gene)-[:PARTICIPATES_GpCC]->(cc:CellularComponent)  WHERE (cc.name = 'nuclear chromosome, telomeric region' OR cc.identifier = 'GO:0034677') AND a.name CONTAINS 'system' RETURN DISTINCT a.name

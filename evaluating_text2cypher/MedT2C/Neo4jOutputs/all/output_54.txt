@@ -1,0 +1,25 @@
+{
+  "d.name": "Crohn's disease",
+  "s.name": "Abdominal Pain"
+}
+
+{
+  "d.name": "Crohn's disease",
+  "s.name": "Skin Manifestations"
+}
+
+{
+  "d.name": "Crohn's disease",
+  "s.name": "Diarrhea"
+}
+
+{
+  "d.name": "Crohn's disease",
+  "s.name": "Failure to Thrive"
+}
+
+{
+  "d.name": "Crohn's disease",
+  "s.name": "Body Weight"
+}
+

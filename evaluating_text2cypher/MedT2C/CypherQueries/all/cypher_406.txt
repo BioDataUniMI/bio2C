@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[r:REGULATES_GrG]->(g2:Gene) WHERE (g1)-[:PARTICIPATES_GpPW]->(:Pathway {name: 'DNA Repair'}) AND 'overexpression downregulates' IN r.subtypes AND 'knockdown downregulates' IN r.subtypes RETURN g1.name, g2.name, r.subtypes

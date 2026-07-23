@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'gonad'})<-[:LOCALIZES_DlA]-(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) RETURN d.name AS disease_name, COUNT(s) AS symptom_count

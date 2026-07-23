@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'atopic dermatitis'})<-[:PALLIATES_CpD]-(c:Compound)-[:RESEMBLES_CrC]->(c2:Compound) RETURN c.name, c2.name

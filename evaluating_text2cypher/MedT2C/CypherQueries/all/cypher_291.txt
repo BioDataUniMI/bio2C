@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'visual perception'} )<-[:PARTICIPATES_GpBP]-(g:Gene {name: 'RHO'})<-[r:BINDS_CbG]-(c:Compound) RETURN c.name

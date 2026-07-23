@@ -1,0 +1,1 @@
+List the genes that have a binding relationship with the compound 'Metformin' and their associated actions.

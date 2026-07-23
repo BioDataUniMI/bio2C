@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway) MATCH (g1)-[:PARTICIPATES_GpMF]->(mf:MolecularFunction {name: 'frizzled binding'}) MATCH (g2:Gene)-[:PARTICIPATES_GpPW]->(pw) WHERE (mf)<-[:PARTICIPATES_GpMF]-(g2) AND g2.name <> g1.name AND g1.chromosome = g2.chromosome = '2' RETURN g1.name AS GeneName1, g2.name AS GeneName2

@@ -1,0 +1,1 @@
+Which symptoms are presented by the disease identified by 'DOID:0060119' or 'DOID:1686'?

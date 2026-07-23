@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction {name: 'D-amino-acid oxidase activity'})<-[:PARTICIPATES_GpMF]-(g:Gene) RETURN g.name

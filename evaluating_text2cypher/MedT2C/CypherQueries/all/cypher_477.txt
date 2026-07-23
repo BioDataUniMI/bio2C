@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Metformin'})-[:TREATS_CtD]->(d:Disease)<-[:PALLIATES_CpD]-(c2:Compound) RETURN c2.name

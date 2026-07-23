@@ -1,0 +1,20 @@
+{
+  "covarying.name": "FUS"
+}
+
+{
+  "covarying.name": "MYH1"
+}
+
+{
+  "covarying.name": "EHD1"
+}
+
+{
+  "covarying.name": "BRSK2"
+}
+
+{
+  "covarying.name": "CACNA1S"
+}
+

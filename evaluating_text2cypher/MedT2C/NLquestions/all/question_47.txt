@@ -1,0 +1,1 @@
+Identify compounds that upregulate genes involved in the molecular function 'syntaxin binding'.

@@ -1,0 +1,25 @@
+{
+  "disease_name": "brain cancer",
+  "symptom_count": 88
+}
+
+{
+  "disease_name": "germ cell cancer",
+  "symptom_count": 116
+}
+
+{
+  "disease_name": "hypothyroidism",
+  "symptom_count": 34
+}
+
+{
+  "disease_name": "chronic kidney failure",
+  "symptom_count": 34
+}
+
+{
+  "disease_name": "testicular cancer",
+  "symptom_count": 18
+}
+

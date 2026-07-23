@@ -1,0 +1,20 @@
+{
+  "g.name": "CYP1A2"
+}
+
+{
+  "g.name": "CHRM2"
+}
+
+{
+  "g.name": "CHRM1"
+}
+
+{
+  "g.name": "CHRM4"
+}
+
+{
+  "g.name": "CHRM5"
+}
+

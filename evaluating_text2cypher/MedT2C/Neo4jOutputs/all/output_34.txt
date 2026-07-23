@@ -1,0 +1,20 @@
+{
+  "g2.name": "SERPINF2",
+  "bp.name": "extracellular structure organization"
+}
+
+{
+  "g2.name": "SERPINF2",
+  "bp.name": "extracellular matrix organization"
+}
+
+{
+  "g2.name": "SERPINE1",
+  "bp.name": "extracellular structure organization"
+}
+
+{
+  "g2.name": "SERPINE1",
+  "bp.name": "extracellular matrix organization"
+}
+

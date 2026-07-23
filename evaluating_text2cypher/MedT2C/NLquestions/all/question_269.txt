@@ -1,0 +1,1 @@
+How many distinct genes participate in the same molecular function in which the gene 'MYC' participates?

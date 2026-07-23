@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'STAT3'})-[:PARTICIPATES_GpMF]->(mf:MolecularFunction)<-[:PARTICIPATES_GpMF]-(g2:Gene) WHERE g2.chromosome = 'Y' RETURN g2.name

@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Azelastine'})-[:RESEMBLES_CrC]->(c2:Compound) RETURN c2.name

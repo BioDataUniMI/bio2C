@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction)<-[:PARTICIPATES_GpMF]-(g:Gene) WHERE mf.name CONTAINS 'kinase' AND g.chromosome = 'X' RETURN COUNT(g)

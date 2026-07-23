@@ -1,0 +1,20 @@
+{
+  "g.name": "ATP1A1"
+}
+
+{
+  "g.name": "HDAC2"
+}
+
+{
+  "g.name": "KPNA2"
+}
+
+{
+  "g.name": "DDX3X"
+}
+
+{
+  "g.name": "ETFA"
+}
+

@@ -1,0 +1,25 @@
+{
+  "c.name": "Methotrexate",
+  "TYPE(r1)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Prednisone",
+  "TYPE(r1)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Cyclosporine",
+  "TYPE(r1)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Hydrocortisone",
+  "TYPE(r1)": "TREATS_CtD"
+}
+
+{
+  "c.name": "Leflunomide",
+  "TYPE(r1)": "TREATS_CtD"
+}
+

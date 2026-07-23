@@ -1,0 +1,1 @@
+Which genes participate in the pathway 'Metabolism' and are upregulated by the disease 'azoospermia'? 

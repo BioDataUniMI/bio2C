@@ -1,0 +1,20 @@
+{
+  "d.name": "hypertension"
+}
+
+{
+  "d.name": "Behcet's disease"
+}
+
+{
+  "d.name": "endogenous depression"
+}
+
+{
+  "d.name": "migraine"
+}
+
+{
+  "d.name": "brain cancer"
+}
+

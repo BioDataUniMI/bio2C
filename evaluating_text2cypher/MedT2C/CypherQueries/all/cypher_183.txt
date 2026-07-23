@@ -1,0 +1,1 @@
+MATCH (bp:BiologicalProcess {name: 'protein targeting'})<-[:PARTICIPATES_GpBP]-(g:Gene {name: 'RPL34'} )-[:INTERACTS_GiG]->(ig:Gene) RETURN g.name, ig.name

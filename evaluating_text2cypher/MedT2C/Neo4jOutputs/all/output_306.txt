@@ -1,0 +1,20 @@
+{
+  "g.name": "ARR3"
+}
+
+{
+  "g.name": "CHM"
+}
+
+{
+  "g.name": "RPGR"
+}
+
+{
+  "g.name": "RS1"
+}
+
+{
+  "g.name": "NDP"
+}
+

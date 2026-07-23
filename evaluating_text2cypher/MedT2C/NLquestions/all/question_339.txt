@@ -1,0 +1,1 @@
+How many genes the gene 'BRCA1' regulates?

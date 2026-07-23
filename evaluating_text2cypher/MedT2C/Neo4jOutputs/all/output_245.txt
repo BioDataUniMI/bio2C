@@ -1,0 +1,36 @@
+{
+  "c.name": "Bleomycin",
+  "g.name": "LIG3",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Vitamin C",
+  "g.name": "ALKBH3",
+  "r.actions": null
+}
+
+{
+  "c.name": "Cytarabine",
+  "g.name": "POLD1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Gemcitabine",
+  "g.name": "POLD1",
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "c.name": "Vitamin C",
+  "g.name": "ALKBH2",
+  "r.actions": null
+}
+

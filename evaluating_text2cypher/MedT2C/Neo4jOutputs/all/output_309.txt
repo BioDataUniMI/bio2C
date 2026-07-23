@@ -1,0 +1,20 @@
+{
+  "g.name": "CYP2C8"
+}
+
+{
+  "g.name": "ABCB1"
+}
+
+{
+  "g.name": "OPRD1"
+}
+
+{
+  "g.name": "UGT1A3"
+}
+
+{
+  "g.name": "CYP2D6"
+}
+

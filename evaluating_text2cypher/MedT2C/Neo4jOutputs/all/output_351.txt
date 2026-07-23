@@ -1,0 +1,25 @@
+{
+  "g.name": "FCRLA",
+  "d.name": "type 1 diabetes mellitus"
+}
+
+{
+  "g.name": "HIBCH",
+  "d.name": "type 1 diabetes mellitus"
+}
+
+{
+  "g.name": "DMXL1",
+  "d.name": "type 1 diabetes mellitus"
+}
+
+{
+  "g.name": "LMNTD2",
+  "d.name": "type 1 diabetes mellitus"
+}
+
+{
+  "g.name": "HSD17B12",
+  "d.name": "type 1 diabetes mellitus"
+}
+

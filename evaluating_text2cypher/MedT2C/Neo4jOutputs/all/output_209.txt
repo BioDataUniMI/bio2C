@@ -1,0 +1,25 @@
+{
+  "g.name": "CYP11A1",
+  "c.actions": null
+}
+
+{
+  "g.name": "CYP1A1",
+  "c.actions": null
+}
+
+{
+  "g.name": "ABCG2",
+  "c.actions": null
+}
+
+{
+  "g.name": "ABCB1",
+  "c.actions": null
+}
+
+{
+  "g.name": "CYP2C9",
+  "c.actions": null
+}
+

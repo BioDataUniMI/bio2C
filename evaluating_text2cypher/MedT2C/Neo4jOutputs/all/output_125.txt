@@ -1,0 +1,15 @@
+{
+  "s.name": "Nausea",
+  "compound_count": 932
+}
+
+{
+  "s.name": "Headache",
+  "compound_count": 872
+}
+
+{
+  "s.name": "Dermatitis",
+  "compound_count": 866
+}
+

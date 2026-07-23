@@ -1,0 +1,25 @@
+{
+  "c.name": "Dexamethasone",
+  "c.mechanism_of_action": null
+}
+
+{
+  "c.name": "Medroxyprogesterone Acetate",
+  "c.mechanism_of_action": null
+}
+
+{
+  "c.name": "Megestrol acetate",
+  "c.mechanism_of_action": null
+}
+
+{
+  "c.name": "Methyltestosterone",
+  "c.mechanism_of_action": null
+}
+
+{
+  "c.name": "Estradiol valerate/Dienogest",
+  "c.mechanism_of_action": null
+}
+

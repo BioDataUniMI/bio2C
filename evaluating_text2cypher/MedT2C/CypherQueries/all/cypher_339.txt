@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'BRCA1'})-[:REGULATES_GrG]->(g2:Gene) RETURN COUNT(g2)

@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:RESEMBLES_DrD]->(d2:Disease)-[:DOWNREGULATES_DdG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Late Phase of HIV Life Cycle'}) WHERE d1.name CONTAINS 'Behcet' RETURN DISTINCT d2.name

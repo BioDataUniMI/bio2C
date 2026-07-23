@@ -1,0 +1,1 @@
+List the genes that are regulated by 'FBXL12' genes in the 'proteasome accessory complex' cellular component.

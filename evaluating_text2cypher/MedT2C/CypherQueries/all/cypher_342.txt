@@ -1,0 +1,1 @@
+MATCH (mf:MolecularFunction {name: 'hydroxyapatite binding'})<-[:PARTICIPATES_GpMF]-(g:Gene) RETURN COUNT(g)

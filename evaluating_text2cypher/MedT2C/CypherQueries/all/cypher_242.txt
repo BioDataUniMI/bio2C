@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Ethinyl Estradiol'})-[:PALLIATES_CpD]->(d:Disease)<-[:PALLIATES_CpD]-(c2:Compound) RETURN c2.name, d.name

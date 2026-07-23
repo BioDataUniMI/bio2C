@@ -1,0 +1,20 @@
+{
+  "g.name": "ASAH1"
+}
+
+{
+  "g.name": "SEC24A"
+}
+
+{
+  "g.name": "NDUFS4"
+}
+
+{
+  "g.name": "ATP5G1"
+}
+
+{
+  "g.name": "PLA2G12A"
+}
+

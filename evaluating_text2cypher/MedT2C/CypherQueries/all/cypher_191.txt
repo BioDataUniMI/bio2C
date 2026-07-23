@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'SMAD4'})-[:INTERACTS_GiG]->(g2:Gene {name:'SMAD7'}) RETURN g1.name, g2.name

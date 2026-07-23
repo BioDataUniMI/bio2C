@@ -1,0 +1,1 @@
+MATCH (g:Gene {name: 'DACT3'})-[:COVARIES_GcG]->(g2:Gene)<-[:BINDS_CbG]-(c:Compound) RETURN c.name

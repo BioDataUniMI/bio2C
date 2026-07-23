@@ -1,0 +1,1 @@
+Provide the chromosome of genes that interact with the compound 'Ruxolitinib' and are characterized by a binding 'affinity_nM' above 2.

@@ -1,0 +1,1 @@
+Find the number of compounds that cause the same side effects as 'Alitretinoin' and also downregulate the same genes.

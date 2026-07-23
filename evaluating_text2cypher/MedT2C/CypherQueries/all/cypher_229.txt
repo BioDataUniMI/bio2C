@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name:'EZH2'})<-[:REGULATES_GrG]-(g2:Gene) WHERE g2.chromosome = '9' RETURN g2.name

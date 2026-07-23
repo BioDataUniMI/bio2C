@@ -1,0 +1,1 @@
+Find genes that are downregulated in 'midbrain' and interact with the gene 'HNF4A'.

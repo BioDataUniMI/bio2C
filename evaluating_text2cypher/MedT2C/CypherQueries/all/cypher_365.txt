@@ -1,0 +1,1 @@
+MATCH (c1:Compound {name: 'Danazol'})-[:CAUSES_CcSE]->(se:SideEffect)<-[:CAUSES_CcSE]-(c2:Compound) WHERE c2.name ENDS WITH 'sone' RETURN DISTINCT c2.name

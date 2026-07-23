@@ -1,0 +1,15 @@
+{
+  "c.name": "Fingolimod",
+  "side_effect_count": 90
+}
+
+{
+  "c.name": "Azathioprine",
+  "side_effect_count": 104
+}
+
+{
+  "c.name": "Prednisolone",
+  "side_effect_count": 134
+}
+

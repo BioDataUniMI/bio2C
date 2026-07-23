@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r:UPREGULATES_CuG]->(g:Gene) WHERE r.z_score > 100 RETURN g.name, r.z_score

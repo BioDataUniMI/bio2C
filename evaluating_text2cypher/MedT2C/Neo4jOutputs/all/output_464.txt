@@ -1,0 +1,20 @@
+{
+  "c2.name": "Loxapine"
+}
+
+{
+  "c2.name": "Chlorcyclizine"
+}
+
+{
+  "c2.name": "Buclizine"
+}
+
+{
+  "c2.name": "Meclizine"
+}
+
+{
+  "c2.name": "Clemastine"
+}
+

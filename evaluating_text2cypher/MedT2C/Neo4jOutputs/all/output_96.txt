@@ -1,0 +1,20 @@
+{
+  "g.name": "CYP3A4",
+  "d.name": "chronic kidney failure"
+}
+
+{
+  "g.name": "ALB",
+  "d.name": "chronic obstructive pulmonary disease"
+}
+
+{
+  "g.name": "ALB",
+  "d.name": "chronic kidney failure"
+}
+
+{
+  "g.name": "ABCB1",
+  "d.name": "chronic kidney failure"
+}
+

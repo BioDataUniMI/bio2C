@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'glaucoma'})<-[:PALLIATES_CpD]-(c:Compound)-[:CAUSES_CcSE]->(se:SideEffect) RETURN c.name, COLLECT(se.name)

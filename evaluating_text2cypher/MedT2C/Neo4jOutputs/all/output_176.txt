@@ -1,0 +1,20 @@
+{
+  "g2.name": "TULP3"
+}
+
+{
+  "g2.name": "PTHLH"
+}
+
+{
+  "g2.name": "RARG"
+}
+
+{
+  "g2.name": "SLIT1"
+}
+
+{
+  "g2.name": "EXOSC10"
+}
+

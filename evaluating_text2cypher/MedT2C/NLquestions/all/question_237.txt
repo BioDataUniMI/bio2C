@@ -1,0 +1,1 @@
+Count the side effects caused by both the compound 'Metformin' and the compound 'L-DOPA'.

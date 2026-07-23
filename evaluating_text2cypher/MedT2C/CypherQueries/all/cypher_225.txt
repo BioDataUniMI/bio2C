@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'age related macular degeneration'})-[:ASSOCIATES_DaG]->(g:Gene) RETURN g.name

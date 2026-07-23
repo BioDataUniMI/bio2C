@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Warfarin'})-[:BINDS_CbG]->(g:Gene) RETURN g.name

@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'osteoporosis'})-[:LOCALIZES_DlA]->(a:Anatomy) RETURN a.name

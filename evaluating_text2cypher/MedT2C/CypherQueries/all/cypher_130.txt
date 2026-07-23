@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'decidua'})<-[:LOCALIZES_DlA]-(d:Disease)-[:PRESENTS_DpS]->(s:Symptom) RETURN COUNT(s) AS symptom_count

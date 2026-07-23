@@ -1,0 +1,20 @@
+{
+  "g1.name": "UBB"
+}
+
+{
+  "g1.name": "RELB"
+}
+
+{
+  "g1.name": "NFKB2"
+}
+
+{
+  "g1.name": "IKBKB"
+}
+
+{
+  "g1.name": "PRKCQ"
+}
+

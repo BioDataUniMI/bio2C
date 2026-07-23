@@ -1,0 +1,25 @@
+{
+  "c2.name": "Dexamethasone",
+  "d.name": "breast cancer"
+}
+
+{
+  "c2.name": "Medroxyprogesterone Acetate",
+  "d.name": "breast cancer"
+}
+
+{
+  "c2.name": "Megestrol acetate",
+  "d.name": "breast cancer"
+}
+
+{
+  "c2.name": "Methyltestosterone",
+  "d.name": "breast cancer"
+}
+
+{
+  "c2.name": "Estradiol valerate/Dienogest",
+  "d.name": "breast cancer"
+}
+

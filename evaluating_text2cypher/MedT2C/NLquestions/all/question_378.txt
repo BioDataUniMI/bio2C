@@ -1,0 +1,1 @@
+List compounds that bind genes with an affinity between 900 and 1000 nM.

@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'LPL'})<-[:REGULATES_GrG]-(g2:Gene )-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'regulation of synapse structural plasticity'}) RETURN g2.name

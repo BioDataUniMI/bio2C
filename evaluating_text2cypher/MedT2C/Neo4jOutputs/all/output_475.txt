@@ -1,0 +1,20 @@
+{
+  "g.name": "CCR5"
+}
+
+{
+  "g.name": "PTEN"
+}
+
+{
+  "g.name": "ALB"
+}
+
+{
+  "g.name": "IL6"
+}
+
+{
+  "g.name": "CD8A"
+}
+

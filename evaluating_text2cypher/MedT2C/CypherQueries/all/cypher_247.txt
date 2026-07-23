@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'MYC'})-[:REGULATES_GrG]->(g2:Gene) WHERE g2.chromosome = g1.chromosome RETURN  g2.name, g2.chromosome

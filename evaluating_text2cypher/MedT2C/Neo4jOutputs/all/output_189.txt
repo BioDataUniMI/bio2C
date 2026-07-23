@@ -1,0 +1,20 @@
+{
+  "g.name": "ZFP36"
+}
+
+{
+  "g.name": "TSC22D3"
+}
+
+{
+  "g.name": "PRKAG2"
+}
+
+{
+  "g.name": "DDIT4"
+}
+
+{
+  "g.name": "NFKBIA"
+}
+

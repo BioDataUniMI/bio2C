@@ -1,0 +1,25 @@
+{
+  "r.actions": [
+    "inhibitor"
+  ]
+}
+
+{
+  "r.actions": [
+    "inhibitor",
+    "substrate"
+  ]
+}
+
+{
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "r.actions": [
+    "inducer"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "p.name": "Homologous DNA pairing and strand exchange",
+  "a.name": "RAD51"
+}
+
+{
+  "p.name": "Homologous DNA pairing and strand exchange",
+  "a.name": "RPA1"
+}
+
+{
+  "p.name": "Homologous DNA pairing and strand exchange",
+  "a.name": "BRIP1"
+}
+
+{
+  "p.name": "Homologous DNA pairing and strand exchange",
+  "a.name": "BRCA2"
+}
+
+{
+  "p.name": "Homologous DNA pairing and strand exchange",
+  "a.name": "RPA3"
+}
+

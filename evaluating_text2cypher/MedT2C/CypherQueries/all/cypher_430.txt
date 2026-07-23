@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'bile duct cancer'})-[r:ASSOCIATES_DaG]->(g:Gene) WHERE SIZE(r.sources) > 1 RETURN g.name, r.sources

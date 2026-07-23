@@ -1,0 +1,12 @@
+{
+  "g.name": "BCL2"
+}
+
+{
+  "g.name": "FSHR"
+}
+
+{
+  "g.name": "AMH"
+}
+

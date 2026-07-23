@@ -1,0 +1,4 @@
+{
+  "avg_diseases_per_anatomy": 9.05025125628141
+}
+

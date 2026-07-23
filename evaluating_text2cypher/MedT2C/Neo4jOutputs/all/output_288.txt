@@ -1,0 +1,35 @@
+{
+  "c.name": "Olanzapine",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "c.name": "Ziprasidone",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "c.name": "Rizatriptan",
+  "r.actions": [
+    "agonist"
+  ]
+}
+
+{
+  "c.name": "Ropinirole",
+  "r.actions": [
+    "agonist"
+  ]
+}
+
+{
+  "c.name": "Naratriptan",
+  "r.actions": [
+    "agonist"
+  ]
+}
+

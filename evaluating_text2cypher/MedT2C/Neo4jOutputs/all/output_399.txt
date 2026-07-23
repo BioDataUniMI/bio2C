@@ -1,0 +1,20 @@
+{
+  "d.name": "malignant glioma"
+}
+
+{
+  "d.name": "attention deficit hyperactivity disorder"
+}
+
+{
+  "d.name": "larynx cancer"
+}
+
+{
+  "d.name": "Alzheimer's disease"
+}
+
+{
+  "d.name": "amyotrophic lateral sclerosis"
+}
+

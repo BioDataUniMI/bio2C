@@ -1,0 +1,25 @@
+{
+  "g2.name": "HIST1H1E",
+  "g2.description": "histone cluster 1, H1e"
+}
+
+{
+  "g2.name": "H2AFZ",
+  "g2.description": "H2A histone family, member Z"
+}
+
+{
+  "g2.name": "H3F3A",
+  "g2.description": "H3 histone, family 3A"
+}
+
+{
+  "g2.name": "H3F3C",
+  "g2.description": "H3 histone, family 3C"
+}
+
+{
+  "g2.name": "H2AFY2",
+  "g2.description": "H2A histone family, member Y2"
+}
+

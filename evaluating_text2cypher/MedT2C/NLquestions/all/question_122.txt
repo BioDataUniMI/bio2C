@@ -1,0 +1,1 @@
+Count the number of genes that are downregulated by compounds treating nicotine dependence.

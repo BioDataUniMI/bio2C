@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:INTERACTS_GiG]->(g1:Gene)-[:PARTICIPATES_GpPW]->(p:Pathway) WHERE g.name = 'DFFA' AND p.name CONTAINS 'RNA' RETURN DISTINCT g1.name,p.name

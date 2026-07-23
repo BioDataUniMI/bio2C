@@ -1,0 +1,1 @@
+How many genes participate in the cellular component with name 'chromosomal region' or 'excitatory synapse'?

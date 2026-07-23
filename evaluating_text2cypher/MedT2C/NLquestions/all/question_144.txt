@@ -1,0 +1,1 @@
+Find the average number of diseases that are treated by each compound in the pharmacologic class 'Adrenergic beta2-Agonists'.

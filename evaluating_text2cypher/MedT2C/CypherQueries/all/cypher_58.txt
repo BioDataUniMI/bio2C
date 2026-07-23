@@ -1,0 +1,1 @@
+MATCH (p:PharmacologicClass {identifier: 'N0000007151'})-[:INCLUDES_PCiC]->(c:Compound)-[:CAUSES_CcSE]->(s:SideEffect) RETURN c.name, s.name

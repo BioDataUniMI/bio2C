@@ -1,0 +1,1 @@
+Which compounds that treat multiple sclerosis cause the fewest side effects? Return the top 3, breaking ties alphabetically by compound name.

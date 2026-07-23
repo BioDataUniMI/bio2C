@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:LOCALIZES_DlA]->(a:Anatomy) WITH a, COUNT(d) AS disease_count WHERE a.name CONTAINS 'bone' RETURN a.name, disease_count ORDER BY disease_count DESC

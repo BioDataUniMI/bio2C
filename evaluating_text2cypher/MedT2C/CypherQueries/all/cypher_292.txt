@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'asthma'})-[:ASSOCIATES_DaG]->(g:Gene), (d2:Disease {name: 'allergic rhinitis'} )-[:ASSOCIATES_DaG]->(g) RETURN g.name

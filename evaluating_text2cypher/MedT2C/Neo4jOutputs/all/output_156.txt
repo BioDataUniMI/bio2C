@@ -1,0 +1,25 @@
+{
+  "p.name": "Metabolism",
+  "gene_count": 103
+}
+
+{
+  "p.name": "Signaling Pathways",
+  "gene_count": 101
+}
+
+{
+  "p.name": "Disease",
+  "gene_count": 79
+}
+
+{
+  "p.name": "Immune System",
+  "gene_count": 63
+}
+
+{
+  "p.name": "Integrated Pancreatic Cancer Pathway",
+  "gene_count": 58
+}
+

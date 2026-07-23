@@ -1,0 +1,20 @@
+{
+  "g2.name": "SMARCA4"
+}
+
+{
+  "g2.name": "RB1"
+}
+
+{
+  "g2.name": "PIAS1"
+}
+
+{
+  "g2.name": "NCOA3"
+}
+
+{
+  "g2.name": "EP300"
+}
+

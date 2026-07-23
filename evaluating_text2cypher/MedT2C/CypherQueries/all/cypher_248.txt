@@ -1,0 +1,1 @@
+MATCH (g1:Gene )-[:COVARIES_GcG]->(g2:Gene {name: 'WRB'}) RETURN g1.name

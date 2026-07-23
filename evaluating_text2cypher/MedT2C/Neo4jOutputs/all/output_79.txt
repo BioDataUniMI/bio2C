@@ -1,0 +1,20 @@
+{
+  "s.name": "Sarcopenia"
+}
+
+{
+  "s.name": "Vomiting"
+}
+
+{
+  "s.name": "Diarrhea"
+}
+
+{
+  "s.name": "Anorexia"
+}
+
+{
+  "s.name": "Urinary Incontinence"
+}
+

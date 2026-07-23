@@ -1,0 +1,25 @@
+{
+  "c.name": "Sorafenib",
+  "g.name": "MAPK15"
+}
+
+{
+  "c.name": "Sorafenib",
+  "g.name": "MAPK11"
+}
+
+{
+  "c.name": "Sorafenib",
+  "g.name": "MAPK15"
+}
+
+{
+  "c.name": "Sorafenib",
+  "g.name": "MAPK11"
+}
+
+{
+  "c.name": "Crizotinib",
+  "g.name": "MAPK7"
+}
+

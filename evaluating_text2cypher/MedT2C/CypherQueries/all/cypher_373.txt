@@ -1,0 +1,1 @@
+MATCH (c:Compound)-[r:BINDS_CbG]->(g:Gene) WHERE r.affinity_nM IS NOT NULL RETURN g.name, c.name, r.affinity_nM ORDER BY r.affinity_nM DESC, g.name ASC, c.name ASC LIMIT 5

@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name:'vagina'})-[:EXPRESSES_AeG]->(g:Gene)<-[:DOWNREGULATES_DdG]-(:Disease {name: 'lung cancer'}) RETURN g.name

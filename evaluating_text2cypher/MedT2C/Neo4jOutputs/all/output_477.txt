@@ -1,0 +1,20 @@
+{
+  "c2.name": "Norethindrone"
+}
+
+{
+  "c2.name": "Desogestrel"
+}
+
+{
+  "c2.name": "Levonorgestrel"
+}
+
+{
+  "c2.name": "Drospirenone"
+}
+
+{
+  "c2.name": "Ethinyl Estradiol"
+}
+

@@ -1,0 +1,25 @@
+{
+  "Compound1": "Spironolactone",
+  "Gene1": "TIMM9"
+}
+
+{
+  "Compound1": "Spironolactone",
+  "Gene1": "GNAS"
+}
+
+{
+  "Compound1": "Spironolactone",
+  "Gene1": "PRR7"
+}
+
+{
+  "Compound1": "Spironolactone",
+  "Gene1": "MYC"
+}
+
+{
+  "Compound1": "Metolazone",
+  "Gene1": "SLC38A1"
+}
+

@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Caffeine'})-[r:UPREGULATES_CuG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess) WHERE bp.name CONTAINS 'DNA' RETURN g.name, bp.name

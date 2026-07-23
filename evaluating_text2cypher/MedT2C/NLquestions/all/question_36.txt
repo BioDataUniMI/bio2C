@@ -1,0 +1,1 @@
+Which genes do not interact with other genes on chromosome 'X'? Return the gene name.

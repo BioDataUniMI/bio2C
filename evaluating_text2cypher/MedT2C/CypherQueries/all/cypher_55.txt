@@ -1,0 +1,1 @@
+MATCH (d:Disease {name: 'migraine'})<-[:TREATS_CtD]-(c:Compound)<-[:INCLUDES_PCiC]-(pc:PharmacologicClass) RETURN c.name, pc.name

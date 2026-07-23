@@ -1,0 +1,1 @@
+MATCH (c:Compound {name: 'Metformin'})-[r:BINDS_CbG]->(g:Gene) RETURN DISTINCT r.actions

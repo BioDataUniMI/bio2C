@@ -1,0 +1,1 @@
+MATCH (c:Compound {name:'Hydrocortisone'})-[:UPREGULATES_CuG]->(g:Gene) RETURN g.name

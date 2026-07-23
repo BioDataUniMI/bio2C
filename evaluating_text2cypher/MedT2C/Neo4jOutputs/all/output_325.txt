@@ -1,0 +1,25 @@
+{
+  "c.name": "Phendimetrazine",
+  "r.unbiased": false
+}
+
+{
+  "c.name": "Diethylpropion",
+  "r.unbiased": false
+}
+
+{
+  "c.name": "Phentermine",
+  "r.unbiased": false
+}
+
+{
+  "c.name": "Phenylpropanolamine",
+  "r.unbiased": false
+}
+
+{
+  "c.name": "Topiramate",
+  "r.unbiased": false
+}
+

@@ -1,0 +1,25 @@
+{
+  "g.name": "NIT1",
+  "mf.name": "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+}
+
+{
+  "g.name": "PAPD7",
+  "mf.name": "adenylyltransferase activity"
+}
+
+{
+  "g.name": "PAPD7",
+  "mf.name": "DNA-directed DNA polymerase activity"
+}
+
+{
+  "g.name": "PAPD7",
+  "mf.name": "nucleotidyltransferase activity"
+}
+
+{
+  "g.name": "PAPD7",
+  "mf.name": "DNA polymerase activity"
+}
+

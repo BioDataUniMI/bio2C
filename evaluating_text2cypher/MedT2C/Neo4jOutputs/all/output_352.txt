@@ -1,0 +1,25 @@
+{
+  "g.name": "BCL2",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "SLCO1A2",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "UGT1A1",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "PTGS1",
+  "r.affinity_nM": null
+}
+
+{
+  "g.name": "PLAT",
+  "r.affinity_nM": null
+}
+

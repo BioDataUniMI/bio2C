@@ -1,0 +1,1 @@
+Show me compounds that palliate the same diseases that the compound 'Ethinyl Estradiol' palliates.

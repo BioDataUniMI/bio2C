@@ -1,0 +1,20 @@
+{
+  "mf.name": "G-protein coupled receptor binding"
+}
+
+{
+  "mf.name": "hydrolase activity, acting on ester bonds"
+}
+
+{
+  "mf.name": "protein tyrosine kinase binding"
+}
+
+{
+  "mf.name": "receptor tyrosine kinase binding"
+}
+
+{
+  "mf.name": "D1 dopamine receptor binding"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:UPREGULATES_DuG|DOWNREGULATES_DdG]->(g:Gene)-[:PARTICIPATES_GpPW]->(pw:Pathway {name: 'Oxidative phosphorylation'}) RETURN DISTINCT d.name

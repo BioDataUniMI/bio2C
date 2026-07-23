@@ -1,0 +1,35 @@
+{
+  "g.name": "GSTA2",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "GSTA1",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "GSTM1",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "XDH",
+  "r.actions": [
+    "substrate"
+  ]
+}
+
+{
+  "g.name": "TPMT",
+  "r.actions": [
+    "substrate"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "g.name": "TPT1",
+  "g.description": "tumor protein, translationally-controlled 1"
+}
+
+{
+  "g.name": "TNFAIP6",
+  "g.description": "tumor necrosis factor, alpha-induced protein 6"
+}
+
+{
+  "g.name": "TNFAIP2",
+  "g.description": "tumor necrosis factor, alpha-induced protein 2"
+}
+

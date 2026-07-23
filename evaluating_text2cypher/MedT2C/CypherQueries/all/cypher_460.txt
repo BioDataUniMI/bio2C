@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'endogenous depression'})<-[:PALLIATES_CpD]-(c:Compound), (d2:Disease {name:'multiple sclerosis'} )<-[:PALLIATES_CpD]-(c) RETURN c.name

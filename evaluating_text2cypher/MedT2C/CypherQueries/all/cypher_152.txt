@@ -1,0 +1,1 @@
+MATCH (pc:PharmacologicClass)-[:INCLUDES_PCiC]->(c:Compound)-[:BINDS_CbG]->(g:Gene)-[:PARTICIPATES_GpBP]->(bp:BiologicalProcess {name: 'embryonic process involved in female pregnancy'}) RETURN COUNT(DISTINCT pc)

@@ -1,0 +1,1 @@
+MATCH (d1:Disease {name: 'atherosclerosis'})-[:RESEMBLES_DrD]->(d2:Disease)-[:PRESENTS_DpS]->(s:Symptom {name: 'Obesity'}) MATCH (d2)-[:LOCALIZES_DlA]->(a:Anatomy) RETURN d2.name, a.name

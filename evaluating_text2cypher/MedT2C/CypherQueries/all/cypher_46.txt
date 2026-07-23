@@ -1,0 +1,1 @@
+MATCH (g1:Gene {name: 'BRCA1'})-[:PARTICIPATES_GpPW]->(p:Pathway), (g2:Gene {identifier: 8357})-[:PARTICIPATES_GpPW]->(p) RETURN p.name

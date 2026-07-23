@@ -1,0 +1,33 @@
+{
+  "g.name": "HTR2C",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "GABRA3",
+  "r.actions": null
+}
+
+{
+  "g.name": "HTR2C",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "HTR2C",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+
+{
+  "g.name": "GRIA3",
+  "r.actions": [
+    "antagonist"
+  ]
+}
+

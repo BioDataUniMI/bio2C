@@ -1,0 +1,1 @@
+MATCH (a:Anatomy {name: 'brain'})-[:EXPRESSES_AeG]->(g:Gene)<-[:ASSOCIATES_DaG]-(d:Disease {name: 'schizophrenia'}) WHERE g.name STARTS WITH 'CH' RETURN g.name

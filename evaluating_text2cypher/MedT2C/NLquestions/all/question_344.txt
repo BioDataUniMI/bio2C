@@ -1,0 +1,1 @@
+How many genes are known to interact with the gene 'EGFR'?

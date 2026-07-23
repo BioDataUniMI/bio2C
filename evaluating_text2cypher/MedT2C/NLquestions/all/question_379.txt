@@ -1,0 +1,1 @@
+Which genes on chromosome '12' participate in the 'lysosome' cellular component?

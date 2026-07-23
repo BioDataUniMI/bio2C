@@ -1,0 +1,25 @@
+{
+  "g1.name": "PSMA5",
+  "g2.name": "PSMB4"
+}
+
+{
+  "g1.name": "PSMB2",
+  "g2.name": "PSMB4"
+}
+
+{
+  "g1.name": "PSMA5",
+  "g2.name": "PSMD4"
+}
+
+{
+  "g1.name": "PSMB4",
+  "g2.name": "PSMD4"
+}
+
+{
+  "g1.name": "PSMB2",
+  "g2.name": "PSMD4"
+}
+

@@ -1,0 +1,1 @@
+What are the different pharmacologic classes available in the database that are characterized by 'Physiologic Effect' as class type?
