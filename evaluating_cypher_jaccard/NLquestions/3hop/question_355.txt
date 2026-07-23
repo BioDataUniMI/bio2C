@@ -1,0 +1,1 @@
+Find the genes that transcribe pre-miRNAs which develop into miRNAs that regulate the activity of the target gene 'SMG1P7'. Return the pre-miRNA label and mature miRNA label.

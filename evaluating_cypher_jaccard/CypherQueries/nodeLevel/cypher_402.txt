@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE (bp.Label CONTAINS 'action potential' OR bp.Description CONTAINS 'action potential') AND (bp.Description CONTAINS 'from the soma' OR bp.Description CONTAINS 'towards the soma') RETURN bp.Label, bp.Description

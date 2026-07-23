@@ -1,0 +1,25 @@
+{
+  "gene": "MIR378G",
+  "length": 41
+}
+
+{
+  "gene": "MIR4456",
+  "length": 43
+}
+
+{
+  "gene": "MIR1973",
+  "length": 44
+}
+
+{
+  "gene": "MIR3713",
+  "length": 45
+}
+
+{
+  "gene": "MIR4736",
+  "length": 47
+}
+

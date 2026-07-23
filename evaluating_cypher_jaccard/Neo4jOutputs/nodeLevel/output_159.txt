@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "peroxisomal-mitochondrial contact site",
+  "Description": "an organelle membrane contact site between peroxisomal membrane and mitochondrial outer membrane."
+}
+
+{
+  "CellularComponent": "cytoplasmic side of mitochondrial outer membrane",
+  "Description": "the external (cytoplasmic) face of the mitochondrial outer membrane."
+}
+
+{
+  "CellularComponent": "extrinsic component of mitochondrial outer membrane",
+  "Description": "the component of a mitochondrial outer membrane consisting of gene products and protein complexes..."
+}
+
+{
+  "CellularComponent": "mitochondrial inner boundary membrane",
+  "Description": "the portion of the mitochondrial inner membrane that is not invaginated to form cristae. the inne..."
+}
+
+{
+  "CellularComponent": "mitochondrial permeability transition pore complex",
+  "Description": "a protein complex that connects the inner and outer membranes of animal mitochondria and acts as ..."
+}
+

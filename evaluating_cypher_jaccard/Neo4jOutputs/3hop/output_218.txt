@@ -1,0 +1,7 @@
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "skeletal muscle disorder"
+}
+

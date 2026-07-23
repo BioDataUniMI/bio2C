@@ -1,0 +1,40 @@
+{
+  "g.Label": "plasma lipoprotein particle",
+  "LABELS(g)": [
+    "GO",
+    "Cellular_component"
+  ]
+}
+
+{
+  "g.Label": "yolk plasma",
+  "LABELS(g)": [
+    "GO",
+    "Cellular_component"
+  ]
+}
+
+{
+  "g.Label": "subplasmalemmal coating",
+  "LABELS(g)": [
+    "GO",
+    "Cellular_component"
+  ]
+}
+
+{
+  "g.Label": "triglyceride-rich plasma lipoprotein particle",
+  "LABELS(g)": [
+    "GO",
+    "Cellular_component"
+  ]
+}
+
+{
+  "g.Label": "plasmalogen synthase activity",
+  "LABELS(g)": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+

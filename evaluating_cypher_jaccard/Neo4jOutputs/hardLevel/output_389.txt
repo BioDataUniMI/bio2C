@@ -1,0 +1,11 @@
+{
+  "Gene": "AIFM1",
+  "Diseases": [
+    "Huntington disease-like 2",
+    "juvenile Huntington disease",
+    "Huntington disease-like 1",
+    "Huntington disease"
+  ],
+  "CAG_Count": 840
+}
+

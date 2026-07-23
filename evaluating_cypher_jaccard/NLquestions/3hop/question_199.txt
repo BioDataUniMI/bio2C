@@ -1,0 +1,1 @@
+Identify the cancers that express the miRNAs either of 'hsa-let-7a-5p' and 'hsa-let-7a-3p'. The two are known to regulate the activity of genes that cause or contribute to the disease labeled as 'lung carcinoma'. Return the label of the cancers and the gene.

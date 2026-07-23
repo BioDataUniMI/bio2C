@@ -1,0 +1,20 @@
+{
+  "CancerLabel": "heart lymphoma"
+}
+
+{
+  "CancerLabel": "familial atrial myxoma"
+}
+
+{
+  "CancerLabel": "neurofibroma of the heart"
+}
+
+{
+  "CancerLabel": "heart sarcoma"
+}
+
+{
+  "CancerLabel": "malignant pericardial mesothelioma"
+}
+

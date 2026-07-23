@@ -1,0 +1,30 @@
+{
+  "AutoimmuneDisease": "Sjogren syndrome",
+  "Phenotype": "Optic neuritis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "AutoimmuneDisease": "Sjogren syndrome",
+  "Phenotype": "Thyroiditis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "AutoimmuneDisease": "Sjogren syndrome",
+  "Phenotype": "Myositis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "AutoimmuneDisease": "Sjogren syndrome",
+  "Phenotype": "Increased circulating antibody concentration",
+  "GOterm": "immunoglobulin complex, circulating"
+}
+
+{
+  "AutoimmuneDisease": "Sjogren syndrome",
+  "Phenotype": "Decreased circulating antibody concentration",
+  "GOterm": "immunoglobulin complex, circulating"
+}
+

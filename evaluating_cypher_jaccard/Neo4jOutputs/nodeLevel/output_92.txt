@@ -1,0 +1,18 @@
+{
+  "d": {
+    "Description": "familial dilated cardiomyopathy with conduction defect due to lmna mutation is a rare familial di...",
+    "Label": "dilated cardiomyopathy 1A",
+    "ID": "MONDO:0007269",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0007269"
+  }
+}
+
+{
+  "d": {
+    "Description": "any familial isolated dilated cardiomyopathy in which the cause of the disease is a mutation in t...",
+    "Label": "dilated cardiomyopathy 1AA",
+    "ID": "MONDO:0012808",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0012808"
+  }
+}
+

@@ -1,0 +1,72 @@
+{
+  "m1.Label": "hsa-miR-4770",
+  "m2.Label": "microRNA hsa-mir-4770 precursor",
+  "r.Source": [
+    "miRBase"
+  ],
+  "m1.Genomic_coordinates": [
+    "chrX:6383907-6383924-"
+  ],
+  "m2.Genomic_coordinates": [
+    "chrX:6383906-6383963-"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-4330",
+  "m2.Label": "microRNA hsa-mir-4330 precursor",
+  "r.Source": [
+    "miRBase"
+  ],
+  "m1.Genomic_coordinates": [
+    "chrX:151168298-151168316+"
+  ],
+  "m2.Genomic_coordinates": [
+    "chrX:151168222-151168326+"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-3690",
+  "m2.Label": "microRNA hsa-mir-3690 precursor (hsa-mir-3690-1%2C hsa-mir-3690-2)",
+  "r.Source": [
+    "miRBase"
+  ],
+  "m1.Genomic_coordinates": [
+    "chrX:1293927-1293949+",
+    "chrY:1293927-1293949+"
+  ],
+  "m2.Genomic_coordinates": [
+    "chrX:1293918-1293992+",
+    "chrY:1293918-1293992+"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-12120",
+  "m2.Label": "microRNA hsa-mir-12120 precursor",
+  "r.Source": [
+    "miRBase"
+  ],
+  "m1.Genomic_coordinates": [
+    "chrY:13479189-13479214+"
+  ],
+  "m2.Genomic_coordinates": [
+    "chrY:13479177-13479266+"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-890",
+  "m2.Label": "microRNA hsa-mir-890 precursor",
+  "r.Source": [
+    "miRBase"
+  ],
+  "m1.Genomic_coordinates": [
+    "chrX:145994321-145994341-"
+  ],
+  "m2.Genomic_coordinates": [
+    "chrX:145994275-145994351-"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Find all miRNAs that do not participate in any biological process and are characterized by a sequence strictly shorter than 17 nucleotides. In case of ties, order the miRNAs alphabetically by their label.

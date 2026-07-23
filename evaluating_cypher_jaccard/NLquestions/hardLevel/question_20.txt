@@ -1,0 +1,1 @@
+Find pre-miRNAs whose sequence contains the same number of 'G' and 'A' nucleotides that are causal somatic mutations in diseases. Return the matching pre-miRNA and disease labels.

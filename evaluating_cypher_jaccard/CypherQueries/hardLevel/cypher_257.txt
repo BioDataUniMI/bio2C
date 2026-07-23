@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:acts_upstream_of_or_within]->(bp:Biological_process) WHERE bp.Label CONTAINS 'phagocytosis' WITH m, 100.0 * SIZE([n IN SPLIT(m.Sequence, '') WHERE n IN ['G', 'C']]) / toFloat(SIZE(m.Sequence)) AS GC_content_percentage RETURN m.Label AS miRNA, GC_content_percentage

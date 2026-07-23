@@ -1,0 +1,14 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+

@@ -1,0 +1,1 @@
+Identify each miRNA together with the gene it regulates, the gene that genetically interacts with it, and the sequence lengths of the miRNA and the two genes.

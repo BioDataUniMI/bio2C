@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE SIZE(m.Sequence) * 2 = SIZE(p.Sequence) RETURN m.Label AS miRNA, p.Label AS pre_miRNA, SIZE(m.Sequence) AS miRNA_sequence_length, SIZE(p.Sequence) AS pre_miRNA_sequence_length

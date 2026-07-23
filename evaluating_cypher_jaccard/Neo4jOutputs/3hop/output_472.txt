@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR190B",
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-3p",
+  "Disease": "pediatric meningioma"
+}
+
+{
+  "Gene": "MIR190B",
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-5p",
+  "Disease": "pediatric meningioma"
+}
+
+{
+  "Gene": "MIR1260B",
+  "Pre_miRNA": "microRNA hsa-mir-1260b precursor",
+  "miRNA": "hsa-miR-1260b",
+  "Disease": "pediatric meningioma"
+}
+
+{
+  "Gene": "MIR3150B",
+  "Pre_miRNA": "microRNA hsa-mir-3150b precursor",
+  "miRNA": "hsa-miR-3150b-5p",
+  "Disease": "pediatric meningioma"
+}
+
+{
+  "Gene": "MIR450B",
+  "Pre_miRNA": "microRNA hsa-mir-450b precursor",
+  "miRNA": "hsa-miR-450b-5p",
+  "Disease": "pediatric meningioma"
+}
+

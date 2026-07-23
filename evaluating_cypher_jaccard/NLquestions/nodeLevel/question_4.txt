@@ -1,0 +1,1 @@
+List molecular functions whose label ends with 'transporter binding' and that have a long description (more than 20 characters).

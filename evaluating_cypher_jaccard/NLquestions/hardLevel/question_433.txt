@@ -1,0 +1,1 @@
+Which cancers have the highest number of pre-miRNAs that are over-expressed with a TANRIC score greater than 0.2? Return each cancer and the number of associated over-expressed pre-miRNAs, ranked by this number.

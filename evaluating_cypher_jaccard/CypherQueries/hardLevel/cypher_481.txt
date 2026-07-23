@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'chemical reactions' WITH mf.Label AS Label, SPLIT(mf.Description, ' ') AS words WITH Label, words[0..10] AS first10 RETURN Label, REDUCE(s = '', w IN first10 | s + w + ' ') AS DescriptionSnippet

@@ -1,0 +1,20 @@
+{
+  "a.Label": "celiac disease, susceptibility to, 9"
+}
+
+{
+  "a.Label": "celiac disease, susceptibility to, 11"
+}
+
+{
+  "a.Label": "celiac disease, susceptibility to, 10"
+}
+
+{
+  "a.Label": "celiac disease, susceptibility to, 5"
+}
+
+{
+  "a.Label": "celiac disease, susceptibility to, 2"
+}
+

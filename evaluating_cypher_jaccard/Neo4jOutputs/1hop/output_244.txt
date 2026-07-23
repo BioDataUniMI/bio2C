@@ -1,0 +1,71 @@
+{
+  "miRNA": "hsa-miR-621",
+  "Gene": "AURKA",
+  "RelationshipProperties": {
+    "Source": [
+      "miRTarBase"
+    ],
+    "Method": [
+      "luciferase reporter assay",
+      "quantitative reverse transcriptase pcr"
+    ],
+    "PubMedID": [
+      "33629578"
+    ]
+  }
+}
+
+{
+  "miRNA": "hsa-miR-32-5p",
+  "Gene": "AURKA",
+  "RelationshipProperties": {
+    "Source": [
+      "miRTarBase"
+    ],
+    "Method": [
+      "luciferase reporter assay",
+      "western blotting",
+      "quantitative reverse transcriptase pcr"
+    ],
+    "PubMedID": [
+      "26036635"
+    ]
+  }
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "AURKA",
+  "RelationshipProperties": {
+    "Source": [
+      "miRTarBase"
+    ],
+    "Method": [
+      "luciferase reporter assay",
+      "western blotting",
+      "quantitative reverse transcriptase pcr"
+    ],
+    "PubMedID": [
+      "32849824"
+    ]
+  }
+}
+
+{
+  "miRNA": "hsa-miR-4715-3p",
+  "Gene": "AURKA",
+  "RelationshipProperties": {
+    "Source": [
+      "miRTarBase"
+    ],
+    "Method": [
+      "luciferase reporter assay",
+      "western blotting",
+      "quantitative reverse transcriptase pcr"
+    ],
+    "PubMedID": [
+      "31740746"
+    ]
+  }
+}
+

@@ -1,0 +1,1 @@
+How many distinct miRNAs are over-expressed in diseases that are subclasses of cancer whose label contains the string 'lymphoid leukemia', where those cancer have phenotypes with labels containing 'Sepsis'?

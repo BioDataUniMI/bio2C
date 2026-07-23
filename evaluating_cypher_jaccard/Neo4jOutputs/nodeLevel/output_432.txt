@@ -1,0 +1,27 @@
+{
+  "COUNT(mf)": 10144,
+  "LABELS(mf)": [
+    "GO",
+    "Molecular_function"
+  ],
+  "mf.Species": null
+}
+
+{
+  "COUNT(mf)": 1,
+  "LABELS(mf)": [
+    "GO",
+    "Molecular_function"
+  ],
+  "mf.Species": "Eumetazoa"
+}
+
+{
+  "COUNT(mf)": 1,
+  "LABELS(mf)": [
+    "GO",
+    "Molecular_function"
+  ],
+  "mf.Species": "Metazoa"
+}
+

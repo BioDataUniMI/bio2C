@@ -1,0 +1,20 @@
+{
+  "NeurodegenerativeDisease": "acute hemorrhagic leukoencephalitis",
+  "ParentDisease": "acute hemorrhagic encephalitis",
+  "PhenotypeCount": 1,
+  "Phenotypes": [
+    "Abnormal bleeding"
+  ],
+  "RelatedAutoimmuneDiseases": [
+    "polymyalgia rheumatica",
+    "neonatal lupus erythematosus",
+    "autoimmune lymphoproliferative syndrome",
+    "Wolfram syndrome 2",
+    "autoimmune lymphoproliferative syndrome type 1",
+    "autoimmune polyendocrinopathy type 2",
+    "autoimmune thrombocytopenic purpura",
+    "Hailey-Hailey disease",
+    "gout"
+  ]
+}
+

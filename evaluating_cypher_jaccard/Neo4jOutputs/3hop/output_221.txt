@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "negative regulation of leukocyte cell-cell adhesion"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "negative regulation of leukocyte proliferation"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "negative regulation of lymphocyte activation"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "negative regulation of T cell activation"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "negative regulation of cell activation"
+}
+

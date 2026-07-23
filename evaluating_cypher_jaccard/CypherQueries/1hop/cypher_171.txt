@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'chromatin'}) RETURN m.Label AS miRNA

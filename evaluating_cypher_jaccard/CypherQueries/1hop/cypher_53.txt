@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process {Label:'inflammatory response'}) RETURN m.Label AS miRNA

@@ -1,0 +1,1 @@
+Identify phenotypes of the disease 'myelofibrosis' that are characteristic of the GO term labeled as 'regulation of appetite'. Return the disease and phenotype labels.

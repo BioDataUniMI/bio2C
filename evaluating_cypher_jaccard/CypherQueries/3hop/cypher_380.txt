@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(g:GO)-[:has_participant]->(pre:pre_miRNA)-[r:develops_into]->(m:miRNA) WHERE 'miRBase' IN r.Source RETURN COUNT(DISTINCT d) AS DiseaseCount

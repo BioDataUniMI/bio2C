@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "BiologicalProcess": "cell motility"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-143 precursor",
+  "BiologicalProcess": "cell motility"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-205 precursor",
+  "BiologicalProcess": "cell motility"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "BiologicalProcess": "cell motility"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200a precursor",
+  "BiologicalProcess": "cell motility"
+}
+

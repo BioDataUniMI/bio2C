@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[r1:over_expressed_in]->(c:Cancer)-[r2:expresses]->(m2:miRNA) RETURN DISTINCT c.Label AS Cancer, r1.Source AS OverExpressionSources, r2.Source AS ExpressionSources

@@ -1,0 +1,16 @@
+{
+  "miRNA": "microRNA hsa-mir-421 precursor",
+  "Source": [
+    "HMDD"
+  ],
+  "Disease": "COVID-19"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200c precursor",
+  "Source": [
+    "HMDD"
+  ],
+  "Disease": "COVID-19"
+}
+

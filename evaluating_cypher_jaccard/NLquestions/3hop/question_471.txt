@@ -1,0 +1,1 @@
+Identify diseases with the string 'Leg type' in their labels that are caused or contributed to by genes with sequences longer than 20,000 nucleotides and regulated by miRNAs expressed in cancers. Return the cancer label, miRNA label, gene label, length of gene sequence, and disease label.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) WITH d, bp, COUNT(DISTINCT m) AS miRNACount RETURN d.Label AS Disease, bp.Label AS BiologicalProcess, miRNACount

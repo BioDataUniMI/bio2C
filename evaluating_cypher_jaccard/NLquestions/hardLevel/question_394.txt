@@ -1,0 +1,1 @@
+For each of the genes GNE, ADA, and GJE1, find the diseases they cause or contribute to, and return the gene label along with the list of those diseases.

@@ -1,0 +1,1 @@
+Return the labels and the first 10 words of the descriptions of all molecular functions whose descriptions contain the string 'chemical reactions'.

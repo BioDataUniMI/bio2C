@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-4261",
+  "SequenceLength": 16
+}
+
+{
+  "miRNA": "hsa-miR-4266",
+  "SequenceLength": 16
+}
+
+{
+  "miRNA": "hsa-miR-4267",
+  "SequenceLength": 16
+}
+
+{
+  "miRNA": "hsa-miR-4279",
+  "SequenceLength": 16
+}
+
+{
+  "miRNA": "hsa-miR-4291",
+  "SequenceLength": 16
+}
+

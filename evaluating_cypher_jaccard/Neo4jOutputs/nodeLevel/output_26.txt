@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "micronucleus",
+  "Description": "a membrane-bounded organelle of ciliated protozoan cells that contains a diploid copy of the cell..."
+}
+
+{
+  "CellularComponent": "cell nucleus",
+  "Description": "a membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. ..."
+}
+
+{
+  "CellularComponent": "host cell nucleus",
+  "Description": "a membrane-bounded organelle as it is found in the host cell in which chromosomes are housed and ..."
+}
+
+{
+  "CellularComponent": "pronucleus",
+  "Description": "the nucleus of either the ovum or the spermatozoon following fertilization. thus, in the fertiliz..."
+}
+
+{
+  "CellularComponent": "nucleus-vacuole junction",
+  "Description": "an organelle membrane contact site formed between the vacuole membrane and the outer nuclear memb..."
+}
+

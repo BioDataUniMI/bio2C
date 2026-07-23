@@ -1,0 +1,1 @@
+Identify genes whose activity is regulated by miRNAs and that cause or contribute to the disease labeled as 'Li-Fraumeni syndrome'. Return the miRNA and gene labels.

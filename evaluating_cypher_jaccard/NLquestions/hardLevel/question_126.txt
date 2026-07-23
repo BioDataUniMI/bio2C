@@ -1,0 +1,1 @@
+Which miRNAs or a subclass hierarchy of miRNAs are reported to cause or contribute to neurodegenerative diseases (or their subtypes) whose label includes the term 'motor' (case-insensitive)? Return the distinct miRNA and disease labels.

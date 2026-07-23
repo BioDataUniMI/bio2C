@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label =~ '.*hypertrophic cardiomyopathy [0-9]+.*' RETURN d.Label

@@ -1,0 +1,1 @@
+Which miRNAs are expressed in diseases and participate in biological processes occurring in the cellular component labeled as 'mitochondrion'? Return the disease label, the miRNA label, the biological process label, and the cellular component label.

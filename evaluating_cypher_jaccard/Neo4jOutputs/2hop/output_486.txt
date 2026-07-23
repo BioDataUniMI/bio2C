@@ -1,0 +1,6 @@
+{
+  "Infectious_Disease": "anti-NMDA receptor encephalitis",
+  "Molecular_Function": "NMDA glutamate receptor activity",
+  "GO_Term": "regulation of NMDA receptor activity"
+}
+

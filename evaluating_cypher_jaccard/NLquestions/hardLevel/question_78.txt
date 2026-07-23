@@ -1,0 +1,1 @@
+Find the top three pre-miRNAs with the highest number of non-overlapping 'CU' occurrences in their sequence that are over-expressed in infectious diseases. Return the pre-miRNA ID, the total count of 'CU' occurrences, and the list of associated infectious disease labels (sorted alphabetically). Break ties by pre-miRNA ID alphabetically.

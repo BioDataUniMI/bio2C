@@ -1,0 +1,20 @@
+{
+  "GeneLabel": "C2"
+}
+
+{
+  "GeneLabel": "C3"
+}
+
+{
+  "GeneLabel": "C5"
+}
+
+{
+  "GeneLabel": "C6"
+}
+
+{
+  "GeneLabel": "C7"
+}
+

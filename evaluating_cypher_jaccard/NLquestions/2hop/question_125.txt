@@ -1,0 +1,1 @@
+Which cancers whose label contains the word 'lung' are characterized by the over-expression of pre-miRNAs or express miRNAs? Return only the cancer labels

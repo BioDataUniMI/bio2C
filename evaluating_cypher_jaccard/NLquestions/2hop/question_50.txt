@@ -1,0 +1,1 @@
+Identify miRNAs that are transcribed from genes that cause or contribute to the disease labeled as 'differentiated thyroid carcinoma'.

@@ -1,0 +1,12 @@
+{
+  "GO": "kinase activity",
+  "miRNAs": 12,
+  "processes": 10
+}
+
+{
+  "GO": "protein kinase activity",
+  "miRNAs": 12,
+  "processes": 10
+}
+

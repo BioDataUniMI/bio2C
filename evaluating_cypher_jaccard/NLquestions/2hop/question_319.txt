@@ -1,0 +1,1 @@
+Identify molecular functions that are part of GO terms whose disruption causes the disease labeled as 'disorder of glycogen metabolism'. Return the disrupted GO terms and molecular function labels.

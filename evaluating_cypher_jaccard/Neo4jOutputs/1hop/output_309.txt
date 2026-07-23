@@ -1,0 +1,4 @@
+{
+  "mf.Label": "gene product or complex activity"
+}
+

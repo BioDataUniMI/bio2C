@@ -1,0 +1,1 @@
+Find pre-miRNAs that are in a homology relationship with miRNAs transcribed from genes whose label ends with the character 'T', along with other pre-miRNAs transcribed from those same genes. Return the label of the: pre-miRNAs, miRNA, and gene

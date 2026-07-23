@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE NOT g.Label=~ '.*[0-9].*' AND NOT c.Label CONTAINS 'familial' AND NOT c.Label CONTAINS 'breast' RETURN c.Label AS Cancer, m.Label AS miRNA, g.Label AS Gene

@@ -1,0 +1,1 @@
+MATCH (go:GO)<-[:part_of]-(bp:Biological_process)<-[:participates_in]-(m:miRNA), (go)-[:occurs_in]->(cc:Cellular_component) WHERE go.Label CONTAINS 'DNA' RETURN go.Label AS GOterm, bp.Label AS BiologicalProcess, m.Label AS miRNA, cc.Label AS CellularComponent

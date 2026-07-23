@@ -1,0 +1,20 @@
+{
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "Cancer": "squamous cell lung carcinoma"
+}
+
+{
+  "Cancer": "exocrine pancreatic carcinoma"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma"
+}
+

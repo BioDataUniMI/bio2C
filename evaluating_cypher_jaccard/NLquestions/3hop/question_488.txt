@@ -1,0 +1,1 @@
+Identify the top 5 cancers known to have phenotypes based on the number of distinct molecular functions enabled by their expressed miRNAs. Return the cancer label and the molecular function count, ordering alphabetically by cancer label in case of ties.

@@ -1,0 +1,1 @@
+Identify cardiovascular diseases caused or contributed by the gene 'FADD', and the miRNAs that regulate the activity of this gene. Return the miRNA and disease labels.

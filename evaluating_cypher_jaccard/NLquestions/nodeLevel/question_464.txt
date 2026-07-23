@@ -1,0 +1,1 @@
+Find the phenotypes whose: 1) labels contain both the words 'muscle' and 'weakness'; 2) descriptions contain the string 'decreased strength'; 3) descriptions do NOT contain the word 'generalized'.

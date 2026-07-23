@@ -1,0 +1,6 @@
+{
+  "Gene": "MIR1208",
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "Disease": "atopic eczema"
+}
+

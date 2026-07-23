@@ -1,0 +1,1 @@
+Find the top 5 cancers that are subclasses of diseases with at least one phenotype, ranked by the number of distinct over-expressed miRNAs. Break ties by ordering the parent disease label alphabetically. Return the cancer label and the miRNA count.

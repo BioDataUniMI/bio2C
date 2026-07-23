@@ -1,0 +1,80 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung neoplasm",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionPubMedID": null,
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationPubMedID": [
+    "32133790"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung cancer",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionPubMedID": null,
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationPubMedID": [
+    "32133790"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung carcinoma",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionPubMedID": null,
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationPubMedID": [
+    "32133790"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung benign neoplasm",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionPubMedID": null,
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationPubMedID": [
+    "32133790"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP",
+  "Disease": "leukemia",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionPubMedID": null,
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationPubMedID": [
+    "31907208"
+  ]
+}
+

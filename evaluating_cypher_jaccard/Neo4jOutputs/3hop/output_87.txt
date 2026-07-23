@@ -1,0 +1,9 @@
+{
+  "miRNA": "hsa-miR-200c-3p",
+  "Pre_miRNA": "microRNA hsa-mir-200c precursor",
+  "InfectiousDisease": "COVID-19",
+  "Source": [
+    "HMDD"
+  ]
+}
+

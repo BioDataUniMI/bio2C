@@ -1,0 +1,20 @@
+{
+  "Disease": "allergic urticaria"
+}
+
+{
+  "Disease": "atopic IgE-mediated allergic disorder"
+}
+
+{
+  "Disease": "allergic rhinitis, cattle"
+}
+
+{
+  "Disease": "allergic cutaneous vasculitis"
+}
+
+{
+  "Disease": "allergic bronchopulmonary aspergillosis"
+}
+

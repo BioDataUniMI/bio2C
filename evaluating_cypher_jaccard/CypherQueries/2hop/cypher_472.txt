@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_transport_across]->(cc:Cellular_component)-[:part_of]->(cc1:Cellular_component) WHERE bp.Label CONTAINS 'protein' RETURN cc.Label AS Cellular_Component, cc1.Label AS Parent_Cellular_Component

@@ -1,0 +1,1 @@
+List all miRNAs under-expressed in the GO term 'apoptotic process' such that the relationship (miRNA-under_expressed_in->GO) is characterized by context that contains the item 'cardiac'. Return the miRNA label and all relationship properties.

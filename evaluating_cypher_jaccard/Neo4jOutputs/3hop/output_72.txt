@@ -1,0 +1,6 @@
+{
+  "CellularComponent": "mitochondrion",
+  "GO_Term1": "autophagy of mitochondrion",
+  "GO_Term2": "intracellular membrane-bounded organelle"
+}
+

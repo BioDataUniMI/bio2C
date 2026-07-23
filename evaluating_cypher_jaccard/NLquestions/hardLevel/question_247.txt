@@ -1,0 +1,1 @@
+Find the genomic coordinates (from miRNA genomic coordinates) that are shared by the highest number of miRNAs located in the cellular component 'nucleoplasm'. Return the genomic coordinates and the miRNA count.

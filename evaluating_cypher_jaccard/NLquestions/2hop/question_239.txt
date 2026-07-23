@@ -1,0 +1,1 @@
+Identify GO terms whose disruption is caused by diseases that have 'apnea'-related phenotypes. Return the label of the phenotype, disease, and disrupted GO term.

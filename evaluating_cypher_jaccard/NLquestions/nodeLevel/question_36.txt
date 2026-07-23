@@ -1,0 +1,1 @@
+Which genes have at least 20 synonym at least one of them containing the substring 'kinase'? Return genes' label and synonyms.

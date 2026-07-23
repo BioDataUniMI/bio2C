@@ -1,0 +1,1 @@
+MATCH (m:miRNA{Label:'hsa-miR-125a-5p'})-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) RETURN  m.Label AS miRNA, cc.Label AS CellularComponent, go.Label AS GOterm

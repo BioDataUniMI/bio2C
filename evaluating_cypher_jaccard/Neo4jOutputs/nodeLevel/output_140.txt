@@ -1,0 +1,41 @@
+{
+  "Gene": "LINC00511",
+  "GenomicCoordinates": [
+    "chr17:72221072-72640472-"
+  ],
+  "SequenceLength": 419401
+}
+
+{
+  "Gene": "SEPTIN9",
+  "GenomicCoordinates": [
+    "chr17:77280569-77500596+"
+  ],
+  "SequenceLength": 220028
+}
+
+{
+  "Gene": "MSI2",
+  "GenomicCoordinates": [
+    "chr17:57255851-57684689+"
+  ],
+  "SequenceLength": 428839
+}
+
+{
+  "Gene": "EFCAB13-DT",
+  "GenomicCoordinates": [
+    "chr17:47279525-47492672-",
+    "chr17:47482992-47492459-"
+  ],
+  "SequenceLength": 213148
+}
+
+{
+  "Gene": "USP32",
+  "GenomicCoordinates": [
+    "chr17:60177327-60422470-"
+  ],
+  "SequenceLength": 245144
+}
+

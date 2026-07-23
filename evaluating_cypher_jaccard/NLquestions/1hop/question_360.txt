@@ -1,0 +1,1 @@
+Find diseases that have material in germline mutations in miRNAs longer than 25 nucleotides. Return only interations characterized by a p-value strictly lower than 0.05.

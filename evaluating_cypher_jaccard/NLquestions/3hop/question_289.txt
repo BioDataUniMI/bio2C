@@ -1,0 +1,1 @@
+Which mature miRNAs regulate the activity of the gene 'YAP1' that is known cause or contribute to cancers with labels containing the word 'meninges' or 'brain'? What are their corresponding pre-miRNAs? Return the labels of the pre-miRNA, miRNA, and cancer.

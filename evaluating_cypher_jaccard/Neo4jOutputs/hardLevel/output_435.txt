@@ -1,0 +1,4 @@
+{
+  "nNegativeRegulations": 4
+}
+

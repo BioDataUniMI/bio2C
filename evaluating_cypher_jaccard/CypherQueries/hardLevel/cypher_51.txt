@@ -1,0 +1,1 @@
+MATCH (a:Phenotype) WHERE a.Label CONTAINS 'carcinoma' MATCH (b:Phenotype) WHERE b.Label CONTAINS 'lung' AND ID(b) <> ID(a) MATCH p = (a)-[:subclassof*1..10]->(b) WITH a,b,p ORDER BY length(p) ASC WITH a, b, HEAD(COLLECT(p)) AS sp RETURN [n IN NODES(sp) | n.Label] AS Path

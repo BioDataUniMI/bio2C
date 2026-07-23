@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'consciousness' OR toLower(d.Description) CONTAINS 'cognitive' RETURN d.Label AS DiseaseLabel, d.Description, d.URI

@@ -1,0 +1,30 @@
+{
+  "Disease": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "malignant colon neoplasm"
+}
+
+{
+  "Disease": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "malignant colon neoplasm"
+}
+
+{
+  "Disease": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "malignant colon neoplasm"
+}
+
+{
+  "Disease": "lipoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "malignant colon neoplasm"
+}
+
+{
+  "Disease": "hamartoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "malignant colon neoplasm"
+}
+

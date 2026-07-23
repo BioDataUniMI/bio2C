@@ -1,0 +1,14 @@
+{
+  "NeurodegenerativeDisease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "GOTerm": "sensory perception of sound",
+  "PartGOTerm": "vibrational conductance of sound to the inner ear"
+}
+
+{
+  "NeurodegenerativeDisease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "GOTerm": "sensory perception of sound",
+  "PartGOTerm": "detection of mechanical stimulus involved in sensory perception of sound"
+}
+

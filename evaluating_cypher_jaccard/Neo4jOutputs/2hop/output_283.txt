@@ -1,0 +1,30 @@
+{
+  "Disease": "pseudohypoparathyroidism",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "pseudohypoparathyroidism type 1C",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "pseudohypoparathyroidism type 1B",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "pseudohypoparathyroidism type 1A",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "Carney complex - trismus - pseudocamptodactyly syndrome",
+  "Phenotype": "Elevated circulating growth hormone concentration",
+  "GOterm": "growth hormone secretion"
+}
+

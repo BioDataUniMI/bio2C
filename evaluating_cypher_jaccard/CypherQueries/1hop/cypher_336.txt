@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:regulates|regulated_by]-(:GO) WHERE mf.Description CONTAINS 'protein' RETURN COUNT(DISTINCT mf) AS MolecularFunctionCount

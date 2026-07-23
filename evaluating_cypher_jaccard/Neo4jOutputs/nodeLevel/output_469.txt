@@ -1,0 +1,8 @@
+{
+  "p.Description": "a false belief that you or your body parts are dead, dying, or do not exist.",
+  "p.Synonym": [
+    "Delirio de Cotard"
+  ],
+  "p.URI": "http://purl.obolibrary.org/obo/HP_5200422"
+}
+

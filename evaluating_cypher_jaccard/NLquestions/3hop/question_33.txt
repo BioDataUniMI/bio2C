@@ -1,0 +1,1 @@
+For each parent disease, how many distinct genes are involved in causing or contributing to a cardiovascular disease that shares features with another cardiovascular disease, where the latter is a subclass of the parent disease? Return the label of the parent disease and the gene distinct count.

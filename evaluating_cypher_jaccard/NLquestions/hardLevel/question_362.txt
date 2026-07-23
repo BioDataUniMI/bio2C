@@ -1,0 +1,1 @@
+Which gene(s) that cause or contribute to phenotypes are regulated by the minimum number of distinct miRNAs (including ties)? Return the gene label and the number of regulating miRNAs.

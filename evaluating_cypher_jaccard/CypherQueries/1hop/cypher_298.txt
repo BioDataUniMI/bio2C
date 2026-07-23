@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:characteristic_of]->(bp:Biological_process) WHERE p.Label CONTAINS 'humeral' RETURN p.Label AS Phenotype, COUNT(bp) AS ProcessCount

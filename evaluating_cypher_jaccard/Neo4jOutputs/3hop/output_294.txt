@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-659-5p",
+  "Disease": "semantic dementia",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "Lewy bodies"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "Disease": "semantic dementia",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "Senile plaques"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "Disease": "semantic dementia",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "EEG with continuous slow activity"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "Disease": "semantic dementia",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "Dysgraphia"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "Disease": "semantic dementia",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "Alexia"
+}
+

@@ -1,0 +1,1 @@
+Find all genes with a sequence shorter than 3000 nucleotides that contain the motif 'ATCG' and cause or contribute to infectious diseases. Return the gene label, the list of infectious diseases, and the motif 'ATCG' repeated at least 100 times.

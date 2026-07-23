@@ -1,0 +1,9 @@
+{
+  "bp": {
+    "Description": "any process that increases the rate, frequency or extent of the establishment of the blood-brain ...",
+    "Label": "positive regulation of establishment of blood-brain barrier",
+    "ID": "GO:0090211",
+    "URI": "http://purl.obolibrary.org/obo/GO_0090211"
+  }
+}
+

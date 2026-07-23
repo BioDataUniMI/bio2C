@@ -1,0 +1,30 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_Term": "amide biosynthetic process"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_Term": "cellular amide metabolic process"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_Term": "positive regulation of apoptotic process"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_Term": "peptide biosynthetic process"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_Term": "regulation of apoptotic process"
+}
+

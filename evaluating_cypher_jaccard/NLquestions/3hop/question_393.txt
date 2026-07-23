@@ -1,0 +1,1 @@
+Identify phenotypes of cardiovascular diseases that are caused or contributed by genes regulated by miRNAs. Return the miRNA label, gene label, cardiovascular disease label, and phenotype label.

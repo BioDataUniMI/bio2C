@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.ID ENDS WITH '555' RETURN cd

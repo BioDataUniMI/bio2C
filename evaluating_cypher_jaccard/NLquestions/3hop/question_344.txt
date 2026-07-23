@@ -1,0 +1,1 @@
+Which miRNAs are under-expressed in the cancer labeled as 'neurofibromatosis type 1', and what is the label of the disease that the cancer is a subclass of and that causes disruption of GO terms ? Also, what source(s) are reported on the subclassof relationship? Return the miRNA label, the parent disease label, the GO term label  and the subclassof source(s)

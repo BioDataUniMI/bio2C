@@ -1,0 +1,1 @@
+MATCH (:pre_miRNA)-[:participates_in]->(g:GO) RETURN g.Label AS GOTerm, COUNT(*) AS ParticipationCount ORDER BY ParticipationCount

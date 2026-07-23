@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:causes_or_contributes_to_condition]->(d:Disease {Label:'Alzheimer disease'}) WHERE NOT p.Label ENDS WITH 'precursor' AND (SIZE(p.Sequence) < 80 OR SIZE(p.Sequence) > 85) RETURN p.Label AS Pre_miRNA, SIZE(p.Sequence) AS SequenceLength

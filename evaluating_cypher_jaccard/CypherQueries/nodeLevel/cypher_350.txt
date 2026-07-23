@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'chromosome 22' RETURN cd.Label AS DiseaseLabel

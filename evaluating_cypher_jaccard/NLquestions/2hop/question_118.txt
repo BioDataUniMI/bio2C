@@ -1,0 +1,1 @@
+Identify cancers whose label contains the string 'breast carcinoma' expressing miRNAs that participate in GO terms whose label ends with 'process'. Return the label of the: cancer, miRNA, and GO term.

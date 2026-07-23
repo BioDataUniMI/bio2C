@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(go2:GO)<-[:regulates]-(go1:GO {Label:'regulation of B cell antigen processing and presentation'}) RETURN go2.Label AS RegulatedGO, m.Label AS miRNA

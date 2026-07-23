@@ -1,0 +1,1 @@
+Retrieve the description of neurodegenerative diseases whose label contain 'parkinson' (if the node property 'Description' is available).

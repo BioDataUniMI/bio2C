@@ -1,0 +1,1 @@
+Which cancers express the miRNA 'hsa-let-7a-5p' that is located in a cellular component part of GO terms? Return the cancer label, miRNA label, cellular component label, and GO term label.

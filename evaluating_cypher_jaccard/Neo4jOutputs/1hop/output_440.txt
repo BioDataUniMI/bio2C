@@ -1,0 +1,16 @@
+{
+  "d.Label": "obsessive-compulsive personality disorder",
+  "md.Label": "compulsion",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "d.Label": "obsessive-compulsive personality disorder",
+  "md.Label": "obsession",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+

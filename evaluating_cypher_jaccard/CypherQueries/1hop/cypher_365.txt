@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE SIZE(m.Sequence) > 22 AND r.`p-value` < 0.01 AND r.PubMedID IS NOT NULL RETURN d.Label AS Disease, m.Label AS miRNA, r.PubMedID AS PubMedID

@@ -1,0 +1,1 @@
+Identify autoimmune diseases that are realized in response to a stimulus in specific cellular components. Include node label and URI in the output.

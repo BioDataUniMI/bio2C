@@ -1,0 +1,20 @@
+{
+  "CancerLabel": "anti-NMDA receptor encephalitis",
+  "Classifications": [
+    "Disease",
+    "Cancer",
+    "Infectious_disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "CancerLabel": "Al Gazali Khidr Prem Chandran syndrome",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cancer",
+    "Autoimmune_disease"
+  ]
+}
+

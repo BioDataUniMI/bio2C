@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease), (p:Phenotype {Label:'Macular edema'})-[:phenotype_of]->(d) WHERE m.Label ENDS WITH 'a-3p' RETURN m.Label AS miRNA, c.Label AS Cancer, d.Label AS ParentDisease

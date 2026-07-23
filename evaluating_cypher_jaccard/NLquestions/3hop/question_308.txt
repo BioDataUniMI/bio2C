@@ -1,0 +1,1 @@
+Which GO terms do miRNAs transcribed from genes with labels ending in ‘B’ participate in, where those GO terms are parts of biological processes? Return the labels of the genes, miRNAs, GO terms, and biological processes.

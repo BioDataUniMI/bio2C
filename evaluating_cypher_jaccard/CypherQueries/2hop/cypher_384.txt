@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(c:Cancer {Label:'benign muscle neoplasm'})-[:expresses]->(m:miRNA) RETURN d.Label AS ChildDisease, m.Label AS miRNA

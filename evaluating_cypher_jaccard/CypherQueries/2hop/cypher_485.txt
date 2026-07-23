@@ -1,0 +1,1 @@
+MATCH (ph1:Phenotype {Label:'Overgrowth'})-[:has_part]->(ph2:Phenotype)-[:part_of]->(ph3:Phenotype) WHERE ID(ph1) <> ID(ph3) RETURN ph2.Label AS Part_Phenotype, ph3.Label AS Superior_Phenotype

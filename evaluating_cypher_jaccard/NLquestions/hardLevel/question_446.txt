@@ -1,0 +1,1 @@
+Which genes share the same last 30% of their sequence with the gene labeled 'RBPJP5', excluding RBPJP5 itself?

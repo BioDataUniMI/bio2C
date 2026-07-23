@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[r:over_expressed_in|under_expressed_in]->(ph:Phenotype) WHERE size(g.Sequence) < 50 RETURN g.Label AS Gene, m.Label AS miRNA, ph.Label AS Phenotype, TYPE(r) AS Expression_Type, SIZE(g.Sequence) AS Gene_Sequence_Length

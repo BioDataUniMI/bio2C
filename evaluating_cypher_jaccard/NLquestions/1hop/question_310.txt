@@ -1,0 +1,1 @@
+Find phenotypes with 'aortic arch hypoplasia' in their labels that do not have phenotypes as quality.

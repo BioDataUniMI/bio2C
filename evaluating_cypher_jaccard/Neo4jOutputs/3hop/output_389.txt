@@ -1,0 +1,10 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNACount": 22
+}
+
+{
+  "CellularComponent": "extracellular vesicle",
+  "miRNACount": 11
+}
+

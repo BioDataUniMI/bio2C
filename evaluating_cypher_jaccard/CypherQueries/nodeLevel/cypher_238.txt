@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease) WHERE d.Description CONTAINS 'fever' AND d.Label CONTAINS 'virus' RETURN d.Label AS InfectiousDisease, d.Description AS Description

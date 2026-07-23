@@ -1,0 +1,1 @@
+Return all the available properties (i.e., the entire database node) about the 'presynaptic periactive zone'-labeled cellular component.

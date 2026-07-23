@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "lumenal side of plastid thylakoid membrane",
+  "cc.ID": "GO:0098571"
+}
+
+{
+  "CellularComponent": "lumenal side of lysosomal membrane",
+  "cc.ID": "GO:0098575"
+}
+
+{
+  "CellularComponent": "stromal side of plastid inner membrane",
+  "cc.ID": "GO:0098570"
+}
+
+{
+  "CellularComponent": "lumenal side of membrane",
+  "cc.ID": "GO:0098576"
+}
+
+{
+  "CellularComponent": "stromal side of plastid thylakoid membrane",
+  "cc.ID": "GO:0098572"
+}
+

@@ -1,0 +1,18 @@
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis"
+}
+
+{
+  "Phenotype": "Abnormal foot morphology",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis"
+}
+
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "cystinosis",
+  "DisruptedProcess": "intracellular cysteine homeostasis"
+}
+

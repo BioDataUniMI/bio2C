@@ -1,0 +1,1 @@
+Find pairs of miRNAs where a first miRNA causes or contributes to a cancer the second miRNA is expressed by a disease that is an ancestor of that cancer within 1 to 6 subclass levels. Return the label of: both miRNA, cancer and the collection of parent disease.

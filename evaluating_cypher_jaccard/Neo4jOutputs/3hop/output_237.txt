@@ -1,0 +1,12 @@
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "InvolvedGO": "sequestering of iron ion"
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "InvolvedGO": "cellular response to iron ion starvation"
+}
+

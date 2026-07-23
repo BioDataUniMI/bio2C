@@ -1,0 +1,7 @@
+{
+  "miRNA": "hsa-miR-182-5p",
+  "Gene": "NDRG1",
+  "CancerDescription": "a benign or malignant myomatous neoplasm arising from smooth muscle.",
+  "CancerLabel": "smooth muscle tumor"
+}
+

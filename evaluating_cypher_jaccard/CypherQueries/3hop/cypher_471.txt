@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE d.Label CONTAINS 'Leg type' AND SIZE(g.Sequence) > 20000 RETURN c.Label AS Cancer, m.Label AS miRNA, g.Label AS Gene, SIZE(g.Sequence) AS GeneSequenceLength, d.Label AS Disease

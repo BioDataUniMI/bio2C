@@ -1,0 +1,40 @@
+{
+  "Gene": "MIR33B",
+  "miRNACount": 2
+}
+
+{
+  "Gene": "MIR486-2",
+  "miRNACount": 2
+}
+
+{
+  "Gene": "MIR590",
+  "miRNACount": 2
+}
+
+{
+  "Gene": "MIR675",
+  "miRNACount": 2
+}
+
+{
+  "Gene": "MIR942",
+  "miRNACount": 2
+}
+
+{
+  "Gene": "MIR1181",
+  "miRNACount": 1
+}
+
+{
+  "Gene": "MIR1228",
+  "miRNACount": 1
+}
+
+{
+  "Gene": "MIR1236",
+  "miRNACount": 1
+}
+

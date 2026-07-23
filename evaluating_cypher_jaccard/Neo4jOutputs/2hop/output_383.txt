@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-182 precursor",
+  "miRNA": "hsa-miR-182-3p",
+  "Disease": "gallbladder cancer"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-575 precursor",
+  "miRNA": "hsa-miR-575",
+  "Disease": "gallbladder cancer"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-197 precursor",
+  "miRNA": "hsa-miR-197-3p",
+  "Disease": "gallbladder cancer"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-181b precursor (hsa-mir-181b-2)",
+  "miRNA": "hsa-miR-181b-5p",
+  "Disease": "gallbladder cancer"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-181b precursor (hsa-mir-181b-1)",
+  "miRNA": "hsa-miR-181b-5p",
+  "Disease": "gallbladder cancer"
+}
+

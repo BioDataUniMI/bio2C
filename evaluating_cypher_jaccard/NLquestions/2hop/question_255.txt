@@ -1,0 +1,1 @@
+Identify diseases that cause the disruption of Gene Ontology terms related to the concept 'sensory perception' and report the corresponding disrupted GO terms and the biological processes that those GO terms have as parts

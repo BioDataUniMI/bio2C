@@ -1,0 +1,1 @@
+List all genes whose labels start with 'MIR31' and that have at least one synonym containing 'microRNA 3171' (case-insensitive).

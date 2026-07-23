@@ -1,0 +1,1 @@
+Which diseases are caused or contributed to by genes that genetically interact with other genes regulated by miRNAs ending with '3p'? Return the labels of the miRNA, genes, and disease.

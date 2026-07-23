@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA {Label: 'hsa-miR-125a-5p'}) WHERE p.Label CONTAINS 'bleeding' RETURN DISTINCT bp.Label AS BiologicalProcess, d.Label AS Disease, p.Label AS Phenotype, m.Label AS miRNA

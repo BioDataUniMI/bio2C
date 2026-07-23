@@ -1,0 +1,5 @@
+{
+  "GOterm": "regulation of protein autophosphorylation",
+  "miRNA": "hsa-miR-203a-3p"
+}
+

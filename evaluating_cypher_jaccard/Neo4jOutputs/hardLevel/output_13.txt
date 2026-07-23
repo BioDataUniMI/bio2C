@@ -1,0 +1,25 @@
+{
+  "Starting_disease": "Huntington disease-like 3",
+  "Target_disease": "neurodegenerative disease"
+}
+
+{
+  "Starting_disease": "behavioral variant of frontotemporal dementia",
+  "Target_disease": "neurodegenerative disease"
+}
+
+{
+  "Starting_disease": "corticobasal syndrome",
+  "Target_disease": "neurodegenerative disease"
+}
+
+{
+  "Starting_disease": "frontotemporal dementia with motor neuron disease",
+  "Target_disease": "neurodegenerative disease"
+}
+
+{
+  "Starting_disease": "inherited Creutzfeldt-Jakob disease",
+  "Target_disease": "neurodegenerative disease"
+}
+

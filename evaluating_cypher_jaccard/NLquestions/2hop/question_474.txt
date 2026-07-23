@@ -1,0 +1,1 @@
+Find all biological processes that result in transport across cellular components which are the bounding layer of the cellular component labeled as 'Golgi apparatus'. Return the biological process and the cellular component labels.

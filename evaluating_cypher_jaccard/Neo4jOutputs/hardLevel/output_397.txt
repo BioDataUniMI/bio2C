@@ -1,0 +1,33 @@
+{
+  "Gene": "RNF139",
+  "Cancers": [
+    "chromophobe renal cell carcinoma",
+    "papillary renal cell carcinoma",
+    "nonpapillary renal cell carcinoma",
+    "renal cell adenocarcinoma",
+    "collecting duct carcinoma",
+    "renal carcinoma",
+    "renal cell carcinoma",
+    "clear cell renal carcinoma",
+    "sarcomatoid renal cell carcinoma"
+  ]
+}
+
+{
+  "Gene": "RNF157",
+  "Cancers": [
+    "hepatocellular carcinoma",
+    "fibrolamellar hepatocellular carcinoma"
+  ]
+}
+
+{
+  "Gene": "ZNF177",
+  "Cancers": [
+    "gastric neoplasm",
+    "hereditary diffuse gastric adenocarcinoma",
+    "gastric carcinoma",
+    "gastric cancer"
+  ]
+}
+

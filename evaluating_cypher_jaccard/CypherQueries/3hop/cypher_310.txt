@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:participates_in]->(go:GO)<-[:has_part]-(bp:Biological_process) RETURN COUNT(DISTINCT g) AS GeneCount

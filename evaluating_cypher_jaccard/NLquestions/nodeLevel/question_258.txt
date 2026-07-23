@@ -1,0 +1,1 @@
+Find miRNAs characterized by more than six genomic coordinates. Return their labels and all genomic coordinates.

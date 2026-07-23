@@ -1,0 +1,14 @@
+{
+  "gene": "KL",
+  "primary_disease": "hypercalcemia, infantile",
+  "phenotype": "Autosomal recessive inheritance",
+  "related_disease": "proteinuria, chronic benign"
+}
+
+{
+  "gene": "SLC34A1",
+  "primary_disease": "hypercalcemia, infantile",
+  "phenotype": "Autosomal recessive inheritance",
+  "related_disease": "proteinuria, chronic benign"
+}
+

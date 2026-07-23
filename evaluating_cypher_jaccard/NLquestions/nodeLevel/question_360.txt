@@ -1,0 +1,1 @@
+List the description of all autoimmune diseases whose label contains 'celiac' and whose description is not null.

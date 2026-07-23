@@ -1,0 +1,1 @@
+Among 'miRNA-regulates_activity_of-Gene' triples, find miRNAs and genes that share at least one chromosome prefix (e.g., they are both located on 'chr5'). Order miRNA-Gene couples by their labels and return the first 20 examples of miRNA-gene couples (return only their label) and the shared chromosome prefix(es).

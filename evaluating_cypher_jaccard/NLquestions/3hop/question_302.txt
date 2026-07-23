@@ -1,0 +1,1 @@
+Which pre-miRNAs develop into miRNAs ending with '7a-5p' and participate in the biological process labeled as 'forebrain development'? The latter has at least one GO term as part. Return the label of the: pre-miRNAs, miRNAs, and GO terms.

@@ -1,0 +1,1 @@
+Identify molecular function or biological process terms whose disruption causes cardiovascular diseases. Return the cardiovascular disease, disrupted term, the label of the phenotype(s) characteristic of the process/function, and the type(s) of the disrupted term.

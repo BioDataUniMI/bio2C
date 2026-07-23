@@ -1,0 +1,25 @@
+{
+  "Disease": "acute necrotizing encephalopathy of childhood",
+  "Description": "acute necrotizing encephalopathy of childhood is a rare neurologic disease characterized by a rap..."
+}
+
+{
+  "Disease": "Bickerstaff brainstem encephalitis",
+  "Description": "bickerstaff's brainstem encephalitis (bbe) is a rare post-infectious neurological disease charact..."
+}
+
+{
+  "Disease": "non-herpetic acute limbic encephalitis",
+  "Description": "non-herpetic acute limbic encephalitis is a rare neuroinflammatory/neuroautoimmune disease charac..."
+}
+
+{
+  "Disease": "posttransplant acute limbic encephalitis",
+  "Description": "posttransplant acute limbic encephalitis is a rare, acquired, non-paraneoplastic limbic encephali..."
+}
+
+{
+  "Disease": "Mycoplasma encephalitis",
+  "Description": "mycoplasma encephalitis is a rare infectious encephalitis characterized by an acute onset of neur..."
+}
+

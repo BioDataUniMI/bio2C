@@ -1,0 +1,1 @@
+Which miRNAs ending with '0a-5p' are under-expressed in the cancer labeled as 'malignant pancreatic neoplasm', and which diseases with 'malignant' in their label or description are superclasses of this cancer?

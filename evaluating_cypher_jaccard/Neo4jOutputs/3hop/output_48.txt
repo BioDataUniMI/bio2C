@@ -1,0 +1,24 @@
+{
+  "disease": "breast cancer, familial, susceptibility to, 3",
+  "predisposed_disease": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "disease": "breast cancer, familial, susceptibility to, 2",
+  "predisposed_disease": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "disease": "breast cancer, familial, susceptibility to, 1",
+  "predisposed_disease": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "disease": "inherited susceptibility to asthma",
+  "predisposed_disease": "asthma",
+  "miRNA": "microRNA hsa-mir-148b precursor"
+}
+

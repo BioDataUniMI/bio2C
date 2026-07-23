@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "receptor signaling protein tyrosine kinase activator activity",
+  "ID": "GO:0030298"
+}
+
+{
+  "MolecularFunction": "receptor tyrosine kinase binding",
+  "ID": "GO:0030971"
+}
+
+{
+  "MolecularFunction": "protein tyrosine kinase activator activity",
+  "ID": "GO:0030296"
+}
+
+{
+  "MolecularFunction": "MAP kinase phosphatase activity",
+  "ID": "GO:0033549"
+}
+
+{
+  "MolecularFunction": "mitogen-activated protein kinase kinase binding",
+  "ID": "GO:0031434"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g2:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN COUNT(DISTINCT d) AS DiseaseCount

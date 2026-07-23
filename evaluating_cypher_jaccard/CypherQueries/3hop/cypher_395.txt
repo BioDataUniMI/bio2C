@@ -1,0 +1,1 @@
+MATCH (d:Disease{Label:'apperceptive agnosia'})-[:disease_caused_by_disruption_of]->(go:GO)-[:has_participant]->(m:miRNA) RETURN d.Label AS Disease, go.Label AS GOterm, m.Label AS miRNA

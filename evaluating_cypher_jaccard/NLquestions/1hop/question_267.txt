@@ -1,0 +1,1 @@
+Return the major phenotypic features of all infectious diseases.

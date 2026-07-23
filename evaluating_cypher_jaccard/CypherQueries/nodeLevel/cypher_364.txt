@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE d.Description CONTAINS 'american psychiatric association' RETURN d.Label AS DiseaseLabel, d.Description

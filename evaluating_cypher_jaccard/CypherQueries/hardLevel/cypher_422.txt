@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease) WHERE toLower(d.Label) CONTAINS 'toxoplasmosis' WITH m, SIZE(m.Sequence) AS len WITH COLLECT({m: m, len: len}) AS rows, AVG(len) AS avgLen UNWIND rows AS row RETURN row.m.Label AS miRNA, row.len - avgLen AS length_deviation ORDER BY length_deviation DESC

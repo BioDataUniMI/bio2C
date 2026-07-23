@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA) WHERE p.Species = 'Homo sapiens' AND p.Label CONTAINS '19b precursor' RETURN p.Label AS pre_miRNA, p.ID AS ID

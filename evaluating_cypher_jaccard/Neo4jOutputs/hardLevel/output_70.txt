@@ -1,0 +1,37 @@
+{
+  "Gene": "MIR4324",
+  "GeneLength": 72,
+  "Cancers": [
+    "transitional cell carcinoma",
+    "transitional cell neoplasm",
+    "ureteric orifice cancer",
+    "urinary bladder cancer",
+    "urinary bladder carcinoma",
+    "urinary bladder neoplasm",
+    "urinary bladder small cell neuroendocrine carcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR1246",
+  "GeneLength": 73,
+  "Cancers": [
+    "lung adenocarcinoma",
+    "lung benign neoplasm",
+    "lung cancer",
+    "lung carcinoma",
+    "lung neoplasm",
+    "minimally invasive lung adenocarcinoma",
+    "non-small cell lung carcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR885",
+  "GeneLength": 74,
+  "Cancers": [
+    "fibrolamellar hepatocellular carcinoma",
+    "hepatocellular carcinoma"
+  ]
+}
+

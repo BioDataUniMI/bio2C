@@ -1,0 +1,1 @@
+Identify autoimmune diseases that are subclasses of infectious diseases and are caused or contributed to by genes regulated by miRNAs. For each disease, report the disease label, the length of the associated gene label, and the number of distinct regulating miRNAs. Order results by descending miRNA count and alphabetically by disease label in case of ties, limiting to the top 10.

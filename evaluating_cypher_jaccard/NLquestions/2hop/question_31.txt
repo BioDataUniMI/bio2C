@@ -1,0 +1,1 @@
+Which biological processes are connected to the GO terms labeled as 'aflatoxin biosynthetic process' through molecular functions that are part of both the GO term and the biological process?

@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-1-3p",
+  "Number_of_Cardiovascular_Diseases": 6
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Number_of_Cardiovascular_Diseases": 5
+}
+
+{
+  "miRNA": "hsa-miR-1-5p",
+  "Number_of_Cardiovascular_Diseases": 5
+}
+

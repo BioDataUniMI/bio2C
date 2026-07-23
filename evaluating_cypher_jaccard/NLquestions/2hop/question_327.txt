@@ -1,0 +1,1 @@
+Which neurodegenerative diseases share the phenotypes whose label contains the word 'pseudo' with diseases containing 'benign' in their label?

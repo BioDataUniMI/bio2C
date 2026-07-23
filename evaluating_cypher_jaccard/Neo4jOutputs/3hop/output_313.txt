@@ -1,0 +1,20 @@
+{
+  "UpstreamGOterm": "blood vessel development",
+  "PartGOterm": "blood vessel endothelial cell differentiation"
+}
+
+{
+  "UpstreamGOterm": "blood vessel development",
+  "PartGOterm": "blood vessel morphogenesis"
+}
+
+{
+  "UpstreamGOterm": "blood vessel development",
+  "PartGOterm": "angioblast cell differentiation"
+}
+
+{
+  "UpstreamGOterm": "blood vessel development",
+  "PartGOterm": "blood vessel maturation"
+}
+

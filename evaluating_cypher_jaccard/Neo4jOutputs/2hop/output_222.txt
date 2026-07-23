@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss"
+}
+
+{
+  "Pre_miRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Hemoptysis"
+}
+
+{
+  "Pre_miRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "Cancer": "lung cancer",
+  "Phenotype": "Cough"
+}
+
+{
+  "Pre_miRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "Cancer": "lung cancer",
+  "Phenotype": "Wheezing"
+}
+
+{
+  "Pre_miRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "Cancer": "malignant pancreatic neoplasm",
+  "Phenotype": "Acute pancreatitis"
+}
+

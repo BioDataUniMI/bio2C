@@ -1,0 +1,30 @@
+{
+  "Gene": "BRAF",
+  "One_Word_Synonym": "B-RAF1",
+  "Phenotype": "APUdoma"
+}
+
+{
+  "Gene": "BRAF",
+  "One_Word_Synonym": "B-raf",
+  "Phenotype": "APUdoma"
+}
+
+{
+  "Gene": "BRAF",
+  "One_Word_Synonym": "BRAF-1",
+  "Phenotype": "APUdoma"
+}
+
+{
+  "Gene": "BRAF",
+  "One_Word_Synonym": "BRAF1",
+  "Phenotype": "APUdoma"
+}
+
+{
+  "Gene": "CDKN1B",
+  "One_Word_Synonym": "CDKN4",
+  "Phenotype": "APUdoma"
+}
+

@@ -1,0 +1,30 @@
+{
+  "Disease": "recurrent infections associated with rare immunoglobulin isotypes deficiency",
+  "Phenotype": "Epididymitis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "Disease": "immunodeficiency 65, susceptibility to viral infections",
+  "Phenotype": "Gingivitis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "Disease": "monocytopenia with susceptibility to infections",
+  "Phenotype": "Chronic otitis media",
+  "GOterm": "chronic inflammatory response"
+}
+
+{
+  "Disease": "monocytopenia with susceptibility to infections",
+  "Phenotype": "Sensorineural hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Disease": "autoimmune enteropathy and endocrinopathy - susceptibility to chronic infections syndrome",
+  "Phenotype": "Delayed puberty",
+  "GOterm": "development of secondary sexual characteristics"
+}
+

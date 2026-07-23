@@ -1,0 +1,1 @@
+Which autoimmune diseases share features with other diseases that have phenotypes also found in cancers labeled with 'fibromatosis'? Return the autoimmune disease, the related disease, the shared phenotype, and the cancer.

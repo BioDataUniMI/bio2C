@@ -1,0 +1,1 @@
+Find the biological process-GO term pairs where the biological process has miRNA participants located in the GO term, and return the pair(s) with the minimum number of distinct miRNAs (including ties). Return the biological process label, the GO term label, and the miRNA count.

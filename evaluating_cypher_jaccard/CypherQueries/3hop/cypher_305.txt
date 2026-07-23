@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) WHERE p.Label IN ['Downturned corners of mouth', 'Abnormal foot morphology'] RETURN p.Label AS Phenotype, d.Label AS Disease, bp.Label AS DisruptedProcess, m.Label AS miRNA

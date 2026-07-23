@@ -1,0 +1,1 @@
+Which diseases whose label contains 'dog' are associated with a gene via an is_causal_germline_mutation_in relationship and are subclasses - via at least 7 'subclassof' levels - of another disease (exclude self-relations)? Return the distinct labels of those diseases.

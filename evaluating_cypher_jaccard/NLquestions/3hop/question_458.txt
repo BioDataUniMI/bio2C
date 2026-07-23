@@ -1,0 +1,1 @@
+Identify cancers expressed by the miRNA 'hsa-miR-125b-5p' located in cellular components that are part of any GO term. Return the cancer label, miRNA label, cellular component label, and GO term label.

@@ -1,0 +1,4 @@
+{
+  "Disease": "familial partial lipodystrophy, Dunnigan type"
+}
+

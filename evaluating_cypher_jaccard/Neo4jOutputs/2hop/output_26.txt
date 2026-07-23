@@ -1,0 +1,5 @@
+{
+  "Precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "Mature_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)"
+}
+

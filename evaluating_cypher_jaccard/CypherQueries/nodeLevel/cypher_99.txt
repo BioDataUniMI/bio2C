@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR' AND SIZE(m.Sequence) = 22 RETURN COUNT(m) AS NumberOfmiRNAs

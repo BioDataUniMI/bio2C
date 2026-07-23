@@ -1,0 +1,48 @@
+{
+  "g1.Label": "microtubule cytoskeleton organization",
+  "g2.Label": "microtubule cytoskeleton",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "postsynaptic membrane organization",
+  "g2.Label": "postsynaptic membrane",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "chromatin organization",
+  "g2.Label": "chromatin",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "organelle organization",
+  "g2.Label": "organelle",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "nucleus organization",
+  "g2.Label": "cell nucleus",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+

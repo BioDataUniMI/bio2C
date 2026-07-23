@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Absent humeral epiphyseal ossification",
+  "ProcessCount": 1
+}
+
+{
+  "Phenotype": "Advanced ossification of the humeral epiphysis",
+  "ProcessCount": 1
+}
+
+{
+  "Phenotype": "Delayed humeral epiphyseal ossification",
+  "ProcessCount": 1
+}
+
+{
+  "Phenotype": "Irregular ossification of the humeral epiphyses",
+  "ProcessCount": 1
+}
+
+{
+  "Phenotype": "Irregular ossification of humeral metaphyses",
+  "ProcessCount": 1
+}
+

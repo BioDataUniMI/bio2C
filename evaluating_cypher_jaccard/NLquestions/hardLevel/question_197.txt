@@ -1,0 +1,1 @@
+Count the number of genes grouped by the number of T nucleotides in their sequence, considering genes that transcribe precursor miRNAs under-expressed in 'laryngeal squamous cell carcinoma'.

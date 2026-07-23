@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Cardiovascular_disease) WHERE d.Label CONTAINS 'Fabry' RETURN m.Label AS miRNA, SIZE(m.Sequence) * SIZE(m.Sequence) AS length_score ORDER BY length_score DESC

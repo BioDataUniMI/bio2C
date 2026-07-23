@@ -1,0 +1,1 @@
+Return pre-miRNAs that develop into miRNAs overexpressed in cancers, where the pre-miRNA sequence length is less than 50 nucleotides.

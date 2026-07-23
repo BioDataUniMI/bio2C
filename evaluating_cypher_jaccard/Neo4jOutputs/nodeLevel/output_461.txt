@@ -1,0 +1,10 @@
+{
+  "Phenotype": "Increased circulating creatine kinase BB isoform",
+  "p.URI": "http://purl.obolibrary.org/obo/HP_0032233"
+}
+
+{
+  "Phenotype": "Increased circulating creatine kinase MM isoform",
+  "p.URI": "http://purl.obolibrary.org/obo/HP_0032234"
+}
+

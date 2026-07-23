@@ -1,0 +1,1 @@
+Find miRNAs that regulate the activity of genes which genetically interact with other genes, return all cases where the regulated gene has the maximum sequence length and the interacting gene has the minimum sequence length, along with their sequence lengths.

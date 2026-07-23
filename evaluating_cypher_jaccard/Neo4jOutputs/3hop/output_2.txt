@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-17-3p",
+  "sourceDisease": "polycystic kidney disease",
+  "parentDisease": "familial cystic renal disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "hsa-miR-17-5p",
+  "sourceDisease": "polycystic kidney disease",
+  "parentDisease": "familial cystic renal disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-19a precursor",
+  "sourceDisease": "Cowden disease",
+  "parentDisease": "hereditary skin disorder",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "sourceDisease": "Cowden disease",
+  "parentDisease": "hereditary skin disorder",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "hsa-miR-19a-5p",
+  "sourceDisease": "Cowden disease",
+  "parentDisease": "hereditary skin disorder",
+  "characteristicDisease": "inherited"
+}
+

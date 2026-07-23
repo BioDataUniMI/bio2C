@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)-[:disease_has_feature]->(ph:Phenotype) RETURN ph.Label AS Phenotype, c.Label AS Cancer, COUNT(m) AS overexpressed_miRNAs ORDER BY overexpressed_miRNAs DESC

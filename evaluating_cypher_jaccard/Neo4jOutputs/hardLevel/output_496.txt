@@ -1,0 +1,15 @@
+{
+  "GOLabel": "extracellular exosome",
+  "MinSeqLength": 47
+}
+
+{
+  "GOLabel": "RISC complex",
+  "MinSeqLength": 48
+}
+
+{
+  "GOLabel": "microvesicle",
+  "MinSeqLength": 62
+}
+

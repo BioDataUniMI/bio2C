@@ -1,0 +1,12 @@
+{
+  "CellularComponent": "rDNA protrusion"
+}
+
+{
+  "CellularComponent": "extrachromosomal rDNA circle"
+}
+
+{
+  "CellularComponent": "rDNA heterochromatin"
+}
+

@@ -1,0 +1,30 @@
+{
+  "GOterm": "cell death",
+  "miRNA": "microRNA hsa-mir-885 precursor",
+  "Gene": "MIR885"
+}
+
+{
+  "GOterm": "cell death",
+  "miRNA": "microRNA hsa-mir-630 precursor",
+  "Gene": "MIR630"
+}
+
+{
+  "GOterm": "cell death",
+  "miRNA": "microRNA hsa-mir-203b precursor",
+  "Gene": "MIR203B"
+}
+
+{
+  "GOterm": "cell death",
+  "miRNA": "microRNA hsa-mir-1226 precursor",
+  "Gene": "MIR1226"
+}
+
+{
+  "GOterm": "cell death",
+  "miRNA": "microRNA hsa-mir-939 precursor",
+  "Gene": "MIR939"
+}
+

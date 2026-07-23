@@ -1,0 +1,1 @@
+Do miRNAs that are over-expressed in infectious diseases show high normalized GC content, where normalized GC content is defined as the number of guanine (G) and cytosine (C) nucleotides divided by the total miRNA sequence length? Return each miRNA label and its normalized GC content, sorted by normalized GC content in descending order.

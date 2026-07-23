@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-193b-3p",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Sources": [
+    "GOC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-193b-3p",
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "Sources": [
+    "GOC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-520b-3p",
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "Sources": [
+    "GOC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-19b-3p",
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "Sources": [
+    "GOC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-200b-3p",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Sources": [
+    "GOC"
+  ]
+}
+

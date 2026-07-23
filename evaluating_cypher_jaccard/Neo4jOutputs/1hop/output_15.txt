@@ -1,0 +1,5 @@
+{
+  "average_miRNA_length": 21.615823235923,
+  "average_parent_length": 81.62508909479696
+}
+

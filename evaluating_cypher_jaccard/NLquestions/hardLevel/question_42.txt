@@ -1,0 +1,1 @@
+Which miRNAs are transcribed from genes and regulate other genes, where the target gene sequence is at least 100 times longer than the source gene sequence, or the target gene sequence is longer than 50,000 nucleotides? Return the label of: target gene, miRNA, and source gene.

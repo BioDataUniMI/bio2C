@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE  SIZE(r.Context) > 10 RETURN DISTINCT m.Label AS miRNA, b.Label AS Process_label, r.Context AS Context

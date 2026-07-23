@@ -1,0 +1,25 @@
+{
+  "Disease": "congenital emphysematous lung disease due to Filamin A loss-of-function variant",
+  "Modifier": "Autosomal dominant inheritance"
+}
+
+{
+  "Disease": "non-severe combined immunodeficiency due to COPG1 deficiency",
+  "Modifier": "Autosomal recessive inheritance"
+}
+
+{
+  "Disease": "early-onset pulmonary and cutaneous vasculitis",
+  "Modifier": "Autosomal dominant inheritance"
+}
+
+{
+  "Disease": "multisystem autoimmune disease due to IKAROS gain of function",
+  "Modifier": "Autosomal dominant inheritance"
+}
+
+{
+  "Disease": "HELIOS deficiency",
+  "Modifier": "Autosomal dominant inheritance"
+}
+

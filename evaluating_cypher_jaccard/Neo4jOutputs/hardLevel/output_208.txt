@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-7-5p",
+  "Gene": "RPS7P14"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "Gene": "EEF1B2P3"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "Gene": "EIF4BP7"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "Gene": "SRRM1P3"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "Gene": "EIF4BP9"
+}
+

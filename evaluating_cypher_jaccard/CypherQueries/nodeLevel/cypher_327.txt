@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE SIZE(LABELS(c)) > 3 RETURN c.Label AS CancerLabel, LABELS(c) AS Classifications

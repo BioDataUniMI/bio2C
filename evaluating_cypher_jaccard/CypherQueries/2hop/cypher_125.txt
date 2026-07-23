@@ -1,0 +1,1 @@
+MATCH (c:Cancer)<-[:over_expressed_in]-(pre:pre_miRNA) WHERE c.Label CONTAINS 'lung' RETURN c.Label AS Cancer UNION MATCH (c:Cancer)-[:expresses]->(m:miRNA) WHERE c.Label CONTAINS 'lung' RETURN c.Label AS Cancer

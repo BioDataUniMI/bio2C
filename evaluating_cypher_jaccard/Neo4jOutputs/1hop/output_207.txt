@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-511-3p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1202 precursor",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "hsa-miR-197-3p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "Disease": "Alzheimer disease"
+}
+

@@ -1,0 +1,44 @@
+{
+  "COUNT(g)": 26428,
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ],
+  "g.Species": null
+}
+
+{
+  "COUNT(g)": 10144,
+  "LABELS(g)": [
+    "GO",
+    "Molecular_function"
+  ],
+  "g.Species": null
+}
+
+{
+  "COUNT(g)": 4019,
+  "LABELS(g)": [
+    "GO",
+    "Cellular_component"
+  ],
+  "g.Species": null
+}
+
+{
+  "COUNT(g)": 89,
+  "LABELS(g)": [
+    "GO"
+  ],
+  "g.Species": null
+}
+
+{
+  "COUNT(g)": 18,
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ],
+  "g.Species": "Metazoa"
+}
+

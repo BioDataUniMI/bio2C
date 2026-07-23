@@ -1,0 +1,1 @@
+List precursor miRNAs that cause or contribute to the disease labeled as 'Alzheimer disease', excluding those whose labels end with 'precursor' and whose sequence length is between 80 and 85 nucleotides (inclusive). Return the miRNA label and sequence length.

@@ -1,0 +1,6 @@
+{
+  "ad.Label": "chronic childhood arthritis",
+  "p1.Label": "Rheumatoid arthritis",
+  "p2.Label": "Arthritis"
+}
+

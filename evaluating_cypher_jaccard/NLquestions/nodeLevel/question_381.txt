@@ -1,0 +1,1 @@
+Find infectious diseases such that their: 1) labels or description contain 'influenza'; 2) their description contain a number followed by 'day'. Return only the label.

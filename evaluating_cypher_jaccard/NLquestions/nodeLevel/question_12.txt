@@ -1,0 +1,1 @@
+Which diseases contain 'thyroid' in their label and mention 'carcinoma' in their description?

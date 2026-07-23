@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the disease labeled 'adult glioblastoma' with FDR < 0.05 measured by method containg 'pcr'. Return the miRNA label, the disease label, the FDR value, and the matching method(s).

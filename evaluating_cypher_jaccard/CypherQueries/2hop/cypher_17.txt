@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:over_expressed_in]->(c:Cancer) RETURN COUNT(DISTINCT p) AS pre_miRNA_count

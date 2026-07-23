@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_caused_by_disruption_of]->(go:GO) WHERE p.Label CONTAINS 'apnea' RETURN p.Label AS Phenotype, d.Label AS Disease, go.Label AS Disrupted_GO

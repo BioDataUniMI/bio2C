@@ -1,0 +1,1 @@
+Which biological processes have characteristic phenotypes and are processes of which the GO term labeled 'bone mineralization' is a part? Return the label of the biological process and the phenotype.

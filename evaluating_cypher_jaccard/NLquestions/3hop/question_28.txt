@@ -1,0 +1,1 @@
+Given the gene “SOCS3”, which phenotypes are linked with the downstream cancers in disease-progression relationships originating from cancers that SOCS3 causes or contributes to? Include only cases where the SOCS3-associated cancer is part of progression of disease which is another cancer that has phenotypes. Return the distinct phenotype labels

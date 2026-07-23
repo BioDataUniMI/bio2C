@@ -1,0 +1,1 @@
+Retrieve distinct pairs of <GO term, miRNA> labels where the GO term is a GO entity or a subclass of GO, and the miRNA label does not end with 'precursor'. Moreover, include only pairs connected by a causes_or_contributes_to_condition' relationship type.

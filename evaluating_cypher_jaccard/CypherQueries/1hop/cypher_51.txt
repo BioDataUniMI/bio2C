@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr9') OR ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr19') RETURN DISTINCT m.Label AS miRNA, b.ID AS Process_ID, b.Label AS Process_label

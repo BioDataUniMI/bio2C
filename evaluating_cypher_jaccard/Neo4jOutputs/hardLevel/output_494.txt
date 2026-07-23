@@ -1,0 +1,5 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-1208 precursor",
+  "Phenotype": "Atopic dermatitis"
+}
+

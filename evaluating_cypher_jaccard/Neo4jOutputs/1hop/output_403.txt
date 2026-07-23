@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-204-5p",
+  "SIZE(m.Sequence)": 22
+}
+
+{
+  "m.Label": "hsa-miR-20b-5p",
+  "SIZE(m.Sequence)": 23
+}
+
+{
+  "m.Label": "hsa-miR-200c-5p",
+  "SIZE(m.Sequence)": 22
+}
+
+{
+  "m.Label": "hsa-miR-208b-3p",
+  "SIZE(m.Sequence)": 22
+}
+
+{
+  "m.Label": "hsa-miR-20a-3p",
+  "SIZE(m.Sequence)": 22
+}
+

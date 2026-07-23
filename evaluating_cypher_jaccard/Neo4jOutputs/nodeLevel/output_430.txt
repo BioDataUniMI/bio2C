@@ -1,0 +1,12 @@
+{
+  "g.Label": "snoRNA transcription by RNA polymerase II"
+}
+
+{
+  "g.Label": "sno(s)RNA transcription"
+}
+
+{
+  "g.Label": "snoRNA transcription by RNA polymerase III"
+}
+

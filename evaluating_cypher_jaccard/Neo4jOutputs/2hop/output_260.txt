@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "miRNASequenceLength": 22,
+  "RegulatedGene": "ITIH5",
+  "RegulatedGeneLength": 107729,
+  "InteractingGene": "CGB5",
+  "InteractingGeneLength": 1464
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "miRNASequenceLength": 22,
+  "RegulatedGene": "ITIH5",
+  "RegulatedGeneLength": 107729,
+  "InteractingGene": "CGB8",
+  "InteractingGeneLength": 1474
+}
+

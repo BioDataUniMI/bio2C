@@ -1,0 +1,1 @@
+Find all mental diseases whose description contains 'anxiety' but whose label does not contain 'depress'. Return their label and description.

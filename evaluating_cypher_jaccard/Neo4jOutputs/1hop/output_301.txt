@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Esophageal carcinoma",
+  "Cancer": "esophageal cancer"
+}
+
+{
+  "Phenotype": "Typified by somatic mosaicism",
+  "Cancer": "esophageal cancer"
+}
+
+{
+  "Phenotype": "Chest pain",
+  "Cancer": "esophageal squamous cell carcinoma"
+}
+
+{
+  "Phenotype": "Cough",
+  "Cancer": "esophageal squamous cell carcinoma"
+}
+
+{
+  "Phenotype": "Esophageal carcinoma",
+  "Cancer": "esophageal squamous cell carcinoma"
+}
+

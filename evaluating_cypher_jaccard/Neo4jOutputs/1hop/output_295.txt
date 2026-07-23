@@ -1,0 +1,25 @@
+{
+  "Molecular_function": "DNA nuclease activity",
+  "GO": "regulation of deoxyribonuclease activity"
+}
+
+{
+  "Molecular_function": "DNA endonuclease activity",
+  "GO": "regulation of endodeoxyribonuclease activity"
+}
+
+{
+  "Molecular_function": "DNA-binding transcription factor activity",
+  "GO": "regulation of DNA-binding transcription factor activity"
+}
+
+{
+  "Molecular_function": "DNA binding",
+  "GO": "regulation of DNA binding"
+}
+
+{
+  "Molecular_function": "single-stranded telomeric DNA binding",
+  "GO": "regulation of single-stranded telomeric DNA binding"
+}
+

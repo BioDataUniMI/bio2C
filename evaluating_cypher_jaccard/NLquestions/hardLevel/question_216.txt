@@ -1,0 +1,1 @@
+Find distinct diseases in which there exists at least one under-expressed miRNA that has at least one genomic coordinate on chrX and genomic coordinates on at least two other distinct chromosomes. Return the disease label, miRNA label and its genomic coordinates.

@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'gated ' AND NOT mf.Label CONTAINS '-gated' RETURN mf.Label

@@ -1,0 +1,1 @@
+Which genes have synonyms containing the Greek symbols α, β, or ɣ? Retun the labels and only the synonyms containing α, β, or ɣ.

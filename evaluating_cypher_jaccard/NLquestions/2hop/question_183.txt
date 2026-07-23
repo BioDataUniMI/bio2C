@@ -1,0 +1,1 @@
+List miRNAs that participate in GO terms and the cellular components in which they are active, return the miRNA and the cellular component labels.

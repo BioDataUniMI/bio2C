@@ -1,0 +1,35 @@
+{
+  "SourceGene": "MIR661",
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661",
+  "TargetGene": "VCL"
+}
+
+{
+  "SourceGene": "MIR4317",
+  "Pre_miRNA": "microRNA hsa-mir-4317 precursor",
+  "miRNA": "hsa-miR-4317",
+  "TargetGene": "CBS"
+}
+
+{
+  "SourceGene": "MIR1296",
+  "Pre_miRNA": "microRNA hsa-mir-1296 precursor",
+  "miRNA": "hsa-miR-1296-5p",
+  "TargetGene": "SP1"
+}
+
+{
+  "SourceGene": "MIR4269",
+  "Pre_miRNA": "microRNA hsa-mir-4269 precursor",
+  "miRNA": "hsa-miR-4269",
+  "TargetGene": "BTK"
+}
+
+{
+  "SourceGene": "MIR4667",
+  "Pre_miRNA": "microRNA hsa-mir-4667 precursor",
+  "miRNA": "hsa-miR-4667-3p",
+  "TargetGene": "BTK"
+}
+

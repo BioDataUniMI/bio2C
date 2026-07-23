@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) RETURN MIN(SIZE(m1.Sequence)) AS min_miRNA_length, MIN(SIZE(m2.Sequence)) AS min_parent_length

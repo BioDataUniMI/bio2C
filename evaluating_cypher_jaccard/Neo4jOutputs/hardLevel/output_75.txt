@@ -1,0 +1,5 @@
+{
+  "pre_miRNA_ID": "RNAcentral:URS000041CB9C_9606",
+  "CAUCount": 5
+}
+

@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[r1:genetically_interacts_with]->(g2:Gene)-[r2:genetically_interacts_with]->(g3:Gene) WHERE (r1.GeneMANIA_weight > 0.002 AND r2.GeneMANIA_weight > 0.002) AND g1 <> g2 AND g2 <> g3 AND g1 <> g3 AND ID(g1) < ID(g3) RETURN g1.Label AS Gene1, g2.Label AS Gene2, g3.Label AS Gene3, r1.GeneMANIA_weight AS Weight12, r2.GeneMANIA_weight AS Weight23

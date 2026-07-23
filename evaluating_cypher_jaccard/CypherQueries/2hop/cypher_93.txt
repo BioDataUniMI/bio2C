@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(bp:Biological_process {Label: 'myelination in peripheral nervous system'}) RETURN pm.Label AS Precursor, m.Label AS Mature_miRNA

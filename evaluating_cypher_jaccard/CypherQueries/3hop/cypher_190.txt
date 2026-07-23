@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:participates_in]->(bp:Biological_process)-[:occurs_in]->(cc:Cellular_component) RETURN c.Label AS Cancer, m.Label AS miRNA, bp.Label AS BiologicalProcess, cc.Label AS CellularComponent

@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:regulates]->(mf:Molecular_function)-[:part_of]->(bp:Biological_process) RETURN COUNT(DISTINCT bp) AS BiologicalProcessCount

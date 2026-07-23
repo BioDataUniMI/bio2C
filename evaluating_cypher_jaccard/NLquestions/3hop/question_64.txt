@@ -1,0 +1,1 @@
+Which infectious diseases have basis in the feature of the disease labeled as 'Zika virus infectious disease' which has phenotypes shared with cancers whose labels contain 'cell leukemia'? Return the label of: the infectious disease, the phenotype and the cancer.

@@ -1,0 +1,25 @@
+{
+  "Disease": "anxiety disorder",
+  "miRNACount": 5
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "miRNACount": 3
+}
+
+{
+  "Disease": "Parkinson disease",
+  "miRNACount": 2
+}
+
+{
+  "Disease": "adenoma",
+  "miRNACount": 2
+}
+
+{
+  "Disease": "benign muscle neoplasm",
+  "miRNACount": 2
+}
+

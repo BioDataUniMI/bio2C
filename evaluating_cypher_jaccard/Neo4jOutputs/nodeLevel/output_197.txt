@@ -1,0 +1,16 @@
+{
+  "c.Label": "caveola"
+}
+
+{
+  "c.Label": "immunological synapse"
+}
+
+{
+  "c.Label": "plasma membrane raft"
+}
+
+{
+  "c.Label": "membrane raft"
+}
+

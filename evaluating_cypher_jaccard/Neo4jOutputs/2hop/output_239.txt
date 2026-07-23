@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Central apnea",
+  "Disease": "GLUT1 deficiency syndrome",
+  "Disrupted_GO": "D-glucose transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Central sleep apnea",
+  "Disease": "sleep apnea syndrome",
+  "Disrupted_GO": "respiratory gaseous exchange by respiratory system"
+}
+
+{
+  "Phenotype": "Sleep apnea",
+  "Disease": "riboflavin transporter deficiency",
+  "Disrupted_GO": "riboflavin transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Obstructive sleep apnea",
+  "Disease": "mucolipidosis type IV",
+  "Disrupted_GO": "iron ion transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Obstructive sleep apnea",
+  "Disease": "mucopolysaccharidosis type 3A",
+  "Disrupted_GO": "alpha-N-acetylglucosaminidase activity"
+}
+

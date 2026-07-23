@@ -1,0 +1,20 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-19b precursor (hsa-mir-19b-2)",
+  "ID": "RNAcentral:URS0000204276_9606"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-519b precursor",
+  "ID": "RNAcentral:URS000075EA92_9606"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-219b precursor",
+  "ID": "RNAcentral:URS000075EAD8_9606"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-19b precursor (hsa-mir-19b-1)",
+  "ID": "RNAcentral:URS00003BACA4_9606"
+}
+

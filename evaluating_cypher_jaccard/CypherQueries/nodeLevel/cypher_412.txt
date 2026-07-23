@@ -1,0 +1,1 @@
+MATCH (g:GO) RETURN COUNT(g), LABELS(g), g.Species

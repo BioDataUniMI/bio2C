@@ -1,0 +1,73 @@
+{
+  "Phenotype": "Cerebellar ataxia associated with quadrupedal gait",
+  "Synonyms": [
+    "Ataxie cérébelleuse avec démarche quadrupédique",
+    "Kleinhirnataxie in Verbindung mit vierfüßigem Gang",
+    "Atassia cerebellare associata ad andatura quadrupedica",
+    "小脑性共济失调与四足步态相关",
+    "Kuadrupedal yürüyüş ile ilişkili serebellar ataksi",
+    "Cerebelární ataxie spojená s kvadrupedální chůzí",
+    "四つ足歩行を伴う小脳失調",
+    "Cerebellaire ataxie geassocieerd met quadrupedale gang",
+    "Ataxia cerebelosa asociada a marcha cuadrúpeda"
+  ]
+}
+
+{
+  "Phenotype": "Gait ataxia",
+  "Synonyms": [
+    "共济失调步态",
+    "Yürüyüş ataksisi",
+    "Ataxie",
+    "Démarche ataxique",
+    "Gangart-Ataxie",
+    "Atassia dell'andatura",
+    "歩行失調",
+    "Ataktická chůze",
+    "Marcha atáxica"
+  ]
+}
+
+{
+  "Phenotype": "Spastic ataxia",
+  "Synonyms": [
+    "痉挛性共济失调",
+    "Spastik ataksi",
+    "Atassia spastica",
+    "Ataxia espástica",
+    "痙性失調",
+    "Spastische ataxie",
+    "Spastická ataxie",
+    "Spastische Ataxie",
+    "Ataxie spastique"
+  ]
+}
+
+{
+  "Phenotype": "Sensory ataxia",
+  "Synonyms": [
+    "Ataxia sensorial",
+    "Sensorische ataxie",
+    "Senzorická ataxie",
+    "感覚失調",
+    "感觉性共济失调",
+    "Duyusal ataksi",
+    "ataxie sensorielle"
+  ]
+}
+
+{
+  "Phenotype": "Progressive gait ataxia",
+  "Synonyms": [
+    "進行性歩行失調",
+    "Progressieve gang ataxie",
+    "Progresivní ataktická chůze",
+    "Progresif yürüyüş ataksisi",
+    "进行性共济失调",
+    "Atassia progressiva dell'andatura",
+    "Démarche ataxique progresive",
+    "Ataxia de la marcha progresiva",
+    "Fortschreitende Gangataxie"
+  ]
+}
+

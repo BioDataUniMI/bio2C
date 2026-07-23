@@ -1,0 +1,5 @@
+{
+  "miRNA": "microRNA hsa-mir-206 precursor",
+  "Disease": "motor neuron disorder"
+}
+

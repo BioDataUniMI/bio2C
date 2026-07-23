@@ -1,0 +1,25 @@
+{
+  "GO_term": "hypersensitivity",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "GO_term": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-2)"
+}
+
+{
+  "GO_term": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)"
+}
+
+{
+  "GO_term": "inflammatory response",
+  "miRNA": "let-7b stem-loop (hsa-let-7b)"
+}
+
+{
+  "GO_term": "hypersensitivity",
+  "miRNA": "hsa-let-7a-5p"
+}
+

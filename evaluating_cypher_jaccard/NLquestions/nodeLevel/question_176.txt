@@ -1,0 +1,1 @@
+List genes whose labels start with 'MIR50' and that have genomic coordinates on chromosome 1 or 2 (using 'chr1:' or 'chr2:' to distinguish from decimal coordinates).

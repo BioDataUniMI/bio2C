@@ -1,0 +1,1 @@
+Retrieve labels of all biological processes whose labels contain either the word 'catabolic' or 'metabolic' and whose descriptions contain both the strings 'chemical reactions' and 'receptor'.

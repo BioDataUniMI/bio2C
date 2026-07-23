@@ -1,0 +1,24 @@
+{
+  "GOLabel": "extracellular exosome",
+  "Chromosomes": [
+    "chrX:147225826-147225952-"
+  ],
+  "MaxLen": 127
+}
+
+{
+  "GOLabel": "RISC complex",
+  "Chromosomes": [
+    "chrX:53556223-53556341-"
+  ],
+  "MaxLen": 119
+}
+
+{
+  "GOLabel": "extracellular exosome",
+  "Chromosomes": [
+    "chrX:114715233-114715344+"
+  ],
+  "MaxLen": 112
+}
+

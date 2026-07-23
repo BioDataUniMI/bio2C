@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-15a precursor",
+  "miRNA": "hsa-miR-15a-5p",
+  "geneCount": 235
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-16 precursor (hsa-mir-16-2)",
+  "miRNA": "hsa-miR-16-5p",
+  "geneCount": 241
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-6838 precursor",
+  "miRNA": "hsa-miR-6838-5p",
+  "geneCount": 211
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-16 precursor (hsa-mir-16-1)",
+  "miRNA": "hsa-miR-16-5p",
+  "geneCount": 241
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-497 precursor",
+  "miRNA": "hsa-miR-497-5p",
+  "geneCount": 228
+}
+

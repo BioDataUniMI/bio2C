@@ -1,0 +1,1 @@
+Which miRNAs located on chromosome X have sequences ending with 'GA'?

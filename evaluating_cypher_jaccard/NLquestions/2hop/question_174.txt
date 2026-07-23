@@ -1,0 +1,1 @@
+Consider the miRNA 'hsa-miR-4429'. How many distinct phenotypes are associated with the diseases it causes or contributes to?

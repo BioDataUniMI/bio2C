@@ -1,0 +1,1 @@
+Identify diseases whose label contains 'hereditary' that are caused or contributed to by the gene 'TGFB1', where TGFB1 genetically interacts with genes whose activity is regulated by miRNAs. Return the labels of the miRNA, the regulated gene, TGFB1, and the disease.

@@ -1,0 +1,14 @@
+{
+  "Disease": "autism, susceptibility to, 14a",
+  "Phenotype": "Conductive hearing impairment",
+  "GOterm": "vibrational conductance of sound to the inner ear",
+  "BiologicalProcess": "sensory perception of sound"
+}
+
+{
+  "Disease": "intellectual developmental disorder with speech delay, autism, and dysmorphic facies",
+  "Phenotype": "Conductive hearing impairment",
+  "GOterm": "vibrational conductance of sound to the inner ear",
+  "BiologicalProcess": "sensory perception of sound"
+}
+

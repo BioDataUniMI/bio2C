@@ -1,0 +1,25 @@
+{
+  "Disease": "torsade-de-pointes syndrome with short coupling interval",
+  "Description": "torsade-de-pointes (tdp) syndrome with short coupling interval is a very rare variant of torsade ..."
+}
+
+{
+  "Disease": "hypotrichosis-osteolysis-periodontitis-palmoplantar keratoderma syndrome",
+  "Description": "hypotrichosis-osteolysis-periodontitis-palmoplantar keratoderma syndrome is an extremely rare ect..."
+}
+
+{
+  "Disease": "long QT syndrome, KCNH2-related, rabbit",
+  "Description": "any heart disorder characterized by pathologically prolonged ventricular action potential duratio..."
+}
+
+{
+  "Disease": "respiratory distress syndrome in premature infants",
+  "Description": "infant acute respiratory distress syndrome is a lung disorder that affects premature infants caus..."
+}
+
+{
+  "Disease": "cytokine release syndrome",
+  "Description": "a syndrome that occurs after therapeutic infusion of antibodies into the blood and is characteriz..."
+}
+

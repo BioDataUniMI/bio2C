@@ -1,0 +1,35 @@
+{
+  "Process_name": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-98 precursor",
+  "miRNA_sequence": "AGGAUUCUGCUCAUGCCAGGGUGAGGUAGUAAGUUGUAUUGUUGUGGGGUAGGGAUAUUAGGCCCCAAUUAGAAGAUAACUAUACAACUUACUACUU...",
+  "seq_length": 119
+}
+
+{
+  "Process_name": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "miRNA_sequence": "GCAGGUGAACUGGCAGGCCAGGAAGAGGAGGAAGCCCUGGAGGGGCUGGAGGUGAUGGAUGUUUUCCUCCGGUUCUCAGGGCUCCACCUCUUUCGGG...",
+  "seq_length": 118
+}
+
+{
+  "Process_name": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "miRNA_sequence": "GAGCUGCUUGCCUCCCCCCGUUUUUGGCAAUGGUAGAACUCACACUGGUGAGGUAACAGGAUCCGGUGGUUCUAGACUUGCCAACUAUGGGGCGAGG...",
+  "seq_length": 110
+}
+
+{
+  "Process_name": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-205 precursor",
+  "miRNA_sequence": "AAAGAUCCUCAGACAAUCCAUGUGCUUCUCUUGUCCUUCAUUCCACCGGAGUCUGUCUCAUACCCAACCAGAUUUCAGUGGAGUGAAGUUCAGGAGG...",
+  "seq_length": 110
+}
+
+{
+  "Process_name": "inflammatory response",
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "miRNA_sequence": "ACCCGGCAGUGCCUCCAGGCGCAGGGCAGCCCCUGCCCACCGCACACUGCGCUGCCCCAGACCCACUGUGCGUGUGACAGCGGCUGAUCUGUGCCUG...",
+  "seq_length": 110
+}
+

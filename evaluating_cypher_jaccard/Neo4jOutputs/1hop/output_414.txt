@@ -1,0 +1,25 @@
+{
+  "bp1.Label": "negative regulation of anterior neural cell fate commitment of the neural plate by fibroblast gro...",
+  "bp2.Label": "negative regulation of anterior neural cell fate commitment of the neural plate"
+}
+
+{
+  "bp1.Label": "mRNA localization resulting in post-transcriptional regulation of gene expression",
+  "bp2.Label": "post-transcriptional regulation of gene expression"
+}
+
+{
+  "bp1.Label": "regulation of heart rate by cardiac conduction",
+  "bp2.Label": "regulation of heart rate"
+}
+
+{
+  "bp1.Label": "regulation of the force of heart contraction by cardiac conduction",
+  "bp2.Label": "regulation of the force of heart contraction"
+}
+
+{
+  "bp1.Label": "regulation of synaptic plasticity by receptor localization to synapse",
+  "bp2.Label": "regulation of synaptic plasticity"
+}
+

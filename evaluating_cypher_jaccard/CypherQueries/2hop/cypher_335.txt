@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[r:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'P-body'}) RETURN c.Label AS Cancer, m.Label AS miRNA, r.Method AS ExpressionMethod

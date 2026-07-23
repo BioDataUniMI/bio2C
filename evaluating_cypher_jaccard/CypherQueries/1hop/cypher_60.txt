@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:GO) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND SIZE(m.Sequence) > 50 RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates, b.Label AS GO_term

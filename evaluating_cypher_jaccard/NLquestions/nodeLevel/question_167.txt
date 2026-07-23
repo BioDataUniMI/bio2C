@@ -1,0 +1,1 @@
+Retrieve molecular functions whose descriptions contain 'ransmembrane transporter'. Return all node properties (i.e., the entire nodes)

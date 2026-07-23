@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of genes that cause or contribute to the infectious disease labeled as 'staphylococcal infection'? Return the miRNA, the gene, and the infectious disease labels.

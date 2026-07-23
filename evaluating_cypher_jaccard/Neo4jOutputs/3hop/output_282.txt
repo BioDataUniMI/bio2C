@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-6838 precursor",
+  "miRNA": "hsa-miR-6838-5p",
+  "TargetGene": "PDXDC2P"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-580 precursor",
+  "miRNA": "hsa-miR-580-3p",
+  "TargetGene": "PDXDC2P"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-4524b precursor",
+  "miRNA": "hsa-miR-4524b-5p",
+  "TargetGene": "PDXDC2P"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-4524a precursor",
+  "miRNA": "hsa-miR-4524a-5p",
+  "TargetGene": "PDXDC2P"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-195 precursor",
+  "miRNA": "hsa-miR-195-5p",
+  "TargetGene": "PDXDC2P"
+}
+

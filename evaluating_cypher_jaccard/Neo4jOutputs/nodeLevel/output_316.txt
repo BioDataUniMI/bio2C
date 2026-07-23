@@ -1,0 +1,9 @@
+{
+  "d": {
+    "Description": "any fatal infantile encephalocardiomyopathy in which the cause of the disease is a mutation in th...",
+    "Label": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 1",
+    "ID": "MONDO:0011451",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0011451"
+  }
+}
+

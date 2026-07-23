@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype) WITH c, d, COUNT(DISTINCT m) AS miRNACount RETURN c.Label AS Cancer, miRNACount ORDER BY miRNACount DESC, d.Label ASC LIMIT 5

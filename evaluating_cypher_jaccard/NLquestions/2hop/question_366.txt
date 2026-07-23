@@ -1,0 +1,1 @@
+Identify diseases that are characteristic of cancers in which the miRNA 'hsa-miR-650' is under-expressed. Return the cancer and disease labels.

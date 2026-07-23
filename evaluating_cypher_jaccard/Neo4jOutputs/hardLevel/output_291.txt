@@ -1,0 +1,25 @@
+{
+  "Gene": "POM121B",
+  "regulator_count": 154
+}
+
+{
+  "Gene": "EIF4BP3",
+  "regulator_count": 71
+}
+
+{
+  "Gene": "TCAF1P1",
+  "regulator_count": 85
+}
+
+{
+  "Gene": "ELL2P1",
+  "regulator_count": 75
+}
+
+{
+  "Gene": "HNRNPLP2",
+  "regulator_count": 71
+}
+

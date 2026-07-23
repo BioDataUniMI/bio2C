@@ -1,0 +1,25 @@
+{
+  "d.Label": "incessant infant ventricular tachycardia",
+  "d.Description": "incessant infant ventricular tachycardia is a rare type of ventricular tachycardia (vt) character..."
+}
+
+{
+  "d.Label": "autosomal recessive limb-girdle muscular dystrophy type 2M",
+  "d.Description": "a form of limb-girdle muscular dystrophy characterized by an infantile onset of hypotonia, axial ..."
+}
+
+{
+  "d.Label": "glycogen storage disease II",
+  "d.Description": "glycogen storage disease due to acid maltase deficiency (amd) is an autosomal recessive trait lea..."
+}
+
+{
+  "d.Label": "glycogen storage disease due to acid maltase deficiency, infantile onset",
+  "d.Description": "glycogen storage disease due to acid maltase deficiency, infantile onset is the most severe form ..."
+}
+
+{
+  "d.Label": "multifocal atrial tachycardia",
+  "d.Description": "multifocal atrial tachycardia is a rare supraventricular arrhythmia in neonates and young infants..."
+}
+

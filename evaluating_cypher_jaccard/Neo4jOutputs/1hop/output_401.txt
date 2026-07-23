@@ -1,0 +1,5 @@
+{
+  "MolecularFunction": "protein kinase binding",
+  "GO": "protein kinase regulator activity"
+}
+

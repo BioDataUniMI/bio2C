@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Label CONTAINS 'thyroid' AND pre.Label =~ '.*1b.*precursor$' RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, m.Label AS miRNA, d.Label AS Disease

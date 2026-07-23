@@ -1,0 +1,1 @@
+Find phenotypes whose labels DOES NOT contain the word 'acute' but that are characteristics of diseases whose labels mention the word 'acute'.

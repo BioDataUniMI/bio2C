@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) WHERE m.Sequence ENDS WITH 'GU' AND NOT SUBSTRING(m.Sequence, 0, SIZE(m.Sequence)-2) CONTAINS 'GU' AND ( (bp)-[:negatively_regulated_by]->(:Biological_process) AND (bp)-[:negatively_regulated_by]->(:GO) ) RETURN bp.Label AS biological_process, COLLECT(DISTINCT m.Label) AS miRNAs

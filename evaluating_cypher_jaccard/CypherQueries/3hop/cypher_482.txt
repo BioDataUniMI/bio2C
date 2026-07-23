@@ -1,0 +1,1 @@
+MATCH (mi:miRNA)-[:acts_upstream_of]->(go:GO {Label:'blood vessel diameter maintenance'}), (mi)-[:not_involved_in]->(go2:GO), (mi)-[:enables]->(go3:GO) RETURN mi.Label AS miRNA, go.Label AS Acts_Upstream_Of, go2.Label AS Not_Involved_In, go3.Label AS Is_Active_In

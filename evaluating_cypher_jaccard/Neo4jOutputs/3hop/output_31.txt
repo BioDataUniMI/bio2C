@@ -1,0 +1,35 @@
+{
+  "gene": "LARGE1",
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+
+{
+  "gene": "POMGNT2",
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+
+{
+  "gene": "MFSD2A",
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+
+{
+  "gene": "POMK",
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+
+{
+  "gene": "CAPN3",
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+

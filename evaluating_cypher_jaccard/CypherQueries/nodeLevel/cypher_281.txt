@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label STARTS WITH 'Hsa-Let' RETURN pm.Label, SIZE(pm.Sequence)

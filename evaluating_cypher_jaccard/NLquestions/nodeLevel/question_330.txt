@@ -1,0 +1,1 @@
+Find cancers whose labels contain the word 'malignant' that are also cardiovascular disease.

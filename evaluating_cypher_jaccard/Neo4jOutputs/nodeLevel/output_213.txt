@@ -1,0 +1,20 @@
+{
+  "d.Label": "chronic progressive multiple sclerosis"
+}
+
+{
+  "d.Label": "juvenile chronic polyarthritis"
+}
+
+{
+  "d.Label": "chronic primary adrenal insufficiency"
+}
+
+{
+  "d.Label": "adrenocortical hypofunction, chronic primary congenital"
+}
+
+{
+  "d.Label": "chronic recurrent multifocal osteomyelitis 3"
+}
+

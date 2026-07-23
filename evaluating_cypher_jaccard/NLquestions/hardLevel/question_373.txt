@@ -1,0 +1,1 @@
+Which miRNAs are located in locations whose label contains 'holoenzyme' and that are either GO terms or cellular components? For each miRNA, return its label, the list of matching GO term locations, and the list of matching cellular component locations.

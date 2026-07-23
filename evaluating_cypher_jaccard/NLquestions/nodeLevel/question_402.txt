@@ -1,0 +1,1 @@
+List all biological processes whose label or description contains 'action potential' and whose description contains either the string 'from the soma' or 'towards the soma'.

@@ -1,0 +1,20 @@
+{
+  "Gene": "METTL15P1"
+}
+
+{
+  "Gene": "METTL21AP1"
+}
+
+{
+  "Gene": "METTL23"
+}
+
+{
+  "Gene": "METTL15P3"
+}
+
+{
+  "Gene": "METTL8"
+}
+

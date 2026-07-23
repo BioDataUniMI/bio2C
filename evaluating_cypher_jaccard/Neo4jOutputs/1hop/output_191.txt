@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-137 precursor",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-142 precursor",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4449 precursor",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1306 precursor",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-28 precursor",
+  "Disease": "Alzheimer disease"
+}
+

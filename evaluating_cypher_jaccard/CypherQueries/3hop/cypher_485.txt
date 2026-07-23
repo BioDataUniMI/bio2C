@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:expressed_in]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN d.Label AS Disease, COUNT(DISTINCT m) AS miRNACount ORDER BY miRNACount DESC, Disease ASC LIMIT 5

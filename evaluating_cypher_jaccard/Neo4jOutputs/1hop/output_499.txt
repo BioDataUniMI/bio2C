@@ -1,0 +1,46 @@
+{
+  "m.Label": "microRNA hsa-mir-4477b precursor",
+  "c.Label": "breast carcinoma",
+  "m.Genomic_coordinates": [
+    "chr9:41233755-41233835-",
+    "chr9:63819574-63819654+"
+  ],
+  "SIZE(r.Mutation)": 6
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3142 precursor",
+  "c.Label": "hepatocellular carcinoma",
+  "m.Genomic_coordinates": [
+    "chr5:160474402-160474483+"
+  ],
+  "SIZE(r.Mutation)": 6
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3142 precursor",
+  "c.Label": "carcinoma of liver and intrahepatic biliary tract",
+  "m.Genomic_coordinates": [
+    "chr5:160474402-160474483+"
+  ],
+  "SIZE(r.Mutation)": 6
+}
+
+{
+  "m.Label": "hsa-miR-3939",
+  "c.Label": "squamous cell lung carcinoma",
+  "m.Genomic_coordinates": [
+    "chr6:166997830-166997851-"
+  ],
+  "SIZE(r.Mutation)": 7
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3939 precursor",
+  "c.Label": "squamous cell lung carcinoma",
+  "m.Genomic_coordinates": [
+    "chr6:166997807-166997912-"
+  ],
+  "SIZE(r.Mutation)": 12
+}
+

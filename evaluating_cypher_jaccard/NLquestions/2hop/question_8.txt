@@ -1,0 +1,1 @@
+Which miRNAs with 'precursor' in their label are associated as causal factors in diseases whose label contains the string 'multiple sclerosis', where the disease has phenotypes with label containing the word 'Aplasia'? Return the miRNA, the disease and the phenotype labels.

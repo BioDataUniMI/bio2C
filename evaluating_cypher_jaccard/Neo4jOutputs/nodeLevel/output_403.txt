@@ -1,0 +1,25 @@
+{
+  "bp.Label": "negative regulation of transport across blood-brain barrier",
+  "bp.ID": "GO:0150202"
+}
+
+{
+  "bp.Label": "negative regulation of blood-brain barrier permeability",
+  "bp.ID": "GO:1905604"
+}
+
+{
+  "bp.Label": "establishment of glial blood-brain barrier",
+  "bp.ID": "GO:0060857"
+}
+
+{
+  "bp.Label": "regulation of establishment of blood-brain barrier",
+  "bp.ID": "GO:0090210"
+}
+
+{
+  "bp.Label": "lipid transport across blood-brain barrier",
+  "bp.ID": "GO:1990379"
+}
+

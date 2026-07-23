@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "phobia",
+  "d.ID": "MFOMD:0000122"
+}
+

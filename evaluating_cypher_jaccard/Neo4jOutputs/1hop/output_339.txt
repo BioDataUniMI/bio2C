@@ -1,0 +1,20 @@
+{
+  "bp.Label": "cellular response to nitrogen starvation"
+}
+
+{
+  "bp.Label": "positive regulation of dendritic spine morphogenesis"
+}
+
+{
+  "bp.Label": "negative regulation of cell development"
+}
+
+{
+  "bp.Label": "carcinine import across plasma membrane"
+}
+
+{
+  "bp.Label": "entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex a..."
+}
+

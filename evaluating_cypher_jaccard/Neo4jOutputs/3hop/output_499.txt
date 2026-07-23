@@ -1,0 +1,28 @@
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "autophagy",
+  "ActiveMiRNA": "hsa-miR-519c-5p",
+  "LocatedMiRNA": "Hsa-Mir-105-P2_pre stem-loop"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "autophagy",
+  "ActiveMiRNA": "hsa-miR-519c-5p",
+  "LocatedMiRNA": "Hsa-Mir-105-P1_pre stem-loop"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "autophagy",
+  "ActiveMiRNA": "hsa-miR-519c-5p",
+  "LocatedMiRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-1)"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "autophagy",
+  "ActiveMiRNA": "hsa-miR-519c-5p",
+  "LocatedMiRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-2)"
+}
+                                                                                                                                                                             ^}

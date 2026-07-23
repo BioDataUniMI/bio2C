@@ -1,0 +1,1 @@
+Find pairs of miRNAs and diseases connected by multiple relashionships types (at least two types). Return the labels of miRNAs, labels of diseases, and the kind of interaction between them.

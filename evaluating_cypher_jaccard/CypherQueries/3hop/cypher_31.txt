@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(cd1:Cardiovascular_disease)-[:disease_shares_features_of]->(cd2:Cardiovascular_disease)-[:subclassof]->(d:Disease {Label:'laminopathy'}) WHERE cd2.Label CONTAINS 'muscular dystrophy' RETURN g.Label AS gene, cd1.Label AS primary_cardiovascular_disease, cd2.Label AS related_cardiovascular_disease, d.Label AS parent_disease

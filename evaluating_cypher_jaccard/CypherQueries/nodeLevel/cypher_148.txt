@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Label STARTS WITH 'DNA' AND mf.Description CONTAINS 'binding' RETURN mf.Label, mf.Description

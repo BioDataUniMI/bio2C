@@ -1,0 +1,1 @@
+Consider diseases that are subclasses of cancers whose label contains the word 'muscle'. Retrieve the miRNAs these cancers express and the genes with activity regulated by those miRNAs, restricting the result set to genes whose label is stricly longer than 9 characters.

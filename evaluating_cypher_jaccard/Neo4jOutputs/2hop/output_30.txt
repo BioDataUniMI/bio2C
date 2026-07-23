@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Abnormal cell morphology"
+}
+
+{
+  "Phenotype": "Abnormal nervous system physiology"
+}
+
+{
+  "Phenotype": "Fatigue"
+}
+
+{
+  "Phenotype": "Glioblastoma multiforme"
+}
+
+{
+  "Phenotype": "Paralysis"
+}
+

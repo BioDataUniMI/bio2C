@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label: 'disorder of glycogen metabolism'})-[:disease_caused_by_disruption_of]->(go:GO)-[:has_part]->(mf:Molecular_function) RETURN go.Label AS DisruptedGO, mf.Label AS MolecularFunction

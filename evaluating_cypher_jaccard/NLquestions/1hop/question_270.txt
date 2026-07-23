@@ -1,0 +1,1 @@
+Show the PubMed IDs that provide evidence for diseases having phenotypes whose labels include the word 'Lymphoma'.

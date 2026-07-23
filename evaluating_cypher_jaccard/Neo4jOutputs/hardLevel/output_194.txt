@@ -1,0 +1,6 @@
+{
+  "gene": "PCDH15",
+  "sequence": "TTTT",
+  "count": 23106
+}
+

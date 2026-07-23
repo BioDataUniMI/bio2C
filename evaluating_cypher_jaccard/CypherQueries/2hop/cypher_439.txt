@@ -1,0 +1,1 @@
+MATCH (g:Gene {Species:'Homo sapiens'})-[:transcribed_to]->(m:miRNA)-[:over_expressed_in]->(nd:Neurodegenerative_disease) RETURN g.Label AS Gene, m.Label AS miRNA, nd.Label AS Neurodegenerative_Disease

@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_primary_input]->(cc:Cellular_component {Label: 'peroxisome'}) RETURN bp.Label, bp.URI

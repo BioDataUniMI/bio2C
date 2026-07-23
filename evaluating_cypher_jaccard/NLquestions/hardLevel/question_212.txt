@@ -1,0 +1,1 @@
+Find miRNAs that develop from pre-miRNAs where they share at least 4 chromosomes in their genomic coordinates. Return miRNAs and pre-miRNAs label and their genomic coordinates, and the common chromosomes.

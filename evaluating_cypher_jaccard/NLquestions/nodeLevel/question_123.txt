@@ -1,0 +1,1 @@
+Retrieve human miRNAs whose labels start with 'hsa-miR-' followed by a number from 1 to 5, end with '5p', and have sequences exactly 25 nucleotides long.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SPLIT(m.Genomic_coordinates[0], ':')[0] = SPLIT(g.Genomic_coordinates[0], ':')[0] WITH SPLIT(m.Genomic_coordinates[0], ':')[0] AS common_chr RETURN common_chr, count(*) AS pair_count

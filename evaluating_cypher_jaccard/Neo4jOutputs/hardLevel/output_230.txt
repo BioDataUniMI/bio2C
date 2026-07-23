@@ -1,0 +1,12 @@
+{
+  "group_type": "non-precursor",
+  "Max_Sequence_Length": 84,
+  "Num_miRNAs": 82
+}
+
+{
+  "group_type": "precursor",
+  "Max_Sequence_Length": 110,
+  "Num_miRNAs": 10
+}
+

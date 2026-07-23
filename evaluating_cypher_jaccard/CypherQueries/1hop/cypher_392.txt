@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_participant]->(m:miRNA {Label:'hsa-miR-340-5p'}) WHERE bp.Label CONTAINS 'response' RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA

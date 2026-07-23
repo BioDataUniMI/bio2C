@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-1)",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-1)",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-199a precursor (hsa-mir-199a-1)",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-2)",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+

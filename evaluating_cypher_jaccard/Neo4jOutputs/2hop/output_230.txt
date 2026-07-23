@@ -1,0 +1,26 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-519a precursor (hsa-mir-519a-2)",
+  "Regulator_miRNA": "hsa-miR-519a-2-5p",
+  "Gene": "MICA",
+  "Pre_miRNA_GenomicCoordinates": [
+    "chr19:53762344-53762430+"
+  ],
+  "miRNA_GenomicCoordinates": [
+    "chr19:53762358-53762378+",
+    "chr19:53701228-53701248+"
+  ]
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-519a precursor (hsa-mir-519a-2)",
+  "Regulator_miRNA": "hsa-miR-519a-3p",
+  "Gene": "YES1",
+  "Pre_miRNA_GenomicCoordinates": [
+    "chr19:53762344-53762430+"
+  ],
+  "miRNA_GenomicCoordinates": [
+    "chr19:53752449-53752470+",
+    "chr19:53762397-53762418+"
+  ]
+}
+

@@ -1,0 +1,1 @@
+List genes starting with the character 'Z' whose activity is regulated by miRNAs and the cellular components with 'mitochondrial envelope' in their label that are location of those miRNAs  and that GO terms have them as a part. Return the GO term label, cellular component label, miRNA label, and target gene label.

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:causes_or_contributes_to_condition]->(d:Autoimmune_disease)-[:disease_has_basis_in_feature]->(ph:Phenotype)-[:subclassof]->(parent:Phenotype) RETURN d.Label AS AutoimmuneDisease, parent.Label AS ParentPhenotype, COUNT(DISTINCT p) AS Pre_miRNA_Count

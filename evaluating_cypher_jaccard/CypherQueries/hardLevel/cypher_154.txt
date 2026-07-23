@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:causes_or_contributes_to_condition]->(c:Cancer)-[:subclassof*1..1]->(d:Disease)-[:expresses]->(m2:miRNA) WHERE SIZE(m1.Sequence) <> SIZE(m2.Sequence) RETURN COUNT(DISTINCT [m1, m2]) AS miRNA_pair_count

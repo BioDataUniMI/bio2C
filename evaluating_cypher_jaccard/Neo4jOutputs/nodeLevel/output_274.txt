@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-4315 precursor (hsa-mir-4315-1%2C hsa-mir-4315-2)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-4315 precursor (hsa-mir-4315-1, hsa-mir-4315-2)",
+  "SIZE(pm.Sequence)": 73
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-1302 precursor (hsa-mir-1302-2, hsa-mir-1302 9 to 11)",
+  "SIZE(pm.Sequence)": 138
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-3680 precursor (hsa-mir-3680-1%2C hsa-mir-3680-2)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-3680 precursor (hsa-mir-3680-1, hsa-mir-3680-2)",
+  "SIZE(pm.Sequence)": 87
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-3180 precursor (hsa-mir-3180-1%2C hsa-mir-3180-3)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-3180 precursor (hsa-mir-3180-1, hsa-mir-3180-3)",
+  "SIZE(pm.Sequence)": 94
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-6089 precursor (hsa-mir-6089-1%2C hsa-mir-6089-2)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-6089 precursor (hsa-mir-6089-1, hsa-mir-6089-2)",
+  "SIZE(pm.Sequence)": 64
+}
+

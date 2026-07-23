@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-25-3p",
+  "bp.Label": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-210-3p",
+  "bp.Label": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "bp.Label": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "bp.Label": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-320a-3p",
+  "bp.Label": "autophagy"
+}
+

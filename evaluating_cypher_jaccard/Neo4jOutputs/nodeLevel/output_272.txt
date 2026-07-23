@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-196a precursor (hsa-mir-196a-2)"
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-196a precursor (hsa-mir-196a-1)"
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-196b precursor",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-196b precursor"
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-3196 precursor",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-3196 precursor"
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-5196 precursor",
+  "Pre_miRNA_Description": "homo sapiens (human) microrna hsa-mir-5196 precursor"
+}
+

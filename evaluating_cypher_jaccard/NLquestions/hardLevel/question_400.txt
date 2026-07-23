@@ -1,0 +1,1 @@
+List all genes that are characterized by a causal germline mutation relationship with diseases whose label contains 'Japanese medaka', return the list of gene labels (when available), otherwise the list of gene URIs.

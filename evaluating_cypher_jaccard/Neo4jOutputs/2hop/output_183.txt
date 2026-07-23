@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-208b-3p",
+  "CellularComponent": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "CellularComponent": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-518c-3p",
+  "CellularComponent": "cellular_component"
+}
+

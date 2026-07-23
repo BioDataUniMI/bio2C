@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:genetically_interacts_with]->(g2:Gene) WHERE SIZE(g2.Sequence) > SIZE(g1.Sequence) WITH SIZE(g2.Sequence) - SIZE(g1.Sequence) AS length_difference RETURN AVG(length_difference) AS Average_Length_Difference

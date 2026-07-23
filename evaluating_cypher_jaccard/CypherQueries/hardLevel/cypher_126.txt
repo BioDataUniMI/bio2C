@@ -1,0 +1,1 @@
+MATCH (d)-[:causes_or_contributes_to_condition]-(m:miRNA)-[:subclassof*0..]->(:miRNA) WHERE (d:Neurodegenerative_disease OR (d)-[:subclassof*1..]->(:Neurodegenerative_disease)) AND toLower(d.Label) CONTAINS 'motor' RETURN DISTINCT m.Label AS miRNA, d.Label AS Disease

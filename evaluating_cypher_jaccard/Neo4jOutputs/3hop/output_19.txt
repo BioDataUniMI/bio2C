@@ -1,0 +1,12 @@
+{
+  "phenotype": "Adult onset"
+}
+
+{
+  "phenotype": "acute"
+}
+
+{
+  "phenotype": "neoplastic, malignant"
+}
+

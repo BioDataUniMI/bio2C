@@ -1,0 +1,1 @@
+Which phenotype(s) are shared by the largest combined number of distinct autoimmune disease nodes and distinct cancer nodes (entities labeled as both autoimmune disease and cancer may be counted in both groups; it is fine to sum their counts)? Return the phenotype label, the number of associated autoimmune diseases, the number of associated cancers, and the summed total.

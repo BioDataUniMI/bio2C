@@ -1,0 +1,15 @@
+{
+  "GOLabel": "inflammatory response",
+  "MinSeqLength": 88
+}
+
+{
+  "GOLabel": "cell death",
+  "MinSeqLength": 98
+}
+
+{
+  "GOLabel": "cell killing",
+  "MinSeqLength": 98
+}
+

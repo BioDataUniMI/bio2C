@@ -1,0 +1,1 @@
+Find pre-miRNAs that develop into miRNAs which regulate the activity of genes that genetically interact with the 'H4C16' gene. Moreover, keep only miRNAs with at least two coordinates on chr8. Return the label of the pre-miRNAs, miRNAs, and genes.

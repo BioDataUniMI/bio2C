@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[r1:expresses]->(m:miRNA)-[r2:regulates_activity_of]->(g:Gene {Label:'CDK6'}) WHERE c.Label CONTAINS 'benign' RETURN c.Label AS Cancer, m.Label AS miRNA, r1.Source AS ExpressionSource, r1.Method AS ExpressionMethod, r2.Source AS RegulationSource, r2.Method AS RegulationMethod

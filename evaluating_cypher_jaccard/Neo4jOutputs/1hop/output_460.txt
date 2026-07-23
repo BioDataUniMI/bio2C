@@ -1,0 +1,25 @@
+{
+  "p1.Label": "partially dislocated",
+  "p2.Label": "Patellar subluxation"
+}
+
+{
+  "p1.Label": "partially dislocated",
+  "p2.Label": "Joint subluxation"
+}
+
+{
+  "p1.Label": "quality",
+  "p2.Label": "Abnormality of subcutaneous fat tissue"
+}
+
+{
+  "p1.Label": "morphology",
+  "p2.Label": "Abnormal cerebral subcortex morphology"
+}
+
+{
+  "p1.Label": "morphology",
+  "p2.Label": "Abnormal subarachnoid space morphology"
+}
+

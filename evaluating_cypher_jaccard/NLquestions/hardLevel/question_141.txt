@@ -1,0 +1,1 @@
+For each disease, find miRNAs that are connected to the disease via exactly 11 distinct mediator genes that they regulate (miRNA -> regulates_activity_of -> Gene -> causes_or_contributes_to_condition -> Disease). Return the miRNA label, its sequence length, the disease label, and the list of the 11 gene labels.

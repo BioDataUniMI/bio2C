@@ -1,0 +1,5 @@
+{
+  "RegulatorProcess": "negative regulation of membrane hyperpolarization",
+  "TargetProcess": "membrane hyperpolarization"
+}
+

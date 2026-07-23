@@ -1,0 +1,35 @@
+{
+  "Gene": "CD36",
+  "GA_count": 17209,
+  "CCC_count": 2106,
+  "Autoimmune_Disease": "celiac disease"
+}
+
+{
+  "Gene": "LRAT",
+  "GA_count": 7369,
+  "CCC_count": 989,
+  "Autoimmune_Disease": "celiac disease"
+}
+
+{
+  "Gene": "RUNX3",
+  "GA_count": 4212,
+  "CCC_count": 1496,
+  "Autoimmune_Disease": "celiac disease"
+}
+
+{
+  "Gene": "TGM2",
+  "GA_count": 2454,
+  "CCC_count": 772,
+  "Autoimmune_Disease": "celiac disease"
+}
+
+{
+  "Gene": "CD80",
+  "GA_count": 2199,
+  "CCC_count": 337,
+  "Autoimmune_Disease": "celiac disease"
+}
+

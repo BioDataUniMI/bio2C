@@ -1,0 +1,9 @@
+{
+  "First10PercentMiRNAs": [
+    {
+      "Label": "hsa-let-7a-5p",
+      "Sequence": "UGAGGUAGUAGGUUGUAUAGUU"
+    }
+  ]
+}
+

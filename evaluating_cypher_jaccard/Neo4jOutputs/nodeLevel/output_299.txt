@@ -1,0 +1,25 @@
+{
+  "GeneLabel": "H4C9",
+  "SynCount": 69
+}
+
+{
+  "GeneLabel": "H4C11",
+  "SynCount": 68
+}
+
+{
+  "GeneLabel": "H4C14",
+  "SynCount": 68
+}
+
+{
+  "GeneLabel": "H4C3",
+  "SynCount": 67
+}
+
+{
+  "GeneLabel": "H4C12",
+  "SynCount": 66
+}
+

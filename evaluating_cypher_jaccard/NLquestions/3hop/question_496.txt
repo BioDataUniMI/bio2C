@@ -1,0 +1,1 @@
+Identify genes transcribed into miRNAs that are in homology relationships with other miRNAs which are causal somatic mutations in breast carcinoma, where the source miRNA sequence is at least 30 nucleotides longer than the homologous miRNA. Report the label of the genes, miRNAs, homologous miRNAs, and their sequence lengths.

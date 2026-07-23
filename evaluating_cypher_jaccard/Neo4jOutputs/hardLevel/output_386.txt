@@ -1,0 +1,40 @@
+{
+  "Gene": "MIR1469",
+  "A_Count": 3,
+  "T_Count": 4,
+  "C_Count": 15,
+  "G_Count": 25
+}
+
+{
+  "Gene": "MIR2054",
+  "A_Count": 20,
+  "T_Count": 21,
+  "C_Count": 5,
+  "G_Count": 3
+}
+
+{
+  "Gene": "MIR1973",
+  "A_Count": 12,
+  "T_Count": 11,
+  "C_Count": 10,
+  "G_Count": 11
+}
+
+{
+  "Gene": "MIR3713",
+  "A_Count": 10,
+  "T_Count": 13,
+  "C_Count": 10,
+  "G_Count": 12
+}
+
+{
+  "Gene": "MIR4430",
+  "A_Count": 11,
+  "T_Count": 9,
+  "C_Count": 12,
+  "G_Count": 17
+}
+

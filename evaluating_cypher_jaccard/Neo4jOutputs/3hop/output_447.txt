@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-429",
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma",
+  "PhenotypeLabel": "Pulmonary edema",
+  "PhenotypeDescription": "fluid accumulation in the lungs."
+}
+
+{
+  "miRNA": "hsa-miR-429",
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma",
+  "PhenotypeLabel": "Oliguria",
+  "PhenotypeDescription": "low output of urine, clinically classified as an output below 300-500ml/day."
+}
+
+{
+  "miRNA": "hsa-miR-429",
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma",
+  "PhenotypeLabel": "Rhinorrhea",
+  "PhenotypeDescription": "increased discharge of mucus from the nose."
+}
+
+{
+  "miRNA": "hsa-miR-429",
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma",
+  "PhenotypeLabel": "Constitutional symptom",
+  "PhenotypeDescription": "a symptom or manifestation indicating a systemic or general effect of a disease and that may affe..."
+}
+
+{
+  "miRNA": "hsa-miR-429",
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma",
+  "PhenotypeLabel": "Myocarditis",
+  "PhenotypeDescription": "inflammation of the myocardium."
+}
+

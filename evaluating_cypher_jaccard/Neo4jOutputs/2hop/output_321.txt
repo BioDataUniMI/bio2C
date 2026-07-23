@@ -1,0 +1,30 @@
+{
+  "Cancer": "basal cell neoplasm",
+  "Gene1": "H2AC16",
+  "Gene2": "ALYREF"
+}
+
+{
+  "Cancer": "basal cell neoplasm",
+  "Gene1": "PABPC1L2B",
+  "Gene2": "ALYREF"
+}
+
+{
+  "Cancer": "basal cell neoplasm",
+  "Gene1": "H4C16",
+  "Gene2": "ALYREF"
+}
+
+{
+  "Cancer": "skin cancer",
+  "Gene1": "ABCF2",
+  "Gene2": "TGFB1"
+}
+
+{
+  "Cancer": "skin pigmented basal cell carcinoma",
+  "Gene1": "H2AC16",
+  "Gene2": "ALYREF"
+}
+

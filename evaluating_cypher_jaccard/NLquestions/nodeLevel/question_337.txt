@@ -1,0 +1,1 @@
+Find cancers whose labels contain the word 'polyp' as a standalone word and whose descriptions do not contain 'benign' or 'non-neoplastic'.

@@ -1,0 +1,25 @@
+{
+  "Cancer_label": "adenocarcinoma",
+  "word_after_common": "cancer"
+}
+
+{
+  "Cancer_label": "kidney Wilms tumor",
+  "word_after_common": "sites"
+}
+
+{
+  "Cancer_label": "neoplastic meningitis",
+  "word_after_common": "primary"
+}
+
+{
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "word_after_common": "type"
+}
+
+{
+  "Cancer_label": "ependymoma",
+  "word_after_common": "ependymal"
+}
+

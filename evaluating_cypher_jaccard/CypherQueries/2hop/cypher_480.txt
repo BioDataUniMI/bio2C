@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_formation_of_anatomical_entity]->(go1:GO)-[:has_part]->(go2:GO) RETURN bp.Label AS Biological_Process, go1.Label AS Formation_GO, go2.Label AS Anatomical_Entity_GO

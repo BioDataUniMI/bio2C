@@ -1,0 +1,1 @@
+Find all biological processes that result in transport across a cellular component, where the cellular component is a bounding layer of a GO term. Return the label of the biological process and the cellular component.

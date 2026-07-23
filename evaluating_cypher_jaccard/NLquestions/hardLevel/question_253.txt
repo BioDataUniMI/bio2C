@@ -1,0 +1,1 @@
+List miRNAs that are located in cellular components whose label contains 'cytoplasm' and are not located in any cellular component whose label contains 'nucleus' (case-insensitive).

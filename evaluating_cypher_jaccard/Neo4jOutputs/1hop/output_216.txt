@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "reproduction",
+  "GOterm": "developmental process involved in reproduction"
+}
+
+{
+  "BiologicalProcess": "reproduction",
+  "GOterm": "reproductive process"
+}
+
+{
+  "BiologicalProcess": "sexual reproduction",
+  "GOterm": "mating"
+}
+
+{
+  "BiologicalProcess": "sexual reproduction",
+  "GOterm": "fertilization"
+}
+
+{
+  "BiologicalProcess": "sexual reproduction",
+  "GOterm": "meiotic cell cycle"
+}
+

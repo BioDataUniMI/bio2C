@@ -1,0 +1,1 @@
+Identify cardiovascular diseases caused or contributed to by the gene 'SOS1', the miRNAs that regulate this gene, and the genomic coordinates of those miRNAs.

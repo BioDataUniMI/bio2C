@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:has_quality]->(p2:Phenotype) WHERE p1.Label CONTAINS 'myopathy' AND ID(p1) <> ID(p2) RETURN p1.Label AS Phenotype, p2.Label AS QualityPhenotype

@@ -1,0 +1,1 @@
+Consider the microRNA labeled 'hsa-mir-374a precursor'. Split its sequence into two halves and count the number of 'UA' dinucleotides in each half.

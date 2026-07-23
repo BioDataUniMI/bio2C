@@ -1,0 +1,1 @@
+Which miRNAs are over-expressed in the disease labeled as 'multiple sclerosis', and what types (LABELS) does this disease node have?

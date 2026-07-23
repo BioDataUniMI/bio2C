@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-224-5p",
+  "Sequence": "UCAAGUCACUAGUGGUUCCGUUUAG",
+  "GenomicCoordinates": [
+    "chrX:151958628-151958652-"
+  ],
+  "Biological_Process": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-3189-5p",
+  "Sequence": "UGCCCCAUCUGUGCCCUGGGUAGGA",
+  "GenomicCoordinates": [
+    "chr19:18386570-18386594+"
+  ],
+  "Biological_Process": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-378c",
+  "Sequence": "ACUGGACUUGGAGUCAGAAGAGUGG",
+  "GenomicCoordinates": [
+    "chr10:130962634-130962658-"
+  ],
+  "Biological_Process": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-449c-5p",
+  "Sequence": "UAGGCAGUGUAUUGCUAGCGGCUGU",
+  "GenomicCoordinates": [
+    "chr5:55172313-55172337-"
+  ],
+  "Biological_Process": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-519d-5p",
+  "Sequence": "CCUCCAAAGGGAAGCGCUUUCUGUU",
+  "GenomicCoordinates": [
+    "chr19:53713361-53713385+"
+  ],
+  "Biological_Process": "apoptotic process"
+}
+

@@ -1,0 +1,1 @@
+Identify phenotypes whose label contains 'Upper limb pain' that are observed in neurodegenerative diseases which are superclasses of diseases whose label contains 'spastic paraplegia 90A', and return the disease, neurodegenerative superclass, and phenotype labels..

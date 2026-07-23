@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 2",
+  "Description": "any progressive external ophthalmoplegia with mitochondrial dna deletions in which the cause of t..."
+}
+

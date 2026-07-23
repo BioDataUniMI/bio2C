@@ -1,0 +1,1 @@
+MATCH (c1:Cancer)-[:expresses]->(m:miRNA)-[:under_expressed_in]->(c2:Cancer) WHERE c1.Label CONTAINS 'benign' AND c2.Label CONTAINS 'malignant' RETURN c1.Label AS BenignCancer, m.Label AS miRNA, c2.Label AS MalignantCancer

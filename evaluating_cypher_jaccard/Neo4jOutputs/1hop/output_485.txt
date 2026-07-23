@@ -1,0 +1,25 @@
+{
+  "bp1.Label": "mitotic G1 phase",
+  "bp2.Label": "mitotic G1 DNA damage checkpoint signaling"
+}
+
+{
+  "bp1.Label": "mitotic S phase",
+  "bp2.Label": "mitotic intra-S DNA damage checkpoint signaling"
+}
+
+{
+  "bp1.Label": "mitotic G2 phase",
+  "bp2.Label": "mitotic G2 DNA damage checkpoint signaling"
+}
+
+{
+  "bp1.Label": "G1 phase",
+  "bp2.Label": "mitotic G1 cell size control checkpoint signaling"
+}
+
+{
+  "bp1.Label": "G2 phase",
+  "bp2.Label": "mitotic G2 cell size control checkpoint signaling"
+}
+

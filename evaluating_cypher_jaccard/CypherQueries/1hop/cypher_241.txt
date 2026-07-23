@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(c:Cancer) WHERE m.Label ENDS WITH '5p' AND (c.Label CONTAINS 'carcinoma of liver' OR c.Label CONTAINS 'biliary tract') RETURN m.Label AS miRNA, c.Label AS Cancer

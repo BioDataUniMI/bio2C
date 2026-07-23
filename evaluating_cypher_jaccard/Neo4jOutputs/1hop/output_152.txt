@@ -1,0 +1,35 @@
+{
+  "Source": [
+    "HMDD"
+  ],
+  "miRNA": "microRNA hsa-mir-181d precursor"
+}
+
+{
+  "Source": [
+    "HMDD"
+  ],
+  "miRNA": "microRNA hsa-mir-141 precursor"
+}
+
+{
+  "Source": [
+    "HMDD"
+  ],
+  "miRNA": "let-7e stem-loop (hsa-let-7e)"
+}
+
+{
+  "Source": [
+    "HMDD"
+  ],
+  "miRNA": "microRNA hsa-mir-146a precursor"
+}
+
+{
+  "Source": [
+    "HMDD"
+  ],
+  "miRNA": "microRNA hsa-mir-146b precursor"
+}
+

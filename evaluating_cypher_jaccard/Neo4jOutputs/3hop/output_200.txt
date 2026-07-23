@@ -1,0 +1,30 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "TP53"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "TP53"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CDK6"
+}
+

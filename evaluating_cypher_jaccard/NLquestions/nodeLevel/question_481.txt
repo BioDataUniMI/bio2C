@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing 'Golgi' and either contain 'ER' (i.e., an abbreviation for 'Endoplasmic Reticulum') in their label or the full string 'endoplasmic reticulum' in their description (case-insensitive)? Return their label and ID.

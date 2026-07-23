@@ -1,0 +1,1 @@
+List diseases that under-express miRNAs whose sequence has more than 50 guanine nucleotides. Return the the diseases and the miRNAs' labels.

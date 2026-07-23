@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-300",
+  "Gene": "TP53"
+}
+
+{
+  "miRNA": "hsa-miR-375-5p",
+  "Gene": "TP53"
+}
+
+{
+  "miRNA": "hsa-miR-628-3p",
+  "Gene": "TP53"
+}
+
+{
+  "miRNA": "hsa-miR-504-5p",
+  "Gene": "TP53"
+}
+
+{
+  "miRNA": "hsa-miR-612",
+  "Gene": "TP53"
+}
+

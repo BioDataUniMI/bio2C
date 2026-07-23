@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:subclassof]->(id:Infectious_disease)-[:disease_has_feature]->(ph:Phenotype {Label:'Paralysis'}) RETURN nd.Label AS Neurodegenerative_Disease, id.Label AS Infectious_Disease

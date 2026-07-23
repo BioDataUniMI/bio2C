@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:negatively_regulates]->(x) WHERE (x:Biological_process OR x:Molecular_function) AND bp.Label STARTS WITH 'negative regulation of DNA' RETURN bp.Label, x.Label, LABELS(x)

@@ -1,0 +1,1 @@
+Retrieve all the properties of the mental disease labeled 'Keshan disease'.

@@ -1,0 +1,1 @@
+Find all biological processes whose label contains the word 'protein' that result in transport across a cellular component. Return the cellular component and its parent component labels.

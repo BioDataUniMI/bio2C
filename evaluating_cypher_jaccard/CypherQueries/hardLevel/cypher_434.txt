@@ -1,0 +1,1 @@
+MATCH (bp1:Biological_process)-[r:negatively_regulates]->(bp2:Biological_process) RETURN COUNT(r) AS nNegativeRegulations

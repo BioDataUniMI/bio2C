@@ -1,0 +1,1 @@
+Find the miRNA that is active in a cellular component and has the longest sequence among those whose sequence contains the substring 'GA' at least twice. Return the miRNA sequence length, the sequence, and the cellular component label.

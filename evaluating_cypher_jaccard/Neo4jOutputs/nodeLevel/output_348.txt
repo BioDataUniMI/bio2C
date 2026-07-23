@@ -1,0 +1,25 @@
+{
+  "DiseaseLabel": "Leber congenital amaurosis 4",
+  "DiseaseID": "MONDO:0011458"
+}
+
+{
+  "DiseaseLabel": "Noonan syndrome 9",
+  "DiseaseID": "MONDO:0014691"
+}
+
+{
+  "DiseaseLabel": "Noonan syndrome 7",
+  "DiseaseID": "MONDO:0013379"
+}
+
+{
+  "DiseaseLabel": "atrial fibrillation, familial, 10",
+  "DiseaseID": "MONDO:0013530"
+}
+
+{
+  "DiseaseLabel": "hypertrophic cardiomyopathy 12",
+  "DiseaseID": "MONDO:0012804"
+}
+

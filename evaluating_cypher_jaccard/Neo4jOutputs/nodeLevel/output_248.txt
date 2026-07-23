@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-4472",
+  "Sequence": "GGUGGGGGGUGUUGUUUU"
+}
+

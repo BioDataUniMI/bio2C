@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' AND NOT cc.Description CONTAINS 'membrane' RETURN cc.Label AS CellularComponent, cc.Description AS Description

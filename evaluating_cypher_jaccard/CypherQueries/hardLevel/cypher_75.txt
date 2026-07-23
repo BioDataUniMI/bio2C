@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:under_expressed_in]->(go:GO {Label: 'cell killing'}) WHERE SUBSTRING(p.Sequence, 0, 1) = SUBSTRING(p.Sequence, SIZE(p.Sequence) - 1, 1) WITH p, SIZE(SPLIT(p.Sequence, 'CAU')) - 1 AS CAUCount RETURN p.ID AS pre_miRNA_ID, CAUCount

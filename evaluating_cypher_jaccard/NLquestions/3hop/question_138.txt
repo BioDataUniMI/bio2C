@@ -1,0 +1,1 @@
+Find phenotypes of diseases whose labels contain 'skin basal cell', where each such disease is a subclass of another (parent) disease that has at least one miRNA under-expressed in it. Return the phenotype label, the subclass disease label, and the parent disease label.

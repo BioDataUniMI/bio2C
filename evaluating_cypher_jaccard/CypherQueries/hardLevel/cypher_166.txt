@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(bp:Biological_process) WITH m, bp, SIZE(m.Sequence) AS seq_length, SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'C', '')) AS C_count ORDER BY seq_length DESC, C_count ASC, m.Label ASC RETURN m.Label AS miRNA, bp.Label AS biological_process, seq_length, C_count LIMIT 3

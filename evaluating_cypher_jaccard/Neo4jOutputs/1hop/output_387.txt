@@ -1,0 +1,12 @@
+{
+  "Characteristic": "Autosomal recessive inheritance",
+  "Disease": "hypercalcemia, infantile",
+  "elementId(d)": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:68329"
+}
+
+{
+  "Characteristic": "Infantile onset",
+  "Disease": "hypercalcemia, infantile",
+  "elementId(d)": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:68329"
+}
+

@@ -1,0 +1,1 @@
+Find all pre-miRNAs for which all genomic coordinates are on chromosome 18 and that are causal somatic mutations in phenotypes that are phenotype of cardiovascular diseases.  Return the label of: the pre-miRNA, the phenotype, the disease, and the pre-miRNA genomic coordinates.

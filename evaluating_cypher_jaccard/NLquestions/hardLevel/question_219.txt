@@ -1,0 +1,1 @@
+Find cancers that have at least one under-expressed miRNA and whose description contains the substring 'common'. From descriptions where a space-separated token is exactly 'common', return the token immediately following it.

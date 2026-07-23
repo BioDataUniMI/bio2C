@@ -1,0 +1,30 @@
+{
+  "GO_term": "inflammatory response",
+  "pre_miRNA": "microRNA hsa-mir-205 precursor",
+  "GG_count": 5
+}
+
+{
+  "GO_term": "inflammatory response",
+  "pre_miRNA": "microRNA hsa-mir-200b precursor",
+  "GG_count": 11
+}
+
+{
+  "GO_term": "inflammatory response",
+  "pre_miRNA": "microRNA hsa-mir-485 precursor",
+  "GG_count": 4
+}
+
+{
+  "GO_term": "inflammatory response",
+  "pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "GG_count": 8
+}
+
+{
+  "GO_term": "inflammatory response",
+  "pre_miRNA": "microRNA hsa-mir-182 precursor",
+  "GG_count": 12
+}
+

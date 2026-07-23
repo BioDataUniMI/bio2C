@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Sequence": "UGAGGUAGUAGGUUGUAUAGUU",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "Sequence": "UGGAAUGUAAGGAAGUGUGUGG",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+
+{
+  "miRNA": "hsa-miR-1-3p",
+  "Sequence": "UGGAAUGUAAAGAAGUAUGUAU",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+

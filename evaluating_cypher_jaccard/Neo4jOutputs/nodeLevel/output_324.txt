@@ -1,0 +1,19 @@
+{
+  "CancerLabel": "combined lung carcinoma"
+}
+
+{
+  "CancerLabel": "lung sarcomatoid carcinoma"
+}
+
+{
+  "CancerLabel": "lung signet ring cell carcinoma"
+}
+
+{
+  "CancerLabel": "lung large cell carcinoma"
+}
+
+{
+  "CancerLabel": "non-small cell squamous lung carcinoma"
+}

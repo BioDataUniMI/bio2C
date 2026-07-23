@@ -1,0 +1,1 @@
+Find the sequences of pre-miRNAs that are under-expressed in the GO term labeled as 'cell killing' and whose sequence starts and ends with the same letter.

@@ -1,0 +1,25 @@
+{
+  "Gene": "CDC25B",
+  "Disease": "prostate cancer, hereditary, 4"
+}
+
+{
+  "Gene": "CCND2",
+  "Disease": "prostate cancer, hereditary, 4"
+}
+
+{
+  "Gene": "TLR4",
+  "Disease": "prostate cancer, hereditary, 4"
+}
+
+{
+  "Gene": "CDC25B",
+  "Disease": "prostate cancer, hereditary, 9"
+}
+
+{
+  "Gene": "CCND2",
+  "Disease": "prostate cancer, hereditary, 9"
+}
+

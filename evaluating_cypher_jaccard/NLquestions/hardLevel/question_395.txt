@@ -1,0 +1,1 @@
+Find genes whose labels end with any suffix from the set {AS1, ROR, 148P, H2A}, and for each gene, list the diseases it causes or contributes to.

@@ -1,0 +1,1 @@
+Which pre-miRNAs that are transcribed from genes and develop into miRNAs regulate the activity of target genes? Return the top 5 pre-miRNA–target gene pairs ranked by the length of the target gene label (longest first). For ties, order target gene labels alphabetically. Return the pre-miRNA label, the target gene label, and the length of the target gene label.

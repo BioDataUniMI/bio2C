@@ -1,0 +1,25 @@
+{
+  "Disease": "familial hemiplegic migraine",
+  "Phenotype": "Hemiparesis"
+}
+
+{
+  "Disease": "familial hemiplegic migraine",
+  "Phenotype": "Confusion"
+}
+
+{
+  "Disease": "familial hemiplegic migraine",
+  "Phenotype": "Muscle weakness"
+}
+
+{
+  "Disease": "familial hemiplegic migraine",
+  "Phenotype": "Drowsiness"
+}
+
+{
+  "Disease": "migraine disorder",
+  "Phenotype": "Vomiting"
+}
+

@@ -1,0 +1,1 @@
+Count the number of distinct miRNAs, developed from pre-miRNAs transcribed from genes, that cause or contribute to the disease labeled as 'atherosclerosis'.

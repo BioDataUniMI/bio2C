@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE NOT g.Label CONTAINS 'MIR' WITH g, SUBSTRING(g.Sequence, 0, toInteger(SIZE(g.Sequence) * 0.8)) AS first80pct WITH first80pct, COLLECT(DISTINCT g.Label) AS genes WHERE SIZE(genes) > 1 RETURN genes

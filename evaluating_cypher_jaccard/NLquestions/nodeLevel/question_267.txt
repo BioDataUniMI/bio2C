@@ -1,0 +1,1 @@
+Find the genomic coordinates of pre-miRNAs whose sequence length is exactly 180 nucleotides. Return their labels and genomic coordinates.

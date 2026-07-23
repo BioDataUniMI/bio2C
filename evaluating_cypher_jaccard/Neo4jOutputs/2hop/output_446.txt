@@ -1,0 +1,5 @@
+{
+  "Transcribed_miRNA": "microRNA hsa-mir-548aa precursor (hsa-mir-548aa-2)",
+  "Homologous_miRNA": "microRNA hsa-mir-548a precursor (hsa-mir-548a-1)"
+}
+

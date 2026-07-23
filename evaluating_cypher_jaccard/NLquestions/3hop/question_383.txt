@@ -1,0 +1,1 @@
+How many distinct miRNAs are under-expressed in diseases whose labels contain the word 'chronic' that are subclasses of cancers whose have phenotypes containing the string 'Abnormal' in their labels?

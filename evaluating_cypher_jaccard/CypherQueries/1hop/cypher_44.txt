@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'Acute' AND NOT m.Label ENDS WITH 'p' AND NOT m.Label ENDS WITH 'precursor' RETURN p.Label AS Phenotype_label, m.Label AS miRNA

@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "ID": "RNAcentral:URS000075AB31_9606"
+}
+
+{
+  "Pre_miRNA": "microRNA 320d-1 (ENSG00000211491.2)",
+  "ID": "RNAcentral:URS000075B796_9606"
+}
+
+{
+  "Pre_miRNA": "microRNA 320e (ENSG00000211513.5)",
+  "ID": "RNAcentral:URS000075E854_9606"
+}
+
+{
+  "Pre_miRNA": "microRNA 320c-1 (ENSG00000221493.1)",
+  "ID": "RNAcentral:URS000075EA80_9606"
+}
+
+{
+  "Pre_miRNA": "microRNA 320b-1 (ENSG00000211543.2)",
+  "ID": "RNAcentral:URS000075D8C5_9606"
+}
+

@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-543",
+  "BiologicalProcess": "DNA metabolic process",
+  "MolecularFunction": "DNA nuclease activity"
+}
+
+{
+  "miRNA": "hsa-miR-421",
+  "BiologicalProcess": "DNA catabolic process",
+  "MolecularFunction": "DNA nuclease activity"
+}
+
+{
+  "miRNA": "hsa-miR-107",
+  "BiologicalProcess": "positive regulation of transcription by RNA polymerase II",
+  "MolecularFunction": "DNA-binding transcription activator activity, RNA polymerase II-specific"
+}
+
+{
+  "miRNA": "hsa-miR-107",
+  "BiologicalProcess": "transcription by RNA polymerase II",
+  "MolecularFunction": "RNA polymerase II activity"
+}
+
+{
+  "miRNA": "hsa-miR-298",
+  "BiologicalProcess": "DNA metabolic process",
+  "MolecularFunction": "DNA nuclease activity"
+}
+

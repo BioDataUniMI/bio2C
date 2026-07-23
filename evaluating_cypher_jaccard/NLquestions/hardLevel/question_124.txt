@@ -1,0 +1,1 @@
+Show the shortest subclass hierarchy paths (up to 10 subclassof steps) from any Phenotype containing 'carcinoma' in its label to any different Phenotype containing 'lung' in its label (note that the first and last phenotypes of the paths must be different). Return the labels of each Phenotype within the identified paths.

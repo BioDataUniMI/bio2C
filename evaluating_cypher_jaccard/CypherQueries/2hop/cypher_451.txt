@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:has_phenotype]->(ph:Phenotype), (nd)-[:expresses]->(m:miRNA) WHERE toLower(ph.Label) CONTAINS 'resting tremor' RETURN m.Label

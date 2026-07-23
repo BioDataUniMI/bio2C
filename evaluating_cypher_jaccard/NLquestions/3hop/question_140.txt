@@ -1,0 +1,1 @@
+Count the number of distinct miRNAs that are over-expressed in cancers which are subclasses of disease whose label contains the string 'cervical carcinoma' and have phenotypes whose label contains the word 'impairment'.

@@ -1,0 +1,1 @@
+Find phenotypes having: 1) a label that contains the word 'Chronic'; 2) 'over-expressed in' relationships with miRNAs characterized by genomic coordinates starting with 'chr21'.

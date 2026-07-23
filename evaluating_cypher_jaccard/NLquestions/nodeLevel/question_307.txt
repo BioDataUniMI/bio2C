@@ -1,0 +1,1 @@
+Find the diseases whose descriptions contain 'rare', 'genetic', and 'autism', and that their node types (i.e., LABELS(Disease)) are classified only as Disease.

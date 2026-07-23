@@ -1,0 +1,5 @@
+{
+  "Gene": "VEGFA",
+  "NumberOfRegulatingMiRNAs": 55
+}
+

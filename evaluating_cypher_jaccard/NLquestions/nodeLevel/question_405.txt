@@ -1,0 +1,1 @@
+Return the label and description of the biological process with URI 'http://purl.obolibrary.org/obo/GO_0019227'.

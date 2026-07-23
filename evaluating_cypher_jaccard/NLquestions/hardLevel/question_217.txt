@@ -1,0 +1,1 @@
+Find the top 3 miRNAs under-expressed in cancer whose sequences contain the highest total number of occurrences of the double-nucleotide substrings 'AA', 'UU', 'CC', and 'GG', ordered alphabetically by miRNA label in case of ties. Return the miRNA label, miRNA sequence, and the total double-substring count.

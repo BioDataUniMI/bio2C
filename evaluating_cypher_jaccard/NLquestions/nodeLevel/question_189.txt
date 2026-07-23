@@ -1,0 +1,1 @@
+Return the labels of diseases whose label contains 'thyroid' and description mentions 'carcinoma'.

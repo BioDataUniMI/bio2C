@@ -1,0 +1,1 @@
+Find molecular functions that are linked to cellular components whose labels contain the word 'tRNA' via a 'capable of' relationship type.

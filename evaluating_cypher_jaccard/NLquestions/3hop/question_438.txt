@@ -1,0 +1,1 @@
+Find cancers that have phenotypes and express miRNAs that enable molecular functions whose label contains the string 'UTR binding'. Return molecular function label, miRNA label, cancer label, and phenotype label.

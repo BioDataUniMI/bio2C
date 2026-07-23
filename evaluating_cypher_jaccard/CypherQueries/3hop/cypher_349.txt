@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in|under_expressed_in]->(c:Cancer)-[:subclassof]->(d:Cancer)-[:has_phenotype]->(p:Phenotype) RETURN COUNT(DISTINCT m) AS miRNACount

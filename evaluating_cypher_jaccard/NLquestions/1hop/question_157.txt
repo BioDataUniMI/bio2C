@@ -1,0 +1,1 @@
+Find all GO terms in which miRNAs shorter than 50 nts have a function. Moreover, filter only relationships reported by the source 'TAM'. Return ONLY the GO labels.

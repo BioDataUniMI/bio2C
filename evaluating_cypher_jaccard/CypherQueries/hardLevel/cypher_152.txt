@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) WHERE SIZE(m.Sequence) = 23 AND n.Description STARTS WITH 'a progressive' RETURN COLLECT(DISTINCT m.Label)[0..5] AS Example_miRNAs, n.Label AS DiseaseLabel, n.Description AS DiseaseDescription

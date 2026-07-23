@@ -1,0 +1,1 @@
+Find miRNAs that are under-expressed in at least 2 neurodegenerative diseases. Return the miRNA label and the relative number of neurodegenerative diseases.

@@ -1,0 +1,1 @@
+Which phenotypes containing the word 'skin' are phenotype of diseases whose labels contain 'heart'?

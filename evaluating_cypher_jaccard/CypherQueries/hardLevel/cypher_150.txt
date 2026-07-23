@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH COUNT(m) AS total, COUNT(CASE WHEN RIGHT(m.Sequence, 1) = 'A' THEN 1 END) AS endsWithA RETURN toFloat(endsWithA) / total AS ProportionEndingWithA

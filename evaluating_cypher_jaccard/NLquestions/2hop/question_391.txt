@@ -1,0 +1,1 @@
+Identify cardiovascular diseases that exhibit the phenotype labeled as 'Small hand' and are caused or contributed by specific genes ('SOS1').

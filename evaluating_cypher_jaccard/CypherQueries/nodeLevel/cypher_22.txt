@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label ENDS WITH 'membrane' AND cc.Description CONTAINS 'mitochondria' RETURN cc.Label AS CellularComponent, cc.Description AS Description

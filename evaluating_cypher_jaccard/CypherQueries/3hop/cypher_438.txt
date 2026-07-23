@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)<-[:enables]-(m:miRNA)<-[:expresses]-(c:Cancer)<-[:phenotype_of]-(p:Phenotype) WHERE mf.Label CONTAINS 'UTR binding' RETURN mf.Label AS MolecularFunction, m.Label AS miRNA, c.Label AS Cancer, p.Label AS Phenotype

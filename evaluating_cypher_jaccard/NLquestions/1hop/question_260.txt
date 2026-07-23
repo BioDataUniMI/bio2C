@@ -1,0 +1,1 @@
+List all genes whose activity is regulated by the miRNA 'hsa-miR-603'.

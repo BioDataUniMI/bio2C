@@ -1,0 +1,1 @@
+Return miRNAs under-expressed in infectious diseases whose labels contain 'tuberculosis'. Return miRNAs' label, diseases' label and the list of evidence sources.

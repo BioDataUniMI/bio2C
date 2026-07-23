@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-4766-5p",
+  "g.Label": "PRDX3P1"
+}
+
+{
+  "m.Label": "hsa-miR-3200-5p",
+  "g.Label": "PI4KAP1"
+}
+
+{
+  "m.Label": "hsa-miR-3909",
+  "g.Label": "HMGB1P10"
+}
+
+{
+  "m.Label": "hsa-miR-6820-3p",
+  "g.Label": "VWFP1"
+}
+
+{
+  "m.Label": "hsa-miR-4761-3p",
+  "g.Label": "KRT18P5"
+}
+

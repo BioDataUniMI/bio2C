@@ -1,0 +1,23 @@
+{
+  "BiologicalProcess": "reproduction",
+  "GOterm": "reproductive process",
+  "miRNA": "hsa-miR-222-3p"
+} 
+
+{
+  "BiologicalProcess": "reproduction",
+  "GOterm": "developmental process involved in reproduction",
+  "miRNA": "hsa-miR-222-3p"
+} 
+
+{
+  "BiologicalProcess": "osteoblast differentiation",
+  "GOterm": "osteoblast fate commitment",
+  "miRNA": "hsa-miR-222-3p"
+} 
+
+{
+  "BiologicalProcess": "female gonad development",
+  "GOterm": "ovarian follicle development",
+  "miRNA": "hsa-miR-222-3p"
+}

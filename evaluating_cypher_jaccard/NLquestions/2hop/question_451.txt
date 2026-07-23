@@ -1,0 +1,1 @@
+Which miRNAs are expressed by neurodegenerative diseases, that have phenotypes whose label contains the string 'Resting tremor'?

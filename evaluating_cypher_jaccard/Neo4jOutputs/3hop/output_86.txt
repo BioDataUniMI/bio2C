@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "NeurodegenerativeDisease": "Alzheimer disease type 1",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "PubMedIDs": [
+    "32531989",
+    "30914946",
+    "34776451",
+    "31592314"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "NeurodegenerativeDisease": "multiple sclerosis",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "PubMedIDs": [
+    "36324503",
+    "33107309",
+    "30518189"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "PubMedIDs": [
+    "32531989",
+    "30914946",
+    "34776451",
+    "31592314"
+  ]
+}
+

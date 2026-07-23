@@ -1,0 +1,15 @@
+{
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "angiogenesis involved in wound healing"
+}
+
+{
+  "BiologicalProcess": "cell differentiation",
+  "GO_Term": "cell development"
+}
+
+{
+  "BiologicalProcess": "cell differentiation",
+  "GO_Term": "cell fate commitment"
+}
+

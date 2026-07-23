@@ -1,0 +1,1 @@
+Count the number of pairs involving different molecular functions that co-occur as part of the same biological process.

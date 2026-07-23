@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_part]->(cc:Cellular_component)-[:location_of]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'Z' AND cc.Label CONTAINS 'mitochondrial envelope' RETURN DISTINCT go.Label AS GOterm, cc.Label AS CellularComponent, m.Label AS miRNA, g.Label AS TargetGene

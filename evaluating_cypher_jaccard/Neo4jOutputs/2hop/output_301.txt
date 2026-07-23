@@ -1,0 +1,28 @@
+{
+  "SourceGene": "MIR744",
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Pre_miRNA_SequenceLength": 98,
+  "Pre_miRNA_Coordinates": [
+    "chr17:12081899-12081996+"
+  ],
+  "miRNA": "hsa-miR-744-3p",
+  "miRNA_SequenceLength": 22,
+  "miRNA_Coordinates": [
+    "chr17:12081966-12081987+"
+  ]
+}
+
+{
+  "SourceGene": "MIR744",
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Pre_miRNA_SequenceLength": 98,
+  "Pre_miRNA_Coordinates": [
+    "chr17:12081899-12081996+"
+  ],
+  "miRNA": "hsa-miR-744-5p",
+  "miRNA_SequenceLength": 22,
+  "miRNA_Coordinates": [
+    "chr17:12081909-12081930+"
+  ]
+}
+

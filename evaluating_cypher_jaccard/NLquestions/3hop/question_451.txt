@@ -1,0 +1,1 @@
+Identify cancers whose label contains the word 'hepatocellular' where over-expressed miRNAs are similar to pre-miRNAs containing '93' in their label and participate in GO terms. Return the GO term label, pre-miRNA label, miRNA label, and cancer label.

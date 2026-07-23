@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_material_basis_in_somatic_mutation_in]->(m:miRNA {Label:'hsa-miR-30d-5p'})-[:participates_in]->(bp:Biological_process) RETURN c.Label AS Cancer, bp.Label AS BiologicalProcess

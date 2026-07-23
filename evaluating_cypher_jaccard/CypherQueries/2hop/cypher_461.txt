@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(mf:Molecular_function) ,(m)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'protein signal transduction' AND mf.Label CONTAINS 'miRNA' RETURN m.Label AS miRNA, mf.Label AS MolecularFunction, bp.Label AS BiologicalProcess

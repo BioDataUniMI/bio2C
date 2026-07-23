@@ -1,0 +1,24 @@
+{
+  "Source": "hsa-miR-143-5p",
+  "Target": "hsa-miR-145-5p",
+  "Score": 0.3607
+}
+
+{
+  "Source": "hsa-miR-9-5p",
+  "Target": "hsa-let-7d-5p",
+  "Score": 0.331
+}
+
+{
+  "Source": "hsa-miR-145-5p",
+  "Target": "hsa-miR-143-5p",
+  "Score": 0.3607
+}
+
+{
+  "Source": "hsa-let-7d-5p",
+  "Target": "hsa-miR-9-5p",
+  "Score": 0.331
+}
+

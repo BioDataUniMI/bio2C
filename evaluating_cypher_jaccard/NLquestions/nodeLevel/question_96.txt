@@ -1,0 +1,1 @@
+List phenotypes containing 'carcinoma' in the label and that have at least 7 synonyms with at least one synonym containing the word 'karsinomu'.

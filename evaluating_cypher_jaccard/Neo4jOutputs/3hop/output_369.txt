@@ -1,0 +1,50 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex",
+  "r.Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex",
+  "r.Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex",
+  "r.Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex",
+  "r.Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex",
+  "r.Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

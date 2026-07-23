@@ -1,0 +1,25 @@
+{
+  "Disrupted_GO": "glycolytic process",
+  "MolecularFunction": "glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] (phosphorylating) activity"
+}
+
+{
+  "Disrupted_GO": "glycolytic process",
+  "MolecularFunction": "pyruvate kinase activity"
+}
+
+{
+  "Disrupted_GO": "glycolytic process",
+  "MolecularFunction": "phosphopyruvate hydratase activity"
+}
+
+{
+  "Disrupted_GO": "glycolytic process",
+  "MolecularFunction": "phosphoglycerate mutase activity"
+}
+
+{
+  "Disrupted_GO": "glycolytic process",
+  "MolecularFunction": "phosphoglycerate kinase activity"
+}
+

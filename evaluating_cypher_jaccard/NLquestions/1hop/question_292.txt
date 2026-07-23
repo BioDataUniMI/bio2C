@@ -1,0 +1,1 @@
+Consider GO terms whose label contains the string 'Golgi membrane'. Return the number of direct parts it has.

@@ -1,0 +1,1 @@
+Find cancers that have as a feature the phenotype labeled as 'Wheezing', and identify gene pairs where one gene genetically interacts with another that causes or contributes to these cancers. Return the cancer label, gene1 label, and gene2 label.

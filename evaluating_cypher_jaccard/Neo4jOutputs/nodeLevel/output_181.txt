@@ -1,0 +1,16 @@
+{
+  "GO": "Roundabout signaling pathway involved in axon guidance"
+}
+
+{
+  "GO": "VEGF-activated neuropilin signaling pathway involved in axon guidance"
+}
+
+{
+  "GO": "semaphorin-plexin signaling pathway involved in axon guidance"
+}
+
+{
+  "GO": "semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance"
+}
+

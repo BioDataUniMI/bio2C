@@ -1,0 +1,4 @@
+{
+  "MinSequenceLength": 41
+}
+

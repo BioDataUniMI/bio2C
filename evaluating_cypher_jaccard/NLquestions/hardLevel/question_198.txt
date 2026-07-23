@@ -1,0 +1,1 @@
+What is the average length of the shortest 5 genes that transcribe precursor miRNAs involved in biological processes positively regulated by other biological processes?

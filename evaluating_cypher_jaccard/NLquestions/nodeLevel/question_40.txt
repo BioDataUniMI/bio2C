@@ -1,0 +1,1 @@
+Which diseases mention 'cardiac' in their description and include 'defect' in the label?

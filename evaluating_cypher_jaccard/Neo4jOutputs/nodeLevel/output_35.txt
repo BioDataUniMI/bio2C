@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-4665-3p",
+  "Length": 26
+}
+
+{
+  "miRNA": "hsa-miR-548t-3p",
+  "Length": 25
+}
+
+{
+  "miRNA": "hsa-miR-4728-3p",
+  "Length": 25
+}
+
+{
+  "miRNA": "hsa-miR-4700-3p",
+  "Length": 26
+}
+
+{
+  "miRNA": "hsa-miR-7161-3p",
+  "Length": 28
+}
+

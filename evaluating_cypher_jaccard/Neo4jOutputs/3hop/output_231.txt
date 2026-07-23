@@ -1,0 +1,18 @@
+{
+  "GOterm": "metal ion binding",
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "Gene": "MIR661"
+}
+
+{
+  "GOterm": "cation binding",
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "Gene": "MIR661"
+}
+
+{
+  "GOterm": "zinc ion binding",
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "Gene": "MIR661"
+}
+

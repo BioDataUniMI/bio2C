@@ -1,0 +1,1 @@
+List miRNAs with GO term functions whose labels contain 'chemokine' and that are under-expressed in germ cancers (with 'germ' in the label), along with their parent disease. Return the GO term label, the miRNA label, the cancer label, and the parent disease label.

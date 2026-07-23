@@ -1,0 +1,1 @@
+Which miRNAs are in a homology relationship with precursor miRNAs that cause or contribute to diseases whose descriptions contain 'germ cell tumor' and that have as characteristic the phenotype labeled as 'Childhood onset'? Return the miRNA, the precursor miRNA, the disease, and the phenotype labels.

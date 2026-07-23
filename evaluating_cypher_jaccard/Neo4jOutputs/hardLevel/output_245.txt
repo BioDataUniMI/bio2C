@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-574-5p",
+  "Sequence": "UGAGUGUGUGUGUGUGAGUGUGU",
+  "PercentGU": 40.91
+}
+
+{
+  "miRNA": "hsa-miR-574-5p",
+  "Sequence": "UGAGUGUGUGUGUGUGAGUGUGU",
+  "PercentGU": 40.91
+}
+

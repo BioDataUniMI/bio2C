@@ -1,0 +1,1 @@
+Find the phenotype whose description mention '(retrieval of eggs for fertility treatments)'. Return the label and the synonym of the identified node(s).

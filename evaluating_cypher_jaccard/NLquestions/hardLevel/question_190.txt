@@ -1,0 +1,1 @@
+Retrieve the last 30 characters of the sequence of the longest gene among genes that cause or contribute to diseases characterized by phenotypes that are also phenotypes of other diseases. In case of ties, select the gene alphabetically. Return the gene label and the last 30 characters of its sequence.

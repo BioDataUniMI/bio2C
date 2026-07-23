@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) WHERE d.Label CONTAINS 'carnitine palmitoyl' AND p.Label CONTAINS 'aortic valve' RETURN p.Label AS Phenotype, d.Label AS Disease, bp.Label AS BiologicalProcess, m.Label AS miRNA

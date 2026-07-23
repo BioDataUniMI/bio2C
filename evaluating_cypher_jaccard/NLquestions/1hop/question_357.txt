@@ -1,0 +1,1 @@
+Find GO terms that occur in cellular components containing the word 'presynapse' in their label.

@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "cytoplasmic side of dendritic spine plasma membrane",
+  "cc.Description": "the leaflet of the plasma membrane that faces the cytoplasm and any proteins embedded or anchored..."
+}
+
+{
+  "CellularComponent": "cytoplasmic side of endoplasmic reticulum membrane",
+  "cc.Description": "the side (leaflet) of the plasma membrane that faces the cytoplasm."
+}
+
+{
+  "CellularComponent": "cell outer membrane",
+  "cc.Description": "a lipid bilayer that forms the outermost membrane of the cell envelope; enriched in polysaccharid..."
+}
+
+{
+  "CellularComponent": "cytoplasmic side of transport vesicle membrane",
+  "cc.Description": "the side (leaflet) of the transport vesicle membrane that faces the cytoplasm."
+}
+
+{
+  "CellularComponent": "matrix side of mitochondrial inner membrane",
+  "cc.Description": "the side (leaflet) of the mitochondrial inner membrane that faces the matrix."
+}
+

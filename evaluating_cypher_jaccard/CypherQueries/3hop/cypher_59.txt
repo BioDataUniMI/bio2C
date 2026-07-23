@@ -1,0 +1,1 @@
+MATCH (c:Cardiovascular_disease)-[:disease_shares_features_of]->(d:Disease)-[:has_phenotype]->(p1:Phenotype)-[:has_modifier]->(p2:Phenotype {Label:'abnormal'}) RETURN c.Label AS cardiovascular_disease, d.Label AS related_disease, p1.Label AS phenotype

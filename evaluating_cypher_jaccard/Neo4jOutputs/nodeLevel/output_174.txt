@@ -1,0 +1,56 @@
+{
+  "Gene": "MIR4283-2",
+  "Synonyms": [
+    "microRNA 4283-2",
+    "hsa-mir-4283-2"
+  ],
+  "GenomicCoordinates": [
+    "chr7:63621090-63621169+"
+  ]
+}
+
+{
+  "Gene": "MIR4285",
+  "Synonyms": [
+    "microRNA 4285",
+    "hsa-mir-4285"
+  ],
+  "GenomicCoordinates": [
+    "chr7:102293103-102293187+"
+  ]
+}
+
+{
+  "Gene": "MIR4283-1",
+  "Synonyms": [
+    "microRNA 4283-1",
+    "hsa-mir-4283-1"
+  ],
+  "GenomicCoordinates": [
+    "chr7:56955785-56955864-"
+  ]
+}
+
+{
+  "Gene": "MIR4284",
+  "Synonyms": [
+    "mir-4284",
+    "hsa-mir-4284",
+    "microRNA 4284"
+  ],
+  "GenomicCoordinates": [
+    "chr7:73711317-73711397+"
+  ]
+}
+
+{
+  "Gene": "MIR4648",
+  "Synonyms": [
+    "microRNA 4648",
+    "hsa-mir-4648"
+  ],
+  "GenomicCoordinates": [
+    "chr7:2527074-2527145+"
+  ]
+}
+

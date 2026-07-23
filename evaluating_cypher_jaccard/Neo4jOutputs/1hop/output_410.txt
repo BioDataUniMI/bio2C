@@ -1,0 +1,10 @@
+{
+  "InfectiousDisease": "multibacillary leprosy",
+  "GOterms": "type 2 immune response"
+}
+
+{
+  "InfectiousDisease": "paucibacillary leprosy",
+  "GOterms": "T-helper 1 type immune response"
+}
+

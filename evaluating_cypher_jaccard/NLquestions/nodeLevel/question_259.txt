@@ -1,0 +1,1 @@
+Find the maximum number of genomic coordinates on which any miRNA can be located.

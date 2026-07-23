@@ -1,0 +1,25 @@
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 2",
+  "Description": "an amyotrophic lateral sclerosis that has material basis in mutation in the chchd10 gene on chrom..."
+}
+
+{
+  "Disease": "hereditary spastic paraplegia 46",
+  "Description": "a rare, complex type of hereditary spastic paraplegia characterized by an onset, in infancy or ch..."
+}
+
+{
+  "Disease": "progressive non-fluent aphasia",
+  "Description": "progressive non-fluent aphasia (pnfa) is a form of frontotemporal dementia (ftd), characterized b..."
+}
+
+{
+  "Disease": "Pick disease",
+  "Description": "a rare neurodegenerative disorder leading to dementia. it is characterized by frontotemporal loba..."
+}
+
+{
+  "Disease": "primary progressive freezing gait",
+  "Description": "primary progressive freezing gait is a rare, heterogeneous, progressively incapacitating neurodeg..."
+}
+

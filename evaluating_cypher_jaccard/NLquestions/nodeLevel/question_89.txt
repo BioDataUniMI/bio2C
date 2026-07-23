@@ -1,0 +1,1 @@
+Return diseases whose descriptions mention 'cardiac' and whose names contain 'ring'.

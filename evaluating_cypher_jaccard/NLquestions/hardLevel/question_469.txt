@@ -1,0 +1,1 @@
+For each infectious disease, find miRNAs that are connected to the disease exclusively via the gene BSG (miRNA-> regulates_activity_of -> BSG -> causes_or_contributes_to_condition -> infectious disease). Return the miRNA label, its sequence length, the infetious disease label, and the mediator gene.

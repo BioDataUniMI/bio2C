@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) WHERE SIZE([c IN SPLIT(m.Sequence,'') WHERE c='C']) = 3 AND SIZE([a IN SPLIT(m.Sequence,'') WHERE a='A']) = 3 RETURN DISTINCT m.Label AS miRNA, m.Sequence AS Sequence, n.Label AS Disease

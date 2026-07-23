@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_characteristic]->(p:Phenotype) WHERE d.Label CONTAINS 'hypercalcemia' RETURN p.Label AS Characteristic, d.Label AS Disease, elementId(d)

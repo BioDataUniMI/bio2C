@@ -1,0 +1,1 @@
+Find molecular functions whose labels contain 'kinase binding' that are part of the GO term with elementId '4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73789'. Return the molecular function label and the GO term label.

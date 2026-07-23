@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label =~ '.*[0-9]{2}[AB]$' RETURN DISTINCT nd.Label AS NeurodegenerativeDisease, bp.Label AS DisruptedProcess, m.Label AS miRNA, g.Label AS RegulatedGene

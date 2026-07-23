@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:over_expressed_in]->(id:Infectious_disease)-[:has_phenotype]->(p:Phenotype) WHERE pre.Label CONTAINS 'microRNA hsa-mir-29' RETURN id.Label AS InfectiousDisease, p.Label AS Phenotype

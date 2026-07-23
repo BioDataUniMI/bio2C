@@ -1,0 +1,1 @@
+Return diseases whose label contains 'carcinoma' and whose description mentions 'metastasis'.

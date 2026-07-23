@@ -1,0 +1,51 @@
+{
+  "CellularComponent": "RISC complex",
+  "ExamplemiRNAs": [
+    "Hsa-Let-7-P1c_pre stem-loop",
+    "Hsa-Let-7-P1d_pre stem-loop",
+    "Hsa-Let-7-P2a1_pre stem-loop",
+    "Hsa-Let-7-P2a2_pre stem-loop",
+    "Hsa-Let-7-P2a3_pre stem-loop",
+    "Hsa-Let-7-P2b1_pre stem-loop",
+    "Hsa-Let-7-P2b2_pre stem-loop",
+    "Hsa-Let-7-P2b3_pre stem-loop",
+    "Hsa-Let-7-P2c1_pre stem-loop",
+    "Hsa-Let-7-P2c2_pre stem-loop"
+  ],
+  "miRNACount": 631
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "ExamplemiRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7b-3p",
+    "hsa-let-7e-5p",
+    "hsa-let-7i-3p",
+    "hsa-miR-100-3p",
+    "hsa-miR-101-5p",
+    "hsa-miR-103b",
+    "hsa-miR-106a-3p",
+    "hsa-miR-106a-5p",
+    "hsa-miR-10b-3p"
+  ],
+  "miRNACount": 733
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "ExamplemiRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7b-3p",
+    "hsa-let-7i-3p",
+    "hsa-miR-100-3p",
+    "hsa-miR-103b",
+    "hsa-miR-106a-3p",
+    "hsa-miR-106a-5p",
+    "hsa-miR-122-3p",
+    "hsa-miR-125a-3p",
+    "hsa-miR-125b-2-3p"
+  ],
+  "miRNACount": 158
+}
+

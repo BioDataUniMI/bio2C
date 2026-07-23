@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO {Label:'chromosome'}) RETURN cc.Label AS CellularComponent, go.Label AS GOterm, COUNT(DISTINCT m) AS miRNA_count ORDER BY miRNA_count DESC

@@ -1,0 +1,1 @@
+Find diseases that have material basis in germline mutation in miRNAs with sequence longer than 22 nucleotides and mutations with p-value < 0.01. Return also associated PubMed articles' ID.

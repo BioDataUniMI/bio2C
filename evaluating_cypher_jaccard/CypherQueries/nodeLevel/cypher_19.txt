@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE toLower(g.Label) CONTAINS 'mir1' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates

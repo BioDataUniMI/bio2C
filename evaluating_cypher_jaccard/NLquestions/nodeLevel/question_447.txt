@@ -1,0 +1,1 @@
+List labels of molecular functions whose labels or descriptions contain the string '-gated' and whose descriptions do not start with 'enables'.

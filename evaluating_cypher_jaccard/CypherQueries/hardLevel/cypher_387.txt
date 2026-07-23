@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(d:Autoimmune_disease) WHERE SIZE(g.Sequence) < 3000 AND g.Sequence CONTAINS 'ATCG' RETURN g.Label AS Gene, COLLECT(DISTINCT d.Label) AS Diseases, REDUCE(s='', x IN RANGE(1,100) | s + 'ATCG') AS ATCG_100Times

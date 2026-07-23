@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:results_in_disassembly_of]->(cc:Cellular_component) WHERE NOT bp.Label CONTAINS 'disassembly' AND NOT bp.Description CONTAINS 'disassembly' RETURN bp.Label,bp.Description, cc.Label

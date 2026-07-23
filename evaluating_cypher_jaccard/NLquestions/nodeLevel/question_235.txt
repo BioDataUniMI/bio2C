@@ -1,0 +1,1 @@
+Find cellular components with 'nucleus' in their label and whose description does not include 'membrane'.

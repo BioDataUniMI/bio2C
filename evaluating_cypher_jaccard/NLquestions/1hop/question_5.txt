@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of genes such that: 1) the miRNA is characterized by at least one genomic coordinates' item starting with 'chr1:' or 'chr2:'; 2) the gene is characterized by at least one genomic coordinates' item starting with 'chrY'?

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*\b(m|t|sn)RNA\b.*' RETURN cc.Label AS CellularComponent, cc.ID

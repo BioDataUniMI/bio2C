@@ -1,0 +1,18 @@
+{
+  "m.Sequence": "UCUCUGGAGGGAAGCACUUUCUG",
+  "Sequence_Length": 23,
+  "c.Label": "cellular_component"
+}
+
+{
+  "m.Sequence": "AUAAGACGAACAAAAGGUUUGU",
+  "Sequence_Length": 22,
+  "c.Label": "cellular_component"
+}
+
+{
+  "m.Sequence": "GAAAGCGCUUCCCUUUGCUGGA",
+  "Sequence_Length": 22,
+  "c.Label": "cellular_component"
+}
+

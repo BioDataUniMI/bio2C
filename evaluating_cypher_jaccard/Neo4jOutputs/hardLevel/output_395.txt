@@ -1,0 +1,88 @@
+{
+  "Gene": "CDKN2B-AS1",
+  "Diseases": [
+    "juvenile open angle glaucoma",
+    "nasopharyngeal carcinoma",
+    "nasopharyngeal carcinoma, susceptibility to, 3",
+    "glaucoma 1, open angle, O",
+    "glaucoma 1, open angle, M",
+    "nasopharyngeal carcinoma, susceptibility to, 1",
+    "pigment dispersion syndrome",
+    "glaucoma 1, open angle, A",
+    "nasopharyngeal squamous cell carcinoma",
+    "oral cavity cancer",
+    "nasopharyngeal neoplasm",
+    "open-angle glaucoma",
+    "heart failure",
+    "endometriosis",
+    "congestive heart failure",
+    "B-cell chronic lymphocytic leukemia",
+    "OPTN-related open angle glaucoma",
+    "malignant tumor of nasopharynx",
+    "oral cavity neoplasm"
+  ]
+}
+
+{
+  "Gene": "ST8SIA6-AS1",
+  "Diseases": [
+    "triple-negative breast carcinoma"
+  ]
+}
+
+{
+  "Gene": "ZNF667-AS1",
+  "Diseases": [
+    "uterine cervix carcinoma in situ",
+    "cervical intraepithelial neoplasia",
+    "bile duct neoplasm",
+    "neoplasm of esophagus",
+    "uterine cervix neoplasm",
+    "breast neoplasm",
+    "gastric neoplasm",
+    "cholangiocarcinoma",
+    "carcinoma of esophagus",
+    "soft tissue sarcoma",
+    "epithelioid sarcoma",
+    "hereditary breast carcinoma",
+    "hereditary diffuse gastric adenocarcinoma",
+    "esophageal cancer",
+    "breast cancer",
+    "malignant mesothelioma",
+    "bile duct carcinoma",
+    "cervical adenocarcinoma",
+    "cervical carcinoma",
+    "sarcoma",
+    "mesothelioma",
+    "breast carcinoma",
+    "gastric carcinoma",
+    "anal canal carcinoma in situ",
+    "squamous carcinoma in situ",
+    "intrahepatic cholangiocarcinoma",
+    "bile duct adenocarcinoma",
+    "bile duct cancer",
+    "cervical cancer",
+    "carcinosarcoma",
+    "spindle cell sarcoma",
+    "benign mesothelioma",
+    "gastric cancer"
+  ]
+}
+
+{
+  "Gene": "ZEB2-AS1",
+  "Diseases": [
+    "heart failure",
+    "congestive heart failure"
+  ]
+}
+
+{
+  "Gene": "TTN-AS1",
+  "Diseases": [
+    "paroxysmal atrial fibrillation",
+    "persistent atrial fibrillation",
+    "atrial fibrillation"
+  ]
+}
+

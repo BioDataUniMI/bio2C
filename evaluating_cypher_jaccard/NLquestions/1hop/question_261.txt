@@ -1,0 +1,1 @@
+Return diseases that have as major feature a phenotype with a label mentioning the word 'impairment'.

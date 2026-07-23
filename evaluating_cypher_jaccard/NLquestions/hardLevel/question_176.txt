@@ -1,0 +1,1 @@
+Which miRNAs are in homology relationships with pre-miRNAs whose sequence is more than 25 nucleotides shorter and that contribute to autoimmune diseases? Return the miRNA, the pre-miRNA and the disease labels.

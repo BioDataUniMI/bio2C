@@ -1,0 +1,25 @@
+{
+  "d.Label": "dilated cardiomyopathy 1EE",
+  "d.Description": "any familial isolated dilated cardiomyopathy in which the cause of the disease is a mutation in t..."
+}
+
+{
+  "d.Label": "dilated cardiomyopathy 1A",
+  "d.Description": "familial dilated cardiomyopathy with conduction defect due to lmna mutation is a rare familial di..."
+}
+
+{
+  "d.Label": "dilated cardiomyopathy 1W",
+  "d.Description": "any familial isolated dilated cardiomyopathy in which the cause of the disease is a mutation in t..."
+}
+
+{
+  "d.Label": "dilated cardiomyopathy 1I",
+  "d.Description": "any familial isolated dilated cardiomyopathy in which the cause of the disease is a mutation in t..."
+}
+
+{
+  "d.Label": "dilated cardiomyopathy 1II",
+  "d.Description": "any familial isolated dilated cardiomyopathy in which the cause of the disease is a mutation in t..."
+}
+

@@ -1,0 +1,1 @@
+Find cellular components that have miRNAs as parts. Moreover, these miRNAs are known to develop from a pre-miRNA that is under-expressed in an infectious disease. Finally, retrieve the source providing evidence for this relationship ('under_expressed_in'). Return the cellular component label, miRNA label, pre-miRNA label, infectious disease label, and source.

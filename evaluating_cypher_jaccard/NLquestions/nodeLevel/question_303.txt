@@ -1,0 +1,1 @@
+List all diseases that contain 'covid' in their labels (case-insensitive) but are not classified as infectious diseases.

@@ -1,0 +1,1 @@
+Find the miRNAs whose sequence ends with 'GU' or 'GA' and whose sequence length is greater than 21, that are over expressed in a biological process negatively regulated both by another biological process and by a GO term. Return the label of miRNA and biological process.

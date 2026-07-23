@@ -1,0 +1,25 @@
+{
+  "Cardiovascular_disease": "catecholaminergic polymorphic ventricular tachycardia 3",
+  "Description": "any catecholaminergic polymorphic ventricular tachycardia in which the cause of the disease is a ..."
+}
+
+{
+  "Cardiovascular_disease": "catecholaminergic polymorphic ventricular tachycardia 1",
+  "Description": "polymorphic ventricular tachycardia induced by adrenergic stress. it is inherited in an autosomal..."
+}
+
+{
+  "Cardiovascular_disease": "catecholaminergic polymorphic ventricular tachycardia 5",
+  "Description": "any catecholaminergic polymorphic ventricular tachycardia in which the cause of the disease is a ..."
+}
+
+{
+  "Cardiovascular_disease": "catecholaminergic polymorphic ventricular tachycardia 4",
+  "Description": "any catecholaminergic polymorphic ventricular tachycardia in which the cause of the disease is a ..."
+}
+
+{
+  "Cardiovascular_disease": "familial sick sinus syndrome",
+  "Description": "sick sinus syndrome is a rare cardiac rhythm disease, usually of the elderly, characterized by el..."
+}
+

@@ -1,0 +1,1 @@
+Find distinct labels of cellular components that are adjacent to another cellular component.

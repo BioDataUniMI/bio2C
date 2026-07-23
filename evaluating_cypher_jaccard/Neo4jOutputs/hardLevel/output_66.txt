@@ -1,0 +1,40 @@
+{
+  "Phenotype": "Burkitt lymphoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNAs": [
+    "hsa-let-7a-3p"
+  ]
+}
+
+{
+  "Phenotype": "Chondrosarcoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNAs": [
+    "hsa-let-7a-3p"
+  ]
+}
+
+{
+  "Phenotype": "Melanoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNAs": [
+    "hsa-let-7a-3p"
+  ]
+}
+
+{
+  "Phenotype": "Osteosarcoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNAs": [
+    "hsa-let-7a-3p"
+  ]
+}
+
+{
+  "Phenotype": "Burkitt lymphoma",
+  "Cancer": "adenoma",
+  "miRNAs": [
+    "hsa-let-7a-3p"
+  ]
+}
+

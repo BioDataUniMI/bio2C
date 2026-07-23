@@ -1,0 +1,8 @@
+{
+  "GO_term": "microvesicle"
+}
+
+{
+  "GO_term": "extracellular exosome"
+}
+

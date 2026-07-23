@@ -1,0 +1,1 @@
+Identify GO terms of which the cellular components are part, in which biological processes (1) involving the keyword 'RNA' in their label occur and (2) in which miRNAs participate. Return the miRNA label, biological process label, cellular component label, and GO term label.

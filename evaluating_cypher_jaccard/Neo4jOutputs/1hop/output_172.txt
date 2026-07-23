@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-372-3p",
+  "CellularComponent": "cyclin A1-CDK2 complex"
+}
+

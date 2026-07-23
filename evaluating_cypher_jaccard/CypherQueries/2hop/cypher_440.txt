@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(cv:Cardiovascular_disease)-[:disease_has_feature]->(p:Phenotype) WHERE SIZE(m.Sequence) >= 21 RETURN m.Label AS miRNA, cv.Label AS Disease, p.Label AS Phenotype

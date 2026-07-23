@@ -1,0 +1,1 @@
+Which cancers are realized in biological processes that involve miRNA participants? Return the label of cancer and the number of miRNAs.

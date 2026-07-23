@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-550a-3p",
+  "ParentGO": "cytoskeleton",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "actin filament uncapping"
+}
+
+{
+  "miRNA": "hsa-miR-550a-3p",
+  "ParentGO": "cytoskeleton",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "microfilament motor activity"
+}
+
+{
+  "miRNA": "hsa-miR-644a",
+  "ParentGO": "presynapse",
+  "CellularComponent": "synaptic vesicle",
+  "ParticipatingGO": "synaptic vesicle endosomal processing"
+}
+
+{
+  "miRNA": "hsa-miR-200a-5p",
+  "ParentGO": "presynapse",
+  "CellularComponent": "synaptic vesicle",
+  "ParticipatingGO": "synaptic vesicle endosomal processing"
+}
+
+{
+  "miRNA": "hsa-miR-644a",
+  "ParentGO": "presynapse",
+  "CellularComponent": "synaptic vesicle",
+  "ParticipatingGO": "synaptic vesicle tethering involved in synaptic vesicle exocytosis"
+}
+

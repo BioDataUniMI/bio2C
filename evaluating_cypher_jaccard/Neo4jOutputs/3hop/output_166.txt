@@ -1,0 +1,20 @@
+{
+  "CardiovascularDisease": "glycogen storage disease due to glycogen branching enzyme deficiency"
+}
+
+{
+  "CardiovascularDisease": "glycogen storage disease II"
+}
+
+{
+  "CardiovascularDisease": "glycogen storage disease due to acid maltase deficiency, infantile onset"
+}
+
+{
+  "CardiovascularDisease": "glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form"
+}
+
+{
+  "CardiovascularDisease": "glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic ..."
+}
+

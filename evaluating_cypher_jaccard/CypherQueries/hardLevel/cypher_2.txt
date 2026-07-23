@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease {Label:'adult glioblastoma'}) WHERE r.FDR < 0.05 AND ANY(mth IN r.Method WHERE toLower(mth) CONTAINS 'northern') RETURN d.Label AS Disease, COLLECT(m.Label) AS miRNAs, COLLECT(r.FDR) AS FDRs

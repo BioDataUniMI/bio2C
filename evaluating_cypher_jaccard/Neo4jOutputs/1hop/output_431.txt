@@ -1,0 +1,47 @@
+{
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)",
+  "Disease": "myasthenia gravis",
+  "Sources": [
+    "HMDD",
+    "RNADisease"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-18b precursor",
+  "Disease": "multiple sclerosis",
+  "Sources": [
+    "miRNet",
+    "miR2Disease",
+    "PhenomiR"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "Disease": "multiple sclerosis",
+  "Sources": [
+    "HMDD",
+    "RNADisease"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "Disease": "multiple sclerosis",
+  "Sources": [
+    "HMDD",
+    "RNADisease"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-186 precursor",
+  "Disease": "multiple sclerosis",
+  "Sources": [
+    "miRNet",
+    "miR2Disease",
+    "PhenomiR"
+  ]
+}
+

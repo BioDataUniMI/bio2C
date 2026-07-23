@@ -1,0 +1,1 @@
+MATCH (m:miRNA )-[:transcribed_from]->(g:Gene) WHERE SIZE(g.Sequence) > 150 RETURN m.Label AS miRNA, SIZE(g.Sequence) AS GeneSequenceLength

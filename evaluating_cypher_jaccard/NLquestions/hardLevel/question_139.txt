@@ -1,0 +1,1 @@
+Find the miRNA with longest sequence that causes or contributes to a biological process and count the number of 'G' nucleotides in its sequence. Return the miRNA label, count of G, and the associated biological process label.

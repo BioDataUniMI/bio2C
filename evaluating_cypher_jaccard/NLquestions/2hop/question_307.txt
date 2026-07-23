@@ -1,0 +1,1 @@
+Retrieve the sequence of all miRNAs that regulate genes causing or contributing to the disease labeled as 'sensory ataxia', along with the miRNA label and target gene label.

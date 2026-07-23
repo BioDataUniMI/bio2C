@@ -1,0 +1,45 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-205 precursor",
+  "Coordinates": [
+    "chr1:209432133-209432242+"
+  ],
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-215 precursor",
+  "Coordinates": [
+    "chr1:220117853-220117962-"
+  ],
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-214 precursor",
+  "Coordinates": [
+    "chr1:172138798-172138907-"
+  ],
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-1)",
+  "Coordinates": [
+    "chr1:198859044-198859153-"
+  ],
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "Coordinates": [
+    "chr15:101960459-101960596-",
+    "chrCHR_HG2499_PATCH:66596-66733-",
+    "chr1:30366-30503+",
+    "chr19:71973-72110+",
+    "chrHG2499_PATCH:66596-66733-",
+    "chr9:30144-30281+"
+  ],
+  "Length": 138
+}
+

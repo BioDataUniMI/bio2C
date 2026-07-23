@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE (cc.Label CONTAINS 'leaflet' OR cc.Description CONTAINS 'leaflet') AND NOT (cc.Label CONTAINS 'lumen' OR cc.Description CONTAINS 'lumen') RETURN cc.Label AS CellularComponent, cc.Description

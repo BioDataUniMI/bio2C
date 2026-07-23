@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE m.Sequence CONTAINS 'CCCCCCC' AND m.Sequence CONTAINS 'GGG' RETURN m.Label, g.Label

@@ -1,0 +1,1 @@
+Return all the available properties for the biological process with ID 'GO:0090211'.

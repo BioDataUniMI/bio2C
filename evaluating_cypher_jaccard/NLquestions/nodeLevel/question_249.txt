@@ -1,0 +1,1 @@
+Find miRNAs whose sequences contain the motif 'GGGGGGGG' (8 consecutive Gs). Return their labels and sequences.

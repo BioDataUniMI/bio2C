@@ -1,0 +1,1 @@
+Count the number of distinct phenotypes that are characteristic of GO terms in which miRNAs participate in exactly ten GO term.

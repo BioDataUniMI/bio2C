@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "SAPHO syndrome"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "osteoarthritis, spine"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "psoriatic arthritis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "serum sickness"
+}
+

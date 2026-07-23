@@ -1,0 +1,41 @@
+{
+  "PROPERTIES(ph)": {
+    "Description": "difficult or labored breathing. dyspnea is a subjective feeling only the patient can rate, e.g., ...",
+    "Synonym": [
+      "呼吸困難",
+      "呼吸困难",
+      "Dispne",
+      "Dispnea",
+      "Dyspnée",
+      "Dyspnea",
+      "Disnea",
+      "Dyspnoe"
+    ],
+    "ID": "HP:0002094",
+    "Label": "Dyspnea",
+    "URI": "http://purl.obolibrary.org/obo/HP_0002094"
+  },
+  "CardiovascularDisease": "congestive heart failure",
+  "miRNA": "hsa-miR-30b-5p"
+}
+
+{
+  "PROPERTIES(ph)": {
+    "Description": "irreversible damage to heart tissue (myocardium) due to lack of oxygen after a heart attack (myoc...",
+    "Synonym": [
+      "心肌坏死",
+      "Nekróza myokardu",
+      "Myocardiale necrose",
+      "Nécrose myocardique",
+      "Miyokardiyal nekroz",
+      "Necrosis miocárdica",
+      "心筋壊死"
+    ],
+    "ID": "HP:0001700",
+    "Label": "Myocardial necrosis",
+    "URI": "http://purl.obolibrary.org/obo/HP_0001700"
+  },
+  "CardiovascularDisease": "myocardial infarction",
+  "miRNA": "hsa-miR-30b-5p"
+}
+

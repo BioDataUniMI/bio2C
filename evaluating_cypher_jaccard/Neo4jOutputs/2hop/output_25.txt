@@ -1,0 +1,30 @@
+{
+  "GO": "regulatory ncRNA-mediated gene silencing",
+  "CellularComponent": "SMAD protein complex",
+  "miRNAs": 3
+}
+
+{
+  "GO": "regulatory ncRNA-mediated gene silencing",
+  "CellularComponent": "heteromeric SMAD protein complex",
+  "miRNAs": 2
+}
+
+{
+  "GO": "negative regulation of miRNA-mediated gene silencing",
+  "CellularComponent": "SMAD protein complex",
+  "miRNAs": 1
+}
+
+{
+  "GO": "positive regulation of miRNA-mediated gene silencing",
+  "CellularComponent": "SMAD protein complex",
+  "miRNAs": 1
+}
+
+{
+  "GO": "regulation of miRNA-mediated gene silencing",
+  "CellularComponent": "SMAD protein complex",
+  "miRNAs": 1
+}
+

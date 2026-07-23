@@ -1,0 +1,24 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDK1"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDK1"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A"
+}
+

@@ -1,0 +1,30 @@
+{
+  "Gene": "SMO",
+  "miRNA": "hsa-miR-326",
+  "Disease": "benign neoplasm of meninges"
+}
+
+{
+  "Gene": "SMO",
+  "miRNA": "hsa-miR-326",
+  "Disease": "benign neoplasm of brain"
+}
+
+{
+  "Gene": "CDKN1A",
+  "miRNA": "hsa-miR-572",
+  "Disease": "lung benign neoplasm"
+}
+
+{
+  "Gene": "VEGFA",
+  "miRNA": "hsa-miR-718",
+  "Disease": "benign neoplasm of meninges"
+}
+
+{
+  "Gene": "VEGFA",
+  "miRNA": "hsa-miR-718",
+  "Disease": "benign neoplasm of brain"
+}
+

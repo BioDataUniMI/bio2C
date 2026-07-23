@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease) WHERE ad.Label CONTAINS 'anemia' AND ad.Description CONTAINS 'aiha' RETURN ad.Label AS DiseaseLabel, ad.Description AS Description

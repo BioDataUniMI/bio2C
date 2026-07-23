@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'epilepsy' AND d.Label CONTAINS 'dog' RETURN d.Label AS DiseaseLabel

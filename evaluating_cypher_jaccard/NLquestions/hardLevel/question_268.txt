@@ -1,0 +1,1 @@
+Find the top 5 miRNAs that are under-expressed in the highest number of diseases. Return the miRNA label and the number of associated diseases, ordered by the number of associated diseases in descending order and breaking ties by miRNA label in ascending alphabetical order.

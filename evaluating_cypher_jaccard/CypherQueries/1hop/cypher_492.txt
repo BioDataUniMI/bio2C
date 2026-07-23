@@ -1,0 +1,1 @@
+MATCH (m1:miRNA {Label:'hsa-miR-320d'})-[r:directly_regulates_activity_of]->(m2:miRNA) RETURN m1.Label, m2.Label, PROPERTIES(r)

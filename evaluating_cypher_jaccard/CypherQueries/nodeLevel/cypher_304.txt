@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE toLower(d.Label) CONTAINS 'cancer' AND NOT d:Cancer RETURN d.Label AS DiseaseLabel

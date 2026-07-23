@@ -1,0 +1,20 @@
+{
+  "pm.Label": "microRNA hsa-mir-378f precursor"
+}
+
+{
+  "pm.Label": "microRNA hsa-mir-378h precursor"
+}
+
+{
+  "pm.Label": "microRNA hsa-mir-1273h precursor"
+}
+
+{
+  "pm.Label": "microRNA hsa-mir-548ah precursor"
+}
+
+{
+  "pm.Label": "microRNA hsa-mir-518f precursor"
+}
+

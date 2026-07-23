@@ -1,0 +1,1 @@
+Identify cancers containing the word 'hepato' in their label and that have material somatic mutation in miRNAs whose label ends with '122-5p', and specify the cellular components where these miRNAs are located. Return the label of the: cancer, miRNA, and cellular component.

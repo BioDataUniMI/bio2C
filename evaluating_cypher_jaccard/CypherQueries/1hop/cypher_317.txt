@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT (m)-[:location_of]->(:Cellular_component) AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX:5') AND m.Sequence ENDS WITH 'A' RETURN m.Label, m.Genomic_coordinates, m.Sequence

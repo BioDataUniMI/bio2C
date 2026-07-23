@@ -1,0 +1,48 @@
+{
+  "AutoimmuneNeurodegenerativeDisease": "progressive relapsing multiple sclerosis",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-155 precursor"
+  ]
+}
+
+{
+  "AutoimmuneNeurodegenerativeDisease": "relapsing-remitting multiple sclerosis",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-146a precursor",
+    "microRNA hsa-mir-155 precursor",
+    "microRNA hsa-mir-132 precursor"
+  ]
+}
+
+{
+  "AutoimmuneNeurodegenerativeDisease": "adrenoleukodystrophy",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-155 precursor",
+    "microRNA hsa-mir-378b precursor"
+  ]
+}
+
+{
+  "AutoimmuneNeurodegenerativeDisease": "Aicardi-Goutieres syndrome 5",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-671 precursor",
+    "microRNA hsa-mir-146a precursor",
+    "microRNA hsa-mir-429 precursor",
+    "microRNA hsa-mir-1292 precursor",
+    "microRNA hsa-mir-384 precursor",
+    "microRNA hsa-mir-10b precursor",
+    "microRNA hsa-mir-130a precursor",
+    "microRNA hsa-mir-23b precursor",
+    "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)",
+    "microRNA hsa-mir-21 precursor"
+  ]
+}
+
+{
+  "AutoimmuneNeurodegenerativeDisease": "X-linked cerebral adrenoleukodystrophy",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-155 precursor",
+    "microRNA hsa-mir-378b precursor"
+  ]
+}
+

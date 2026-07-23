@@ -1,0 +1,5 @@
+{
+  "Label": "advanced glycation end-product receptor activity",
+  "DescriptionSnippet": "combining with advanced glycation end-products and transmitting the signal to "
+}
+

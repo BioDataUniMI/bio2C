@@ -1,0 +1,1 @@
+Find all subclass paths between genes that contain more than 3 genes (i.e., paths of length 4 or more). Return the list of gene labels along each path and the number of genes in the path, avoiding duplicate paths by considering only paths where the first gene label is alphabetically smaller than the last.

@@ -1,0 +1,20 @@
+{
+  "miRNA": "microRNA hsa-mir-384 precursor",
+  "miRNA_sequence": "UGUUAAAUCAGGAAUUUUAAACAAUUCCUAGACAAUAUGUAUAAUGUUCAUAAGUCAUUCCUAGAAAUUGUUCAUAAUGCCUGUAACA",
+  "Sequence_length": 88,
+  "Genomic_coordinates": [
+    "chrX:76919273-76919360-"
+  ],
+  "GO_term": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-98 precursor",
+  "miRNA_sequence": "AGGAUUCUGCUCAUGCCAGGGUGAGGUAGUAAGUUGUAUUGUUGUGGGGUAGGGAUAUUAGGCCCCAAUUAGAAGAUAACUAUACAACUUACUACUU...",
+  "Sequence_length": 119,
+  "Genomic_coordinates": [
+    "chrX:53556223-53556341-"
+  ],
+  "GO_term": "inflammatory response"
+}
+

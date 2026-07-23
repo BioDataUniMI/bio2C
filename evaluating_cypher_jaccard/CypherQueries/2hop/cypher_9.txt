@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:enables]->(go:GO)-[:part_of]->(bp:Biological_process) RETURN m.Label AS miRNA, go.Label AS GOTerm, bp.Label AS ParentProcess

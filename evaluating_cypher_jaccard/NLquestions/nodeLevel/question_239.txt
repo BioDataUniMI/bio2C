@@ -1,0 +1,1 @@
+List pre-miRNAs with sequences longer than 100 nucleotides whose labels do not end with 'precursor'.

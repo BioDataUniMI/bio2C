@@ -1,0 +1,1 @@
+Find miRNAs that do not contain 'C' in the nucleotide sequence and that are under-expressed in infectious diseases.

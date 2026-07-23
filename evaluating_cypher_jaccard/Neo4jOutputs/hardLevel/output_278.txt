@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Disease": "rheumatoid arthritis",
+  "Second_half_sequence": "UGUUUUCCUCCGGUUCUCAGGGCUCCACCUCUUUCGGGCCGUAGAGCCAGGGCUGGUGC"
+}
+

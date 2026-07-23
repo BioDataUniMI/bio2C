@@ -1,0 +1,1 @@
+Which phenotypes characterize GO terms that are part of the cellular component labeled as 'cytoplasm'?

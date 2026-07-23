@@ -1,0 +1,10 @@
+{
+  "miRNA": "hsa-miR-1291",
+  "Gene": "SLC2A1"
+}
+
+{
+  "miRNA": "hsa-miR-22-3p",
+  "Gene": "SLC2A1"
+}
+

@@ -1,0 +1,25 @@
+{
+  "GOTerm": "ribonucleoprotein complex assembly",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "protein processing",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "protein kinase CK2 complex",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "heteromeric SMAD protein complex",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "protein-RNA complex organization",
+  "SynonymCount": 1
+}
+

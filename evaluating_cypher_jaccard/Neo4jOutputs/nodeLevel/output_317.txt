@@ -1,0 +1,5 @@
+{
+  "d.Label": "fatal infantile hypertonic myofibrillar myopathy",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0013472"
+}
+

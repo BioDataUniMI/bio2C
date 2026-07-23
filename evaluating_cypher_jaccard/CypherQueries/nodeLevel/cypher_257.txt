@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

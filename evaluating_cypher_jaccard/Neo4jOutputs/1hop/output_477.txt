@@ -1,0 +1,10 @@
+{
+  "cd.Label": "Chagas cardiomyopathy",
+  "id.Label": "Chagas disease"
+}
+
+{
+  "cd.Label": "viral dilated cardiomyopathy",
+  "id.Label": "viral infectious disease"
+}
+

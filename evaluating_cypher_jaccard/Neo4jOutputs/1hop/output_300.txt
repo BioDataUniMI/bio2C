@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Hemangiomatosis",
+  "BroaderPhenotype": "Pulmonary capillary hemangiomatosis"
+}
+
+{
+  "Phenotype": "Hemangioma",
+  "BroaderPhenotype": "Intrathoracic hemangioma"
+}
+
+{
+  "Phenotype": "Hemangioma",
+  "BroaderPhenotype": "Capillary hemangioma"
+}
+
+{
+  "Phenotype": "Hemangioma",
+  "BroaderPhenotype": "Facial hemangioma"
+}
+
+{
+  "Phenotype": "Facial hemangioma",
+  "BroaderPhenotype": "Facial capillary hemangioma"
+}
+

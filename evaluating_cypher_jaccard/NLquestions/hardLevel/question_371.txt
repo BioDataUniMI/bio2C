@@ -1,0 +1,1 @@
+Find the miRNA(s) that are mapped to the maximum number of genomic coordinates. Return their labels, genomic coordinates, and the number of genomic coordinates they are mapped to.

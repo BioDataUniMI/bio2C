@@ -1,0 +1,1 @@
+List GO terms whose labels contain 'synapse-associated' and whose IDs start with 'GO:01'.

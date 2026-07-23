@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'parkinson' AND n.Description IS NOT NULL RETURN n.Label AS DiseaseLabel, n.Description

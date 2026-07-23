@@ -1,0 +1,6 @@
+{
+  "CancerLabel": "extra-adrenal sympathetic paraganglioma",
+  "CancerDescription": "a benign or malignant sympathetic paraganglioma arising from paraganglia outside the adrenal glan...",
+  "GO_Term": "catecholamine secretion"
+}
+

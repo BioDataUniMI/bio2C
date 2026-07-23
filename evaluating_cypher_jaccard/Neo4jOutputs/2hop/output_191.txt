@@ -1,0 +1,5 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1843 precursor",
+  "CellularComponent": "box H/ACA scaRNP complex"
+}
+

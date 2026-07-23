@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(:Autoimmune_disease) RETURN AVG(SIZE(m.Sequence)) AS Average_Sequence_Length

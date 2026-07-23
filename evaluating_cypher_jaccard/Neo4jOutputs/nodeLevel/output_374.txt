@@ -1,0 +1,18 @@
+{
+  "DiseaseLabeltuberculosis": "pericardial tuberculosis",
+  "labels(i)": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+
+{
+  "DiseaseLabeltuberculosis": "cardiac tuberculosis",
+  "labels(i)": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+

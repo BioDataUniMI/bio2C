@@ -1,0 +1,1 @@
+Find cardiovascular diseases that cause disruption of GO terms having as characteristic the phenotypes of other diseases. Return labels of the cardiovascular disease, GO terms, phenotypes, and diseases.

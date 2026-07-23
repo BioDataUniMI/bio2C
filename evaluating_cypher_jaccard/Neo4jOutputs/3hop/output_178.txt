@@ -1,0 +1,21 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-29c precursor",
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Ventricular fibrillation",
+  "GOterm": "cardiac muscle contraction"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Ventricular fibrillation",
+  "GOterm": "cardiac muscle contraction"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Ventricular fibrillation",
+  "GOterm": "cardiac muscle contraction"
+}
+

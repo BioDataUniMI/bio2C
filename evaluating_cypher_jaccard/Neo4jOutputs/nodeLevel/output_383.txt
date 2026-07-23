@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "frontotemporal dementia with motor neuron disease"
+}
+
+{
+  "DiseaseLabel": "inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+}
+
+{
+  "DiseaseLabel": "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2"
+}
+
+{
+  "DiseaseLabel": "semantic dementia"
+}
+
+{
+  "DiseaseLabel": "frontotemporal dementia"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Synonym IS NOT NULL RETURN g.Label AS GeneLabel, SIZE(g.Synonym) AS SynCount ORDER BY SynCount DESC, GeneLabel ASC LIMIT 5

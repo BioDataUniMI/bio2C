@@ -1,0 +1,71 @@
+{
+  "Disease": "hypertensive disorder",
+  "Phenotype": "Hypomagnesiuria",
+  "PhenotypeSynonyms": [
+    "低マグネシウム尿",
+    "Hipomagnezüri",
+    "Hipomagnesiuria",
+    "Hypomagnésiurie",
+    "Hypomagnesiurie",
+    "低镁尿症"
+  ]
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "Phenotype": "Fatigue",
+  "PhenotypeSynonyms": [
+    "Únava",
+    "Vermoeidheid",
+    "Yorgunluk",
+    "Fatigue",
+    "Affaticamento",
+    "疲乏",
+    "Müdigkeit",
+    "疲労",
+    "Fatiga"
+  ]
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "Phenotype": "Lipoma",
+  "PhenotypeSynonyms": [
+    "Lipoom",
+    "Fettgeschwulst",
+    "脂肪腫",
+    "Lipoma",
+    "Lipom",
+    "脂肪瘤",
+    "Lipome"
+  ]
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "Phenotype": "Renal hypophosphatemia",
+  "PhenotypeSynonyms": [
+    "Renale hypofosfatemie",
+    "Renal hipofosfatemi",
+    "腎性低リン血症",
+    "Hypophosphatémie rénale",
+    "Renální hypofosfatémie",
+    "Hipofosfatemia renal",
+    "肾性低磷血症"
+  ]
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "Phenotype": "Peptic ulcer",
+  "PhenotypeSynonyms": [
+    "Peptik ülser",
+    "消化性溃疡",
+    "Peptický vřed",
+    "Úlcera péptica",
+    "Ulcère peptique",
+    "Ulcus pepticum",
+    "消化性潰瘍"
+  ]
+}
+

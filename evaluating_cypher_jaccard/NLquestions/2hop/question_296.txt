@@ -1,0 +1,1 @@
+Identify cardiovascular diseases that are caused or contributed to by the gene 'XDH' and the miRNAs that regulate this gene. Return the miRNA and disease labels.

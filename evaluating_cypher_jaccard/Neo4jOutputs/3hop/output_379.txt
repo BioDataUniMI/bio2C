@@ -1,0 +1,50 @@
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-762 precursor",
+  "miRNA": "hsa-miR-762",
+  "DevelopmentSource": [
+    "miRBase"
+  ]
+}
+
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-3p",
+  "DevelopmentSource": [
+    "miRBase"
+  ]
+}
+
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-5p",
+  "DevelopmentSource": [
+    "miRBase"
+  ]
+}
+
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "miRNA": "hsa-miR-455-3p",
+  "DevelopmentSource": [
+    "miRBase"
+  ]
+}
+
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "miRNA": "hsa-miR-455-5p",
+  "DevelopmentSource": [
+    "miRBase"
+  ]
+}
+

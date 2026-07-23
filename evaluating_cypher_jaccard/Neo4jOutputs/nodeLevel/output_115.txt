@@ -1,0 +1,25 @@
+{
+  "GOTerm": "IgD B cell receptor complex",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "cellular_component",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "cell nucleus",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "intracellular membraneless organelle",
+  "SynonymCount": 1
+}
+
+{
+  "GOTerm": "IgA B cell receptor complex",
+  "SynonymCount": 1
+}
+

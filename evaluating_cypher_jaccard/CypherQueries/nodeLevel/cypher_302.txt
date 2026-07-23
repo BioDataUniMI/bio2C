@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label CONTAINS 'coronavirus' AND g.Sequence IS NULL RETURN g.Label AS GeneLabel

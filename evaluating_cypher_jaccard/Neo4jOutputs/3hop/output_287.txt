@@ -1,0 +1,14 @@
+{
+  "Disease": "cystic echinococcosis",
+  "Gene": "ADAMTS4",
+  "miRNA": "hsa-miR-126-5p",
+  "Phenotype": "Pulmonary sequestration"
+}
+
+{
+  "Disease": "prostate cancer",
+  "Gene": "ADAMTS4",
+  "miRNA": "hsa-miR-126-5p",
+  "Phenotype": "Pulmonary sequestration"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'spastic paraplegia 90A' AND p.Label CONTAINS 'Upper limb pain' RETURN d.Label AS Disease, nd.Label AS NeurodegenerativeSuperclass, p.Label AS SuperclassPhenotype

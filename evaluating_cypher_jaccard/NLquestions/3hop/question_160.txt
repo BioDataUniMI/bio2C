@@ -1,0 +1,1 @@
+Find pre-miRNAs that give rise to (develops into) miRNAs which interact with other miRNAs that regulate the activity of the gene 'TPTE2P2'. Return the label of the pre-miRNAs and the miRNAs.

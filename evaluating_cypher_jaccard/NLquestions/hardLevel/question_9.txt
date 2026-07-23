@@ -1,0 +1,1 @@
+Identify the top three diseases with the highest number of supporting PubMed publications for pre-miRNA over-expression. Return the disease label and the total number of associated PubMed publications, ordering alphabetically by disease in case of ties.

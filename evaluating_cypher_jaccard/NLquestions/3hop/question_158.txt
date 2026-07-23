@@ -1,0 +1,1 @@
+Count the number of different miRNAs that are expressed by neurodegenerative diseases, where those diseases are superclasses of other diseases, and the child disease has at least one phenotype. Return the total distinct count of these miRNAs.

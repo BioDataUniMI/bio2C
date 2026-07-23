@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "mitochondrial membrane",
+  "Description": "either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope."
+}
+
+{
+  "CellularComponent": "mitochondrial inner membrane",
+  "Description": "the inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. it is highly folded to..."
+}
+
+{
+  "CellularComponent": "host cell mitochondrial inner membrane",
+  "Description": "the inner, i.e. lumen-facing, lipid bilayer of the host cell mitochondrial envelope. it is highly..."
+}
+
+{
+  "CellularComponent": "extrinsic component of matrix side of mitochondrial inner membrane",
+  "Description": "the component of the matrix side of the mitochondrial inner membrane consisting of gene products ..."
+}
+
+{
+  "CellularComponent": "matrix side of mitochondrial inner membrane",
+  "Description": "the side (leaflet) of the mitochondrial inner membrane that faces the matrix."
+}
+

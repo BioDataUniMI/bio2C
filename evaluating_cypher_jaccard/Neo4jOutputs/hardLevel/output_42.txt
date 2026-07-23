@@ -1,0 +1,6 @@
+{
+  "TargetGene": "WNT7A",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "SourceGene": "MIR4723"
+}
+

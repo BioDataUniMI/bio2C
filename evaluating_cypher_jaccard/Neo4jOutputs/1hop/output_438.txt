@@ -1,0 +1,25 @@
+{
+  "Process": "endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistron...",
+  "ParentProcess": "maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+}
+
+{
+  "Process": "endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistron...",
+  "ParentProcess": "maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+}
+
+{
+  "Process": "cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S r...",
+  "ParentProcess": "maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+}
+
+{
+  "Process": "cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S r...",
+  "ParentProcess": "maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+}
+
+{
+  "Process": "endonucleolytic cleavage between SSU-rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA,...",
+  "ParentProcess": "maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA,5S)"
+}
+

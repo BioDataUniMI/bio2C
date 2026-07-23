@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:phenotype_of]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:has_phenotype]->(p2:Phenotype) WHERE p1 = p2 WITH nd, COUNT(DISTINCT p1) AS SharedPhenotypeCount RETURN nd.Label AS NeurodegenerativeDisease, SharedPhenotypeCount ORDER BY SharedPhenotypeCount DESC LIMIT 10

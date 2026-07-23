@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:has_function]->(bp:Biological_process)-[:function_of]->(m:miRNA{Label:'microRNA hsa-mir-1288 precursor'}) RETURN g.Label AS gene, bp.Label AS biological_process

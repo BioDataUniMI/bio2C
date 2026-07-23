@@ -1,0 +1,1 @@
+Find all biological processes that start with a GO term and end with a GO term. Return the label of the biological process, the GO term it starts with, and the GO term it ends with.

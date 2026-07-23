@@ -1,0 +1,24 @@
+{
+  "Disease": "blood coagulation disease",
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-27a-3p"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-216a-5p"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-550a-3p"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-29b-3p"
+}
+

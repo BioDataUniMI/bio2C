@@ -1,0 +1,1 @@
+Which genes cause or contribute to phenotypes that are subclasses of the phenotype labeled 'Respiratory insufficiency' and that are phenotypes of the cancer labeled 'ovarian Brenner tumor'? Return the labels of: gene, phenotype and parent phenotype.

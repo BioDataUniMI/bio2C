@@ -1,0 +1,1 @@
+For molecular function-to-molecular function regulation relationships, return whether the regulation is direct or indirect, the specific relationship type, and the total number of relationships for each category, sorted first by regulation scope in ascending alphabetical order and then by total number of relationships in descending order.

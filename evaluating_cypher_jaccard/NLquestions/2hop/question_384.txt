@@ -1,0 +1,1 @@
+Identify miRNAs expressed by the cancer labeled as 'benign muscle neoplasm' when the latter has other diseases as superclass. Return the child disease and miRNA labels.

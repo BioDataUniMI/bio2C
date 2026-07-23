@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:causes_or_contributes_to_condition]->(c:Cancer) WHERE SIZE(SPLIT(g.Sequence, 'A')) - 1 = SIZE(SPLIT(g.Sequence, 'G')) - 1 AND SIZE(SPLIT(g.Sequence, 'A')) - 1 = SIZE(SPLIT(g.Sequence, 'C')) - 1 RETURN DISTINCT g.Label AS Gene, c.Label AS Cancer

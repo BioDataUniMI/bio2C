@@ -1,0 +1,30 @@
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "COVID-19"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "viral myocarditis"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "tuberculosis"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "AIDS"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "pyelonephritis"
+}
+

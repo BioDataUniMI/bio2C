@@ -1,0 +1,1 @@
+Find the genomic coordinate(s) of miRNAs that are under-expressed in the 'rheumatoid arthritis' autoimmune disease. Return the miRNA label and genomic coordinates.

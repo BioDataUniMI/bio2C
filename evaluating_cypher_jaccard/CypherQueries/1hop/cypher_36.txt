@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) RETURN AVG(SIZE(m.Sequence)) AS average_miRNA_length

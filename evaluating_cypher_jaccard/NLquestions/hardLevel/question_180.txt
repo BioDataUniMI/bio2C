@@ -1,0 +1,1 @@
+Retrieve the last 30% of the precursor miRNA sequence for miRNAs in homology with precursor miRNAs that cause or contribute to the disease labeled as 'hemophilia A', along with the molecular functions disrupted by the disease. Return the miRNA label, the last 30% of the precursor miRNA sequence, and the list of disrupted molecular function descriptions.

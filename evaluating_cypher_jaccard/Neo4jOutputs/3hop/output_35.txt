@@ -1,0 +1,6 @@
+{
+  "gene": "MIR744",
+  "precursor_miRNA": "microRNA hsa-mir-744 precursor",
+  "biological_process": "inflammatory response"
+}
+

@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-892c-3p",
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-452-5p",
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-760",
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-103a-3p",
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-138-5p",
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+

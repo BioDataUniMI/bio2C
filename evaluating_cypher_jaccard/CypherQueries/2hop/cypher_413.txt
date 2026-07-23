@@ -1,0 +1,1 @@
+MATCH (d:Disease{Label:'coenzyme Q10 deficiency'})-[:disease_caused_by_disruption_of]->(go:GO)-[:has_part]->(mf:Molecular_function) RETURN go.Label AS Disrupted_GO, mf.Label AS MolecularFunction

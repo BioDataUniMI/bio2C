@@ -1,0 +1,1 @@
+List all miRNAs that are part of GO terms, such that the source include 'GOC' and the miRNA label does not contain the word 'precursor' nor 'pre stem-loop'. Return miRNA and GO term labels.

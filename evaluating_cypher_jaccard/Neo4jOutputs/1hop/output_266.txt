@@ -1,0 +1,25 @@
+{
+  "Cancer": "lymphoid leukemia",
+  "Phenotype": "Sepsis"
+}
+
+{
+  "Cancer": "lymphoid leukemia",
+  "Phenotype": "Cognitive impairment"
+}
+
+{
+  "Cancer": "lymphoid leukemia",
+  "Phenotype": "Hyperintensity of cerebral white matter on MRI"
+}
+
+{
+  "Cancer": "lymphoid leukemia",
+  "Phenotype": "Akinetic mutism"
+}
+
+{
+  "Cancer": "lymphoid leukemia",
+  "Phenotype": "Abnormal pyramidal sign"
+}
+

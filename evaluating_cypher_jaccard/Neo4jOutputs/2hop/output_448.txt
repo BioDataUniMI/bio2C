@@ -1,0 +1,30 @@
+{
+  "Gene": "MIR4433A",
+  "Source_miRNA": "microRNA hsa-mir-4433a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-4433a precursor"
+}
+
+{
+  "Gene": "MIR3155A",
+  "Source_miRNA": "microRNA hsa-mir-3155a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-3155a precursor"
+}
+
+{
+  "Gene": "MIR6715A",
+  "Source_miRNA": "microRNA hsa-mir-6715a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-6715a precursor"
+}
+
+{
+  "Gene": "MIR4477A",
+  "Source_miRNA": "microRNA hsa-mir-4477a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-4477a precursor"
+}
+
+{
+  "Gene": "MIR3622A",
+  "Source_miRNA": "microRNA hsa-mir-3622a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-3622a precursor"
+}
+

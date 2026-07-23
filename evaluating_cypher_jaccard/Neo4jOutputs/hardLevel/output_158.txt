@@ -1,0 +1,32 @@
+{
+  "miRNA": "microRNA hsa-mir-6740 precursor",
+  "GAG_count": 7,
+  "diseases": [
+    "Alzheimer disease type 1",
+    "Alzheimer disease"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1183 precursor",
+  "GAG_count": 6,
+  "diseases": [
+    "malignant glioma",
+    "glioma",
+    "thyroid tumor",
+    "familial temporal lobe epilepsy 3",
+    "rheumatic heart disease",
+    "osteoarthritis"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4311 precursor",
+  "GAG_count": 6,
+  "diseases": [
+    "malignant glioma",
+    "glioma",
+    "head and neck squamous cell carcinoma"
+  ]
+}
+

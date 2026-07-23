@@ -1,0 +1,5 @@
+{
+  "CancerLabel": "uterine ligament adenosarcoma",
+  "CancerID": "MONDO:0200000"
+}
+

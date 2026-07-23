@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d) WITH p, COUNT(DISTINCT d) AS DisorderCount WHERE DisorderCount > 2000 RETURN p.Label AS Phenotype, DisorderCount

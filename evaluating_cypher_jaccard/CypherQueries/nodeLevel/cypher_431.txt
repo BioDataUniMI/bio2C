@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'miRNA' AND (g.Label CONTAINS 'binding' OR g.Label CONTAINS 'transcription') RETURN g.Label

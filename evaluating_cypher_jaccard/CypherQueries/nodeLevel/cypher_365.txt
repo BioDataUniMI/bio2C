@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE d.ID CONTAINS '122' RETURN d.Label AS DiseaseLabel, d.ID

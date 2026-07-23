@@ -1,0 +1,18 @@
+{
+  "TranscribingGene": "MIR559",
+  "Pre_miRNA": "microRNA hsa-mir-559 precursor",
+  "miRNA": "hsa-miR-559"
+}
+
+{
+  "TranscribingGene": "MIR661",
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661"
+}
+
+{
+  "TranscribingGene": "MIR589",
+  "Pre_miRNA": "microRNA hsa-mir-589 precursor",
+  "miRNA": "hsa-miR-589-3p"
+}
+

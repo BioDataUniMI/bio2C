@@ -1,0 +1,1 @@
+Identify diseases caracterized by the presence of the string 'vitamin D' in their labels that are caused or contributed to by genes regulated by miRNAs expressed in cancers. Return the cancer label, miRNA label, gene label, and disease label.

@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Epididymitis",
+  "Disease": "heart cancer",
+  "ParentCancer": "heart neoplasm"
+}
+
+{
+  "Phenotype": "Epididymitis",
+  "Disease": "heart cancer",
+  "ParentCancer": "cancer"
+}
+
+{
+  "Phenotype": "Epididymitis",
+  "Disease": "heart cancer",
+  "ParentCancer": "thoracic cancer"
+}
+
+{
+  "Phenotype": "Epididymitis",
+  "Disease": "heart cancer",
+  "ParentCancer": "cardiovascular cancer"
+}
+
+{
+  "Phenotype": "Meningitis",
+  "Disease": "heart cancer",
+  "ParentCancer": "heart neoplasm"
+}
+

@@ -1,0 +1,7 @@
+{
+  "cd.Label": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "cd.Description": "emery-dreifuss muscular dystrophy inherited in an autosomal dominant pattern and caused by mutati...",
+  "d.Label": "X-linked Emery-Dreifuss muscular dystrophy",
+  "d.Description": "x-linked form of emery-dreifuss muscular dystrophy."
+}
+

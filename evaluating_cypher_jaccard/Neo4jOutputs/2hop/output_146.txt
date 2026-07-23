@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "GO_Term": "regulation of G1/S transition of mitotic cell cycle"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "GO_Term": "regulation of G1/S transition of mitotic cell cycle"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "GO_Term": "regulation of G1/S transition of mitotic cell cycle"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-3p",
+  "GO_Term": "regulation of G1/S transition of mitotic cell cycle"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-3p",
+  "GO_Term": "regulation of G1/S transition of mitotic cell cycle"
+}
+

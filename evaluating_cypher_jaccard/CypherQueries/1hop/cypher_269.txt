@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_has_feature]->(p:Phenotype) WHERE d.Label CONTAINS 'pleurisy' RETURN d.Label AS Disease, p.Label AS FeaturePhenotype

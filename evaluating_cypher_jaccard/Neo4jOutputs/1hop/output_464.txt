@@ -1,0 +1,7 @@
+{
+  "md1.Label": "pathological mental process",
+  "md1.Description": null,
+  "md2.Label": "mental disorder",
+  "md2.Description": "clinically significant behavioural and/or cognitive pathology."
+}
+

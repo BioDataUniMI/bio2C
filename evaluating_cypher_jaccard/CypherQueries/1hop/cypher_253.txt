@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE SIZE(r.Source) >= 1 RETURN pm.Label AS Precursor, g.Label AS Gene, r.Source AS Sources

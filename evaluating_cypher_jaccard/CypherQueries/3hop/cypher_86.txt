@@ -1,0 +1,1 @@
+MATCH (mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA {Label:'microRNA hsa-mir-23a precursor'})-[r:causes_or_contributes_to_condition]->(nd:Neurodegenerative_disease), (mirna)-[:not_involved_in]->(go:GO) WHERE SIZE(r.PubMedID) >= 2 RETURN mirna.Label AS miRNA, nd.Label AS NeurodegenerativeDisease, go.Label AS GO_Term, r.PubMedID AS PubMedIDs

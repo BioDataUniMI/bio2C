@@ -1,0 +1,1 @@
+Find the infectious diseases whose description contain 'contagious'. Return their label and URI.

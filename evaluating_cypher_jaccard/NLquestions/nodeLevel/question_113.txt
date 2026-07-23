@@ -1,0 +1,1 @@
+List precursor miRNAs longer than 120 nt whose labels end with 'precursor'.

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-133a-3p",
+  "Gene": "CASP9"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CASP9"
+}
+
+{
+  "miRNA": "hsa-miR-362-3p",
+  "Gene": "CASP9"
+}
+
+{
+  "miRNA": "hsa-miR-133b",
+  "Gene": "CASP9"
+}
+
+{
+  "miRNA": "hsa-miR-29b-1-5p",
+  "Gene": "CASP9"
+}
+

@@ -1,0 +1,1 @@
+How many distinct miRNAs and how many distinct genes are involved in activity regulation and contribute to the disease labeled as 'malignant colon neoplasm'?

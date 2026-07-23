@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label STARTS WITH 'Anti' AND p.Label CONTAINS 'antibody' AND NOT p.Label CONTAINS 'positivity' RETURN p.Label AS Phenotype

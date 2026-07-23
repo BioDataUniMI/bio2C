@@ -1,0 +1,1 @@
+Which miRNAs are transcribed from genes and regulate other genes, where the source gene has a shorter sequence than the target gene or its total sequence length is below 100 nucleotides? Return the label of the: target gene, miRNA, and source gene.

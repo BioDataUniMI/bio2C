@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'transport' RETURN COUNT(g) AS NumberOfGOTerms

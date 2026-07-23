@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component {ID: 'GO:0098578'}) RETURN cc.Label AS CellularComponent

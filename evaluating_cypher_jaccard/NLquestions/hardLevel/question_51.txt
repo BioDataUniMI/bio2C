@@ -1,0 +1,1 @@
+Find the shortest hierarchical paths of up to 10 steps connecting any Phenotype whose label contains the word 'carcinoma' to any Phenotype whose label contains the word 'lung'. Note that the source and target phenotype must be different (we can check IDs). Return the sequence of the node label along each path.

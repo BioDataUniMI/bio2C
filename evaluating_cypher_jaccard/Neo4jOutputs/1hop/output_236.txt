@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-137-3p",
+  "Phenotype": "Schizophrenia",
+  "p_value": 2e-11
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "Phenotype": "Atopic dermatitis",
+  "p_value": 4e-07
+}
+

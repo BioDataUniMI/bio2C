@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "CardiovascularDisease": "congestive heart failure"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "CardiovascularDisease": "heart failure"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "CardiovascularDisease": "heart disorder"
+}
+

@@ -1,0 +1,1 @@
+Which GO terms are regulated by the biological processes in which the miRNA 'hsa-miR-199b-3p' participates? return the biological process and the GO labels

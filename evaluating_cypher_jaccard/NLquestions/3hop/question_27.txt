@@ -1,0 +1,1 @@
+Which genes cause or contribute to cancers that are part of the progression of other cancers having the phenotype labeled 'Enamel hypoplasia'? Return the gene and cancers labels.

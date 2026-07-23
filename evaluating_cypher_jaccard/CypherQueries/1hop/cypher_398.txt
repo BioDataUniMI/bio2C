@@ -1,0 +1,1 @@
+MATCH (g:Gene {Species: 'Homo sapiens'})-[:transcribed_to]->(m:miRNA) WHERE g.Label STARTS WITH 'MIR43' RETURN DISTINCT g.Label AS Gene

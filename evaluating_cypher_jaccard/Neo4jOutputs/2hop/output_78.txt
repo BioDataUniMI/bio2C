@@ -1,0 +1,6 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "Gene": "MIR1302-9",
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)"
+}
+

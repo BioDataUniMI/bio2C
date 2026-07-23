@@ -1,0 +1,1 @@
+Find the cellular components that are subclasses of a GO term, where the biological process labeled with the string 'mitophagy by internal vacuole formation' is a subclass of another GO term that has these cellular components as primary inputs. Return the cellular component label, the GO term label, and the parent GO term label.

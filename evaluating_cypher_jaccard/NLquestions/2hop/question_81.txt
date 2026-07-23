@@ -1,0 +1,1 @@
+For each cancer whose label contains 'benign', identify the cellular components in which its expressed miRNAs are located, and report the number of miRNAs in each component

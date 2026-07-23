@@ -1,0 +1,25 @@
+{
+  "Disease": "Astley-Kendall dysplasia",
+  "Description": "astley-kendall dysplasia is a lethal skeletal dysplasia characterized by short limbed dwarfism, o..."
+}
+
+{
+  "Disease": "NEK9-related lethal skeletal dysplasia",
+  "Description": "nek9-related lethal skeletal dysplasia is a rare, lethal, primary bone dysplasia characterized by..."
+}
+
+{
+  "Disease": "Greenberg dysplasia",
+  "Description": "a very rare lethal skeletal dysplasia characterized by fetal hydrops, short limbs and abnormal ch..."
+}
+
+{
+  "Disease": "Boomerang dysplasia",
+  "Description": "boomerang dysplasia (bd) is a rare lethal skeletal dysplasia characterized by severe short-limbed..."
+}
+
+{
+  "Disease": "thanatophoric dysplasia",
+  "Description": "thanatophoric dysplasia (td) is a severe and generally lethal skeletal dysplasia presenting in th..."
+}
+

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Description CONTAINS 'membrane vesicle' RETURN cc.Label

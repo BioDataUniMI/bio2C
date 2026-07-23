@@ -1,0 +1,1 @@
+Retrieve molecular functions starting with 'DNA' whose description contains 'binding'

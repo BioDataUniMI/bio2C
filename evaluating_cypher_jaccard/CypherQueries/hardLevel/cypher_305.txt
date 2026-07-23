@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease)-[]->(p:Phenotype) WITH m, COUNT(DISTINCT d.Label + '|' + p.Label) AS DiseasePhenotypePairs RETURN AVG(DiseasePhenotypePairs) AS AvgDiseasePhenotypePairs

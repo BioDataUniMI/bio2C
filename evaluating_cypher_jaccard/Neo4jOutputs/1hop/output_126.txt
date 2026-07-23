@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-192-5p",
+  "BiologicalProcess": "protein-DNA complex assembly"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+}
+
+{
+  "miRNA": "hsa-miR-520c-3p",
+  "BiologicalProcess": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "BiologicalProcess": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+}
+
+{
+  "miRNA": "hsa-miR-28-5p",
+  "BiologicalProcess": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+}
+

@@ -1,0 +1,1 @@
+Find GO terms whose description contains the word 'monoamine' and that form the bounding layer of other GO terms. Return 'monoamine'-like GO term's label, description, along with the labels of the bounded GO terms, and the properties of the bounding relationship (hint: use PROPERTIES(r)).

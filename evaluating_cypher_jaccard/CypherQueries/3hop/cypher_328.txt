@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease {Label: 'Cockayne syndrome type 2'})-[:subclassof]->(d:Disease)-[:disease_has_feature]->(p:Phenotype {Label: 'Growth delay'})-[:phenotype_of]->(ad:Autoimmune_disease) RETURN d.Label AS ParentDisease, ad.Label AS AutoimmuneDisease

@@ -1,0 +1,33 @@
+{
+  "Neurodegenerative_disease": "multiple sclerosis",
+  "Sources": [
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ]
+  ],
+  "PubMedIDs": [
+    [
+      "19443172",
+      "19823682"
+    ],
+    [
+      "24277735",
+      "29246612",
+      "27725128",
+      "19823682",
+      "27083389",
+      "26305248",
+      "29325906",
+      "17478730"
+    ]
+  ]
+}
+

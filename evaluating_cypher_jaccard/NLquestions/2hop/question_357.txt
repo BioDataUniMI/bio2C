@@ -1,0 +1,1 @@
+Identify diseases that have the phenotype labeled as 'X-linked inheritance' and are subclasses of cancers, along with their parent cancers.

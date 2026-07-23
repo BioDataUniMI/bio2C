@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 't=' RETURN cc.Label AS CellularComponent

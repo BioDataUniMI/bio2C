@@ -1,0 +1,1 @@
+Which GO terms are part of cellular components in which miRNAs developed from the pre-miRNA 'microRNA hsa-mir-519a precursor (hsa-mir-519a-2)' are located? Return the label of the: miRNAs, cellular components, and GO terms.

@@ -1,0 +1,24 @@
+{
+  "BiologicalProcess": "G protein-coupled receptor signaling pathway coupled to cGMP nucleotide second messenger",
+  "GOTerm": "positive regulation of guanylate cyclase activity",
+  "MolecularFunction": "guanylate cyclase activity"
+}
+
+{
+  "BiologicalProcess": "positive regulation of protein autophosphorylation",
+  "GOTerm": "positive regulation of protein kinase activity",
+  "MolecularFunction": "protein kinase activity"
+}
+
+{
+  "BiologicalProcess": "signal transduction",
+  "GOTerm": "receptor ligand activity",
+  "MolecularFunction": "signaling receptor activity"
+}
+
+{
+  "BiologicalProcess": "regulation of gene expression",
+  "GOTerm": "transcription regulator activator activity",
+  "MolecularFunction": "transcription regulator activity"
+}
+

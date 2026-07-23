@@ -1,0 +1,1 @@
+Find genes whose labels contain exactly two hyphens ('-').

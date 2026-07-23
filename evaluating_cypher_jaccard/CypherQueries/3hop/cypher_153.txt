@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Resting tremor'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:expresses]->(m:miRNA) RETURN d.Label AS Disease, nd.Label AS NeurodegenerativeDisease, m.Label AS miRNA

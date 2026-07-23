@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA) WITH c, COUNT(DISTINCT m) AS num_miRNAs WHERE num_miRNAs >= 2 RETURN c.Label AS Cancer, num_miRNAs

@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease) WHERE d2.Label CONTAINS 'celiac' RETURN d1.Label AS PredisposingDisease, d2.Label AS TargetDisease

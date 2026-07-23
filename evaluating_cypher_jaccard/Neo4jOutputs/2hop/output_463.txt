@@ -1,0 +1,24 @@
+{
+  "Gene1": "CXorf49",
+  "Gene2": "LOC101059915",
+  "Gene3": "CXorf49B",
+  "Weight12": 0.003,
+  "Weight23": 0.003
+}
+
+{
+  "Gene1": "CXorf49",
+  "Gene2": "CXorf49B",
+  "Gene3": "LOC101059915",
+  "Weight12": 0.003,
+  "Weight23": 0.003
+}
+
+{
+  "Gene1": "CXorf49B",
+  "Gene2": "CXorf49",
+  "Gene3": "LOC101059915",
+  "Weight12": 0.003,
+  "Weight23": 0.003
+}
+

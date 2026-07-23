@@ -1,0 +1,1 @@
+Identify diseases that are characterized by the phenotype 'Feeding difficulties' and cause disruption of biological processes. Return the disease and biological process labels.

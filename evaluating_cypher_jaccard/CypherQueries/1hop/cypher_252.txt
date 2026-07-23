@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene {Label:'KLF4'}) RETURN m.Label AS miRNA, r.PubMedID

@@ -1,0 +1,1 @@
+For miRNAs that are over-expressed in infectious diseases whose label contains 'toxoplasmosis', which miRNAs deviate most from the typical miRNA length, where deviation is defined as the absolute difference between the miRNA sequence length and 22 nucleotides? Return each miRNA label and its length deviation, sorted by length deviation in descending order.

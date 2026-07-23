@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "breast-ovarian cancer, familial, susceptibility to, 5"
+}
+
+{
+  "DiseaseLabel": "colorectal cancer, MLH1-related, Rhesus monkey"
+}
+
+{
+  "DiseaseLabel": "oligodontia-cancer predisposition syndrome"
+}
+
+{
+  "DiseaseLabel": "cancer, pig"
+}
+
+{
+  "DiseaseLabel": "cancer, non-human animal"
+}
+

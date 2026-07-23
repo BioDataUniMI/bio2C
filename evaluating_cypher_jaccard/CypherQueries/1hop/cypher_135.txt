@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) RETURN m.Label AS miRNA, mf.Label AS MolecularFunctionLabel, mf.ID AS MolecularFunctionID, mf.URI AS MolecularFunctionURI

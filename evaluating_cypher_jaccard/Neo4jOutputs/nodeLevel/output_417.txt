@@ -1,0 +1,25 @@
+{
+  "g.Label": "substance with EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor role",
+  "g.URI": "http://purl.obolibrary.org/obo/GOCHE_59897"
+}
+
+{
+  "g.Label": "substance with EC 1.14.14.* (oxidoreductase acting on paired donors, incorporating of 1 atom of o...",
+  "g.URI": "http://purl.obolibrary.org/obo/GOCHE_76838"
+}
+
+{
+  "g.Label": "substance with EC 2.* (transferase) inhibitor role",
+  "g.URI": "http://purl.obolibrary.org/obo/GOCHE_71300"
+}
+
+{
+  "g.Label": "substance with EC 2.7.* (P-containing group transferase) inhibitor role",
+  "g.URI": "http://purl.obolibrary.org/obo/GOCHE_76668"
+}
+
+{
+  "g.Label": "substance with EC 2.7.7.* (nucleotidyltransferase) inhibitor role",
+  "g.URI": "http://purl.obolibrary.org/obo/GOCHE_76815"
+}
+

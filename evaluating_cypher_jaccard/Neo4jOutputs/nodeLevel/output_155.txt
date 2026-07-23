@@ -1,0 +1,7 @@
+{
+  "GOTerm": "plasma membrane",
+  "Synonyms": [
+    "plasma membrane"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "Cancer": "prostate cancer, hereditary",
+  "InteractingGene": "H4C8"
+}
+
+{
+  "Cancer": "familial prostate carcinoma",
+  "InteractingGene": "H4C8"
+}
+
+{
+  "Cancer": "prostate neoplasm",
+  "InteractingGene": "H4C8"
+}
+
+{
+  "Cancer": "prostate cancer, hereditary, 13",
+  "InteractingGene": "H4C8"
+}
+
+{
+  "Cancer": "prostate cancer, hereditary, 12",
+  "InteractingGene": "H4C8"
+}
+

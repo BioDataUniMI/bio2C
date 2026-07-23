@@ -1,0 +1,1 @@
+Identify autoimmune diseases that (1) have at least one subclass node that reaches them through a subclassof path of 1 to 6 hops, and (2) are directly caused or contributed to by more than 90 distinct miRNAs. Return each disease label and the number of distinct miRNAs associated with it, ordered by miRNA count in descending order.

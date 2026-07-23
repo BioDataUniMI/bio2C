@@ -1,0 +1,6 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-143 precursor",
+  "Interacting_miRNA": "hsa-miR-143-5p",
+  "Regulator_miRNA": "hsa-miR-145-5p"
+}
+

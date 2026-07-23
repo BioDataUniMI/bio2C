@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Dyspnea",
+  "CardiovascularDisease": "congestive heart failure",
+  "Gene": "ROCK2",
+  "miRNA": "hsa-miR-138-5p"
+}
+
+{
+  "Phenotype": "Dyspnea",
+  "CardiovascularDisease": "congestive heart failure",
+  "Gene": "ROCK2",
+  "miRNA": "hsa-miR-30a-3p"
+}
+
+{
+  "Phenotype": "Dyspnea",
+  "CardiovascularDisease": "congestive heart failure",
+  "Gene": "ROCK2",
+  "miRNA": "hsa-miR-200b-3p"
+}
+
+{
+  "Phenotype": "Dyspnea",
+  "CardiovascularDisease": "congestive heart failure",
+  "Gene": "ROCK2",
+  "miRNA": "hsa-miR-142-3p"
+}
+
+{
+  "Phenotype": "Dyspnea",
+  "CardiovascularDisease": "congestive heart failure",
+  "Gene": "ROCK2",
+  "miRNA": "hsa-miR-139-5p"
+}
+

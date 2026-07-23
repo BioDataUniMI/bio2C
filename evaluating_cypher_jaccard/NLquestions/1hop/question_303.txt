@@ -1,0 +1,1 @@
+Find phenotypes that point towards GO terms containing 'ossification' in their labels.

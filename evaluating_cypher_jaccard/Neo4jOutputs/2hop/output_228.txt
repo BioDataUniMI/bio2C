@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-5195 precursor",
+  "Regulator_miRNA": "hsa-miR-5195-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-6823 precursor",
+  "Regulator_miRNA": "hsa-miR-6823-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-6805 precursor",
+  "Regulator_miRNA": "hsa-miR-6805-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-2114 precursor",
+  "Regulator_miRNA": "hsa-miR-2114-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-770 precursor",
+  "Regulator_miRNA": "hsa-miR-770-5p"
+}
+

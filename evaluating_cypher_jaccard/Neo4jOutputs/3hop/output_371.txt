@@ -1,0 +1,45 @@
+{
+  "Gene": "MIR876",
+  "Pre_miRNA": "microRNA hsa-mir-876 precursor",
+  "miRNA": "hsa-miR-876-3p",
+  "r.Source": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR3157",
+  "Pre_miRNA": "microRNA hsa-mir-3157 precursor",
+  "miRNA": "hsa-miR-3157-5p",
+  "r.Source": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR641",
+  "Pre_miRNA": "microRNA hsa-mir-641 precursor",
+  "miRNA": "hsa-miR-641",
+  "r.Source": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR665",
+  "Pre_miRNA": "microRNA hsa-mir-665 precursor",
+  "miRNA": "hsa-miR-665",
+  "r.Source": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR421",
+  "Pre_miRNA": "microRNA hsa-mir-421 precursor",
+  "miRNA": "hsa-miR-421",
+  "r.Source": [
+    "Ensembl"
+  ]
+}
+

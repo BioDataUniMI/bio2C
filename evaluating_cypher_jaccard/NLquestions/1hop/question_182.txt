@@ -1,0 +1,1 @@
+Return miRNAs whose labels end with 'a-3p' that are located in cellular components with a label containing the string 'microvesicle'. Return the miRNA labels along with the methods confirming the interaction.

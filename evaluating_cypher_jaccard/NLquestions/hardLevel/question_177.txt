@@ -1,0 +1,1 @@
+Find all pairs of miRNA and pre-miRNA that are in a homology relationship and contribute to autoimmune diseases, where the pre-miRNA sequence is shorter than the miRNA sequence and contains the same number of G nucleotides. Return the miRNA, the pre-miRNA and the autoimmune disease labels.

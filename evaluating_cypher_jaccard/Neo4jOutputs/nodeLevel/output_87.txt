@@ -1,0 +1,25 @@
+{
+  "d.Label": "arrhythmogenic right ventricular cardiomyopathy",
+  "d.ID": "MONDO:0016587"
+}
+
+{
+  "d.Label": "histiocytoid cardiomyopathy",
+  "d.ID": "MONDO:0010771"
+}
+
+{
+  "d.Label": "arrhythmogenic right ventricular dysplasia 10",
+  "d.ID": "MONDO:0012434"
+}
+
+{
+  "d.Label": "arrhythmogenic right ventricular dysplasia 12",
+  "d.ID": "MONDO:0012684"
+}
+
+{
+  "d.Label": "arrhythmogenic right ventricular dysplasia 4",
+  "d.ID": "MONDO:0011189"
+}
+

@@ -1,0 +1,1 @@
+Which human genes with labels starting with 'MIR3' have genomic coordinates on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates)?

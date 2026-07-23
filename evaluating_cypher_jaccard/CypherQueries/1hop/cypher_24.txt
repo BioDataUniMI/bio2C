@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) RETURN AVG(SIZE(p.Sequence) - SIZE(m.Sequence)) AS average_length_diff

@@ -1,0 +1,16 @@
+{
+  "GOterm": "co-transcriptional mRNA 3'-end processing, cleavage and polyadenylation pathway"
+}
+
+{
+  "GOterm": "co-transcriptional lncRNA 3' end processing, cleavage and polyadenylation pathway"
+}
+
+{
+  "GOterm": "co-transcriptional RNA 3'-end processing, cleavage and polyadenylation pathway"
+}
+
+{
+  "GOterm": "co-transcriptional gene silencing by RNA interference machinery"
+}
+

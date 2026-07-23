@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "Golgi cis cisterna membrane",
+  "cc.ID": "GO:1990674"
+}
+
+{
+  "CellularComponent": "inter-Golgi transport vesicle membrane",
+  "cc.ID": "GO:0012509"
+}
+
+{
+  "CellularComponent": "COPI-coated inter-Golgi transport vesicle",
+  "cc.ID": "GO:0030143"
+}
+
+{
+  "CellularComponent": "Golgi cisterna",
+  "cc.ID": "GO:0031985"
+}
+
+{
+  "CellularComponent": "Golgi cisterna membrane",
+  "cc.ID": "GO:0032580"
+}
+

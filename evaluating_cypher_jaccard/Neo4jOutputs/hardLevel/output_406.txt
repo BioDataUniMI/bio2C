@@ -1,0 +1,8 @@
+{
+  "m.Label": "microRNA hsa-mir-12136 precursor"
+}
+
+{
+  "m.Label": "hsa-miR-12136"
+}
+

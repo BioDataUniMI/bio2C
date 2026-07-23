@@ -1,0 +1,1 @@
+Identify mental diseases that are manifestations of mental diseases. Return the labels and descriptions of the involved diseases.

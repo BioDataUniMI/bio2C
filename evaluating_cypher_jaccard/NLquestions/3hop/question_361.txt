@@ -1,0 +1,1 @@
+Count the number of genes that are transcribed into pre-miRNAs which develop into miRNAs regulating target genes whose labels start and end with a latin letter (A-Z, a-z).

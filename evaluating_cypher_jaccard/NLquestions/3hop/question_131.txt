@@ -1,0 +1,1 @@
+Find 'diabetes' diseases that are caused or contributed by genes regulated by miRNAs expressed in cancers whose labels contain 'benign'. Return the miRNA label, gene label, and disease label.

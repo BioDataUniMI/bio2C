@@ -1,0 +1,1 @@
+Find the top 3 miRNAs that develop from a pre-miRNA where the miRNA contains the highest number of occurrences of the substring 'AAA' in its sequence, ordered alphabetically by miRNA label in case of ties. Return the miRNA and pre-miRNA labels, their sequences, and the number of 'AAA' occurrences.

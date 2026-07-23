@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(pre:pre_miRNA) WHERE g.Label =~ '.*[0-9]{3}F$' RETURN g.Label AS Gene, m.Label AS miRNA, pre.Label AS Pre_miRNA

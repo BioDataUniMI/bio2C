@@ -1,0 +1,1 @@
+For genes that cause or contribute to celiac disease, which is an autoimmune disease, count how many times the subsequences 'GA' and 'CCC' appear in their sequences. Return the gene label and the counts of 'GA' and 'CCC'.

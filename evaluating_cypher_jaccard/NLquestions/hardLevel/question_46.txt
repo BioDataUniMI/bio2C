@@ -1,0 +1,1 @@
+For each miRNA, retrieve the original and RNA-transcribed sequence (T converted to U) of its source gene, but only for genes having a label containing the letter 'B'. Return the miRNA label, source gene label, original sequence, and RNA-transcribed sequence, ordered by miRNA label and then source gene label.

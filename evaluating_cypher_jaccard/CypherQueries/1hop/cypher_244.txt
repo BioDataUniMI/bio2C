@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene {Label:'AURKA'}) RETURN m.Label AS miRNA, g.Label AS Gene, properties(r) AS RelationshipProperties

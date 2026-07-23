@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'mitochondria' AND g.Description CONTAINS 'protein complex' RETURN g.Label AS GO, g.Description AS Description

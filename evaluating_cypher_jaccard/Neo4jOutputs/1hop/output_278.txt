@@ -1,0 +1,15 @@
+{
+  "CardiovascularDisease": "Noonan syndrome 7",
+  "PhenotypeCount": 544
+}
+
+{
+  "CardiovascularDisease": "short QT syndrome 7",
+  "PhenotypeCount": 8
+}
+
+{
+  "CardiovascularDisease": "Brugada syndrome 7",
+  "PhenotypeCount": 19
+}
+

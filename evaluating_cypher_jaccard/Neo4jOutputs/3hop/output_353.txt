@@ -1,0 +1,25 @@
+{
+  "Disease": "esophageal cancer",
+  "PhenotypeCount": 2
+}
+
+{
+  "Disease": "head and neck squamous cell carcinoma",
+  "PhenotypeCount": 2
+}
+
+{
+  "Disease": "nonpapillary renal cell carcinoma",
+  "PhenotypeCount": 2
+}
+
+{
+  "Disease": "oncocytic neoplasm",
+  "PhenotypeCount": 2
+}
+
+{
+  "Disease": "ovarian carcinoma",
+  "PhenotypeCount": 2
+}
+

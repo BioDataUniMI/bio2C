@@ -1,0 +1,25 @@
+{
+  "Disease": "spastic paraplegia-glaucoma-intellectual disability syndrome",
+  "ID": "MONDO:0010049"
+}
+
+{
+  "Disease": "preaxial polydactyly-colobomata-intellectual disability syndrome",
+  "ID": "MONDO:0017377"
+}
+
+{
+  "Disease": "blepharophimosis - intellectual disability syndrome, SBBYS type",
+  "ID": "MONDO:0011365"
+}
+
+{
+  "Disease": "white matter hypoplasia-corpus callosum agenesis-intellectual disability syndrome",
+  "ID": "MONDO:0017918"
+}
+
+{
+  "Disease": "dentinogenesis imperfecta-short stature-hearing loss-intellectual disability syndrome",
+  "ID": "MONDO:0019102"
+}
+

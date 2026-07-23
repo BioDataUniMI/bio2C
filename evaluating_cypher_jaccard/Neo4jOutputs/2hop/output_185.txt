@@ -1,0 +1,24 @@
+{
+  "Disease": "semantic dementia",
+  "miRNA": "hsa-miR-659-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Disease": "frontotemporal dementia",
+  "miRNA": "hsa-miR-659-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Disease": "semantic dementia",
+  "miRNA": "hsa-miR-659-3p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Disease": "frontotemporal dementia",
+  "miRNA": "hsa-miR-659-3p",
+  "CellularComponent": "extracellular exosome"
+}
+

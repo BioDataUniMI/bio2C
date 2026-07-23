@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_has_basis_in_feature]->(p:Phenotype) RETURN d.Label AS Disease, p.Label AS Phenotype

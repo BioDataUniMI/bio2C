@@ -1,0 +1,1 @@
+Find pre-miRNAs characterized by more than five genomic coordinates. Return their labels and all genomic coordinates.

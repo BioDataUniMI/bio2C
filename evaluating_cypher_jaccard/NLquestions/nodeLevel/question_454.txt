@@ -1,0 +1,1 @@
+List the phenotypes that are characterized by a synonym containing the Turkish string 'Aşırı yükselmiş'. Return the phenotype label and ID.

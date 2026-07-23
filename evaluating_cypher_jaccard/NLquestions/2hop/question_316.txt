@@ -1,0 +1,1 @@
+Identify GO terms that phenotypes of the cardiovascular disease labeled as 'sick sinus syndrome' are characteristic of. Return the phenotype and GO term labels.

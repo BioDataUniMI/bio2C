@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE (c.Label CONTAINS 'breast' OR c.Description CONTAINS 'breast') AND NONE(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN DISTINCT c.Label AS Cancer_label

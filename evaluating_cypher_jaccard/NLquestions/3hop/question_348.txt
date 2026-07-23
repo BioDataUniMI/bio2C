@@ -1,0 +1,1 @@
+Which miRNAs containing the letter 'f' are over-expressed in cancers that are subclasses of malignant cancers and have phenotypes containing the word 'painful'? Return the miRNA label, the cancer label, the parent cancer label, and the phenotype label.

@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease) WHERE d.Label CONTAINS 'chronic' RETURN d.Label

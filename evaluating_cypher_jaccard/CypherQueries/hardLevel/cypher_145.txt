@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease), (d1)-[:has_phenotype]->(p:Phenotype)<-[:has_phenotype]-(d2) WITH d1, d2, COLLECT(DISTINCT p.Label) AS SharedPhenotypes WHERE SIZE(SharedPhenotypes) <= 1 RETURN DISTINCT d1.Label AS PredisposingDisease, d2.Label AS PredisposedDisease, SharedPhenotypes

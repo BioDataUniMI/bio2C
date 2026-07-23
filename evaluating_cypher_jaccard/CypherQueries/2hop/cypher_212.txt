@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:subclassof]->(parent:Disease) WHERE p.Label CONTAINS 'Small placenta' RETURN d.Label AS Disease, p.Label AS Phenotype, parent.Label AS ParentDisease

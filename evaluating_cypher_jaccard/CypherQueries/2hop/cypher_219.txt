@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Sleep apnea'})<-[:has_phenotype]-(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_part]->(go:GO) RETURN go.Label AS GOTerm, d.Label AS Disease

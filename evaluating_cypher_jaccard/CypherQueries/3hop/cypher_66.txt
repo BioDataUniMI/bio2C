@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease)-[:disease_has_basis_in_feature]->(d:Disease {Label:'Zika virus infectious disease'})-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(c:Cancer) WHERE c.Label CONTAINS 'cell leukemia' RETURN i.Label AS infectious_disease,  p.Label AS phenotype, c.Label AS cancer

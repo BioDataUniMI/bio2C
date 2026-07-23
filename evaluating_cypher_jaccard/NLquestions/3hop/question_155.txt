@@ -1,0 +1,1 @@
+Which neurodegenerative diseases express miRNAs and are superclasses of diseases that have the phenotype labeled as 'Juvenile onset'? Return the label of: the disease, the neurodegenerative disease, and the miRNA.

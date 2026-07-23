@@ -1,0 +1,1 @@
+Identify GO terms in which cellular components participate, where those components are part of GO terms in which miRNAs are locate. Return the label of the: miRNA, GO terms and cellular components.

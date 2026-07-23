@@ -1,0 +1,9 @@
+{
+  "MentalDisease": "pathological mental process",
+  "Disease": "mental disorder",
+  "ManifestedFrom": [
+    "Disease",
+    "Mental_disease"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m1:miRNA)-[:interacts_with]->(m2:miRNA {Label:'hsa-miR-145-5p'})-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'TPM' RETURN pre.Label AS Pre_miRNA, m1.Label AS Interacting_miRNA, m2.Label AS Target_miRNA, g.Label AS Gene

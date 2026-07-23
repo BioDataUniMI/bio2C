@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA )-[r:located_in]->(cc:Cellular_component) WHERE r.RNAsister_score > 0.97 RETURN c.Label AS Cancer, cc.Label AS CellularComponent, m.Label AS miRNA, r.RNAsister_score AS RNAsisterScore

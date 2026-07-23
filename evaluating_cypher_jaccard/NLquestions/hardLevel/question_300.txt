@@ -1,0 +1,1 @@
+For each miRNA, count how many distinct cellular components it is located in and how many distinct GO terms those components are part of, and return miRNAs with at least 9 such GO terms. Return the miRNA label, number of components, and number of GO terms.

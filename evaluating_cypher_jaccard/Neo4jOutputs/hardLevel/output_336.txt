@@ -1,0 +1,15 @@
+{
+  "Cancer": "malignant pancreatic neoplasm",
+  "GeneCount": 1
+}
+
+{
+  "Cancer": "lung carcinoma",
+  "GeneCount": 2
+}
+
+{
+  "Cancer": "lung cancer",
+  "GeneCount": 2
+}
+

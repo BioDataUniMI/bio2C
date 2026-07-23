@@ -1,0 +1,25 @@
+{
+  "GOTerm": "wound healing",
+  "BiologicalProcess": "regulation of wound healing"
+}
+
+{
+  "GOTerm": "dendritic spine development",
+  "BiologicalProcess": "regulation of dendritic spine development"
+}
+
+{
+  "GOTerm": "heart growth",
+  "BiologicalProcess": "regulation of heart growth"
+}
+
+{
+  "GOTerm": "multicellular organism development",
+  "BiologicalProcess": "regulation of heart growth"
+}
+
+{
+  "GOTerm": "cardiac muscle tissue development",
+  "BiologicalProcess": "regulation of cardiac muscle tissue development"
+}
+

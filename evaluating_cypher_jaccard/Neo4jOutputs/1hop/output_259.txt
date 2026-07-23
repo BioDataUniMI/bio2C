@@ -1,0 +1,8 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Gene": "SOCS1",
+  "Sources": [
+    "miRTarBase"
+  ]
+}
+

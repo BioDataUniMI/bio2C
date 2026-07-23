@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:process_has_causal_agent]->(cc:Cellular_component)-[:part_of]->(cc1:Cellular_component) WHERE cc.Description CONTAINS 'cellular fusion' OR cc1.Description CONTAINS 'cellular fusion' RETURN go.Label AS GO_Process, cc.Label AS Cellular_Component, cc.Description AS Component_Description, cc1.Description AS Parent_Component_Description

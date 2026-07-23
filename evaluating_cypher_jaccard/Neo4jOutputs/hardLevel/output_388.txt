@@ -1,0 +1,66 @@
+{
+  "Gene": "SNORD3A",
+  "Diseases": [
+    "variant Creutzfeldt-Jakob disease",
+    "human prion disease",
+    "Creutzfeldt Jacob disease",
+    "inherited Creutzfeldt-Jakob disease",
+    "sporadic Creutzfeldt-Jakob disease"
+  ],
+  "ATCG_AtLeast100": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "SCO2",
+  "Diseases": [
+    "influenza"
+  ],
+  "ATCG_AtLeast100": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "TNF",
+  "Diseases": [
+    "Plasmodium ovale malaria",
+    "chlamydia trachomatis infectious disease",
+    "mucocutaneous leishmaniasis",
+    "leishmaniasis",
+    "COVID-19",
+    "toxic shock syndrome",
+    "coxsackievirus infectious disease",
+    "malaria",
+    "visceral leishmaniasis",
+    "chlamydia infectious disease",
+    "cardiovirus infectious disease",
+    "infective arthritis",
+    "interstitial lung disease 2",
+    "idiopathic interstitial pneumonia",
+    "HIV wasting syndrome",
+    "acute interstitial pneumonia",
+    "cutaneous leishmaniasis",
+    "chronic recurrent multifocal osteomyelitis",
+    "bacterial infectious disease with sepsis",
+    "listeriosis",
+    "Plasmodium falciparum malaria",
+    "bacterial arthritis",
+    "pneumonia"
+  ],
+  "ATCG_AtLeast100": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "VPREB1",
+  "Diseases": [
+    "adult T-cell leukemia/lymphoma"
+  ],
+  "ATCG_AtLeast100": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "GJE1",
+  "Diseases": [
+    "meningoencephalitis"
+  ],
+  "ATCG_AtLeast100": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+

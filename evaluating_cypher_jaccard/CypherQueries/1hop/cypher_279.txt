@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease)-[:has_modifier]->(p:Phenotype) RETURN i.Label AS InfectiousDisease, p.Label AS Modifier

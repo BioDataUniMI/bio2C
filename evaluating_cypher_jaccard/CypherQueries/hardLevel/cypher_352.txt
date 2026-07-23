@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_causes_disruption_of]->(go:GO) WITH go, COUNT(DISTINCT d) AS DiseaseCount WITH MAX(DiseaseCount) AS maxDiseaseCount WITH maxDiseaseCount MATCH (d:Disease)-[:disease_causes_disruption_of]->(go:GO) WITH go, COUNT(DISTINCT d) AS DiseaseCount, maxDiseaseCount WHERE DiseaseCount = maxDiseaseCount RETURN go.Label AS GOterm, DiseaseCount

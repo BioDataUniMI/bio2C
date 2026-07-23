@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WITH m.Label AS miRNA, mf.Label AS MolecularFunction, SUBSTRING(m.Sequence, 0, 10) AS SeqFirst10 RETURN miRNA, REDUCE(s = '', c IN REVERSE(SPLIT(SeqFirst10, '')) | s + c) AS Sequence_First10_Reversed, MolecularFunction

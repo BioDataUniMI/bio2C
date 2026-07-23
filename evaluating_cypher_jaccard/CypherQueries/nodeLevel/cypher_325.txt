@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.Label CONTAINS 'squamous' AND NOT c.Label CONTAINS 'carcinoma' RETURN c.Label AS CancerLabel

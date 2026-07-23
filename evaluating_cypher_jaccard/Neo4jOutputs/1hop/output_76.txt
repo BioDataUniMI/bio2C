@@ -1,0 +1,18 @@
+{
+  "Disease": "myocardial infarction",
+  "miRNA": "microRNA hsa-mir-490 precursor",
+  "Sequence_length": 128
+}
+
+{
+  "Disease": "myocardial infarction",
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "Sequence_length": 110
+}
+
+{
+  "Disease": "atrial fibrillation",
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "Sequence_length": 110
+}
+

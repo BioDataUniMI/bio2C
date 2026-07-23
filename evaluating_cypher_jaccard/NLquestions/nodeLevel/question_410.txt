@@ -1,0 +1,1 @@
+Find all biological processes whose descriptions contain either the string 'progression of the cell' or 'death of the cell'. Return their label and ID.

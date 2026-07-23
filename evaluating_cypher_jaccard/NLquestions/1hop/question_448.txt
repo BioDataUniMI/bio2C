@@ -1,0 +1,1 @@
+Identify Gene Ontology terms that result in the assembly of cellular components whose label contains the string 'sno'.

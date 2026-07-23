@@ -1,0 +1,1 @@
+Find the cellular components where GO terms occur such that the label for these GO terms contains the string 'endoplasmic reticulum'.

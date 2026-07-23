@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity",
+  "BiologicalProcess": "translation",
+  "GOterm": "maintenance of translational fidelity"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity",
+  "BiologicalProcess": "translation",
+  "GOterm": "regulation of translation by machinery localization"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity",
+  "BiologicalProcess": "translation",
+  "GOterm": "triplet codon-amino acid adaptor activity"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity",
+  "BiologicalProcess": "translation",
+  "GOterm": "translation factor activity, RNA binding"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity",
+  "BiologicalProcess": "translation",
+  "GOterm": "tRNA aminoacylation for protein translation"
+}
+

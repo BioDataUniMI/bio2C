@@ -1,0 +1,1 @@
+Count the distinct precursor miRNAs and mature miRNAs linked through the same gene by transcription, considering only mature miRNAs whose labels do not end with 'precursor'.

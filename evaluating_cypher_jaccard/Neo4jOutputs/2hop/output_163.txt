@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "regulation of cellular response to drug",
+  "miRNA": "hsa-let-7c-5p",
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "BiologicalProcess": "positive regulation of cell motility",
+  "miRNA": "hsa-let-7c-5p",
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "BiologicalProcess": "regulation of cell cycle",
+  "miRNA": "hsa-let-7c-5p",
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "BiologicalProcess": "negative regulation of cell cycle",
+  "miRNA": "hsa-let-7c-5p",
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "BiologicalProcess": "regulation of cell population proliferation",
+  "miRNA": "hsa-let-7c-5p",
+  "pre_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+

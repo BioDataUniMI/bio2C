@@ -1,0 +1,1 @@
+Which miRNAs whose label ends with 'b precursor' (case-insensitive) cause or contribute to nodes that are biological process or subclasses of any biological process (consider one or more hierarchical relationships)? Return the label of the miRNA and biological process.

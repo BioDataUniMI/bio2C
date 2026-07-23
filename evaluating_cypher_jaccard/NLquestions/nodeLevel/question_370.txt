@@ -1,0 +1,1 @@
+Find all mental diseases whose description contains the word 'mood' but whose label does not contain 'mood'. Return their label and description.

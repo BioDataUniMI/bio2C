@@ -1,0 +1,30 @@
+{
+  "Disease": "fetal akinesia deformation sequence 1",
+  "Phenotype": "Small placenta",
+  "ParentDisease": "fetal akinesia deformation sequence"
+}
+
+{
+  "Disease": "restrictive dermopathy",
+  "Phenotype": "Small placenta",
+  "ParentDisease": "hereditary disease"
+}
+
+{
+  "Disease": "growth delay due to insulin-like growth factor type 1 deficiency",
+  "Phenotype": "Small placenta",
+  "ParentDisease": "growth hormone insensitivity syndrome"
+}
+
+{
+  "Disease": "growth delay due to insulin-like growth factor type 1 deficiency",
+  "Phenotype": "Small placenta",
+  "ParentDisease": "hereditary disease"
+}
+
+{
+  "Disease": "Neu-Laxova syndrome 1",
+  "Phenotype": "Small placenta",
+  "ParentDisease": "Neu-Laxova syndrome"
+}
+

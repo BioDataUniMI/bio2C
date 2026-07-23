@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN COUNT(g) AS GeneCount, AVG(SIZE(g.Sequence)) AS AverageSequenceLength

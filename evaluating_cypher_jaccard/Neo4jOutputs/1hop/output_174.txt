@@ -1,0 +1,10 @@
+{
+  "Phenotype": "High anterior hairline",
+  "Disease": "iron deficiency anemia"
+}
+
+{
+  "Phenotype": "Low posterior hairline",
+  "Disease": "iron deficiency anemia"
+}
+

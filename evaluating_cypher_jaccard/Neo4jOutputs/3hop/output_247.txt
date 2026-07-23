@@ -1,0 +1,14 @@
+{
+  "Cancer": "cancer or benign tumor",
+  "Disrupted_GO": "cell population proliferation",
+  "miRNA": "microRNA hsa-mir-509 precursor (hsa-mir-509-3)",
+  "Gene": "MIR509-3"
+}
+
+{
+  "Cancer": "cancer or benign tumor",
+  "Disrupted_GO": "cell population proliferation",
+  "miRNA": "microRNA hsa-mir-509 precursor (hsa-mir-509-2)",
+  "Gene": "MIR509-2"
+}
+

@@ -1,0 +1,20 @@
+{
+  "GOTerm": "fat cell differentiation"
+}
+
+{
+  "GOTerm": "cholesterol efflux"
+}
+
+{
+  "GOTerm": "hemopoiesis"
+}
+
+{
+  "GOTerm": "cell population proliferation"
+}
+
+{
+  "GOTerm": "lipid metabolic process"
+}
+

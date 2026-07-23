@@ -1,0 +1,25 @@
+{
+  "bp.Label": "negative regulation of cell development",
+  "bp.ID": "GO:0010721"
+}
+
+{
+  "bp.Label": "programmed cell death",
+  "bp.ID": "GO:0012501"
+}
+
+{
+  "bp.Label": "cell growth involved in cardiac muscle cell development",
+  "bp.ID": "GO:0061049"
+}
+
+{
+  "bp.Label": "regulation of cell development",
+  "bp.ID": "GO:0060284"
+}
+
+{
+  "bp.Label": "developmental cell growth",
+  "bp.ID": "GO:0048588"
+}
+

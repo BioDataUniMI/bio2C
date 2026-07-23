@@ -1,0 +1,1 @@
+Given biological processes whose labels contain 'development' but do not contain 'heart' and serve as functions of precursor miRNAs transcribed from genes, identify the biological processes that are part of them. Return the label of the: biological process, precursor miRNA, gene, and parent biological process.

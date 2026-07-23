@@ -1,0 +1,1 @@
+MATCH (c2:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Description CONTAINS 'tend to metastasize to other anatomic sites' RETURN d.Label AS disease, p.Label AS phenotype, c2.Label AS cancer

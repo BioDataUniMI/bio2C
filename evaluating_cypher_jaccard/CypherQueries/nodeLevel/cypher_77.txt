@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'amputation' AND p.Synonym IS NOT NULL RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

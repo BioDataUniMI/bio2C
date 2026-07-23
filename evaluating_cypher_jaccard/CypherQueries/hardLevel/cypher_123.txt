@@ -1,0 +1,1 @@
+MATCH (g2:Gene {Label:'CT47A12'}) UNWIND COALESCE(g2.Genomic_coordinates, []) AS coord WITH coord WHERE toLower(coord) STARTS WITH 'chr' RETURN DISTINCT coord AS Full_Genomic_Coordinate ORDER BY coord

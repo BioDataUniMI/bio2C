@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WHERE SIZE(m.Sequence) = 21 AND i.Description STARTS WITH 'a malignant' RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, i.Label AS Disease

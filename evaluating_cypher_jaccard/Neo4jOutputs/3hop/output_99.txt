@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Gene": "SMC1A",
+  "CardiovascularDisease": "Noonan syndrome"
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Gene": "SMC1A",
+  "CardiovascularDisease": "Noonan syndrome 10"
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Gene": "SMC1A",
+  "CardiovascularDisease": "Noonan syndrome 9"
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Gene": "SMC1A",
+  "CardiovascularDisease": "Noonan syndrome 8"
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Gene": "SMC1A",
+  "CardiovascularDisease": "Noonan syndrome 7"
+}
+

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'isoform' AND p.Description =~ '.*\b(mb|bb|mm)\b.*' RETURN p.Label AS Phenotype, p.Description

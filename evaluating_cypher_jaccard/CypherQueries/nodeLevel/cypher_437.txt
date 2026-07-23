@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Species <> 'Eumetazoa' RETURN mf.Label, mf.Species

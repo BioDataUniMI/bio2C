@@ -1,0 +1,1 @@
+Which autoimmune diseases are caused or contributed to by the maximum number of miRNAs and are characterized by up to 6 hierarchical relationships? Return the disease label and the number of associated miRNAs, listing the top three and ordering alphabetically by disease label in case of ties.

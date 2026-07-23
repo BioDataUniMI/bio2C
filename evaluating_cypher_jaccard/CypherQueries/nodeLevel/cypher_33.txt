@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'bone' AND (p.Synonym IS NULL OR SIZE(p.Synonym) = 0) RETURN p.Label AS Phenotype

@@ -1,0 +1,1 @@
+Find all phenotypes in which the miRNA 'hsa-miR-99a-5p' is over-expressed and this over-expression is measured with the method called 'microarray analysis'. Return the phenotype label and all the relationship sources and methods.

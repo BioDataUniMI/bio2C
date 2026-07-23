@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE NOT d.Label CONTAINS 'DNA' AND NOT d.Label CONTAINS 'depletion' RETURN d.Label AS DiseaseLabel

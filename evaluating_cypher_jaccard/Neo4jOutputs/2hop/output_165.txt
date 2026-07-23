@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "histone deacetylase activity",
+  "miRNACount": 2
+}
+
+{
+  "MolecularFunction": "ubiquitin protein ligase activity",
+  "miRNACount": 1
+}
+
+{
+  "MolecularFunction": "cyclin-dependent protein kinase activity",
+  "miRNACount": 26
+}
+
+{
+  "MolecularFunction": "voltage-gated calcium channel activity",
+  "miRNACount": 2
+}
+
+{
+  "MolecularFunction": "transcription regulator activity",
+  "miRNACount": 20
+}
+

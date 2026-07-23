@@ -1,0 +1,1 @@
+Which pairs of molecular functions are connected by both subclass-of and part-of relationships, return the source molecular function label, the target molecular function label, and the combination of relationship types between them.

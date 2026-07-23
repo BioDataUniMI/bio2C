@@ -1,0 +1,18 @@
+{
+  "CellularComponent": "chromatin",
+  "GOterm": "chromosome",
+  "miRNA_count": 18
+}
+
+{
+  "CellularComponent": "replication fork",
+  "GOterm": "chromosome",
+  "miRNA_count": 2
+}
+
+{
+  "CellularComponent": "site of DNA damage",
+  "GOterm": "chromosome",
+  "miRNA_count": 1
+}
+

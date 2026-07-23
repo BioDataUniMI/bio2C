@@ -1,0 +1,35 @@
+{
+  "GOterm": "protein carrier chaperone",
+  "MolecularFunction": "protein binding",
+  "miRNA": "hsa-miR-206",
+  "Disease": "schizophrenia"
+}
+
+{
+  "GOterm": "ATP-dependent protein disaggregase activity",
+  "MolecularFunction": "protein binding",
+  "miRNA": "hsa-miR-206",
+  "Disease": "schizophrenia"
+}
+
+{
+  "GOterm": "protein sequestering activity",
+  "MolecularFunction": "protein binding",
+  "miRNA": "hsa-miR-206",
+  "Disease": "schizophrenia"
+}
+
+{
+  "GOterm": "molecular function regulator activity",
+  "MolecularFunction": "protein binding",
+  "miRNA": "hsa-miR-206",
+  "Disease": "schizophrenia"
+}
+
+{
+  "GOterm": "protein-macromolecule adaptor activity",
+  "MolecularFunction": "protein binding",
+  "miRNA": "hsa-miR-206",
+  "Disease": "schizophrenia"
+}
+

@@ -1,0 +1,12 @@
+{
+  "Cellular_Component": "germ tube",
+  "GO_Term": "germ tube formation",
+  "Parent_GO": "spore germination"
+}
+
+{
+  "Cellular_Component": "chrorion micropyle",
+  "GO_Term": "chorion micropyle formation",
+  "Parent_GO": "egg chorion assembly"
+}
+

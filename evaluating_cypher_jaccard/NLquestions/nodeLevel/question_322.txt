@@ -1,0 +1,1 @@
+Find dog and cat diseases, i.e., diseases whose label contains both the words 'dog' and 'cat'.

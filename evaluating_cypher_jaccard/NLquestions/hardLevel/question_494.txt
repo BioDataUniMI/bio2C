@@ -1,0 +1,1 @@
+List pre-miRNAs that are causal germline mutations in phenotype or any phenotype subtype. Return the label of pre-miRNA and phenotype.

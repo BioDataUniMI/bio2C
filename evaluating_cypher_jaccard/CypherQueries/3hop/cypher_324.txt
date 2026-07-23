@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Telangiectasia of the skin'})-[:phenotype_of]->(d:Disease {Label:'blood coagulation disease'})-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength

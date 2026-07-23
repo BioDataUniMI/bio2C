@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_participant]->(m:miRNA)-[:regulates_activity_of]->(g:Gene {Label: 'PUM1'}) WHERE go.Label CONTAINS 'stimulus' RETURN go.Label AS GOTerm, m.Label AS miRNA

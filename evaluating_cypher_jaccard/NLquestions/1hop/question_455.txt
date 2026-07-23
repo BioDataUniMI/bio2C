@@ -1,0 +1,1 @@
+Identify GO terms that transport or maintain the localization of other GO terms. Include terms' labels, IDs, and the source of the relationship in the output.

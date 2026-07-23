@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-224-5p",
+  "Length": 25,
+  "BiologicalProcess": "positive regulation of stress fiber assembly"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "Length": 24,
+  "BiologicalProcess": "stress-induced premature senescence"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "Length": 24,
+  "BiologicalProcess": "regulation of cellular response to stress"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "Length": 24,
+  "BiologicalProcess": "intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "Length": 24,
+  "BiologicalProcess": "cellular response to oxidative stress"
+}
+

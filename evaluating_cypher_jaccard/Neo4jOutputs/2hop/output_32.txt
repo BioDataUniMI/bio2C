@@ -1,0 +1,25 @@
+{
+  "Cancer": "lung adenocarcinoma",
+  "BiologicalProcess": "macroautophagy"
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "BiologicalProcess": "regulation of autophagy"
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "BiologicalProcess": "apoptotic process"
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "BiologicalProcess": "autophagy"
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "BiologicalProcess": "osteoblast fate commitment"
+}
+

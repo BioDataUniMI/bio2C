@@ -1,0 +1,1 @@
+Identify gene pairs (genetically interactions) in which one of the two genes causes or contributes to the disease labeled as 'acute liver failure'. Return both genes labels.

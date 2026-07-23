@@ -1,0 +1,1 @@
+Which miRNAs are in a homology relationship with precursor miRNAs that cause or contribute to diseases that disrupt the molecular function labeled as 'protein-glutamine gamma-glutamyltransferase activity'? Return the labels of: miRNA, precursor miRNA, and disease.

@@ -1,0 +1,35 @@
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "SNRPCP6",
+  "SIZE(m.Sequence)": 21,
+  "SIZE(g.Sequence)": 210
+}
+
+{
+  "m.Label": "hsa-miR-556-3p",
+  "g.Label": "SNRPGP5",
+  "SIZE(m.Sequence)": 22,
+  "SIZE(g.Sequence)": 220
+}
+
+{
+  "m.Label": "hsa-miR-187-3p",
+  "g.Label": "SNRPGP5",
+  "SIZE(m.Sequence)": 22,
+  "SIZE(g.Sequence)": 220
+}
+
+{
+  "m.Label": "hsa-miR-4676-3p",
+  "g.Label": "SNRPGP5",
+  "SIZE(m.Sequence)": 22,
+  "SIZE(g.Sequence)": 220
+}
+
+{
+  "m.Label": "hsa-miR-6816-5p",
+  "g.Label": "SNRPCP16",
+  "SIZE(m.Sequence)": 21,
+  "SIZE(g.Sequence)": 210
+}
+

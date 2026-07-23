@@ -1,0 +1,27 @@
+{
+  "AutoimmuneDisease": "multiple sclerosis",
+  "Pre_miRNAs": [
+    "microRNA hsa-mir-223 precursor"
+  ],
+  "Sources": [
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ]
+  ],
+  "PubMedIDs": [
+    [
+      "24277735",
+      "29246612",
+      "27725128",
+      "19823682",
+      "27083389",
+      "26305248",
+      "29325906",
+      "17478730"
+    ]
+  ]
+}
+

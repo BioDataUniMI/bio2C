@@ -1,0 +1,35 @@
+{
+  "Gene": "GNE",
+  "Coordinates": [
+    "chr9:36214441-36277042-"
+  ]
+}
+
+{
+  "Gene": "MIR548AW",
+  "Coordinates": [
+    "chr9:132945707-132945771+"
+  ]
+}
+
+{
+  "Gene": "MIR548AU",
+  "Coordinates": [
+    "chr9:93594841-93594894+"
+  ]
+}
+
+{
+  "Gene": "BANCR",
+  "Coordinates": [
+    "chr9:69296671-69311111-"
+  ]
+}
+
+{
+  "Gene": "ANKRD18CP",
+  "Coordinates": [
+    "chr9:97156570-97221235-"
+  ]
+}
+

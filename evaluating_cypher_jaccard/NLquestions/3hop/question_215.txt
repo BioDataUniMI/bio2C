@@ -1,0 +1,1 @@
+Identify the miRNAs that regulate the activity of genes which genetically interact with genes whose labels end with a digit and that cause or contribute to diseases whose label contains 'nephrotic'. Return the label of the miRNA, the genes, and the disease.

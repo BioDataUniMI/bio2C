@@ -1,0 +1,16 @@
+{
+  "miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Sources": [
+    "HMDD"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "InfectiousDisease": "silicotuberculosis",
+  "Sources": [
+    "HMDD"
+  ]
+}
+

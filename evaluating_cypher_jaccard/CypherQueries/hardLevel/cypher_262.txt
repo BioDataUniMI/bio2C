@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH m, COLLECT(DISTINCT g) AS genes WHERE SIZE(genes) >= 200 RETURN m.Label AS miRNA, SIZE(genes) AS num_genes

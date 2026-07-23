@@ -1,0 +1,25 @@
+{
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "COVID-19"
+}
+
+{
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "viral myocarditis"
+}
+
+{
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "tuberculosis"
+}
+
+{
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "AIDS"
+}
+
+{
+  "last_30_percent_sequence": "UGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU",
+  "id.Label": "pyelonephritis"
+}
+

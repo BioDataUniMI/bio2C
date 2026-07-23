@@ -1,0 +1,1 @@
+Find all miRNAs where a GO term is function of the miRNA and the miRNA is causal somatic mutation in the cancer labeled as 'gastric adenocarcinoma'. Return the GO term and the miRNA.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH 1.0 * (SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'G', ''))) / SIZE(m.Sequence) AS gPct WITH MAX(gPct) AS maxPct MATCH (m:miRNA) WITH m, maxPct, 1.0 * (SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'G', ''))) / SIZE(m.Sequence) AS gPct WHERE gPct = maxPct RETURN m.Label AS miRNA, gPct

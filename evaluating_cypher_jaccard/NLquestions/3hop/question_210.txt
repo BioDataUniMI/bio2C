@@ -1,0 +1,1 @@
+Count the number of phenotypes of each disease that causes disruption of GO terms having biological processes as a part. Return the disease label and the phenotype count, ordered by count in descending order.

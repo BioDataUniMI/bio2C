@@ -1,0 +1,22 @@
+{
+  "chr_list": [
+    "chr9",
+    "chr22"
+  ]
+}
+
+{
+  "chr_list": [
+    "chr11",
+    "chr21"
+  ]
+}
+
+{
+  "chr_list": [
+    "chr11",
+    "chr9",
+    "chr22"
+  ]
+}
+

@@ -1,0 +1,5 @@
+{
+  "GOterm": "phosphorylase kinase activity",
+  "DiseaseCount": 3
+}
+

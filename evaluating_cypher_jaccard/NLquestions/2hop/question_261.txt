@@ -1,0 +1,1 @@
+Identify miRNAs that regulate the gene 'DDX17' and the genes that genetically interact with it. Return the miRNA and the interacting gene labels.

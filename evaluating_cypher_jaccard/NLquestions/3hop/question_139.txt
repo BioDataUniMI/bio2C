@@ -1,0 +1,1 @@
+Find miRNAs whose labels end with '5p' that are under-expressed in cancers which are subclasses of diseases whose labels contain 'cervical carcinoma', where those diseases have phenotypes whose labels contain the word ‘impairment’. Return the miRNA label, phenotype label, and disease label.

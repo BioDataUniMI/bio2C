@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'zona pellucida' RETURN cc.Label AS CellularComponent

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'Aşırı yükselmiş') RETURN p.Label AS Phenotype, p.ID

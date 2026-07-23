@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-375-5p",
+  "Disease": "carcinoma of esophagus",
+  "FDR": 0.001381087,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-375-3p",
+  "Disease": "carcinoma of esophagus",
+  "FDR": 0.001381087,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

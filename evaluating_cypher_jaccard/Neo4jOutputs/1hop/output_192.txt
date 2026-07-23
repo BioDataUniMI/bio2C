@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-630",
+  "Disease": "osteosarcoma",
+  "Score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-625-3p",
+  "Disease": "osteosarcoma",
+  "Score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-15b-3p",
+  "Disease": "osteosarcoma",
+  "Score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-33a-5p",
+  "Disease": "osteosarcoma",
+  "Score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-323a-3p",
+  "Disease": "osteosarcoma",
+  "Score": 0.968971
+}
+

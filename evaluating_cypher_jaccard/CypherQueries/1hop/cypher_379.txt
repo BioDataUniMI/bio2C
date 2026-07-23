@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:has_part_that_occurs_in]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOTerm, r.Source AS Sources

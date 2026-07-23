@@ -1,0 +1,1 @@
+Find cancers whose label or description contain 'malignant' and whose description contains 'variant'. Return their label and URI.

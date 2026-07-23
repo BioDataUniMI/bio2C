@@ -1,0 +1,8 @@
+{
+  "g.Label": "meiotic telophase I",
+  "bp.Label": "meiosis II cell cycle phase",
+  "r.Source": [
+    "GO"
+  ]
+}
+

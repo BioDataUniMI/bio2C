@@ -1,0 +1,20 @@
+{
+  "mf.Label": "pre-miRNA binding"
+}
+
+{
+  "mf.Label": "endoribonuclease activity, cleaving miRNA-paired mRNA"
+}
+
+{
+  "mf.Label": "miRNA binding"
+}
+
+{
+  "mf.Label": "double-stranded miRNA binding"
+}
+
+{
+  "mf.Label": "3'-5'-exoribonuclease activity involved in mature miRNA 3'-end processing"
+}
+

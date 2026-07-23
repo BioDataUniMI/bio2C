@@ -1,0 +1,5 @@
+{
+  "n.Label": "progressive myoclonic epilepsy type 3",
+  "n.Description": "any progressive myoclonic epilepsy in which the cause of the disease is a mutation in the kctd7 g..."
+}
+

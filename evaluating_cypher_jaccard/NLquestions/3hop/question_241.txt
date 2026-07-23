@@ -1,0 +1,1 @@
+Identify the GO terms that are parts of biological processes whose disruption is caused by diseases that have the phenotype labeled as 'Joint hypermobility'. Return the labels of: the disease, the biological process, and the GO term.

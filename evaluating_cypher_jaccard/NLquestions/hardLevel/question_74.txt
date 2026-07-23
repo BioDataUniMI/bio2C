@@ -1,0 +1,1 @@
+Find the number of 'AAA' repetitions in the sequences of pre-miRNAs that are under-expressed in the GO term 'cell killing' and whose sequence starts and ends with the same letter.

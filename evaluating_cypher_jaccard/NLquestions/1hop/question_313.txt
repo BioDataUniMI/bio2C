@@ -1,0 +1,1 @@
+Return autoimmune diseases containing 'celiac disease' in their label and do not have any phenotype.

@@ -1,0 +1,8 @@
+{
+  "Process_name": "programmed necrotic cell death",
+  "Process_description": "a necrotic cell death process that results from the activation of endogenous cellular processes, ...",
+  "Context": [
+    "cardiomyocyte progenitor cells"
+  ]
+}
+

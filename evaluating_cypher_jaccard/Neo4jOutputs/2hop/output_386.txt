@@ -1,0 +1,30 @@
+{
+  "Precursor": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "Mature_miRNA": "hsa-miR-124-3p",
+  "InteractingPrecursor": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-124 precursor (hsa-mir-124-2)",
+  "Mature_miRNA": "hsa-miR-124-3p",
+  "InteractingPrecursor": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-124 precursor (hsa-mir-124-3)",
+  "Mature_miRNA": "hsa-miR-124-3p",
+  "InteractingPrecursor": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-122 precursor",
+  "Mature_miRNA": "hsa-miR-122-5p",
+  "InteractingPrecursor": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-506 precursor",
+  "Mature_miRNA": "hsa-miR-506-3p",
+  "InteractingPrecursor": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)"
+}
+

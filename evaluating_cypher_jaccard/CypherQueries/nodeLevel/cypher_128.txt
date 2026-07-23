@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR31' AND ANY(s IN g.Synonym WHERE toLower(s) CONTAINS 'microrna 3171') RETURN g.Label AS Gene, g.Synonym AS Synonyms

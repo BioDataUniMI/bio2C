@@ -1,0 +1,1 @@
+Count the number of GO terms for which miRNAs, known to develop from precursor miRNAs, serve as their function.

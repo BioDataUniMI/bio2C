@@ -1,0 +1,1 @@
+Which miRNAs can be over-expressed or under-expressed in both autoimmune diseases and cardiovascular diseases? What is their type of expression (over- or under-expressed) in each disease? Return the miRNA label, the expression type in the autoimmune disease, the expression type in the cardiovascular disease, and the corresponding autoimmune and cardiovascular disease labels.

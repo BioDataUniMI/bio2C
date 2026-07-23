@@ -1,0 +1,40 @@
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4304",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4285",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4251",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4300",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-5680",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+

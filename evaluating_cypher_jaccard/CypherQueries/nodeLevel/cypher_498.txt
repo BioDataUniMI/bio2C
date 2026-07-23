@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'cancer' AND (syn CONTAINS 'antigen' OR syn CONTAINS 'isomerase')) RETURN g.Label, g.Synonym

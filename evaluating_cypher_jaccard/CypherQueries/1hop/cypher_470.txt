@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:not_involved_in]->(bp:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chr19') RETURN m.Sequence, m.Genomic_coordinates, bp.Label

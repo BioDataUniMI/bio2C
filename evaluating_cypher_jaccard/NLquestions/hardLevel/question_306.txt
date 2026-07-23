@@ -1,0 +1,1 @@
+Which miRNAs are over-expressed in Alzheimer disease, where Alzheimer disease has the 'Seizure' phenotype, and which other diseases have the 'Seizure' phenotype? Return the label of miRNA, Alzheimer disease, phenotype and the collection of the other diseases labels.

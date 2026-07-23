@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_modifier]->(p:Phenotype) RETURN p.Label, d.Label

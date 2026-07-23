@@ -1,0 +1,1 @@
+Find all mental diseases whose description contains the word 'sadness'. Return their label and URI.

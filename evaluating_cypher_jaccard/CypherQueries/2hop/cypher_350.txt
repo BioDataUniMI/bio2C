@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease {Label:'Cockayne syndrome type 2'})-[:subclassof]->(d:Disease)-[:disease_has_feature]->(p:Phenotype) WHERE p.Label CONTAINS 'Growth' OR p.Description CONTAINS 'Growth' RETURN d.Label AS ParentDisease, p.Label AS Phenotype

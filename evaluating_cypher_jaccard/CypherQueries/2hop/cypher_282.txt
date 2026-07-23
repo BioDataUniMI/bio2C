@@ -1,0 +1,1 @@
+MATCH (c:Cancer {Label: 'pituitary gigantism'})-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN DISTINCT p.Label AS Phenotype, go.Label AS GOterm

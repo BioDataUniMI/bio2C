@@ -1,0 +1,24 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661",
+  "TargetGene": "RAB3D"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661",
+  "TargetGene": "MTA2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661",
+  "TargetGene": "MTA1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-661 precursor",
+  "miRNA": "hsa-miR-661",
+  "TargetGene": "VCL"
+}
+

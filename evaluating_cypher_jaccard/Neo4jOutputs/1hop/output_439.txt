@@ -1,0 +1,18 @@
+{
+  "d.Label": "inborn mitochondrial metabolism disorder",
+  "cc.Label": "mitochondrion",
+  "cc.Description": "a semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in..."
+}
+
+{
+  "d.Label": "peroxisomal disease",
+  "cc.Label": "peroxisome",
+  "cc.Description": "a small organelle enclosed by a single membrane, and found in most eukaryotic cells. contains per..."
+}
+
+{
+  "d.Label": "mitochondrial disease",
+  "cc.Label": "mitochondrion",
+  "cc.Description": "a semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in..."
+}
+

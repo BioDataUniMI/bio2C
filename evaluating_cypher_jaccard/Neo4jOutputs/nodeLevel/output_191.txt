@@ -1,0 +1,35 @@
+{
+  "Gene": "PIP5K1P2",
+  "Genomic_coordinates": [
+    "chr7:159231435-159233377+"
+  ]
+}
+
+{
+  "Gene": "AKAP9",
+  "Genomic_coordinates": [
+    "chr7:91940840-92110673+"
+  ]
+}
+
+{
+  "Gene": "CDK5",
+  "Genomic_coordinates": [
+    "chr7:151053815-151057897-"
+  ]
+}
+
+{
+  "Gene": "CDK6",
+  "Genomic_coordinates": [
+    "chr7:92604921-92836573-"
+  ]
+}
+
+{
+  "Gene": "FASTK",
+  "Genomic_coordinates": [
+    "chr7:151076624-151080866-"
+  ]
+}
+

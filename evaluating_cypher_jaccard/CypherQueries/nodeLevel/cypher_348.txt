@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'gene' AND cd.Description CONTAINS 'mutation' RETURN cd.Label AS DiseaseLabel, cd.ID AS DiseaseID

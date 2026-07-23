@@ -1,0 +1,1 @@
+Identify pre-miRNAs transcribed from the gene 'MIR4522' that are further transcribed into miRNAs, and return the pre-miRNA and the mature miRNA labels.

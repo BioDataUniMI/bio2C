@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[r1:participates_in]->(bp:Biological_process)-[r2:has_characteristic]->(ph:Phenotype) RETURN pre.Label AS Pre_miRNA, bp.Label AS BiologicalProcess, ph.Label AS Phenotype, r1.Source AS Source_participates_in, r2.Source AS Source_has_characteristic

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) WITH m, COUNT(DISTINCT cc) AS Components, COUNT(DISTINCT go) AS ParentGOTerms WHERE ParentGOTerms >= 9 RETURN m.Label AS miRNA, Components, ParentGOTerms

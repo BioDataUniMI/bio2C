@@ -1,0 +1,21 @@
+{
+  "miRNA": "hsa-miR-6775-5p",
+  "Sequence_Length": 25,
+  "Number_of_G": 16,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-6756-5p",
+  "Sequence_Length": 23,
+  "Number_of_G": 15,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-939-5p",
+  "Sequence_Length": 24,
+  "Number_of_G": 14,
+  "Cancer": "lung adenocarcinoma"
+}
+

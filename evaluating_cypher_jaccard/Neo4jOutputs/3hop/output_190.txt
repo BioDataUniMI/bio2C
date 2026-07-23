@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+

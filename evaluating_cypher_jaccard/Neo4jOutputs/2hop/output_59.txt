@@ -1,0 +1,35 @@
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-483-3p",
+  "Gene": "ACTR3P3",
+  "FDR": 2.45e-104
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-483-3p",
+  "Gene": "ADAM1A",
+  "FDR": 2.45e-104
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-483-3p",
+  "Gene": "API5",
+  "FDR": 2.45e-104
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-483-3p",
+  "Gene": "BRCC3P1",
+  "FDR": 2.45e-104
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-483-3p",
+  "Gene": "BRD7P1",
+  "FDR": 2.45e-104
+}
+

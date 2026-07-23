@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'axon guidance' AND g.Description CONTAINS 'signaling' RETURN g.Label AS GO

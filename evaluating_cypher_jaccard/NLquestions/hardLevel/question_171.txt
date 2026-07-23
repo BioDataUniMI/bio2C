@@ -1,0 +1,1 @@
+Which miRNAs whose label contains '103' exactly twice have as a function GO terms that have both as a target start location a GO term and as a target end location a GO term? Return the miRNA label, the GO term label, the target start location GO term, and the target end location GO term.

@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "microvesicle"
+}
+

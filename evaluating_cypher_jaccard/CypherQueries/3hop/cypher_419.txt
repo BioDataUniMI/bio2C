@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:subclassof]->(d2:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) WHERE toLower(d1.Label) CONTAINS 'neuropathy-sensorineural' RETURN d1.Label AS Subtype, d2.Label AS Supertype, p.Label AS Phenotype, go.Label AS GOterm

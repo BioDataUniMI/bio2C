@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE NOT (bp)-[:part_of]->(:Cellular_component) RETURN COUNT(bp) AS processes_without_cc

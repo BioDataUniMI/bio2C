@@ -1,0 +1,1 @@
+Which phenotypes whose description contains 'hypoplasia' have at least one synonym containing 'facial'?

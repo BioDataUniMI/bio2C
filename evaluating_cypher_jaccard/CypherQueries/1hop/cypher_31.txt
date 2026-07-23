@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'sahara' RETURN DISTINCT d.ID AS Disease_ID, d.Label AS Disease_label, d.Description AS Disease_description

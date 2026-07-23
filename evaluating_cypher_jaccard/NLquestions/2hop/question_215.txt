@@ -1,0 +1,1 @@
+Identify molecular functions that regulate GO terms which are part of biological processes, and return the biological process, the GO term, and the regulating molecular function.

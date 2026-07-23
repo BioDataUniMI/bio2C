@@ -1,0 +1,25 @@
+{
+  "Cancer": "brain cancer",
+  "miRNA": "hsa-miR-519e-5p"
+}
+
+{
+  "Cancer": "brain cancer",
+  "miRNA": "hsa-miR-548bb-3p"
+}
+
+{
+  "Cancer": "brain cancer",
+  "miRNA": "hsa-miR-3181"
+}
+
+{
+  "Cancer": "brain cancer",
+  "miRNA": "hsa-miR-1292-3p"
+}
+
+{
+  "Cancer": "brain cancer",
+  "miRNA": "hsa-miR-6840-5p"
+}
+

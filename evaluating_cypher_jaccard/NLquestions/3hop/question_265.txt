@@ -1,0 +1,1 @@
+In which cellular components do certain biological processes? By 'certain' I mean: miRNAs expressed in the 'anxiety disorder' disease participate in these processes. Return the disease label, the miRNA label, the biological process label, and the cellular component label.

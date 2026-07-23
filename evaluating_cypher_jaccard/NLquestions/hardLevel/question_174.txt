@@ -1,0 +1,1 @@
+Count the number of cytosine (C) nucleotides in the shortest miRNA sequences among miRNAs that have function GO terms with both target start and target end locations, returning up to three miRNAs ordered alphabetically in case of ties.

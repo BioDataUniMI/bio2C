@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE bp.Description CONTAINS 'chemical reactions' AND bp.Description CONTAINS 'receptor' WITH bp.Label AS Label, SPLIT(bp.Description, ' ') AS words WITH Label, words[0..10] AS first10 RETURN Label, REDUCE(s = '', w IN first10 | s + w + ' ') AS DescriptionSnippet

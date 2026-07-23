@@ -1,0 +1,1 @@
+Find pre-miRNAs that develop into miRNAs which interact with other miRNAs that regulate the activity of the gene ‘TPI1P1’. Return the pre-miRNA label, the labels of both miRNAs.

@@ -1,0 +1,1 @@
+Return the miRNA label and genomic coordinates for the three longest-sequence miRNA–disease over-expression relationships, ordered by descending sequence length and, in case of ties, alphabetically by miRNA label.

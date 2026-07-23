@@ -1,0 +1,35 @@
+{
+  "PathLabels": [
+    "ORF1ab of severe acute respiratory syndrome coronavirus 2",
+    "gene of severe acute respiratory syndrome coronavirus 2"
+  ]
+}
+
+{
+  "PathLabels": [
+    "N gene of severe acute respiratory syndrome coronavirus 2",
+    "gene of severe acute respiratory syndrome coronavirus 2"
+  ]
+}
+
+{
+  "PathLabels": [
+    "ORF10 of severe acute respiratory syndrome coronavirus 2",
+    "gene of severe acute respiratory syndrome coronavirus 2"
+  ]
+}
+
+{
+  "PathLabels": [
+    "ORF7a of severe acute respiratory syndrome coronavirus 2",
+    "gene of severe acute respiratory syndrome coronavirus 2"
+  ]
+}
+
+{
+  "PathLabels": [
+    "ORF7b of severe acute respiratory syndrome coronavirus 2",
+    "gene of severe acute respiratory syndrome coronavirus 2"
+  ]
+}
+

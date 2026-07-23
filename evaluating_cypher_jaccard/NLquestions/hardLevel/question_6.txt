@@ -1,0 +1,1 @@
+Which pre-miRNAs are under-expressed in autoimmune diseases sourced from miR2Disease? Keep only interactions with more than two supporting PubMed IDs. Return the autoimmune disease label, the list of the sources, the list of distinct pre-miRNAs' label and the list of distinct PubMedIDs.

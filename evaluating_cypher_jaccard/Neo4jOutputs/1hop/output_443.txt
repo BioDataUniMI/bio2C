@@ -1,0 +1,20 @@
+{
+  "bp.Label": "protein transport by the Sec complex",
+  "cc.Label": "plasma membrane"
+}
+
+{
+  "bp.Label": "auxin import into cell",
+  "cc.Label": "plasma membrane"
+}
+
+{
+  "bp.Label": "peptide pheromone export by transmembrane transport",
+  "cc.Label": "plasma membrane"
+}
+
+{
+  "bp.Label": "manganese import into cell",
+  "cc.Label": "plasma membrane"
+}
+

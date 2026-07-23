@@ -1,0 +1,30 @@
+{
+  "PreMiRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "MatureMiRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm"
+}
+
+{
+  "PreMiRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "MatureMiRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm"
+}
+
+{
+  "PreMiRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "MatureMiRNA": "hsa-let-7a-3p",
+  "Cancer": "adenoma"
+}
+
+{
+  "PreMiRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "MatureMiRNA": "hsa-let-7a-3p",
+  "Cancer": "adenoma"
+}
+
+{
+  "PreMiRNA": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "MatureMiRNA": "hsa-let-7a-3p",
+  "Cancer": "sarcoma"
+}
+

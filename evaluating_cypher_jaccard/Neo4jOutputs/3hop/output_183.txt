@@ -1,0 +1,6 @@
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Ventricular fibrillation",
+  "GOterm": "cardiac muscle contraction"
+}
+

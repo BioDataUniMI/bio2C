@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Description CONTAINS 'rare' AND d.Description CONTAINS 'genetic' AND d.Description CONTAINS 'autism' AND SIZE(LABELS(d)) = 1 RETURN d.Label

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component) WITH cc, SUBSTRING(m.Sequence, SIZE(m.Sequence)-10, 10) AS last10, COLLECT(DISTINCT m.Label) AS mirnas WITH cc, last10, mirnas WHERE SIZE(mirnas) >= 3 RETURN cc.Label AS Cellular_Component, last10 AS Shared_Last_10, mirnas, SIZE(mirnas) AS miRNA_count

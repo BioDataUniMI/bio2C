@@ -1,0 +1,1 @@
+Retrieve all properties (i.e., the entire nodes) of diseases whose labels contain 'child' and that are both neurodegenerative and autoimmune.

@@ -1,0 +1,20 @@
+{
+  "c.Label": "phosphatidylinositol 3-kinase complex, class IA"
+}
+
+{
+  "c.Label": "calprotectin complex"
+}
+
+{
+  "c.Label": "S100A9 complex"
+}
+
+{
+  "c.Label": "NarGHI complex"
+}
+
+{
+  "c.Label": "Sm-like protein family complex"
+}
+

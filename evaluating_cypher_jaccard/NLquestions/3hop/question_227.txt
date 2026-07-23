@@ -1,0 +1,1 @@
+Count the number of GO terms part of a cellular component where miRNAs expressed in cancers are located. Return the cellular component label and the GO term count, ordered by count in descending order.

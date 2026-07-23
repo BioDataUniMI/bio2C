@@ -1,0 +1,20 @@
+{
+  "Disease": "progressive relapsing multiple sclerosis"
+}
+
+{
+  "Disease": "relapsing-remitting multiple sclerosis"
+}
+
+{
+  "Disease": "adrenoleukodystrophy"
+}
+
+{
+  "Disease": "multiple sclerosis"
+}
+
+{
+  "Disease": "Aicardi-Goutieres syndrome 5"
+}
+

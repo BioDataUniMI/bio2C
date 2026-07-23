@@ -1,0 +1,20 @@
+{
+  "MolecularFunction": "protein tyrosine kinase binding"
+}
+
+{
+  "MolecularFunction": "mitogen-activated protein kinase binding"
+}
+
+{
+  "MolecularFunction": "receptor tyrosine kinase binding"
+}
+
+{
+  "MolecularFunction": "3-phosphoinositide-dependent protein kinase binding"
+}
+
+{
+  "MolecularFunction": "mitogen-activated protein kinase kinase binding"
+}
+

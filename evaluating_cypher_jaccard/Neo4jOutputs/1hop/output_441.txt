@@ -1,0 +1,30 @@
+{
+  "bp.Label": "ribosomal subunit export from nucleus",
+  "cc.Label": "cytosol",
+  "TYPE(r)": "has_target_end_location"
+}
+
+{
+  "bp.Label": "ribosomal subunit export from nucleus",
+  "cc.Label": "nuclear lumen",
+  "TYPE(r)": "has_target_start_location"
+}
+
+{
+  "bp.Label": "ribosomal large subunit export from nucleus",
+  "cc.Label": "cytosol",
+  "TYPE(r)": "has_target_end_location"
+}
+
+{
+  "bp.Label": "ribosomal large subunit export from nucleus",
+  "cc.Label": "nuclear lumen",
+  "TYPE(r)": "has_target_start_location"
+}
+
+{
+  "bp.Label": "ribosomal small subunit export from nucleus",
+  "cc.Label": "cytosol",
+  "TYPE(r)": "has_target_end_location"
+}
+

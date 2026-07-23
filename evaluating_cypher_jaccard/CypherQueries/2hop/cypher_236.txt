@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:over_expressed_in]->(id:Infectious_disease)-[:has_phenotype]->(p:Phenotype) WHERE p.Label CONTAINS 'tachycardia' RETURN pre.Label AS Pre_miRNA, id.Label AS InfectiousDisease, p.Label AS Phenotype

@@ -1,0 +1,1 @@
+Identify biological processes that include the molecular function labeled as 'glucokinase activity' as a part, where this molecular function is regulated by a GO term. Return the label of the GO term and biological process.

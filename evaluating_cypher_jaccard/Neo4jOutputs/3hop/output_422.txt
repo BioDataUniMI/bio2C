@@ -1,0 +1,30 @@
+{
+  "Disease": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedDisease": "nasopharyngeal carcinoma",
+  "Pre_miRNA_Count": 170
+}
+
+{
+  "Disease": "vitiligo-associated multiple autoimmune disease susceptibility 1",
+  "PredisposedDisease": "autoimmune disease",
+  "Pre_miRNA_Count": 6
+}
+
+{
+  "Disease": "sarcoidosis, susceptibility to, 1",
+  "PredisposedDisease": "sarcoidosis",
+  "Pre_miRNA_Count": 5
+}
+
+{
+  "Disease": "autism, susceptibility to, X-linked 2",
+  "PredisposedDisease": "autism",
+  "Pre_miRNA_Count": 1
+}
+
+{
+  "Disease": "pelvic organ prolapse, susceptibility to",
+  "PredisposedDisease": "pelvic organ prolapse",
+  "Pre_miRNA_Count": 1
+}
+

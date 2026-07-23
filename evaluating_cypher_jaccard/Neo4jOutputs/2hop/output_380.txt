@@ -1,0 +1,9 @@
+{
+  "Disease": "senior-loken syndrome 3",
+  "Phenotype": "Polyuria",
+  "GOterm": "micturition",
+  "PhenotypeSource": [
+    "HPO"
+  ]
+}
+

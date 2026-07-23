@@ -1,0 +1,1 @@
+Find miRNAs that develop from pre-miRNAs causing or contributing to the disease labeled as 'thyroid tumor'. Keep only those miRNAs that are not involved in the GO term labeled as 'regulation of angiogenesis'. Also, retrieve the source providing evidence for the pre-miRNA->disease relationship. Return the label of: miRNA, pre-miRNA, GO term, and sources of causal relashionship.

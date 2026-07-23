@@ -1,0 +1,1 @@
+Identify the GO terms representing the functions of the pre-miRNA 'microRNA hsa-mir-132 precursor'. Moreover, select ONLY GO term that are part of molecular functions and other GO sub-terms. Return the GO function label, the molecular function label, and the GO sub-term label.

@@ -1,0 +1,1 @@
+List miRNAs under-expressed in phenotypes with context mentioning 'lovo' or '1 cell'. Return the label of miRNA, phenotype, and the underexpression context.

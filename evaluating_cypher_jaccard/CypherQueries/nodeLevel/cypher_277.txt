@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label =~ '.*[fjh] precursor$' RETURN pm.Label

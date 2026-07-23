@@ -1,0 +1,1 @@
+Identify geneÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œmiRNA transcription chains where a miRNA is transcribed from a gene whose label ends with three digits followed by 'A', and the same gene also transcribes a pre-miRNA that develops into another mature miRNA. Return the label of the: gene, miRNAs, and pre-miRNA.

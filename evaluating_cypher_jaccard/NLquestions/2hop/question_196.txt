@@ -1,0 +1,1 @@
+Find GO terms in which mature miRNAs, developed from pre-miRNAs, are active, and return the pre-miRNA, the mature miRNA, and the GO term labels.

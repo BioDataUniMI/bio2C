@@ -1,0 +1,28 @@
+{
+  "GOTerm": "anion transmembrane transport",
+  "Synonyms": [
+    "monoatomic anion transmembrane transport"
+  ]
+}
+
+{
+  "GOTerm": "ion transmembrane transporter activity",
+  "Synonyms": [
+    "monoatomic ion transmembrane transporter activity"
+  ]
+}
+
+{
+  "GOTerm": "monoatomic anion transmembrane transporter activity",
+  "Synonyms": [
+    "anion transmembrane transporter activity"
+  ]
+}
+
+{
+  "GOTerm": "ion transmembrane transport",
+  "Synonyms": [
+    "monoatomic ion transmembrane transport"
+  ]
+}
+

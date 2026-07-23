@@ -1,0 +1,1 @@
+Count the sequence length of miRNAs whose labels contain 'ENSG' and participate in GO terms. Return miRNA label, GO term label, and sequence length.

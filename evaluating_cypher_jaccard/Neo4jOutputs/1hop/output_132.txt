@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "GenomicCoordinates": [
+    "chr1:207802450-207802472-",
+    "chr7:130877467-130877489-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "GenomicCoordinates": [
+    "chr7:130876748-130876769-"
+  ]
+}
+

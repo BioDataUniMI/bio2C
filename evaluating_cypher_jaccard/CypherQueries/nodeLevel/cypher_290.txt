@@ -1,0 +1,1 @@
+MATCH (g:Gene) RETURN MIN(SIZE(g.Sequence)) AS MinSequenceLength

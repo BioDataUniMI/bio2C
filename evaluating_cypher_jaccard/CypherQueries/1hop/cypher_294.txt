@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:has_participant]->(x) WHERE (x:miRNA OR x:pre_miRNA) AND g.Label CONTAINS 'glial cell development' RETURN g.Label AS GO, x.Label AS Participant

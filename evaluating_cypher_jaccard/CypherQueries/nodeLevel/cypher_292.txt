@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label =~ '^MIR.*-[4-9]+$' RETURN g.Label AS GeneLabel

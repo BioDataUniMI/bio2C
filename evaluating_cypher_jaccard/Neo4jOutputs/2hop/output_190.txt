@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-miR-133a-3p",
+  "BiologicalProcess": "sodium ion import across plasma membrane",
+  "MolecularFunction": "pantothenate:sodium symporter activity"
+}
+
+{
+  "miRNA": "hsa-miR-185-5p",
+  "BiologicalProcess": "sodium ion import across plasma membrane",
+  "MolecularFunction": "pantothenate:sodium symporter activity"
+}
+
+{
+  "miRNA": "hsa-miR-133b",
+  "BiologicalProcess": "sodium ion import across plasma membrane",
+  "MolecularFunction": "pantothenate:sodium symporter activity"
+}
+
+{
+  "miRNA": "hsa-miR-1-3p",
+  "BiologicalProcess": "sodium ion import across plasma membrane",
+  "MolecularFunction": "pantothenate:sodium symporter activity"
+}
+

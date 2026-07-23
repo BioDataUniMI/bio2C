@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer {Label:'malignant pancreatic neoplasm'})-[:subclassof]->(d:Disease) WHERE (d.Label CONTAINS 'malignant' OR d.Description CONTAINS 'malignant') AND m.Label ENDS WITH '0a-5p' RETURN  m.Label AS miRNA, d.Label AS ParentDisease

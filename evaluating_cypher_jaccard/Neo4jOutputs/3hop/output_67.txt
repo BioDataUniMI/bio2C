@@ -1,0 +1,24 @@
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Myelitis"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Arthritis"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Meningitis"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Conjunctivitis"
+}
+

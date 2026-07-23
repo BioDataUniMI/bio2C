@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-106b precursor",
+  "Biological_process": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200b precursor",
+  "Biological_process": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-27b precursor",
+  "Biological_process": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-23b precursor",
+  "Biological_process": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-15b precursor",
+  "Biological_process": "inflammatory response"
+}
+

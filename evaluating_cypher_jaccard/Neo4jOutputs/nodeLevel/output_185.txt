@@ -1,0 +1,72 @@
+{
+  "Phenotype": "Aortic valve stenosis",
+  "Synonyms": [
+    "Estenosis de la válvula aórtica",
+    "Sténose valvulaire aortique",
+    "Stenóza aortální chlopně",
+    "主动脉瓣狭窄",
+    "Aort kapak stenozu",
+    "大動脈弁狭窄",
+    "Stenosi della valvola aortica",
+    "Aortaklepstenose",
+    "Aortenklappenverengung"
+  ]
+}
+
+{
+  "Phenotype": "Supravalvular aortic stenosis",
+  "Synonyms": [
+    "Supravavlvulární aortální stenóza",
+    "Stenosi aortica sopravalvolare",
+    "Sténose aortique supra-valvulaire",
+    "Supravalvüler aort stenozu",
+    "Estenosis aórtica supravalvular",
+    "主动脉瓣上狭窄",
+    "弁上性大動脈狭窄",
+    "Supravalvulaire aorta stenose",
+    "Supravalvuläre Aortenstenose"
+  ]
+}
+
+{
+  "Phenotype": "Subvalvular aortic stenosis",
+  "Synonyms": [
+    "Estenosis subaórtica",
+    "大動脈弁下狭窄",
+    "Subvalvulární stenóza aorty",
+    "Subvalvuläre Aortenstenose",
+    "主动脉瓣下狭窄",
+    "Stenosi aortica subvalvolare",
+    "Subaortische stenose",
+    "Subaortik stenoz",
+    "Sténose subvalvulaire aortique"
+  ]
+}
+
+{
+  "Phenotype": "Aorto-left ventricular tunnel",
+  "Synonyms": [
+    "Aortolevokomorový tunel",
+    "主动脉左心室隧道",
+    "Aorto-sol ventriküler tünel",
+    "Canal aortico-ventricular izquierdo",
+    "Tunnel ventriculaire aorto-gauche",
+    "大動脈-左室トンネル"
+  ]
+}
+
+{
+  "Phenotype": "Aortic arch aneurysm",
+  "Synonyms": [
+    "Aneurisma dell'arco aortico",
+    "Aortenbogenaneurysma",
+    "Dilatación del arco aórtico",
+    "Anevrysme de l'arche aortique",
+    "主动脉弓部瘤",
+    "Aneuryzma aortálního oblouku",
+    "大動脈弓拡張",
+    "Aortaboog aneurysma",
+    "Aort yayı dilatasyonu"
+  ]
+}
+

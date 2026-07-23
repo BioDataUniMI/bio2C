@@ -1,0 +1,30 @@
+{
+  "AutoimmuneDisease": "proteosome-associated autoinflammatory syndrome",
+  "Phenotype": "Lipodystrophy",
+  "Cancer": "encephalocraniocutaneous lipomatosis"
+}
+
+{
+  "AutoimmuneDisease": "proteosome-associated autoinflammatory syndrome",
+  "Phenotype": "Lipodystrophy",
+  "Cancer": "familial multiple lipomatosis"
+}
+
+{
+  "AutoimmuneDisease": "proteosome-associated autoinflammatory syndrome",
+  "Phenotype": "Lipodystrophy",
+  "Cancer": "multiple symmetric lipomatosis"
+}
+
+{
+  "AutoimmuneDisease": "proteosome-associated autoinflammatory syndrome",
+  "Phenotype": "Joint stiffness",
+  "Cancer": "familial multiple lipomatosis"
+}
+
+{
+  "AutoimmuneDisease": "proteosome-associated autoinflammatory syndrome",
+  "Phenotype": "Joint stiffness",
+  "Cancer": "multiple symmetric lipomatosis"
+}
+

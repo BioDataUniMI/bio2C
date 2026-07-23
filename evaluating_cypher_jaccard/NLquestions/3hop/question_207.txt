@@ -1,0 +1,1 @@
+Identify the diseases that cause disruption of GO terms having as a part biological processes and having as a phenotype the one labeled as 'Hernia'. Return the label of: the disease, the disrupted GO term, and the biological process.

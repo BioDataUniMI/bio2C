@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g1:Gene)-[:genetically_interacts_with]->(g2:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE d.Label CONTAINS 'susceptibility' RETURN m.Label AS miRNA, g1.Label AS RegulatedGene, g2.Label AS InteractingGene, d.Label AS Disease

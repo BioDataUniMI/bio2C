@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH m, COUNT(DISTINCT g) AS num_genes ORDER BY num_genes DESC, m.Label ASC LIMIT 5 RETURN m.Label AS miRNA, num_genes

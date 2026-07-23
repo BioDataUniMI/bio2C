@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) RETURN n.Label AS Disease, COLLECT(DISTINCT m.Label) AS miRNAs, COLLECT(DISTINCT m.Sequence) AS Sequences

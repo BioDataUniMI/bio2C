@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r]->(md:Neurodegenerative_disease) WITH m, md, COLLECT(DISTINCT TYPE(r)) AS rels WHERE SIZE(rels) >= 3 RETURN DISTINCT m.Label AS miRNA, md.Label AS Mental_disease, rels AS RelationshipTypes

@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Gene": "SOX2",
+  "Cancer": "urinary bladder small cell neuroendocrine carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Gene": "SOX2",
+  "Cancer": "small cell carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Gene": "SOX2",
+  "Cancer": "small cell lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Gene": "SOX2",
+  "Cancer": "non-small cell lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-638 precursor",
+  "miRNA": "hsa-miR-638",
+  "Gene": "SOX2",
+  "Cancer": "urinary bladder small cell neuroendocrine carcinoma"
+}
+

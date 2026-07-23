@@ -1,0 +1,1 @@
+MATCH (bp1:Biological_process)-[:happens_during]->(bp2:Biological_process) RETURN bp1.Label AS Process, bp2.Label AS ContextProcess

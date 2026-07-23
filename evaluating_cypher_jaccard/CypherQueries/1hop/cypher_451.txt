@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_fusion_of]->(g:GO) WHERE bp.Description CONTAINS 'lipid' RETURN bp.Label, bp.Description , g.Label

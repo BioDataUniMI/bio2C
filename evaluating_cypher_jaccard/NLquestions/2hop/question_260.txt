@@ -1,0 +1,1 @@
+Identify each miRNA together with the gene it regulates and the gene that genetically interacts with it, where the interacting gene has a sequence length shorter than 1,500 nucleotides. Return the label of: the miRNA, the regulated gene, the interacting gene, and the sequence lengths of the miRNA and both genes.

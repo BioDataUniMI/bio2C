@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-199b-5p",
+  "Phenotype": "Visual impairment",
+  "Disease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-362-5p",
+  "Phenotype": "Visual impairment",
+  "Disease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-361-5p",
+  "Phenotype": "Visual impairment",
+  "Disease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-660-5p",
+  "Phenotype": "Visual impairment",
+  "Disease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-99a-5p",
+  "Phenotype": "Visual impairment",
+  "Disease": "cervical carcinoma"
+}
+

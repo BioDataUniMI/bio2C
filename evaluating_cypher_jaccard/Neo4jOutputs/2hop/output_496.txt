@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-199b-5p",
+  "Regulated_GO": "angiogenesis"
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Regulated_GO": "sprouting angiogenesis"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "Regulated_GO": "angiogenesis"
+}
+

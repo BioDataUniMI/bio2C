@@ -1,0 +1,20 @@
+{
+  "g.Label": "substance with EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor role"
+}
+
+{
+  "g.Label": "substance with EC 1.14.14.* (oxidoreductase acting on paired donors, incorporating of 1 atom of o..."
+}
+
+{
+  "g.Label": "substance with DNA polymerase inhibitor role"
+}
+
+{
+  "g.Label": "substance with enzyme inhibitor role"
+}
+
+{
+  "g.Label": "substance with inhibitor role"
+}
+

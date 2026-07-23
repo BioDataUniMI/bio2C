@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'thiamine transport' RETURN d.Label AS Disease, bp.Label AS BiologicalProcess

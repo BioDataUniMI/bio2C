@@ -1,0 +1,1 @@
+Identify the genes characterized by sequences ending in 'CT' and transcribed to precursor miRNAs that have functions in biological processes that are themselves functions of those same precursor miRNAs. Return the gene label, precursor miRNA label, and biological process label.

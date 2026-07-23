@@ -1,0 +1,1 @@
+Identify biological processes that result in transport across the cellular component labeled the string 'plasma membrane', excluding those whose label contains the word 'plasma'.

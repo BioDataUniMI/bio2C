@@ -1,0 +1,1 @@
+Which miRNAs are in homology relationships with pre-miRNAs whose sequences are at least 50% longer than the miRNA sequence and that cause or contribute to autoimmune diseases? Return the miRNA, the pre-miRNA and the disease labels.

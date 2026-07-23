@@ -1,0 +1,30 @@
+{
+  "Gene": "MIR3689F",
+  "miRNA": "microRNA hsa-mir-3689f precursor",
+  "Homologous_miRNA": "microRNA hsa-mir-3689a precursor"
+}
+
+{
+  "Gene": "MIR548E",
+  "miRNA": "microRNA hsa-mir-548e precursor",
+  "Homologous_miRNA": "microRNA hsa-mir-548a precursor (hsa-mir-548a-1)"
+}
+
+{
+  "Gene": "MIR302F",
+  "miRNA": "microRNA hsa-mir-302f precursor",
+  "Homologous_miRNA": "microRNA hsa-mir-302a precursor"
+}
+
+{
+  "Gene": "MIR378E",
+  "miRNA": "microRNA hsa-mir-378e precursor",
+  "Homologous_miRNA": "microRNA hsa-mir-378a precursor"
+}
+
+{
+  "Gene": "MIR3689E",
+  "miRNA": "microRNA hsa-mir-3689e precursor",
+  "Homologous_miRNA": "microRNA hsa-mir-3689a precursor"
+}
+

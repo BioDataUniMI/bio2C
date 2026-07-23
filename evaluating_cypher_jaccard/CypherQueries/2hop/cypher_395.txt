@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:occurs_in]->(cc:Cellular_component) RETURN d.Label AS Disease, bp.Label AS BiologicalProcess, cc.Label AS CellularComponent

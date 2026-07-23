@@ -1,0 +1,12 @@
+{
+  "BiologicalProcess": "transmission of nerve impulse",
+  "GO_Term": "action potential",
+  "Regulating_MolecularFunction": "stretch-activated, monoatomic cation-selective, calcium channel activity involved in regulation o..."
+}
+
+{
+  "BiologicalProcess": "ion channel modulating, G protein-coupled receptor signaling pathway",
+  "GO_Term": "monoatomic ion channel activity",
+  "Regulating_MolecularFunction": "ion channel regulator activity"
+}
+

@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "BiologicalProcess": "programmed cell death",
+  "MolecularFunction": "death receptor activity"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "BiologicalProcess": "translation",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "BiologicalProcess": "translation",
+  "MolecularFunction": "translation factor activity, RNA binding"
+}
+

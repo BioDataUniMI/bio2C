@@ -1,0 +1,20 @@
+{
+  "Cancer_label": "adenocarcinoma"
+}
+
+{
+  "Cancer_label": "luminal B breast carcinoma"
+}
+
+{
+  "Cancer_label": "neoplastic meningitis"
+}
+
+{
+  "Cancer_label": "invasive ductal breast carcinoma"
+}
+
+{
+  "Cancer_label": "breast carcinoma"
+}
+

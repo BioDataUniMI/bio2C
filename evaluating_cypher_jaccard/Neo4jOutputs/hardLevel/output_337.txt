@@ -1,0 +1,25 @@
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "MolecularFunctionCount": 2
+}
+
+{
+  "Disease": "disorder of glycogen metabolism",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Disease": "methylmalonic aciduria and homocystinuria type cblF",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Disease": "inborn disorder of ornithine metabolism",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Disease": "disorder of neutral amino acid transport",
+  "MolecularFunctionCount": 1
+}
+

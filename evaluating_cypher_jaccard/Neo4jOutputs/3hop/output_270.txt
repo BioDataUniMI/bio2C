@@ -1,0 +1,25 @@
+{
+  "NeurodegenerativeDisease": "hereditary spastic paraplegia",
+  "SharedPhenotypeCount": 332
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "SharedPhenotypeCount": 310
+}
+
+{
+  "NeurodegenerativeDisease": "Krabbe disease",
+  "SharedPhenotypeCount": 121
+}
+
+{
+  "NeurodegenerativeDisease": "GM1 gangliosidosis",
+  "SharedPhenotypeCount": 117
+}
+
+{
+  "NeurodegenerativeDisease": "peroxisome biogenesis disorder",
+  "SharedPhenotypeCount": 115
+}
+

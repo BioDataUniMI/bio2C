@@ -1,0 +1,8 @@
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Number_of_Autoimmune_Diseases": 2,
+  "Chromosomes": [
+    "chr7:151238421-151238538+"
+  ]
+}
+

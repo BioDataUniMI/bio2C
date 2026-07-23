@@ -1,0 +1,1 @@
+Return label, description and ID of diseases containing the word 'dependence' in their label.

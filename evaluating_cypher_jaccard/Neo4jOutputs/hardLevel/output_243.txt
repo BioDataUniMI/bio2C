@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU",
+  "PercentU": 36.36
+}
+
+{
+  "miRNA": "hsa-miR-574-5p",
+  "Sequence": "UGAGUGUGUGUGUGUGAGUGUGU",
+  "PercentU": 43.48
+}
+
+{
+  "miRNA": "hsa-miR-574-5p",
+  "Sequence": "UGAGUGUGUGUGUGUGAGUGUGU",
+  "PercentU": 43.48
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "Sequence": "UGGAAUGUAAGGAAGUGUGUGG",
+  "PercentU": 27.27
+}
+

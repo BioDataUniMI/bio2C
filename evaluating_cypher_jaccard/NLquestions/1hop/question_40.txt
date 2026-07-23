@@ -1,0 +1,1 @@
+List all cancers whose description contains the word 'common' and are characterized by under-expressed miRNAs.

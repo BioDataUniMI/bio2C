@@ -1,0 +1,18 @@
+{
+  "Genes": [
+    "CCR4",
+    "CD36",
+    "CD80",
+    "GBP5",
+    "LRAT",
+    "RUNX3",
+    "SLC6A14",
+    "SOAT2",
+    "TFF1",
+    "TGM2",
+    "TNFRSF14",
+    "UBD",
+    "VNN1"
+  ]
+}
+

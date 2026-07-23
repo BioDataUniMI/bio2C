@@ -1,0 +1,1 @@
+Find target genes ending with 'P6' that are regulated by mature miRNAs developed from pre-miRNAs transcribed from genes ending with 'A'. Return the labels of the genes, pre-miRNA, and mature miRNA.

@@ -1,0 +1,1 @@
+Identify all miRNAs that regulate the activity of gene 'YY1' and the cancers whose label contains the word 'situ' that this gene causes or contributes to. Return the label of the miRNA and the cancer.

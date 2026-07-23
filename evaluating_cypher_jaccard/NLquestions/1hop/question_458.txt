@@ -1,0 +1,1 @@
+Identify GO terms whose label contains the word 'outer' and the GO terms they are bounding layers of.

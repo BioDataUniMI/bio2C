@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:has_part]->(cc:Cellular_component)-[:location_of]->(pm:pre_miRNA)-[:develops_into]->(m:miRNA)-[:causes_or_contributes_to_condition]->(d:Autoimmune_disease {Label:'osteoarthritis'}) RETURN g.Label AS GOterm, cc.Label AS CellularComponent, pm.Label AS pre_miRNA, m.Label AS miRNA

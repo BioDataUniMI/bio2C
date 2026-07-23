@@ -1,0 +1,1 @@
+Find all subclass paths between genes of length 1 or more that include at least one gene whose label contains 'coronavirus'. Return the list of gene labels along each path, avoiding duplicate paths by only considering paths where the first gene label is alphabetically smaller than the last.

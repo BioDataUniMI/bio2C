@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:regulates]->(mf:Molecular_function) WHERE mf.Label CONTAINS 'DNA' RETURN mf.Label AS Molecular_function, g.Label AS GO

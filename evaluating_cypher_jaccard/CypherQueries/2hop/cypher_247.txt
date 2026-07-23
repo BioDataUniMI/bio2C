@@ -1,0 +1,1 @@
+MATCH (c:Cancer {Label: 'adenoma'})-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'AC' RETURN m.Label AS miRNA, g.Label AS Gene

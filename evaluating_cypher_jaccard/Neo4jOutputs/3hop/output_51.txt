@@ -1,0 +1,6 @@
+{
+  "phenotype": "Recurrent otitis media",
+  "biological_process": "inflammatory response",
+  "neurodegenerative_disease": "mucopolysaccharidosis type 6"
+}
+

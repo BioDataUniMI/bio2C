@@ -1,0 +1,24 @@
+{
+  "Gene1": "MAGEA9B",
+  "Gene2": "SLCO1B3-SLCO1B7",
+  "Gene1_Length": 5807,
+  "Gene2_Length": 274572,
+  "Max_Length_Difference": 268765
+}
+
+{
+  "Gene1": "MSANTD3-TMEFF1",
+  "Gene2": "SLCO1B3-SLCO1B7",
+  "Gene1_Length": 135366,
+  "Gene2_Length": 274572,
+  "Max_Length_Difference": 139206
+}
+
+{
+  "Gene1": "H4C13",
+  "Gene2": "KIAA2012",
+  "Gene1_Length": 387,
+  "Gene2_Length": 131934,
+  "Max_Length_Difference": 131547
+}
+

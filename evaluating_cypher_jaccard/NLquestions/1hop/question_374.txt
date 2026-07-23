@@ -1,0 +1,1 @@
+Return the labels of miRNAs ending with '5-5p' that are part of GO terms, along with the sources claiming these interactions.

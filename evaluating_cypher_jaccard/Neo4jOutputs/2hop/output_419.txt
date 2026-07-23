@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "breast neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "chromosomal disorder"
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "hereditary breast carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "hepatocellular carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "breast cancer"
+}
+

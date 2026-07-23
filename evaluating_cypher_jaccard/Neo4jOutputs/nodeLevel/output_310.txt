@@ -1,0 +1,12 @@
+{
+  "DiseaseLabel": "self-limited childhood occipital epilepsy",
+  "d.ID": "MONDO:0007558",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0007558"
+}
+
+{
+  "DiseaseLabel": "childhood occipital visual epilepsy",
+  "d.ID": "MONDO:0020308",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0020308"
+}
+

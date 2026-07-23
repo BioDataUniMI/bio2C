@@ -1,0 +1,30 @@
+{
+  "CellularComponent": "protein kinase complex",
+  "cancers": 6,
+  "miRNAs": 1
+}
+
+{
+  "CellularComponent": "serine/threonine protein kinase complex",
+  "cancers": 6,
+  "miRNAs": 1
+}
+
+{
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex",
+  "cancers": 6,
+  "miRNAs": 1
+}
+
+{
+  "CellularComponent": "extracellular vesicle",
+  "cancers": 8,
+  "miRNAs": 2
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "cancers": 8,
+  "miRNAs": 2
+}
+

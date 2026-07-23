@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_material_basis_in_somatic_mutation_in]->(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) WHERE cc.Label CONTAINS 'chromosome' RETURN  c.Label AS Cancer, m.Label AS miRNA, cc.Label AS CellularComponent, go.Label AS GOterm

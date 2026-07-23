@@ -1,0 +1,1 @@
+Identify cellular components that act as causal agents of biological processes whose label contains the word 'signaling'.

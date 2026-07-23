@@ -1,0 +1,1 @@
+Return phenotypes with labels mentioning 'neoplasm' (case-insensitive) that have at least one synonym containing 'tumor'(case-insensitive).

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:GO) WHERE ANY(c IN r.Context WHERE c CONTAINS 'β') RETURN b.Label AS GO_term, m.Label AS miRNA, m.Sequence AS miRNA_sequence, r.Context AS Context

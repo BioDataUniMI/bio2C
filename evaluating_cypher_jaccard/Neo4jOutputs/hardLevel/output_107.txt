@@ -1,0 +1,10 @@
+{
+  "Category": "breast",
+  "Phenotype_count": 1
+}
+
+{
+  "Category": "lung",
+  "Phenotype_count": 1
+}
+

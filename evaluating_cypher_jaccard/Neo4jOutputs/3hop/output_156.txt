@@ -1,0 +1,12 @@
+{
+  "Disease": "young-onset Parkinson disease",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "young-onset Parkinson disease",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p"
+}
+

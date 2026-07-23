@@ -1,0 +1,24 @@
+{
+  "miRNA": "microRNA hsa-mir-190a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "Gene": "MIR190B"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-450a precursor (hsa-mir-450a-1)",
+  "Pre_miRNA": "microRNA hsa-mir-450b precursor",
+  "Gene": "MIR450B"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3150a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-3150b precursor",
+  "Gene": "MIR3150B"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-500a precursor",
+  "Pre_miRNA": "microRNA hsa-mir-500b precursor",
+  "Gene": "MIR500B"
+}
+

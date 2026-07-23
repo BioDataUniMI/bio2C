@@ -1,0 +1,1 @@
+Count all GO terms, list their labels, and indicate which species they are associated with.

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'membrane' AND g.Description CONTAINS 'transport' AND SIZE(g.Synonym) >= 1 RETURN g.Label AS GOTermLabel, g.Description AS GOTermDescription, SIZE(g.Synonym) AS SynonymCount

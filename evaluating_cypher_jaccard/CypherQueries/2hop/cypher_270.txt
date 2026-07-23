@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:function_of]->(m:miRNA)-[:develops_from]->(pre:pre_miRNA) RETURN COUNT(DISTINCT go) AS NumberOfGOterms

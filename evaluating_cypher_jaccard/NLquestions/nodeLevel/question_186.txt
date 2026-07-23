@@ -1,0 +1,1 @@
+Find the molecular functions whose description contains 'e3 proteins'. Return all the node properties (i.e., the entire nodes).

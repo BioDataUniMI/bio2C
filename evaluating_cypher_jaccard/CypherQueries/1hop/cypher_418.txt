@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'myopathy' AND NOT (p)-[:has_quality]->(:Phenotype) RETURN p.Label AS Phenotype

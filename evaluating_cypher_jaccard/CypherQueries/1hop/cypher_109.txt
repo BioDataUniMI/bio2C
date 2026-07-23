@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) WHERE SIZE(m.Sequence) < 20 AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN bp.Label AS Biological_Process, m.Label AS miRNA, m.Sequence AS Sequence, m.Genomic_coordinates AS Genomic_coordinates

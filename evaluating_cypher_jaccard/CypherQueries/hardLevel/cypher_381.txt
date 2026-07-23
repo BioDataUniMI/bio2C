@@ -1,0 +1,1 @@
+MATCH p = (g1:Gene)-[:subclassof*1..]->(g2:Gene) WHERE ANY(n IN NODES(p) WHERE n.Label = 'phoP') RETURN DISTINCT [n IN NODES(p) | {elementId: elementId(n), label: n.Label}] AS PathNodes

@@ -1,0 +1,15 @@
+{
+  "DiseaseLabel": "multiple system atrophy, parkinsonian type",
+  "n.Description": "multiple system atrophy, parkinsonian type (msa-p) is a form of multiple system atrophy (msa) wit..."
+}
+
+{
+  "DiseaseLabel": "progressive supranuclear palsy-parkinsonism syndrome",
+  "n.Description": "psp-parkinsonism (psp-p) is an atypical variant of progressive supranuclear palsy (psp), a rare l..."
+}
+
+{
+  "DiseaseLabel": "parkinsonian-pyramidal syndrome",
+  "n.Description": "a parkinson's disease that has material basis in mutation in the fbxo7 gene on chromosome 22q12.3."
+}
+

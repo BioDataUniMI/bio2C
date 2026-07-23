@@ -1,0 +1,15 @@
+{
+  "miRNA": "microRNA hsa-mir-297 precursor",
+  "AUG_count": 7
+}
+
+{
+  "miRNA": "microRNA hsa-mir-592 precursor",
+  "AUG_count": 7
+}
+
+{
+  "miRNA": "Hsa-Mir-1-P1_pre stem-loop",
+  "AUG_count": 6
+}
+

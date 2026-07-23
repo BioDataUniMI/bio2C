@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:has_part]->(m:miRNA) WITH DISTINCT cc, m.Label AS miRNALabel ORDER BY cc.Label ASC, miRNALabel ASC WITH cc, COLLECT(miRNALabel) AS miRNAList, COUNT(miRNALabel) AS miRNACount RETURN cc.Label AS CellularComponent, miRNAList[0..10] AS ExamplemiRNAs, miRNACount AS miRNACount

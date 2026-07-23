@@ -1,0 +1,1 @@
+Find miRNAs whose sequences do not contain the nucleotides 'C' or 'A'. Return all their properties (i.e., the entire nodes).

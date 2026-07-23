@@ -1,0 +1,48 @@
+{
+  "miRNA": "hsa-miR-6089",
+  "Parent_miRNA": "microRNA hsa-mir-6089 precursor (hsa-mir-6089-1%2C hsa-mir-6089-2)",
+  "miRNA_coords": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ],
+  "parent_coords": [
+    "chrX:2609191-2609254+",
+    "chrY:2609191-2609254+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-3690",
+  "Parent_miRNA": "microRNA hsa-mir-3690 precursor (hsa-mir-3690-1%2C hsa-mir-3690-2)",
+  "miRNA_coords": [
+    "chrX:1293927-1293949+",
+    "chrY:1293927-1293949+"
+  ],
+  "parent_coords": [
+    "chrX:1293918-1293992+",
+    "chrY:1293918-1293992+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-12120",
+  "Parent_miRNA": "microRNA hsa-mir-12120 precursor",
+  "miRNA_coords": [
+    "chrY:13479189-13479214+"
+  ],
+  "parent_coords": [
+    "chrY:13479177-13479266+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-9985",
+  "Parent_miRNA": "microRNA hsa-mir-9985 precursor",
+  "miRNA_coords": [
+    "chrY:4606140-4606158+"
+  ],
+  "parent_coords": [
+    "chrY:4606120-4606228+"
+  ]
+}
+

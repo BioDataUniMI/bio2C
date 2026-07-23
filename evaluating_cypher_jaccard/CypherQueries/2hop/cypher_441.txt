@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cancer)-[:disease_has_feature]->(p:Phenotype) WHERE r.FDR < 0.05 AND ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chr1:') AND m.Sequence CONTAINS 'CAGUU' RETURN m.Label AS miRNA, c.Label AS Cancer, p.Label AS Phenotype, r.FDR AS FDR

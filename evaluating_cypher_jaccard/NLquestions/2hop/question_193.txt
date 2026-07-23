@@ -1,0 +1,1 @@
+Identify the precursor miRNAs that develop into the miRNA 'hsa-miR-31-5p' and the cellular components in which this miRNA is located.

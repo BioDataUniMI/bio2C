@@ -1,0 +1,1 @@
+Identify the mental diseases in which the disease labeled 'obsessive-compulsive personality disorder' is realized. Return the labels of both diseases and the sources confirming the interaction.

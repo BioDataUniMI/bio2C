@@ -1,0 +1,30 @@
+{
+  "Gene": "MIR1273C",
+  "PrecursorCount": 1,
+  "MatureMiRNAs": 1
+}
+
+{
+  "Gene": "MIR449C",
+  "PrecursorCount": 1,
+  "MatureMiRNAs": 2
+}
+
+{
+  "Gene": "MIR374C",
+  "PrecursorCount": 1,
+  "MatureMiRNAs": 2
+}
+
+{
+  "Gene": "MIR378C",
+  "PrecursorCount": 1,
+  "MatureMiRNAs": 1
+}
+
+{
+  "Gene": "MIR548C",
+  "PrecursorCount": 1,
+  "MatureMiRNAs": 2
+}
+

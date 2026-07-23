@@ -1,0 +1,1 @@
+Identify diseases characterized by labels containing 'disability' and whose clinical descriptions contain 'deafness'.

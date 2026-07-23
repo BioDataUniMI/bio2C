@@ -1,0 +1,1 @@
+Identify the phenotypes of diseases whose label contains both the strings 'immunodeficiency' and 'atopic dermatitis'. Moreover, filter only diseases that express miRNAs participating in biological processes whose labels contain 'positive regulation of T cell'. Return the labels of the disease, the phenotype, the miRNA, and the biological process.

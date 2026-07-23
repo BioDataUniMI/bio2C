@@ -1,0 +1,25 @@
+{
+  "mf.Label": "DNA replication origin binding",
+  "mf.Description": "binding to a dna replication origin, a unique dna sequence of a replicon at which dna replication..."
+}
+
+{
+  "mf.Label": "DNA-binding transcription repressor activity, RNA polymerase III-specific",
+  "mf.Description": "a dna-binding transcription factor activity that represses or decreases the transcription of spec..."
+}
+
+{
+  "mf.Label": "DNA insertion or deletion binding",
+  "mf.Description": "binding to a double-stranded dna region containing an insertion or a deletion."
+}
+
+{
+  "mf.Label": "DNA-binding transcription factor binding",
+  "mf.Description": "binding to a dna-binding transcription factor, a protein that interacts with a specific dna seque..."
+}
+
+{
+  "mf.Label": "DNA-binding transcription activator activity",
+  "mf.Description": "a dna-binding transcription factor activity that activates or increases transcription of specific..."
+}
+

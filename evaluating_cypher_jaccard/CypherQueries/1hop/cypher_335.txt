@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(:GO) WHERE d.Description CONTAINS 'slow growing' RETURN d.Label

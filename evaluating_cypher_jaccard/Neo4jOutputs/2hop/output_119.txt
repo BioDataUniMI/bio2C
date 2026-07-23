@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-198",
+  "Disease": "systemic sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-143-3p",
+  "Disease": "systemic sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-137-5p",
+  "Disease": "systemic sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-27a-3p",
+  "Disease": "systemic sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-124-3p",
+  "Disease": "systemic sclerosis"
+}
+

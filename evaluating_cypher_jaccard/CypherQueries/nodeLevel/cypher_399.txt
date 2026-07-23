@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process {Label: 'female pregnancy'}) RETURN bp.Description, bp.Species

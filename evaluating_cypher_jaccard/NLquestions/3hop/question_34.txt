@@ -1,0 +1,1 @@
+Which genes are transcribed into precursor miRNAs that are functional (use relationship type 'has_function') within biological processes positively regulated by other biological processes whose labels contain 'glucose metabolic'? Return the label of the: gene, precursor miRNA, primary biological process, and the regulating biological process.

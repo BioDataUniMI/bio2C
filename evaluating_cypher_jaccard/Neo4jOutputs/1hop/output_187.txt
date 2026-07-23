@@ -1,0 +1,20 @@
+{
+  "Pre_miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "SequenceLength": 87
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-2)",
+  "SequenceLength": 86
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-125b precursor (hsa-mir-125b-1)",
+  "SequenceLength": 88
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "SequenceLength": 79
+}
+

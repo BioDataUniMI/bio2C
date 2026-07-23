@@ -1,0 +1,15 @@
+{
+  "miRNA": "Hsa-Mir-10-P1b-v1_pre stem-loop",
+  "C_count": 11
+}
+
+{
+  "miRNA": "Hsa-Mir-10-P3d_pre stem-loop",
+  "C_count": 15
+}
+
+{
+  "miRNA": "Hsa-Mir-130-P1c_pre stem-loop",
+  "C_count": 15
+}
+

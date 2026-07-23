@@ -1,0 +1,18 @@
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-122-5p",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-122-5p",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-122-5p",
+  "CellularComponent": "extracellular exosome"
+}
+

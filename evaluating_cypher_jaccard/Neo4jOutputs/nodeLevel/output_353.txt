@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "autoimmune hemolytic anemia",
+  "Description": "autoimmune hemolytic anemia (aiha) is an autoimmune disorder in which various types of auto-antib..."
+}
+
+{
+  "DiseaseLabel": "autoimmune hemolytic anemia, cold type",
+  "Description": "cold autoimmune hemolytic anemia comprises two types of autoimmune hemolytic anemia (aiha) define..."
+}
+
+{
+  "DiseaseLabel": "mixed-type autoimmune hemolytic anemia",
+  "Description": "mixed autoimmune hemolytic anemia is a type of autoimmune hemolytic anemia (aiha) defined by the ..."
+}
+
+{
+  "DiseaseLabel": "drug-induced autoimmune hemolytic anemia",
+  "Description": "drug-induced autoimmune hemolytic anemia is a type of autoimmune hemolytic anemia (aiha) that occ..."
+}
+

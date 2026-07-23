@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-4271'})-[r:over_expressed_in]->(d:Disease) RETURN d.Label AS Disease, d.URI AS Disease_URI, r.Source AS Source, r.Method AS Method, r.Context AS Context

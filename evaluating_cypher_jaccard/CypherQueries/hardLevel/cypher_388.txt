@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(d:Infectious_disease) WHERE SIZE(g.Sequence) < 3000 AND g.Sequence CONTAINS 'ATCG' WITH g, COLLECT(DISTINCT d.Label) AS Diseases, g.Sequence AS seq, SIZE(g.Sequence) AS len RETURN g.Label AS Gene, Diseases, REDUCE(s='', x IN RANGE(1,100) | s + 'ATCG') AS ATCG_AtLeast100

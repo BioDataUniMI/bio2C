@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Description CONTAINS '(retrieval of eggs for fertility treatments)' RETURN p.Label AS Phenotype, p.Synonym

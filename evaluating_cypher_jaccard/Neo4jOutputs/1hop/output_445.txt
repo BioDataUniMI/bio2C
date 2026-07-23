@@ -1,0 +1,20 @@
+{
+  "bp.Label": "Golgi vesicle transport",
+  "cc.Label": "Golgi-associated vesicle",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "vesicle targeting, to, from or within Golgi",
+  "cc.Label": "Golgi apparatus",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+

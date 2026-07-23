@@ -1,0 +1,1 @@
+Which GO terms are part of cellular components where the 'hsa-let-7a-5p' miRNA when expressed by cancers whose label contains the word 'benign' is located? Return also the experimental methods reporting the expression.

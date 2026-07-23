@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'carcinoma' AND SIZE(p.Synonym) >= 7 AND ANY(s IN p.Synonym WHERE s CONTAINS 'karsinomu') RETURN p.Label AS Phenotype, SIZE(p.Synonym) AS SynonymCount, p.Synonym AS Synonym

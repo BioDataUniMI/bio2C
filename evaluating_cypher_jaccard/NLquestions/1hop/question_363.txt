@@ -1,0 +1,1 @@
+Return miRNAs involved in causal germline mutation in phenotypes. List only miRNA-phenotype pairs characterized by non-null PubMed IDs.

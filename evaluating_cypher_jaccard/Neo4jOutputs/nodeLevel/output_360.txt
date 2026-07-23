@@ -1,0 +1,5 @@
+{
+  "d.Label": "celiac disease",
+  "d.Description": "an autoimmune genetic disorder with an unknown pattern of inheritance that primarily affects the ..."
+}
+

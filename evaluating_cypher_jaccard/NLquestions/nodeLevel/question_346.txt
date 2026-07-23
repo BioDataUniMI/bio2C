@@ -1,0 +1,1 @@
+Find cardiovascular diseases whose IDs contain five consecutive zeros.

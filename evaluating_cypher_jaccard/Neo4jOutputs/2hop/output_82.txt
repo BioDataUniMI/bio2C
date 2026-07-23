@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "GO_term": "B cell activation involved in immune response",
+  "Biological_process": "immune response"
+}
+
+{
+  "miRNA": "hsa-let-7i-5p",
+  "GO_term": "B cell activation involved in immune response",
+  "Biological_process": "immune response"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "GO_term": "B cell lineage commitment",
+  "Biological_process": "B cell differentiation"
+}
+
+{
+  "miRNA": "hsa-miR-16-5p",
+  "GO_term": "B cell lineage commitment",
+  "Biological_process": "B cell differentiation"
+}
+
+{
+  "miRNA": "hsa-miR-30b-5p",
+  "GO_term": "B cell lineage commitment",
+  "Biological_process": "B cell differentiation"
+}
+

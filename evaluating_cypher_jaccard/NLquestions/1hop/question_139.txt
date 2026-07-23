@@ -1,0 +1,1 @@
+Find miRNAs that participate in molecular functions and contain at least two occurrences of 'GG', ranked by sequence length. Ties should be resolved alphabetically by miRNA label. Return the miRNA label, sequence, sequence length, and associated molecular function label.

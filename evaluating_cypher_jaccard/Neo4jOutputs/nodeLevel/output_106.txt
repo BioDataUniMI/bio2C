@@ -1,0 +1,5 @@
+{
+  "Gene": "STAG3L5P-PVRIG2P-PILRB",
+  "NameLength": 22
+}
+

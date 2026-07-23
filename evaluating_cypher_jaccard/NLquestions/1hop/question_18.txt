@@ -1,0 +1,1 @@
+Find miRNAs that develop from another miRNA where the miRNA label ends with a letter other than 'a', 'b', or 'c' (case-insensitive) followed by '-5p'.

@@ -1,0 +1,1 @@
+Find miRNAs that are over-expressed in a biological process, whose sequence starts and ends with the same nucleotide, and that have at least one genomic coordinate starting with 'chr'. Return the miRNA label and the biological process label.

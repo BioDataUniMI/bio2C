@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:subclassof]->(g:GO) WHERE mf.Label STARTS WITH 'ADP' RETURN mf.Label AS MolecularFunction, g.Label AS GO

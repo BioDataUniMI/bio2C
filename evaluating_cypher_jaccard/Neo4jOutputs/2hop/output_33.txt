@@ -1,0 +1,25 @@
+{
+  "Cancer": "lung adenocarcinoma",
+  "miRNA": "hsa-miR-153-3p"
+}
+
+{
+  "Cancer": "squamous cell lung carcinoma",
+  "miRNA": "hsa-miR-153-3p"
+}
+
+{
+  "Cancer": "ovarian cancer",
+  "miRNA": "hsa-miR-153-3p"
+}
+
+{
+  "Cancer": "ovarian neoplasm",
+  "miRNA": "hsa-miR-153-3p"
+}
+
+{
+  "Cancer": "squamous cell lung carcinoma",
+  "miRNA": "hsa-miR-135a-5p"
+}
+

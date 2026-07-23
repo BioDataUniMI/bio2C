@@ -1,0 +1,1 @@
+Identify genes that are transcribed into miRNAs which regulate other genes. Return the label of: the transcribing gene, the miRNA, the target gene, and the sequence lengths of both the transcribing and target genes.

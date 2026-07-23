@@ -1,0 +1,35 @@
+{
+  "GOterm": "mitochondrion",
+  "CellularComponent": "mitochondrial envelope",
+  "miRNA": "hsa-miR-181a-5p",
+  "TargetGene": "ZNF840P"
+}
+
+{
+  "GOterm": "mitochondrion",
+  "CellularComponent": "mitochondrial envelope",
+  "miRNA": "hsa-miR-181a-5p",
+  "TargetGene": "ZNF355P"
+}
+
+{
+  "GOterm": "mitochondrion",
+  "CellularComponent": "mitochondrial envelope",
+  "miRNA": "hsa-miR-181a-5p",
+  "TargetGene": "ZNF971P"
+}
+
+{
+  "GOterm": "mitochondrion",
+  "CellularComponent": "mitochondrial envelope",
+  "miRNA": "hsa-miR-181a-5p",
+  "TargetGene": "ZNF33BP1"
+}
+
+{
+  "GOterm": "mitochondrion",
+  "CellularComponent": "mitochondrial envelope",
+  "miRNA": "hsa-miR-181a-5p",
+  "TargetGene": "ZNF101P1"
+}
+

@@ -1,0 +1,8 @@
+{
+  "CellularComponent": "synapse",
+  "BiologicalProcess": "chemical synaptic transmission",
+  "miRNA": "hsa-miR-101-3p",
+  "Disease": "ovarian cancer",
+  "FDR": 0.009906417
+}
+

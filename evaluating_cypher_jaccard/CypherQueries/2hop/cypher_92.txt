@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:in_homology_relationship_with]->(pm:pre_miRNA)-[:transcribed_from]->(g:Gene) WHERE g.Label ENDS WITH '0B' RETURN m.Label AS miRNA, pm.Label AS Pre_miRNA, g.Label AS Gene

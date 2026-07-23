@@ -1,0 +1,1 @@
+Find all autoimmune diseases whose label contains 'diabete' and whose description mentions the gene 'sumo4' (case-insensitive). Return all the properties for matching nodes.

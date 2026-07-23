@@ -1,0 +1,35 @@
+{
+  "Disease": "angiostrongyliasis",
+  "Phenotype": "Abnormal synaptic transmission",
+  "GOterm": "chemical synaptic transmission",
+  "MolecularFunction": "postsynaptic neurotransmitter receptor activity"
+}
+
+{
+  "Disease": "progressive supranuclear palsy",
+  "Phenotype": "Abnormal synaptic transmission",
+  "GOterm": "chemical synaptic transmission",
+  "MolecularFunction": "postsynaptic neurotransmitter receptor activity"
+}
+
+{
+  "Disease": "supranuclear palsy, progressive, 1",
+  "Phenotype": "Abnormal synaptic transmission",
+  "GOterm": "chemical synaptic transmission",
+  "MolecularFunction": "postsynaptic neurotransmitter receptor activity"
+}
+
+{
+  "Disease": "motor nerve neuritis",
+  "Phenotype": "Abnormal synaptic transmission",
+  "GOterm": "chemical synaptic transmission",
+  "MolecularFunction": "postsynaptic neurotransmitter receptor activity"
+}
+
+{
+  "Disease": "lymphadenitis",
+  "Phenotype": "Abnormal synaptic transmission",
+  "GOterm": "chemical synaptic transmission",
+  "MolecularFunction": "postsynaptic neurotransmitter receptor activity"
+}
+

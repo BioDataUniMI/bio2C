@@ -1,0 +1,50 @@
+{
+  "PhenotypeLabel": "Decreased level of coenzyme Q10 in skeletal muscle",
+  "PhenotypeSynonym": [
+    "Snížená hladina koenzymu Q10 v kosterním svalstvu",
+    "Disminución del nivel de coenzima Q10 en el músculo esquelético",
+    "骨格筋のコエンザイムQ10レベルの低下",
+    "骨骼肌辅酶Q10水平降低"
+  ]
+}
+
+{
+  "PhenotypeLabel": "Abnormality of the musculoskeletal system",
+  "PhenotypeSynonym": [
+    "Abnormalita muskuloskeletálního systému Porucha pohybového aparátu",
+    "肌肉骨骼系统异常",
+    "筋骨格系の異常",
+    "Anomalía del sistema musculoesquelético"
+  ]
+}
+
+{
+  "PhenotypeLabel": "Abnormal fetal skeletal morphology",
+  "PhenotypeSynonym": [
+    "Abnormální morfologie kostry plodu",
+    "胎児の骨格形態の異常",
+    "胎儿骨骼形态异常",
+    "Morfología esquelética fetal anormal"
+  ]
+}
+
+{
+  "PhenotypeLabel": "Podocyte cytoskeletal condensation",
+  "PhenotypeSynonym": [
+    "ポドサイト細胞骨格凝縮",
+    "Kondenzace skeletu podocytů",
+    "足细胞细胞骨架凝聚（足细胞骨架凝聚）",
+    "Condensación del citoesqueleto de podocitos"
+  ]
+}
+
+{
+  "PhenotypeLabel": "Skeletal muscle autophagosome accumulation",
+  "PhenotypeSynonym": [
+    "骨格筋オートファゴソーム蓄積",
+    "骨骼肌自噬体蓄积",
+    "Akumulace autofagozomů v kosterním svalu",
+    "Acumulación de autofagosomas en el músculo esquelético"
+  ]
+}
+

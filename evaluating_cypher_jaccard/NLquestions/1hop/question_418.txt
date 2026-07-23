@@ -1,0 +1,1 @@
+Find phenotypes containing the word 'myopathy' that do not have a 'has_quality' relationship towards phenotypes in the database.

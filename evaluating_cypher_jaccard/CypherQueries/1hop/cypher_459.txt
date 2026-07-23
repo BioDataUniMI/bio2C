@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:preceded_by]->(g:GO) RETURN g.Label, bp.Label, r.Source

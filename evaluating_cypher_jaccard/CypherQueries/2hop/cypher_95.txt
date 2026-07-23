@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_part]->(g:GO)-[:has_participant]->(m:miRNA) WHERE m.Label =~ '.*([0-9])\1\1.*' RETURN bp.Label AS BiologicalProcess, g.Label AS GOterm, m.Label AS miRNA

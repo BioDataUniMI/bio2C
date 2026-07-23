@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Disease": "pneumonia",
+  "Last_20_percent": "AAGUGCGGCACAUGCUUACCAG"
+}
+

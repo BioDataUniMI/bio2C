@@ -1,0 +1,95 @@
+{
+  "Gene": "SOS1",
+  "GeneSynonyms": [
+    "GINGF",
+    "guanine nucleotide exchange factor",
+    "SOS-1",
+    "gingival fibromatosis, hereditary, 1",
+    "HGF",
+    "NS4",
+    "SOS Ras/Rac guanine nucleotide exchange factor 1",
+    "GF1",
+    "GGF1",
+    "son of sevenless homolog 1"
+  ],
+  "miRNA": "hsa-miR-146a-5p",
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "NeurodegenerativeDisease": "Cockayne syndrome type 2"
+}
+
+{
+  "Gene": "SOS1",
+  "GeneSynonyms": [
+    "GINGF",
+    "guanine nucleotide exchange factor",
+    "SOS-1",
+    "gingival fibromatosis, hereditary, 1",
+    "HGF",
+    "NS4",
+    "SOS Ras/Rac guanine nucleotide exchange factor 1",
+    "GF1",
+    "GGF1",
+    "son of sevenless homolog 1"
+  ],
+  "miRNA": "hsa-miR-124-3p",
+  "Pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "NeurodegenerativeDisease": "Cockayne syndrome type 2"
+}
+
+{
+  "Gene": "SOS1",
+  "GeneSynonyms": [
+    "GINGF",
+    "guanine nucleotide exchange factor",
+    "SOS-1",
+    "gingival fibromatosis, hereditary, 1",
+    "HGF",
+    "NS4",
+    "SOS Ras/Rac guanine nucleotide exchange factor 1",
+    "GF1",
+    "GGF1",
+    "son of sevenless homolog 1"
+  ],
+  "miRNA": "hsa-miR-124-3p",
+  "Pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-2)",
+  "NeurodegenerativeDisease": "Cockayne syndrome type 2"
+}
+
+{
+  "Gene": "SOS1",
+  "GeneSynonyms": [
+    "GINGF",
+    "guanine nucleotide exchange factor",
+    "SOS-1",
+    "gingival fibromatosis, hereditary, 1",
+    "HGF",
+    "NS4",
+    "SOS Ras/Rac guanine nucleotide exchange factor 1",
+    "GF1",
+    "GGF1",
+    "son of sevenless homolog 1"
+  ],
+  "miRNA": "hsa-miR-124-3p",
+  "Pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-3)",
+  "NeurodegenerativeDisease": "Cockayne syndrome type 2"
+}
+
+{
+  "Gene": "SOS1",
+  "GeneSynonyms": [
+    "GINGF",
+    "guanine nucleotide exchange factor",
+    "SOS-1",
+    "gingival fibromatosis, hereditary, 1",
+    "HGF",
+    "NS4",
+    "SOS Ras/Rac guanine nucleotide exchange factor 1",
+    "GF1",
+    "GGF1",
+    "son of sevenless homolog 1"
+  ],
+  "miRNA": "hsa-miR-146a-5p",
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "NeurodegenerativeDisease": "Cockayne syndrome"
+}
+

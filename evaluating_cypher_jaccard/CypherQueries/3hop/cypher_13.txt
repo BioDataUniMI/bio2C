@@ -1,0 +1,1 @@
+MATCH (prec:miRNA {Label:'microRNA hsa-mir-200c precursor'})<-[:develops_from]-(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:adjacent_to]->(go:GO) RETURN m.Label AS DevelopingMiRNAlabel, cc.Label as ComponentLabel, go AS Go_term

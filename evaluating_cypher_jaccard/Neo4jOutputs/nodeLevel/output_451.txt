@@ -1,0 +1,20 @@
+{
+  "mf.Label": "myosin VI light chain binding"
+}
+
+{
+  "mf.Label": "red or far-red light photoreceptor activity"
+}
+
+{
+  "mf.Label": "myosin II light chain binding"
+}
+
+{
+  "mf.Label": "dynein light intermediate chain binding"
+}
+
+{
+  "mf.Label": "blue light photoreceptor activity"
+}
+

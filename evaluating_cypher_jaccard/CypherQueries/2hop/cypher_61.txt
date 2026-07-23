@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(t) WHERE p.Label CONTAINS '612' AND (t:Molecular_function OR t:Biological_process) RETURN m.Label AS Mature_miRNA, t.Label AS Term, labels(t) AS TermType

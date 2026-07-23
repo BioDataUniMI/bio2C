@@ -1,0 +1,1 @@
+Which miRNAs are characterized by at least one genomic coordinate on chromosome 1 (chr1:) whose start position is within the first 1,000,000 base pairs of the chromosome? Return the label of miRNA.

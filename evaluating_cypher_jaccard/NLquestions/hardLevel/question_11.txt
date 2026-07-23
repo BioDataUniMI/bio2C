@@ -1,0 +1,1 @@
+How many pre-miRNAs are causal somatic mutations in phenotypes whose label contains the string 'Breast carcinoma', 'Lung adenocarcinoma', or 'Thyroid carcinoma' (all case-insensitive)? Report the separate counts for each condition.

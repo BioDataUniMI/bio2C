@@ -1,0 +1,25 @@
+{
+  "Gene": "MIR2113",
+  "TranscribedMiRNAs": "microRNA hsa-mir-2113 precursor"
+}
+
+{
+  "Gene": "MIR208B",
+  "TranscribedMiRNAs": "microRNA hsa-mir-208b precursor"
+}
+
+{
+  "Gene": "MIR2392",
+  "TranscribedMiRNAs": "microRNA hsa-mir-2392 precursor"
+}
+
+{
+  "Gene": "MIR297",
+  "TranscribedMiRNAs": "microRNA hsa-mir-297 precursor"
+}
+
+{
+  "Gene": "MIR2052",
+  "TranscribedMiRNAs": "microRNA hsa-mir-2052 precursor"
+}
+

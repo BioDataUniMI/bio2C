@@ -1,0 +1,1 @@
+Find the genes regulated by mature miRNAs that develop from the 'MIR744' gene through pre-miRNA maturation. Return the pre-miRNA label, mature miRNA label, and target gene label.

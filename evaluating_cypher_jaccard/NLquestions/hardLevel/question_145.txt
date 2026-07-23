@@ -1,0 +1,1 @@
+Which diseases predispose towards other diseases that share at most one phenotype with them? Return only couples of disease's label. Return the labels of both diseases and the list of their shared phenotype labels.

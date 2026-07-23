@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-197-3p",
+  "SequenceLength": 22,
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "SequenceLength": 24,
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "miRNA": "hsa-miR-339-3p",
+  "SequenceLength": 23,
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "SequenceLength": 23,
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "miRNA": "hsa-miR-299-3p",
+  "SequenceLength": 22,
+  "CellularComponent": "mitochondrion"
+}
+

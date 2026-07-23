@@ -1,0 +1,1 @@
+Retrieve diseases that are classified as neurodegenerative diseases, autoimmune diseases, and cancers.

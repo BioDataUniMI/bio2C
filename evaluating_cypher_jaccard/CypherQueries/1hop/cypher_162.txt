@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:enables]->(g:GO{Label:'lncRNA binding'}) RETURN m.Label AS miRNA, r.PubMedID AS PubMedID

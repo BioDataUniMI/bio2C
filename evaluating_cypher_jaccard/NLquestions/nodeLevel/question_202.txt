@@ -1,0 +1,1 @@
+Find GO terms with label containing 'membrane' that have a synonym mentioning 'plasma membrane'. Return all the properties (i.e., the entire nodes).

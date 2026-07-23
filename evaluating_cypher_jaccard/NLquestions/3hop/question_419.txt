@@ -1,0 +1,1 @@
+List diseases whose label contains the string 'neuropathy-sensorineural' and that are subclasses of other diseases having phenotypes characterizing specific GO terms. Return the label of the subtype, supertype parent, phenotype, and GO term.

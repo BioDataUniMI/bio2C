@@ -1,0 +1,1 @@
+What is the distinct labels of Homo sapiens miRNAs starting with 'hsa-miR-20' are not located in any cellular component?

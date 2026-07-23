@@ -1,0 +1,25 @@
+{
+  "c1.Label": "leukemia, chronic lymphocytic, susceptibility to, 2",
+  "c2.Label": "B-cell chronic lymphocytic leukemia"
+}
+
+{
+  "c1.Label": "erythroleukemia, familial, susceptibility to",
+  "c2.Label": "acute erythroid leukemia"
+}
+
+{
+  "c1.Label": "leukemia, chronic lymphocytic, susceptibility to, 1",
+  "c2.Label": "B-cell chronic lymphocytic leukemia"
+}
+
+{
+  "c1.Label": "leukemia, chronic lymphocytic, susceptibility to, 3",
+  "c2.Label": "B-cell chronic lymphocytic leukemia"
+}
+
+{
+  "c1.Label": "leukemia, chronic lymphocytic, susceptibility to, 4",
+  "c2.Label": "B-cell chronic lymphocytic leukemia"
+}
+

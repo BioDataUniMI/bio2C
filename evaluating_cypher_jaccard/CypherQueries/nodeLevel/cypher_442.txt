@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE NONE(s IN mf.Synonym WHERE s = mf.Label) RETURN mf.Label, mf.Synonym

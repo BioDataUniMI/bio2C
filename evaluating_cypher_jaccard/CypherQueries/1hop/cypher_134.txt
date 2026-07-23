@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE g.Label CONTAINS 'ncRNA' RETURN DISTINCT m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

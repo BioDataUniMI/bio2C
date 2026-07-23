@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'early endosome'}) RETURN d.Label AS Disease, m.Label AS miRNA

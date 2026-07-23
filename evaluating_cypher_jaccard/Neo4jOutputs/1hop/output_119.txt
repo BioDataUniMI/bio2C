@@ -1,0 +1,25 @@
+{
+  "Disease": "type 1 diabetes mellitus 1",
+  "miRNA_Count": 1
+}
+
+{
+  "Disease": "Sjogren syndrome",
+  "miRNA_Count": 3
+}
+
+{
+  "Disease": "osteoarthritis",
+  "miRNA_Count": 1
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "miRNA_Count": 26
+}
+
+{
+  "Disease": "rheumatoid arthritis",
+  "miRNA_Count": 5
+}
+

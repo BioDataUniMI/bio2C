@@ -1,0 +1,1 @@
+How many miRNAs regulate the activity of genes that cause or contribute to diseases whose label contains the word 'diabetes' (case-insensitive)?

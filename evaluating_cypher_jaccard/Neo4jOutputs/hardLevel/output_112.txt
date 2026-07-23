@@ -1,0 +1,25 @@
+{
+  "m.Label": "microRNA hsa-mir-543 precursor",
+  "d.Label": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-543 precursor",
+  "d.Label": "hepatocellular carcinoma"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-543 precursor",
+  "d.Label": "exocrine pancreatic carcinoma"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-543 precursor",
+  "d.Label": "prostate adenocarcinoma"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-543 precursor",
+  "d.Label": "lung adenocarcinoma"
+}
+

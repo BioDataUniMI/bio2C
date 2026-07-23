@@ -1,0 +1,48 @@
+{
+  "miRNA": "let-7b stem-loop (hsa-let-7b)",
+  "Phenotype": "Chiari malformation",
+  "p.Synonym": [
+    "Malformazione di Chiari",
+    "Arnoldova-Chiariho malformace",
+    "小脑扁桃体下疝畸形",
+    "Malformación de Arnold-Chiari",
+    "Chiari-Fehlbildung",
+    "Arnold-Chiari malformasyonu",
+    "Malformation d'Arnold-Chiari",
+    "Arnold-Chiari malformatie",
+    "Arnold-Chiari 奇形"
+  ]
+}
+
+{
+  "miRNA": "let-7g stem-loop (hsa-let-7g)",
+  "Phenotype": "Uveitis",
+  "p.Synonym": [
+    "Uveitída",
+    "Uveitis",
+    "Uveïtis",
+    "Uveítis",
+    "葡萄膜炎",
+    "Uveite",
+    "Uveíte",
+    "Uvéite",
+    "Üveit",
+    "ブドウ膜炎"
+  ]
+}
+
+{
+  "miRNA": "let-7i stem-loop (hsa-let-7i)",
+  "Phenotype": "Eosinophilic infiltration of the esophagus",
+  "p.Synonym": [
+    "Eosinophile Infiltration der Speiseröhre",
+    "Eozinofilní infiltrace jícnu",
+    "Infiltrazione eosinofila dell'esofago",
+    "Infiltración eosinofílica del esófago",
+    "Özofagusun eozinofilik infiltrasyonu",
+    "食道の好酸球浸潤",
+    "食道嗜酸性粒细胞浸润",
+    "Infiltration éosinophile de l'œsophage"
+  ]
+}
+

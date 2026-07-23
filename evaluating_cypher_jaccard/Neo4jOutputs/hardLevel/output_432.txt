@@ -1,0 +1,40 @@
+{
+  "Cardiovascular_disease": "very long chain acyl-CoA dehydrogenase deficiency",
+  "nFunctions": 1,
+  "functions": [
+    "very-long-chain fatty acyl-CoA dehydrogenase activity"
+  ]
+}
+
+{
+  "Cardiovascular_disease": "Gaucher disease type III",
+  "nFunctions": 1,
+  "functions": [
+    "beta-galactosidase activity"
+  ]
+}
+
+{
+  "Cardiovascular_disease": "Fabry disease",
+  "nFunctions": 1,
+  "functions": [
+    "alpha-galactosidase activity"
+  ]
+}
+
+{
+  "Cardiovascular_disease": "Hurler syndrome",
+  "nFunctions": 1,
+  "functions": [
+    "L-iduronidase activity"
+  ]
+}
+
+{
+  "Cardiovascular_disease": "long chain acyl-CoA dehydrogenase deficiency",
+  "nFunctions": 1,
+  "functions": [
+    "long-chain fatty acyl-CoA dehydrogenase activity"
+  ]
+}
+

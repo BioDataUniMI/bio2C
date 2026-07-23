@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:has_function]->(bp:Biological_process)-[:function_of]->(pre) WHERE g.Sequence ENDS WITH 'CT' RETURN g.Label AS gene, pre.Label AS precursor_miRNA, bp.Label AS biological_process

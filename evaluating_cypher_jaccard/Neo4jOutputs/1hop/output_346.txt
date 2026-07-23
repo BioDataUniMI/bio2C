@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-5008-3p",
+  "Cancer": "nasopharyngeal carcinoma",
+  "FDR": 0.009986291
+}
+
+{
+  "miRNA": "hsa-miR-5008-3p",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "FDR": 0.009986291
+}
+
+{
+  "miRNA": "hsa-miR-381-5p",
+  "Cancer": "adrenal cortex carcinoma",
+  "FDR": 0.009984506
+}
+
+{
+  "miRNA": "hsa-miR-4678",
+  "Cancer": "gallbladder carcinoma",
+  "FDR": 0.009983028
+}
+
+{
+  "miRNA": "hsa-miR-564",
+  "Cancer": "plasma cell leukemia",
+  "FDR": 0.009989965
+}
+

@@ -1,0 +1,18 @@
+{
+  "gene": "PCDH15",
+  "sequence_length": 1825172,
+  "consecutive_4_count": 47297
+}
+
+{
+  "gene": "IL1RAPL1",
+  "sequence_length": 1369273,
+  "consecutive_4_count": 33666
+}
+
+{
+  "gene": "RUNX1",
+  "sequence_length": 1216867,
+  "consecutive_4_count": 26710
+}
+

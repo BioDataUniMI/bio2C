@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:located_in]->(go:GO)-[:part_of]->(cc:Cellular_component) RETURN COUNT(DISTINCT m) AS miRNACount

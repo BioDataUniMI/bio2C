@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-1248 precursor",
+  "CellularComponent": "nucleolus"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1843 precursor",
+  "CellularComponent": "nucleolus"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-10395 precursor",
+  "CellularComponent": "nucleolus"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-664b precursor",
+  "CellularComponent": "nucleolus"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-3651 precursor",
+  "CellularComponent": "nucleolus"
+}
+

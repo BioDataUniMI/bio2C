@@ -1,0 +1,1 @@
+MATCH (d:Disease {ID: 'MONDO:0013150'}) RETURN d

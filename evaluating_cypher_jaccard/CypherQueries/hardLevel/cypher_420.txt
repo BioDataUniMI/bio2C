@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:acts_upstream_of_or_within]->(b:Biological_process) WHERE toLower(b.Label) CONTAINS 'negative regulation' WITH m, 1.0 * SIZE([n IN SPLIT(m.Sequence, '') WHERE n IN ['G','C']]) / SIZE(m.Sequence) AS normalized_GC_content RETURN m.Label AS miRNA, normalized_GC_content ORDER BY normalized_GC_content DESC

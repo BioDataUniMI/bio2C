@@ -1,0 +1,45 @@
+{
+  "Gene": "ASMTL",
+  "chromosomeCount": 2,
+  "chromosomes": [
+    "chry",
+    "chrx"
+  ]
+}
+
+{
+  "Gene": "MIR3690",
+  "chromosomeCount": 2,
+  "chromosomes": [
+    "chry",
+    "chrx"
+  ]
+}
+
+{
+  "Gene": "MIR6089",
+  "chromosomeCount": 2,
+  "chromosomes": [
+    "chrx",
+    "chry"
+  ]
+}
+
+{
+  "Gene": "SHOX",
+  "chromosomeCount": 2,
+  "chromosomes": [
+    "chrx",
+    "chry"
+  ]
+}
+
+{
+  "Gene": "VAMP7",
+  "chromosomeCount": 2,
+  "chromosomes": [
+    "chry",
+    "chrx"
+  ]
+}
+

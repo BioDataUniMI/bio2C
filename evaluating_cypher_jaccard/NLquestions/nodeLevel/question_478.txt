@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing 'lipid' and either have 'oleosins' in their label or in their description? Return only nodes' properties named 'Label' and 'URI'

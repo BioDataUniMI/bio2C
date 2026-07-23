@@ -1,0 +1,1 @@
+What is the distribution of miRNAs based on how many distinct disease types they are associated with? For each miRNA, count the number of distinct disease types (excluding the generic label 'Disease') linked via 'causes_or_contributes_to_condition' relationships, and return how many miRNAs fall into each count?

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:characteristic_of]->(g:GO)-[:part_of]->(bp:Biological_process {Label: 'bone development'})-[:has_participant]->(m:miRNA) WHERE m.Label CONTAINS '7i' RETURN p.Label AS PhenotypeLabel, p.Description AS PhenotypeDescription, g.Label AS GOterm, m.Label AS miRNA

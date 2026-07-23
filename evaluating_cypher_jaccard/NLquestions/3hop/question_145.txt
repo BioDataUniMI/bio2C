@@ -1,0 +1,1 @@
+Which cancers express miRNAs that are located in cellular components part of the GO term labeled 'extracellular space'? Return the label of: cancer, miRNA and cellular component

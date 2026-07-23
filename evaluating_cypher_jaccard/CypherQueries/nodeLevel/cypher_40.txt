@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Description CONTAINS 'cardiac' AND d.Label CONTAINS 'defect' RETURN d.Label AS Disease, d.Description AS Description

@@ -1,0 +1,7 @@
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Chromosomes": [
+    "chr7:151238421-151238538+"
+  ]
+}
+

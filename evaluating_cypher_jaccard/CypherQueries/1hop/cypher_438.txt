@@ -1,0 +1,1 @@
+MATCH (bp1:Biological_process)-[:part_of]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'nucleotide' OR bp2.Label CONTAINS 'maturation' RETURN bp1.Label AS Process, bp2.Label AS ParentProcess

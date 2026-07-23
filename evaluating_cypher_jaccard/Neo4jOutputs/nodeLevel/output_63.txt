@@ -1,0 +1,25 @@
+{
+  "mf.Label": "acetylation-dependent protein binding",
+  "mf.Description": "binding to a protein upon acetylation of the target protein."
+}
+
+{
+  "mf.Label": "lysine-acetylated histone binding",
+  "mf.Description": "binding to a histone in which a lysine residue has been modified by acetylation."
+}
+
+{
+  "mf.Label": "peptide N-succinyltransferase activity",
+  "mf.Description": "catalysis of the acetylation of an amino acid residue of a peptide or protein, according to the r..."
+}
+
+{
+  "mf.Label": "acetyl-CoA synthetase acetyltransferase activity",
+  "mf.Description": "catalysis of the acetylation of residue lys609 of the enzyme acetyl-coa synthetase, using acetyl-..."
+}
+
+{
+  "mf.Label": "peptide N-acetyltransferase activity",
+  "mf.Description": "catalysis of the acetylation of an amino acid residue of a peptide or protein, according to the r..."
+}
+

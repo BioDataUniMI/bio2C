@@ -1,0 +1,25 @@
+{
+  "DisruptedGOTerm": "memory",
+  "Participant_miRNA": "hsa-miR-199a-5p"
+}
+
+{
+  "DisruptedGOTerm": "memory",
+  "Participant_miRNA": "hsa-miR-199b-3p"
+}
+
+{
+  "DisruptedGOTerm": "memory",
+  "Participant_miRNA": "hsa-miR-144-3p"
+}
+
+{
+  "DisruptedGOTerm": "memory",
+  "Participant_miRNA": "hsa-miR-382-5p"
+}
+
+{
+  "DisruptedGOTerm": "memory",
+  "Participant_miRNA": "hsa-miR-130a-3p"
+}
+

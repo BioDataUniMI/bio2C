@@ -1,0 +1,10 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p"
+}
+

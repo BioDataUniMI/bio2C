@@ -1,0 +1,1 @@
+Return biological processes that aren't part of any cellular component.

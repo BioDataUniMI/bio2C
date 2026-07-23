@@ -1,0 +1,65 @@
+{
+  "miRNA": "hsa-miR-92a-3p",
+  "Parent_miRNA": "microRNA hsa-mir-92a precursor (hsa-mir-92a-1)",
+  "miRNA_coords": [
+    "chrX:134169544-134169565-",
+    "chr13:91351361-91351382+"
+  ],
+  "parent_coords": [
+    "chr13:91351314-91351391+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-19b-3p",
+  "Parent_miRNA": "microRNA hsa-mir-19b precursor (hsa-mir-19b-1)",
+  "miRNA_coords": [
+    "chrX:134169683-134169705-",
+    "chr13:91351245-91351267+"
+  ],
+  "parent_coords": [
+    "chr13:91351192-91351278+"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7f-5p",
+  "Parent_miRNA": "let-7f-1 stem-loop (hsa-let-7f-1)",
+  "miRNA_coords": [
+    "chr9:94176353-94176374+",
+    "chrX:53557246-53557267-"
+  ],
+  "parent_coords": [
+    "chr9:94176347-94176433+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548f-3p",
+  "Parent_miRNA": "microRNA hsa-mir-548f precursor (hsa-mir-548f-3)",
+  "miRNA_coords": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ],
+  "parent_coords": [
+    "chr5:110513829-110513915-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548i",
+  "Parent_miRNA": "microRNA hsa-mir-548i precursor (hsa-mir-548i-3)",
+  "miRNA_coords": [
+    "chr4:9556257-9556278-",
+    "chr3:125790493-125790514-",
+    "chrX:84225797-84225818-",
+    "chr8:8089030-8089051-"
+  ],
+  "parent_coords": [
+    "chr8:8088941-8089089-"
+  ]
+}
+

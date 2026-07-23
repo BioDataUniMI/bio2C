@@ -1,0 +1,8 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-200c precursor",
+  "miRNA": "hsa-miR-200c-3p",
+  "PubMedIDs": [
+    "34999004"
+  ]
+}
+

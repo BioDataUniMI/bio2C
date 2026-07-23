@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:in_homology_relationship_with]->(m:miRNA) RETURN 'homology' AS relationType, COUNT(DISTINCT m) AS miRNACount UNION MATCH (p:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA) RETURN 'similarity' AS relationType, COUNT(DISTINCT m) AS miRNACount

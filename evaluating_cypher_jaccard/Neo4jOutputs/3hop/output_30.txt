@@ -1,0 +1,25 @@
+{
+  "cancer": "carcinoid syndrome",
+  "phenotype": "Respiratory failure"
+}
+
+{
+  "cancer": "acromegaly",
+  "phenotype": "Respiratory failure"
+}
+
+{
+  "cancer": "diffuse neonatal hemangiomatosis",
+  "phenotype": "Respiratory failure"
+}
+
+{
+  "cancer": "nasopharyngeal carcinoma",
+  "phenotype": "Respiratory failure"
+}
+
+{
+  "cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "phenotype": "Respiratory failure"
+}
+

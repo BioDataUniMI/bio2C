@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(:pre_miRNA)-[:under_expressed_in]->(:Disease {Label:'laryngeal squamous cell carcinoma'}) WITH g, SIZE(g.Sequence) - SIZE(replace(g.Sequence, 'T', '')) AS T_count RETURN T_count, COUNT(g) AS gene_count

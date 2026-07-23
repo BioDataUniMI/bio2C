@@ -1,0 +1,20 @@
+{
+  "InfectiousDisease": "paraneoplastic limbic encephalitis"
+}
+
+{
+  "InfectiousDisease": "limbic encephalitis with caspr2 antibodies"
+}
+
+{
+  "InfectiousDisease": "limbic encephalitis"
+}
+
+{
+  "InfectiousDisease": "classic paraneoplastic limbic encephalitis"
+}
+
+{
+  "InfectiousDisease": "non-herpetic acute limbic encephalitis"
+}
+

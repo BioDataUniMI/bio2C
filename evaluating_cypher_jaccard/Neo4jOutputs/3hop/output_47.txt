@@ -1,0 +1,5 @@
+{
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+

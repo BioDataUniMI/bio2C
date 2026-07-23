@@ -1,0 +1,20 @@
+{
+  "m.Label": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)"
+}
+
+{
+  "m.Label": "hsa-miR-1302"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-12136 precursor"
+}
+
+{
+  "m.Label": "hsa-miR-12136"
+}
+
+{
+  "m.Label": "hsa-miR-6859-5p"
+}
+

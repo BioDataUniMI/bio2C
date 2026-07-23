@@ -1,0 +1,1 @@
+For each chromosome, count the number of miRNA-gene pairs where the miRNA regulating the activity of gene and the regulated gene have their genomic coordinate starting on the same chromosome. Return the genomic coordinates and the pair count.

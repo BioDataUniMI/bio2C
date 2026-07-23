@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process {Label:'programmed necrotic cell death'}) RETURN m.Label AS miRNA, r.Source AS Source

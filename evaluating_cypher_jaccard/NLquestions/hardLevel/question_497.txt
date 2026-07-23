@@ -1,0 +1,1 @@
+Find each GO term that has pre-miRNAs under expressed in it, where the pre-miRNA sequence starts and ends with the same letter, and determine which of those pre-miRNAs has the shortest sequence. Return the GO term and the minimum pre_miRNA sequence length.

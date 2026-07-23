@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) WHERE b.Label CONTAINS 'stress' WITH m, b, SIZE(m.Sequence) AS SeqLength ORDER BY SeqLength DESC, m.Label ASC LIMIT 5 RETURN m.Label AS miRNA, SeqLength AS Length, b.Label AS BiologicalProcess

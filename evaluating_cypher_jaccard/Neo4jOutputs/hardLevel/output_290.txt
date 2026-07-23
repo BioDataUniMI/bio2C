@@ -1,0 +1,25 @@
+{
+  "Gene": "POM121B",
+  "regCount": 154
+}
+
+{
+  "Gene": "EEF1A1P10",
+  "regCount": 105
+}
+
+{
+  "Gene": "VWFP1",
+  "regCount": 100
+}
+
+{
+  "Gene": "CEP170P1",
+  "regCount": 109
+}
+
+{
+  "Gene": "BAGE2",
+  "regCount": 101
+}
+

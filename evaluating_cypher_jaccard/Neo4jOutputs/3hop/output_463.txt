@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "NeurodegenerativeDisease": "Zellweger spectrum disorders"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 9"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "NeurodegenerativeDisease": "Aicardi-Goutieres syndrome 7"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 6"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 4"
+}
+

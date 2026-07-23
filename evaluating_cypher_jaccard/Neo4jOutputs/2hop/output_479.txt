@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Recurrent otitis media",
+  "Biological_Process": "inflammatory response",
+  "GO_Term": "regulation of inflammatory response"
+}
+
+{
+  "Phenotype": "Calvarial skull defect",
+  "Biological_Process": "ossification",
+  "GO_Term": "regulation of ossification"
+}
+
+{
+  "Phenotype": "Glucose intolerance",
+  "Biological_Process": "D-glucose import",
+  "GO_Term": "regulation of D-glucose import"
+}
+
+{
+  "Phenotype": "Recurrent bacterial infections",
+  "Biological_Process": "defense response to bacterium",
+  "GO_Term": "regulation of defense response to bacterium"
+}
+
+{
+  "Phenotype": "Recurrent viral infections",
+  "Biological_Process": "defense response to virus",
+  "GO_Term": "regulation of defense response to virus"
+}
+

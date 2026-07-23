@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:expressed_in]-(m:miRNA)<-[:enabled_by]-(mf:Molecular_function {Label:'protein binding'}) RETURN d.Label AS Disease, m.Label AS miRNA

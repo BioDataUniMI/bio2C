@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) WHERE t.Label ENDS WITH '12' RETURN COUNT(DISTINCT t) AS GeneCount

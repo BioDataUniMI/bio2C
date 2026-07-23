@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 'golgi' AND (toLower(cc.Label) CONTAINS 'er' OR toLower(cc.Description) CONTAINS 'endoplasmic reticulum') RETURN cc.Label AS CellularComponent, cc.ID

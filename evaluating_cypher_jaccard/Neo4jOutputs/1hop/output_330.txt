@@ -1,0 +1,20 @@
+{
+  "p.Label": "Positive CSF JC-virus antibody positivity"
+}
+
+{
+  "p.Label": "Positive gastric CMV intranuclear inclusions"
+}
+
+{
+  "p.Label": "Positive mumps virus PCR test in the blood circulation"
+}
+
+{
+  "p.Label": "Positive bloodstream HIV p24 antigen test"
+}
+
+{
+  "p.Label": "Positive bloodstream adenovirus nucleic acid test"
+}
+

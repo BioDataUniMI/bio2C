@@ -1,0 +1,1 @@
+Among genes with sequence length greater than 30,000 nucleotides, which gene(s) have the highest number of genomic coordinate entries? Return their labels, genomic coordinates, and the number of coordinate entries.

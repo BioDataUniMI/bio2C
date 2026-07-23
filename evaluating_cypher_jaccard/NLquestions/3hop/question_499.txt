@@ -1,0 +1,1 @@
+Which miRNAs are active in a given GO term that is a location for another miRNA , and are also under-expressed in a different GO term. Return for each miRNA, the active GO term label, the under-expressed GO term label, and the label of the miRNA that the active GO term is a location of.

@@ -1,0 +1,50 @@
+{
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Parent_BiologicalProcess": "glutamate receptor signaling pathway",
+  "MolecularFunction": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity",
+  "Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Parent_BiologicalProcess": "G protein-coupled receptor signaling pathway",
+  "MolecularFunction": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity",
+  "Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Parent_BiologicalProcess": "signal transduction",
+  "MolecularFunction": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity",
+  "Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Parent_BiologicalProcess": "glutamate receptor signaling pathway",
+  "MolecularFunction": "PLC activating G protein-coupled glutamate receptor activity",
+  "Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Parent_BiologicalProcess": "G protein-coupled receptor signaling pathway",
+  "MolecularFunction": "PLC activating G protein-coupled glutamate receptor activity",
+  "Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+

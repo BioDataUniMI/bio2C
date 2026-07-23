@@ -1,0 +1,50 @@
+{
+  "miRNA": "hsa-miR-34c-5p",
+  "GOlocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ],
+  "CellularComponentLocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-95-3p",
+  "GOlocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ],
+  "CellularComponentLocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-144-5p",
+  "GOlocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ],
+  "CellularComponentLocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "GOlocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ],
+  "CellularComponentLocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7b-5p",
+  "GOlocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ],
+  "CellularComponentLocations": [
+    "cyclin-dependent protein kinase holoenzyme complex"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "DiseaseLabel": "mumps infectious disease",
+  "i.URI": "http://purl.obolibrary.org/obo/MONDO_0000989"
+}
+
+{
+  "DiseaseLabel": "pertussis",
+  "i.URI": "http://purl.obolibrary.org/obo/MONDO_0005077"
+}
+
+{
+  "DiseaseLabel": "pulmonary tuberculosis",
+  "i.URI": "http://purl.obolibrary.org/obo/MONDO_0006052"
+}
+
+{
+  "DiseaseLabel": "toxic shock syndrome",
+  "i.URI": "http://purl.obolibrary.org/obo/MONDO_0001881"
+}
+
+{
+  "DiseaseLabel": "impetigo",
+  "i.URI": "http://purl.obolibrary.org/obo/MONDO_0004592"
+}
+

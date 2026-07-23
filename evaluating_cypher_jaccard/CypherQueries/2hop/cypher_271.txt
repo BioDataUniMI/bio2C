@@ -1,0 +1,1 @@
+MATCH (go:GO {Label:'collagen binding'})-[:function_of]->(m:miRNA)-[:develops_from]->(pre:pre_miRNA) RETURN m.Label AS miRNA, pre.Label AS Pre_miRNA

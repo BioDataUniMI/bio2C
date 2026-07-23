@@ -1,0 +1,20 @@
+{
+  "GOTerm": "primary adaptive immune response involving T cells and B cells"
+}
+
+{
+  "GOTerm": "primary adaptive immune response"
+}
+
+{
+  "GOTerm": "adaptive immune response based on somatic recombination of immune receptors built from immunoglob..."
+}
+
+{
+  "GOTerm": "symbiont-mediated suppression of host adaptive immune response"
+}
+
+{
+  "GOTerm": "negative regulation of adaptive immune response"
+}
+

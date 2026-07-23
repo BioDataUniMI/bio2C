@@ -1,0 +1,1 @@
+Consider molecular function-to-molecular function regulation relationships, including both direct and non-direct regulation, and return the regulation effect category (positive, negative, or unspecified), the specific relationship type, and the total number of relationships for each combination.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) WITH m, d, SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'C', '')) AS C_count ORDER BY C_count DESC, m.Label ASC LIMIT 3 RETURN m.Label, C_count, COLLECT(d.Label) AS diseases

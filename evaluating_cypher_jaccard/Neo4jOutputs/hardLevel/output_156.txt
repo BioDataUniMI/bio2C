@@ -1,0 +1,15 @@
+{
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-5)",
+  "U_count": 61
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-4)",
+  "U_count": 54
+}
+
+{
+  "miRNA": "microRNA hsa-mir-548i precursor (hsa-mir-548i-2)",
+  "U_count": 52
+}
+

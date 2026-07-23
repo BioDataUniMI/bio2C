@@ -1,0 +1,1 @@
+Count the distinct miRNAs that the pre-miRNA ‘microRNA hsa-mir-519a precursor (hsa-mir-519a-2)’ develops into, which are located in cellular components that have GO terms as parts (i.e., GO terms are part of those cellular components). Return the count of distinct miRNAs.

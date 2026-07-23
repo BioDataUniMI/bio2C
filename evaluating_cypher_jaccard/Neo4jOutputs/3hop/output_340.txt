@@ -1,0 +1,50 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "ExperimentalMethods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "ParentBiologicalProcess": "regulation of cell cycle G1/S phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "ExperimentalMethods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "ParentBiologicalProcess": "regulation of mitotic cell cycle phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "ExperimentalMethods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "ParentBiologicalProcess": "biological regulation"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "ExperimentalMethods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "ParentBiologicalProcess": "regulation of cyclin-dependent protein kinase activity"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "ExperimentalMethods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "ParentBiologicalProcess": "positive regulation of protein kinase activity"
+}
+

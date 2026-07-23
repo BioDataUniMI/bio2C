@@ -1,0 +1,7 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-143 precursor",
+  "Interacting_miRNA": "hsa-miR-143-5p",
+  "Target_miRNA": "hsa-miR-145-5p",
+  "Gene": "TPM4P1"
+}
+

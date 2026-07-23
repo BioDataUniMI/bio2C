@@ -1,0 +1,4 @@
+{
+  "MaxGeneLength": 22
+}
+

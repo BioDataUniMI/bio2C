@@ -1,0 +1,4 @@
+{
+  "AverageGenesPermiRNA": 15.0
+}
+

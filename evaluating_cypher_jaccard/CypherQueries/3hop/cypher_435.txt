@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function {Label: 'cadherin binding involved in cell-cell adhesion'})<-[:has_part]-(bp:Biological_process)<-[:participates_in]-(m:miRNA)<-[:expresses]-(c:Cancer) RETURN c.Label AS Cancer, m.Label AS miRNA, bp.Label AS BiologicalProcess

@@ -1,0 +1,25 @@
+{
+  "GOTerm": "interleukin-18-mediated signaling pathway",
+  "BiologicalProcess": "cellular response to interleukin-18"
+}
+
+{
+  "GOTerm": "interleukin-12-mediated signaling pathway",
+  "BiologicalProcess": "cellular response to interleukin-12"
+}
+
+{
+  "GOTerm": "interleukin-15-mediated signaling pathway",
+  "BiologicalProcess": "cellular response to interleukin-15"
+}
+
+{
+  "GOTerm": "interleukin-4-mediated signaling pathway",
+  "BiologicalProcess": "cellular response to interleukin-4"
+}
+
+{
+  "GOTerm": "interleukin-13-mediated signaling pathway",
+  "BiologicalProcess": "cellular response to interleukin-13"
+}
+

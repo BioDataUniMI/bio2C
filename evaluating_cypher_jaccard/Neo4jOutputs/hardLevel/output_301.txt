@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Disease": "prostate cancer, hereditary",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Disease": "familial prostate carcinoma",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Disease": "prostate neoplasm",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Disease": "prostate cancer, hereditary, 13",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Disease": "prostate cancer, hereditary, 12",
+  "mediatorGenes": 11
+}
+

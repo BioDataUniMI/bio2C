@@ -1,0 +1,1 @@
+Which miRNAs, whose labels end with a number and with genomic coordinates located on chromosome 1 (chr1:), participate in biological processes that are part of GO terms? Return the miRNA, biological processes, and GO terms labels

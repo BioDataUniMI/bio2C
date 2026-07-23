@@ -1,0 +1,12 @@
+{
+  "Subtype": "chronic pyelonephritis",
+  "Supertype": "pyelonephritis",
+  "Phenotype": "Motor delay"
+}
+
+{
+  "Subtype": "chronic rhinosinusitis",
+  "Supertype": "sinusitis",
+  "Phenotype": "Motor delay"
+}
+

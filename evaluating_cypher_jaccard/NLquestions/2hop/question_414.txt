@@ -1,0 +1,1 @@
+Identify gene-pre-miRNA-miRNA transcriptional cascades where a gene, whose label ends with three digits followed by 'F', produces both a pre-miRNA and a mature miRNA transcribed from it. Return the label of the gene, the transcribed pre-miRNA, and the resulting miRNA.

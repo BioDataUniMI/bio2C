@@ -1,0 +1,1 @@
+Which disease type has the highest number of 'causes_or_contributes_to_condition' relationships from genes transcribed by miRNAs (include ties)? Return the disease type and the relationship count.

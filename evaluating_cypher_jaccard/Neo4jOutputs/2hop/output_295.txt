@@ -1,0 +1,6 @@
+{
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+

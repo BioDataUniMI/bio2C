@@ -1,0 +1,1 @@
+For each disease that has at least 450 associated phenotype, count how many phenotypes are linked to it. Return the disease label and phenotype count.

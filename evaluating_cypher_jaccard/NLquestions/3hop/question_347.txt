@@ -1,0 +1,1 @@
+Which miRNAs ending with '620' are under-expressed in cancers that are subclasses of diseases whose label contains the word 'malignant' and that have the phenotype 'Fine hair'? Return the miRNA label, cancer label, parent disease label, the FDR value of the under-expression, and the phenotype label.

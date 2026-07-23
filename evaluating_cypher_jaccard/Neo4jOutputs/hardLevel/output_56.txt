@@ -1,0 +1,18 @@
+{
+  "GOLabel": "miRNA-mediated post-transcriptional gene silencing",
+  "Chromosome": "chrX:53556223-53556341-",
+  "MaxSeqLength": 119
+}
+
+{
+  "GOLabel": "miRNA-mediated post-transcriptional gene silencing",
+  "Chromosome": "chrX:114823454-114823564+",
+  "MaxSeqLength": 111
+}
+
+{
+  "GOLabel": "negative regulation of cell differentiation",
+  "Chromosome": "chrX:114823454-114823564+",
+  "MaxSeqLength": 111
+}
+

@@ -1,0 +1,1 @@
+Which biological processes have GO terms as parts and where molecular functions enabled by miRNAs are part of them? Return the miRNA label, molecular function label, biological process label, and GO term label.

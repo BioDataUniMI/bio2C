@@ -1,0 +1,1 @@
+For each cancer that has at least one feature phenotype, how many distinct genes that genetically interact with other genes cause or contribute to that cancer? Return the cancer label and the count of such interacting genes.

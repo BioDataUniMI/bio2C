@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA) WHERE ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chrX:') AND p.Sequence ENDS WITH 'CAA' RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS GenomicCoordinates, p.Sequence AS Sequence

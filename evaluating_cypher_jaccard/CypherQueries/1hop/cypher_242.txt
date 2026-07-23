@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:has_material_basis_in_germline_mutation_in]->(m:miRNA) RETURN DISTINCT p.Label AS Phenotype

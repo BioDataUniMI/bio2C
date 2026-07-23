@@ -1,0 +1,1 @@
+For each GO term, how many miRNAs that are functions of it are transcribed from genes that cause or contribute to diseases?

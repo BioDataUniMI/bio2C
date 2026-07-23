@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-493-3p",
+  "Disease": "cervical carcinoma",
+  "Phenotype": "Progressive visual loss"
+}
+
+{
+  "miRNA": "hsa-miR-143-3p",
+  "Disease": "cervical carcinoma",
+  "Phenotype": "Progressive visual loss"
+}
+
+{
+  "miRNA": "hsa-miR-25-3p",
+  "Disease": "cervical carcinoma",
+  "Phenotype": "Progressive visual loss"
+}
+
+{
+  "miRNA": "hsa-miR-199b-3p",
+  "Disease": "cervical carcinoma",
+  "Phenotype": "Progressive visual loss"
+}
+
+{
+  "miRNA": "hsa-miR-320a-3p",
+  "Disease": "cervical carcinoma",
+  "Phenotype": "Progressive visual loss"
+}
+

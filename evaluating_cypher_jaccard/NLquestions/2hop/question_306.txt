@@ -1,0 +1,1 @@
+dentify miRNAs whose labels do not end with 'p' that regulate the activity of the gene 'UBE2C', where the gene is known to cause or contribute to diseases. Return the miRNA labels, disease labels, and all synonyms of the gene.

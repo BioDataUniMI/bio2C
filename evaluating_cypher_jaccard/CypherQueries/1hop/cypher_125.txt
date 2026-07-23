@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(i:Infectious_disease {Label:'toxoplasmosis'}) RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_Length ORDER BY Sequence_Length DESC

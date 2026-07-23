@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR664B",
+  "miRNA": "microRNA hsa-mir-664b precursor",
+  "ChildGOterm": "nucleolus",
+  "ParentGOterm": "nuclear lumen"
+}
+
+{
+  "Gene": "MIR664B",
+  "miRNA": "microRNA hsa-mir-664b precursor",
+  "ChildGOterm": "nucleolus",
+  "ParentGOterm": "cell nucleus"
+}
+
+{
+  "Gene": "MIR3651",
+  "miRNA": "microRNA hsa-mir-3651 precursor",
+  "ChildGOterm": "nucleolus",
+  "ParentGOterm": "nuclear lumen"
+}
+
+{
+  "Gene": "MIR3651",
+  "miRNA": "microRNA hsa-mir-3651 precursor",
+  "ChildGOterm": "nucleolus",
+  "ParentGOterm": "cell nucleus"
+}
+
+{
+  "Gene": "MIR664A",
+  "miRNA": "microRNA hsa-mir-664a precursor",
+  "ChildGOterm": "nucleolus",
+  "ParentGOterm": "nuclear lumen"
+}
+

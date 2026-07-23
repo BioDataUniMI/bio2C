@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene)-[r:genetically_interacts_with]->(g2:Gene) RETURN m.Label AS miRNA, g.Label AS Gene, g2.Label, r.GeneMANIA_weight AS GeneMANIA_weight ORDER BY GeneMANIA_weight ASC LIMIT 5

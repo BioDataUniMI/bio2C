@@ -1,0 +1,1 @@
+Find the molecular functions such that none of the synonyms is identical to the label.

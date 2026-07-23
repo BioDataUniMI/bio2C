@@ -1,0 +1,40 @@
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-3p",
+  "DisruptionSource": [
+    "Mondo"
+  ]
+}
+
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-5p",
+  "DisruptionSource": [
+    "Mondo"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-3p",
+  "DisruptionSource": [
+    "Mondo"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-5p",
+  "DisruptionSource": [
+    "Mondo"
+  ]
+}
+

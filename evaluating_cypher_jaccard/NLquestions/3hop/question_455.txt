@@ -1,0 +1,1 @@
+List miRNAs expressed in diseases that have phenotypes that are also characteristic of the GO term labeled as 'regulation of appetite'. Return phenotype label, disease label, and miRNA label.

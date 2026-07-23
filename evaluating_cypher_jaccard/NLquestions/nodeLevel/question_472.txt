@@ -1,0 +1,1 @@
+Find the cellular components whose labels contain 'protein kinase' and whose descriptions contain 'enzyme'. Return their label and ID.

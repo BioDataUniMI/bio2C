@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA) WHERE g.Label STARTS WITH 'MIR62' RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, m.Label AS Mature_miRNA, r.Source AS RelationSource

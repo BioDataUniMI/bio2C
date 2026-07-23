@@ -1,0 +1,1 @@
+MATCH (parent:Gene)-[:subclassof]->(child:Gene) RETURN COLLECT(DISTINCT parent.Label) AS GenesWithSubclasses, COLLECT(DISTINCT child.Label) AS SubclassGenes

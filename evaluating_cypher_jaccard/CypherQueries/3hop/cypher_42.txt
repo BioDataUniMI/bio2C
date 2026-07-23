@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component {Label:'extracellular region'})<-[:has_target_start_location]-(bp:Biological_process)<-[:has_function]-(pre:pre_miRNA)<-[:transcribed_to]-(g:Gene) RETURN bp.Label AS biological_process, pre.Label AS precursor_miRNA, g.Label AS gene

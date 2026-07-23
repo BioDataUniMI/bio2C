@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "DHX40P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTCO1P12"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "PIGPP2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTATP8P2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTND5P11"
+}
+

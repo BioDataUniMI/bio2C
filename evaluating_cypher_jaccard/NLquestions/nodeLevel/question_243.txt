@@ -1,0 +1,1 @@
+Find miRNAs that have long sequences (more than 160 nucleotides). Return their full labels and descriptions.

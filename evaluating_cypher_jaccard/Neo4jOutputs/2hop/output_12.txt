@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-493-3p",
+  "bp.Label": "JNK cascade"
+}
+
+{
+  "m.Label": "hsa-miR-892b",
+  "bp.Label": "JNK cascade"
+}
+
+{
+  "m.Label": "hsa-miR-146b-5p",
+  "bp.Label": "JNK cascade"
+}
+
+{
+  "m.Label": "hsa-miR-21-5p",
+  "bp.Label": "JNK cascade"
+}
+
+{
+  "m.Label": "hsa-miR-374b-5p",
+  "bp.Label": "JNK cascade"
+}
+

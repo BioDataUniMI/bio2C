@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+

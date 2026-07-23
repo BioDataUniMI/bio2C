@@ -1,0 +1,1 @@
+Identify miRNAs whose labels end with '100-5p' that participate in biological processes positively regulating a GO term, and return the miRNA, the biological process, and the positively regulated GO term.

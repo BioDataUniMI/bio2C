@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE SIZE(pm.Sequence) >= 150 AND SIZE(pm.Sequence) <= 180 RETURN AVG(SIZE(pm.Sequence)) AS AverageSequenceLength

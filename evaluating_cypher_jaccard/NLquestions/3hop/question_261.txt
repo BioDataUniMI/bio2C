@@ -1,0 +1,1 @@
+Which neurodegenerative diseases express miRNAs that participate in biological processes via the cellular components in which they are located? Return the neurodegenerative disease label, the miRNA label, the cellular component label, and the biological process label.

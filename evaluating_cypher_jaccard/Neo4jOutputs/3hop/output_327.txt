@@ -1,0 +1,11 @@
+{
+  "CellularComponent": "intracellular anatomical structure",
+  "miRNA": "hsa-let-7a-5p",
+  "properties(bp)": {
+    "Description": "the process in which a signal is passed on to downstream components within the cell, which become...",
+    "ID": "GO:0035556",
+    "Label": "intracellular signal transduction",
+    "URI": "http://purl.obolibrary.org/obo/GO_0035556"
+  }
+}
+

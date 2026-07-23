@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:participates_in]->(g:GO) WHERE SIZE(r.Interactor) > 4 RETURN m.Label AS miRNA, g.Label AS GOTerm, r.Interactor AS Interactors

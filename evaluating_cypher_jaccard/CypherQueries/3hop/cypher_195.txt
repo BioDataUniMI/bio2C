@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'schizophrenia'})<-[:expressed_in]-(m:miRNA)<-[:enabled_by]-(mf:Molecular_function)<-[:has_part]-(go:GO) RETURN COUNT(DISTINCT m) AS miRNACount

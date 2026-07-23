@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Renovascular hypertension'})-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) RETURN d.Label AS Disease, bp.Label AS BiologicalProcess, m.Label AS miRNA

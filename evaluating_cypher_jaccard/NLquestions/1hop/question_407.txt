@@ -1,0 +1,1 @@
+Find all phenotypes missing a 'Phenotype-has_modifier-Phenotype' relationship and have at least one synonym containing the Czech string 'Fokální non-motorický'.

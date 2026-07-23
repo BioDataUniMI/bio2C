@@ -1,0 +1,25 @@
+{
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "execution phase of apoptosis"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "cell population proliferation"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "cell cycle"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "inflammatory response"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "apoptotic process"
+}
+

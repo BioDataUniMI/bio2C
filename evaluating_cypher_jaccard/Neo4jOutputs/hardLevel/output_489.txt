@@ -1,0 +1,50 @@
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Disease": "adult glioblastoma",
+  "FDR": 8.550000000000312e-22,
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Disease": "glioblastoma",
+  "FDR": 8.550000000000312e-22,
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-30c-5p",
+  "Disease": "colorectal carcinoma",
+  "FDR": 0.0029772320000007,
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-30c-5p",
+  "Disease": "colorectal cancer",
+  "FDR": 0.0032422021000004,
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29c-5p",
+  "Disease": "lung cancer",
+  "FDR": 0.006552236,
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-3622b-5p",
+  "GO_Term": "endosome membrane",
+  "CellularComponent": "endosome"
+}
+
+{
+  "miRNA": "hsa-miR-146b-5p",
+  "GO_Term": "endosome membrane",
+  "CellularComponent": "endosome"
+}
+
+{
+  "miRNA": "hsa-miR-371a-3p",
+  "GO_Term": "endosome membrane",
+  "CellularComponent": "endosome"
+}
+
+{
+  "miRNA": "hsa-miR-758-3p",
+  "GO_Term": "endosome membrane",
+  "CellularComponent": "endosome"
+}
+
+{
+  "miRNA": "hsa-miR-574-3p",
+  "GO_Term": "endosome membrane",
+  "CellularComponent": "endosome"
+}
+

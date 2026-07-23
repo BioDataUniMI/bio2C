@@ -1,0 +1,7 @@
+{
+  "Phenotype": "Absent zona pellucida",
+  "p.Synonym": [
+    "Ausencia de zona pelúcida."
+  ]
+}
+

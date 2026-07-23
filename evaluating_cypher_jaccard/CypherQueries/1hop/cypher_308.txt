@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype) AND d.Description CONTAINS 'fever virus' AND d.Description CONTAINS 'infection' RETURN d.Label

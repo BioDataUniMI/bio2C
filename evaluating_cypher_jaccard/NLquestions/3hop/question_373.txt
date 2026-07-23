@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'dysgenesis' that have as phenotypes the ones characterizing GO terms that are parts of biological processes. Keep only the phenotype-GO associations confirmed by the source named 'HPO'. Return the disease label, phenotype label, GO term label, biological process label, and the source.

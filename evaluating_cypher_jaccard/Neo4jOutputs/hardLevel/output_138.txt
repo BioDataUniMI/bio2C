@@ -1,0 +1,72 @@
+{
+  "CardiovascularDisease": "Brugada syndrome",
+  "miRNAs": [
+    {
+      "miRNA": "microRNA hsa-mir-223 precursor",
+      "GenomicCoordinates": [
+        "chrX:66018870-66018979+"
+      ]
+    }
+  ]
+}
+
+{
+  "CardiovascularDisease": "Chagas cardiomyopathy",
+  "miRNAs": [
+    {
+      "miRNA": "microRNA hsa-mir-223 precursor",
+      "GenomicCoordinates": [
+        "chrX:66018870-66018979+"
+      ]
+    }
+  ]
+}
+
+{
+  "CardiovascularDisease": "Friedreich ataxia",
+  "miRNAs": [
+    {
+      "miRNA": "hsa-miR-224-5p",
+      "GenomicCoordinates": [
+        "chrX:151958628-151958652-"
+      ]
+    },
+    {
+      "miRNA": "microRNA hsa-mir-223 precursor",
+      "GenomicCoordinates": [
+        "chrX:66018870-66018979+"
+      ]
+    }
+  ]
+}
+
+{
+  "CardiovascularDisease": "Friedreich ataxia 1",
+  "miRNAs": [
+    {
+      "miRNA": "microRNA hsa-mir-223 precursor",
+      "GenomicCoordinates": [
+        "chrX:66018870-66018979+"
+      ]
+    }
+  ]
+}
+
+{
+  "CardiovascularDisease": "Williams syndrome",
+  "miRNAs": [
+    {
+      "miRNA": "hsa-miR-934",
+      "GenomicCoordinates": [
+        "chrX:136550892-136550913+"
+      ]
+    },
+    {
+      "miRNA": "hsa-miR-452-3p",
+      "GenomicCoordinates": [
+        "chrX:151959634-151959655-"
+      ]
+    }
+  ]
+}
+

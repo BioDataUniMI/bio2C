@@ -1,0 +1,1 @@
+Find the phenotypes whose labels contain the word 'collagen' and also contain either 'Increased' or 'Elevated'.

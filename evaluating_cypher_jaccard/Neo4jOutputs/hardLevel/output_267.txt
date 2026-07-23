@@ -1,0 +1,16 @@
+{
+  "miRNA": "hsa-miR-10393-5p",
+  "pre_miRNA": "microRNA hsa-mir-10393 precursor",
+  "miRNA_length": 25,
+  "pre_miRNA_length": 50,
+  "length_diff": 25
+}
+
+{
+  "miRNA": "hsa-miR-1469",
+  "pre_miRNA": "microRNA hsa-mir-1469 precursor",
+  "miRNA_length": 22,
+  "pre_miRNA_length": 47,
+  "length_diff": 25
+}
+

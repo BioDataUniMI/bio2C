@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE NOT g.Label CONTAINS ' ' RETURN g.Label AS Gene, SIZE(g.Label) AS NameLength ORDER BY NameLength ASC, Gene ASC LIMIT 5

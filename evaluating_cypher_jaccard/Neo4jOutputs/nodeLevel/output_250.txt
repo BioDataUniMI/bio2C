@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-296-5p",
+  "SequenceLength": 21
+}
+
+{
+  "miRNA": "hsa-miR-1249-3p",
+  "SequenceLength": 22
+}
+
+{
+  "miRNA": "Hsa-Mir-296_pre stem-loop",
+  "SequenceLength": 56
+}
+
+{
+  "miRNA": "microRNA hsa-mir-152 precursor",
+  "SequenceLength": 87
+}
+
+{
+  "miRNA": "microRNA hsa-mir-296 precursor",
+  "SequenceLength": 80
+}
+

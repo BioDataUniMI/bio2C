@@ -1,0 +1,30 @@
+{
+  "disease": "allergic bronchopulmonary aspergillosis",
+  "phenotype": "Asthma",
+  "cardiovascular_disease": "double outlet right ventricle with subpulmonary ventricular septal defect"
+}
+
+{
+  "disease": "allergic bronchopulmonary aspergillosis",
+  "phenotype": "Asthma",
+  "cardiovascular_disease": "Leber congenital amaurosis"
+}
+
+{
+  "disease": "allergic bronchopulmonary aspergillosis",
+  "phenotype": "Asthma",
+  "cardiovascular_disease": "Noonan syndrome"
+}
+
+{
+  "disease": "allergic bronchopulmonary aspergillosis",
+  "phenotype": "Asthma",
+  "cardiovascular_disease": "22q11.2 deletion syndrome"
+}
+
+{
+  "disease": "allergic bronchopulmonary aspergillosis",
+  "phenotype": "Asthma",
+  "cardiovascular_disease": "peripartum cardiomyopathy"
+}
+

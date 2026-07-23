@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'myelofibrosis'})-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO {Label:'regulation of appetite'}) RETURN d.Label AS Disease, p.Label AS Phenotype

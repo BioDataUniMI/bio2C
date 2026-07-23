@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(bp:Biological_process) WHERE toLower(bp.Label) CONTAINS 'immune' AND c.Label CONTAINS 'Hodgkin' RETURN c.Label AS Cancer, p.Label AS Phenotype, bp.Label AS BiologicalProcess

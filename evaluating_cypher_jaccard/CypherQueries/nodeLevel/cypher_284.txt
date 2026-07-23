@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE size(g.Label) = 2 RETURN g.Label AS GeneLabel, SIZE(g.Sequence)

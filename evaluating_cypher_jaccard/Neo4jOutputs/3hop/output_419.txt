@@ -1,0 +1,35 @@
+{
+  "Subtype": "cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplas...",
+  "Supertype": "spondyloepiphyseal dysplasia",
+  "Phenotype": "Hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Subtype": "cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplas...",
+  "Supertype": "spondyloepiphyseal dysplasia",
+  "Phenotype": "Sensorineural hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Subtype": "cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplas...",
+  "Supertype": "spondyloepiphyseal dysplasia",
+  "Phenotype": "Failure to thrive",
+  "GOterm": "growth"
+}
+
+{
+  "Subtype": "cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplas...",
+  "Supertype": "spondyloepiphyseal dysplasia",
+  "Phenotype": "Growth delay",
+  "GOterm": "growth"
+}
+
+{
+  "Subtype": "cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplas...",
+  "Supertype": "spondyloepiphyseal dysplasia",
+  "Phenotype": "Abnormal epiphyseal ossification",
+  "GOterm": "ossification"
+}
+

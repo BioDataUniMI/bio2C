@@ -1,0 +1,1 @@
+ In which molecular function or biological process terms does the miRNA participate, if it develops from the pre-miRNA with '612' in the label through maturation? Return the mature miRNA label, GO term label, and GO term type.

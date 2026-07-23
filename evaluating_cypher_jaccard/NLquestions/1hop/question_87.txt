@@ -1,0 +1,1 @@
+List all miRNAs under-expressed in autoimmune diseases whose sequence contains the motif 'AAGG'.

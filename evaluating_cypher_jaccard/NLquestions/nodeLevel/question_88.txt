@@ -1,0 +1,1 @@
+Which Homo sapiens miRNAs have sequences of exactly 22 nucleotides and labels starting with 'hsa-miR-19' and do not end with 'p'?

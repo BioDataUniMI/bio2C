@@ -1,0 +1,1 @@
+Identify biological processes whose label includes the string 'mitotic cell cycle' and in which miRNAs expressed by cancers whose label contains 'benign' participate. Return the cancer, miRNA, and biological process labels.

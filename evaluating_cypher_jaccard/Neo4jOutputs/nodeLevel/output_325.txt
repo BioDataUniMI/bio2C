@@ -1,0 +1,20 @@
+{
+  "CancerLabel": "squamous cell neoplasm"
+}
+
+{
+  "CancerLabel": "larynx squamous papilloma"
+}
+
+{
+  "CancerLabel": "multiple self-healing squamous epithelioma"
+}
+
+{
+  "CancerLabel": "squamous papilloma"
+}
+
+{
+  "CancerLabel": "cervix squamous papilloma"
+}
+

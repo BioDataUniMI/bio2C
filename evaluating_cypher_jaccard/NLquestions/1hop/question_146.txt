@@ -1,0 +1,1 @@
+List all miRNAs (include label and genomic coordinates in the return clause) that cause or contribute to the infectious disease labeled 'AIDS', excluding miRNAs containing the word 'precursor' in the label and excluding also those located on chromosome X.

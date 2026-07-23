@@ -1,0 +1,70 @@
+{
+  "Phenotype": "Anal canal adenocarcinoma",
+  "SynonymCount": 7,
+  "Synonym": [
+    "Adenocarcinoom van anale kanaal",
+    "Adenokarcinom análního kanálu",
+    "肛管腺癌",
+    "肛門管腺がん",
+    "Anal kanal adenokarsinomu",
+    "Adenocarcinoma del canal anal",
+    "Adénocarcinome du canal anal"
+  ]
+}
+
+{
+  "Phenotype": "Non-medullary thyroid carcinoma",
+  "SynonymCount": 7,
+  "Synonym": [
+    "Non-medullair schildklier carcinoom",
+    "甲状腺非髓样癌",
+    "非髄様甲状腺がん",
+    "Carcinoma de tiroides no medular",
+    "Non-medüller tiroid karsinomu",
+    "Carcinome thyroïdien non médullaire",
+    "Non-medulární karcinom štítné žlázy"
+  ]
+}
+
+{
+  "Phenotype": "Multifocal breast carcinoma",
+  "SynonymCount": 7,
+  "Synonym": [
+    "Cancer du sein multifocal",
+    "Multifokální karcinom prsu",
+    "Multifokal meme karsinomu",
+    "Multifocaal mammacarcinoom",
+    "多灶性乳腺癌",
+    "Carcinoma de mama multifocal",
+    "多巣性乳房癌"
+  ]
+}
+
+{
+  "Phenotype": "Anal margin squamous cell carcinoma",
+  "SynonymCount": 7,
+  "Synonym": [
+    "Carcinoma de células escamosas de margen anal",
+    "肛門縁扁平上皮がん",
+    "Anal sınır skuamöz hücreli karsinomu",
+    "肛缘鳞状细胞癌",
+    "Carcinome spinocellulaire du bord anal",
+    "Spinocelulární karcinom análního okraje",
+    "Anale marge plaveiselcelcarcinoom"
+  ]
+}
+
+{
+  "Phenotype": "Follicular thyroid carcinoma",
+  "SynonymCount": 7,
+  "Synonym": [
+    "甲状腺滤泡癌",
+    "濾胞性甲状腺癌",
+    "Carcinoma folicular de tiroides",
+    "Carcinome folliculaire de la thyroïde",
+    "Fulikulární karcinom štítné žlázy",
+    "Foliküler tiroid karsinomu",
+    "Folliculair schildklier carcinoom"
+  ]
+}
+

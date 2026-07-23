@@ -1,0 +1,1 @@
+Compute the number of distinct GO terms that each biological process includes as parts, where the biological process is a function of a pre-miRNA. Return the biological process label and the count of its associated GO terms.

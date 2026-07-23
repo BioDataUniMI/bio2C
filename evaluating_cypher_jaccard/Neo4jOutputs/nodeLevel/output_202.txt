@@ -1,0 +1,12 @@
+{
+  "g": {
+    "Description": "the membrane surrounding a cell that separates the cell from its external environment. it consist...",
+    "Label": "plasma membrane",
+    "Synonym": [
+      "plasma membrane"
+    ],
+    "ID": "GO:0005886",
+    "URI": "http://purl.obolibrary.org/obo/GO_0005886"
+  }
+}
+

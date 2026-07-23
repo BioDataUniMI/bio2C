@@ -1,0 +1,1 @@
+Which genes have sequences containing at least 75 consecutive As? Return only their labels.

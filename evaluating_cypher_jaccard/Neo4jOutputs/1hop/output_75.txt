@@ -1,0 +1,24 @@
+{
+  "miRNA": "microRNA hsa-mir-490 precursor",
+  "Sequence_length": 128,
+  "Genomic_coordinates": [
+    "chr7:136903167-136903294+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "Sequence_length": 110,
+  "Genomic_coordinates": [
+    "chr11:568089-568198-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "Sequence_length": 110,
+  "Genomic_coordinates": [
+    "chr1:172138798-172138907-"
+  ]
+}
+

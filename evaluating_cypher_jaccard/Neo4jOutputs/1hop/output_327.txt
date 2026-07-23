@@ -1,0 +1,12 @@
+{
+  "d.Label": "autosomal recessive brachyolmia"
+}
+
+{
+  "d.Label": "lumbar disk disease"
+}
+
+{
+  "d.Label": "dysplasia of the proximal femoral epiphyses"
+}
+

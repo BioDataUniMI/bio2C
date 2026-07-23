@@ -1,0 +1,30 @@
+{
+  "Phenotype_label": "Neoplasm of head and neck",
+  "miRNA": "hsa-miR-4261",
+  "sequence_length": 16
+}
+
+{
+  "Phenotype_label": "Stomach cancer",
+  "miRNA": "hsa-miR-4261",
+  "sequence_length": 16
+}
+
+{
+  "Phenotype_label": "Prostate cancer",
+  "miRNA": "hsa-miR-4261",
+  "sequence_length": 16
+}
+
+{
+  "Phenotype_label": "Colon cancer",
+  "miRNA": "hsa-miR-4261",
+  "sequence_length": 16
+}
+
+{
+  "Phenotype_label": "Breast carcinoma",
+  "miRNA": "hsa-miR-4261",
+  "sequence_length": 16
+}
+

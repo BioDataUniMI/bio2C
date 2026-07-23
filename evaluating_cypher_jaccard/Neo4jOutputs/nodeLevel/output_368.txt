@@ -1,0 +1,12 @@
+{
+  "DiseaseLabel": "mental disorder",
+  "d.Description": "clinically significant behavioural and/or cognitive pathology.",
+  "d.URI": "http://purl.obolibrary.org/obo/MFOMD_0000004"
+}
+
+{
+  "DiseaseLabel": "dissociation",
+  "d.Description": "a disruption in the usually integrated functions of consciousness, memory, identity, or perceptio...",
+  "d.URI": "http://purl.obolibrary.org/obo/MFOMD_0000119"
+}
+

@@ -1,0 +1,1 @@
+Consider the 'overlaps', 'adjacent_to', and 'bounding_layer_of' relationship types between cellular components. Return each relationship type with its number of distinct cellular components involved.

@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'fatal' OR cd.Label CONTAINS 'fatal' RETURN cd.Label, cd.ID

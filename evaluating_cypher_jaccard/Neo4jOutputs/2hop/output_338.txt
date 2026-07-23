@@ -1,0 +1,30 @@
+{
+  "GOterm": "T-helper 17 cell differentiation",
+  "miRNA": "microRNA hsa-mir-20b precursor",
+  "Cancer": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "T-helper 17 cell differentiation",
+  "miRNA": "microRNA hsa-mir-141 precursor",
+  "Cancer": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "T-helper 17 cell differentiation",
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "Cancer": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "T-helper 17 cell differentiation",
+  "miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-1)",
+  "Cancer": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "T-helper 17 cell differentiation",
+  "miRNA": "microRNA hsa-mir-27a precursor",
+  "Cancer": "carcinoma of esophagus"
+}
+

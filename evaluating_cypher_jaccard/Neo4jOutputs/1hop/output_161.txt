@@ -1,0 +1,30 @@
+{
+  "GOTerm": "mRNA base-pairing translational repressor activity",
+  "ID": "GO:1903231",
+  "URI": "http://purl.obolibrary.org/obo/GO_1903231"
+}
+
+{
+  "GOTerm": "mRNA 3'-UTR binding",
+  "ID": "GO:0003730",
+  "URI": "http://purl.obolibrary.org/obo/GO_0003730"
+}
+
+{
+  "GOTerm": "lncRNA binding",
+  "ID": "GO:0106222",
+  "URI": "http://purl.obolibrary.org/obo/GO_0106222"
+}
+
+{
+  "GOTerm": "single-stranded RNA binding",
+  "ID": "GO:0003727",
+  "URI": "http://purl.obolibrary.org/obo/GO_0003727"
+}
+
+{
+  "GOTerm": "mRNA CDS binding",
+  "ID": "GO:1990715",
+  "URI": "http://purl.obolibrary.org/obo/GO_1990715"
+}
+

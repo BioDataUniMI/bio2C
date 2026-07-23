@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "GOTerm": "protein kinase complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "GOTerm": "serine/threonine protein kinase complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "GOTerm": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "GOTerm": "RISC-loading complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "GOTerm": "RISC complex"
+}
+

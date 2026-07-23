@@ -1,0 +1,1 @@
+Find miRNAs carrying material basis somatic mutations in cancers labeled as 'esophageal', and the cellular components where these miRNAs are located.

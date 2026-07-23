@@ -1,0 +1,1 @@
+Which diseases with labels containing 'cardiomyopathy' have descriptions that include 'myocardium'?

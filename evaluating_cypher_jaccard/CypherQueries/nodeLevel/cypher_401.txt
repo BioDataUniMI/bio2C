@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'cardiac muscle' AND NOT (bp.Label CONTAINS 'positive' OR bp.Label CONTAINS 'negative') RETURN bp.Label

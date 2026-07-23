@@ -1,0 +1,1 @@
+Find the molecular functions that hint 'stress stimuli' in their description. Return all nodes' property (i.e., the entire nodes).

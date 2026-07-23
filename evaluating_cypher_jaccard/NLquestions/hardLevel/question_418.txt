@@ -1,0 +1,1 @@
+Do miRNAs that are over-expressed in diseases whose label contains'toxoplasmosis' have high AU content, where AU content is defined as the percentage of adenine (A) and uracil/thymine (U/T) nucleotides relative to the total miRNA sequence length? Return each miRNA label and its AU content percentage, sorted by AU content percentage in descending order.

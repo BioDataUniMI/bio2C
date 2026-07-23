@@ -1,0 +1,1 @@
+Find miRNAs that develop from another miRNA where both sequences contain the same number of 'A' nucleotides. Return both miRNA labels and the number of 'A's in both sequences.

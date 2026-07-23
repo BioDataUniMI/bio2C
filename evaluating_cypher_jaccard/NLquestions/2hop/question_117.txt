@@ -1,0 +1,1 @@
+Identify cancers whose description contains the word 'benign' that cause disruption of GO terms, along with the disrupted GO term labels.

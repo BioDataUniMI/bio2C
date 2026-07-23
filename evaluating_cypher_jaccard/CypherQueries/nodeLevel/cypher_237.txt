@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'synaptic' RETURN COUNT(g.Label) AS HowManyGOterms

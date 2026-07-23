@@ -1,0 +1,12 @@
+{
+  "Phenotype": "Elevated urinary collagen degradation products"
+}
+
+{
+  "Phenotype": "Increased urinary type 1 collagen N-terminal telopeptide level"
+}
+
+{
+  "Phenotype": "Elevated circulating type I procollagen aminoterminal propeptide concentration"
+}
+

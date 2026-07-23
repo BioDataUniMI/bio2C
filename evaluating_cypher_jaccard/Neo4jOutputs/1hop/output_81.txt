@@ -1,0 +1,16 @@
+{
+  "Method": "qrt-pcr etc"
+}
+
+{
+  "Method": "northern blotting"
+}
+
+{
+  "Method": "microarray analysis"
+}
+
+{
+  "Method": "quantitative reverse transcriptase pcr"
+}
+

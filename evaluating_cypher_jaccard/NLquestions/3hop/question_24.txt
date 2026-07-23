@@ -1,0 +1,1 @@
+Which diseases whose label contains 'infantile' caused or contributed by the gene 'KL' have characteristic phenotypes that are also phenotypes of diseases whose labels contain 'chronic benign'? Return diseases and phenotype labels.

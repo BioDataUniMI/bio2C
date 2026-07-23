@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-761 precursor",
+  "Disease": "osteoarthritis",
+  "First_half_sequence": "GGAGGAGCAGCAGGGUGAAACUGACACAG"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-379 precursor",
+  "Disease": "osteoarthritis",
+  "First_half_sequence": "AGAGAUGGUAGACUAUGGAACGUAGGCGUUAUG"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-665 precursor",
+  "Disease": "osteoarthritis",
+  "First_half_sequence": "UCUCCUCGAGGGGUCUCUGCCUCUACCCAGGACUCU"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-373 precursor",
+  "Disease": "osteoarthritis",
+  "First_half_sequence": "GGGAUACUCAAAAUGGGGGCGCUUUCCUUUUUGU"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4498 precursor",
+  "Disease": "osteoarthritis",
+  "First_half_sequence": "AGGGCUGGGCUGGCAGGGCAAGUGCUGCAGAUC"
+}
+

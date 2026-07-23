@@ -1,0 +1,1 @@
+Which are the top 5 diseases ranked by the number of distinct miRNAs expressed in them, where the diseases have phenotypes that are characteristic of GO terms? Order results by descending miRNA count and, in case of ties, alphabetically by disease label.

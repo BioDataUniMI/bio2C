@@ -1,0 +1,1 @@
+Find miRNAs that have as function molecular functions which are part of biological processes such that the functions OR the processes contain the string 'repressor activity' in their label. Return the label of matching miRNAs, molecular functions, and biological processes.

@@ -1,0 +1,9 @@
+{
+  "i.ID": "MONDO:0005684",
+  "LABELS(i)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Infectious_disease"
+  ]
+}
+

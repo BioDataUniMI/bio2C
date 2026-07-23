@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)<-[:transcribed_to]-(g:Gene) MATCH (pre)-[:has_function]->(:Biological_process)-[:positively_regulated_by]->(:Biological_process) WITH DISTINCT g ORDER BY SIZE(g.Sequence) ASC LIMIT 5 RETURN AVG(SIZE(g.Sequence)) AS average_gene_length

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)<-[:has_phenotype]-(nd:Neurodegenerative_disease) WHERE p.Label CONTAINS 'Hepatitis' AND d.Label CONTAINS 'benign' RETURN d.Label AS Disease, p.Label AS Phenotype, nd.Label AS NeurodegenerativeDisease

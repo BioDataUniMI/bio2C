@@ -1,0 +1,40 @@
+{
+  "g.Label": "mitochondrial genome maintenance",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "global genome nucleotide-excision repair",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "symbiont genome entry into host cell via pore formation in plasma membrane",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "zygotic genome activation",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "symbiont genome ejection through host cell envelope",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+

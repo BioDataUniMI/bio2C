@@ -1,0 +1,8 @@
+{
+  "Precursor": "microRNA hsa-mir-1208 precursor",
+  "Disease": "atopic eczema",
+  "PubMedIDs": [
+    "23042114"
+  ]
+}
+

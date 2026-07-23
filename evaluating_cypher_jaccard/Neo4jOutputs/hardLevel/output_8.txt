@@ -1,0 +1,25 @@
+{
+  "Disease": "colorectal cancer",
+  "PubMed_count": 630
+}
+
+{
+  "Disease": "breast carcinoma",
+  "PubMed_count": 622
+}
+
+{
+  "Disease": "breast cancer",
+  "PubMed_count": 619
+}
+
+{
+  "Disease": "hepatocellular carcinoma",
+  "PubMed_count": 584
+}
+
+{
+  "Disease": "colorectal carcinoma",
+  "PubMed_count": 552
+}
+

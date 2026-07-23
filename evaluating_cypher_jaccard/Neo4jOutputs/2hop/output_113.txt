@@ -1,0 +1,25 @@
+{
+  "Gene": "EEF1GP4",
+  "regulatingMiRNAs": 38
+}
+
+{
+  "Gene": "EEF1A1P29",
+  "regulatingMiRNAs": 84
+}
+
+{
+  "Gene": "EEF1A1P27",
+  "regulatingMiRNAs": 36
+}
+
+{
+  "Gene": "EEF1GP2",
+  "regulatingMiRNAs": 7
+}
+
+{
+  "Gene": "EEF1E1P1",
+  "regulatingMiRNAs": 5
+}
+

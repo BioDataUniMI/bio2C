@@ -1,0 +1,45 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "DHX40P1",
+  "MaturemiRNALength": 22,
+  "TargetGeneLength": 26376,
+  "Pre_miRNALength": 85
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTCO1P12",
+  "MaturemiRNALength": 22,
+  "TargetGeneLength": 1543,
+  "Pre_miRNALength": 85
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "PIGPP2",
+  "MaturemiRNALength": 22,
+  "TargetGeneLength": 823,
+  "Pre_miRNALength": 85
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTATP8P2",
+  "MaturemiRNALength": 22,
+  "TargetGeneLength": 202,
+  "Pre_miRNALength": 85
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-3p",
+  "TargetGene": "MTND5P11",
+  "MaturemiRNALength": 22,
+  "TargetGeneLength": 1812,
+  "Pre_miRNALength": 85
+}
+

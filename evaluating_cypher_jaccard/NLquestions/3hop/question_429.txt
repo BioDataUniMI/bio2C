@@ -1,0 +1,1 @@
+List miRNAs whose label does not end in '3p' that regulate the activity of the gene 'WNT5A' when the latter causes or contributes to the disease labeled as 'Robinow syndrome' that has the phenotype labeled as 'Abnormality of coagulation'. Return the miRNA label, and the gene synonyms.

@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.ID =~ '.*0{5,}.*' RETURN cd.Label AS DiseaseLabel, cd.ID AS DiseaseID

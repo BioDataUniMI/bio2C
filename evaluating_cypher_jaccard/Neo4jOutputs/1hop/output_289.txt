@@ -1,0 +1,25 @@
+{
+  "Component": "cytoplasmic side of endosome membrane",
+  "AdjacentComponent": "cytoplasm"
+}
+
+{
+  "Component": "periplasmic side of cell outer membrane",
+  "AdjacentComponent": "periplasmic space"
+}
+
+{
+  "Component": "outer membrane-bounded periplasmic space",
+  "AdjacentComponent": "plasma membrane"
+}
+
+{
+  "Component": "outer membrane-bounded periplasmic space",
+  "AdjacentComponent": "cell outer membrane"
+}
+
+{
+  "Component": "cytoplasmic side of plasma membrane",
+  "AdjacentComponent": "cytoplasm"
+}
+

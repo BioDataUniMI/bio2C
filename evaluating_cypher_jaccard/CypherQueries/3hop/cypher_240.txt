@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_part]->(go:GO) RETURN p.Label AS Phenotype, COUNT(DISTINCT d) AS DiseaseCount ORDER BY DiseaseCount DESC, p.Label ASC LIMIT 5

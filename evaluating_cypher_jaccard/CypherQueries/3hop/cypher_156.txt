@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Hyposmia'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:expresses]->(m:miRNA) WHERE d.Label CONTAINS 'young' RETURN d.Label AS Disease, nd.Label AS NeurodegenerativeDisease, m.Label AS miRNA

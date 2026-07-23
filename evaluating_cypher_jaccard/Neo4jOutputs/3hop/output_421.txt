@@ -1,0 +1,30 @@
+{
+  "AutoimmuneDisease": "rheumatoid arthritis",
+  "ParentPhenotype": "Abnormality of immune system physiology",
+  "Pre_miRNA_Count": 132
+}
+
+{
+  "AutoimmuneDisease": "psoriatic arthritis",
+  "ParentPhenotype": "Abnormality of immune system physiology",
+  "Pre_miRNA_Count": 1
+}
+
+{
+  "AutoimmuneDisease": "autoimmune pancreatitis",
+  "ParentPhenotype": "Abnormality of immune system physiology",
+  "Pre_miRNA_Count": 1
+}
+
+{
+  "AutoimmuneDisease": "autoimmune lymphoproliferative syndrome",
+  "ParentPhenotype": "Abnormality of immune system physiology",
+  "Pre_miRNA_Count": 2
+}
+
+{
+  "AutoimmuneDisease": "autoimmune uveitis",
+  "ParentPhenotype": "Abnormality of immune system physiology",
+  "Pre_miRNA_Count": 2
+}
+

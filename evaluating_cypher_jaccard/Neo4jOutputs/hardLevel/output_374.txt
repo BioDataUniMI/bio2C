@@ -1,0 +1,6 @@
+{
+  "MentalDisease": "pathological mental process",
+  "ManifestationType": "Disease",
+  "ManifestedFrom": "mental disorder"
+}
+

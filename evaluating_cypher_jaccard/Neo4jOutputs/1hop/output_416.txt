@@ -1,0 +1,4 @@
+{
+  "GOTerm": "sepiapterin reductase (NADP+) activity"
+}
+

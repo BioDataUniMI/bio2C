@@ -1,0 +1,35 @@
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle",
+  "miRNA": "hsa-miR-129-5p",
+  "TargetGene": "HMGB1P31"
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle",
+  "miRNA": "hsa-miR-129-5p",
+  "TargetGene": "HNRNPA1P54"
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle",
+  "miRNA": "hsa-miR-129-5p",
+  "TargetGene": "HMGB1P24"
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle",
+  "miRNA": "hsa-miR-129-5p",
+  "TargetGene": "HMGB1P37"
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle",
+  "miRNA": "hsa-miR-129-5p",
+  "TargetGene": "HMGB1P10"
+}
+

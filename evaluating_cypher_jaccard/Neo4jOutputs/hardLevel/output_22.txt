@@ -1,0 +1,25 @@
+{
+  "Gene": "MIR543",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+
+{
+  "Gene": "MIR543",
+  "Cancer": "uterine cervix neoplasm"
+}
+
+{
+  "Gene": "MIR543",
+  "Cancer": "familial nonmedullary thyroid carcinoma"
+}
+
+{
+  "Gene": "MIR543",
+  "Cancer": "papillary renal cell carcinoma"
+}
+
+{
+  "Gene": "MIR543",
+  "Cancer": "differentiated thyroid carcinoma"
+}
+

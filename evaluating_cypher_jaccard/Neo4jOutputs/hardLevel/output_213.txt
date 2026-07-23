@@ -1,0 +1,42 @@
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "pre_miRNA": "microRNA hsa-mir-519b precursor",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "num_common_chroms": 6
+}
+
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "pre_miRNA": "microRNA hsa-mir-518e precursor",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "num_common_chroms": 6
+}
+
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "pre_miRNA": "microRNA hsa-mir-522 precursor",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "num_common_chroms": 6
+}
+

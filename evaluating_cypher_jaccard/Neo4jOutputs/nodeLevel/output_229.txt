@@ -1,0 +1,25 @@
+{
+  "AutoimmuneDisease": "type 1 diabetes mellitus 1",
+  "Description": "an inherited susceptibility or predisposition to developing 1 diabetes mellitus that is caused by..."
+}
+
+{
+  "AutoimmuneDisease": "type 1 diabetes mellitus 12",
+  "Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus in which the..."
+}
+
+{
+  "AutoimmuneDisease": "type 1 diabetes mellitus 21",
+  "Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus that has mat..."
+}
+
+{
+  "AutoimmuneDisease": "type 1 diabetes mellitus 24",
+  "Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus that has mat..."
+}
+
+{
+  "AutoimmuneDisease": "type 1 diabetes mellitus 18",
+  "Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus that has mat..."
+}
+

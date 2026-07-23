@@ -1,0 +1,25 @@
+{
+  "Disease": "postpartum thyroiditis",
+  "Description": "a transient autoimmune inflammatory disorder of thyroid gland that occurs postpartum due to any p..."
+}
+
+{
+  "Disease": "autoimmune hypoparathyroidism",
+  "Description": "an autoimmune form of hypoparathyroidism."
+}
+
+{
+  "Disease": "hypoparathyroidism",
+  "Description": "hypoparathyroidism is an endocrine disorder in which the parathyroid glands in the neck do not pr..."
+}
+
+{
+  "Disease": "Hashimoto thyroiditis",
+  "Description": "an autoimmune disorder caused by the production of autoantibodies against thyroid tissue. there i..."
+}
+
+{
+  "Disease": "atrophic thyroiditis",
+  "Description": "atrophic thyroiditis is an organ-specific autoimmune disease characterized by thyroid autoantibod..."
+}
+

@@ -1,0 +1,12 @@
+{
+  "CellularComponent": "axonal growth cone",
+  "ParentCellularComponent": "growth cone",
+  "GO_Term": "axon guidance"
+}
+
+{
+  "CellularComponent": "dendritic growth cone",
+  "ParentCellularComponent": "growth cone",
+  "GO_Term": "axon guidance"
+}
+

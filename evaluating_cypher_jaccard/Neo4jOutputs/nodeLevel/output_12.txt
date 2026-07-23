@@ -1,0 +1,25 @@
+{
+  "Disease": "familial medullary thyroid carcinoma",
+  "Description": "an instance of thyroid medullary carcinoma that is caused by an inherited modification of the ind..."
+}
+
+{
+  "Disease": "familial nonmedullary thyroid carcinoma",
+  "Description": "familial nonmedullary thyroid carcinoma (fnmtc) is a rare non-syndromic form of thyroid cancer ch..."
+}
+
+{
+  "Disease": "multicentric papillary thyroid carcinoma",
+  "Description": "a papillary carcinoma arising from the thyroid gland from multiple foci."
+}
+
+{
+  "Disease": "thyroid gland papillary carcinoma",
+  "Description": "a differentiated adenocarcinoma arising from the follicular cells of the thyroid gland. radiation..."
+}
+
+{
+  "Disease": "thyroid gland adenocarcinoma",
+  "Description": "an adenocarcinoma arising from the follicular cells of the thyroid gland. according to the degree..."
+}
+

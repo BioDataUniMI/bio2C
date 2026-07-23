@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:over_expressed_in]->(c:Cancer) WHERE r.TANRIC_score IS NOT NULL RETURN MIN(toFloat(r.TANRIC_score)) AS min_TANRIC_score, MAX(toFloat(r.TANRIC_score)) AS max_TANRIC_score

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:has_part]->(m:miRNA) RETURN cc.Label AS CellularComponent, COUNT(DISTINCT m) AS miRNACount

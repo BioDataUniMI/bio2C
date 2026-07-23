@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:located_in]->(loc) WHERE (loc:Biological_process OR loc:Cellular_component) AND loc.Label CONTAINS 'extracellular exosome' RETURN COUNT(DISTINCT p) AS Pre_miRNA_Count

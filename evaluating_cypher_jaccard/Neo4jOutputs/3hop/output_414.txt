@@ -1,0 +1,21 @@
+{
+  "Phenotype": "Hepatic failure",
+  "Disease": "coenzyme Q10 deficiency",
+  "Disrupted_GO": "ubiquinone biosynthetic process",
+  "MolecularFunction": "3-demethylubiquinol-n 3-O-methyltransferase activity"
+}
+
+{
+  "Phenotype": "Hepatic failure",
+  "Disease": "coenzyme Q10 deficiency",
+  "Disrupted_GO": "ubiquinone biosynthetic process",
+  "MolecularFunction": "3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity"
+}
+
+{
+  "Phenotype": "Hepatic failure",
+  "Disease": "coenzyme Q10 deficiency",
+  "Disrupted_GO": "ubiquinone biosynthetic process",
+  "MolecularFunction": "2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity"
+}
+

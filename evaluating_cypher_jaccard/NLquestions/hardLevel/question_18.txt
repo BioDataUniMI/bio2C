@@ -1,0 +1,1 @@
+Find pre-miRNAs whose sequence contains exactly 30 occurrences of the letter 'G' that are causal somatic mutations in diseases. Return the matching pre-miRNA and disease labels.

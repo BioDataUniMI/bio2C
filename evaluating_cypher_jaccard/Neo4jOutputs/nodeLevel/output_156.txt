@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-3713 precursor",
+  "Length": 45
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1973 precursor",
+  "Length": 44
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4456 precursor",
+  "Length": 43
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-7977 precursor",
+  "Length": 49
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1469 precursor",
+  "Length": 47
+}
+

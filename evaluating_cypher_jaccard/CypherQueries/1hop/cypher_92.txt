@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) RETURN DISTINCT i.Label AS Disease

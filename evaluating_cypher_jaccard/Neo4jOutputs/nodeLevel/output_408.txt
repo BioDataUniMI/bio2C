@@ -1,0 +1,10 @@
+{
+  "bp.Label": "cellular homeostasis",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0019725"
+}
+
+{
+  "bp.Label": "ubiquitin recycling",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0010992"
+}
+

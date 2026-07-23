@@ -1,0 +1,1 @@
+List the five genes with the highest number of synonyms. In case of ties, order genes alphabetically.

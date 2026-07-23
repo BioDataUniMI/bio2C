@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function {Label: 'mRNA base-pairing translational repressor activity'})<-[:enables]-(m:miRNA)<-[:expresses]-(c:Cancer)<-[:phenotype_of]-(p:Phenotype{Label: 'Malar prominence'}) RETURN m.Label AS miRNA, c.Label AS Cancer

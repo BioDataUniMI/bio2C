@@ -1,0 +1,40 @@
+{
+  "CellularComponent": "synapse",
+  "BiologicalProcess": "chemical synaptic transmission",
+  "miRNA": "hsa-miR-101-3p",
+  "Disease": "ovarian cancer",
+  "FDR": 0.009906417
+}
+
+{
+  "CellularComponent": "synapse",
+  "BiologicalProcess": "chemical synaptic transmission",
+  "miRNA": "hsa-miR-101-3p",
+  "Disease": "malignant pleural mesothelioma",
+  "FDR": 0.009695216
+}
+
+{
+  "CellularComponent": "microtubule",
+  "BiologicalProcess": "microtubule-based process",
+  "miRNA": "hsa-miR-129-1-3p",
+  "Disease": "biliary tract cancer",
+  "FDR": 0.009520046
+}
+
+{
+  "CellularComponent": "proteasome complex",
+  "BiologicalProcess": "proteasomal protein catabolic process",
+  "miRNA": "hsa-miR-129-1-3p",
+  "Disease": "biliary tract cancer",
+  "FDR": 0.009520046
+}
+
+{
+  "CellularComponent": "proteasome complex",
+  "BiologicalProcess": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+  "miRNA": "hsa-miR-129-1-3p",
+  "Disease": "biliary tract cancer",
+  "FDR": 0.009520046
+}
+

@@ -1,0 +1,1 @@
+Find all diseases whose label contains 'hypertrophic cardiomyopathy' that are not cardiovascular diseases.

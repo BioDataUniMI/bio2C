@@ -1,0 +1,9 @@
+{
+  "cc": {
+    "Description": "a region that surrounds the active zone of the presynaptic plasma membrane, and is specialized fo...",
+    "Label": "presynaptic periactive zone",
+    "ID": "GO:0036062",
+    "URI": "http://purl.obolibrary.org/obo/GO_0036062"
+  }
+}
+

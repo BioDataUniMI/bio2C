@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pm:pre_miRNA)-[:develops_into]->(m:miRNA) WHERE g.Label ENDS WITH 'T' RETURN g.Label AS Gene, pm.Label AS Pre_miRNA, m.Label AS Mature_miRNA

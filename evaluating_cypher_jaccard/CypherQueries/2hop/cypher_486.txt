@@ -1,0 +1,1 @@
+MATCH (id:Infectious_disease)-[:disease_caused_by_disruption_of]->(mf:Molecular_function)-[:regulated_by]->(go:GO) RETURN id.Label AS Infectious_Disease, mf.Label AS Molecular_Function, go.Label AS GO_Term

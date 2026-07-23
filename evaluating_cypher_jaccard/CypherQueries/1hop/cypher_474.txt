@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:realized_in]->(d2:Disease) WHERE d1.Label = d2.Label AND d1.Description <> d2.Description RETURN d1.Label, d1.Description, d2.Label, d2.Description

@@ -1,0 +1,6 @@
+{
+  "miRNA": "hsa-miR-320d",
+  "pre_miRNA": "microRNA hsa-mir-6501 precursor",
+  "miRNA_Sequence_Length": 19
+}
+

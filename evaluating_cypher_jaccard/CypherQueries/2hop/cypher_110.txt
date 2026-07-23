@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:expressed_in]->(c:Cancer) RETURN p.Label AS PreMiRNA, m.Label AS MatureMiRNA, c.Label AS Cancer

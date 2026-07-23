@@ -1,0 +1,1 @@
+Which miRNAs that have genomic coordinates only on chrX regulate the activity of genes whose genomic coordinates are only on chrY? Return the miRNA label and the gene label.

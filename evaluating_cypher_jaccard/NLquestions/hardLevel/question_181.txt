@@ -1,0 +1,1 @@
+For microRNA 'microRNA hsa-mir-374a precursor', split the sequence into two halves and count the number of G nucleotides in each half.

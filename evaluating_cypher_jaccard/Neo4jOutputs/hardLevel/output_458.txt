@@ -1,0 +1,64 @@
+{
+  "miRNA": "hsa-miR-152-5p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-137-3p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Schizophrenia"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-152-3p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148a-3p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148a-5p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148b-3p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148b-5p",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Asthma"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "phenotypeCount": 1,
+  "phenotypes": [
+    "Atopic dermatitis"
+  ]
+}
+

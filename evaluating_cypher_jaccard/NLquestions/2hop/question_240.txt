@@ -1,0 +1,1 @@
+Identify miRNAs that participate in the biological process labeled as 'response to iron ion' and regulate genes with 4-character labels containing the letter 'A'. Return miRNA and gene labels.

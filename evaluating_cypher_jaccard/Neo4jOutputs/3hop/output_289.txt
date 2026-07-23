@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-375 precursor",
+  "miRNA": "hsa-miR-375-5p",
+  "Cancer": "benign neoplasm of brain"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-195 precursor",
+  "miRNA": "hsa-miR-195-5p",
+  "Cancer": "benign neoplasm of brain"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-484 precursor",
+  "miRNA": "hsa-miR-484",
+  "Cancer": "benign neoplasm of brain"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-584 precursor",
+  "miRNA": "hsa-miR-584-5p",
+  "Cancer": "benign neoplasm of brain"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-335 precursor",
+  "miRNA": "hsa-miR-335-3p",
+  "Cancer": "benign neoplasm of brain"
+}
+

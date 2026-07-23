@@ -1,0 +1,30 @@
+{
+  "Disease": "female infertility due to oocyte meiotic arrest",
+  "BiologicalProcess": "meiotic cell cycle",
+  "GOterm": "meiotic cell cycle process"
+}
+
+{
+  "Disease": "female infertility due to oocyte meiotic arrest",
+  "BiologicalProcess": "meiotic cell cycle",
+  "GOterm": "meiotic telomere maintenance via semi-conservative replication"
+}
+
+{
+  "Disease": "female infertility due to oocyte meiotic arrest",
+  "BiologicalProcess": "meiotic cell cycle",
+  "GOterm": "meiotic DNA replication initiation"
+}
+
+{
+  "Disease": "female infertility due to oocyte meiotic arrest",
+  "BiologicalProcess": "meiotic cell cycle",
+  "GOterm": "meiotic nuclear division"
+}
+
+{
+  "Disease": "female infertility due to oocyte meiotic arrest",
+  "BiologicalProcess": "meiotic cell cycle",
+  "GOterm": "chromosome organization involved in meiotic cell cycle"
+}
+

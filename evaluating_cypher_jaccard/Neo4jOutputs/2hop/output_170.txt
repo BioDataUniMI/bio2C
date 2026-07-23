@@ -1,0 +1,5 @@
+{
+  "GO_Term": "extracellular exosome complex",
+  "CellularComponent": "extracellular exosome"
+}
+

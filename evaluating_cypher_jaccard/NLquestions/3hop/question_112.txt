@@ -1,0 +1,1 @@
+Identify the top five biological processes that serve as functions of pre-miRNAs and have the highest number of associated GO terms as parts. In case of ties in the number of GO terms, order the biological processes alphabetically by their labels. Return the biological process label and the count of its associated GO terms.

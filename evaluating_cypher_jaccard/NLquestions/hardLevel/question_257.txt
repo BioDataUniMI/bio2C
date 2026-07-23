@@ -1,0 +1,1 @@
+Are miRNAs that act upstream of or within the biological process whose label contains the word 'phagocytosis' characterized by a high GC content? The GC content is defined as the percentage of guanine (G) and cytosine (C) nucleotides relative to the total miRNA sequence length. Return each miRNA label and its GC content percentage.

@@ -1,0 +1,5 @@
+{
+  "mf.Label": "neurotransmitter receptor activity",
+  "mf.Species": "Metazoa"
+}
+

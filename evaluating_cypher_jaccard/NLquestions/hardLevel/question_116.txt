@@ -1,0 +1,1 @@
+Find genes located on an odd-numbered chromosome (for example, chr1, chr3, chr5, etc.) that causes or contributes to the phenotype 'Bipolar affective disorder' ranked by the longest nucleotide sequence. Return the gene label, phenotype, genomic coordinates, and sequence length ranked by the highest gene sequence length.

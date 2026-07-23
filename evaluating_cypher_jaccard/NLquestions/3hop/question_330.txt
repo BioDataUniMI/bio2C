@@ -1,0 +1,1 @@
+Which cancers express miRNAs that participate in biological processes having the molecular function labeled as 'death receptor activity' as a part? Return labels of biological processes, miRNAs, and cancers.

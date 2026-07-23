@@ -1,0 +1,1 @@
+Find labels and URIs of molecular functions whose labels contain the word 'anion' and whose labels or descriptions contain the word 'transmembrane'.

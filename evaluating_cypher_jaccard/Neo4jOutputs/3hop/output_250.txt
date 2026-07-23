@@ -1,0 +1,24 @@
+{
+  "AutoimmuneDisease": "tenosynovial giant cell tumor, diffuse type",
+  "Phenotype": "Osteolysis",
+  "GOterm": "bone resorption"
+}
+
+{
+  "AutoimmuneDisease": "tenosynovial giant cell tumor, diffuse type",
+  "Phenotype": "Failure to thrive",
+  "GOterm": "growth"
+}
+
+{
+  "AutoimmuneDisease": "tenosynovial giant cell tumor, diffuse type",
+  "Phenotype": "Arthritis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "AutoimmuneDisease": "tenosynovial giant cell tumor, diffuse type",
+  "Phenotype": "Conductive hearing impairment",
+  "GOterm": "vibrational conductance of sound to the inner ear"
+}
+

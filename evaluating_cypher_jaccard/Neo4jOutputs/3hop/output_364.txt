@@ -1,0 +1,45 @@
+{
+  "AutoimmuneDisease": "Castleman-Kojima disease",
+  "Phenotype": "Abnormal renal physiology",
+  "Cancer": "benign muscle neoplasm",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "AutoimmuneDisease": "Vogt-Koyanagi-Harada disease",
+  "Phenotype": "Autoimmunity",
+  "Cancer": "benign muscle neoplasm",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "AutoimmuneDisease": "anti-glomerular basement membrane disease",
+  "Phenotype": "Autoimmunity",
+  "Cancer": "benign muscle neoplasm",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "AutoimmuneDisease": "Castleman-Kojima disease",
+  "Phenotype": "Ascites",
+  "Cancer": "benign muscle neoplasm",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "AutoimmuneDisease": "autoimmune bullous skin disease",
+  "Phenotype": "Abnormal blistering of the skin",
+  "Cancer": "adenoma",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+

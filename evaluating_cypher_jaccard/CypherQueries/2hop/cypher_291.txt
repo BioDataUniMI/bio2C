@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'asthma'})-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component) RETURN m.Label AS miRNA, cc.Label AS CellularComponent

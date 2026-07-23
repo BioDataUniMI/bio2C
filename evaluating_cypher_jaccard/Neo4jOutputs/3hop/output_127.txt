@@ -1,0 +1,7 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP",
+  "Disease": "leukemia"
+}
+

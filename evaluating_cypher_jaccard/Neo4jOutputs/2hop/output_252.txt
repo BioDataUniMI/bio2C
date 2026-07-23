@@ -1,0 +1,12 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-519a precursor (hsa-mir-519a-2)",
+  "miRNA": "hsa-miR-519a-2-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-520b precursor",
+  "miRNA": "hsa-miR-519a-2-5p",
+  "CellularComponent": "extracellular exosome"
+}
+

@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "myoclonus epilepsy of Lafora, dog"
+}
+
+{
+  "DiseaseLabel": "generalized myoclonic epilepsy with photosensitivity, dog"
+}
+
+{
+  "DiseaseLabel": "benign familial juvenile epilepsy, LGI2-related, dog"
+}
+
+{
+  "DiseaseLabel": "epilepsy, dog"
+}
+
+{
+  "DiseaseLabel": "epilepsy, mitochondrial dysfunction and neurodegeneration, PITRM1-related, dog"
+}
+

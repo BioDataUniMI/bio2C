@@ -1,0 +1,1 @@
+Identify biological processes whose label contains the word 'positive' and in which miRNAs expressed by cancers whose label contains the word 'benign' participate. Return the cancer, miRNA, and biological process labels.

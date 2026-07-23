@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS 'stem-loop' RETURN COUNT(pm) AS PreMiRNACount

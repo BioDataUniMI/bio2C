@@ -1,0 +1,1 @@
+Find all miRNAs that cause or contribute to a cancer whose parent disease expresses another miRNA, and have all their genomic coordinates located on chromosome 18 or chromosome 8 and on the positive (forward) DNA strand (coordinates ending with '+'). Return the miRNA label and its genomic coordinates.

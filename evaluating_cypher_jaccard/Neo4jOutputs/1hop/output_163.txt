@@ -1,0 +1,12 @@
+{
+  "GOTerm": "extracellular exosome",
+  "ID": "GO:0070062",
+  "URI": "http://purl.obolibrary.org/obo/GO_0070062"
+}
+
+{
+  "GOTerm": "microvesicle",
+  "ID": "GO:1990742",
+  "URI": "http://purl.obolibrary.org/obo/GO_1990742"
+}
+

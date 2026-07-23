@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "GenomicCoordinate": "chr19:51692793-51692814+"
+}
+
+{
+  "miRNA": "hsa-miR-574-5p",
+  "GenomicCoordinate": "chr4:38868056-38868078+"
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "GenomicCoordinate": "chr6:52144401-52144422+"
+}
+

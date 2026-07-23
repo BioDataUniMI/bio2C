@@ -1,0 +1,1 @@
+List the top 8 genes for which GO terms are functions, ranked by the number of miRNAs that develop from pre-miRNAs they transcribe. In case of ties, order alphabetically by gene label. Return the gene label and the number of miRNAs.

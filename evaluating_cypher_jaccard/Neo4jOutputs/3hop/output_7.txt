@@ -1,0 +1,14 @@
+{
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Capillary hemangioma",
+  "grandparent_phenotype": "Midface capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+
+{
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+

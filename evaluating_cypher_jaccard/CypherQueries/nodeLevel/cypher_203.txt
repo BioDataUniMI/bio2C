@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'disability' AND d.Description CONTAINS 'deafness' RETURN d.Label AS Disease, d.Description AS Description

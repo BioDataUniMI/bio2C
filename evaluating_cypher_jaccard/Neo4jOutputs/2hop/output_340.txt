@@ -1,0 +1,6 @@
+{
+  "Gene": "MIR548AJ2",
+  "miRNA": "microRNA hsa-mir-548aj precursor (hsa-mir-548aj-2)",
+  "GOterm": "RISC complex"
+}
+

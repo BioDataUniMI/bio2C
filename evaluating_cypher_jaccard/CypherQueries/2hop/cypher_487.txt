@@ -1,0 +1,1 @@
+MATCH (id:Infectious_disease)-[:predisposes_towards]->(d:Disease)-[:disease_has_basis_in_feature]->(d2:Disease) RETURN id.Label AS Infectious_Disease, d.Label AS Disease, d2.Label AS Feature_Basis_Disease

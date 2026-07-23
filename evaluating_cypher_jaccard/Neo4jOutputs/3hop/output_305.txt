@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-519c-3p"
+}
+
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-130a-3p"
+}
+
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-20a-5p"
+}
+
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-34a-3p"
+}
+
+{
+  "Phenotype": "Downturned corners of mouth",
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-22-3p"
+}
+

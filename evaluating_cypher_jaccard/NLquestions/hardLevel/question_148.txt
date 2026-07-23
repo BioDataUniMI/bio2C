@@ -1,0 +1,1 @@
+Find the miRNA(s) that are mapped to the maximum number of chromosomes. Return their labels, genomic coordinates, and the number of chromosomes they are mapped to.

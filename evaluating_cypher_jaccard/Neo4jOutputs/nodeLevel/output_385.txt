@@ -1,0 +1,45 @@
+{
+  "DiseaseLabel": "multiple sclerosis, susceptibility to, 2",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "tuberous sclerosis 1",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cancer"
+  ]
+}
+
+{
+  "DiseaseLabel": "primary progressive multiple sclerosis",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Rothmund-Thomson syndrome type 2",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cancer"
+  ]
+}
+
+{
+  "DiseaseLabel": "chronic progressive multiple sclerosis",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+

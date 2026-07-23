@@ -1,0 +1,1 @@
+How many miRNAs are over-expressed in cancers that are subclasses of diseases, which themselves are subclasses of other diseases (direct parent), and where those diseases have the phenotype labeled 'Macular edema'?

@@ -1,0 +1,1 @@
+Find the gene(s) with the maximum sequence length and count the number of thymine (T) nucleotides in each gene. Return the gene label, the count of T, and the total sequence length.

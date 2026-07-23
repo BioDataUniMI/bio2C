@@ -1,0 +1,15 @@
+{
+  "GO_Term": "extracellular exosome",
+  "Context": [
+    "blood serum",
+    "dendritic cells",
+    "urine",
+    "t cells"
+  ],
+  "PubMedID": [
+    "21505438",
+    "18589210",
+    "24352158"
+  ]
+}
+

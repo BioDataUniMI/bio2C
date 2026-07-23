@@ -1,0 +1,30 @@
+{
+  "gene": "MIR378F",
+  "precursor_miRNA": "microRNA hsa-mir-378f precursor",
+  "biological_process": "ossification"
+}
+
+{
+  "gene": "MIR543",
+  "precursor_miRNA": "microRNA hsa-mir-543 precursor",
+  "biological_process": "ossification"
+}
+
+{
+  "gene": "MIR1297",
+  "precursor_miRNA": "microRNA hsa-mir-1297 precursor",
+  "biological_process": "ossification"
+}
+
+{
+  "gene": "MIR378C",
+  "precursor_miRNA": "microRNA hsa-mir-378c precursor",
+  "biological_process": "ossification"
+}
+
+{
+  "gene": "MIR2861",
+  "precursor_miRNA": "microRNA hsa-mir-2861 precursor",
+  "biological_process": "ossification"
+}
+

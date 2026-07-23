@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-21-5p",
+  "t": {
+    "Description": "any process that stops, prevents or reduces the rate or extent of progression through the mitotic...",
+    "Label": "negative regulation of mitotic cell cycle",
+    "ID": "GO:0045930",
+    "URI": "http://purl.obolibrary.org/obo/GO_0045930"
+  }
+}
+
+{
+  "miRNA": "hsa-miR-16-5p",
+  "t": {
+    "Description": "any signaling pathway that decreases or inhibits the activity of a cell cycle cyclin-dependent pr...",
+    "Label": "negative regulation of G1/S transition of mitotic cell cycle",
+    "ID": "GO:2000134",
+    "URI": "http://purl.obolibrary.org/obo/GO_2000134"
+  }
+}
+

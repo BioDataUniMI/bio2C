@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(:Neurodegenerative_disease) WITH c, COUNT(DISTINCT p) AS numSharedPhenotypes RETURN AVG(numSharedPhenotypes) AS AvgSharedPhenotypes

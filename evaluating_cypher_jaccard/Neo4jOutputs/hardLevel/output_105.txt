@@ -1,0 +1,255 @@
+{
+  "Cancer": "breast cancer",
+  "pre_miRNA_count": 116,
+  "Sources": [
+    [
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ]
+  ]
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "pre_miRNA_count": 116,
+  "Sources": [
+    [
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ]
+  ]
+}
+
+{
+  "Cancer": "lung carcinoma",
+  "pre_miRNA_count": 111,
+  "Sources": [
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ]
+  ]
+}
+
+{
+  "Cancer": "lung cancer",
+  "pre_miRNA_count": 111,
+  "Sources": [
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ]
+  ]
+}
+
+{
+  "Cancer": "prostate carcinoma",
+  "pre_miRNA_count": 80,
+  "Sources": [
+    [
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miR2Disease",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miR2Disease",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "miRNet",
+      "miRCancer",
+      "PhenomiR"
+    ],
+    [
+      "HMDD",
+      "miRNet",
+      "PhenomiR"
+    ]
+  ]
+}
+

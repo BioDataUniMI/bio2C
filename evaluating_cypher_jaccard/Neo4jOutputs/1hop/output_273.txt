@@ -1,0 +1,25 @@
+{
+  "Disease": "childhood acute lymphoblastic leukemia",
+  "Phenotype": "Childhood onset"
+}
+
+{
+  "Disease": "adult acute monocytic leukemia",
+  "Phenotype": "Adult onset"
+}
+
+{
+  "Disease": "childhood acute myeloid leukemia",
+  "Phenotype": "Childhood onset"
+}
+
+{
+  "Disease": "acute neonatal citrullinemia type I",
+  "Phenotype": "Neonatal onset"
+}
+
+{
+  "Disease": "adult acute respiratory distress syndrome",
+  "Phenotype": "Adult onset"
+}
+

@@ -1,0 +1,1 @@
+Find pre-miRNAs whose sequence contains the substring 'GA' at least 12 times that are causal somatic mutations in diseases. Return the matching pre-miRNA sequences and disease labels.

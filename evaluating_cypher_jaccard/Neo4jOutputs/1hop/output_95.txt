@@ -1,0 +1,16 @@
+{
+  "miRNA": "hsa-miR-32-5p",
+  "Source": [
+    "miR2Disease"
+  ],
+  "InfectiousDisease": "viral infectious disease"
+}
+
+{
+  "miRNA": "hsa-miR-32-3p",
+  "Source": [
+    "miR2Disease"
+  ],
+  "InfectiousDisease": "viral infectious disease"
+}
+

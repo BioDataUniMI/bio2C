@@ -1,0 +1,40 @@
+{
+  "GeneLabel": "MIR3690",
+  "GenomicCoordinates": [
+    "chrY:1293918-1293992+",
+    "chrX:1293918-1293992+"
+  ]
+}
+
+{
+  "GeneLabel": "MIR6089",
+  "GenomicCoordinates": [
+    "chrX:2609191-2609254+",
+    "chrY:2609191-2609254+"
+  ]
+}
+
+{
+  "GeneLabel": "SHOX",
+  "GenomicCoordinates": [
+    "chrX:624344-659411+",
+    "chrY:624344-659411+"
+  ]
+}
+
+{
+  "GeneLabel": "WASH6P",
+  "GenomicCoordinates": [
+    "chrY:57207346-57212230+",
+    "chrX:156020826-156025710+"
+  ]
+}
+
+{
+  "GeneLabel": "VAMP7",
+  "GenomicCoordinates": [
+    "chrY:57067865-57130289+",
+    "chrX:155881345-155943769+"
+  ]
+}
+

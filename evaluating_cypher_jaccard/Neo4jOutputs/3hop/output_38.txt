@@ -1,0 +1,30 @@
+{
+  "gene": "MIR625",
+  "precursor_miRNA": "microRNA hsa-mir-625 precursor",
+  "biological_process": "glucose metabolic process"
+}
+
+{
+  "gene": "MIR532",
+  "precursor_miRNA": "microRNA hsa-mir-532 precursor",
+  "biological_process": "immune response"
+}
+
+{
+  "gene": "MIR449B",
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "execution phase of apoptosis"
+}
+
+{
+  "gene": "MIR449B",
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "cell population proliferation"
+}
+
+{
+  "gene": "MIR449B",
+  "precursor_miRNA": "microRNA hsa-mir-449b precursor",
+  "biological_process": "cell cycle"
+}
+

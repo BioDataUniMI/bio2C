@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease {Label:'viral infectious disease'}) RETURN m.Label AS miRNA, r.Source AS Source, i.Label AS InfectiousDisease

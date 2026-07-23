@@ -1,0 +1,8 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "GenomicCoordinates": [
+    "chr21:8986999-8987178+",
+    "chr21:8208473-8208652+"
+  ]
+}
+

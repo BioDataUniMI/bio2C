@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE toLower(cd.Label) CONTAINS 'noonan' RETURN cd.Label AS DiseaseLabel

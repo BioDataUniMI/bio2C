@@ -1,0 +1,1 @@
+Identify the cellular components that have miRNAs as parts, where each miRNA develops from a pre-miRNA that is under-expressed in the biological process labeled as 'inflammatory response'. Moreover, retrieve the PubMed ID associated with the under-expression. Return the cellular component label, the miRNA label, the pre-miRNA label, and the PubMed ID.

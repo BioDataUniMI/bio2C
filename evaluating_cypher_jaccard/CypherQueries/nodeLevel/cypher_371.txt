@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'sadness' RETURN d.Label AS DiseaseLabel, d.URI

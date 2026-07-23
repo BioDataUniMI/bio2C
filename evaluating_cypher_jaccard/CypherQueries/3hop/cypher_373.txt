@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[r:characteristic_of]->(g:GO)-[:part_of]->(bp:Biological_process) WHERE d.Label CONTAINS 'dysgenesis' AND 'HPO' IN r.Source RETURN d.Label AS Disease, p.Label AS Phenotype, g.Label AS GOterm, bp.Label AS BiologicalProcess, r.Source

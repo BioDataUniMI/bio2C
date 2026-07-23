@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "Phenotype": "Colon cancer"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "Phenotype": "Colon cancer"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "Phenotype": "Colon cancer"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "Phenotype": "Colon cancer"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "Phenotype": "Colon cancer"
+}
+

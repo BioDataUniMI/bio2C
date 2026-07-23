@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(:miRNA)-[r:over_expressed_in]->(:Disease) WHERE r.FDR > 0.008 RETURN c.Label AS Cancer, r.FDR AS FDR

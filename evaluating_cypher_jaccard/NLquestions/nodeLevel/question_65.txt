@@ -1,0 +1,1 @@
+List human miRNAs whose labels start with 'hsa-miR-', have sequences exactly 26 nucleotides long, and contain 'GGGG' or 'CCCC'.

@@ -1,0 +1,10 @@
+{
+  "bp.Label": "neuronal action potential propagation",
+  "bp.Description": "the propagation of an action potential along an axon, away from the soma."
+}
+
+{
+  "bp.Label": "neuronal action potential back-propagation",
+  "bp.Description": "propagation of an action potential in a neuron, from its site of initiation (typically the axon h..."
+}
+

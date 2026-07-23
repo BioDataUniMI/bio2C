@@ -1,0 +1,1 @@
+List the labels of GO terms whose labels contain both the strings 'envenomation' and 'negative regulation'.

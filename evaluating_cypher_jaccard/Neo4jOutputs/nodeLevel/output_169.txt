@@ -1,0 +1,4 @@
+{
+  "MolecularFunction": "histone H1R54 arginine deiminase activity"
+}
+

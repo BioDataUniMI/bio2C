@@ -1,0 +1,12 @@
+{
+  "biological_process": "endocytosis",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2"
+}
+
+{
+  "biological_process": "endocytosis",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-1)",
+  "gene": "MIR103B1"
+}
+

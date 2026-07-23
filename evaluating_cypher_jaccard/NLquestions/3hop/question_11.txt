@@ -1,0 +1,1 @@
+Which miRNAs are in similarity relationship with other miRNAs, and are transcribed from genes whose sequence ends with 'CTC'? Return the miRNA, the similar miRNA, and the gene label.

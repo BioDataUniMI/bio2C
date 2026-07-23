@@ -1,0 +1,1 @@
+Find GO terms that occur in cellular components with labels containing the word 'membrane'.

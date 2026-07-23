@@ -1,0 +1,1 @@
+Find miRNAs ending with the digit '0' that develop from other miRNAs such that both miRNAs' Genomic_coordinates' start with 'chr' followed by a letter. Return miRNAs' label, their genomic coordinates, and the source that state the development.

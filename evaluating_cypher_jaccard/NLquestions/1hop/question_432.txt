@@ -1,0 +1,1 @@
+List pre-miRNAs participating in Gene Ontology (GO) terms, and report the number of relationships for each GO term, ordered by the participation count.

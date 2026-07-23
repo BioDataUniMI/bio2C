@@ -1,0 +1,18 @@
+{
+  "miRNA": "microRNA hsa-mir-3195 precursor",
+  "GC_content_percentage": 92.85714285714286,
+  "Gene": "MIR3195"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3960 precursor",
+  "GC_content_percentage": 87.91208791208791,
+  "Gene": "MIR3960"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4449 precursor",
+  "GC_content_percentage": 86.36363636363636,
+  "Gene": "MIR4449"
+}
+

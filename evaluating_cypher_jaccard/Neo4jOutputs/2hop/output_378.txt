@@ -1,0 +1,25 @@
+{
+  "Gene": "MIR671",
+  "miRNA": "microRNA hsa-mir-671 precursor"
+}
+
+{
+  "Gene": "MIR758",
+  "miRNA": "microRNA hsa-mir-758 precursor"
+}
+
+{
+  "Gene": "MIR630",
+  "miRNA": "microRNA hsa-mir-630 precursor"
+}
+
+{
+  "Gene": "MIR365A",
+  "miRNA": "microRNA hsa-mir-365a precursor"
+}
+
+{
+  "Gene": "MIR4446",
+  "miRNA": "microRNA hsa-mir-4446 precursor"
+}
+

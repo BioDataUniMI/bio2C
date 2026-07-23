@@ -1,0 +1,1 @@
+Find all miRNAs that develop from a pre-miRNA where the miRNA label ends with a letter other that 'a', 'b', 'c', or 'p' (case-insensitive).

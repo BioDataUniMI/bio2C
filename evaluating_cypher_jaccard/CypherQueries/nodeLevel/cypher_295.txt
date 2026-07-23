@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE NOT g.Sequence CONTAINS 'U' RETURN count(g.Label) AS GeneCount

@@ -1,0 +1,9 @@
+{
+  "d": {
+    "Description": "a west nile encephalitis that results in infection located in brain, has material basis in kunjin...",
+    "Label": "Kunjin virus infectous disease",
+    "ID": "MONDO:0000273",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0000273"
+  }
+}
+

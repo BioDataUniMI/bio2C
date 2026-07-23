@@ -1,0 +1,1 @@
+List all miRNAs that participate in GO terms regulated by other GO terms. Moreover, the latter GO terms have a as part the biological processes labeled as 'serine phosphorylation of STAT protein'. Return the label of the parent GO terms, regulated GO terms, and miRNAs, along with the miRNA sequences.

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) WHERE d.Label CONTAINS 'pseudo' AND go.Label CONTAINS 'growth hormone' RETURN DISTINCT d.Label AS Disease, p.Label AS Phenotype, go.Label AS GOterm

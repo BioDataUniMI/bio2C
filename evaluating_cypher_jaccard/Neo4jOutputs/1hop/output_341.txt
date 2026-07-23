@@ -1,0 +1,12 @@
+{
+  "p.Label": "Schizophrenia"
+}
+
+{
+  "p.Label": "Atopic dermatitis"
+}
+
+{
+  "p.Label": "Asthma"
+}
+

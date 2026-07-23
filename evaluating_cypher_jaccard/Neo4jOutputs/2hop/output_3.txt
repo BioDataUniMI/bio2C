@@ -1,0 +1,30 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-1)",
+  "Gene": "MIR1185-1",
+  "miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-1)"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-8053 precursor",
+  "Gene": "MIR8053",
+  "miRNA": "microRNA hsa-mir-8053 precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1245b precursor",
+  "Gene": "MIR1245B",
+  "miRNA": "microRNA hsa-mir-1245b precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-2)",
+  "Gene": "MIR1185-2",
+  "miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-2)"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4794 precursor",
+  "Gene": "MIR4794",
+  "miRNA": "microRNA hsa-mir-4794 precursor"
+}
+

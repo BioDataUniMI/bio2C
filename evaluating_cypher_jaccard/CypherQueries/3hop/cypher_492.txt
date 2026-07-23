@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-29a-3p'})-[:regulates_activity_of]->(g:Gene)-[:genetically_interacts_with]->(g1:Gene)-[:genetically_interacts_with]->(g2:Gene) WHERE SIZE(g1.Sequence) < 2000 AND SIZE(g2.Sequence) > 5000 RETURN g.Label AS GeneRegulatedByMiRNA, g1.Label AS InteractingGene1, g2.Label AS InteractingGene2

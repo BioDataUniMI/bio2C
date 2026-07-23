@@ -1,0 +1,1 @@
+Which miRNAs with label starting with 'hsa-miR-33' have sequence of exactly 22 nts of length and are characterized by at least one genomic coordinates' item starting with 'chr'?

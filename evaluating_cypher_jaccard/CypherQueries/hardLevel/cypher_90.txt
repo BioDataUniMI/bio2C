@@ -1,0 +1,1 @@
+MATCH (b)<-[:causes_or_contributes_to_condition]-(m:miRNA) WHERE (b:Biological_process OR (b)-[:subclassof*1..]->(:Biological_process)) WITH b, COUNT(DISTINCT m) AS miRNA_Count RETURN b.Label AS Biological_process, miRNA_Count ORDER BY miRNA_Count DESC, b.Label ASC LIMIT 3

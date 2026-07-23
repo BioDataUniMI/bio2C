@@ -1,0 +1,25 @@
+{
+  "Disease": "cholangiocarcinoma",
+  "Disease_URI": "http://purl.obolibrary.org/obo/MONDO_0019087"
+}
+
+{
+  "Disease": "thyroid gland carcinoma",
+  "Disease_URI": "http://purl.obolibrary.org/obo/MONDO_0015075"
+}
+
+{
+  "Disease": "head and neck squamous cell carcinoma",
+  "Disease_URI": "http://purl.obolibrary.org/obo/MONDO_0010150"
+}
+
+{
+  "Disease": "hepatocellular carcinoma",
+  "Disease_URI": "http://purl.obolibrary.org/obo/MONDO_0007256"
+}
+
+{
+  "Disease": "lung adenocarcinoma",
+  "Disease_URI": "http://purl.obolibrary.org/obo/MONDO_0005061"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates, pre.Label AS Pre_miRNA, m.Label AS miRNA, m.Genomic_coordinates AS miRNACoordinates

@@ -1,0 +1,1 @@
+MATCH (g:Gene) -[:transcribed_to]->(m:miRNA) WHERE toLower(g.Label) CONTAINS '8y' RETURN g.Label AS Gene, m.Label AS miRNA 

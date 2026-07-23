@@ -1,0 +1,1 @@
+Find the cellular component(s) that are associated with the highest number of distinct biological processes via miRNAs that are located in the cellular component and are participant of those processes (including ties). Return the cellular component label and the number of associated biological processes.

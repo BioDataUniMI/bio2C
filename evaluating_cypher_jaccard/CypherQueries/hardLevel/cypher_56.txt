@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(go:GO) WITH m, go, [c IN m.Genomic_coordinates WHERE c STARTS WITH 'chrX' OR c STARTS WITH 'chrY'] AS chrs UNWIND chrs AS chr WITH go.Label AS GOLabel, chr AS Chromosome, SIZE(m.Sequence) AS SeqLen RETURN GOLabel, Chromosome, MAX(SeqLen) AS MaxSeqLength ORDER BY MaxSeqLength DESC, GOLabel ASC, Chromosome ASC LIMIT 3

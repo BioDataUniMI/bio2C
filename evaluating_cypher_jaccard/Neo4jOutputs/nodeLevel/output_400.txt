@@ -1,0 +1,20 @@
+{
+  "bp.Label": "positive regulation of insulin-like growth factor receptor signaling pathway"
+}
+
+{
+  "bp.Label": "positive regulation of insulin secretion"
+}
+
+{
+  "bp.Label": "positive regulation of cellular response to insulin stimulus"
+}
+
+{
+  "bp.Label": "positive regulation of insulin secretion involved in cellular response to glucose stimulus"
+}
+
+{
+  "bp.Label": "negative regulation of insulin secretion"
+}
+

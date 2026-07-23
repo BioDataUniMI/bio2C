@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(t) WHERE (t:GO OR t:Biological_process) AND t.Label = 'cell cycle G2/M phase transition' RETURN m.Label AS miRNA, t.Label AS Term

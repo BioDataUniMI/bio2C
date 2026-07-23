@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'miRNA' OR mf.Label CONTAINS 'snoRNA' RETURN mf.Label

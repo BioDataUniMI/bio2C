@@ -1,0 +1,10 @@
+{
+  "PredisposingDisease": "autosomal recessive Mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 ...",
+  "PredisposedDisease": "mycobacterial infectious disease"
+}
+
+{
+  "PredisposingDisease": "autosomal recessive Mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR2 ...",
+  "PredisposedDisease": "mycobacterial infectious disease"
+}
+

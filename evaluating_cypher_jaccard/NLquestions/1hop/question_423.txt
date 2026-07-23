@@ -1,0 +1,1 @@
+Find cellular components not part of any other cellular component and whose description includes 'membrane vesicle'.

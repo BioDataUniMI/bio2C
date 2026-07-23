@@ -1,0 +1,1 @@
+Find miRNAs over-expressed in cardiovascular diseases where the miRNA sequence is at least 21 nucleotides long and the diseases have recorded phenotypes features. Return the miRNA label, disease label, and phenotype label.

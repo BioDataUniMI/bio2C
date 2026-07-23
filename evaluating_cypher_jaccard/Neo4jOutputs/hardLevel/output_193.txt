@@ -1,0 +1,15 @@
+{
+  "gene": "PCDH15",
+  "consecutive_4_count": 47297
+}
+
+{
+  "gene": "IL1RAPL1",
+  "consecutive_4_count": 33666
+}
+
+{
+  "gene": "RUNX1",
+  "consecutive_4_count": 26710
+}
+

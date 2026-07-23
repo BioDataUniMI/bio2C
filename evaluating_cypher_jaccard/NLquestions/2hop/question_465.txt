@@ -1,0 +1,1 @@
+Find all miRNAs or pre-miRNAs that are in a similarity relationship with the miRNA labeled as 'microRNA hsa-mir-410 precursor'. For each, return the label and the type of the target node.

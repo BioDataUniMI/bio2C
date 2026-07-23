@@ -1,0 +1,1 @@
+Which genes (excluding those whose labels contain 'MIR') share the same first 80% of their sequence with at least one other gene? Return the groups of genes that share an identical first-80% sequence segment.

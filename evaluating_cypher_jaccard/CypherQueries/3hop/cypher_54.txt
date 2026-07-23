@@ -1,0 +1,1 @@
+MATCH (c1:Cancer)-[:disease_shares_features_of]->(c2:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype) RETURN c1.Label AS cancer, c2.Label AS related_cancer, d.Label AS parent_disease, COUNT(DISTINCT p) AS phenotype_count

@@ -1,0 +1,25 @@
+{
+  "Disease": "anxiety disorder",
+  "miRNA_count": 1
+}
+
+{
+  "Disease": "hypertensive disorder",
+  "miRNA_count": 1
+}
+
+{
+  "Disease": "asthma",
+  "miRNA_count": 3
+}
+
+{
+  "Disease": "benign muscle neoplasm",
+  "miRNA_count": 1
+}
+
+{
+  "Disease": "adenoma",
+  "miRNA_count": 1
+}
+

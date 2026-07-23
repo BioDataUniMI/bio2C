@@ -1,0 +1,25 @@
+{
+  "GOTerm": "negative regulation of mitochondrial fission",
+  "Description": "any process that decreases the rate, frequency or extent of mitochondrial fission. mitochondrial ..."
+}
+
+{
+  "GOTerm": "positive regulation of mitochondrial fission",
+  "Description": "any process that increases the rate, frequency or extent of mitochondrial fission. mitochondrial ..."
+}
+
+{
+  "GOTerm": "establishment of protein localization to mitochondrial membrane involved in mitochondrial fission",
+  "Description": "the directed movement of a protein to a specific location in the mitochondrial membrane that cont..."
+}
+
+{
+  "GOTerm": "regulation of mitochondrial fission",
+  "Description": "any process that modulates the rate, frequency or extent of mitochondrial fission. mitochondrial ..."
+}
+
+{
+  "GOTerm": "mitochondrial membrane fission",
+  "Description": "a process that is carried out at the cellular level which results in the separation of a single c..."
+}
+

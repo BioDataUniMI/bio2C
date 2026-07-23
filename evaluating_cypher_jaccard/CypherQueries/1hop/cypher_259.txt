@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE  SIZE(r.PubMedID) = 10 AND SIZE(r.Source) > 0 RETURN m.Label AS miRNA, g.Label AS Gene, r.Source AS Sources

@@ -1,0 +1,30 @@
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedGO": "intracellular iron ion homeostasis",
+  "BiologicalProcess": "sequestering of iron ion"
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedGO": "intracellular iron ion homeostasis",
+  "BiologicalProcess": "cellular response to iron ion starvation"
+}
+
+{
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "visual perception involved in equilibrioception"
+}
+
+{
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "proprioception involved in equilibrioception"
+}
+
+{
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+

@@ -1,0 +1,1 @@
+Find the neurodegenerative diseases whose labels contain 'Alzheimer' while their description mention the gene PLD3 (case-insensitive).

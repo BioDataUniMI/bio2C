@@ -1,0 +1,6 @@
+{
+  "d.Label": "mental disease",
+  "d.Description": "a disease which is a disposition to undergo pathological mental processes.",
+  "d.URI": "http://purl.obolibrary.org/obo/MFOMD_0000001"
+}
+

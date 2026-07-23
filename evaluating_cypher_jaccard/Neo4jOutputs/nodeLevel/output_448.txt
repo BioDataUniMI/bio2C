@@ -1,0 +1,10 @@
+{
+  "mf.Label": "G-protein activated inward rectifier potassium channel activity",
+  "mf.Description": "enables the transmembrane transfer of a potassium ion by an inwardly-rectifying voltage-gated cha..."
+}
+
+{
+  "mf.Label": "G-protein gated potassium channel activity involved in regulation of postsynaptic membrane potential",
+  "mf.Description": "any g-protein gated potassium channel activity that is involved regulation of postsynaptic membra..."
+}
+

@@ -1,0 +1,35 @@
+{
+  "m.Label": "microRNA hsa-mir-6132 precursor",
+  "m.Genomic_coordinates": [
+    "chr7:117020211-117020319+"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3943 precursor",
+  "m.Genomic_coordinates": [
+    "chr7:43150895-43150994+"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3666 precursor",
+  "m.Genomic_coordinates": [
+    "chr7:114653345-114653455+"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-548o precursor",
+  "m.Genomic_coordinates": [
+    "chr7:102405742-102405855-"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-548f precursor (hsa-mir-548f-4)",
+  "m.Genomic_coordinates": [
+    "chr7:147378017-147378121-"
+  ]
+}
+

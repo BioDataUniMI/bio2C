@@ -1,0 +1,25 @@
+{
+  "Disease": "riboflavin transporter deficiency",
+  "MajorFeature": "Sensorineural hearing impairment"
+}
+
+{
+  "Disease": "deafness, congenital, with total albinism",
+  "MajorFeature": "Hearing impairment"
+}
+
+{
+  "Disease": "conductive deafness-ptosis-skeletal anomalies syndrome",
+  "MajorFeature": "Conductive hearing impairment"
+}
+
+{
+  "Disease": "deafness, neural, congenital moderate",
+  "MajorFeature": "Hearing impairment"
+}
+
+{
+  "Disease": "deafness, neural, with atypical atopic dermatitis",
+  "MajorFeature": "Hearing impairment"
+}
+

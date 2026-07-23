@@ -1,0 +1,1 @@
+MATCH (go:GO {Label: 'SMAD binding'})-[:function_of]->(m:miRNA)-[:develops_from]->(pre:pre_miRNA)-[:transcribed_from]->(g:Gene) RETURN DISTINCT m.Label AS miRNA, pre.Label AS Pre_miRNA, g.Label AS Gene

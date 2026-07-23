@@ -1,0 +1,1 @@
+Given the gene 'MIR449B', identify the biological processes that are functions of its transcribed precursor miRNAs. Return the precursor miRNA and the associated biological process label.

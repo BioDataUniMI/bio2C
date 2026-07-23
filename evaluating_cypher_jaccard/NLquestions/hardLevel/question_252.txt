@@ -1,0 +1,1 @@
+How many genes transcribe pre-miRNAs that develop into mature miRNAs causing or contributing to at least three different disease categories, and for which at least one associated disease is a subclass of another associated disease?

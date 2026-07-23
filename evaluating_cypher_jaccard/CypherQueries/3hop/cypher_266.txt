@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)<-[:occurs_in]-(bp:Biological_process)<-[:participates_in]-(m:miRNA)<-[:expresses]-(d:Disease {Label: 'hypertensive disorder'}) RETURN  cc.Label AS CellularComponent, bp.Label AS BiologicalProcess, m.Label AS miRNA, d.Label AS Disease

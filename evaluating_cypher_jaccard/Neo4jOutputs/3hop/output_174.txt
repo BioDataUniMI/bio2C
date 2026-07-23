@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Decreased calvarial ossification"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of calvaria"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of cervical vertebral bodies"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Delayed phalangeal epiphyseal ossification"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Abnormality of carpal bone ossification"
+}
+

@@ -1,0 +1,1 @@
+Find diseases that have phenotypes characteristic of GO terms which include molecular functions as parts. Return the disease, phenotype, GO term, and associated molecular function labels.

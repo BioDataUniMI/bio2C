@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "Phenotype": "Decreased circulating vitamin E concentration"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "Phenotype": "Decreased circulating vitamin D concentration"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "Phenotype": "Decreased circulating vitamin K concentration"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "Phenotype": "Reduced circulating vitamin A concentration"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "sarcoma",
+  "Phenotype": "Decreased circulating vitamin E concentration"
+}
+

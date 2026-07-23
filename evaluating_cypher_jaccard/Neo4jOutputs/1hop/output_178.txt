@@ -1,0 +1,10 @@
+{
+  "Gene": "TF",
+  "Disease": "obesity disorder"
+}
+
+{
+  "Gene": "TF",
+  "Disease": "inherited obesity"
+}
+

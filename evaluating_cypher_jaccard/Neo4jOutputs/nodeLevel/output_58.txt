@@ -1,0 +1,25 @@
+{
+  "miRNALabel": "hsa-miR-135b-5p",
+  "miRNASequence": "UAUGGCUUUUCAUUCCUAUGUGA"
+}
+
+{
+  "miRNALabel": "hsa-miR-135a-5p",
+  "miRNASequence": "UAUGGCUUUUUAUUCCUAUGUGA"
+}
+
+{
+  "miRNALabel": "hsa-miR-134-3p",
+  "miRNASequence": "CCUGUGGGCCACCUAGUCACCAA"
+}
+
+{
+  "miRNALabel": "hsa-miR-135a-2-3p",
+  "miRNASequence": "AUGUAGGGAUGGAAGCCAUGAA"
+}
+
+{
+  "miRNALabel": "hsa-miR-1302",
+  "miRNASequence": "UUGGGACAUACUUAUGCUAAA"
+}
+

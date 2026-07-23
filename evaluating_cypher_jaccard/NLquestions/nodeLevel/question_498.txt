@@ -1,0 +1,1 @@
+Identify genes that have a synonym containing the word 'cancer' and also contain either the word 'antigen' or 'isomerase'.

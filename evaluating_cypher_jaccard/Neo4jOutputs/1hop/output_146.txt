@@ -1,0 +1,14 @@
+{
+  "miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "GenomicCoordinates": [
+    "chr9:94178834-94178920+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-142-5p",
+  "GenomicCoordinates": [
+    "chr17:58331283-58331303-"
+  ]
+}
+

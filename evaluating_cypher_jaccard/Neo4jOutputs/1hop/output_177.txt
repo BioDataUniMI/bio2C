@@ -1,0 +1,6 @@
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF"
+}
+

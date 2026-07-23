@@ -1,0 +1,1 @@
+Identify diseases whose label contains the string 'juvenile polyposis' that are caused or contributed by genes regulated by miRNAs. Return the miRNA, gene, disease, and the source of each causal relationship.

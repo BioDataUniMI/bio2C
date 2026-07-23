@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "DNA-directed RNA polymerase complex",
+  "MolecularFunction": "DNA-directed 5'-3' RNA polymerase activity"
+}
+
+{
+  "CellularComponent": "alpha DNA polymerase:primase complex",
+  "MolecularFunction": "DNA-directed DNA polymerase activity"
+}
+
+{
+  "CellularComponent": "alpha DNA polymerase:primase complex",
+  "MolecularFunction": "DNA primase activity"
+}
+
+{
+  "CellularComponent": "single-stranded DNA-dependent ATP-dependent DNA helicase complex",
+  "MolecularFunction": "single-stranded DNA helicase activity"
+}
+
+{
+  "CellularComponent": "DNA helicase complex",
+  "MolecularFunction": "DNA helicase activity"
+}
+

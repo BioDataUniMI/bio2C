@@ -1,0 +1,25 @@
+{
+  "Gene": "CT47A12",
+  "nCoords": 9
+}
+
+{
+  "Gene": "TP53TG3D",
+  "nCoords": 4
+}
+
+{
+  "Gene": "TP53TG3D",
+  "nCoords": 4
+}
+
+{
+  "Gene": "DHRS4L1",
+  "nCoords": 3
+}
+
+{
+  "Gene": "GCSHP5",
+  "nCoords": 2
+}
+

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-18a-5p",
+  "Disease": "cervical cancer",
+  "Cancer": "malignant glioma",
+  "ParentDisease": "cancer"
+}
+
+{
+  "miRNA": "hsa-miR-18a-5p",
+  "Disease": "cervical carcinoma",
+  "Cancer": "colorectal carcinoma",
+  "ParentDisease": "carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-18a-5p",
+  "Disease": "cervical cancer",
+  "Cancer": "malignant colon neoplasm",
+  "ParentDisease": "cancer"
+}
+
+{
+  "miRNA": "hsa-miR-18a-5p",
+  "Disease": "cervical carcinoma",
+  "Cancer": "carcinoma of esophagus",
+  "ParentDisease": "carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-18a-5p",
+  "Disease": "retinitis pigmentosa and erythrocytic microcytosis",
+  "Cancer": "familial ovarian cancer",
+  "ParentDisease": "hereditary disease"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'degranulation' RETURN g.Label

@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[r:predisposes_towards]->(nd:Neurodegenerative_disease {Label: 'Leber hereditary optic neuropathy'}) RETURN cd.Label, LABELS(cd), nd.Label

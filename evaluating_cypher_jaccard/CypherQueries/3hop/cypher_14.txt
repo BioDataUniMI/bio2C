@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(pre:pre_miRNA)-[:participates_in]->(bp:Biological_process)-[:has_characteristic]->(p:Phenotype) WHERE bp.Description CONTAINS 'auditory stimulus' AND p.Description CONTAINS 'unilateral' RETURN m.Label AS miRNA, pre.Label AS precursor_miRNA, bp.Label AS biological_process, p.Label AS phenotype

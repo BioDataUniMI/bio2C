@@ -1,0 +1,1 @@
+Which phenotypes are features of cardiovascular diseases caused or contributed to by the gene 'ROCK2', whose activity is regulated by miRNAs? Return the phenotype label, cardiovascular disease label, gene label, and miRNA label.

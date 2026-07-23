@@ -1,0 +1,25 @@
+{
+  "Disease": "bronchopneumonia",
+  "Phenotype": "Erythematous plaque"
+}
+
+{
+  "Disease": "bronchopneumonia",
+  "Phenotype": "Flexion contracture of finger"
+}
+
+{
+  "Disease": "bronchopneumonia",
+  "Phenotype": "Rhegmatogenous retinal detachment"
+}
+
+{
+  "Disease": "bronchopneumonia",
+  "Phenotype": "Keratan sulfate excretion in urine"
+}
+
+{
+  "Disease": "bronchopneumonia",
+  "Phenotype": "Lens luxation"
+}
+

@@ -1,0 +1,1 @@
+Find GO terms parts of biological processes whose disruption causes by diseases that have the phenotype labeled as 'Insomnia'.

@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(cv:Cardiovascular_disease) WHERE cv.Label CONTAINS 'glycogen storage' RETURN DISTINCT cv.Label AS CardiovascularDisease

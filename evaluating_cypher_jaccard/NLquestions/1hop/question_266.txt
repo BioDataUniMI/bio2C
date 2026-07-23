@@ -1,0 +1,1 @@
+List phenotypes of the cancer node whose label contains 'lymphoid leukemia' (case-insensitive).

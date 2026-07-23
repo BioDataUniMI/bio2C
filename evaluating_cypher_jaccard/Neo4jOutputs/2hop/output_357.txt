@@ -1,0 +1,25 @@
+{
+  "Disease": "leukemia, acute, X-linked",
+  "ParentCancer": "acute leukemia"
+}
+
+{
+  "Disease": "diffuse large B-cell lymphoma of the central nervous system",
+  "ParentCancer": "central nervous system non-hodgkin lymphoma"
+}
+
+{
+  "Disease": "diffuse large B-cell lymphoma of the central nervous system",
+  "ParentCancer": "diffuse large B-cell lymphoma"
+}
+
+{
+  "Disease": "indolent B-cell non-Hodgkin lymphoma",
+  "ParentCancer": "B-cell non-Hodgkin lymphoma"
+}
+
+{
+  "Disease": "N syndrome",
+  "ParentCancer": "hereditary neoplastic syndrome"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:acts_upstream_of_or_within]->(b:Biological_process) WHERE b.Label CONTAINS 'necrosis' WITH m, SIZE([n IN SPLIT(m.Sequence,'') WHERE n='G']) AS gCount, SIZE([n IN SPLIT(m.Sequence,'') WHERE n='C']) AS cCount RETURN m.Label AS miRNA, CASE WHEN cCount = 0 THEN NULL ELSE 1.0 * gCount / cCount END AS G_to_C_ratio ORDER BY G_to_C_ratio DESC

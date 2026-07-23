@@ -1,0 +1,9 @@
+{
+  "miRNA": "hsa-miR-199b-5p",
+  "Pre_miRNA": "microRNA hsa-mir-199b precursor",
+  "GO_Term": "regulation of angiogenesis",
+  "Source": [
+    "HMDD"
+  ]
+}
+

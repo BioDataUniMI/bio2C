@@ -1,0 +1,20 @@
+{
+  "Disease": "X-linked cerebral-cerebellar-coloboma syndrome syndrome"
+}
+
+{
+  "Disease": "port-wine nevi-mega cisterna magna-hydrocephalus syndrome"
+}
+
+{
+  "Disease": "Joubert syndrome and related disorders"
+}
+
+{
+  "Disease": "lissencephaly with cerebellar hypoplasia type A"
+}
+
+{
+  "Disease": "Dandy-Walker malformation-postaxial polydactyly syndrome"
+}
+

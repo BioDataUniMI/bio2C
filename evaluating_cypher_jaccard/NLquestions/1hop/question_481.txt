@@ -1,0 +1,1 @@
+Which biological processes starting with a label 'negative regulation of DNA' negatively regulate either a biological process or a molecular function? Return the labels of the regulating process and the target, as well as the types of the target node

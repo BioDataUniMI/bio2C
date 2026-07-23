@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'collagen' AND (p.Label CONTAINS 'Increased' OR p.Label CONTAINS 'Elevated') RETURN p.Label AS Phenotype

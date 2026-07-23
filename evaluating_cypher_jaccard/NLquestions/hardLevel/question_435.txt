@@ -1,0 +1,1 @@
+How many negative regulatory relationships between biological processes have a 'Source' property containing exactly five elements?

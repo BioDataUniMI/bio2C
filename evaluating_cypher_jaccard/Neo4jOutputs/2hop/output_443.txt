@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "regulation of G1/S transition of mitotic cell cycle"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "regulation of cell cycle G1/S phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of mitotic cell cycle phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of cell cycle phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of mitotic cell cycle"
+}
+

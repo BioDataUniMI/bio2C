@@ -1,0 +1,20 @@
+{
+  "d.Label": "silent myocardial infarction"
+}
+
+{
+  "d.Label": "inferior myocardial infarction"
+}
+
+{
+  "d.Label": "anteroseptal myocardial infarction"
+}
+
+{
+  "d.Label": "posteroinferior myocardial infarction"
+}
+
+{
+  "d.Label": "lateral myocardial infarction"
+}
+

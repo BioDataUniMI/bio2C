@@ -1,0 +1,40 @@
+{
+  "SharedGene": "LIN28A",
+  "miRNA_in_d1": "hsa-let-7a-5p",
+  "miRNA_in_d2": "hsa-miR-128-3p",
+  "Disease1": "benign muscle neoplasm",
+  "Disease2": "anxiety disorder"
+}
+
+{
+  "SharedGene": "KPNA2P3",
+  "miRNA_in_d1": "hsa-let-7a-5p",
+  "miRNA_in_d2": "hsa-miR-128-3p",
+  "Disease1": "benign muscle neoplasm",
+  "Disease2": "anxiety disorder"
+}
+
+{
+  "SharedGene": "EEF1A1P10",
+  "miRNA_in_d1": "hsa-let-7a-5p",
+  "miRNA_in_d2": "hsa-miR-128-3p",
+  "Disease1": "benign muscle neoplasm",
+  "Disease2": "anxiety disorder"
+}
+
+{
+  "SharedGene": "ACTBP11",
+  "miRNA_in_d1": "hsa-let-7a-5p",
+  "miRNA_in_d2": "hsa-miR-128-3p",
+  "Disease1": "benign muscle neoplasm",
+  "Disease2": "anxiety disorder"
+}
+
+{
+  "SharedGene": "ACTG1P19",
+  "miRNA_in_d1": "hsa-let-7a-5p",
+  "miRNA_in_d2": "hsa-miR-128-3p",
+  "Disease1": "benign muscle neoplasm",
+  "Disease2": "anxiety disorder"
+}
+

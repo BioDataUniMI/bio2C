@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:process_has_causal_agent]->(g:GO) WHERE SIZE(r.Source) = 3 RETURN bp.Label, g.Label, r.Source

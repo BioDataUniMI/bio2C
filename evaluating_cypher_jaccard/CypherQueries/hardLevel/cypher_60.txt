@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:under_expressed_in]->(ph:Phenotype) WHERE ph.Label CONTAINS 'noma' AND (c.Label CONTAINS 'noma' OR c.Description CONTAINS 'noma') WITH ph, c, m, [i IN RANGE(0, SIZE(m.Sequence)-2) WHERE SUBSTRING(m.Sequence, i, 2) = 'GU' | SUBSTRING(m.Sequence, i, 2)] AS GUpairs RETURN ph.Label AS Phenotype, c.Label AS Cancer, SIZE(GUpairs) AS GU_Count

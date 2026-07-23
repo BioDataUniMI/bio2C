@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH 1.0 * ((SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'AAAA', ''))) / 4.0) / SIZE(m.Sequence) AS aaaaPct WITH MAX(aaaaPct) AS maxPct MATCH (m:miRNA) WITH m, maxPct, 1.0 * ((SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'AAAA', ''))) / 4.0) / SIZE(m.Sequence) AS aaaaPct WHERE aaaaPct = maxPct RETURN m.Label AS miRNA, aaaaPct

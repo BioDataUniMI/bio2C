@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:located_in]->(g:GO) WHERE g.Label CONTAINS 'exosome' RETURN COUNT(p) AS precursors_count

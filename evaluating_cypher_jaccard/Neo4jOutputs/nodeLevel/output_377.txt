@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "severe acute respiratory syndrome"
+}
+
+{
+  "DiseaseLabel": "acute hemorrhagic leukoencephalitis"
+}
+
+{
+  "DiseaseLabel": "kuru"
+}
+
+{
+  "DiseaseLabel": "streptococcal toxic-shock syndrome"
+}
+
+{
+  "DiseaseLabel": "western equine encephalitis"
+}
+

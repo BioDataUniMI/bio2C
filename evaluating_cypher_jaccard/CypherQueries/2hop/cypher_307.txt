@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease {Label:'sensory ataxia'}) RETURN m.Label AS miRNA, m.Sequence AS miRNASequence, g.Label AS TargetGene

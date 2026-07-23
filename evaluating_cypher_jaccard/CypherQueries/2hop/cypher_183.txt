@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:has_participant]->(m:miRNA)-[:is_active_in]->(cc:Cellular_component) RETURN DISTINCT m.Label AS miRNA, cc.Label AS CellularComponent

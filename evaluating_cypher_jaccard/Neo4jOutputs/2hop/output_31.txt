@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "versiconal hemiacetal acetate esterase activity",
+  "BiologicalProcess": "aflatoxin biosynthetic process"
+}
+
+{
+  "MolecularFunction": "5'-hydroxyaverantin dehydrogenase activity",
+  "BiologicalProcess": "aflatoxin biosynthetic process"
+}
+
+{
+  "MolecularFunction": "versicolorin B synthase activity",
+  "BiologicalProcess": "aflatoxin biosynthetic process"
+}
+
+{
+  "MolecularFunction": "norsolorinic acid ketoreductase activity",
+  "BiologicalProcess": "aflatoxin biosynthetic process"
+}
+
+{
+  "MolecularFunction": "versicolorin B desaturase activity",
+  "BiologicalProcess": "aflatoxin biosynthetic process"
+}
+

@@ -1,0 +1,1 @@
+List cellular components in which the miRNA 'hsa-miR-652-3p' is located. Return only entries having non-null Context and PubMedID properties.

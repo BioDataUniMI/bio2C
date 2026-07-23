@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "IKBKE"
+}
+
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "HGS"
+}
+
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "STAT3"
+}
+
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "WNK4"
+}
+
+{
+  "m.Label": "hsa-miR-296-5p",
+  "g.Label": "CDX1"
+}
+

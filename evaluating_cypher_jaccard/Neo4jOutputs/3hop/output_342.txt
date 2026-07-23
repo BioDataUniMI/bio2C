@@ -1,0 +1,28 @@
+{
+  "PhenotypeLabel": "Abnormality of skeletal maturation",
+  "PhenotypeDescription": "the bones of the skeleton undergo a series of characteristic changes in size, shape, and calcific...",
+  "GOterm": "bone maturation",
+  "miRNA": "hsa-let-7i-5p"
+}
+
+{
+  "PhenotypeLabel": "Delayed skeletal maturation",
+  "PhenotypeDescription": "a decreased rate of skeletal maturation. delayed skeletal maturation can be diagnosed on the basi...",
+  "GOterm": "bone maturation",
+  "miRNA": "hsa-let-7i-5p"
+}
+
+{
+  "PhenotypeLabel": "Dysharmonic delayed bone age",
+  "PhenotypeDescription": "a type of dysharmonic skeletal maturation in which there is a delay in skeletal maturation whose ...",
+  "GOterm": "bone maturation",
+  "miRNA": "hsa-let-7i-5p"
+}
+
+{
+  "PhenotypeLabel": "Accelerated skeletal maturation",
+  "PhenotypeDescription": "an abnormally increased rate of skeletal maturation. accelerated skeletal maturation can be diagn...",
+  "GOterm": "bone maturation",
+  "miRNA": "hsa-let-7i-5p"
+}
+

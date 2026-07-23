@@ -1,0 +1,1 @@
+MATCH (m:miRNA{Label:'hsa-miR-650'})-[:under_expressed_in]->(c:Cancer)-[:has_characteristic]->(d:Disease) RETURN c.Label AS Cancer, d.Label AS Disease

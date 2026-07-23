@@ -1,0 +1,1 @@
+Which genes regulate the activity of other genes via miRNAs transcribed from them? Return also the sources confirming the transcription, and the source(s) and method(s) confirming the regulation.

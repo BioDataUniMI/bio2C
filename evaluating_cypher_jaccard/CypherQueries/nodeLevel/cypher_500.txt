@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-199' RETURN m.Label, SIZE(m.Sequence) AS sequence_length ORDER BY sequence_length DESC, m.Label ASC

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:part_of]->(cc:Cellular_component) WHERE SIZE(r.Context) > 24 RETURN cc.Label AS CellularComponent, SIZE(r.Context) AS NumberOfContexts

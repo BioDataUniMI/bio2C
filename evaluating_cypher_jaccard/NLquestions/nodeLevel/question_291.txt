@@ -1,0 +1,1 @@
+What is the average sequence length of genes that have sequence lengths between 20,000 and 1,000,000 nucleotides?

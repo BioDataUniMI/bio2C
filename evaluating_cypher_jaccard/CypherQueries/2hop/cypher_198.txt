@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:is_active_in]->(go:GO {Label: 'cellular_component'}) WHERE 'cellular_component' IN go.Synonym RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, go.Label AS GOterm, go.Synonym AS GOtermSynonyms

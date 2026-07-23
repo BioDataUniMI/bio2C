@@ -1,0 +1,1 @@
+MATCH (mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA)-[r:causes_or_contributes_to_condition]->(d:Disease {Label:'thyroid tumor'}), (mirna)-[:not_involved_in]->(go:GO {Label:'regulation of angiogenesis'}) RETURN mirna.Label AS miRNA, premirna.Label AS Pre_miRNA, go.Label AS GO_Term, r.Source AS Source

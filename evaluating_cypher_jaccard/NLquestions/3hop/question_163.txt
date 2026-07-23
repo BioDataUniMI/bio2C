@@ -1,0 +1,1 @@
+Find pre-miRNAs that develop into miRNAs which interact with other miRNAs known to regulate genes whose label starts with 'TN'. Return the label of pre-miRNA, miRNAs, and genes.

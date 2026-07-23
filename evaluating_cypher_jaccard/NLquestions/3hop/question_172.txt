@@ -1,0 +1,1 @@
+Identify genes that are transcribed into pre-miRNAs from which mature miRNAs develop, where those mature miRNAs regulate the target gene “MTCO1P12”. Return the labels of the gene, pre-miRNA, miRNA, and the target gene.

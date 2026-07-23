@@ -1,0 +1,1 @@
+Identify autoimmune diseases caused by disruption of GO terms that have miRNA participants, and return the disease, the GO term, and the number of distinct miRNAs involved.

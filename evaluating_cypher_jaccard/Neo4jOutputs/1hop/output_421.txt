@@ -1,0 +1,25 @@
+{
+  "p.Label": "Autosomal dominant inheritance",
+  "d.Label": "congenital emphysematous lung disease due to Filamin A loss-of-function variant"
+}
+
+{
+  "p.Label": "Autosomal recessive inheritance",
+  "d.Label": "non-severe combined immunodeficiency due to COPG1 deficiency"
+}
+
+{
+  "p.Label": "Autosomal dominant inheritance",
+  "d.Label": "early-onset pulmonary and cutaneous vasculitis"
+}
+
+{
+  "p.Label": "Autosomal dominant inheritance",
+  "d.Label": "multisystem autoimmune disease due to IKAROS gain of function"
+}
+
+{
+  "p.Label": "Autosomal dominant inheritance",
+  "d.Label": "HELIOS deficiency"
+}
+

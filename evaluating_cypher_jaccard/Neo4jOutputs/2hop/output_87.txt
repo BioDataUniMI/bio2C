@@ -1,0 +1,30 @@
+{
+  "GOterm": "high-density lipoprotein particle receptor activity",
+  "MolecularFunction": "high-density lipoprotein particle binding",
+  "EnablingmiRNA": "hsa-miR-30c-5p"
+}
+
+{
+  "GOterm": "protein carrier chaperone",
+  "MolecularFunction": "protein binding",
+  "EnablingmiRNA": "hsa-miR-206"
+}
+
+{
+  "GOterm": "ATP-dependent protein disaggregase activity",
+  "MolecularFunction": "protein binding",
+  "EnablingmiRNA": "hsa-miR-206"
+}
+
+{
+  "GOterm": "protein sequestering activity",
+  "MolecularFunction": "protein binding",
+  "EnablingmiRNA": "hsa-miR-206"
+}
+
+{
+  "GOterm": "molecular function regulator activity",
+  "MolecularFunction": "protein binding",
+  "EnablingmiRNA": "hsa-miR-206"
+}
+

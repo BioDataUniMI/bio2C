@@ -1,0 +1,6 @@
+{
+  "GO": "cell nucleus",
+  "Cellular_component": "nuclear lumen",
+  "miRNA_count": 18
+}
+

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-2861",
+  "GOTerm": "positive regulation of kinase activity",
+  "MolecularFunction": "kinase activity",
+  "SIZE(m.Sequence)": 19
+}
+
+{
+  "miRNA": "hsa-miR-2861",
+  "GOTerm": "positive regulation of cyclin-dependent protein serine/threonine kinase activity",
+  "MolecularFunction": "cyclin-dependent protein serine/threonine kinase activity",
+  "SIZE(m.Sequence)": 19
+}
+
+{
+  "miRNA": "hsa-miR-2861",
+  "GOTerm": "positive regulation of protein kinase activity",
+  "MolecularFunction": "protein kinase activity",
+  "SIZE(m.Sequence)": 19
+}
+
+{
+  "miRNA": "hsa-miR-2861",
+  "GOTerm": "positive regulation of protein serine/threonine kinase activity",
+  "MolecularFunction": "protein serine/threonine kinase activity",
+  "SIZE(m.Sequence)": 19
+}
+
+{
+  "miRNA": "hsa-miR-2861",
+  "GOTerm": "positive regulation of cyclin-dependent protein kinase activity",
+  "MolecularFunction": "cyclin-dependent protein kinase activity",
+  "SIZE(m.Sequence)": 19
+}
+

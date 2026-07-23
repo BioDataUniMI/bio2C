@@ -1,0 +1,1 @@
+Find the genomic coordinates of the precursor miRNA transcribed from the gene 'MIR1827' that develops into a mature miRNA. Return its sequence along with the precursor and mature miRNA labels.

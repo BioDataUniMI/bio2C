@@ -1,0 +1,8 @@
+{
+  "DiseaseLabel": "chromosome 22q11.2 deletion syndrome, distal"
+}
+
+{
+  "DiseaseLabel": "DiGeorge syndrome"
+}
+

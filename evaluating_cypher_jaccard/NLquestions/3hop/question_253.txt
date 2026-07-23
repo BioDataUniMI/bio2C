@@ -1,0 +1,1 @@
+How many diseases that are subclasses of cancers have phenotypes characteristic of GO terms? Return the total distinct count of such diseases.

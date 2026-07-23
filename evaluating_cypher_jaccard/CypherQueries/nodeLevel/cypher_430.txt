@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'transcription' AND (g.Label CONTAINS 'snoRNA' OR g.Label CONTAINS 'sno(s)RNA') RETURN g.Label

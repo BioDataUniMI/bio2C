@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[r:over_expressed_in]->(c:Cancer {Label:'B-cell adult acute lymphocytic leukemia'}) RETURN p.Label AS Pre_miRNA, m.Label AS miRNA, r.FDR AS FDR

@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CCND2",
+  "Disease": "type 2 diabetes mellitus"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CCND2",
+  "Disease": "diabetes mellitus"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "NR1I2",
+  "Disease": "metabolic dysfunction-associated steatohepatitis"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "NR1I2",
+  "Disease": "diabetes mellitus"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CASP9",
+  "Disease": "retinal detachment"
+}
+

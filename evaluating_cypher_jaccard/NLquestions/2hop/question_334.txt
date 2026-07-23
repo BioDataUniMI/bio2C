@@ -1,0 +1,1 @@
+Identify the evidence sources reporting that genes regulated by the miRNA 'hsa-miR-22-3p' cause or contribute to the disease labeled as 'hepatocellular carcinoma'. Return the evidence source and target gene labels.

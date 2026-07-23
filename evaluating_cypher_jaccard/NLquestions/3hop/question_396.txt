@@ -1,0 +1,1 @@
+Which genes are regulated by mature miRNAs that develop from pre-miRNAs transcribed from the 'MIR625' gene? Return the pre-miRNA label, mature miRNA label, and target gene label, along with the sequence lengths of pre-miRNA, mature miRNA, and target gene.

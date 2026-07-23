@@ -1,0 +1,1 @@
+Identify autoimmune diseases that have as basis in feature phenotypes which are subclasses of other phenotypes, and count the number of distinct pre-miRNAs that cause or contribute to those diseases. Return the autoimmune disease, the parent phenotype, and the count of distinct pre-miRNAs.

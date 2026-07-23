@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Sequence CONTAINS 'UUUUUUUUUUUUUUUUUUU' RETURN pm.Label AS miRNA, SIZE(pm.Sequence) AS SequenceLength, pm.URI

@@ -1,0 +1,1 @@
+Find GO terms that are parts of cellular components where the miRNA 'hsa-miR-125a-5p' is located.

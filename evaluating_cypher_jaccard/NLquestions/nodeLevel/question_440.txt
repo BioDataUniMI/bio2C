@@ -1,0 +1,1 @@
+Which molecular functions have labels containing 'bone' but descriptions that do not contain 'catalysis'.

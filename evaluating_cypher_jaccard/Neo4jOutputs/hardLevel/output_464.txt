@@ -1,0 +1,10 @@
+{
+  "relation": "has_participant",
+  "miRNACount": 1281
+}
+
+{
+  "relation": "participates_in",
+  "miRNACount": 1281
+}
+

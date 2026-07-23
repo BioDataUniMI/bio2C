@@ -1,0 +1,1 @@
+Which genes have activity regulated by miRNAs expressed in the diseases labeled as 'benign muscle neoplasm' and by miRNAs expressed in the disease labeled'anxiety disorder'? Which miRNAs are involved in each disease? Return the shared gene and the miRNAs in each disease along with disease labels.

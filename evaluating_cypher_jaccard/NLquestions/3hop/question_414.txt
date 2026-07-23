@@ -1,0 +1,1 @@
+Find GO terms that have molecular functions as parts and whose disruption causes the disease labeled as 'coenzyme Q10 deficiency' that has 'Hepatic failure' as a phenotype. Return the phenotype, disease, GO term, and molecular function labels.

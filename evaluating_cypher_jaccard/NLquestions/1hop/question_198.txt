@@ -1,0 +1,1 @@
+Find precursor miRNAs that are transcribed from genes whose labels start with 'MIR' and have a sequence longer than 120 nucleotides.

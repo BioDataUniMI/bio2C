@@ -1,0 +1,1 @@
+In which cellular components do certain biological processes occur? By 'certain' I mean: miRNAs expressed in the disease 'asthma' participate in these processes. Return the cellular component label, the biological process label, the miRNA label, and the disease label.

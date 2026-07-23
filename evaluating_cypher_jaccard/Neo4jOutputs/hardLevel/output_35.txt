@@ -1,0 +1,8 @@
+{
+  "Gene": "CACNA1C",
+  "Genomic_coordinates": [
+    "chr12:1970772-2697950+"
+  ],
+  "Sequence_Length": 727179
+}
+

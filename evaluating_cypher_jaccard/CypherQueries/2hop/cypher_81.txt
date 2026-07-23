@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE c.Label CONTAINS 'benign' RETURN c.Label AS Cancer, cc.Label AS Cellular_component, COUNT(m) AS miRNA_count

@@ -1,0 +1,1 @@
+Count the number of distinct GO terms linked via 'under_expressed_in' to precursor miRNAs, grouped by GO category ('Biological_process', 'Molecular_function', 'Cellular_component').

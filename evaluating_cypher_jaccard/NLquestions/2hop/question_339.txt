@@ -1,0 +1,1 @@
+Identify miRNAs whose label ends with '5p' that are expressed in phenotypes associated with neurodegenerative diseases related to 'aphasia', excluding phenotypes related to behavior, recognition, brain, or thought, and report the corresponding miRNAs, diseases, and phenotypes labels.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease {Label:'COVID-19'}) RETURN m.Label AS miRNA, r.Source AS Source, i.Label AS Disease

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "Parent_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "miRNA_sequence": "UGAGGUAGGAGGUUGUAUAGUU",
+  "parent_sequence": "CCCGGGCUGAGGUAGGAGGUUGUAUAGUUGAGGAGGACACCCAAGGAGAUCACUAUACGGCCUCCUAGCUUUCCCCAGG"
+}
+
+{
+  "miRNA": "hsa-miR-30d-5p",
+  "Parent_miRNA": "microRNA hsa-mir-30d precursor",
+  "miRNA_sequence": "UGUAAACAUCCCCGACUGGAAG",
+  "parent_sequence": "GUUGUUGUAAACAUCCCCGACUGGAAGCUGUAAGACACAGCUAAGCUUUCAGUCAGAUGUUUGCUGCUAC"
+}
+
+{
+  "miRNA": "hsa-miR-548j-5p",
+  "Parent_miRNA": "microRNA hsa-mir-548j precursor",
+  "miRNA_sequence": "AAAAGUAAUUGCGGUCUUUGGU",
+  "parent_sequence": "GGGCAGCCAGUGAAUAGUUAGCUGGUGCAAAAGUAAUUGCGGUCUUUGGUAUUACUUUCAGUGGCAAAAACUGCAUUACUUUUGCACCAGCCUACUA..."
+}
+
+{
+  "miRNA": "hsa-let-7d-5p",
+  "Parent_miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "miRNA_sequence": "AGAGGUAGUAGGUUGCAUAGUU",
+  "parent_sequence": "CCUAGGAAGAGGUAGUAGGUUGCAUAGUUUUAGGGCAGGGAUUUUGCCCACAAGGAGGUAACUAUACGACCUGCUGCCUUUCUUAGG"
+}
+
+{
+  "miRNA": "hsa-miR-30e-5p",
+  "Parent_miRNA": "microRNA hsa-mir-30e precursor",
+  "miRNA_sequence": "UGUAAACAUCCUUGACUGGAAG",
+  "parent_sequence": "GGGCAGUCUUUGCUACUGUAAACAUCCUUGACUGGAAGCUGUAAGGUGUUCAGAGGAGCUUUCAGUCGGAUGUUUACAGCGGCAGGCUGCCA"
+}
+

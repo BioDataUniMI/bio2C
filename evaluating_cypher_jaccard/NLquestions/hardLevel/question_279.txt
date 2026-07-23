@@ -1,0 +1,1 @@
+Find the top 5 miRNAs that are under-expressed in the highest number of autoimmune diseases. In case of ties, order miRNAs alphabetically. Return the miRNA label and the number of autoimmune diseases.

@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) RETURN pm.Label AS Precursor, d.Label AS Disease

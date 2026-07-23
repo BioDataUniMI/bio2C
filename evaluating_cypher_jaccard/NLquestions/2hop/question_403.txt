@@ -1,0 +1,1 @@
+Identify miRNAs that develop from pre-miRNAs transcribed from the gene 'MIR888'.

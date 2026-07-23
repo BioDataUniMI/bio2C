@@ -1,0 +1,62 @@
+{
+  "p": {
+    "Description": "being located on the left side of the body.",
+    "Label": "Left",
+    "Synonym": [
+      "Levý",
+      "Links",
+      "Sol",
+      "Izquierda",
+      "左侧",
+      "Gauche"
+    ],
+    "ID": "HP:0012835",
+    "URI": "http://purl.obolibrary.org/obo/HP_0012835"
+  }
+}
+
+{
+  "p": {
+    "Description": "a color consisting of green and blue hue.",
+    "Label": "cyan",
+    "ID": "PATO:0000319",
+    "URI": "http://purl.obolibrary.org/obo/PATO_0000319"
+  }
+}
+
+{
+  "p": {
+    "Description": "applied to pain that is dull, i.e., not severe but that continues over a long period of time.",
+    "Label": "Dull",
+    "Synonym": [
+      "Donuk",
+      "Saai",
+      "Tupá",
+      "sourde",
+      "鈍痛",
+      "钝性",
+      "Dolor sordo persistente"
+    ],
+    "ID": "HP:0025282",
+    "URI": "http://purl.obolibrary.org/obo/HP_0025282"
+  }
+}
+
+{
+  "p": {
+    "Description": "a shape quality inhering in a bearer by virtue of the bearer's having one or more angle(s) in its...",
+    "Label": "bent",
+    "ID": "PATO:0000617",
+    "URI": "http://purl.obolibrary.org/obo/PATO_0000617"
+  }
+}
+
+{
+  "p": {
+    "Description": "a quality in which events occur in sequence.",
+    "Label": "time",
+    "ID": "PATO:0000165",
+    "URI": "http://purl.obolibrary.org/obo/PATO_0000165"
+  }
+}
+

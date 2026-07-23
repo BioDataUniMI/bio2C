@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE ANY(c IN r.Context WHERE c = 'cardiomyocyte progenitor cells') RETURN DISTINCT b.Label AS Process_name, b.Description AS Process_description, r.Context AS Context

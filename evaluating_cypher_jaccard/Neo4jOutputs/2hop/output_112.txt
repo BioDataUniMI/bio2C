@@ -1,0 +1,25 @@
+{
+  "Cancer": "invasive breast carcinoma",
+  "miRNACount": 251
+}
+
+{
+  "Cancer": "breast lobular carcinoma",
+  "miRNACount": 248
+}
+
+{
+  "Cancer": "breast ductal adenocarcinoma",
+  "miRNACount": 7
+}
+
+{
+  "Cancer": "breast neoplasm",
+  "miRNACount": 1616
+}
+
+{
+  "Cancer": "squamous cell breast carcinoma",
+  "miRNACount": 381
+}
+

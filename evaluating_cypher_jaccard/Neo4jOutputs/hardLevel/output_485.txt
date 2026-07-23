@@ -1,0 +1,15 @@
+{
+  "relationType": "bounding_layer_of",
+  "componentCount": 69
+}
+
+{
+  "relationType": "adjacent_to",
+  "componentCount": 52
+}
+
+{
+  "relationType": "overlaps",
+  "componentCount": 32
+}
+

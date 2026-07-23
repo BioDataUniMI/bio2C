@@ -1,0 +1,6 @@
+{
+  "Gene": "MIR378G",
+  "A_Count": 8,
+  "Sequence_Length": 41
+}
+

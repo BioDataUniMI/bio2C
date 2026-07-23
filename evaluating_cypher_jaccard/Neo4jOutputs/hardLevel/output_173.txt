@@ -1,0 +1,50 @@
+{
+  "miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "function_go": "endocytosis",
+  "function_go_URI": "http://purl.obolibrary.org/obo/GO_0006897",
+  "target_start_location_go": "extracellular region",
+  "target_start_location_go_URI": "http://purl.obolibrary.org/obo/GO_0005576",
+  "target_end_location_go": "cytoplasmic vesicle",
+  "target_end_location_go_URI": "http://purl.obolibrary.org/obo/GO_0031410"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-1)",
+  "function_go": "endocytosis",
+  "function_go_URI": "http://purl.obolibrary.org/obo/GO_0006897",
+  "target_start_location_go": "extracellular region",
+  "target_start_location_go_URI": "http://purl.obolibrary.org/obo/GO_0005576",
+  "target_end_location_go": "cytoplasmic vesicle",
+  "target_end_location_go_URI": "http://purl.obolibrary.org/obo/GO_0031410"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-1)",
+  "function_go": "endocytosis",
+  "function_go_URI": "http://purl.obolibrary.org/obo/GO_0006897",
+  "target_start_location_go": "extracellular region",
+  "target_start_location_go_URI": "http://purl.obolibrary.org/obo/GO_0005576",
+  "target_end_location_go": "cytoplasmic vesicle",
+  "target_end_location_go_URI": "http://purl.obolibrary.org/obo/GO_0031410"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-199a precursor (hsa-mir-199a-1)",
+  "function_go": "endocytosis",
+  "function_go_URI": "http://purl.obolibrary.org/obo/GO_0006897",
+  "target_start_location_go": "extracellular region",
+  "target_start_location_go_URI": "http://purl.obolibrary.org/obo/GO_0005576",
+  "target_end_location_go": "cytoplasmic vesicle",
+  "target_end_location_go_URI": "http://purl.obolibrary.org/obo/GO_0031410"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-2)",
+  "function_go": "endocytosis",
+  "function_go_URI": "http://purl.obolibrary.org/obo/GO_0006897",
+  "target_start_location_go": "extracellular region",
+  "target_start_location_go_URI": "http://purl.obolibrary.org/obo/GO_0005576",
+  "target_end_location_go": "cytoplasmic vesicle",
+  "target_end_location_go_URI": "http://purl.obolibrary.org/obo/GO_0031410"
+}
+

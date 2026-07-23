@@ -1,0 +1,1 @@
+Identify biological processes whose label contains the string 'regulation of cell' and involve miRNAs with genomic coordinates on chromosome 21, along with the corresponding mature and precursor miRNAs that participate in each process.

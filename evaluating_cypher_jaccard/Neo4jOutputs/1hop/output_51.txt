@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Process_ID": "GO:0097300",
+  "Process_label": "programmed necrotic cell death"
+}
+
+{
+  "miRNA": "hsa-miR-24-1-5p",
+  "Process_ID": "GO:0097300",
+  "Process_label": "programmed necrotic cell death"
+}
+
+{
+  "miRNA": "hsa-miR-24-2-5p",
+  "Process_ID": "GO:0097300",
+  "Process_label": "programmed necrotic cell death"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-455 precursor",
+  "Process_ID": "GO:0006954",
+  "Process_label": "inflammatory response"
+}
+
+{
+  "miRNA": "hsa-miR-637",
+  "Process_ID": "GO:0006915",
+  "Process_label": "apoptotic process"
+}
+

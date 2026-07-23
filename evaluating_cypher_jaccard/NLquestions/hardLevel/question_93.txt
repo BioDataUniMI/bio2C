@@ -1,0 +1,1 @@
+Count the distinct number of miRNAs developed from premiRNAs and that are characterized by more than one coordinate on chr8.

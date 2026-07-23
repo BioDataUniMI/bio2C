@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS '(' OR pm.Label CONTAINS ')' RETURN COUNT(pm) AS PreMiRNACount

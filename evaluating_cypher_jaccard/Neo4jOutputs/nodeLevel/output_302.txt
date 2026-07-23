@@ -1,0 +1,20 @@
+{
+  "GeneLabel": "ORF1ab of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "GeneLabel": "gene of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "GeneLabel": "N gene of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "GeneLabel": "ORF10 of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "GeneLabel": "ORF7a of severe acute respiratory syndrome coronavirus 2"
+}
+

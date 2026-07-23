@@ -1,0 +1,16 @@
+{
+  "GO_Process": "actin filament-based process",
+  "Cellular_Component": "actin filament",
+  "Component_Description": "a filamentous structure formed of a two-stranded helical polymer of the protein actin and associa...",
+  "Parent_Component_Label": "mating projection actin fusion focus",
+  "Parent_Component_Description": "a focus at the mating projection tip where the cell wall is degraded during conjugation with cell..."
+}
+
+{
+  "GO_Process": "actin filament-based movement",
+  "Cellular_Component": "actin filament",
+  "Component_Description": "a filamentous structure formed of a two-stranded helical polymer of the protein actin and associa...",
+  "Parent_Component_Label": "mating projection actin fusion focus",
+  "Parent_Component_Description": "a focus at the mating projection tip where the cell wall is degraded during conjugation with cell..."
+}
+

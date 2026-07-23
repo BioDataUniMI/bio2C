@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:over_expressed_in]->(c:Cancer) WITH c, COUNT(p) AS nPreMiRNAs RETURN AVG(nPreMiRNAs) AS avg_pre_miRNAs_per_cancer

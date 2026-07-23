@@ -1,0 +1,1 @@
+Identify genes whose labels start with 'EEF' and report, for each gene, the number of distinct miRNAs (developed from pre-miRNAs) that regulate its activity.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component) WITH cc, COLLECT(DISTINCT m.Label) AS mirnas, SIZE(COLLECT(DISTINCT m.Label)) AS miRNA_count ORDER BY miRNA_count DESC, cc.Label ASC LIMIT 3 RETURN cc.Label AS CellularComponent, cc.ID AS ID, cc.URI AS URI, miRNA_count AS NumberOfMiRNAs

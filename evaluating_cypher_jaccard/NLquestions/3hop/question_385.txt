@@ -1,0 +1,1 @@
+How many different diseases are caused or contributed by genes regulated by the miRNA 'hsa-miR-20a-5p' when it develops from known pre-miRNAs?

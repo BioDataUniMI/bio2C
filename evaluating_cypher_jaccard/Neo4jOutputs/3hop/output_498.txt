@@ -1,0 +1,8 @@
+{
+  "Disease": "thyroid gland papillary carcinoma"
+}
+
+{
+  "Disease": "thyroid gland carcinoma"
+}
+

@@ -1,0 +1,25 @@
+{
+  "Disease": "schizophrenia 15",
+  "Phenotype": "Schizophrenia"
+}
+
+{
+  "Disease": "schizophrenia 15",
+  "Phenotype": "Young adult onset"
+}
+
+{
+  "Disease": "schizophrenia 15",
+  "Phenotype": "Juvenile onset"
+}
+
+{
+  "Disease": "schizophrenia 15",
+  "Phenotype": "Intellectual disability"
+}
+
+{
+  "Disease": "schizophrenia 15",
+  "Phenotype": "Hyperactivity"
+}
+

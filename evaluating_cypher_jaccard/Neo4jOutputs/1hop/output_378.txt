@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "GOTerm": "negative regulation of interleukin-6 production",
+  "PubMedIDs": [
+    "28078022",
+    "22105995"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "GOTerm": "negative regulation of matrix metallopeptidase secretion",
+  "PubMedIDs": [
+    "28078022",
+    "22105995"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "GOTerm": "negative regulation of gene expression",
+  "PubMedIDs": [
+    "28797104",
+    "22556343"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "GOTerm": "negative regulation of interleukin-8 production",
+  "PubMedIDs": [
+    "24433094",
+    "22556343"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29c-3p",
+  "GOTerm": "negative regulation of amyloid-beta formation",
+  "PubMedIDs": [
+    "21565331",
+    "25973041"
+  ]
+}
+

@@ -1,0 +1,10 @@
+{
+  "Disease": "X-linked intellectual disability, Cantagrel type",
+  "Description": "x-linked mental retardation cantagrel type is characterized by marked neonatal hypotonia, progres..."
+}
+
+{
+  "Disease": "autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome",
+  "Description": "a rare genetic neurodevelopmental disorder characterized by global developmental delay (dd) and v..."
+}
+

@@ -1,0 +1,17 @@
+{
+  "smallest_sequence": [
+    {
+      "Phenotype": "Stomach cancer",
+      "pre_miRNA": "microRNA hsa-mir-302f precursor",
+      "seq_len": 51
+    }
+  ],
+  "greatest_sequence": [
+    {
+      "Phenotype": "Prostate cancer",
+      "pre_miRNA": "microRNA hsa-mir-1307 precursor",
+      "seq_len": 149
+    }
+  ]
+}
+

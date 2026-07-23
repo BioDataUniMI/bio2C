@@ -1,0 +1,1 @@
+Find miRNAs that participate in GO terms of which the biological process labeled as 'regulation of protein kinase activity' is a part.

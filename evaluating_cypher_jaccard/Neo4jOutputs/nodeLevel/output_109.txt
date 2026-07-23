@@ -1,0 +1,25 @@
+{
+  "Gene": "ORF1ab of severe acute respiratory syndrome coronavirus 2",
+  "ID": "OGG:3043740579"
+}
+
+{
+  "Gene": "gene of severe acute respiratory syndrome coronavirus 2",
+  "ID": "OGG:2002697049"
+}
+
+{
+  "Gene": "N gene of severe acute respiratory syndrome coronavirus 2",
+  "ID": "OGG:3043740575"
+}
+
+{
+  "Gene": "ORF10 of severe acute respiratory syndrome coronavirus 2",
+  "ID": "OGG:3043740578"
+}
+
+{
+  "Gene": "ORF7a of severe acute respiratory syndrome coronavirus 2",
+  "ID": "OGG:3043740573"
+}
+

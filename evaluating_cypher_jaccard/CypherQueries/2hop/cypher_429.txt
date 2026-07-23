@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:in_homology_relationship_with]-(m2:miRNA)-[:over_expressed_in]->(c:Disease) WHERE c.Label CONTAINS 'pediatric' OR c.Description CONTAINS 'pediatric' RETURN DISTINCT m1.Label AS miRNA, m2.Label AS Homolog, c.Label AS OverExpressedIn

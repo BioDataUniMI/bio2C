@@ -1,0 +1,30 @@
+{
+  "Cancer_label": "B-cell childhood acute lymphoblastic leukemia",
+  "num_G": 5,
+  "num_C": 5
+}
+
+{
+  "Cancer_label": "childhood testicular germ cell tumor",
+  "num_G": 6,
+  "num_C": 6
+}
+
+{
+  "Cancer_label": "childhood testicular germ cell tumor",
+  "num_G": 5,
+  "num_C": 5
+}
+
+{
+  "Cancer_label": "childhood testicular germ cell tumor",
+  "num_G": 4,
+  "num_C": 4
+}
+
+{
+  "Cancer_label": "childhood testicular germ cell tumor",
+  "num_G": 3,
+  "num_C": 3
+}
+

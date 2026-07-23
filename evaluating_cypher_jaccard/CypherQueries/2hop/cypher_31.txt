@@ -1,0 +1,1 @@
+MATCH (go:GO {Label:'aflatoxin biosynthetic process'})-[:has_part]->(mf:Molecular_function)-[:part_of]->(bp:Biological_process) RETURN mf.Label AS MolecularFunction, bp.Label AS BiologicalProcess

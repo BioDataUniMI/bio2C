@@ -1,0 +1,1 @@
+Which biological processes have the miRNA 'hsa-miR-125a-5p' as a participant, and are disrupted by diseases having phenotypes whose label contains the word 'bleeding'? Return the biological process label, disease label, phenotype label, and miRNA label.

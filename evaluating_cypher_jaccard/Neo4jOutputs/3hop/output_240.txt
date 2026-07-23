@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Failure to thrive",
+  "DiseaseCount": 4
+}
+
+{
+  "Phenotype": "Feeding difficulties",
+  "DiseaseCount": 4
+}
+
+{
+  "Phenotype": "Abnormal heart valve morphology",
+  "DiseaseCount": 3
+}
+
+{
+  "Phenotype": "Cleft palate",
+  "DiseaseCount": 3
+}
+
+{
+  "Phenotype": "Global developmental delay",
+  "DiseaseCount": 3
+}
+

@@ -1,0 +1,1 @@
+Identify the phenotypes of diseases that cause the disruption of GO terms whose label contains the word 'equilibrioception' and that have as a part biological processes whose label contains 'mechanical stimulus'. Return the labels of the phenotype, the disease, the GO term, and the biological process.

@@ -1,0 +1,25 @@
+{
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "coronary artery disorder"
+}
+
+{
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "congenital heart disease"
+}
+
+{
+  "Gene": "ABCG2",
+  "CardiovascularDisease": "congestive heart failure"
+}
+
+{
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "congestive heart failure"
+}
+
+{
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "coronary artery disease, autosomal dominant, 1"
+}
+

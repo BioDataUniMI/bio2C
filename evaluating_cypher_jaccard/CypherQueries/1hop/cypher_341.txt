@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE (p)-[:has_material_basis_in_germline_mutation_in]->(:miRNA) RETURN p.Label

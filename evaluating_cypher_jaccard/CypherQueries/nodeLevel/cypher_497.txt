@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'ribosomal' AND NOT syn CONTAINS 'pseudogene') RETURN g.Label

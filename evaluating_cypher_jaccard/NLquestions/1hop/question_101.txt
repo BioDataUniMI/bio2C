@@ -1,0 +1,1 @@
+Return the disease label, URI, and the Source, Method, and Context of the relationship 'miRNA 'hsa-miR-4271' - over-expressed in - disease'.

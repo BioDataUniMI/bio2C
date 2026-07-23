@@ -1,0 +1,1 @@
+Find cancers with label containing the word 'lipomatosis' that are linked to autoimmune diseases through shared phenotypic features. Return the autoimmune disease, shared phenotype, and cancer labels.

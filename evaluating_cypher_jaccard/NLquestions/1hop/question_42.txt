@@ -1,0 +1,1 @@
+Find phenotypes whose synonyms contain the Japanese expression '卵巣新生物' and are characterized by under-expressed miRNAs.

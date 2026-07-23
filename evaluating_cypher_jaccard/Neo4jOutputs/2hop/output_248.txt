@@ -1,0 +1,25 @@
+{
+  "Gene": "CCNG1",
+  "Disease": "lung neoplasm"
+}
+
+{
+  "Gene": "CCNG1",
+  "Disease": "lung cancer"
+}
+
+{
+  "Gene": "CCNG1",
+  "Disease": "lung carcinoma"
+}
+
+{
+  "Gene": "CCNG1",
+  "Disease": "lung benign neoplasm"
+}
+
+{
+  "Gene": "SYNCRIP",
+  "Disease": "leukemia"
+}
+

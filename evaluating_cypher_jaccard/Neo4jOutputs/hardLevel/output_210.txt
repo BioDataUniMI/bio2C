@@ -1,0 +1,21 @@
+{
+  "miRNA": "hsa-miR-1180-5p",
+  "Parent_miRNA": "microRNA hsa-mir-1180 precursor",
+  "num_A_miRNA": 5,
+  "num_A_parent": 5
+}
+
+{
+  "miRNA": "hsa-miR-5703",
+  "Parent_miRNA": "microRNA hsa-mir-5703 precursor",
+  "num_A_miRNA": 6,
+  "num_A_parent": 6
+}
+
+{
+  "miRNA": "hsa-miR-10398-3p",
+  "Parent_miRNA": "microRNA hsa-mir-10398 precursor",
+  "num_A_miRNA": 4,
+  "num_A_parent": 4
+}
+

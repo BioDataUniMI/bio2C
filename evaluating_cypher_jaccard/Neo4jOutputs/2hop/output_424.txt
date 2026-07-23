@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-542-5p",
+  "GOTerm": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-23a-5p",
+  "GOTerm": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-133a-3p",
+  "GOTerm": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "GOTerm": "vesicle"
+}
+

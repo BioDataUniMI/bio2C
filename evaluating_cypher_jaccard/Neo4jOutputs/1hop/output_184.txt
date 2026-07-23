@@ -1,0 +1,25 @@
+{
+  "Disease": "polyvalvular heart disease syndrome",
+  "Phenotype": "Abnormality of the skin"
+}
+
+{
+  "Disease": "structural heart defects and renal anomalies syndrome",
+  "Phenotype": "Preauricular skin tag"
+}
+
+{
+  "Disease": "lung agenesis-heart defect-thumb anomalies syndrome",
+  "Phenotype": "Preauricular skin tag"
+}
+
+{
+  "Disease": "congenital heart defects, dysmorphic facial features, and intellectual developmental disorder",
+  "Phenotype": "Redundant neck skin"
+}
+
+{
+  "Disease": "microcephaly-seizures-intellectual disability-heart disease syndrome",
+  "Phenotype": "Redundant neck skin"
+}
+

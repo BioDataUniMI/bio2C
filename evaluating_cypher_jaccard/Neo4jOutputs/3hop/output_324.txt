@@ -1,0 +1,24 @@
+{
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-27a-3p",
+  "SequenceLength": 21
+}
+
+{
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-216a-5p",
+  "SequenceLength": 22
+}
+
+{
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-550a-3p",
+  "SequenceLength": 22
+}
+
+{
+  "BiologicalProcess": "blood coagulation",
+  "miRNA": "hsa-miR-29b-3p",
+  "SequenceLength": 23
+}
+

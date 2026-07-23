@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases that share phenotypes whose label contains the word 'Hepatitis' with diseases whose label contains 'benign'. Return the label of the benign disease, shared phenotype, and neurodegenerative disease.

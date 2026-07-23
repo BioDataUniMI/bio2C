@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label: 'nucleoplasm'}) UNWIND m.Genomic_coordinates AS coord WITH m, coord WHERE coord STARTS WITH 'chr' WITH coord AS chromosome, COUNT(DISTINCT m) AS miRNA_count ORDER BY miRNA_count DESC LIMIT 1 RETURN chromosome AS Chromosome, miRNA_count

@@ -1,0 +1,1 @@
+MATCH (ph:Phenotype)<-[:disease_has_feature]-(card:Cardiovascular_disease)<-[:causes_or_contributes_to_condition]-(g:Gene {Label: 'ROCK2'})<-[:regulates_activity_of]-(m:miRNA) RETURN ph.Label AS Phenotype, card.Label AS CardiovascularDisease, g.Label AS Gene, m.Label AS miRNA

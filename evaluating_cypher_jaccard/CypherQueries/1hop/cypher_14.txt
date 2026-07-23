@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord STARTS WITH 'chr21') AND ANY(coord IN m2.Genomic_coordinates WHERE coord STARTS WITH 'chr21') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Genomic_coordinates AS miRNA_coords, m2.Genomic_coordinates AS parent_coords

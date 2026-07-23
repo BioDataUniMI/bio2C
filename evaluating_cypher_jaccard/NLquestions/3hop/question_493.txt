@@ -1,0 +1,1 @@
+Which cancers have a basis in somatic mutations in miRNAs shorter than 18 nucleotides that participate in biological processes involving miRNAs longer than 118 nucleotides?

@@ -1,0 +1,1 @@
+Find genes with a 12-character-long label that genetically interact with other genes contributing to cancers with a phenotype as a feature. Return gene1 label, gene2 label, cancer label, and feature phenotype label.

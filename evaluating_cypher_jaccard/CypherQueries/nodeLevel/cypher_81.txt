@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Description CONTAINS 'preribosom' RETURN cc.Label AS CellularComponent, cc.Description AS Description

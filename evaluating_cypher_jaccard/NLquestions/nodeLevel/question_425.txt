@@ -1,0 +1,1 @@
+Find how are classified (i.e., use LABELS(node)) GO terms whose labels contain 'genome' but do not contain either 'replication' or 'viral'.

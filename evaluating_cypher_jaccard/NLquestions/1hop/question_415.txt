@@ -1,0 +1,1 @@
+Return biological processes without any 'Biological_process-results_in->Biological_process' relationship and whose description contains both 'result in' and 'activated by'.

@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-548ad-3p"
+}
+
+{
+  "miRNA": "hsa-miR-548aj-3p"
+}
+
+{
+  "miRNA": "hsa-miR-548aq-3p"
+}
+
+{
+  "miRNA": "hsa-miR-548aw"
+}
+
+{
+  "miRNA": "hsa-miR-548au-5p"
+}
+

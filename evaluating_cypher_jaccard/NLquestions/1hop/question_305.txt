@@ -1,0 +1,1 @@
+Return phenotypes containing 'myopathy' in their labels that are characteristic of cellular components.

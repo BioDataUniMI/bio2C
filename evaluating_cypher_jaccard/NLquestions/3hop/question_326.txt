@@ -1,0 +1,1 @@
+Which cancers express miRNAs that participate in biological processes occurring in the cellular component labeled as 'intracellular anatomical structure'? Return the label of biological processes, miRNAs, and cancers.

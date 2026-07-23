@@ -1,0 +1,1 @@
+Which miRNAs participate in biological processes whose disruption is caused by diseases that have the phenotypes 'Downturned corners of mouth' or 'Abnormal foot morphology'? Return labels of the: phenotypes, diseases, disrupted biological processes, and miRNAs.

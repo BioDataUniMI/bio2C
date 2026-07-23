@@ -1,0 +1,1 @@
+MATCH (c1:Cancer)-[:disease_shares_features_of]->(c2:Cancer) MATCH (c2)-[:subclassof*10..]->(d:Disease) RETURN DISTINCT c1.Label AS cancer, c2.Label AS related_cancer, d.Label AS disease ORDER BY cancer, related_cancer, disease

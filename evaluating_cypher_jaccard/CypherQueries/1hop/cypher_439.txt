@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_has_basis_in_dysfunction_of]->(cc:Cellular_component) WHERE cc.Description CONTAINS 'eukaryotic cells' RETURN d.Label, cc.Label, cc.Description

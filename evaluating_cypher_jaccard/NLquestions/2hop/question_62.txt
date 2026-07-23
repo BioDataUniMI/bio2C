@@ -1,0 +1,1 @@
+Identify, for the cancer labeled as 'hamartoma', the expressed miRNAs, the cellular components they are related to, and the type of association (e.g., located in, part of, or active in).

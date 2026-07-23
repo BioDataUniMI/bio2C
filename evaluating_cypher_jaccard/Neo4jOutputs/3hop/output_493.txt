@@ -1,0 +1,28 @@
+{
+  "CancerName": "hepatocellular carcinoma",
+  "ShortMiRNA": "hsa-miR-302f",
+  "BiologicalProcessName": "apoptotic process",
+  "LongMiRNA": "microRNA hsa-mir-98 precursor"
+}
+
+{
+  "CancerName": "hepatocellular carcinoma",
+  "ShortMiRNA": "hsa-miR-302f",
+  "BiologicalProcessName": "apoptotic process",
+  "LongMiRNA": "microRNA hsa-mir-133b precursor"
+}
+
+{
+  "CancerName": "carcinoma of liver and intrahepatic biliary tract",
+  "ShortMiRNA": "hsa-miR-302f",
+  "BiologicalProcessName": "apoptotic process",
+  "LongMiRNA": "microRNA hsa-mir-98 precursor"
+}
+
+{
+  "CancerName": "carcinoma of liver and intrahepatic biliary tract",
+  "ShortMiRNA": "hsa-miR-302f",
+  "BiologicalProcessName": "apoptotic process",
+  "LongMiRNA": "microRNA hsa-mir-133b precursor"
+}
+

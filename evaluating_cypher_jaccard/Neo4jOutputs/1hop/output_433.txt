@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Childhood onset",
+  "Disease": "chilblain lupus 2"
+}
+
+{
+  "Phenotype": "Childhood onset",
+  "Disease": "chilblain lupus 1"
+}
+
+{
+  "Phenotype": "Childhood onset",
+  "Disease": "familial chilblain lupus"
+}
+
+{
+  "Phenotype": "Childhood onset",
+  "Disease": "autosomal systemic lupus erythematosus type 16"
+}
+

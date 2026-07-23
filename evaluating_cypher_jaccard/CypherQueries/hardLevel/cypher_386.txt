@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE SIZE(g.Sequence) < 50 RETURN g.Label AS Gene, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'A']) AS A_Count, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'T']) AS T_Count, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'C']) AS C_Count, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'G']) AS G_Count

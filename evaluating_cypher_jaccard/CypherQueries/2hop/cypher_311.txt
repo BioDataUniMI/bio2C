@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:enables]->(mf:Molecular_function) RETURN mf.Label AS MolecularFunction, m.Label AS miRNA, c.Label AS Cancer

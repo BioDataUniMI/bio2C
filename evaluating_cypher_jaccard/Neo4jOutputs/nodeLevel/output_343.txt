@@ -1,0 +1,45 @@
+{
+  "DiseaseLabel": "pericardial tuberculosis",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "bacterial endocarditis",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "subacute bacterial endocarditis",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "viral myocarditis",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "diphtheritic myocarditis",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease",
+    "Infectious_disease"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Given the precursor miRNA 'microRNA hsa-mir-200c precursor', which miRNAs develop from it? In which cellular components are those miRNAs located? Finally, which GO terms are adjacent to those components? Return developing miRNA labels, component lables, and the entire node for the GO term.

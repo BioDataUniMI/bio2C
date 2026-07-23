@@ -1,0 +1,20 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionSource": [
+    "miR2Disease"
+  ],
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "RegulationSource": [
+    "miRTarBase"
+  ],
+  "RegulationMethod": [
+    "",
+    "luciferase reporter assay",
+    "western blotting"
+  ]
+}
+

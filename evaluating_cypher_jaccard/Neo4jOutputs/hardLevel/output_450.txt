@@ -1,0 +1,10 @@
+{
+  "miRNA": "hsa-miR-6089",
+  "gPct": 0.75
+}
+
+{
+  "miRNA": "hsa-miR-3960",
+  "gPct": 0.75
+}
+

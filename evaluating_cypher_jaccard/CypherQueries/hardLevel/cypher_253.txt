@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'cytoplasm' AND NONE(x IN [(m)-[:located_in]->(y:Cellular_component) | y.Label] WHERE toLower(x) CONTAINS 'nucleus') RETURN DISTINCT m.Label AS miRNA

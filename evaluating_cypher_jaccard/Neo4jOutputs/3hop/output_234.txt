@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-630",
+  "Pre_miRNA": "microRNA hsa-mir-630 precursor",
+  "Gene": "MIR630"
+}
+
+{
+  "miRNA": "hsa-miR-365a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-365a precursor",
+  "Gene": "MIR365A"
+}
+
+{
+  "miRNA": "hsa-miR-365a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-365b precursor",
+  "Gene": "MIR365B"
+}
+

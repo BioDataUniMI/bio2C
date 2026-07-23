@@ -1,0 +1,1 @@
+List precursor miRNAs whose genomic coordinates include chromosome X entries (starting with 'chrX') and whose sequences end with 'AU'.

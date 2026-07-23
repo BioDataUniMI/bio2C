@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_active_in]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOterm

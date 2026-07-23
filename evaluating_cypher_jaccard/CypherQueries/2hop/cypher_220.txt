@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Coxa valga'})<-[:has_phenotype]-(nd:Neurodegenerative_disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process) RETURN nd.Label AS NeurodegenerativeDisease, bp.Label AS BiologicalProcess

@@ -1,0 +1,30 @@
+{
+  "Gene1": "GAGE12D",
+  "Gene2": "GAGE12C",
+  "Sequence_Length": 7362
+}
+
+{
+  "Gene1": "CKMT1B",
+  "Gene2": "CKMT1B",
+  "Sequence_Length": 11848
+}
+
+{
+  "Gene1": "SSX4",
+  "Gene2": "SSX4",
+  "Sequence_Length": 9832
+}
+
+{
+  "Gene1": "FAM156A",
+  "Gene2": "FAM156A",
+  "Sequence_Length": 69071
+}
+
+{
+  "Gene1": "MAGED4",
+  "Gene2": "MAGED4B",
+  "Sequence_Length": 7393
+}
+

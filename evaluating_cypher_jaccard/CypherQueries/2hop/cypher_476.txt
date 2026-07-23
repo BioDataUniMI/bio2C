@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:starts_with]->(go1:GO), (bp)-[:ends_with]->(go2:GO) RETURN bp.Label AS Biological_Process, go1.Label AS Starts_With_GO, go2.Label AS Ends_With_GO

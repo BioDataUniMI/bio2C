@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:causes_or_contributes_to_condition]->(d1:Disease)-[:predisposes_towards]->(d2:Disease) RETURN d1.Label AS Disease, d2.Label AS PredisposedDisease, COUNT(DISTINCT p) AS Pre_miRNA_Count ORDER BY Pre_miRNA_Count DESC, Disease ASC LIMIT 10

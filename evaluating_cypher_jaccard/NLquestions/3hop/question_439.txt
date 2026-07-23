@@ -1,0 +1,1 @@
+Which cancers having the phenotype labeled as 'Malar prominence' express miRNAs that enable the molecular function labeled as 'mRNA base-pairing translational repressor activity'? Return the miRNA label and the cancer label.

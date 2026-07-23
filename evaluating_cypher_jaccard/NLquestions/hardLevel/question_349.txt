@@ -1,0 +1,1 @@
+Which autoimmune disease-cancer pair(s) share the maximum number of phenotypes (including ties)? Return the autoimmune disease label, the cancer label, and the number of shared phenotypes.

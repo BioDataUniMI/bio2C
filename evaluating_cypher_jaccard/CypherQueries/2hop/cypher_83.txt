@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label: 'Frontotemporal dementia'})-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) RETURN m.Label AS miRNA, g.Label AS Gene

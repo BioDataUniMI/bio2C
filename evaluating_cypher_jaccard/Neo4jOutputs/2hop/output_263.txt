@@ -1,0 +1,30 @@
+{
+  "Disease": "bronchial endocrine tumor",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p"
+}
+
+{
+  "Disease": "bronchial endocrine tumor",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Disease": "bronchial endocrine tumor",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p"
+}
+
+{
+  "Disease": "bronchial endocrine tumor",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-5p"
+}
+
+{
+  "Disease": "bronchial endocrine tumor",
+  "Phenotype": "Asthma",
+  "miRNA": "microRNA hsa-mir-148a precursor"
+}
+

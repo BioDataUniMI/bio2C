@@ -1,0 +1,65 @@
+{
+  "Phenotype": "Tessier number 6 facial cleft",
+  "Synonyms": [
+    "泰西耶（Tessier） 6型面裂",
+    "テシエ6番顔面裂",
+    "Hendidura facial tipo Tessier 6",
+    "Rozštěp číslo 6 podle Tessierovy klasifikace kraniofaciálních rozštěpů",
+    "Aangezichtsspleet Tessier nummer 6",
+    "Tessier 6 numara yüz yarığı",
+    "Fente faciale de Tessier numéro 6"
+  ]
+}
+
+{
+  "Phenotype": "Tessier number 4 facial cleft",
+  "Synonyms": [
+    "Tessier 4 numara yüz yarığı",
+    "Aangezichtsspleet Tessier nummer 4",
+    "Hendidura facial tipo Tessier 4",
+    "Fente faciale Tessier numéro 4",
+    "テシエ4番顔面裂",
+    "Rozštěp číslo 4 podle Tessierovy klasifikace kraniofaciálních rozštěpů",
+    "泰西耶（Tessier）4型面裂"
+  ]
+}
+
+{
+  "Phenotype": "Tessier number 3 facial cleft",
+  "Synonyms": [
+    "Hendidura facial tipo Tessier 3",
+    "Fente faciale de Tessier numéro 3",
+    "Rozštěp číslo 3 podle Tessierovy klasifikace kraniofaciálních rozštěpů",
+    "Tessier 3 numara yüz yarığı",
+    "泰西耶（Tessier）3型面裂",
+    "テシエ3号顔面裂",
+    "Aangezichtsspleet Tessier nummer 3"
+  ]
+}
+
+{
+  "Phenotype": "Tessier number 7 facial cleft",
+  "Synonyms": [
+    "泰西耶（Tessier）7型面裂",
+    "Rozštěp číslo 7 podle Tessierovy klasifikace kraniofaciálních rozštěpů",
+    "Fente faciale de Tessier numéro 7",
+    "Aangezichtsspleet Tessier nummer 7",
+    "Hendidura facial tipo Tessier 7",
+    "Tessier 7 numara yüz yarığı",
+    "テシエ7番顔面裂"
+  ]
+}
+
+{
+  "Phenotype": "Tessier number 2 facial cleft",
+  "Synonyms": [
+    "Tessier 2 numara yüz yarığı",
+    "Hendidura facial tipo Tessier 2",
+    "Rozštěp číslo 2 podle Tessierovy klasifikace kraniofaciálních rozštěpů",
+    "Tessier第2顔面裂",
+    "Aangezichtsspleet Tessier nummer 2",
+    "Fente faciale de Tessier numéro 2",
+    "Tessier 2型面部裂"
+  ]
+}
+

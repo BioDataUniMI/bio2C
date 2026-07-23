@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:realized_in]->(bp:Biological_process)-[:has_participant]->(m:miRNA) RETURN c.Label AS Cancer, COUNT(DISTINCT m) AS miRNAsViaProcesses

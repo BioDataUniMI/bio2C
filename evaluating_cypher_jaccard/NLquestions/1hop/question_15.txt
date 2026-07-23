@@ -1,0 +1,1 @@
+Find the average length of miRNAs that develop from another miRNA. Compute also the average length of the latter.

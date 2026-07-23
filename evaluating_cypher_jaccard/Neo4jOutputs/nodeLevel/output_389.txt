@@ -1,0 +1,9 @@
+{
+  "n": {
+    "Description": "a radiculopathy that is present in more than one nerve.",
+    "Label": "polyradiculopathy",
+    "ID": "MONDO:0002960",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0002960"
+  }
+}
+

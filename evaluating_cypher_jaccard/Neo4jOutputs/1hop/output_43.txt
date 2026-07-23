@@ -1,0 +1,71 @@
+{
+  "Phenotype_ID": "HP:0100615",
+  "Phenotype_label": "Ovarian neoplasm",
+  "Phenotype_synonyms": [
+    "卵巢肿瘤",
+    "Ovarieel neoplasma",
+    "Novotvar vaječníku",
+    "Neoplasia de ovario",
+    "卵巣新生物",
+    "Néoplasie de l'ovaire",
+    "Over neoplazmı"
+  ]
+}
+
+{
+  "Phenotype_ID": "HP:0030153",
+  "Phenotype_label": "Cholangiocarcinoma",
+  "Phenotype_synonyms": [
+    "Karcinom žlučových cest",
+    "Kolanjiyokarsinom",
+    "Cholangiocarcinoom",
+    "胆管癌",
+    "Colangiocarcinoma",
+    "Cholangiocarcinome"
+  ]
+}
+
+{
+  "Phenotype_ID": "HP:0030357",
+  "Phenotype_label": "Small cell lung carcinoma",
+  "Phenotype_synonyms": [
+    "Kleincellig longcarcinoom",
+    "Malobuněčný karcinom plic",
+    "Carcinoma de pulmón de células pequeñas",
+    "小細胞肺がん",
+    "Carcinome pulmonaire à petites cellules",
+    "小细胞肺癌",
+    "Küçük hücreli akciğer karsinomu"
+  ]
+}
+
+{
+  "Phenotype_ID": "HP:0001635",
+  "Phenotype_label": "Congestive heart failure",
+  "Phenotype_synonyms": [
+    "Konjestif kalp yetmezliği",
+    "Insufficienza cardiaca congestizia",
+    "Městnavé srdeční selhání",
+    "充血性心力衰竭",
+    "Congestieve hartfalen",
+    "Insuffisance cardiaque congestive",
+    "Insuficiencia cardíaca congestiva",
+    "Kongestive Herzinsuffizienz",
+    "うっ血性心不全"
+  ]
+}
+
+{
+  "Phenotype_ID": "HP:0012191",
+  "Phenotype_label": "B-cell lymphoma",
+  "Phenotype_synonyms": [
+    "Linfoma de células B",
+    "Lymphome b",
+    "B-cell lymfoom",
+    "B-細胞リンパ腫",
+    "B hücreli lenfoma",
+    "B细胞淋巴瘤",
+    "B-buněčný lymfom"
+  ]
+}
+

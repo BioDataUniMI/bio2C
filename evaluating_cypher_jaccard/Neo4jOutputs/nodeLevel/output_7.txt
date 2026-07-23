@@ -1,0 +1,20 @@
+{
+  "MolecularFunction": "receptor signaling protein tyrosine kinase activator activity"
+}
+
+{
+  "MolecularFunction": "protein tyrosine kinase activator activity"
+}
+
+{
+  "MolecularFunction": "kinase activator activity"
+}
+
+{
+  "MolecularFunction": "protein kinase activator activity"
+}
+
+{
+  "MolecularFunction": "cyclin-dependent protein serine/threonine kinase activator activity"
+}
+

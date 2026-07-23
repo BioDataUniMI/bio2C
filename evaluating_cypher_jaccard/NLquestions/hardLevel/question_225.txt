@@ -1,0 +1,1 @@
+List each infectious disease along with all miRNAs that are under-expressed in it. Return the disease label, list of miRNAs, and number of miRNAs.

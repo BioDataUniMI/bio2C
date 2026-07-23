@@ -1,0 +1,15 @@
+{
+  "Biological_Process": "zinc ion import into Golgi lumen",
+  "Cellular_Component": "Golgi membrane"
+}
+
+{
+  "Biological_Process": "UDP-galactose transmembrane import into Golgi lumen",
+  "Cellular_Component": "Golgi membrane"
+}
+
+{
+  "Biological_Process": "GDP-fucose import into Golgi lumen",
+  "Cellular_Component": "Golgi membrane"
+}
+

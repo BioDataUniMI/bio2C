@@ -1,0 +1,1 @@
+MATCH (g1:GO)-[r:results_in_organization_of]->(g2:GO) WHERE ANY(src IN r.Source WHERE src = 'Uberon') RETURN g1.Label, g2.Label, r.Source

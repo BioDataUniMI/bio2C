@@ -1,0 +1,25 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "Gene": "CCNG1"
+}
+
+{
+  "Cancer": "adenoma",
+  "Gene": "CCNG1"
+}
+
+{
+  "Cancer": "sarcoma",
+  "Gene": "CCNG1"
+}
+
+{
+  "Cancer": "lipoma",
+  "Gene": "CCNG1"
+}
+
+{
+  "Cancer": "hamartoma",
+  "Gene": "CCNG1"
+}
+

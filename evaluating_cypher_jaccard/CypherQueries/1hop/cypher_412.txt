@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_characteristic]->(x) RETURN HEAD(LABELS(x)) AS NodeType, COUNT(*) AS ConnectionCount ORDER BY ConnectionCount DESC

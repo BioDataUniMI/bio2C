@@ -1,0 +1,1 @@
+MATCH (go:GO)-[r:regulates]->(mf:Molecular_function {Label:'catalytic activity'}) WITH go, r.Source AS Source ORDER BY Source, go.Label RETURN COLLECT(DISTINCT go.Label) AS GOTerms

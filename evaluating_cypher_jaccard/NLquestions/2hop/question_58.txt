@@ -1,0 +1,1 @@
+Find the 5 weakest (lowest GeneMANIA weight) genetic interactions between a gene with activity regulated by a miRNA and another gene. Return the miRNA, the regulated gene, the interacting gene, and the GeneMANIA interaction weight.

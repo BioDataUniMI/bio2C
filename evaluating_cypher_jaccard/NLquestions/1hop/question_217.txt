@@ -1,0 +1,1 @@
+Which miRNAs act upstream of GO or biological process terms mentioning 'cell cycle' in their labels? Return miRNAs' labels and all properties of GO or biological process (i.e., return the entire node for biological processes and GOs).

@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'breast' AND d.Description CONTAINS 'uncommon neoplasms' RETURN d.Label AS Disease, d.Description AS Description

@@ -1,0 +1,12 @@
+{
+  "CellularComponent": "synaptic vesicle",
+  "cc.Description": "a secretory organelle, typically 50 nm in diameter, of presynaptic nerve terminals; accumulates i...",
+  "cc.ID": "GO:0008021"
+}
+
+{
+  "CellularComponent": "host cell synaptic vesicle",
+  "cc.Description": "a secretory organelle of a host cell, some 50 nm in diameter, of presynaptic nerve terminals; acc...",
+  "cc.ID": "GO:0098584"
+}
+

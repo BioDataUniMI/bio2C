@@ -1,0 +1,1 @@
+Which pre-miRNAs develop into the 'hsa-miR-20a-5p' miRNA where the latter regulates genes causing or contributing to diseases whose labels contain 'bone osteosarcoma'? Return pre-miRNA/gene/disease labels and include also the synonyms of the genes.

@@ -1,0 +1,1 @@
+List miRNAs whose sequence ends with 'U' and that have at least one relationship with a PubMedID list containing 50 or more PubMed IDs. Return the miRNA label, sequence, the relationship type, and that relationship’s PubMed IDs.

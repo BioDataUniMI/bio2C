@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-197-3p",
+  "CellularComponent": "mitochondrial membrane"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "CellularComponent": "mitochondrial membrane"
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "CellularComponent": "mitochondrial membrane"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "CellularComponent": "mitochondrial permeability transition pore complex"
+}
+

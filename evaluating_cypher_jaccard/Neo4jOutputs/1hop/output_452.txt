@@ -1,0 +1,8 @@
+{
+  "cc.Label": "cell nucleus",
+  "cc.Synonym": [
+    "nucleus"
+  ],
+  "g.Label": "nuclear outer membrane"
+}
+

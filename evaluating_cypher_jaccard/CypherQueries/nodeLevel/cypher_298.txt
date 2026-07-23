@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE any(syn IN g.Synonym WHERE syn CONTAINS 'α' OR syn CONTAINS 'β' OR syn CONTAINS 'ɣ') RETURN g.Label AS GeneLabel, [syn IN g.Synonym WHERE syn CONTAINS 'α' OR syn CONTAINS 'β' OR syn CONTAINS 'ɣ'] AS GreekSymbolSynonyms

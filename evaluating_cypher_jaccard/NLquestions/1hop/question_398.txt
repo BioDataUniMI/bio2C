@@ -1,0 +1,1 @@
+Which human genes whose label starts with 'MIR43' transcribe a miRNA? Return only the distinct gene labels.

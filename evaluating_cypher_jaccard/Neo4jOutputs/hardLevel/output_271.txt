@@ -1,0 +1,30 @@
+{
+  "Cancer_label": "colorectal carcinoma",
+  "pre_miRNA": "microRNA hsa-mir-1307 precursor",
+  "sequence_length": 149
+}
+
+{
+  "Cancer_label": "colorectal cancer",
+  "pre_miRNA": "microRNA hsa-mir-1307 precursor",
+  "sequence_length": 149
+}
+
+{
+  "Cancer_label": "exocrine pancreatic carcinoma",
+  "pre_miRNA": "microRNA hsa-mir-1307 precursor",
+  "sequence_length": 149
+}
+
+{
+  "Cancer_label": "malignant glioma",
+  "pre_miRNA": "microRNA hsa-mir-1294 precursor",
+  "sequence_length": 142
+}
+
+{
+  "Cancer_label": "glioma",
+  "pre_miRNA": "microRNA hsa-mir-1294 precursor",
+  "sequence_length": 142
+}
+

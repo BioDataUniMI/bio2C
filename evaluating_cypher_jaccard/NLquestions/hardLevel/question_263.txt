@@ -1,0 +1,1 @@
+Find all genes whose activity are regulated by at least 100 different miRNAs. Return gene label and the number of regulating miRNAs.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:in_homology_relationship_with]->(pre:pre_miRNA {Label:'microRNA hsa-mir-374b precursor'})-[:causes_or_contributes_to_condition]->(d:Disease)-[:disease_causes_disruption_of]->(mf:Molecular_function) RETURN m.Label AS miRNA, d.Label AS disease, mf AS disrupted_molecular_function

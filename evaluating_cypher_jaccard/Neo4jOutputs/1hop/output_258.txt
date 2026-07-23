@@ -1,0 +1,40 @@
+{
+  "Gene": "MIR1267",
+  "GeneCoords": [
+    "chr13:107531171-107531248-"
+  ],
+  "miRNA": "microRNA hsa-mir-1267 precursor"
+}
+
+{
+  "Gene": "MIR8073",
+  "GeneCoords": [
+    "chr13:110340958-110341029+"
+  ],
+  "miRNA": "microRNA hsa-mir-8073 precursor"
+}
+
+{
+  "Gene": "MIR3665",
+  "GeneCoords": [
+    "chr13:77698012-77698116-"
+  ],
+  "miRNA": "microRNA hsa-mir-3665 precursor"
+}
+
+{
+  "Gene": "MIR548AS",
+  "GeneCoords": [
+    "chr13:92490163-92490220+"
+  ],
+  "miRNA": "microRNA hsa-mir-548as precursor"
+}
+
+{
+  "Gene": "MIR8075",
+  "GeneCoords": [
+    "chr13:113262920-113262999+"
+  ],
+  "miRNA": "microRNA hsa-mir-8075 precursor"
+}
+

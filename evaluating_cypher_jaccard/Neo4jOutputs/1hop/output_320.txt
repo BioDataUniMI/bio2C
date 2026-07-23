@@ -1,0 +1,20 @@
+{
+  "d.Label": "incessant infant ventricular tachycardia"
+}
+
+{
+  "d.Label": "multifocal atrial tachycardia"
+}
+
+{
+  "d.Label": "catecholaminergic polymorphic ventricular tachycardia 3"
+}
+
+{
+  "d.Label": "ventricular tachycardia, catecholaminergic polymorphic 6"
+}
+
+{
+  "d.Label": "catecholaminergic polymorphic ventricular tachycardia 1"
+}
+

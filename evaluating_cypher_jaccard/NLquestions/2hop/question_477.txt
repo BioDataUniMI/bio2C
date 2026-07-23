@@ -1,0 +1,1 @@
+Find all miRNAs where a biological process starts with a molecular function and the molecular function is function of the miRNA. Return the label of the biological process, the molecular function, and the miRNA.

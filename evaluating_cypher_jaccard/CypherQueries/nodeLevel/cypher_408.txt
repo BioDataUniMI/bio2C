@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE bp.Description CONTAINS 'level of the cell' RETURN bp.Label, bp.URI

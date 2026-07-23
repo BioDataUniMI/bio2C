@@ -1,0 +1,30 @@
+{
+  "Disease": "hyper-IgE syndrome 6, autosomal dominant, with recurrent infections",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Disease": "respiratory infections, recurrent, and failure to thrive with or without diarrhea",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Disease": "hyper-IgE recurrent infection syndrome 4A, autosomal dominant",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Disease": "recurrent infections associated with rare immunoglobulin isotypes deficiency",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Disease": "hyper-IgE recurrent infection syndrome 1, autosomal dominant",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+

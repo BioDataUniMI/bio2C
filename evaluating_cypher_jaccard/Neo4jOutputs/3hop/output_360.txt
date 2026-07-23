@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR365A",
+  "Pre_miRNA": "microRNA hsa-mir-365a precursor",
+  "Mature_miRNA": "hsa-miR-365a-3p",
+  "TargetGene": "DYNLL1P6"
+}
+
+{
+  "Gene": "MIR365A",
+  "Pre_miRNA": "microRNA hsa-mir-365a precursor",
+  "Mature_miRNA": "hsa-miR-365a-3p",
+  "TargetGene": "KRT18P6"
+}
+
+{
+  "Gene": "MIR4524A",
+  "Pre_miRNA": "microRNA hsa-mir-4524a precursor",
+  "Mature_miRNA": "hsa-miR-4524a-5p",
+  "TargetGene": "SMG1P6"
+}
+
+{
+  "Gene": "MIR4524A",
+  "Pre_miRNA": "microRNA hsa-mir-4524a precursor",
+  "Mature_miRNA": "hsa-miR-4524a-5p",
+  "TargetGene": "RPL5P6"
+}
+
+{
+  "Gene": "MIR4524A",
+  "Pre_miRNA": "microRNA hsa-mir-4524a precursor",
+  "Mature_miRNA": "hsa-miR-4524a-5p",
+  "TargetGene": "EIF4BP6"
+}
+

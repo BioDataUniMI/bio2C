@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Sequence": "CUAUACAAUCUACUGUCUUUC"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Sequence": "CUAUACAAUCUACUGUCUUUC"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Sequence": "CUAUACAAUCUACUGUCUUUC"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Sequence": "CUAUACAAUCUACUGUCUUUC"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Sequence": "CUAUACAAUCUACUGUCUUUC"
+}
+

@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "Cancer": "acute myeloid leukemia",
+  "Phenotype": "Anemia"
+}
+
+{
+  "Pre_miRNA": "let-7f-2 stem-loop (hsa-let-7f-2)",
+  "Cancer": "acute myeloid leukemia",
+  "Phenotype": "Anemia"
+}
+
+{
+  "Pre_miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "Cancer": "acute myeloid leukemia",
+  "Phenotype": "Anemia"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-203a precursor",
+  "Cancer": "acute myeloid leukemia",
+  "Phenotype": "Anemia"
+}
+
+{
+  "Pre_miRNA": "let-7b stem-loop (hsa-let-7b)",
+  "Cancer": "acute myeloid leukemia",
+  "Phenotype": "Anemia"
+}
+

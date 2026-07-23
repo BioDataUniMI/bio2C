@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "left anterior basal body",
+  "Description": "any ciliary basal body that is part of a left anterior flagellum found in giardia species (tropho..."
+}
+
+{
+  "CellularComponent": "ventral disc dorsal microribbon",
+  "Description": "trilaminar structure extending perpendicularly into the cytoplasm along the length of ventral dis..."
+}
+
+{
+  "CellularComponent": "right tetrad",
+  "Description": "set of four basal bodies found in giardia species (trophozoite stage). it comprises the right lat..."
+}
+
+{
+  "CellularComponent": "left lateral basal body pair",
+  "Description": "set of two basal bodies found in giardia species (trophozoite stage). it comprises the anterior a..."
+}
+
+{
+  "CellularComponent": "ventral disc lateral crest",
+  "Description": "fibrillar repetitive structure surrounding the ventral disc edge in giardia species (trophozoite ..."
+}
+

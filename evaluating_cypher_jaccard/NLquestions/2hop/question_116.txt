@@ -1,0 +1,1 @@
+Identify human miRNAs that regulate the activity of genes which cause or contribute to cancers whose description contains the word 'malignant', and return the label of: the miRNA, the gene, and the cancer together with the cancer description

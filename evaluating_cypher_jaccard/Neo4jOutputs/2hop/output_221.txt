@@ -1,0 +1,10 @@
+{
+  "AutoimmuneDisease": "allergic cutaneous vasculitis",
+  "BiologicalProcess": "type I hypersensitivity"
+}
+
+{
+  "AutoimmuneDisease": "hypersensitivity vasculitis",
+  "BiologicalProcess": "hypersensitivity"
+}
+

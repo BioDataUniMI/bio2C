@@ -1,0 +1,45 @@
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA_Label": "hsa-miR-519c-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr19:53686522-53686543+"
+  ]
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA_Label": "hsa-miR-130a-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr11:57641252-57641273+"
+  ]
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA_Label": "hsa-miR-20a-5p",
+  "miRNA_Genomic_coordinates": [
+    "chr13:91351072-91351094+"
+  ]
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA_Label": "hsa-miR-34a-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr1:9151693-9151714-"
+  ]
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA_Label": "hsa-miR-22-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr17:1713914-1713935-"
+  ]
+}
+

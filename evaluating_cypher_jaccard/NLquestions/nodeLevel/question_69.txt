@@ -1,0 +1,1 @@
+List phenotypes whose labels contain 'myopathy' and that have at least one synonym containing 'minicore'.

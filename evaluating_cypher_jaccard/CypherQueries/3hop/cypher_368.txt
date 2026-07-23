@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label: 'hsa-miR-486-5p'})-[:regulates_activity_of]->(g1:Gene {Label: 'ABCF2'})-[:genetically_interacts_with]->(g2:Gene {Label: 'TGFB1'})-[:causes_or_contributes_to_condition]->(d:Disease) RETURN COUNT(DISTINCT d) AS DiseaseCount

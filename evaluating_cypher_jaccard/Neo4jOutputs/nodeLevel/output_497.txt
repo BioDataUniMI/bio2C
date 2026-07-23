@@ -1,0 +1,20 @@
+{
+  "g.Label": "RACK1"
+}
+
+{
+  "g.Label": "EMG1"
+}
+
+{
+  "g.Label": "LACTB"
+}
+
+{
+  "g.Label": "RPL3P2"
+}
+
+{
+  "g.Label": "RPL23AP7"
+}
+

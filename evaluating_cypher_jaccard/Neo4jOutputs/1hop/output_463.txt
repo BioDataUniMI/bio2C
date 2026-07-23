@@ -1,0 +1,7 @@
+{
+  "ad.Label": "pemphigus",
+  "ad.URI": "http://purl.obolibrary.org/obo/MONDO_0006594",
+  "cc.Label": "desmosome",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0030057"
+}
+

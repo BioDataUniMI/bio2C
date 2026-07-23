@@ -1,0 +1,1 @@
+Which miRNAs have the highest percentage of the motif 'AAAA' in their sequence (return all ties)?

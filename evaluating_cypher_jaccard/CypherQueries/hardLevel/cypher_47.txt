@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE toLower(g.Label) = 'ccng1' WITH m, g, SIZE(SPLIT(m.Sequence, 'U')) - 1 AS U_Count, SIZE(SPLIT(g.Sequence, 'T')) - 1 AS T_Count RETURN DISTINCT m.Label AS miRNA, g.Label AS TargetGene, U_Count AS miRNA_U_Count, T_Count AS Gene_T_Count ORDER BY U_Count DESC

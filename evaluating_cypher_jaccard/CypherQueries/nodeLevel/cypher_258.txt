@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE SIZE(m.Genomic_coordinates) > 6 RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

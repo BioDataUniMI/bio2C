@@ -1,0 +1,2272 @@
+[
+   
+    { 
+     "question": "Which genes have label that starts with 'MIR43'?",
+      "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR43' RETURN g.Label AS Gene"
+    },
+
+  {
+    "question": "Which Homo sapiens miRNAs start with 'hsa-miR-2' and have sequences exactly 23 nucleotides long?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-2' AND SIZE(m.Sequence) = 23 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+
+  {
+    "question": "Which GO terms have a label containing 'cell cycle g1' (case-insensitive)?",
+    "cypher": "MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'cell cycle g1' RETURN g.Label AS GOterm"
+  },
+  {
+    "question": "List molecular functions whose label ends with 'transporter binding' and that have a long description (more than 20 characters).",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label ENDS WITH 'transporter binding' AND SIZE(mf.Description) > 20 RETURN mf.Label AS MolecularFunction, mf.Description AS Description"
+  },
+  {
+    "question": "Which phenotypes include 'inflammation' in their label and have at least one synonym with no ASCII letters (A–Z, a-z)?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'inflammation' AND ANY(syn IN p.Synonym WHERE NOT syn =~ '.*[A-Za-z].*') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+
+  {
+    
+    "question": "Which diseases have a description that contains the word 'brain' and a label that contains 'virus'? Return the entire nodes (i.e., all their properties).",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'brain' AND d.Label CONTAINS 'virus' RETURN d"
+  },
+  {
+ 
+    "question": "Which molecular functions have labels containing 'kinase activator'?",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'kinase activator' RETURN mf.Label AS MolecularFunction"
+  },
+
+  {
+    "question": "Which human miRNAs starting with 'hsa-let-' have sequence lengths between 18 and 25 nucleotides?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-let-' AND SIZE(m.Sequence)>= 18 AND SIZE(m.Sequence) <= 25 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+
+  {
+    "question": "Which miRNAs have the genomic coordinates mapped to chromosome X and sequences ending with 'GA'?",
+    "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND m.Sequence ENDS WITH 'GA' RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+    "question": "Which genes with labels starting with 'MIR' that have genomic coordinates on chromosomes 1 or 2 have at least 5 synonyms?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR' AND SIZE(g.Synonym) >= 5 AND ANY(coord IN g.Genomic_coordinates WHERE coord =~ '^chr(1|2)(:.*)?$') RETURN g.Label AS Gene, g.Synonym AS Synonyms, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+    "question": "Which GO terms have label mentioning 'membrane' and description mentioning 'transport', and have at least one synonym?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'membrane' AND g.Description CONTAINS 'transport' AND SIZE(g.Synonym) >= 1 RETURN g.Label AS GOTermLabel, g.Description AS GOTermDescription, SIZE(g.Synonym) AS SynonymCount"
+  },
+  {
+    "question": "Which diseases contain 'thyroid' in their label and mention 'carcinoma' in their description?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'carcinoma' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+
+  {
+    "question": "Find cellular components whose description includes 'membrane vesicle'. Return only their labels.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Description CONTAINS 'membrane vesicle' RETURN cc.Label"
+  },
+  {
+
+    "question": "Identify diseases containing 'myocardial infarct' in their label.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'myocardial infarct' RETURN d.Label"
+  },
+  {
+    "question": "Return Homo sapiens miRNAs whose labels start with 'hsa-miR-1' and sequences end with 'GACU'.",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-1' AND m.Sequence ENDS WITH 'GACU' RETURN m.Label, m.Sequence"
+  },
+
+  {
+    "question": "Return GO terms whose labels contain 'kinase inhibitor' and do not contain 'protein'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'kinase inhibitor' AND NOT g.Label CONTAINS 'protein' RETURN g.Label"
+  },
+  {
+
+    "question": "List miRNAs with sequences of at least 100 nucleotides whose genomic coordinates start with 'chr7'.",
+    "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) >= 100 AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr7') RETURN m.Label, m.Genomic_coordinates"
+  },
+
+  {
+  
+    "question": "Which human miRNAs start with 'hsa-miR-1' and have sequences at least 25 nucleotides long?",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-1' AND SIZE(m.Sequence) >= 25 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  
+  },
+  {
+  
+    "question": "Which genes contain 'MIR1' (case-insensitive) in their label and have at least one genomic coordinate on chromosome 7?",
+    "cypher": "MATCH (g:Gene) WHERE toLower(g.Label) CONTAINS 'mir1' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+
+  },
+  {
+    "question": "Which GO terms have synonyms mentioning 'transport'? Return their labels and IDs.",
+    "cypher": "MATCH (g:GO) WHERE ANY(s IN g.Synonym WHERE s CONTAINS 'transport') RETURN g.Label AS GO, g.ID AS GO_ID"
+  },
+  {
+    "question": "Which phenotypes have labels containing 'skeletal' (case-insensitive) and exactly 4 synonyms recorded?",
+    "cypher": "MATCH (p:Phenotype) WHERE toLower(p.Label) CONTAINS 'skeletal' AND SIZE(p.Synonym) = 4 RETURN p.Label AS PhenotypeLabel, p.Synonym AS PhenotypeSynonym"
+  },
+  {
+    "question": "List cellular components whose labels end with 'membrane' and whose descriptions mention mitochondria.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label ENDS WITH 'membrane' AND cc.Description CONTAINS 'mitochondria' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+  {
+
+    "question": "Which human miRNAs start with 'hsa-miR-2' and have a sequence length of exactly 24 nucleotides?",
+    "cypher": "MATCH (m:miRNA {Species:'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-2' AND SIZE(m.Sequence) = 24 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+  {
+ 
+    "question": "List Homo sapiens precursor miRNAs whose label mentions '19b precursor'. Return only miRNAs' label and their IDs.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE p.Species = 'Homo sapiens' AND p.Label CONTAINS '19b precursor' RETURN p.Label AS pre_miRNA, p.ID AS ID"
+  },
+
+  {
+    "question": "Which diseases mention 'tachycardia' in their description?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'tachycardia' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+    "question": "Which cellular components have 'nucleus' in their label and mention 'membrane' in their description?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' AND cc.Description CONTAINS 'membrane' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+  {
+
+    "question": "Which human miRNAs have labels ending with 'b-3p' and sequences starting with 'A'?",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE m.Label ENDS WITH 'b-3p' AND m.Sequence STARTS WITH 'A' RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+  },
+  {
+    "question": "Which genes have labels starting with 'MIR4' and genomic coordinates starting with 'chr7:'?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR4' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7:') RETURN  g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+
+    "question": "Which diseases mention 'tachycardia' in their description and contain 'syndrome' in the label?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'tachycardia' AND d.Label CONTAINS 'syndrome' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+
+
+  {
+    "question": "Which infectious diseases have labels containing 'limbic encephalitis'?",
+    "cypher": "MATCH (id:Infectious_disease) WHERE id.Label CONTAINS 'limbic encephalitis' RETURN id.Label AS InfectiousDisease"
+  },
+  {
+    "question": "List Homo sapiens miRNAs starting with 'hsa-miR-19' whose sequence ends with 'A' and have genomic coordinates on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates).",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-19' AND m.Sequence ENDS WITH 'A' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates, m.Sequence AS Sequence"
+  },
+  {
+    "question": "Return GO terms whose Description mentions 'mitochondrial fission'.",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'mitochondrial fission' RETURN g.Label AS GOTerm, g.Description AS Description"
+
+  },
+  {
+    "question": "Which phenotypes with 'bone' in the label have no recorded synonyms?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'bone' AND (p.Synonym IS NULL OR SIZE(p.Synonym) = 0) RETURN p.Label AS Phenotype"
+  },
+  {
+    "question": "Retrieve cellular components with label containing 'nucleus' as a stand-alone word.",
+    "cypher": "MATCH (c:Cellular_component) WHERE c.Label =~ '(?i).*\\bnucleus\\b.*' RETURN c.Label AS CellularComponent"
+  },
+  {
+    "question": "List Homo sapiens miRNAs whose labels end with '3p' and have sequences at least 25 nucleotides long.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label ENDS WITH '3p' AND SIZE(m.Sequence) >= 25 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+  {
+    "question": "Which genes have at least 20 synonym at least one of them containing the substring 'kinase'? Return genes' label and synonyms.",
+    "cypher": "MATCH (g:Gene) WHERE SIZE(g.Synonym) >= 20 AND ANY(s IN g.Synonym WHERE s CONTAINS 'kinase') RETURN g.Label AS Gene, g.Synonym AS Synonyms"
+  },
+  {
+    "question": "Find GO terms whose descriptions mention 'transmembrane' and that have at least one synonym.",
+    "cypher": " MATCH (g:GO) WHERE g.Description CONTAINS 'transmembrane' AND SIZE(g.Synonym) > 0 RETURN g.Label AS GOTerm, g.Description AS Description, g.Synonym AS Synonyms"
+  },
+ 
+  {
+    "question": "Which diseases with labels containing 'cardiomyopathy' have descriptions that include 'myocardium'?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'cardiomyopathy' AND d.Description CONTAINS 'myocardium' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+
+    "question": "Which human miRNAs starting with 'hsa-miR-' followed by a number from 1 to 3, have sequences exactly 25 nucleotides long?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label =~ '^hsa-miR-[1-3].*' AND SIZE(m.Sequence) = 25 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+  },
+  {
+
+    "question": "Which diseases mention 'cardiac' in their description and include 'defect' in the label?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'cardiac' AND d.Label CONTAINS 'defect' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+
+    "question": "Which GO terms reference mitochondria in their label and mention 'protein complex' in their description?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'mitochondria' AND g.Description CONTAINS 'protein complex' RETURN g.Label AS GO, g.Description AS Description"
+  },
+  {
+
+    "question": "Which human genes with labels starting with 'MIR3' have genomic coordinates on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates)?",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR3' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+
+    "question": "Which phenotypes whose labels contain 'tumor' have at least 8 synonyms recorded?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'tumor' AND SIZE(p.Synonym) >= 8 RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+  {
+
+    "question": "Which human miRNAs are located on chromosome X (use the property 'Genomic_coordinates' and check if at least one item start with 'chrX') and have sequences ending with 'CU'?",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND m.Sequence ENDS WITH 'CU' RETURN DISTINCT m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+
+  },
+  {
+    "question": "Which diseases have labels containing 'dysplasia' and descriptions mentioning 'lethal skeletal'?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'dysplasia' AND d.Description CONTAINS 'lethal skeletal' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+    "question": "Find GO terms contain 'apoptosis' in their label.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'apoptosis' RETURN g.Label AS GOterm"
+  },
+  {
+    "question": "List human genes whose labels start with 'MIR' and have sequences longer than 200 nucleotides.",
+    "cypher": "MATCH (g:Gene {Species: 'Homo sapiens'}) WHERE g.Label STARTS WITH 'MIR' AND SIZE(g.Sequence) > 200 RETURN g.Label AS Gene, SIZE(g.Sequence) AS SequenceLength"
+  },
+  {
+    "question": "Return GO terms whose label contains 'co-transcription'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'co-transcription' RETURN g.Label AS GOterm"
+  },
+  {
+
+    "question": "Which diseases mention 'cerebellar vermis' in their descriptions?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'cerebellar vermis' RETURN d.Label AS Disease"
+
+  },
+  {
+  
+    "question": "List human miRNAs starting with 'hsa-miR-' whose sequence length is between 26 and 30 nucleotides.",
+    "cypher": "MATCH (m:miRNA {Species:'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-' AND SIZE(m.Sequence) >= 26 AND SIZE(m.Sequence) <= 30 RETURN  m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+  {
+    "question": "Identify the molecular functions whose labels spotlight 'kinase binding' but do not contain 'serine/threonine'.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'kinase binding' AND NOT mf.Label CONTAINS 'serine/threonine' RETURN mf.Label AS MolecularFunction"
+  },
+  {
+
+    "question": "Find cellular components that mention 'nucleus' in the label.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' RETURN cc.Label AS CellularComponent"
+  },
+  {
+  "question": "Which miRNAs starting with 'hsa-miR-2' and ending with 'a-3p' have sequences between 20 and 24 nucleotides long and contain 'AAA' or 'UUU'?",
+  "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-2' AND m.Label ENDS WITH 'a-3p' AND SIZE(m.Sequence) >= 20 AND SIZE(m.Sequence) <= 24 AND (m.Sequence CONTAINS 'AAA' OR m.Sequence CONTAINS 'UUU') RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length, m.Sequence AS Sequence"
+},
+  {
+ 
+    "question": "Retrieve human genes with labels starting with 'MIR2' that have genomic coordinates exclusively on chromosome 9.",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR2' AND ALL(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr9') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+
+    "question": "Which diseases have descriptions mentioning both 'brain' and 'tumor' but their label does not contain 'brain' (case-insensitive)?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'brain' AND d.Description CONTAINS 'tumor' AND NOT d.Label CONTAINS 'brain' RETURN  d.Label AS Disease, d.Description AS Description"
+  },
+
+  {
+  
+    "question": "Which GO terms are characterized by a 'Description' property containing the word 'synapt' at least 5 times? List only the GO labels.",
+    "cypher": "MATCH (g:GO) WHERE SIZE(split((g.Description), 'synapt')) - 1 >= 5 RETURN g.Label"
+  },
+  {
+    
+    "question": "Show all diseases whose description contains 'neuro' and whose label mentions 'dysplasia'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'neuro' AND d.Label CONTAINS 'dysplasia' RETURN d.Label AS Disease"
+  },
+  {
+
+    "question": "List all human miRNAs whose label starts with 'hsa-miR-13' and whose sequence ends with an 'A'.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-13' AND m.Sequence ENDS WITH 'A' RETURN m.Label AS miRNALabel, m.Sequence AS miRNASequence"
+  },
+  {
+
+    "question": "Find the molecular functions that hint 'stress stimuli' in their description. Return all nodes' property (i.e., the entire nodes).",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'stress stimuli' RETURN mf AS MolecularFunction"
+  
+  },
+  {
+ 
+    "question": "Which human genes starting with 'MIR8' have genomic coordinates exclusively on chromosome 2?",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR8' AND ALL(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr2') RETURN g.Label AS Gene, g.Genomic_coordinates"
+  },
+  {
+   
+    "question": "Which GO terms mention 'degranulation' in their label?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'degranulation' RETURN g.Label"
+  },
+
+  {
+    "question": "List diseases with 'connective tissue' mentioned in their label.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'connective tissue' RETURN d.Label"
+  },
+  {
+
+    "question": "Find the molecular functions whose descriptions mention 'acetylation'.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'acetylation' RETURN mf.Label, mf.Description"
+  },
+  {
+
+    "question": "Find cellular components with labels containing 'mitochondrial derivative'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondrial derivative' RETURN cc.Label AS CellularComponent"
+
+  },
+  {
+  "question": "List human miRNAs whose labels start with 'hsa-miR-', have sequences exactly 26 nucleotides long, and contain 'GGGG' or 'CCCC'.",
+  "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-' AND SIZE(m.Sequence) = 26 AND (m.Sequence CONTAINS 'GGGG' OR m.Sequence CONTAINS 'CCCC') RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+  {
+   
+    "question": "Return genes whose labels start with 'MIR31' and have genomic coordinates on chromosome 1 or 2 (using 'chr1:' and 'chr2:' to distinguish from decimal coordinates).",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR31' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chr2:') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+
+  },
+  {
+
+    "question": "Find GO terms whose labels mention 'transport of viral material t' and descriptions mention 'membrane'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'transport of viral material t' AND g.Description CONTAINS 'membrane' RETURN g.Label AS GO, g.Description AS Description"
+  },
+  {
+ 
+    "question": "Identify cellular components with labels containing 'mitochondr' and descriptions mentioning 'matrix'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondr' AND cc.Description CONTAINS 'matrix' RETURN cc.Label AS CellularComponent"
+  },
+  {
+  
+    "question": "List phenotypes whose labels contain 'myopathy' and that have at least one synonym containing 'minicore'.",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'myopathy' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'minicore') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+
+  },
+  {
+    "question": "Which human miRNA have sequence exactly 28 nucleotides long? Return only the miRNAs' label, sequence, and URI.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND SIZE(m.Sequence) = 28 RETURN m.Label, m.Sequence, m.URI"
+
+  },
+  {
+    "question": "What is the average sequence length of human miRNAs whose labels start with 'hsa-miR-2'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-2' RETURN AVG(SIZE(m.Sequence)) AS AvgLength"
+   },
+     {
+    "question": "What is the average sequence length of human miRNAs whose sequence ends with an 'A'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Sequence ENDS WITH 'A' RETURN AVG(SIZE(m.Sequence)) AS AvgLength"
+   },
+
+  {
+    "question": "List GO terms whose labels contain 'synapse-associated' and whose IDs start with 'GO:01'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'synapse-associated' AND g.ID STARTS WITH 'GO:01' RETURN g.Label AS GO, g.ID AS ID"
+  },
+
+  {
+
+    "question": "Identify phenotypes whose label contains 'cerebellar' and that have at least 10 synonyms.",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'cerebellar' AND SIZE(p.Synonym) >= 10 RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+  {
+  
+    "question": "Which phenotypes have 'cyst' in their label, have at least 10 synonyms, and include at least one synonym that contains non-ASCII letters (A-Z, a-z)?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'cyst' AND SIZE(p.Synonym) >= 10 AND ANY(s IN p.Synonym WHERE s =~ '.*[^a-zA-Z].*') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+   
+  },
+  {
+    "question": "List human genes whose labels begin with 'MIR7' and whose sequences exceed 120 nucleotides.",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR7' AND SIZE(g.Sequence) > 120 RETURN g.Label AS Gene, SIZE(g.Sequence) AS Length"
+  },
+
+  {
+    "question": "Which phenotypes contain the word 'amputation’ in their label and have synonyms?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'amputation' AND p.Synonym IS NOT NULL RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+
+  {
+  
+    "question": "Which diseases mention 'dysmorphisms' in their description?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'dysmorphisms' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+    "question": "List the label and the ID of all GO terms whose label contain 'apoptosis'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'apoptosis' RETURN g.Label, g.ID"
+  },
+  {
+  
+    "question": "Which molecular functions have descriptions matching a pattern that includes 'binding to mrna'?",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'binding to a mrna' RETURN mf.Label AS MolecularFunction, mf.Description AS Description"
+
+  },
+  {
+ 
+    "question": "List cellular components whose description mentions 'preribosom'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Description CONTAINS 'preribosom' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+
+  },
+  {
+
+    "question": "Which miRNAs have sequence length exactly 20 nucleotides and their sequences contains 'GGG' and 'AAA'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'GGG' AND m.Sequence CONTAINS 'AAA' AND SIZE(m.Sequence) = 20 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+  },
+   {
+
+    "question": "How many miRNAs have sequence length exactly 20 nucleotides?",
+     "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) = 20 RETURN COUNT(m) AS NumberOfmiRNAs"
+  },  
+  {
+  "question": "How many miRNAs have sequence length greater than 25 nucleotides and do not have 'GGGG' in their sequences?",
+  "cypher": "MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'GGGG' AND SIZE(m.Sequence) > 25 RETURN COUNT(m) AS NumberOfmiRNAs"
+  },
+  {
+  "question": "How many human miRNAs have sequence free from 'AGGGGA' and sequence length less than 20 nucleotides?",
+  "cypher": "MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'AGGGGA' AND SIZE(m.Sequence) < 20 RETURN COUNT(m) AS NumberOfmiRNAs"
+  },
+
+ 
+  {
+    "question": "List precursor miRNAs whose sequences end with 'AU' and whose genomic coordinates include at least one entry starting with 'chr1:'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE p.Sequence ENDS WITH 'AU' AND ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS Coordinates, p.Sequence As Sequence"
+  },
+    {
+    "question": "Find diseases mentioning 'arrhythmogenic' in their description. Return their label and ID.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'arrhythmogenic' RETURN d.Label, d.ID"
+  },
+  {
+    "question": "Which Homo sapiens miRNAs have sequences of exactly 22 nucleotides and labels starting with 'hsa-miR-19' and do not end with 'p'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND SIZE(m.Sequence) = 22 AND m.Label STARTS WITH 'hsa-miR-19' AND NOT m.Label ENDS WITH 'p' RETURN m.Label AS miRNA"
+  },
+
+{
+  "question": "Return diseases whose descriptions mention 'cardiac' and whose names contain 'ring'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'cardiac' AND d.Label CONTAINS 'ring' RETURN d.Label AS Disease"
+}
+,
+{
+  "question": "Identify phenotypes with labels ending in 'deficiency' that have at least one synonym. Return phenotypes' label and their synonym count.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label ENDS WITH 'deficiency' AND SIZE(p.Synonym) >= 1 RETURN p.Label AS Phenotype, SIZE(p.Synonym) AS SynonymCount"
+},
+
+  {
+
+    "question": "Which Homo sapiens miRNAs are at least 150 nucleotide-sequence long?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND SIZE(m.Sequence) >= 150 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+
+  },
+  {
+  
+    "question": "Return all properties of the diseases containing 'cardiomyopathy 1A' in their label.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'cardiomyopathy 1A' RETURN d"
+
+  },
+  {
+  
+    "question": "List GO terms whose descriptions mention 'outer mitochondrial membrane'. Return only the node labels.",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'outer mitochondrial membrane' RETURN g.Label AS GO"
+  },
+  {
+    
+    "question": "List molecular functions with labels starting with 'ADP'.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label STARTS WITH 'ADP' RETURN mf.Label AS MolecularFunction"
+
+  },
+  {
+   
+    "question": "Which cellular components contain 'nucleus' in their label?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' RETURN cc.Label AS CellularComponent"
+  },
+
+  {
+ 
+    "question": "List phenotypes containing 'carcinoma' in the label and that have at least 7 synonyms with at least one synonym containing the word 'karsinomu'.",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'carcinoma' AND SIZE(p.Synonym) >= 7 AND ANY(s IN p.Synonym WHERE s CONTAINS 'karsinomu') RETURN p.Label AS Phenotype, SIZE(p.Synonym) AS SynonymCount, p.Synonym AS Synonym"
+  },
+  {
+ 
+    "question": "Which GO terms have descriptions containing 'adaptive immune response'?",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'adaptive immune response' RETURN g.Label AS GOTerm"
+  },
+
+  {
+    "question": "Which cellular components with 'cell' in the label have at least one synonym?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'cell' AND SIZE(cc.Synonym) >= 1 RETURN cc.Label AS CellularComponent, cc.Synonym AS Synonyms"
+  },
+  {
+  
+    "question": "How many human miRNAs starting with 'hsa-miR' have exactly 22-nt sequences?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR' AND SIZE(m.Sequence) = 22 RETURN COUNT(m) AS NumberOfmiRNAs"
+  },
+  {
+
+    "question": "Return GO terms whose label contains 'protein' and that have at least one recorded synonym.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'protein' AND SIZE(g.Synonym) > 0 RETURN g.Label AS GOTerm, SIZE(g.Synonym) AS SynonymCount"
+
+  },
+  {
+ 
+    "question": "Retrieve diseases whose clinical descriptions include 'ocular paralysis'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'ocular paralysis' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+    "question": "Retrieve the top 2 genes with the highest number of synonyms. In case of ties, order genes alphabetically by gene label.",
+    "cypher": "MATCH (g:Gene) WHERE g.Synonym IS NOT NULL RETURN g.Label AS Gene, SIZE(g.Synonym) AS SynonymCount ORDER BY SynonymCount DESC, Gene ASC LIMIT 2"
+  },
+  {
+ 
+    "question": "What is the average number of synonyms per gene?",
+    "cypher": "MATCH (g:Gene) RETURN AVG(SIZE(g.Synonym)) AS AverageSynonymCount"
+ 
+  },
+{
+  "question": "Find the maximum number of characters in a gene label.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label IS NOT NULL RETURN MAX(SIZE(g.Label)) AS MaxGeneLength"
+},
+{
+  "question": "Find the maximum number of characters in a gene label for genes whose labels are a single word.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label IS NOT NULL AND NOT g.Label CONTAINS ' ' RETURN MAX(SIZE(g.Label)) AS MaxGeneLength"
+},
+{
+  "question": "Return all genes with single-word labels that are exactly 22 characters long.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label IS NOT NULL AND NOT g.Label CONTAINS ' ' AND SIZE(g.Label) = 22 RETURN g.Label AS Gene, SIZE(g.Label) AS NameLength"
+},
+{
+  "question": "Find genes whose labels contain exactly two hyphens ('-').",
+  "cypher": "MATCH (g:Gene) WHERE SIZE(SPLIT(g.Label, '-')) - 1 = 2 RETURN g.Label AS Gene"
+},
+{
+  "question": "Find genes whose labels start with a single capital letter followed by the word 'gene'.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label =~ '^[A-Z] gene.*' RETURN g.Label AS Gene"
+},
+{
+  "question": "Find genes whose labels contain 'coronavirus'. Return their labels and IDs.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label CONTAINS 'coronavirus' RETURN g.Label AS Gene, g.ID AS ID"
+},
+
+  {
+
+    "question": "What is the average number of characters in gene labels?",
+    "cypher": "MATCH (g:Gene) RETURN AVG(SIZE(g.Label)) AS AverageGeneNameLength"
+  
+  },
+{
+  "question": "Which miRNAs have sequences less than 17 nucleotides long and contain at least one 'A'?",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) < 17 AND m.Sequence CONTAINS 'A' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length, m.Sequence AS Sequence"
+},
+{
+  "question": "Which miRNAs have sequences less than 17 nucleotides long and contain at least one 'A', 'U', 'C', and 'G'?",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) < 17 AND m.Sequence CONTAINS 'A' AND m.Sequence CONTAINS 'U' AND m.Sequence CONTAINS 'C' AND m.Sequence CONTAINS 'G' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length, m.Sequence AS Sequence"
+},
+  {
+   "question": "List precursor miRNAs longer than 120 nt whose labels end with 'precursor'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE SIZE(p.Sequence) > 120 AND p.Label ENDS WITH 'precursor' RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+  },
+  {
+  "question": "Find cardiovascular diseases whose descriptions mention both 'tachycardia' and 'gene'.",
+    "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'tachycardia' AND cd.Description CONTAINS 'gene' RETURN cd.Label AS Cardiovascular_disease, cd.Description AS Description"
+  },
+  {
+    "question": "Which GO terms contain 'cell' in the label and have at least one synonym?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'cell' AND SIZE(g.Synonym) > 0 RETURN g.Label AS GOTerm, SIZE(g.Synonym) AS SynonymCount"
+  },
+  {
+    "question": "Find genes whose label starts with 'MIR9' and that have genomic coordinates on chromosome 1 (chr1:) or X.",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR9' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chrX') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+ 
+    "question": "How many genes have label ending with a letter and at least one genomic coordinate starting with 'chrX'?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label =~ '.*[A-Za-z]$' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN COUNT(g) AS NumberOfGenes"
+  },
+  {
+    "question": "How many genes have label ending with a number and all genomic coordinate starting with 'chrX'?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label =~ '.*\\d$' AND ALL(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN COUNT(g) AS NumberOfGenes"
+  },
+  {
+    "question": "Return diseases whose labels contain 'thyroid' and descriptions mention 'autoimmune'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'autoimmune' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+
+    "question": "Find miRNAs ending with 'f-3p'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label ENDS WITH 'f-3p' RETURN m.Label AS miRNA"
+  },
+  {
+
+    "question": "Which GO terms have labels that include 'nsulin-like'? ",
+    "cypher": "MATCH (go:GO) WHERE go.Label CONTAINS 'nsulin-like' RETURN go.Label AS GOterm"
+  },
+  {
+
+    "question": "Return phenotypes whose labels contain 'tissue neoplasm'.",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'tissue neoplasm' RETURN p.Label AS Phenotype"
+  },
+{
+  "question": "Retrieve human miRNAs whose labels start with 'hsa-miR-' followed by a number from 1 to 5, end with '5p', and have sequences exactly 25 nucleotides long.",
+  "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label =~ '^hsa-miR-[1-5].*5p$' AND SIZE(m.Sequence) = 25 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+
+  {
+    "question": "List precursor miRNAs on chromosome X whose sequences end with 'CAA'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chrX:') AND p.Sequence ENDS WITH 'CAA' RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS GenomicCoordinates, p.Sequence AS Sequence"
+
+  },
+  {
+    
+    "question": "Which genes list 'KLF4' (case-insensitive) among their synonyms?",
+    "cypher": "MATCH (g:Gene) WHERE ANY(s IN g.Synonym WHERE toLower(s) CONTAINS 'klf4') RETURN g.Label AS Gene, g.Synonym AS Synonyms"
+ 
+  },
+
+  {
+  
+    "question": "Find GO terms that have a synonym containing 'immunoglobulin'.",
+    "cypher": "MATCH (g:GO) WHERE ANY(s IN g.Synonym WHERE s CONTAINS 'immunoglobulin') RETURN g.Label AS GOTerm, g.Synonym AS Synonyms"
+
+  },
+  {
+
+    "question": "List human miRNAs whose labels start with 'hsa-miR-2' and whose sequence length is between 18 and 21 nucleotides.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-2' AND SIZE(m.Sequence) >= 18 AND SIZE(m.Sequence) <= 21 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+
+  {
+
+    "question": "List all genes whose labels start with 'MIR31' and that have at least one synonym containing 'microRNA 3171' (case-insensitive).",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR31' AND ANY(s IN g.Synonym WHERE toLower(s) CONTAINS 'microrna 3171') RETURN g.Label AS Gene, g.Synonym AS Synonyms"
+  },
+  {
+
+    "question": "Identify precursor miRNAs whose sequence ends with 'AU' and whose genomic coordinates include an entry starting with 'chr12'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE p.Sequence ENDS WITH 'AU' AND ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chr12') RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS Coordinates"
+
+  },
+  {
+ 
+    "question": "Which Homo sapiens miRNAs ending with '7e-5p' have a sequence length of exactly 22 nucleotides?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label ENDS WITH '7e-5p' AND SIZE(m.Sequence) = 22 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+
+  },
+  {
+
+    "question": "List precursor miRNAs whose description mentions the letter 'b' and whose sequence is at least 100 nucleotides long.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE p.Description CONTAINS 'b' AND SIZE(p.Sequence) >= 100 RETURN p.Label AS pre_miRNA, p.Description, SIZE(p.Sequence) AS Length"
+  },
+  {
+    "question": "Find human genes with labels starting with 'MIR' that have at least one genomic coordinate on chromosome Y.",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+  "question": "Find human genes with labels starting with 'MIR' followed by a number from 1 to 5 that have at least one genomic coordinate on chromosome 22.",
+  "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label =~ '^MIR[1-5].*' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr22') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+},
+
+  {
+    "question": "Return diseases whose label contains 'carcinoma' and whose description mentions 'metastasis'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'carcinoma' AND d.Description CONTAINS 'metastasis' RETURN d.Label AS Disease, d.Description AS Description"
+
+  },
+
+  {
+    "question": "Find Homo sapiens miRNAs with labels ending with '-5p' preceded by a lowercase letter that have sequences at least 25 nucleotides long.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label =~ '.*[a-z]-5p$' AND SIZE(m.Sequence) >= 25 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+  {
+    "question": "Which phenotypes whose description contains 'hypoplasia' have at least one synonym containing 'facial'?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Description CONTAINS 'hypoplasia' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'facial') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+  {
+
+    "question": "List genes with labels beginning with 'MIR' that have genomic coordinates on chromosome 13 or 23.",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR' AND ANY(coord IN g.Genomic_coordinates WHERE coord =~ '^chr(13|23).*') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+{
+  "question": "Which Homo sapiens miRNAs starting with 'hsa-miR-20' followed by a number from 1 to 9 have exactly 22-nucleotide sequences?",
+  "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label =~ '^hsa-miR-20[1-9].*' AND SIZE(m.Sequence) = 22 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+
+  {
+    "question": "Return GO terms whose descriptions mention both 'proton' and 'catalytic'.",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'proton' AND g.Description CONTAINS 'catalytic' RETURN g.Label AS GO, g.Description AS Description"
+
+  },
+  {
+    "question": "Which genes have genomic coordinates on chromosome 17 and sequences longer than 200,000 nucleotides?",
+    "cypher": "MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr17') AND SIZE(g.Sequence) > 200000 RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates, SIZE(g.Sequence) AS SequenceLength"
+
+  },
+
+  {
+    "question": "Which human miRNAs starting with 'hsa' have sequences higher than 27 nucleotides?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa' AND SIZE(m.Sequence) > 27 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+
+  },
+  {
+    "question": "Which cellular components mention 'zona pellucida' in their labels?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'zona pellucida' RETURN cc.Label AS CellularComponent"
+  },
+  {
+    "question": "List human miRNAs with genomic coordinate exclusively on chromosome 1 (chr1:) whose sequence ends with 'UA'.",
+    "cypher": "MATCH (m:miRNA {Species:'Homo sapiens'}) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') AND m.Sequence ENDS WITH 'UA' RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+   
+  },
+
+  {
+    "question": "Return GO terms whose descriptions contain 'decarboxylation'.",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'decarboxylation' RETURN g.Label, g.Description"
+  },
+  {
+    "question": "Find Homo sapiens miRNAs starting with 'hsa-miR-1' whose sequences end with 'AAA'.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-1' AND m.Sequence ENDS WITH 'AAA' RETURN m.Label"
+  },
+  {
+    "question": "List diseases with labels containing 'cardiomyopathy' and descriptions mentioning 'familial'",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'cardiomyopathy' AND d.Description CONTAINS 'familial' RETURN d.Label, d.Description"
+  },
+  {
+
+    "question": "Find phenotypes with a synonym containing 'extraocular'.",
+    "cypher": "MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'extraocular') RETURN p.Label, p.Synonym"
+  },
+  {
+
+    "question": "Retrieve molecular functions starting with 'DNA' whose description contains 'binding'",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label STARTS WITH 'DNA' AND mf.Description CONTAINS 'binding' RETURN mf.Label, mf.Description"
+  },
+  {
+
+    "question": "Which miRNAs starting with 'hsa-miR-200' have sequences exactly 22 nucleotides long?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-200' AND SIZE(m.Sequence) = 22 RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+  },
+  {
+  
+    "question": "List diseases containing 'thyroid' in the label and whose descriptions include 'adenocarcinoma'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'adenocarcinoma' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+    "question": "How many GO terms have labels containing the word 'transport'.",
+    "cypher": "MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'transport' RETURN COUNT(g) AS NumberOfGOTerms"
+  },
+  {
+    "question": "Which precursor miRNAs have genomic coordinates on chromosome 1 (chr1:) and sequences longer than 100 nucleotides?",
+    "cypher": "MATCH (p:pre_miRNA) WHERE ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') AND SIZE(p.Sequence) > 100 RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS Coordinates, SIZE(p.Sequence) AS Length"
+  },
+  {
+    "question": "Which cellular components have label containing mitochondria and mention 'membrane' in their descriptions?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondria' AND cc.Description CONTAINS 'membrane' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+  {
+    "question": "Retrieve diseases whose descriptions mention 'metabolic complications' but whose labels do not include 'syndrome'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'metabolic complications' AND NOT d.Label CONTAINS 'syndrome' RETURN d.Label AS Disease"
+  },
+  {
+    "question": "Which GO terms contain 'membrane' in their label and list at least one synonym mentioning 'plasma'?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'membrane' AND ANY(s IN g.Synonym WHERE s CONTAINS 'plasma') RETURN g.Label AS GOTerm, g.Synonym AS Synonyms"
+  },
+
+  {
+    "question": "Which precursor miRNAs have sequences shorter than 50 nucleotides and labels ending with 'precursor'?",
+    "cypher": "MATCH (p:pre_miRNA) WHERE SIZE(p.Sequence) < 50 AND p.Label ENDS WITH 'precursor' RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+  },
+
+  {
+    "question": "List precursor miRNAs whose description contain 'precursor' and have sequences shorter than 50 nucleotides.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE p.Description CONTAINS 'precursor' AND SIZE(p.Sequence) < 50 RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+  },
+  {
+ 
+    "question": "Return genes whose label startd with 'MIR4' and whose genomic coordinates include positions on chromosome 7.",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR4' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+
+  {
+  
+    "question": "Identify cellular components whose label includes mitochondria whose descriptions include 'outer membrane'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondria' AND cc.Description CONTAINS 'outer membrane' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+
+
+  {
+   
+    "question": "List human genes starting with 'MIR425' whose genomic coordinates lie on chromosome 1 or 2 (i.e., 'chr1:' or 'chr2:').",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR425' AND any(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chr2:') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+    },
+
+
+  {
+    "question": "Retrieve all diseases whose descriptions include both the terms 'neurodevelopment' and 'rare'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'neurodevelopment' AND d.Description CONTAINS 'rare' RETURN d.Label AS Disease, d.Description"
+  },
+{
+  "question": "List cellular components whose labels contain 'chromosome' and whose descriptions contain 'gene' and either 'dna' or 'rna'.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'chromosome' AND (cc.Description CONTAINS 'rna' OR cc.Description CONTAINS 'dna') AND cc.Description CONTAINS 'gene' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+},
+  {
+  
+    "question": "Find phenotypes that have at least one synonym containing 'hemifacial' while also not containing 'tessier'.",
+    "cypher": "MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'hemifacial' AND NOT syn CONTAINS 'tessier') RETURN p.Label"
+
+  },
+  {
+ 
+    "question": "Which miRNAs starting with 'hsa-miR-181' have sequence length 20-23 nt.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-181' AND SIZE(m.Sequence) >= 20 AND SIZE(m.Sequence) <= 23 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+  },
+  {
+   
+    "question": "Which diseases have descriptions that mention 'Paracoccidioides brasiliensis'?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'paracoccidioides brasiliensis' RETURN d.Label AS Disease, d.Description AS Description"
+
+  },
+    {
+   
+    "question": "Which diseases mention 'abuse' in their description?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'abuse' RETURN d.Label AS Disease, d.Description AS Description"
+
+  },
+    {
+
+    "question": "Retrieve molecular functions whose descriptions contain 'ransmembrane transporter'. Return all node properties (i.e., the entire nodes)",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'ransmembrane transporter' RETURN mf"
+
+  },
+  {
+    "question": "Return cellular components with descriptions referring to 'giardia species'.",
+    "cypher": "MATCH (c:Cellular_component) WHERE c.Description CONTAINS 'giardia species' RETURN c.Label AS CellularComponent, c.Description AS Description"
+  },
+  {
+    "question": "List molecular function containing 'histone H1' in the label.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'histone H1' RETURN mf.Label AS MolecularFunction"
+  },
+  {
+    "question": "Find all human miRNAs ending with '55-5p'.",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label ENDS WITH '55-5p' RETURN m.Label AS miRNA"
+  },
+
+  {
+    "question": "List GO terms relevant to adults.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'adult' OR g.Description CONTAINS 'adult' RETURN g.Label AS GO"
+  },
+  {
+
+    "question": "Find genes that have labels beginning with the word 'METT'.",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'METT' RETURN g.Label AS Gene"
+
+  },
+  {
+
+    "question": "Which Homo sapiens miRNAs have sequences of at least 23 nucleotides, labels ending with '3p', and at least one genomic coordinate on chromosome X?",
+    "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'}) WHERE SIZE(m.Sequence) >= 23 AND m.Label ENDS WITH '3p' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length, m.Genomic_coordinates AS GenomicCoordinates"
+  
+  },
+  {
+
+    "question": "Which genes with labels starting with 'MIR4' have a synonym containing 'microRNA' (case-insensitive) and genomic coordinates on chromosome 7?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR4' AND ANY(s IN g.Synonym WHERE toLower(s) CONTAINS 'microrna') AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7') RETURN g.Label AS Gene, g.Synonym AS Synonyms, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+    "question": "Which diseases mention 'disability syndrome' in the label and 'recessive' in the description? Return only the gene label and ID.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'disability syndrome' AND d.Description CONTAINS 'recessive' RETURN d.Label AS Disease, d.ID AS ID"
+
+  },
+  
+  {
+    "question": "List genes whose labels start with 'MIR50' and that have genomic coordinates on chromosome 1 or 2 (using 'chr1:' or 'chr2:' to distinguish from decimal coordinates).",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR50' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chr2:') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+  },
+  {
+
+    "question": "Which GO terms contain 'membrane' in the label and have at least one synonym mentioning 'transport' (consider a case-insensitive string comparison)?",
+    "cypher": "MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'membrane' AND ANY(syn IN g.Synonym WHERE toLower(syn) CONTAINS 'transport') RETURN g.Label AS GOTerm, g.Synonym AS Synonyms"
+  },
+
+  {
+   "question": "How many GO terms with description containing 'cell cycle' have at least three synonyms?",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'cell cycle' AND SIZE(g.Synonym) >= 3 RETURN COUNT(g.Label) AS HowManyGOterms"
+  },
+  {
+    "question": "Which molecular functions described with 'kinase' and have labels ending with 'inhibitor activity'?",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'kinase' AND mf.Label ENDS WITH 'inhibitor activity' RETURN mf.Label AS MolecularFunction, mf.Description AS Description"
+  },
+  {
+    "question": "Retrieve neurodegenerative diseases whose label mentions 'Alzheimer' (case-insensitive).",
+    "cypher": "MATCH (n:Neurodegenerative_disease) WHERE toLower(n.Label) CONTAINS 'alzheimer' RETURN n.Label AS NeurodegenerativeDisease"
+
+  },
+  {
+
+    "question": "Return GO terms whose labels mention 'axon guidance' and descriptions mention 'signaling'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'axon guidance' AND g.Description CONTAINS 'signaling' RETURN g.Label AS GO"
+
+  },
+  {
+    "question": "Find diseases whose label contains 'thyroid' and description mentioning 'autoimmune'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'autoimmune' RETURN d.Label AS Disease"
+  },
+  {
+    "question": "Return phenotypes with labels mentioning 'neoplasm' (case-insensitive) that have at least one synonym containing 'tumor'(case-insensitive).",
+    "cypher": "MATCH (p:Phenotype) WHERE toLower(p.Label) CONTAINS 'neoplasm' AND ANY(syn IN p.Synonym WHERE toLower(syn) CONTAINS 'tumor') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+   },
+  {
+
+    "question": "Return GO terms containing 'apoptosis' in their label and 'caspase' in their description.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'apoptosis' AND g.Description CONTAINS 'caspase' RETURN g.Label AS GOterm, g.Description AS Description"
+  },
+  {
+
+    "question": "Find phenotypes that have a synonym mentioning 'aortic'.",
+    "cypher": "MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'aortic') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+  {
+    "question": "Find the molecular functions whose description contains 'e3 proteins'. Return all the node properties (i.e., the entire nodes).",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'e3 proteins' RETURN mf"
+  },
+  {
+    "question": "Retrieve cellular components whose label contains 'mitochondr' and description mentions 'matrix'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondr' AND cc.Description CONTAINS 'matrix' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+
+  {
+    "question": "Find GO terms whose label contains 'cell cycle' and whose description mentions 'checkpoint'.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'cell cycle' AND g.Description CONTAINS 'checkpoint' RETURN g.Label AS GOTerm, g.Description AS Description"
+  },
+  {
+
+    "question": "Return the labels of diseases whose label contains 'thyroid' and description mentions 'carcinoma'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'carcinoma' RETURN d.Label AS Disease"
+  },
+  {
+    "question": "Find molecular functions with 'amylase' in their label",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'amylase' RETURN mf.Label AS MolecularFunction"
+  },
+  {
+
+    "question": "Which Homo sapiens genes are on chromosome 7 and have at least one synonym containing 'kinase'?",
+    "cypher": "MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr7') AND ANY(syn IN g.Synonym WHERE syn CONTAINS 'kinase') RETURN g.Label AS Gene, g.Genomic_coordinates AS Genomic_coordinates"
+  },
+  {
+    "question": "Find all the diseases whose labels contain 'valgus syndrome'. Return all the node properties (i.e., the entire nodes)." ,
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'valgus syndrome' RETURN d"
+  },
+    {
+
+    "question": "Find cellular components label containing 't=' (case-insensitive).",
+    "cypher": "MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 't=' RETURN cc.Label AS CellularComponent"
+  },
+  {
+    "question": "How many GO terms have the word 'localization' in their labels?",
+    "cypher": "MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'localization' RETURN COUNT(g)"
+  },
+  {
+
+    "question": "List the labels of all molecular functions with descriptions containing 'phosphatase'.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'phosphatase' RETURN mf.Label"
+  },
+  {
+
+    "question": "Return label, description and ID of diseases containing the word 'dependence' in their label.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'dependence' RETURN d.Label, d.Description, d.ID"
+  },
+  {
+    "question": "Find cellular components whose descriptions or labels mention 'membrane raft'. Return only the matching node labels.",
+    "cypher": "MATCH (c:Cellular_component) WHERE c.Description CONTAINS 'membrane raft' OR c.Label CONTAINS 'membrane raft' RETURN c.Label"
+  },
+  {
+    "question": "List the synonyms of phenotypes having at least one synonym containing the Czech word 'ortálního'.",
+    "cypher": "MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'ortálního') RETURN p.Label, p.Synonym"
+  },
+
+  {
+    "question": "Find all diseases whose label contains 'hypertrophic cardiomyopathy' that are not cardiovascular diseases.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'hypertrophic cardiomyopathy' AND NOT d:Cardiovascular_disease RETURN d.Label"
+  },
+  {
+    "question": "Which cellular components mention 'dendritic tree' in their description?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Description CONTAINS 'dendritic tree' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+
+  {
+    "question": "Which biological processes have labels mentioning 'cell cycle' and descriptions mentioning 'regulation'?",
+    "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'cell cycle' AND bp.Description CONTAINS 'regulation' RETURN bp.Label AS BiologicalProcess, bp.Description AS Description"
+  },
+  {
+    "question": "Find GO terms with label containing 'membrane' that have a synonym mentioning 'plasma membrane'. Return all the properties (i.e., the entire nodes).",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'membrane' AND ANY(syn IN g.Synonym WHERE syn CONTAINS 'plasma membrane') RETURN g"
+  },
+  {
+
+    "question": "Identify diseases characterized by labels containing 'disability' and whose clinical descriptions contain 'deafness'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'disability' AND d.Description CONTAINS 'deafness' RETURN d.Label AS Disease, d.Description AS Description"
+
+  },
+  {
+    "question": "Which diseases have labels containing 'neonatal' and 'disability' and descriptions that do not mention 'deafness'?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'disability' AND NOT d.Description CONTAINS 'deafness' AND d.Description CONTAINS 'neonatal' RETURN d.Label AS Disease, d.Description AS Description"
+   },
+
+    {
+    "question": "Which infectious diseases have labels containing 'herpetic' and descriptions containing 'painful'? Return all their properties (i.e., the entire nodes).",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Label CONTAINS 'herpetic' AND d.Description CONTAINS 'painful' RETURN d"
+   },
+    {
+    "question": "Which infectious diseases have descriptions that mention 'consciousness'?",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Description CONTAINS 'consciousness' RETURN d.Label AS Disease, d.Description AS Description"
+
+   },
+    {
+    "question": "Which infectious diseases have 'cytomegalovirus' in their descriptions?",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Description CONTAINS 'cytomegalovirus' RETURN d.Label AS Disease, d.Description AS Description"
+
+   },
+      {
+    "question": "Retrieve the description for disease(s) labeled as 'viral eye infection'.",
+    "cypher": "MATCH (d:Infectious_disease {Label: 'viral eye infection'}) RETURN d.Description"
+   },
+  {
+    "question": "Which infectious diseases have descriptions that mention 'several viruses'?",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Description CONTAINS 'several viruses' RETURN d.Label AS Disease, d.Description AS Description"
+
+   },
+    {
+    "question": "Which neurodegenerative diseases have descriptions that mention 'dementia'?",
+    "cypher": "MATCH (d:Neurodegenerative_disease) WHERE d.Description CONTAINS 'dementia' RETURN d.Label AS Disease, d.Description AS Description"
+   },
+   {
+    "question": "List 'invasive' infectious diseases.",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Label CONTAINS 'invasive' RETURN d.Label"
+   },
+
+    {
+    "question": "List infectious diseases whose 'Label' contain 'chronic'.",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Label CONTAINS 'chronic' RETURN d.Label"
+   },
+
+    {
+    "question": "List 'chronic' autoimmune diseases.",
+    "cypher": "MATCH (d:Autoimmune_disease) WHERE d.Label CONTAINS 'chronic' RETURN d.Label"
+   },
+       {
+    "question": "List autoimmune diseases whose label contain 'sclerosis'.",
+    "cypher": "MATCH (d:Autoimmune_disease) WHERE d.Label CONTAINS 'sclerosis' RETURN d.Label"
+   },
+       {
+    "question": "Which genes have labels that start with 'TP' and are exactly 4 characters long?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'TP' AND SIZE(g.Label) = 4 RETURN g.Label"
+   },
+  {
+    "question": "Which genes have labels that start with the letter 'P' and include a hyphen ('-')?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'P' AND g.Label CONTAINS '-' RETURN  g.Label"
+
+   },    
+  {
+    "question": "Which phenotypes have labels shorter than 5 characters?",
+    "cypher": "MATCH (p:Phenotype) WHERE SIZE(p.Label) < 5 RETURN p"
+   },
+      {
+    "question": "How many genes have labels ending with a consonant?",
+    "cypher": " MATCH (g:Gene) WHERE g.Label =~ '.*[^AEIOU]$' RETURN COUNT(g) AS HowManyGenes"
+
+   },
+   
+       {
+    "question": "How many genes have labels that contain 'BRCA'?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label CONTAINS 'BRCA' RETURN COUNT(g)"
+
+   },
+      {
+    "question": "Which phenotypes have labels that end with 'deficiency'?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label ENDS WITH 'deficiency' RETURN p.Label"
+   },
+   {
+  "question": "Return diseases whose labels contain 'allergic'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'allergic' RETURN d.Label AS Disease"
+   },
+   
+   {
+    "question": "Find diseases whose descriptions include both 'autoimmune' and 'inflammation', excluding those with 'cancer' in the label.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'autoimmune' AND d.Description CONTAINS 'inflammation' AND NOT d.Label CONTAINS 'cancer' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+   {
+    "question": "List all precursor miRNAs that are longer than 120 nucleotides.",
+     "cypher": "MATCH (p:pre_miRNA) WHERE SIZE(p.Sequence) > 120 RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+    },
+      {
+    "question": "Return diseases whose descriptions mention 'tachycardia' and labels include 'syndrome'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'tachycardia' AND d.Label CONTAINS 'syndrome' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+    {
+    "question": "Which GO terms 'Label' contain both 'synapse' and 'assembly'? ",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'synapse' AND g.Label CONTAINS 'assembly' RETURN g.Label AS GO"
+  },
+    {
+    "question": "Which genes have genomic coordinates starting with 'chr9' and whose names end with two letters?",
+    "cypher": "MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE toString(coord) STARTS WITH 'chr9') AND g.Label=~ '.*[A-Za-z]{2}$' RETURN g.Label AS Gene, g.Genomic_coordinates AS Coordinates"
+  },
+
+    {
+    "question": "List precursor miRNAs whose genomic coordinates include chromosome X entries (starting with 'chrX') and whose sequences end with 'AU'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE ANY(coord IN p.Genomic_coordinates WHERE toString(coord) STARTS WITH 'chrX') AND p.Sequence ENDS WITH 'AU' RETURN p.Label AS pre_miRNA, p.Genomic_coordinates AS GenomicCoordinates"
+  },
+
+  {
+    "question": "How many genes have at least one genomic coordinate that starts with 'chrX'?",
+    "cypher": "MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE toString(coord) STARTS WITH 'chrX') RETURN COUNT(DISTINCT g) AS NumberOfGenes"
+  },
+    {
+   
+    "question": "Which autoimmune diseases mentioning 'diabetes' have a non-empty description?",
+    "cypher": "MATCH (a:Autoimmune_disease) WHERE toLower(a.Label) CONTAINS 'diabetes' AND SIZE(a.Description) > 0 RETURN a.Label AS AutoimmuneDisease, a.Description AS Description"
+
+  },
+    {
+ 
+    "question": "Return genes have labels starting with 'MIR43' and have genomic coordinates starting with 'chr17'.",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR43' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr17') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates"
+
+  },
+    {
+
+    "question": "Which molecular functions mention 'kinase' in their description and have IDs starting with 'GO:003'? Return only their labels and IDs.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE toLower(mf.Description) CONTAINS 'kinase' AND mf.ID STARTS WITH 'GO:003' RETURN mf.Label AS MolecularFunction, mf.ID AS ID"
+ 
+  },
+    {
+  
+    "question": "Which cellular components contain 'rna' in their label and 'dna' in their description?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'rna' AND cc.Description CONTAINS 'dna' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+
+
+    {
+    "question": "Retrieve the top 5 single-word gene labels with the shortest length. In case of ties, order genes' labels alphabetically.",
+    "cypher": "MATCH (g:Gene) WHERE NOT g.Label CONTAINS ' ' RETURN g.Label AS Gene, SIZE(g.Label) AS NameLength ORDER BY NameLength ASC, Gene ASC LIMIT 5"
+  },
+    {
+   
+    "question": "Which diseases mention 'breast' in their label and 'uncommon neoplasms' in their description?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'breast' AND d.Description CONTAINS 'uncommon neoplasms' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+    {
+   
+    "question": "Find cellular components with 'nucleus' in their label and whose description does not include 'membrane'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' AND NOT cc.Description CONTAINS 'membrane' RETURN cc.Label AS CellularComponent, cc.Description AS Description"
+  },
+    {
+ 
+    "question": "Find diseases with labels containing 'breast' and description containing 'uncommon'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'breast' AND d.Description CONTAINS 'uncommon' RETURN d.Label AS Disease, d.Description AS Description"
+  },
+    {
+
+    "question": "How many GO terms have 'synaptic' in their description?",
+    "cypher": "MATCH (g:GO) WHERE g.Description CONTAINS 'synaptic' RETURN COUNT(g.Label) AS HowManyGOterms"
+
+  },
+    {
+
+    "question": "Which infectious diseases have 'fever' in their description and 'virus' in the label (case-insensitive)?",
+    "cypher": "MATCH (d:Infectious_disease) WHERE d.Description CONTAINS 'fever' AND d.Label CONTAINS 'virus' RETURN d.Label AS InfectiousDisease, d.Description AS Description"
+  },
+    {
+
+    "question": "List pre-miRNAs with sequences longer than 100 nucleotides whose labels do not end with 'precursor'.",
+    "cypher": "MATCH (p:pre_miRNA) WHERE SIZE(p.Sequence) > 100 AND NOT p.Label ENDS WITH 'precursor' RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+  },
+    {
+
+    "question": "Which diseases have labels that include 'hypertrophic cardiomyopathy' followed by a number?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label =~ '.*hypertrophic cardiomyopathy [0-9]+.*' RETURN d.Label"
+  },
+  {
+    "question": "List diseases that have label containing 'adult brain'.",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'adult brain' RETURN d.Label AS Disease"
+  },
+    {
+
+    "question": "How many different diseases have labels that contain 'intellectual disability'?",
+    "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'intellectual disability' RETURN COUNT(d.Label) AS HowManyDiseases"
+  },
+  
+  
+   {
+  "question": "Find miRNAs that have long sequences (more than 160 nucleotides). Return their full labels and descriptions.",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) > 160 RETURN SIZE(m.Sequence) AS Length, m.Label AS miRNA, m.Description AS Description"
+},
+{
+  "question": "Find miRNAs that have short sequences (less than 17 nucleotides). Return their labels, descriptions, and their sequence and sequence length. ",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Sequence) < 17 RETURN m.Sequence, SIZE(m.Sequence) AS Length, m.Label AS miRNA, m.Description AS Description"
+},
+
+{
+  "question": "Retrieve the 5 miRNAs with the longest sequences. Return their labels, descriptions, and sequence length. In case of ties, order miRNAs alphabetically by label.",
+  "cypher": "MATCH (m:miRNA) RETURN m.Label AS miRNA, m.Description AS Description, SIZE(m.Sequence) AS Length ORDER BY Length DESC, miRNA ASC LIMIT 5"
+},
+{
+  "question": "Find the 5 miRNAs with the shortest sequence. Return their labels, descriptions, and sequence length. In case of ties, order miRNAs alphabetically by label.",
+  "cypher": "MATCH (m:miRNA) RETURN m.Label AS miRNA, m.Description AS Description, SIZE(m.Sequence) AS Length ORDER BY Length ASC, miRNA ASC LIMIT 5"
+},
+{
+  "question": "Find miRNAs whose sequences do not contain 'A' but do contain the motif 'CCCC' and return their labels and sequences.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'A' AND m.Sequence CONTAINS 'CCCC' RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+{
+  "question": "Find miRNAs whose sequences do not contain the nucleotides 'C' or 'A'. Return all their properties (i.e., the entire nodes).",
+ "cypher": "MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'C' AND NOT m.Sequence CONTAINS 'A' RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+{
+  "question": "Find miRNAs whose sequences contain the motif 'GGGGGGGG' (8 consecutive Gs). Return their labels and sequences.",
+ "cypher":"MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'GGGGGGGG' RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+{
+  "question": "Find miRNAs whose sequences contain a motif of 7 consecutive Cs. Return their labels and sequence lengths.",
+ "cypher":"MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'CCCCCCC' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength"
+},
+{
+  "question": "Find miRNAs whose sequences contain a motif of 18 consecutive Us. Return their labels and sequence lengths.",
+ "cypher":"MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'UUUUUUUUUUUUUUUUUU' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength"
+},
+{
+  "question": "Find miRNAs whose sequences contain a motif of 13 consecutive As. Return their labels and sequences length.",
+ "cypher":"MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'AAAAAAAAAAAAA' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength"
+},
+{
+  "question": "Find miRNAs whose sequences do not contain 'G' and contain at least one motif of four identical consecutive nucleotides (A, C or U). Return their labels and sequences.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'G' AND (m.Sequence CONTAINS 'AAAA' OR m.Sequence CONTAINS 'CCCC' OR m.Sequence CONTAINS 'UUUU') RETURN m.Label AS miRNA, m.Sequence AS Sequence"
+},
+
+  {
+    "question": "Which miRNAs located on chromosome X have sequences ending with 'GA'?",
+    "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND m.Sequence ENDS WITH 'GA' RETURN  m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+  },
+
+{
+  "question": "Find the average sequence length of miRNAs whose genomic coordinate are located on the chromosome X.",
+  "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN AVG(SIZE(m.Sequence)) AS AverageSequenceLength"
+},
+{
+  "question": "Count miRNAs whose genomic coordinates are located on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates).",
+  "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN COUNT(DISTINCT m) AS miRNACount"
+},
+
+  {
+    "question": "List all miRNAs whose genomic coordinates are located on chromosome Y.",
+    "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+  },
+{
+  "question": "Find miRNAs characterized by more than six genomic coordinates. Return their labels and all genomic coordinates.",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE(m.Genomic_coordinates) > 6 RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+ 
+  "question": "Find the maximum number of genomic coordinates on which any miRNA can be located.",
+  "cypher": "MATCH (m:miRNA) RETURN MAX(SIZE(m.Genomic_coordinates)) AS MaxChromosomeCount"
+},
+{
+  "question": "Find miRNAs whose genomic coordinates are located on both chromosome X and chromosome Y. Return their labels and genomic coordinates.",
+  "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Find miRNAs whose sequences start with 'A', end with 'U', have sequence length greater than 50, and are mapped to chromosome 1 or 2 ('chr1:' and 'chr2:'). Return their labels, sequences, and genomic coordinates.",
+  "cypher": "MATCH (m:miRNA) WHERE m.Sequence STARTS WITH 'A' AND m.Sequence ENDS WITH 'U' AND SIZE(m.Sequence) > 100 AND (ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') OR ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr2:')) RETURN m.Label AS miRNA, m.Sequence AS Sequence, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Find miRNAs that have more than 2 genomic coordinates on chromosome X. Return their labels and all genomic coordinates.",
+  "cypher": "MATCH (m:miRNA) WHERE SIZE([coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX']) > 2 RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+
+{
+  "question": "Count pre-miRNAs whose labels contain 'stem-loop'.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS 'stem-loop' RETURN COUNT(pm) AS PreMiRNACount"
+},
+{
+  "question": "Count pre-miRNAs whose labels do not contain the word 'precursor'. Return their labels.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE NOT pm.Label CONTAINS 'precursor' RETURN COUNT(pm) AS PreMiRNACount"
+},
+{
+  "question": "Count pre-miRNAs whose labels do not contain the word 'precursor' and do not contain 'stem'. Return their labels and IDs .",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE NOT pm.Label CONTAINS 'precursor' AND NOT pm.Label CONTAINS 'stem' RETURN pm.Label AS Pre_miRNA, pm.ID AS ID"
+},
+
+{
+  "question": "Retrieve 5 pre-miRNA from the longest sequence. In case of ties, sort alphabetically by label. Return their full labels, descriptions, and sequence length.",
+  "cypher": "MATCH (pm:pre_miRNA) RETURN pm.Label AS pre_miRNA, pm.Description AS Description, SIZE(pm.Sequence) AS Length ORDER BY Length DESC, pre_miRNA ASC LIMIT 5"
+},
+{
+  "question": "Find the genomic coordinates of pre-miRNAs whose sequence length is exactly 180 nucleotides. Return their labels and genomic coordinates.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE SIZE(pm.Sequence) = 180 RETURN pm.Label AS Pre_miRNA, pm.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Find the average sequence length of pre-miRNAs whose sequences are between 150 and 180 nucleotides.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE SIZE(pm.Sequence) >= 150 AND SIZE(pm.Sequence) <= 180 RETURN AVG(SIZE(pm.Sequence)) AS AverageSequenceLength"
+},
+{
+  "question": "Find the maximum sequence length of pre-miRNAs with at least one genomic coordinate located on chromosome X.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN MAX(SIZE(pm.Sequence)) AS MaxSequenceLength"
+},
+
+{
+  "question": "Find the minimum sequence length of pre-miRNAs that are located on chromosome Y.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN MIN(SIZE(pm.Sequence)) AS MaxSequenceLength"
+},
+
+{
+  "question": "Find miRNAs whose sequences contain a motif of 19 consecutive Us. Return their label, sequences length, and URI.",
+ "cypher":"MATCH (pm:pre_miRNA) WHERE pm.Sequence CONTAINS 'UUUUUUUUUUUUUUUUUUU' RETURN pm.Label AS miRNA, SIZE(pm.Sequence) AS SequenceLength, pm.URI"
+},
+{
+  "question": "Find all pre-miRNAs whose labels contain '196'. Return their labels and descriptions.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS '196' RETURN pm.Label AS Pre_miRNA_Label, pm.Description AS Pre_miRNA_Description"
+},
+
+{  "question": "Count the number of pre-miRNAs whose labels contain either an opening '(' or a closing ')' parenthesis.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS '(' OR pm.Label CONTAINS ')' RETURN COUNT(pm) AS PreMiRNACount"
+},
+{
+  "question": "Find all pre-miRNAs whose labels contain '%'. Return their label, description and sequence length.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS '%' RETURN pm.Label AS Pre_miRNA_Label, pm.Description AS Pre_miRNA_Description, SIZE(pm.Sequence)"
+},
+
+{
+  "question": "Find  the Genomic coordinates where all pre-miRNAs whose labels contain 'to' are located. Return their label and sequences length.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS 'to' RETURN pm.Label AS Pre_miRNA_Label, SIZE(pm.Sequence), pm.Genomic_coordinates"
+},
+
+{
+  "question": "Count pre-miRNAs that have labels ending with a letter other than 'a', 'b', or 'c' followed by the word 'precursor'.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label =~ '.*[d-z] precursor$' RETURN COUNT(pm) AS PreMiRNACount"
+},
+{
+  "question": "Which pre-miRNAs have labels that end with one of the letters 'f', 'j', 'h' followed by the word 'precursor'?",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label =~ '.*[fjh] precursor$' RETURN pm.Label"
+},
+
+{
+  "question": "Which pre-miRNAs have at least 3 genomic coordinates that start with 'chr21'?",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE SIZE([coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chr21']) >= 3 RETURN pm.Label AS pre_miRNA, pm.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Find pre-miRNAs characterized by more than five genomic coordinates. Return their labels and all genomic coordinates.",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE SIZE(pm.Genomic_coordinates) > 5 RETURN pm.Label AS Pre_miRNA, pm.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Which pre-miRNAs have genomic coordinates on both chrX and chrY, and have a sequence shorter than 100 nucleotides?",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrY') AND SIZE(pm.Sequence) < 100 RETURN pm.Label AS miRNA, pm.Genomic_coordinates AS GenomicCoordinates, SIZE(pm.Sequence) AS SequenceLength"
+},
+{
+  "question": "Which pre-miRNAs have labels that start with 'Hsa-Let' and what is the length of their sequence?",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE pm.Label STARTS WITH 'Hsa-Let' RETURN pm.Label, SIZE(pm.Sequence)"
+},
+
+{
+  "question": "Which pre-miRNAs have labels that do not start with 'microRNA' or 'Hsa', and what is the length of their sequence?",
+  "cypher": "MATCH (pm:pre_miRNA) WHERE NOT pm.Label STARTS WITH 'microRNA' AND NOT pm.Label STARTS WITH 'Hsa' RETURN pm.Label, SIZE(pm.Sequence)"
+},
+
+{
+  "question": "Which genes have labels that contain only consonants and are longer than 5 characters?",
+  "cypher": "MATCH (g:Gene) WHERE g.Label =~ '^[BC-DF-GHJ-LMNP-QR-STV-Zbc-df-ghj-lmnp-qr-stv-z]+$' AND SIZE(g.Label) > 5 RETURN g.Label AS GeneLabel"
+},
+{
+  "question": "Which genes have labels that are exactly 2 characters long, and what is the length of their sequence?",
+  "cypher": "MATCH (g:Gene) WHERE size(g.Label) = 2 RETURN g.Label AS GeneLabel, SIZE(g.Sequence)"
+},
+{
+  "question": "Which genes have labels that start with a letter followed by one or more numbers?",
+  "cypher": "MATCH (g:Gene) WHERE g.Label =~ '^[A-Za-z][0-9]+' RETURN g.Label AS GeneLabel"
+},
+{
+  "question": "Which gene has the longest label (ignoring null or empty labels)? In case of ties, select the gene alphabetically.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label IS NOT NULL AND g.Label <> '' RETURN g.Label AS GeneLabel, SIZE(g.Label) AS LabelLength ORDER BY LabelLength DESC, GeneLabel ASC LIMIT 1"
+},
+{
+  "question": "How many genes have a null or empty label?",
+  "cypher": "MATCH (g:Gene) WHERE g.Label IS NULL OR g.Label = '' RETURN COUNT(g) AS NullGeneCount"
+},
+
+{
+  "question": "Which genes are short, i.e., having sequences shorter than 50 nucleotides?",
+  "cypher": "MATCH (g:Gene) WHERE SIZE(g.Sequence) < 50 RETURN g.Label AS GeneLabel, SIZE(g.Sequence) AS SequenceLength"
+},
+
+{
+  "question": "What is the maximum sequence length among all genes?",
+  "cypher": "MATCH (g:Gene) RETURN MAX(SIZE(g.Sequence)) AS MaxSequenceLength"
+},
+
+{
+  "question": "What is the minimum sequence length among all genes?",
+  "cypher": "MATCH (g:Gene) RETURN MIN(SIZE(g.Sequence)) AS MinSequenceLength"
+},
+
+{
+  "question": "What is the average sequence length of genes that have sequence lengths between 20,000 and 1,000,000 nucleotides?",
+  "cypher": "MATCH (g:Gene) WHERE SIZE(g.Sequence) >= 20000 AND SIZE(g.Sequence) <= 1000000 RETURN AVG(SIZE(g.Sequence)) AS AverageSequenceLength"
+},
+
+{
+  "question": "Which genes have labels that start with 'MIR' and end with a number between 4 and 9?",
+  "cypher": "MATCH (g:Gene) WHERE g.Label =~ '^MIR.*-[4-9]+$' RETURN g.Label AS GeneLabel"
+},
+
+{
+  "question": "Which genes have genomic coordinates on both chrX and chrY?",
+  "cypher": "MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN g.Label AS GeneLabel, g.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "What is the number of genes whose genomic coordinates located on chrY? What is the average length of their sequence?",
+  "cypher": "MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN COUNT(g) AS GeneCount, AVG(SIZE(g.Sequence)) AS AverageSequenceLength"
+},
+{
+  "question": "How many genes have sequences that do not contain the letter 'U'?",
+  "cypher": "MATCH (g:Gene) WHERE NOT g.Sequence CONTAINS 'U' RETURN count(g.Label) AS GeneCount"
+},
+{
+  "question": "Which genes have sequences that contain a stretch of 50 consecutive Ts?",
+  "cypher": "MATCH (g:Gene) WHERE g.Sequence CONTAINS 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT' RETURN g.Label AS GeneLabel"
+},
+{
+  "question": "Which genes have sequences containing at least 75 consecutive As? Return only their labels.",
+  "cypher": "MATCH (g:Gene) WHERE g.Sequence =~ '.*A{75,}.*' RETURN g.Label AS GeneLabel"
+},
+
+{
+  "question": "Which genes have synonyms containing the Greek symbols α, β, or ɣ? Retun the labels and only the synonyms containing α, β, or ɣ.",
+  "cypher": "MATCH (g:Gene) WHERE any(syn IN g.Synonym WHERE syn CONTAINS 'α' OR syn CONTAINS 'β' OR syn CONTAINS 'ɣ') RETURN g.Label AS GeneLabel, [syn IN g.Synonym WHERE syn CONTAINS 'α' OR syn CONTAINS 'β' OR syn CONTAINS 'ɣ'] AS GreekSymbolSynonyms"
+},
+{
+  "question": "List the five genes with the highest number of synonyms. In case of ties, order genes alphabetically.",
+  "cypher": "MATCH (g:Gene) WHERE g.Synonym IS NOT NULL RETURN g.Label AS GeneLabel, SIZE(g.Synonym) AS SynCount ORDER BY SynCount DESC, GeneLabel ASC LIMIT 5"
+},
+{
+  "question": "Which genes have a description, and what are their descriptions?",
+  "cypher": "MATCH (g:Gene) WHERE g.Description IS NOT NULL RETURN g.Label, g.Description"
+},
+{
+  "question": "Return all properties (i.e., the entire node) of the gene labeled as 'gene of Bacteria'.",
+  "cypher": "MATCH (g:Gene {Label:'gene of Bacteria'}) RETURN g"
+},
+{
+  "question": "Which genes contain 'coronavirus' in their label but do not have a reported sequence?",
+  "cypher": "MATCH (g:Gene) WHERE g.Label CONTAINS 'coronavirus' AND g.Sequence IS NULL RETURN g.Label AS GeneLabel"
+},
+{
+  "question": "List all diseases that contain 'covid' in their labels (case-insensitive) but are not classified as infectious diseases.",
+  "cypher": "MATCH (d:Disease) WHERE toLower(d.Label) CONTAINS 'covid' AND NOT d:Infectious_disease RETURN d.Label AS DiseaseLabel"
+},
+{
+  "question": "Find all diseases whose labels contain 'cancer' (case-insensitive) but are not classified as cancers.",
+  "cypher": "MATCH (d:Disease) WHERE toLower(d.Label) CONTAINS 'cancer' AND NOT d:Cancer RETURN d.Label AS DiseaseLabel"
+},
+
+{
+  "question": "Return all diseases whose labels contain 'animal' but do not contain 'non-human', Return their labels and descriptions.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'animal' AND NOT d.Label CONTAINS 'non-human' RETURN d.Label AS DiseaseLabel, d.Description AS Description"
+},
+{
+  "question": "Retrieve all properties (i.e., the entire nodes) of diseases whose labels contain 'child' and that are both neurodegenerative and autoimmune.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'child' AND d:Neurodegenerative_disease AND d:Autoimmune_disease RETURN d"
+},
+{
+  "question": "Find the diseases whose descriptions contain 'rare', 'genetic', and 'autism', and that their node types (i.e., LABELS(Disease)) are classified only as Disease.",
+  "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'rare' AND d.Description CONTAINS 'genetic' AND d.Description CONTAINS 'autism' AND SIZE(LABELS(d)) = 1 RETURN d.Label"
+},
+
+{
+  "question": "List all diseases that contain 'basal ganglia' in their label and show how they are classified (use LABELS(Disease). Return diseases' labels and types.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'basal ganglia' RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+{
+  "question": "Retrieve diseases that are classified as neurodegenerative diseases, autoimmune diseases, and cancers.",
+  "cypher": "MATCH (d:Disease) WHERE d:Neurodegenerative_disease AND d:Autoimmune_disease AND d:Cancer RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+{
+  "question": "Retrieve diseases whose descriptions contain 'mid-adolescence' and whose labels contain 'epilepsy'. Return their label, ID and URI.",
+  "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'mid-adolescence' AND d.Label CONTAINS 'epilepsy' RETURN d.Label AS DiseaseLabel, d.ID, d.URI"
+},
+{
+  "question": "Find epilepsy dog diseases, i.e., diseases whose labels contain 'epilepsy' and 'dog'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'epilepsy' AND d.Label CONTAINS 'dog' RETURN d.Label AS DiseaseLabel"
+},
+{
+  "question": "Find epilepsy diseases in horses, i.e., diseases whose labels contain both 'epilepsy' and 'horse'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'epilepsy' AND d.Label CONTAINS 'horse' RETURN d.Label AS DiseaseLabel"
+},
+
+{
+  "question": "Find diseases whose labels contain 'infantil' and whose label or description contains 'fatal'. Return their label, ID, and URI.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'infantil' AND (d.Label CONTAINS 'fatal' OR d.Description CONTAINS 'fatal') RETURN d.Label AS DiseaseLabel, d.ID AS ID, d.URI AS URI"
+},
+{
+  "question": "Find diseases whose labels contain 'poisoning' and show how they are classified (use LABELS(d)).",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'poisoning' RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+{
+  "question": "Find the disease that has the ID 'MONDO:0013150'. Return all its properties (i.e., the entire node).",
+  "cypher": "MATCH (d:Disease {ID: 'MONDO:0013150'}) RETURN d"
+},
+{
+  "question": "Find the disease characterized by the URI 'http://purl.obolibrary.org/obo/MONDO_0011451'. Return all its properties (i.e., the entire node).",
+  "cypher": "MATCH (d:Disease {URI: 'http://purl.obolibrary.org/obo/MONDO_0011451'}) RETURN d"
+},
+{
+  "question": "Find diseases whose URI contains the string 'MONDO_0013472'.",
+  "cypher": "MATCH (d:Disease) WHERE d.URI CONTAINS 'MONDO_0013472' RETURN d.Label, d.URI"
+},
+
+{
+  "question": "Return all diseases whose labels contain 'liver' but do not contain 'polycystic', 'Oliver', or 'infantile', and that are not classified as 'Cancer'. Return diseases' label and type (i.e., LABELS(Disease)).",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'liver' AND NOT d.Label CONTAINS 'polycystic' AND NOT d.Label CONTAINS 'Oliver' AND NOT d.Label CONTAINS 'infantile' AND NOT d:Cancer RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+
+{
+  "question": "Return all diseases whose labels do not contain 'depletion' nor 'DNA'.",
+  "cypher": "MATCH (d:Disease) WHERE NOT d.Label CONTAINS 'DNA' AND NOT d.Label CONTAINS 'depletion' RETURN d.Label AS DiseaseLabel"
+},
+{
+  "question": "Return all diseases whose label or description mention 'rnaseh1 gene'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'rnaseh1 gene' OR d.Description CONTAINS 'rnaseh1 gene' RETURN d.Label AS DiseaseLabel, d.Description AS Description"
+},
+
+{
+  "question": "Count all diseases whose descriptions mention both 'gene' and 'mutation'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'gene' AND d.Description CONTAINS 'mutation' RETURN COUNT(d) AS DiseaseCount"
+},
+
+{
+  "question": "Find dog and cat diseases, i.e., diseases whose label contains both the words 'dog' and 'cat'.",
+  "cypher": "MATCH (d:Disease) WHERE d.Label CONTAINS 'cat' AND d.Label CONTAINS 'dog' RETURN d.Label AS DiseaseLabel"
+},
+
+{
+  "question": "Find cancers whose labels contain 'breast' and also contain 'familial'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Label CONTAINS 'breast' AND c.Label CONTAINS 'familial' RETURN c.Label AS CancerLabel"
+},
+{
+  "question": "Find all cancers whose labels contain 'lung' and 'carcinoma'; the latter as a standalone word (i.e., without any prefixes).",
+  "cypher": "MATCH (c:Cancer) WHERE c.Label CONTAINS 'lung' AND c.Label =~ '.*\\bcarcinoma\\b.*' RETURN c.Label AS CancerLabel"
+},
+{
+  "question": "Find all cancers whose labels contain 'squamous' but do not contain 'carcinoma'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Label CONTAINS 'squamous' AND NOT c.Label CONTAINS 'carcinoma' RETURN c.Label AS CancerLabel"
+},
+
+{
+  "question": "Return all properties of the cancer labeled 'lung carcinoma'.",
+  "cypher": "MATCH (c:Cancer {Label:'lung carcinoma'}) RETURN c"
+},
+{
+  "question": "Find cancers that have at least three additional disease classification.",
+  "cypher": "MATCH (c:Cancer) WHERE SIZE(LABELS(c)) > 3 RETURN c.Label AS CancerLabel, LABELS(c) AS Classifications"
+},
+{
+  "question": "Find cancers that are also infectious diseases and autoimmune diseases.",
+  "cypher": "MATCH (c:Cancer) WHERE c:Infectious_disease AND c:Autoimmune_disease RETURN c.Label AS CancerLabel, LABELS(c) AS Classifications"
+},
+{
+  "question": "Find cancers that are also autoimmune diseases and also either neurodegenerative diseases or infectious diseases.",
+  "cypher": "MATCH (c:Cancer) WHERE c:Autoimmune_disease AND (c:Neurodegenerative_disease OR c:Infectious_disease) RETURN c.Label AS CancerLabel, LABELS(c) AS Classifications"
+},
+{
+  "question": "Find cancers whose labels contain the word 'malignant' that are also cardiovascular disease.",
+  "cypher": "MATCH (c:Cancer) WHERE c:Cardiovascular_disease AND c.Label CONTAINS 'malignant' RETURN c.Label AS CancerLabel"
+},
+{
+  "question": "Find cancers that are cardiovascular disease and whose labels contain the string 'oma'.",
+  "cypher": "MATCH (c:Cancer) WHERE c:Cardiovascular_disease AND c.Label CONTAINS 'oma' RETURN c.Label AS CancerLabel"
+},
+{
+  "question": "Find cancers whose ID ends with the string '743'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.ID ENDS WITH '743' RETURN c.Label AS CancerLabel, c.ID AS CancerID"
+},
+
+{
+  "question": "Find the cancer that has the ID 'MONDO:0200000' and return all its properties (i.e., return the entire node).",
+  "cypher": "MATCH (c:Cancer {ID: 'MONDO:0200000'}) RETURN c"
+},
+{
+  "question": "Find cancers described as 'extremely rare'. Return their label, ID and URI.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'extremely rare' RETURN c.Label AS CancerLabel, c.ID AS ID, c.URI AS URI"
+},
+{
+  "question": "Find cancers whose IDs contain five consecutive zeros.",
+  "cypher": "MATCH (c:Cancer) WHERE c.ID =~ '.*0{5,}.*' RETURN c.Label AS CancerLabel, c.ID AS CancerID"
+},
+{
+  "question": "Find cancers whose description contains the string 'benign polypoid'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'benign polypoid' RETURN c.Label AS CancerLabel, c.Description AS Description"
+},
+{
+  "question": "Find cancers whose labels contain the word 'polyp' as a standalone word and whose descriptions do not contain 'benign' or 'non-neoplastic'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Label =~ '.*\\bpolyp\\b.*' AND NOT c.Description CONTAINS 'benign' AND NOT c.Description CONTAINS 'non-neoplastic' RETURN c.Label AS CancerLabel, c.Description AS Description"
+},
+
+{
+  "question": "Find cancers whose descriptions contain 'precursor lesion', returning their label and Uniform Resource Identifier.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'precursor lesion' RETURN c.Label AS CancerLabel, c.URI AS CancerURI"
+},
+
+{
+  "question": "Find all cancers whose descriptions mention 'controversy'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'controversy' RETURN c.Label AS CancerLabel, c.Description AS Description"
+},
+
+{
+  "question": "Retrieve the cancers whose descriptions contain 'some authors', return their label and identifier (ID).",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'some authors' RETURN c.Label AS CancerLabel, c.ID AS ID"
+},
+
+{
+  "question": "Find cancers whose label or description contain 'malignant' and whose description contains 'variant'. Return their label and URI.",
+  "cypher": "MATCH (c:Cancer) WHERE (c.Label CONTAINS 'malignant' OR c.Description CONTAINS 'malignant') AND c.Description CONTAINS 'variant' RETURN c.Label AS CancerLabel, c.URI AS CancerURI"
+},
+{
+  "question": "Find cancers whose descriptions contain the word 'size' and also contain a number followed by 'cm'.",
+  "cypher": "MATCH (c:Cancer) WHERE c.Description CONTAINS 'size' AND c.Description =~ '.*[0-9]+\\s*cm.*' RETURN c.Label AS CancerLabel, c.Description AS Description"
+},
+{
+  "question": "Which cardiovascular diseases are also classified as 'Infectious_disease'?",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd:Infectious_disease RETURN cd.Label AS DiseaseLabel, LABELS(cd) AS Classifications"
+},
+{
+  "question": "List all the properties for the cardiovascular disease labeled 'Keshan disease'.",
+  "cypher": "MATCH (cd:Cardiovascular_disease {Label:'Keshan disease'}) RETURN cd"
+},
+{
+  "question": "Find cardiovascular diseases whose label or description contains the word 'fatal'. Return their label and the ID.",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'fatal' OR cd.Label CONTAINS 'fatal' RETURN cd.Label, cd.ID"
+},
+{
+  "question": "Find cardiovascular diseases whose IDs contain five consecutive zeros.",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.ID =~ '.*0{5,}.*' RETURN cd.Label AS DiseaseLabel, cd.ID AS DiseaseID"
+},
+{
+  "question": "Find cardiovascular diseases whose ID ends with '555'. Return all the properties (i.e., return the entire node).",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.ID ENDS WITH '555' RETURN cd"
+},
+{
+  "question": "Find cardiovascular diseases whose descriptions mention both 'gene' and 'mutation'. Return the labels and the IDs.",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'gene' AND cd.Description CONTAINS 'mutation' RETURN cd.Label AS DiseaseLabel, cd.ID AS DiseaseID"
+},
+{
+  "question": "Retrieve the descriptions of the cardiovascular diseases where the gene 'TNNI3' is mentioned (case-insensitive)." ,
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE toLower(cd.Description) CONTAINS 'tnni3' RETURN cd.Label AS DiseaseLabel, cd.Description AS Description"
+},
+{
+  "question": "Retrieve the labels of cardiovascular diseases whose descriptions mention 'chromosome 22'.",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'chromosome 22' RETURN cd.Label AS DiseaseLabel"
+},
+{
+  "question": "List all cardiovascular diseases whose labels contain 'leber' (case-insensitive) and that are not cancers and return their label and node types (i.e., LABELS(Cardiovascular_disease)) to show how they are classified.",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE toLower(cd.Label) CONTAINS 'leber' AND NOT cd:Cancer RETURN cd.Label AS DiseaseLabel, LABELS(cd) AS Classifications"
+},
+{
+  "question": "List all cardiovascular diseases whose labels contain the string 'noonan' (case-insensitive).",
+  "cypher": "MATCH (cd:Cardiovascular_disease) WHERE toLower(cd.Label) CONTAINS 'noonan' RETURN cd.Label AS DiseaseLabel"
+},
+{
+  "question": "Find autoimmune diseases whose labels contain the string 'anemia' and whose descriptions contain the string 'aiha'.",
+  "cypher": "MATCH (ad:Autoimmune_disease) WHERE ad.Label CONTAINS 'anemia' AND ad.Description CONTAINS 'aiha' RETURN ad.Label AS DiseaseLabel, ad.Description AS Description"
+},
+
+{
+  "question": "Find autoimmune diseases whose labels contain 'sclerosis' and whose label or description contains either 'rare' or 'acute'. Return only labels and IDs.",
+  "cypher": "MATCH (ad:Autoimmune_disease) WHERE ad.Label CONTAINS 'sclerosis' AND (ad.Label CONTAINS 'rare' OR ad.Label CONTAINS 'acute' OR ad.Description CONTAINS 'rare' OR ad.Description CONTAINS 'acute') RETURN ad.Label AS DiseaseLabel, ad.ID AS ID"
+},
+
+{
+  "question": "Find autoimmune diseases that are also cancers, and at the same time are also either neurodegenerative diseases or infectious diseases.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE d:Cancer AND (d:Neurodegenerative_disease OR d:Infectious_disease) RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+{
+  "question": "Find autoimmune diseases that are also cancers and whose labels mention the gene 'STAT3'.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE d:Cancer AND d.Label CONTAINS 'STAT3' RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications"
+},
+{
+  "question": "Return all properties of the autoimmune disease labeled as 'Castleman-Kojima disease'.",
+  "cypher": "MATCH (ad:Autoimmune_disease {Label:'Castleman-Kojima disease'}) RETURN ad"
+},
+
+{
+  "question": "Find all autoimmune diseases whose label contains 'diabete' and whose description mentions the gene 'sumo4' (case-insensitive). Return all the properties for matching nodes.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) CONTAINS 'diabete' AND toLower(d.Description) CONTAINS 'sumo4' RETURN PROPERTIES(d)"
+}, 
+{
+  "question": "Retrieve the autoimmune diseases whose label contains 'diabete' and whose description mentions 'chromosome 11'. Return their label, description, and URI.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) CONTAINS 'diabete' AND toLower(d.Description) CONTAINS 'chromosome 11' RETURN d.Label, d.Description, d.URI"
+},
+
+{
+  "question": "List the description of all autoimmune diseases whose label contains 'celiac' and whose description is not null.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) CONTAINS 'celiac' AND d.Description IS NOT NULL RETURN d.Label, d.Description"
+},
+
+{
+  "question": "Count how many autoimmune diseases have labels containing 'celiac disease, susceptibility to'.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE d.Label CONTAINS 'celiac disease, susceptibility to' RETURN COUNT(d) AS count"
+},
+{
+  "question": "Find all autoimmune diseases whose labels start with 'anti'. Return their label and URI.",
+  "cypher": "MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) STARTS WITH 'anti' RETURN d.Label, d.URI"
+},
+
+{
+  "question": "Retrieve all the properties of the mental disease labeled 'Keshan disease'.",
+  "cypher": "MATCH (d:Mental_disease {Label:'phobia'}) RETURN d.Label AS DiseaseLabel, d.Description"
+},
+{
+  "question": "Find all mental diseases whose description mention the 'american psychiatric association'.",
+  "cypher": "MATCH (d:Mental_disease) WHERE d.Description CONTAINS 'american psychiatric association' RETURN d.Label AS DiseaseLabel, d.Description"
+},
+{
+  "question": "Find the mental disease whose ID contains '122'.",
+  "cypher": "MATCH (d:Mental_disease) WHERE d.ID CONTAINS '122' RETURN d.Label AS DiseaseLabel, d.ID"
+},
+{
+  "question": "Find all mental diseases whose description mentions 'fear'.",
+  "cypher": "MATCH (d:Mental_disease) WHERE d.Description CONTAINS 'fear' RETURN d.Label AS DiseaseLabel, d.Description"
+},
+
+{
+  "question": "Find all mental diseases whose description contains 'anxiety' but whose label does not contain 'depress'. Return their label and description.",
+  "cypher": "MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'anxiety' AND NOT toLower(d.Label) CONTAINS 'depress' RETURN d.Label AS DiseaseLabel, d.Description"
+},
+
+{
+  "question": "Find all mental diseases whose description contains 'consciousness' or 'cognitive'. Return their label, description, and URI.",
+  "cypher": "MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'consciousness' OR toLower(d.Description) CONTAINS 'cognitive' RETURN d.Label AS DiseaseLabel, d.Description, d.URI"
+},
+{
+  "question": "Find mental diseases whose description mention the name 'SUE' (case-insensitive) and also contains at least one of 'David', 'Derald', or 'Stanley' (all case-insensitive). Return their label and description.",
+  "cypher": "MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'sue' AND (toLower(d.Description) CONTAINS 'david' OR toLower(d.Description) CONTAINS 'derald' OR toLower(d.Description) CONTAINS 'stanley') RETURN d.Label AS DiseaseLabel, d.Description"
+},
+{
+  "question": "Find all mental diseases whose description contains the word 'mood' but whose label does not contain 'mood'. Return their label and description.",
+  "cypher": "MATCH (d:Mental_disease) WHERE d.Description CONTAINS 'mood' AND NOT d.Label CONTAINS 'mood' RETURN d.Label AS DiseaseLabel, d.Description"
+},
+
+{
+  "question": "Find all mental diseases whose description contains the word 'sadness'. Return their label and URI.",
+  "cypher": "MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'sadness' RETURN d.Label AS DiseaseLabel, d.URI"
+},
+{
+  "question": "Find the mental disease that has the URI 'http://purl.obolibrary.org/obo/MFOMD_0000001', and return its label and description.",
+  "cypher": "MATCH (d:Mental_disease {URI: 'http://purl.obolibrary.org/obo/MFOMD_0000001'}) RETURN d.Label AS DiseaseLabel, d.Description"
+},
+
+{
+  "question": "Find the infectious diseases whose description mentions 'psychotropic medications', and return its label and ID.",
+  "cypher": "MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'psychotropic medications' RETURN i.Label AS DiseaseLabel, i.ID"
+},
+{
+  "question": "Find the infectious diseases whose labels contain the word 'tuberculosis' and that are also cardiovascular diseases. ",
+"cypher": "MATCH (i:Infectious_disease) WHERE i.Label CONTAINS 'tuberculosis' AND i:Cardiovascular_disease RETURN i.Label AS DiseaseLabeltuberculosis, labels(i)"
+},
+{
+  "question": "Find the infectious diseases whose description contain 'contagious'. Return their label and URI.",
+  "cypher": "MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'contagious' RETURN i.Label AS DiseaseLabel, i.URI"
+},
+{
+  "question": "Find the infectious diseases whose description contain 'mosquito' or 'fly'. Return their label and the ID.",
+  "cypher": "MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'mosquito' OR i.Description CONTAINS 'fly' RETURN i.Label AS DiseaseLabel, i.ID"
+},
+{
+  "question": "Find the infectious diseases whose labels do not ends with 'osis' and whose description contains the word 'mortality' or the word 'death'. Return only disease labels.",
+  "cypher": "MATCH (i:Infectious_disease) WHERE NOT i.Label ENDS WITH 'osis' AND (i.Description CONTAINS 'mortality' OR i.Description CONTAINS 'death') RETURN i.Label AS DiseaseLabel"
+},
+
+
+{
+  "question": "Find the infectious diseases whose description mention the book 'principles of neurology', and return their label.",
+"cypher": "MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'principles of neurology' RETURN i.Label AS DiseaseLabel"
+},
+{
+  "question": "Find in which other type of diseases the infectious diseases labeled 'bulbar polio' are classified, and return the diseases' ID and types (use 'LABELS(Infectious_disease)').",
+"cypher": "MATCH (i:Infectious_disease {Label:'bulbar polio'}) RETURN i.ID, LABELS(i)"
+},
+{
+  "question": "Find the infectious diseases whose description contains 'asia' but does not contain 'africa'. Return diseases' label.",
+"cypher": "MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'principles of neurology' RETURN i.Label AS DiseaseLabel"
+},
+
+{
+  "question": "Find infectious diseases such that their: 1) labels or description contain 'influenza'; 2) their description contain a number followed by 'day'. Return only the label.",
+  "cypher": "MATCH (i:Infectious_disease) WHERE i.Description =~ '.*[0-9]+\\s*day.*' AND (i.Label CONTAINS 'influenza' OR i.Description CONTAINS 'influenza') RETURN i.Label AS DiseaseLabel"
+},
+{
+  "question": "Retrieve the description of the 'cardiac tuberculosis'-labeled infectious diseases.",
+  "cypher": "MATCH (i:Infectious_disease{Label:'cardiac tuberculosis'}) RETURN i.Description"
+},
+
+{
+  "question": "List all neurodegenerative diseases whose labels contain 'dementia' but not 'sclerosis'.",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'dementia' AND NOT n.Label CONTAINS 'sclerosis' RETURN n.Label AS DiseaseLabel"
+},
+{
+  "question": "List all neurodegenerative diseases whose labels contain 'sclerosis' but they are not autoimmune diseases nor cancers.",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'sclerosis' AND NOT n:Autoimmune_disease AND NOT n:Cancer RETURN n.Label AS DiseaseLabel, LABELS(n)"
+},
+{
+  "question": "List all neurodegenerative diseases whose labels contain 'sclerosis' and they are also either autoimmune diseases or cancers.",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'sclerosis' AND n:Autoimmune_disease OR n:Cancer RETURN n.Label AS DiseaseLabel, LABELS(n)"
+},
+{
+  "question": "List all neurodegenerative diseases whose labels or description contain 'chronic' but that are not autoimmune diseases.",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE (n.Label CONTAINS 'chronic' OR n.Description CONTAINS 'chronic') AND NOT n:Autoimmune_disease RETURN n.Label AS DiseaseLabel, LABELS(n)"
+},
+{
+  "question": "Retrieve the description of neurodegenerative diseases whose label contain 'parkinson' (if the node property 'Description' is available).",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'parkinson' AND n.Description IS NOT NULL RETURN n.Label AS DiseaseLabel, n.Description"
+},
+{
+  "question": "Retrieve all available information (i.e., the entire node) about the neurodegenerative disease labeled 'Huntington disease-like syndrome due to C9ORF72 expansions'.",
+  "cypher": "MATCH (n:Neurodegenerative_disease {Label: 'Huntington disease-like syndrome due to C9ORF72 expansions'}) RETURN n"
+},
+{
+  "question": "Retrieve all the available information (i.e., the entire node) about the neurodegenerative disease with the following ID:'MONDO:0002960'.",
+  "cypher": "MATCH (n:Neurodegenerative_disease {ID:'MONDO:0002960'}) RETURN n"
+},
+
+{
+  "question": "Find the neurodegenerative diseases whose labels contain 'Alzheimer' while their description mention the gene PLD3 (case-insensitive).",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'Alzheimer' AND n.Description CONTAINS 'pld3' RETURN n.Label, n.Description"
+},
+{
+  "question": "Find the neurodegenerative diseases such that their: 1) labels contain 'epilepsy'; 2) their description mention gene mutation containing the term 'gene' and the term 'mutation'.",
+  "cypher": "MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'epilepsy' AND n.Description CONTAINS 'mutation' AND n.Description CONTAINS 'gene' RETURN n.Label,n.Description"
+},
+{
+  "question": "List all biological processes whose labels contain 'nitrogen starvation'. Return their full label and also the ID.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'nitrogen starvation' RETURN bp.Label, bp.ID "
+},
+{
+  "question": "How many biological processes have labels that contain 'negative regulation'?",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'negative regulation' RETURN COUNT(bp) "
+},
+{
+  "question": "How many biological process nodes are there, what are their labels, and which species are they associated with?",
+  "cypher": "MATCH (bp:Biological_process) RETURN COUNT(bp), LABELS(bp), bp.Species"
+},
+{
+  "question": "List the labels of all biological process nodes that belong to the species 'Metazoa'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Species = 'Metazoa' RETURN bp.Label"
+},
+{
+  "question": "Return the species associated with the biological process labeled 'pigmentation'.",
+  "cypher": "MATCH (bp:Biological_process {Label:'pigmentation'}) RETURN bp.Species"
+},
+{
+  "question": "Return all properties (i.e., the entire node) of the 'muscle structure development'-labeled biological process.",
+  "cypher": "MATCH (bp:Biological_process {Label:'muscle structure development'}) RETURN bp"
+},
+{
+  "question": "List the labels of all biological processes that belong to the species 'Eumetazoa' and do not contain the word 'regulation' in their labels.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Species = 'Eumetazoa' AND NOT bp.Label CONTAINS 'regulation' RETURN bp.Label"
+},
+{
+  "question": "Retrieve the description and the species of the biological process labeled as 'female pregnancy'.",
+  "cypher": "MATCH (bp:Biological_process {Label: 'female pregnancy'}) RETURN bp.Description, bp.Species"
+},
+{
+  "question": "List all biological processes whose labels contain 'insulin' and also contain either the word 'positive' or 'negative'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'insulin' AND (bp.Label CONTAINS 'positive' OR bp.Label CONTAINS 'negative') RETURN bp.Label"
+},
+{
+  "question": "List all biological processes whose labels contain 'cardiac muscle' but do not contain either the word 'positive' or 'negative'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'cardiac muscle' AND NOT (bp.Label CONTAINS 'positive' OR bp.Label CONTAINS 'negative') RETURN bp.Label"
+},
+{
+  "question": "List all biological processes whose label or description contains 'action potential' and whose description contains either the string 'from the soma' or 'towards the soma'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE (bp.Label CONTAINS 'action potential' OR bp.Description CONTAINS 'action potential') AND (bp.Description CONTAINS 'from the soma' OR bp.Description CONTAINS 'towards the soma') RETURN bp.Label, bp.Description"
+},
+
+{
+  "question": "Find all biological processes whose labels contain 'blood-brain barrier'. Return their label and ID.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'blood-brain barrier' RETURN bp.Label, bp.ID"
+},
+{
+  "question": "Return all the available properties for the biological process with ID 'GO:0090211'.",
+  "cypher": "MATCH (bp:Biological_process {ID:'GO:0090211'}) RETURN bp"
+},
+{
+  "question": "Return the label and description of the biological process with URI 'http://purl.obolibrary.org/obo/GO_0019227'.",
+  "cypher": "MATCH (bp:Biological_process {URI:'http://purl.obolibrary.org/obo/GO_0019227'}) RETURN bp.Label, bp.Description"
+},
+
+{
+  "question": "Find biological processes whose labels contain 'bone marrow' and whose descriptions contain 'cell death'. Return their label and URI.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Label CONTAINS 'bone marrow' AND bp.Description CONTAINS 'cell death' RETURN bp.Label, bp.URI"
+},
+
+{
+  "question": "List all biological processes belonging to the species 'cellular organisms' whose descriptions contain 'steady state'. Return their label, description, and URI.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Species = 'cellular organisms' AND bp.Description CONTAINS 'steady state' RETURN bp.Label, bp.Description, bp.URI"
+},
+{
+  "question": "List all biological processes whose descriptions contain 'level of the cell'. Return the label and the URI.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Description CONTAINS 'level of the cell' RETURN bp.Label, bp.URI"
+},
+{
+  "question": "List all biological processes whose label or description contains 'blood' and whose description also contains either 'protein' or 'lipid'. Return their label and URI.",
+  "cypher": "MATCH (bp:Biological_process) WHERE (bp.Label CONTAINS 'blood' OR bp.Description CONTAINS 'blood') AND (bp.Description CONTAINS 'protein' OR bp.Description CONTAINS 'lipid') RETURN bp.Label, bp.URI"
+},
+
+{
+  "question": "Find all biological processes whose descriptions contain either the string 'progression of the cell' or 'death of the cell'. Return their label and ID.",
+  "cypher": "MATCH (bp:Biological_process) WHERE bp.Description CONTAINS 'progression of the cell' OR bp.Description CONTAINS 'death of the cell' RETURN bp.Label, bp.ID"
+},
+{
+  "question": "Retrieve labels of all biological processes whose labels contain either the word 'catabolic' or 'metabolic' and whose descriptions contain both the strings 'chemical reactions' and 'receptor'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE (bp.Label CONTAINS 'catabolic' OR bp.Label CONTAINS 'metabolic') AND (bp.Description CONTAINS 'chemical reactions' AND bp.Description CONTAINS 'receptor') RETURN bp.Label"
+},
+{
+  "question": "Count all GO terms, list their labels, and indicate which species they are associated with.",
+  "cypher": "MATCH (g:GO) RETURN COUNT(g), LABELS(g), g.Species"
+},
+{
+  "question": "Find the label of all GO terms that are not biological processes, molecular functions, or cellular components, and whose labels contain the word 'inhibitor'.",
+  "cypher": "MATCH (g:GO) WHERE (g:GO AND NOT g:Biological_process AND NOT g:Molecular_function AND NOT g:Cellular_component) AND g.Label CONTAINS 'inhibitor' RETURN g.Label"
+},
+{
+  "question": "List the labels and IDs of all GO terms that are not biological processes, molecular functions, or cellular components, and whose labels contain 'anti'.",
+  "cypher": "MATCH (g:GO) WHERE g:GO AND (NOT g:Biological_process AND NOT g:Molecular_function AND NOT g:Cellular_component) AND g.Label CONTAINS 'anti' RETURN g.Label, g.ID"
+},
+{
+  "question": "Find the classification of GO terms whose IDs start with 'GOCHE'.",
+  "cypher": "MATCH (g:GO) WHERE g.ID STARTS WITH 'GOCHE' RETURN DISTINCT LABELS(g) AS Classification"
+},
+{
+  "question": "Return the distinct classifications of all GO terms whose IDs start with 'GO:'.",
+  "cypher": "MATCH (g:GO) WHERE g.ID STARTS WITH 'GO:' RETURN DISTINCT LABELS(g) AS Classification"
+},
+{
+  "question": "Retrieve labels and URIs of all GO terms that are not biological processes, molecular functions, or cellular components, and whose labels contain the string ' EC' (be careful, there's a space before EC).",
+  "cypher": "MATCH (g:GO) WHERE g:GO AND (NOT g:Biological_process AND NOT g:Molecular_function AND NOT g:Cellular_component) AND g.Label CONTAINS ' EC' RETURN g.Label, g.URI"
+},
+{
+  "question": "List the labels and classifications (i.e., LABELS(node)) of all GO terms whose labels contain both the keywords 'DNA' and 'RNA', and whose label or description also contains the string 'gene silencing'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'DNA' AND g.Label CONTAINS 'RNA' AND (g.Label CONTAINS 'gene silencing' OR g.Description CONTAINS 'gene silencing') RETURN g.Label, LABELS(g)"
+},
+{
+  "question": "Find the GO terms whose IDs end with '76668'.",
+  "cypher": "MATCH (g:GO) WHERE g.ID ENDS WITH '76668' RETURN g.Label, g.ID"
+},
+{
+  "question": "Retrieve the description of the 'provirus excision' GO term.",
+  "cypher": "MATCH (g:GO {Label:'provirus excision'}) RETURN g.Description"
+},
+{
+  "question": "Find all GO terms whose labels contain 'regulation' and whose descriptions contain 'antiviral response'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'regulation' AND g.Description CONTAINS 'antiviral response' RETURN g.Label, g.Description"
+},
+{
+  "question": "List the labels of GO terms whose labels contain both the strings 'envenomation' and 'negative regulation'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'envenomation' AND g.Label CONTAINS 'negative regulation' RETURN g.Label"
+},
+{
+  "question": "List GO terms whose label contains the word 'modulation' and also contain either the word 'virus' or 'viral'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'modulation' AND (g.Label CONTAINS 'virus' OR g.Label CONTAINS 'viral') RETURN g.Label"
+},
+{
+  "question": "Find GO terms whose labels contain the string 'genome replication' but do NOT contain 'regulation' nor 'modulation'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'genome replication' AND NOT (g.Label CONTAINS 'regulation' OR g.Label CONTAINS 'modulation') RETURN g.Label"
+},
+
+{
+  "question": "Find how are classified (i.e., use LABELS(node)) GO terms whose labels contain 'genome' but do not contain either 'replication' or 'viral'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'genome' AND NOT (g.Label CONTAINS 'replication' OR g.Label CONTAINS 'viral') RETURN g.Label, LABELS(g)"
+},
+
+{
+  "question": "Find GO terms whose labels contain 'plasma', do not contain 'membrane', and are not biological processes.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'plasma' AND NOT g.Label CONTAINS 'membrane' AND NOT g:Biological_process RETURN g.Label, LABELS(g)"
+},
+{
+  "question": "Find the labels of GO terms whose labels contain 'alcohol', do NOT contain 'regulation', are NOT cellular components, and whose descriptions contain both the words 'catalysis' and '+'.",
+  "cypher": "MATCH (g:GO) WHERE (g.Label CONTAINS 'alcohol' AND NOT g.Label CONTAINS 'regulation' AND NOT g:Cellular_component) AND g.Description CONTAINS 'catalysis' AND g.Description CONTAINS '+' RETURN g.Label"
+},
+{
+  "question": "Find GO terms whose labels contain 'dopamine' and whose descriptions contain both the words 'catalysis' and '+'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'dopamine' AND g.Description CONTAINS 'catalysis' AND g.Description CONTAINS '+' RETURN DISTINCT g.Label, g.Description"
+},
+{
+  "question": "Find labels and IDs of all GO terms whose descriptions mention the small interfering RNAs 'sirnas' (case insensitive).",
+  "cypher": "MATCH (g:GO) WHERE toLower(g.Description) CONTAINS 'sirnas' RETURN g.Label, g.ID"
+},
+{
+  "question": "List GO terms whose label contains 'transcription' and either 'snoRNA' or 'sno(s)RNA'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'transcription' AND (g.Label CONTAINS 'snoRNA' OR g.Label CONTAINS 'sno(s)RNA') RETURN g.Label"
+},
+{
+  "question": "List GO terms whose labels contain the word 'miRNA' and also contain either the word 'binding' or the word 'transcription'.",
+  "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'miRNA' AND (g.Label CONTAINS 'binding' OR g.Label CONTAINS 'transcription') RETURN g.Label"
+},
+{
+  "question": "Count all molecular functions, their classification, and indicate which species they are associated with.",
+  "cypher": "MATCH (mf:Molecular_function) RETURN COUNT(mf), LABELS(mf), mf.Species"
+},
+{
+  "question": "List all molecular functions whose labels contain either the word 'miRNA' or 'snoRNA'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'miRNA' OR mf.Label CONTAINS 'snoRNA' RETURN mf.Label"
+},
+{
+  "question": "Find molecular functions whose descriptions contain the string 'small nucleolar rna'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'small nucleolar rna' RETURN mf.Label, mf.Description"
+},
+{
+  "question": "Return all information (i.e., the entire node with all its properties) of the molecular function labeled as 'piRNA cluster binding'.",
+  "cypher": "MATCH (mf:Molecular_function {Label:'piRNA cluster binding'}) RETURN mf"
+},
+
+{
+  "question": "Find labels and URIs of the molecular functions that belong to the species 'Eumetazoa'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Species = 'Eumetazoa' RETURN mf.Label, mf.URI"
+},
+{
+  "question": "Find the molecular functions that do not belong to the species 'Eumetazoa'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Species <> 'Eumetazoa' RETURN mf.Label, mf.Species"
+},
+{
+  "question": "List all molecular functions whose labels contain the string 'alcohol O' and whose descriptions contain the string 'catalysis of the reaction'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'alcohol O' AND mf.Description CONTAINS 'catalysis of the reaction' RETURN mf.Label, mf.Description"
+},
+{
+  "question": "Return the labels of all molecular functions that contain the word 'gene' as a standalone word in their labels.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE  mf.Label =~ '.*\\bgene\\b.*' RETURN mf.Label"
+},
+{
+  "question": "Which molecular functions have labels containing 'bone' but descriptions that do not contain 'catalysis'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'bone' AND NOT mf.Description CONTAINS 'catalysis' RETURN mf.Label, mf.Description"
+},
+{
+  "question": "List the molecular functions that are characterized by a property named 'Synonym'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Synonym IS NOT NULL RETURN mf.Label, mf.Synonym"
+},
+{
+  "question": "Find the molecular functions such that none of the synonyms is identical to the label.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE NONE(s IN mf.Synonym WHERE s = mf.Label) RETURN mf.Label, mf.Synonym"
+},
+{
+  "question": "Find labels and URIs of molecular functions whose labels contain the word 'anion' and whose labels or descriptions contain the word 'transmembrane'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'anion' AND (mf.Label CONTAINS 'transmembrane' OR mf.Description CONTAINS 'transmembrane') RETURN mf.Label, mf.ID"
+},
+{
+  "question": "Find the molecular functions that have label or synonyms containing the term 'monoatomic'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'monoatomic' OR mf.Synonym CONTAINS 'monoatomic' RETURN mf.Label, mf.Synonym"
+},
+{
+  "question": "Find the molecular function that have a synonym named 'molecular_function'.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE 'molecular_function' IN mf.Synonym RETURN mf.Label AS MolecularFunction, mf.Synonym AS Synonyms"
+},
+{
+  "question": "Retrieve the molecular functions whose IDs end with '0128'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.ID ENDS WITH '0128' RETURN mf.Label, mf.ID"
+},
+
+{
+  "question": "List labels of molecular functions whose labels or descriptions contain the string '-gated' and whose descriptions do not start with 'enables'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE (mf.Label CONTAINS '-gated' OR mf.Description CONTAINS '-gated') AND NOT mf.Description STARTS WITH 'enables' RETURN mf.Label"
+},
+
+{
+  "question": "List molecular functions whose: 1) labels contain the string 'G-protein'; 2) descriptions contain 'potassium'; and 3) descriptions do not contain 'binding'. Return only their labels.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE (mf.Label CONTAINS 'G-protein' AND mf.Description CONTAINS 'potassium') AND NOT mf.Description CONTAINS 'binding' RETURN mf.Label, mf.Description"
+},
+
+{
+  "question": "List all molecular functions whose labels contain the string 'pH' and also contain either the word 'calcium' or 'sodium'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'pH' AND (mf.Label CONTAINS 'calcium' OR mf.Label CONTAINS 'sodium') RETURN mf.Label"
+},
+{
+  "question": "List all molecular functions whose labels contain the string 'gated ' without a dash ('-') before it.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'gated ' AND NOT mf.Label CONTAINS '-gated' RETURN mf.Label"
+},
+{
+  "question": "Find molecular functions that contain the word 'light' without a '-' before or after it.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'light' AND NOT mf.Label CONTAINS '-light' AND NOT mf.Label CONTAINS 'light-' RETURN mf.Label"
+},
+
+{
+  "question": "Find the phenotypes whose: 1) labels contain 'kinase'; 2) descriptions contain 'increased'; and 3) descriptions contain either 'concentration' or 'level'.",
+  "cypher": "MATCH (p:Phenotype) WHERE (p.Label CONTAINS 'kinase' AND p.Description CONTAINS 'increased') AND (p.Description CONTAINS 'concentration' OR p.Description CONTAINS 'level') RETURN p.Label AS Phenotype, p.Description"
+},
+{
+  "question": "Find the phenotypes that are characterized by the Chinese synonym '肌酸磷酸激酶极度上升'.",
+  "cypher": "MATCH (p:Phenotype) WHERE '肌酸磷酸激酶极度上升' IN p.Synonym RETURN p.Label"
+},
+{
+  "question": "List the phenotypes that are characterized by a synonym containing the Turkish string 'Aşırı yükselmiş'. Return the phenotype label and ID.",
+  "cypher": "MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'Aşırı yükselmiş') RETURN p.Label AS Phenotype, p.ID"
+},
+{
+  "question": "Which phenotypes are characterized by IDs ending with '0233'?",
+  "cypher": "MATCH (p:Phenotype) WHERE p.ID ENDS WITH '0233' RETURN p.Label AS Phenotype, p.ID AS PhenotypeID"
+},
+{
+  "question": "Return the phenotypes whose labels contain the word 'creatine' and also contain either 'Reduced' or 'Decreased'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'creatine' AND (p.Label CONTAINS 'Reduced' OR p.Label CONTAINS 'Decreased') RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Which phenotypes have labels starting with the word 'Anti', contain 'antibody', and do NOT contain 'positivity'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label STARTS WITH 'Anti' AND p.Label CONTAINS 'antibody' AND NOT p.Label CONTAINS 'positivity' RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Find the phenotypes whose labels contain the word 'collagen' and also contain either 'Increased' or 'Elevated'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'collagen' AND (p.Label CONTAINS 'Increased' OR p.Label CONTAINS 'Elevated') RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Find the phenotypes whose labels contain the word 'collagen' and are characterized by a synonym containing the Spanish string 'Elevación'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'collagen' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'Elevación') RETURN p.Label AS Phenotype, p.Label, p.Synonym"
+},
+{
+  "question": "List the phenotypes whose IDs start with 'HP:600000'. Return their label, synonyms, and ID.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.ID STARTS WITH 'HP:600000' RETURN p.Label AS PhenotypeLabel, p.Synonym AS PhenotypeSynonym, p.ID"
+},
+{
+  "question": "Retrieve labels and URIs of the phenotypes whose labels contain either 'BB' or 'MM'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'BB' OR p.Label CONTAINS 'MM' RETURN p.Label AS Phenotype, p.URI"
+},
+{
+  "question": "Which phenotypes are characterized by synonyms written in non-ASCII characters but that do include the string 'BB'.",
+  "cypher": "MATCH (p:Phenotype) WHERE ANY(s IN p.Synonym WHERE s =~ '.*[^\\x00-\\x7F].*' AND s CONTAINS 'BB') RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Which phenotypes have labels containing the word 'isoform' and descriptions that include the standalone terms 'mb', 'bb', or 'mm'?",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'isoform' AND p.Description =~ '.*\\b(mb|bb|mm)\\b.*' RETURN p.Label AS Phenotype, p.Description"
+},
+{
+  "question": "Find the phenotypes whose: 1) labels contain both the words 'muscle' and 'weakness'; 2) descriptions contain the string 'decreased strength'; 3) descriptions do NOT contain the word 'generalized'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'muscle' AND p.Label CONTAINS 'weakness' AND p.Description CONTAINS 'decreased strength' AND NOT p.Description CONTAINS 'generalized' RETURN p.Label AS Phenotype, p.Description"
+},
+{
+  "question": "Find phenotypes whose labels contain 'Neck muscle' and whose descriptions do not contain the word 'strength'. Return nodes' label, description, and synonyms.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'Neck muscle' AND NOT p.Description CONTAINS 'strength' RETURN p.Label AS Phenotype, p.Description, p.Synonym"
+},
+{
+  "question": "Retrieve the phenotype whose label and synonyms both contain 'Holster'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'Holster' AND ANY(s IN p.Synonym WHERE s CONTAINS 'Holster') RETURN p.Label AS Phenotype, p.Synonym"
+},
+{
+  "question": "Return all the information of the phenotype that has the Spanish synonym 'Fractura de olécranon'.",
+  "cypher": "MATCH (p:Phenotype) WHERE 'Fractura de olécranon' IN p.Synonym RETURN p"
+},
+{
+  "question": "Find the phenotypes that have the Spanish synonym 'Fontanela hundida'. Return their label, synonyms, and URI.",
+  "cypher": "MATCH (p:Phenotype) WHERE 'Fontanela hundida' IN p.Synonym RETURN p.Label AS Phenotype, p.Synonym, p.URI"
+},
+{
+  "question": "List the description, synonyms, and URI of the phenotype labeled as 'Cotard delusion'.",
+  "cypher": "MATCH (p:Phenotype {Label: 'Cotard delusion'}) RETURN p.Description, p.Synonym, p.URI"
+},
+{
+  "question": "Find the phenotype whose description mention '(retrieval of eggs for fertility treatments)'. Return the label and the synonym of the identified node(s).",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Description CONTAINS '(retrieval of eggs for fertility treatments)' RETURN p.Label AS Phenotype, p.Synonym"
+},
+{
+  "question": "Which phenotypes have labels containing the string 'zona pellucida' and descriptions containing either the word 'abnormal' or 'reduced'.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'zona pellucida' AND (p.Description CONTAINS 'abnormal' OR p.Description CONTAINS 'reduced') RETURN p.Label, p.Description"
+},
+{
+  "question": "Find the cellular components whose labels contain 'protein kinase' and whose descriptions contain 'enzyme'. Return their label and ID.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'protein kinase' AND cc.Description CONTAINS 'enzyme' RETURN cc.Label, cc.ID"
+},
+{
+  "question": "Find the cellular components whose labels contain 'intracellular' and whose descriptions contain the string 'a network of proteins'. Return their label and ID.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'intracellular' AND cc.Description CONTAINS 'a network of proteins' RETURN cc.Label, cc.ID"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the word 'chromosome' and explicitly refer to chromosome 'X', 'Y', or 'Z' in their label?",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'chromosome' AND (cc.Label CONTAINS 'X' OR cc.Label CONTAINS 'Y' OR cc.Label CONTAINS 'Z') RETURN cc.Label, cc.ID"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the standalone word 'active'?",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*\\bactive\\b.*' RETURN cc.Label"
+},
+{
+  "question": "Which cellular component is characterized by the GO identifier 'GO:0098578'?",
+  "cypher": "MATCH (cc:Cellular_component {ID: 'GO:0098578'}) RETURN cc.Label AS CellularComponent"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the word 'presynaptic' but do not contain the word 'active'? Return nodes' labels and IDs.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'presynaptic' AND NOT cc.Label CONTAINS 'active' RETURN cc.Label AS CellularComponent, cc.ID"
+},
+{
+  "question": "Which cellular components are characterized by labels containing 'lipid' and either have 'oleosins' in their label or in their description? Return only nodes' properties named 'Label' and 'URI'",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'lipid' AND (cc.Label CONTAINS 'oleosins' OR cc.Description CONTAINS 'oleosins') RETURN cc.Label AS CellularComponent, cc.URI"
+},
+{
+  "question": "Which cellular components are characterized by labels containing 'synaptic' and mention a distance expressed as a number followed by 'nm' in their description? Return their label, description and ID.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'synaptic' AND cc.Description =~ '.*[0-9]+\\s*nm.*' RETURN cc.Label AS CellularComponent, cc.Description, cc.ID"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the string 'active zone' and either contain the string 'cytoskelet' in their label or in their description? Return their label and URI.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'active zone' AND (cc.Label CONTAINS 'cytoskelet' OR cc.Description CONTAINS 'cytoskelet') RETURN cc.Label AS CellularComponent, cc.URI"
+},
+{
+  "question": "Which cellular components are characterized by labels containing 'Golgi' and either contain 'ER' (i.e., an abbreviation for 'Endoplasmic Reticulum') in their label or the full string 'endoplasmic reticulum' in their description (case-insensitive)? Return their label and ID.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 'golgi' AND (toLower(cc.Label) CONTAINS 'er' OR toLower(cc.Description) CONTAINS 'endoplasmic reticulum') RETURN cc.Label AS CellularComponent, cc.ID"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the word 'network' and either contain the word 'side' in their label or 'leaflet' in their description?",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'network' AND (cc.Label CONTAINS 'side' OR cc.Description CONTAINS 'leaflet') RETURN cc.Label AS CellularComponent, cc.Description"
+},
+{
+  "question": "Which cellular components have labels containing the string 'host cell' and contain the word 'antibodies' either in their label or in their description?",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'host cell' AND (cc.Label CONTAINS 'antibodies' OR cc.Description CONTAINS 'antibodies') RETURN cc.Label AS CellularComponent, cc.Description"
+},
+{
+  "question": "Return all the available properties (i.e., the entire database node) about the 'presynaptic periactive zone'-labeled cellular component.",
+  "cypher": "MATCH (cc:Cellular_component {Label: 'presynaptic periactive zone'}) RETURN cc"
+},
+{
+  "question": "List the cellular components whose labels contain the keyword 'RNA' preceded by the characters 'm', 't', or 'sn'.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*\\b(m|t|sn)RNA\\b.*' RETURN cc.Label AS CellularComponent, cc.ID"
+},
+{
+  "question": "Find the cellular components whose labels contain the word 'polymerase' followed by a Roman numeral.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*polymerase\\s+[IVXLCDM]+.*' RETURN cc.Label AS CellularComponent, cc.ID"
+},
+{
+  "question": "Retrieve the cellular components whose ID starts with 'GO:009857' and whose label does not contain the word 'chromosome'.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.ID STARTS WITH 'GO:009857' AND NOT cc.Label CONTAINS 'chromosome' RETURN cc.Label AS CellularComponent, cc.ID"
+},
+{
+  "question": "Find the cellular components whose labels or descriptions contain the word 'leaflet', but whose labels and descriptions do not contain 'lumen'.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE (cc.Label CONTAINS 'leaflet' OR cc.Description CONTAINS 'leaflet') AND NOT (cc.Label CONTAINS 'lumen' OR cc.Description CONTAINS 'lumen') RETURN cc.Label AS CellularComponent, cc.Description"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the acronym 'PML' (case-insensitive) or descriptions containing the full string 'promyelocytic leukemia'? Return their label and URI. ",
+  "cypher": "MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 'pml' OR cc.Description CONTAINS 'promyelocytic leukemia' RETURN cc.Label AS CellularComponent, cc.URI"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the word 'matrix' and descriptions containing either the string 'extracellular' or 'synaptic cleft'? Return their labels.",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'matrix' AND (cc.Description CONTAINS 'extracellular' OR cc.Description CONTAINS 'synaptic cleft') RETURN cc.Label"
+},
+{
+  "question": "Which cellular components are characterized by labels containing the word 'DNA' preceded by a lower-case character, such as 'rDNA'?",
+  "cypher": "MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*[a-z]DNA.*' RETURN cc.Label AS CellularComponent"
+},
+   {
+  "question": "Which miRNA are characterized by genomic coordinates located on the positive strand of the chromosome Y (e.g., chrY:123-132+) ?",
+  "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY' AND coord ENDS WITH '+') RETURN m.Label, m.Genomic_coordinates"
+},
+   {
+  "question": "Which pre-miRNA have genomic coordinate located on the negative strand of the chromosome 21 (i.e., the coordinates end with '-') ?",
+  "cypher": "MATCH (p:pre_miRNA) WHERE ANY(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chr21' AND coord ENDS WITH '-') RETURN p.Label, p.Genomic_coordinates"
+},
+{
+  "question": "Which miRNAs are located on chromosome X and are characterized by genomic coordinates on both the positive and negative strands (chromosome ends with '+' and '-')?",
+  "cypher": "MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX' AND coord ENDS WITH '+') AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX' AND coord ENDS WITH '-') RETURN m.Label, m.Genomic_coordinates"
+},
+{
+  "question": "Identify genes that are pseudogenes characterized by a synonym containing: 1) the word 'pseudogene' and 2) the word 'DEAD'.",
+  "cypher": "MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'pseudogene' AND syn CONTAINS 'DEAD') RETURN g.Label, g.Synonym"
+},
+{
+  "question": "Identify genes that have a synonym containing 'DEAD' but do not have the word 'pseudogene' within the same synonym.",
+  "cypher": "MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'DEAD' AND NOT syn CONTAINS 'pseudogene') RETURN g.Label, g.Synonym"
+},
+{
+  "question": "Identify genes that have a synonym containing 'ribosomal' and are not pseudogenes (i.e., they do not have 'pseudogene' in their synonym). Return the genes' label.",
+  "cypher": "MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'ribosomal' AND NOT syn CONTAINS 'pseudogene') RETURN g.Label"
+},
+{
+  "question": "Identify genes that have a synonym containing the word 'cancer' and also contain either the word 'antigen' or 'isomerase'.",
+  "cypher": "MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'cancer' AND (syn CONTAINS 'antigen' OR syn CONTAINS 'isomerase')) RETURN g.Label, g.Synonym"
+},
+{
+  "question": "Find all genes whose label contains the symbol 'MIR127' and order them by sequence length, breaking ties alphabetically by label.",
+  "cypher": "MATCH (g:Gene) WHERE g.Label CONTAINS 'MIR127' RETURN g.Label, SIZE(g.Sequence) AS sequence_length ORDER BY sequence_length DESC, g.Label ASC"
+},
+{
+  "question": "Find all miRNAs whose label start 'hsa-miR-199' and order them by sequence length, breaking ties alphabetically by label.",
+  "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-199' RETURN m.Label, SIZE(m.Sequence) AS sequence_length ORDER BY sequence_length DESC, m.Label ASC"
+}
+  ]

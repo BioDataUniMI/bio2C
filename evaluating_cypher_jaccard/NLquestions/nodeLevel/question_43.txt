@@ -1,0 +1,1 @@
+Which phenotypes whose labels contain 'tumor' have at least 8 synonyms recorded?

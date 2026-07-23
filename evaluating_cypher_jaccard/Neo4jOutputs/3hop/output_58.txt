@@ -1,0 +1,25 @@
+{
+  "CardiovascularDisease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "Phenotype": "Weakness of long finger extensor muscles"
+}
+
+{
+  "CardiovascularDisease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "Phenotype": "Foot dorsiflexor weakness"
+}
+
+{
+  "CardiovascularDisease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "Phenotype": "Distal upper limb muscle weakness"
+}
+
+{
+  "CardiovascularDisease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+
+{
+  "CardiovascularDisease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "Phenotype": "Rimmed vacuoles"
+}
+

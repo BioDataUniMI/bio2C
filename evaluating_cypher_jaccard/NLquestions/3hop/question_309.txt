@@ -1,0 +1,1 @@
+Which GO terms do miRNAs transcribed from the gene 'MIR3651' participate in, and which biological processes have those GO terms as parts? Return the labels of the miRNAs, GO terms, and biological processes.

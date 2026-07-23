@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:over_expressed_in]->(d:Infectious_disease {Label: 'adult T-cell leukemia/lymphoma'}) WITH p, (SIZE(SPLIT(p.Sequence, 'CU')) - 1) AS CUCount WHERE CUCount >= 5 RETURN p.ID AS pre_miRNA_ID, p.Sequence AS Sequence, CUCount

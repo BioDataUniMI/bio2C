@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:under_expressed_in]->(go:GO) WITH CASE WHEN go:Biological_process THEN 'Biological_process' WHEN go:Molecular_function THEN 'Molecular_function' WHEN go:Cellular_component THEN 'Cellular_component' END AS go_type RETURN go_type, COUNT(*) AS count ORDER BY count DESC

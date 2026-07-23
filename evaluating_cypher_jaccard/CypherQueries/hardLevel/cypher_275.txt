@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WITH m, COUNT(DISTINCT c) AS disease_count WHERE disease_count >= 5 RETURN m.Label AS miRNA, disease_count AS Number_of_Cardiovascular_Diseases ORDER BY disease_count DESC

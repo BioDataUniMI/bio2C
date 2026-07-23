@@ -1,0 +1,11 @@
+{
+  "Gene": "BAALC",
+  "Synonyms": [
+    "brain and acute leukemia cytoplasmic protein",
+    "BAALC, MEKK1 and KLF4 binding",
+    "BAALC, MAP3K1 and KLF4 binding",
+    "BAALC binder of MAP3K1 and KLF4",
+    "brain and acute leukemia, cytoplasmic"
+  ]
+}
+

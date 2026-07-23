@@ -1,0 +1,1 @@
+Find all entities that have at least one outgoing relationship to a mental disease. Return the entity label, the relationship type(s), and the mental disease label.

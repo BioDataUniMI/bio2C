@@ -1,0 +1,1 @@
+Identify genes with 2-character labels that are regulated by miRNAs whose sequence ends with 'A', and the cellular components in which these miRNAs are located. Return the miRNA, its sequence, the gene, and the cellular component.

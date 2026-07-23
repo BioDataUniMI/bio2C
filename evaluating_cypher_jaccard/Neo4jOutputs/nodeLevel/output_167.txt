@@ -1,0 +1,36 @@
+{
+  "mf": {
+    "Description": "binding to a transmembrane transporter, a protein or protein complex that enables the transfer of...",
+    "Label": "transmembrane transporter binding",
+    "ID": "GO:0044325",
+    "URI": "http://purl.obolibrary.org/obo/GO_0044325"
+  }
+}
+
+{
+  "mf": {
+    "Description": "any atpase coupled ion transmembrane transporter activity, occurring in the presynaptic membrane,...",
+    "Label": "ATPase coupled ion transmembrane transporter activity involved in regulation of presynaptic membr...",
+    "ID": "GO:0099521",
+    "URI": "http://purl.obolibrary.org/obo/GO_0099521"
+  }
+}
+
+{
+  "mf": {
+    "Description": "any atpase coupled ion transmembrane transporter activity, occurring in the postsynaptic membrane...",
+    "Label": "ATPase coupled ion transmembrane transporter activity involved in regulation of postsynaptic memb...",
+    "ID": "GO:0099581",
+    "URI": "http://purl.obolibrary.org/obo/GO_0099581"
+  }
+}
+
+{
+  "mf": {
+    "Description": "binds to and stops, prevents, or reduces the activity of an iron ion transmembrane transporter.",
+    "Label": "iron ion transmembrane transporter inhibitor activity",
+    "ID": "GO:0097690",
+    "URI": "http://purl.obolibrary.org/obo/GO_0097690"
+  }
+}
+

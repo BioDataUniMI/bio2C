@@ -1,0 +1,1 @@
+Find cancers whose label contains the word 'childhood' in which the under-expressed miRNAs have equal numbers of G and C nucleotide. Return the cancer label and the miRNA's G and C counts.

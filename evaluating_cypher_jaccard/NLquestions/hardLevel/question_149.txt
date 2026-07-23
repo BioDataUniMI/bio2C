@@ -1,0 +1,1 @@
+Return the labels and the first 10 words of the descriptions of all biological processes whose descriptions contain both 'chemical reactions' and 'receptor'.

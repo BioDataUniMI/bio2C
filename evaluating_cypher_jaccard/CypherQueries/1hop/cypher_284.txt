@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease)-[r:disease_triggers]->(bp:Biological_process) WHERE SIZE(r.Source) >= 1 RETURN i.Label AS Disease, bp.Label AS TriggeredProcess, r.Source AS Source

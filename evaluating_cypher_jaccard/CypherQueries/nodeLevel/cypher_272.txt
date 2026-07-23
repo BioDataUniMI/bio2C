@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label CONTAINS '196' RETURN pm.Label AS Pre_miRNA_Label, pm.Description AS Pre_miRNA_Description

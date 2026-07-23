@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:towards]->(bp:Biological_process {Label:'inflammatory response'}) RETURN nd.Label AS neurodegenerative_disease, d.Label AS parent_disease, p.Label AS phenotype

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(p) WHERE (p:Phenotype OR (p)-[:subclassof*1..]->(:Phenotype)) AND p.Label CONTAINS 'cerebral' AND toLower(m.Label) ENDS WITH 'a precursor' RETURN DISTINCT m.Label AS miRNA, p.Label AS Phenotype

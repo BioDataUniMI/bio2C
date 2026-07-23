@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH g, COUNT(DISTINCT m) AS regCount WHERE regCount >= 100 RETURN g.Label AS Gene, regCount

@@ -1,0 +1,1 @@
+Find miRNAs that develop from other miRNAs such that: 1) the first miRNA has a sequence length shorter than 20 nts and 2) the second miRNA has a sequence length longer than 90 nts. Return the labels of both miRNAs and the sources confirming this development.

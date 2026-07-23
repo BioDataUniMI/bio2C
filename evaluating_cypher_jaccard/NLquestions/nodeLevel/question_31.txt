@@ -1,0 +1,1 @@
+List Homo sapiens miRNAs starting with 'hsa-miR-19' whose sequence ends with 'A' and have genomic coordinates on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates).

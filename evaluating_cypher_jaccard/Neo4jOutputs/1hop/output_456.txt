@@ -1,0 +1,25 @@
+{
+  "g.Label": "RNA import into nucleus",
+  "cc.Label": "nuclear envelope"
+}
+
+{
+  "g.Label": "RNA export from nucleus",
+  "cc.Label": "nuclear envelope"
+}
+
+{
+  "g.Label": "mRNA export from nucleus",
+  "cc.Label": "nuclear envelope"
+}
+
+{
+  "g.Label": "snRNA export from nucleus",
+  "cc.Label": "nuclear envelope"
+}
+
+{
+  "g.Label": "tRNA export from nucleus",
+  "cc.Label": "nuclear envelope"
+}
+

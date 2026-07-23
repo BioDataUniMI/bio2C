@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g1:Gene)-[:genetically_interacts_with]->(g2:Gene) RETURN m.Label AS miRNA, g1.Label AS RegulatedGene, g2.Label AS InteractingGene, SIZE(m.Sequence) AS miRNASequenceLength, SIZE(g1.Sequence) AS RegulatedGeneLength, SIZE(g2.Sequence) AS InteractingGeneLength

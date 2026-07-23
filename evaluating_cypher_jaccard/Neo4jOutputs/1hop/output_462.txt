@@ -1,0 +1,7 @@
+{
+  "ad.Label": "autoinflammatory syndrome",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+

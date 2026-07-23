@@ -1,0 +1,8 @@
+{
+  "NeurodegenerativeDisease": "spinal muscular atrophy, type IV"
+}
+
+{
+  "NeurodegenerativeDisease": "mitochondrial DNA depletion syndrome 4a"
+}
+

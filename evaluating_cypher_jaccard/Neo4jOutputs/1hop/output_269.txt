@@ -1,0 +1,25 @@
+{
+  "Disease": "pleurisy",
+  "FeaturePhenotype": "Rheumatoid arthritis"
+}
+
+{
+  "Disease": "pleurisy",
+  "FeaturePhenotype": "Pancreatitis"
+}
+
+{
+  "Disease": "pleurisy",
+  "FeaturePhenotype": "Pneumonia"
+}
+
+{
+  "Disease": "pleurisy",
+  "FeaturePhenotype": "Pleuritis"
+}
+
+{
+  "Disease": "pleurisy",
+  "FeaturePhenotype": "Pulmonary embolism"
+}
+

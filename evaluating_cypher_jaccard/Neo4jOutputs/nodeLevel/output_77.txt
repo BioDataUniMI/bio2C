@@ -1,0 +1,54 @@
+{
+  "Phenotype": "Osteomyelitis leading to amputation due to slow healing fractures",
+  "Synonyms": [
+    "治癒の遅い骨折による切断となる骨髄炎",
+    "Ostéomyélite entraînant une amputation due à des fractures guérissant trop lentement",
+    "Osteomyelitis leidend tot amputatie vanwege langzame genezing fracturen",
+    "Osteomyelitida vedoucí k amputaci v důsledku pomalu hojících se fraktur",
+    "Yavaş iyileşme kırıkları sebebiyle amputasyona yol açan osteomiyelit",
+    "Osteomielitis que conduce a la amputación debido a la lenta curación de las fracturas",
+    "因骨折愈合缓慢导致截肢的骨髓炎"
+  ]
+}
+
+{
+  "Phenotype": "Autoamputation",
+  "Synonyms": [
+    "Otoampütasyon",
+    "Auto-amputatie",
+    "Autoamputace",
+    "自然切断, 自己切断",
+    "Autoamputación",
+    "自发性肢体离断",
+    "Auto-amputation"
+  ]
+}
+
+{
+  "Phenotype": "Autoamputation of digits",
+  "Synonyms": [
+    "Autoamputation von Fingern",
+    "Autoamputation des doigts",
+    "Autoamputación de dígitos de la mano",
+    "Parmakların otoampütasyonu",
+    "Autoamputazione delle dita",
+    "手指（足趾）自发性离断",
+    "Auto-amputatie van vingers/tenen",
+    "Autoamputace prstů",
+    "趾の自然切断, 自己切断"
+  ]
+}
+
+{
+  "Phenotype": "Autoamputation of foot",
+  "Synonyms": [
+    "自然切断, 自己切断 (足)",
+    "足部自发离断",
+    "Autoamputace chodidla",
+    "Auto-amputatie van de voet",
+    "Autoamputación (pies)",
+    "Autoamputation des pieds",
+    "Ayağın otoamputasyonu"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA )-[r:is_active_in]->() RETURN COUNT(m) AS ActiveMiRNA_Count

@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing the word 'matrix' and descriptions containing either the string 'extracellular' or 'synaptic cleft'? Return their labels.

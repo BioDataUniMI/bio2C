@@ -1,0 +1,1 @@
+Retrieve the description for disease(s) labeled as 'viral eye infection'.

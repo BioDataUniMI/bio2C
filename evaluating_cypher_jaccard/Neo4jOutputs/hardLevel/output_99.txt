@@ -1,0 +1,35 @@
+{
+  "p.Label": "Mildly elevated creatine kinase",
+  "matching_synonyms": [
+    "Creatina chinasi lievemente elevata"
+  ]
+}
+
+{
+  "p.Label": "Highly elevated creatine kinase",
+  "matching_synonyms": [
+    "Creatina chinasi molto elevata"
+  ]
+}
+
+{
+  "p.Label": "Anti-muscle-specific tyrosine kinase antibody",
+  "matching_synonyms": [
+    "Anticorpo anti tirosin-chinasi muscolo-specifico"
+  ]
+}
+
+{
+  "p.Label": "Abnormal circulating creatine kinase concentration",
+  "matching_synonyms": [
+    "Concentrazione anormale di creatina chinasi in circolo"
+  ]
+}
+
+{
+  "p.Label": "Increased circulating creatine kinase MM isoform",
+  "matching_synonyms": [
+    "Aumento dell'isoforma MM della creatinchinasi circolante"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Identify genes regulated by the miRNA 'hsa-miR-520h' that contribute to cardiovascular diseases whose label contains the word 'art', and report the corresponding genes and diseases.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO {Label:'positive regulation of gene expression via chromosomal CpG island demethylation'}) RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

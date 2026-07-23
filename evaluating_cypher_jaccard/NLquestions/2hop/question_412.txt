@@ -1,0 +1,1 @@
+Identify molecular functions whose label contains the word 'RNA' or 'DNA', that are parts of biological processes in which miRNAs with label ending in a number participate. Return the miRNA label, the biological process label, and the molecular function label.

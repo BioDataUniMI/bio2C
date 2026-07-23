@@ -1,0 +1,1 @@
+Find cancers and their expressed miRNAs located in cellular components part of the GO term labeled as 'extracellular region'. Return the cancer label, miRNA label, cellular component label, source, and method of the expression relationship.

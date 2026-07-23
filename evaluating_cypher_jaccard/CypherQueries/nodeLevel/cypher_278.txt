@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE SIZE([coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chr21']) >= 3 RETURN pm.Label AS pre_miRNA, pm.Genomic_coordinates AS GenomicCoordinates

@@ -1,0 +1,1 @@
+MATCH (c:Cancer)<-[r:under_expressed_in]-(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE r.FDR IS NOT NULL RETURN c.Label AS Cancer, m.Label AS miRNA, g.Label AS Gene, r.FDR AS FDR ORDER BY FDR ASC, Gene ASC LIMIT 5

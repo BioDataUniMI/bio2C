@@ -1,0 +1,1 @@
+Return miRNAs interacting with other miRNAs with relationship types different from 'develops_from'. Moreover, genomic coordinates for both miRNAs MUST start with 'chr' followed by a letter and the sequence length of both miRNAs MUST be longer than 90. Return both miRNAs' label and the sources confirming the interaction.

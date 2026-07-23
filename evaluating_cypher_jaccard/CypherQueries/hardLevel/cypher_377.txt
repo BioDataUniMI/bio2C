@@ -1,0 +1,1 @@
+MATCH p = (m1:miRNA)-[:genetically_interacts_with*2]->(m3:miRNA) WHERE ALL(x IN NODES(p) WHERE single(y IN NODES(p) WHERE y = x)) AND NODES(p)[1].Label = 'microRNA hsa-mir-2392 precursor' AND NODES(p)[0].Label < NODES(p)[2].Label RETURN [n IN NODES(p) | n.Label] AS miRNAs

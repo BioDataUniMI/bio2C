@@ -1,0 +1,1 @@
+Which miRNAs are expressed by neurodegenerative diseases that are superclasses of diseases containing the word 'young' in their label and having the phenotype labeled as 'Hyposmia'? Return the label of: the parent disease, the neurodegenerative disease, and the miRNA

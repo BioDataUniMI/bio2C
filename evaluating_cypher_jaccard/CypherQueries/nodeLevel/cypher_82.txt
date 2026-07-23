@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'GGG' AND m.Sequence CONTAINS 'AAA' AND SIZE(m.Sequence) = 20 RETURN m.Label AS miRNA, m.Sequence AS Sequence

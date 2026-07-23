@@ -1,0 +1,25 @@
+{
+  "GOterm": "cell death",
+  "miRNACount": 3
+}
+
+{
+  "GOterm": "immune response",
+  "miRNACount": 4
+}
+
+{
+  "GOterm": "cholesterol homeostasis",
+  "miRNACount": 2
+}
+
+{
+  "GOterm": "execution phase of apoptosis",
+  "miRNACount": 7
+}
+
+{
+  "GOterm": "macroautophagy",
+  "miRNACount": 1
+}
+

@@ -1,0 +1,20 @@
+{
+  "GOTerm": "miRNA-mediated post-transcriptional gene silencing"
+}
+
+{
+  "GOTerm": "cellular response to amino acid stimulus"
+}
+
+{
+  "GOTerm": "long-term synaptic potentiation"
+}
+
+{
+  "GOTerm": "response to bacterium"
+}
+
+{
+  "GOTerm": "cellular response to leukemia inhibitory factor"
+}
+

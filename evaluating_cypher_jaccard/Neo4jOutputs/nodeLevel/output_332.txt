@@ -1,0 +1,25 @@
+{
+  "CancerLabel": "paranasal sinus lymphoma",
+  "CancerID": "MONDO:0001743"
+}
+
+{
+  "CancerLabel": "mediastinal soft tissue cancer",
+  "CancerID": "MONDO:0037743"
+}
+
+{
+  "CancerLabel": "major salivary gland cancer",
+  "CancerID": "MONDO:0044743"
+}
+
+{
+  "CancerLabel": "tumor of meninges",
+  "CancerID": "MONDO:0016743"
+}
+
+{
+  "CancerLabel": "mixed phenotype acute leukemia",
+  "CancerID": "MONDO:0020743"
+}
+

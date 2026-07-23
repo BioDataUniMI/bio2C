@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "Cellular_component": "protein kinase complex",
+  "miRNA_count": 1
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "Cellular_component": "serine/threonine protein kinase complex",
+  "miRNA_count": 1
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "Cellular_component": "cyclin-dependent protein kinase holoenzyme complex",
+  "miRNA_count": 1
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "Cellular_component": "extracellular vesicle",
+  "miRNA_count": 1
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "Cellular_component": "RISC-loading complex",
+  "miRNA_count": 1
+}
+

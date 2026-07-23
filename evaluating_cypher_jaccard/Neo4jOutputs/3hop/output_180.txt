@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "Phenotype": "Abnormal bone ossification",
+  "GOterm": "ossification"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "Phenotype": "Growth delay",
+  "GOterm": "growth"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "Phenotype": "Abnormality of vision",
+  "GOterm": "visual perception"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "Phenotype": "Abnormal bone ossification",
+  "GOterm": "ossification"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "Phenotype": "Growth delay",
+  "GOterm": "growth"
+}
+

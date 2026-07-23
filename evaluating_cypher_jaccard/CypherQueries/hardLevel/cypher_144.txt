@@ -1,0 +1,1 @@
+MATCH (x)-[r]-(d:Cardiovascular_disease {Label: 'myocardial infarction'}) WHERE x:miRNA OR x:pre_miRNA RETURN d.Label AS Disease, COUNT(DISTINCT x) AS associated_RNAs

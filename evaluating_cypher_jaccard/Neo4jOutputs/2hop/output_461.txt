@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-340-5p",
+  "MolecularFunction": "miRNA binding",
+  "BiologicalProcess": "Rho protein signal transduction"
+}
+
+{
+  "miRNA": "hsa-miR-340-5p",
+  "MolecularFunction": "miRNA binding",
+  "BiologicalProcess": "Ras protein signal transduction"
+}
+
+{
+  "miRNA": "hsa-miR-101-3p",
+  "MolecularFunction": "primary miRNA binding",
+  "BiologicalProcess": "Rho protein signal transduction"
+}
+
+{
+  "miRNA": "hsa-miR-101-3p",
+  "MolecularFunction": "primary miRNA binding",
+  "BiologicalProcess": "Ras protein signal transduction"
+}
+
+{
+  "miRNA": "hsa-miR-101-3p",
+  "MolecularFunction": "primary miRNA binding",
+  "BiologicalProcess": "negative regulation of Ras protein signal transduction"
+}
+

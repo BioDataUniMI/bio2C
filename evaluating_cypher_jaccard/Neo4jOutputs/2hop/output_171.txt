@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "ParentCancer": "benign neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "ParentCancer": "musculoskeletal system benign neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "lipoma",
+  "ParentCancer": "benign lipomatous neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "familial multiple lipomatosis",
+  "ParentCancer": "integumentary system benign neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "benign muscle neoplasm",
+  "ParentCancer": "benign neoplasm"
+}
+

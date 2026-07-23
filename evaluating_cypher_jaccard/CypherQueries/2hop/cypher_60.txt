@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'B-cell childhood acute lymphoblastic leukemia'})<-[:over_expressed_in]-(m:miRNA)-[:participates_in]->(t) WHERE t.Label CONTAINS 'transferase' AND (t:Molecular_function OR t:Biological_process) RETURN m.Label AS miRNA, t.Label AS GOTerm, labels(t) AS GOTermType

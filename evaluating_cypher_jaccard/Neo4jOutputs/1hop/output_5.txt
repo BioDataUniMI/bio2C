@@ -1,0 +1,56 @@
+{
+  "m.Label": "hsa-miR-3126-5p",
+  "g.Label": "ACTG1P2",
+  "m.Genomic_coordinates": [
+    "chr2:69103691-69103712+"
+  ],
+  "g.Genomic_coordinates": [
+    "chrY:17757001-17758125-"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-3679-5p",
+  "g.Label": "EEF1A1P41",
+  "m.Genomic_coordinates": [
+    "chr2:134127130-134127152+"
+  ],
+  "g.Genomic_coordinates": [
+    "chrY:2995067-2995273-"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-3605-5p",
+  "g.Label": "ACTG1P2",
+  "m.Genomic_coordinates": [
+    "chr1:33332449-33332471-"
+  ],
+  "g.Genomic_coordinates": [
+    "chrY:17757001-17758125-"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-149-5p",
+  "g.Label": "WASH6P",
+  "m.Genomic_coordinates": [
+    "chr2:240456015-240456037+"
+  ],
+  "g.Genomic_coordinates": [
+    "chrY:57207346-57212230+",
+    "chrX:156020826-156025710+"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-5581-3p",
+  "g.Label": "MED13P1",
+  "m.Genomic_coordinates": [
+    "chr1:37500935-37500956-"
+  ],
+  "g.Genomic_coordinates": [
+    "chrY:14907898-14908068+"
+  ]
+}
+

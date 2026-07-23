@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'decarboxylation' RETURN g.Label, g.Description

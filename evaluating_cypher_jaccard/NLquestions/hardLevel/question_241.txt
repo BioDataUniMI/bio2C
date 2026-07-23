@@ -1,0 +1,1 @@
+Find the top 3 cellular components that are associated with the highest number of miRNAs located in them. Return the component label, ID, URI, and the number of miRNAs. In case of ties, order components alphabetically.

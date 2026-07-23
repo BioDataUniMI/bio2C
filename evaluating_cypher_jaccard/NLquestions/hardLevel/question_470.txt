@@ -1,0 +1,1 @@
+Among miRNA-infectious disease cause or contribution relationship where the disease label contains 'COVID', find the minimum 'RNAsister_score' and return all <miRNA, infectious disease> pairs with that score.

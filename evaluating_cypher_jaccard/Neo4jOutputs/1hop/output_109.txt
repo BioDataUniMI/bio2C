@@ -1,0 +1,19 @@
+{
+  "Biological_Process": "apoptotic process",
+  "miRNA": "hsa-miR-500b-5p",
+  "Sequence": "AAUCCUUGCUACCUGGGU",
+  "Genomic_coordinates": [
+    "chrX:50010682-50010699+"
+  ]
+}
+
+{
+  "Biological_Process": "apoptotic process",
+  "miRNA": "hsa-miR-513a-5p",
+  "Sequence": "UUCACAGGGAGGUGUCAU",
+  "Genomic_coordinates": [
+    "chrX:147213538-147213555-",
+    "chrX:147225900-147225917-"
+  ]
+}
+

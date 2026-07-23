@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-21-5p'})-[r]->(d:Autoimmune_disease) RETURN d.Label AS Disease, TYPE(r) AS RelationshipType

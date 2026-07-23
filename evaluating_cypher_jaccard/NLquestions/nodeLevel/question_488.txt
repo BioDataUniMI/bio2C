@@ -1,0 +1,1 @@
+Find the cellular components whose labels or descriptions contain the word 'leaflet', but whose labels and descriptions do not contain 'lumen'.

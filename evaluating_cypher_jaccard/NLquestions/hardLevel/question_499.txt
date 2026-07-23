@@ -1,0 +1,1 @@
+Find pre-miRNAs under-expressed in GO terms, where the pre-miRNA sequence has at least three occurrences of 'GG'. Return the GO term, pre-miRNA label, and the GG occurrence count.

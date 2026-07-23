@@ -1,0 +1,1 @@
+Which 'pseudo'-like diseases have phenotypes that are characteristic of GO terms whose label contains the string 'growth hormone'?

@@ -1,0 +1,30 @@
+{
+  "BenignCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "MalignantCancer": "malignant glioma"
+}
+
+{
+  "BenignCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "MalignantCancer": "malignant colon neoplasm"
+}
+
+{
+  "BenignCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "MalignantCancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "BenignCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "MalignantCancer": "malignant glioma"
+}
+
+{
+  "BenignCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "MalignantCancer": "malignant colon neoplasm"
+}
+

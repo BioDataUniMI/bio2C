@@ -1,0 +1,12 @@
+{
+  "Cancer": "WAGR syndrome",
+  "Phenotype": "Intellectual disability",
+  "Gene": "H4C2"
+}
+
+{
+  "Cancer": "WAGR syndrome",
+  "Phenotype": "Intellectual disability",
+  "Gene": "H4C3"
+}
+

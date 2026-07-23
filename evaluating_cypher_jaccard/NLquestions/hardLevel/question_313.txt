@@ -1,0 +1,1 @@
+For each distinct number of autoimmune diseases, return one representative miRNA that is under-expressed in that many diseases; if multiple miRNAs share the same count, return the one with the alphabetically smallest label. Return miRNA label and the number of diseases.

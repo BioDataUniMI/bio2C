@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE m.Sequence CONTAINS 'UUUUUUU' RETURN m.Label AS miRNA, m.Sequence AS miRNA_Sequence, c.Label AS Cancer_label

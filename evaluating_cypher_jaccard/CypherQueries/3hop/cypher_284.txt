@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) WHERE SIZE(t.Label) = 3 RETURN g.Label AS SourceGene, pre.Label AS Pre_miRNA, m.Label AS miRNA, t.Label AS TargetGene

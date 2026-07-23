@@ -1,0 +1,1 @@
+For each disease whose label contains 'malignant colon neoplasm', how many distinct miRNAs regulate genes that cause or contribute to that disease, and how many distinct phenotypes does the disease have? Return the disease label and both counts.

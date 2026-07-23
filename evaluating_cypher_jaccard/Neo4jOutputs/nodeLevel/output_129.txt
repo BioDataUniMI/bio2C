@@ -1,0 +1,7 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-1827 precursor",
+  "Coordinates": [
+    "chr12:100189884-100189949+"
+  ]
+}
+

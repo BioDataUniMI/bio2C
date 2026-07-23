@@ -1,0 +1,20 @@
+{
+  "GOterm": "cell cycle G1/S phase transition"
+}
+
+{
+  "GOterm": "positive regulation of cell cycle G1/S phase transition"
+}
+
+{
+  "GOterm": "mitotic cell cycle G1 arrest in response to pheromone"
+}
+
+{
+  "GOterm": "symbiont-mediated perturbation of host cell cycle G1/S transition checkpoint"
+}
+
+{
+  "GOterm": "negative regulation of cell cycle G1/S phase transition"
+}
+

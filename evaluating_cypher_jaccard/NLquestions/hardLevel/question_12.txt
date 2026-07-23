@@ -1,0 +1,1 @@
+Find phenotypes (or nodes that are subclasses of a phenotype up to 5 subclassof steps) whose label containsvv 'Thyroid' and that have at least one pre-miRNA that is a causal somatic mutation in them. Return the full phenotype node and the associated pre-miRNA label(s).

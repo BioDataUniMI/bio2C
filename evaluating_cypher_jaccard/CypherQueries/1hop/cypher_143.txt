@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN MAX(SIZE(m.Sequence)) - MIN(SIZE(m.Sequence)) AS LengthDifference

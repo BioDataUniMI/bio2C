@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:GO {Label:'apoptotic process'}) WHERE r.Context IS NOT NULL AND ANY(c IN r.Context WHERE c = 'cardiac') RETURN m.Label AS miRNA, properties(r) AS Relationship_properties

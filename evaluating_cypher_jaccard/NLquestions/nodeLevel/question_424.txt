@@ -1,0 +1,1 @@
+Find GO terms whose labels contain the string 'genome replication' but do NOT contain 'regulation' nor 'modulation'.

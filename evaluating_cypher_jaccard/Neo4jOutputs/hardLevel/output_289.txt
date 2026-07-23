@@ -1,0 +1,25 @@
+{
+  "Disease": "Cornelia de Lange syndrome",
+  "PhenotypeCount": 576
+}
+
+{
+  "Disease": "Cornelia de Lange syndrome 1",
+  "PhenotypeCount": 576
+}
+
+{
+  "Disease": "cardiofaciocutaneous syndrome",
+  "PhenotypeCount": 482
+}
+
+{
+  "Disease": "Bardet-Biedl syndrome 2",
+  "PhenotypeCount": 507
+}
+
+{
+  "Disease": "endocrine-cerebro-osteodysplasia syndrome",
+  "PhenotypeCount": 463
+}
+

@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "ABCF2-H2BK1",
+  "miRNASequenceLength": 22,
+  "RegulatedGeneLength": 15722,
+  "InteractingGeneLength": 19330
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "H4C16",
+  "miRNASequenceLength": 22,
+  "RegulatedGeneLength": 15722,
+  "InteractingGeneLength": 3133
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "miRNASequenceLength": 22,
+  "RegulatedGeneLength": 15722,
+  "InteractingGeneLength": 52336
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "RegulatedGene": "DDX17",
+  "InteractingGene": "H4C16",
+  "miRNASequenceLength": 23,
+  "RegulatedGeneLength": 24223,
+  "InteractingGeneLength": 3133
+}
+
+{
+  "miRNA": "hsa-miR-633",
+  "RegulatedGene": "TGFB1",
+  "InteractingGene": "ABCF2",
+  "miRNASequenceLength": 23,
+  "RegulatedGeneLength": 52336,
+  "InteractingGeneLength": 15722
+}
+

@@ -1,0 +1,7 @@
+{
+  "GOterm": "synaptic vesicle cycle",
+  "BiologicalProcess": "synaptic vesicle clustering",
+  "miRNA": "hsa-miR-181a-5p",
+  "CellularComponent": "presynapse"
+}
+

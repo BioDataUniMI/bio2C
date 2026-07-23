@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:part_of]->(g:GO) WHERE NOT m.Sequence CONTAINS 'C' AND SIZE(m.Sequence) < 24 WITH m, m.Sequence AS seq, SIZE(m.Sequence) AS seq_length RETURN m.Label AS miRNA, seq AS Sequence, ROUND(100.0 * SIZE([c IN SPLIT(seq, '') WHERE c = 'U']) / seq_length, 2) AS PercentU

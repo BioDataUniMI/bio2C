@@ -1,0 +1,1 @@
+Count pre-miRNAs whose labels do not contain the word 'precursor' and do not contain 'stem'. Return their labels and IDs .

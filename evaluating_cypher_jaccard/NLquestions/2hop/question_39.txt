@@ -1,0 +1,1 @@
+For each cancer, identify the number of distinct phenotypes that are major feature of the cancer and the number of distinct diseases that share those phenotypes.

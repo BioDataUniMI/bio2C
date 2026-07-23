@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) WHERE d.Label CONTAINS '72' RETURN d.Label AS Disease, p.Label AS Phenotype, go.Label AS GOterm

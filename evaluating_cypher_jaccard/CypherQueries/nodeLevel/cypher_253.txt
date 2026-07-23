@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'G' AND (m.Sequence CONTAINS 'AAAA' OR m.Sequence CONTAINS 'CCCC' OR m.Sequence CONTAINS 'UUUU') RETURN m.Label AS miRNA, m.Sequence AS Sequence

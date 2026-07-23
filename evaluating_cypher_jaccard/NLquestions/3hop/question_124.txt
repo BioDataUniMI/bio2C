@@ -1,0 +1,1 @@
+Identify GO terms that are part of cellular components whose labels contain 'chromosome', where miRNAs are located in these components and cancers have material basis in somatic mutations in the miRNAs. Return the cancer label, miRNA label, cellular component label, and GO term label.

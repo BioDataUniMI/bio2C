@@ -1,0 +1,24 @@
+{
+  "Disease": "type 1 diabetes mellitus",
+  "GOterm": "insulin secretion involved in cellular response to glucose stimulus",
+  "miRNAParticipants": 3
+}
+
+{
+  "Disease": "STAT3-related early-onset multisystem autoimmune disease",
+  "GOterm": "cytokine-mediated signaling pathway",
+  "miRNAParticipants": 41
+}
+
+{
+  "Disease": "autoinflammatory syndrome",
+  "GOterm": "inflammatory response",
+  "miRNAParticipants": 18
+}
+
+{
+  "Disease": "autoinflammatory syndrome",
+  "GOterm": "innate immune response",
+  "miRNAParticipants": 6
+}
+

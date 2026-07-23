@@ -1,0 +1,1 @@
+How many negative regulatory relationships exist between biological processes, where a biological process negatively regulates another biological process?

@@ -1,0 +1,25 @@
+{
+  "Gene": "PUM1",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "SMC1A",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "CASR",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "KLK4",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "NKX2-1",
+  "NumberOfRegulatingMiRNAs": 1
+}
+

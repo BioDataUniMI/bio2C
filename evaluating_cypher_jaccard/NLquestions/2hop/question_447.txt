@@ -1,0 +1,1 @@
+Show the neurodegenerative diseases that express miRNAs located in the cellular component labeled as 'extracellular exosome'.

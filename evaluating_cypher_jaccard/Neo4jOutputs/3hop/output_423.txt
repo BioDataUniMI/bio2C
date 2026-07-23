@@ -1,0 +1,21 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "CellularComponent": "glutamate-cysteine ligase complex",
+  "GOterm": "cytoplasm"
+}
+

@@ -1,0 +1,1 @@
+Count all diseases whose descriptions mention both 'gene' and 'mutation'.

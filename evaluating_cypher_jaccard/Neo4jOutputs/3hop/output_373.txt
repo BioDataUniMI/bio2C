@@ -1,0 +1,50 @@
+{
+  "Disease": "X-linked complicated corpus callosum dysgenesis",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development",
+  "r.Source": [
+    "HPO"
+  ]
+}
+
+{
+  "Disease": "gonadal dysgenesis",
+  "Phenotype": "Abnormal lung lobation",
+  "GOterm": "lung lobe formation",
+  "BiologicalProcess": "lung lobe morphogenesis",
+  "r.Source": [
+    "HPO"
+  ]
+}
+
+{
+  "Disease": "ovarian dysgenesis 5",
+  "Phenotype": "Delayed skeletal maturation",
+  "GOterm": "bone maturation",
+  "BiologicalProcess": "bone development",
+  "r.Source": [
+    "HPO"
+  ]
+}
+
+{
+  "Disease": "gonadal dysgenesis, dysmorphic facies, retinal dystrophy, and myopathy",
+  "Phenotype": "Delayed skeletal maturation",
+  "GOterm": "bone maturation",
+  "BiologicalProcess": "bone development",
+  "r.Source": [
+    "HPO"
+  ]
+}
+
+{
+  "Disease": "ovarian dysgenesis 1",
+  "Phenotype": "Delayed skeletal maturation",
+  "GOterm": "bone maturation",
+  "BiologicalProcess": "bone development",
+  "r.Source": [
+    "HPO"
+  ]
+}
+

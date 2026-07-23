@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_participant]->(pre:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE pre.Label CONTAINS '302' AND c.Label CONTAINS 'cervical' RETURN go.Label AS GOterm, pre.Label AS Pre_miRNA, m.Label AS miRNA, c.Label AS Cancer

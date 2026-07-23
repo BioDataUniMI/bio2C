@@ -1,0 +1,1 @@
+How many genes have sequences that do not contain the letter 'U'?

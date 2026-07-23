@@ -1,0 +1,10 @@
+{
+  "mutationType": "somatic_mutation",
+  "miRNACount": 795
+}
+
+{
+  "mutationType": "germline_mutation",
+  "miRNACount": 10
+}
+

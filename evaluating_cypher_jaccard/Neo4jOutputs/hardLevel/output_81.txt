@@ -1,0 +1,21 @@
+{
+  "pre_miRNA_URI": "https://rnacentral.org/rna/URS00004C7B32_9606",
+  "Chromosomes": [
+    "chr7"
+  ]
+}
+
+{
+  "pre_miRNA_URI": "https://rnacentral.org/rna/URS00006A0932_9606",
+  "Chromosomes": [
+    "chr17"
+  ]
+}
+
+{
+  "pre_miRNA_URI": "https://rnacentral.org/rna/URS000075C16C_9606",
+  "Chromosomes": [
+    "chr12"
+  ]
+}
+

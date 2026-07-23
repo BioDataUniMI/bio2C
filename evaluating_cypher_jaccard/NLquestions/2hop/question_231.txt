@@ -1,0 +1,1 @@
+Identify the precursor miRNAs for the miRNA 'hsa-miR-145-5p' when it also regulates the activity of genes starting with 'TPM' and return the precursor miRNA and gene labels.

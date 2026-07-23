@@ -1,0 +1,60 @@
+{
+  "Disease": "thyroid gland carcinoma",
+  "miRNA": "hsa-miR-548f-3p",
+  "Genomic_Coordinates": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ]
+}
+
+{
+  "Disease": "head and neck squamous cell carcinoma",
+  "miRNA": "hsa-miR-548f-3p",
+  "Genomic_Coordinates": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ]
+}
+
+{
+  "Disease": "prostate cancer",
+  "miRNA": "hsa-miR-548f-3p",
+  "Genomic_Coordinates": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ]
+}
+
+{
+  "Disease": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-548f-3p",
+  "Genomic_Coordinates": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ]
+}
+
+{
+  "Disease": "pancreatic adenocarcinoma",
+  "miRNA": "hsa-miR-548f-3p",
+  "Genomic_Coordinates": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ]
+}
+

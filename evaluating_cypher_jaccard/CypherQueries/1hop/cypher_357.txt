@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'presynapse' RETURN  go.Label AS GO, cc.Label AS CellularComponent

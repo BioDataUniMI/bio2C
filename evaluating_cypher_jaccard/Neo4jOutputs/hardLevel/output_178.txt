@@ -1,0 +1,8 @@
+{
+  "miRNA": null,
+  "precursor_miRNA": "microRNA hsa-mir-374b precursor",
+  "disrupted_molecular_functions": [
+    "catalysis of the reaction: l-glutaminyl-[protein] + l-lysyl-[protein] = [protein]-l-lysyl-n(6)-5-..."
+  ]
+}
+

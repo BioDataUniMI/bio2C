@@ -1,0 +1,1 @@
+Which cardiovascular diseases whose labels contain the string 'glycogen storage' have phenotypes that are also phenotypes of diseases toward which other diseases are predisposed? Return the cardiovascular disease labels.

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:over_expressed_in]->(d:Disease) WHERE d.Label CONTAINS 'pediatric' AND pre.Label =~ '.*0b.*precursor$' RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, m.Label AS miRNA, d.Label AS Disease

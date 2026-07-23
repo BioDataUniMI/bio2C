@@ -1,0 +1,30 @@
+{
+  "p.Label": "Increased mean corpuscular volume",
+  "cond.Label": "congenital dyserythropoietic anemia type 2",
+  "HEAD(labels(cond))": "Disease"
+}
+
+{
+  "p.Label": "Short stature",
+  "cond.Label": "congenital dyserythropoietic anemia type 2",
+  "HEAD(labels(cond))": "Disease"
+}
+
+{
+  "p.Label": "Pallor",
+  "cond.Label": "congenital dyserythropoietic anemia type 2",
+  "HEAD(labels(cond))": "Disease"
+}
+
+{
+  "p.Label": "Short neck",
+  "cond.Label": "congenital dyserythropoietic anemia type 2",
+  "HEAD(labels(cond))": "Disease"
+}
+
+{
+  "p.Label": "Micrognathia",
+  "cond.Label": "congenital dyserythropoietic anemia type 2",
+  "HEAD(labels(cond))": "Disease"
+}
+

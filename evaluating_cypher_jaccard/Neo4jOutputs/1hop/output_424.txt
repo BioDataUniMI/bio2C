@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-518a-3p",
+  "molecular_function": "gene product or complex activity"
+}
+
+{
+  "miRNA": "hsa-miR-518c-5p",
+  "molecular_function": "gene product or complex activity"
+}
+
+{
+  "miRNA": "hsa-miR-518d-3p",
+  "molecular_function": "gene product or complex activity"
+}
+
+{
+  "miRNA": "hsa-miR-518f-5p",
+  "molecular_function": "gene product or complex activity"
+}
+
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "molecular_function": "gene product or complex activity"
+}
+

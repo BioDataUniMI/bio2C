@@ -1,0 +1,1 @@
+Find diseases whose labels contain 'diffuse' that are caused or contributed by genes whose activity is regulated by miRNAs expressed in cancers whose labels contain the word 'familial'. Return the cancer label, miRNA label, gene label, and disease label.

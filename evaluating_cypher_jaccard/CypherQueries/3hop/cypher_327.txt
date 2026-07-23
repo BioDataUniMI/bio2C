@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)<-[:occurs_in]-(bp:Biological_process)<-[:participates_in]-(m:miRNA)<-[:expresses]-(c:Cancer {Label:'lipoma'}) RETURN cc.Label AS CellularComponent, m.Label AS miRNA, properties(bp)

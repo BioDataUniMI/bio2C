@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:part_of]->(bp:Biological_process) WHERE go.Label CONTAINS 'interleukin' RETURN go.Label AS GOTerm, bp.Label AS BiologicalProcess

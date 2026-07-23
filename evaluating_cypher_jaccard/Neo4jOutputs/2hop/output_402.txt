@@ -1,0 +1,10 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-876 precursor",
+  "miRNA": "hsa-miR-876-5p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-876 precursor",
+  "miRNA": "hsa-miR-876-3p"
+}
+

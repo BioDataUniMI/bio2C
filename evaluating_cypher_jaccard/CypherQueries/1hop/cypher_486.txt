@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:results_in_transport_to_from_or_in]->(g:GO) WHERE bp.Label CONTAINS 'amine' OR bp.Description CONTAINS 'amine' RETURN bp.Label, bp.Description, g.Label

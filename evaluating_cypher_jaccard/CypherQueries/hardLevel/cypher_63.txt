@@ -1,0 +1,1 @@
+MATCH (c:Cancer{Label:'adenoma'})-[:expresses]->(m:miRNA)-[:under_expressed_in]->(ph:Phenotype)  WITH ph, c, m, [i IN RANGE(0, SIZE(m.Sequence)-2) WHERE SUBSTRING(m.Sequence, i, 2) = 'CU' | SUBSTRING(m.Sequence, i, 2)] AS CUpairs RETURN ph.Label AS Phenotype, c.Label AS Cancer, SIZE(CUpairs) AS CU_Count

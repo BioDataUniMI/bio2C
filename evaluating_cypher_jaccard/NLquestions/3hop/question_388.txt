@@ -1,0 +1,1 @@
+Which GO terms have as part cellular components that are the location of pre-miRNAs developing into miRNAs causing or contributing to the autoimmune disease labeled as 'osteoarthritis'. Return the GO term, cellular component, pre-miRNA and miRNA labels

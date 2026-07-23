@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(syn IN g.Synonym WHERE syn CONTAINS 'pseudogene' AND syn CONTAINS 'DEAD') RETURN g.Label, g.Synonym

@@ -1,0 +1,1 @@
+Which miRNAs are located in the cellular component labeled 'cyclin A1-CDK2 complex'?

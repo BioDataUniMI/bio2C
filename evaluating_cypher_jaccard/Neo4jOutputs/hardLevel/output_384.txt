@@ -1,0 +1,6 @@
+{
+  "Gene": "CSMD1",
+  "T_Count": 645586,
+  "Sequence_Length": 2059620
+}
+

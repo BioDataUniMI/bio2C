@@ -1,0 +1,1 @@
+Identify cancers expressing miRNAs that are located in cellular components whose label contains 'extracellular', and return the label of: cancer, miRNA, and cellular component.

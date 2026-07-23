@@ -1,0 +1,50 @@
+{
+  "miRNA": "hsa-miR-6089",
+  "Gene": "CCR4",
+  "Disease": "brain ischemia",
+  "Genomic_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-6089",
+  "Gene": "CCR4",
+  "Disease": "celiac disease",
+  "Genomic_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-6089",
+  "Gene": "CCR4",
+  "Disease": "T-cell acute lymphoblastic leukemia",
+  "Genomic_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-6089",
+  "Gene": "CCR4",
+  "Disease": "mixed glioma",
+  "Genomic_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-6089",
+  "Gene": "CCR4",
+  "Disease": "central nervous system cancer",
+  "Genomic_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+

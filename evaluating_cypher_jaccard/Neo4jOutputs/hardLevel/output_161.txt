@@ -1,0 +1,10 @@
+{
+  "biological_process": "autophagy",
+  "miRNAs": [
+    "hsa-miR-21-3p",
+    "hsa-miR-204-3p",
+    "hsa-miR-9-3p",
+    "hsa-miR-372-3p"
+  ]
+}
+

@@ -1,0 +1,50 @@
+{
+  "g1.Label": "microtubule cytoskeleton organization",
+  "g2.Label": "microtubule cytoskeleton",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "organelle organization",
+  "g2.Label": "organelle",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "nucleus organization",
+  "g2.Label": "cell nucleus",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "cytoskeleton organization",
+  "g2.Label": "cytoskeleton",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "g1.Label": "endomembrane system organization",
+  "g2.Label": "endomembrane system",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+

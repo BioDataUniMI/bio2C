@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease) WITH c, COUNT(DISTINCT m) AS num_miRNAs ORDER BY num_miRNAs DESC RETURN c.Label AS Disease, num_miRNAs AS Number_of_miRNAs

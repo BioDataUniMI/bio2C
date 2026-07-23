@@ -1,0 +1,14 @@
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "sequence_length": 110,
+  "autoimmune_disease": "type 1 diabetes mellitus 1",
+  "cardiovascular_disease": "myocardial infarction"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "sequence_length": 110,
+  "autoimmune_disease": "multiple sclerosis",
+  "cardiovascular_disease": "myocardial infarction"
+}
+

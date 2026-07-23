@@ -1,0 +1,24 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "AssociatedDisease": "adult glioblastoma"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "AssociatedDisease": "adult T-cell leukemia/lymphoma"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "AssociatedDisease": "adult medulloblastoma"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "AssociatedDisease": "adult oligodendroglioma"
+}
+

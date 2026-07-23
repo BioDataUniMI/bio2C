@@ -1,0 +1,1 @@
+Find all mature miRNAs (i.e., exclude pre-miRNAs) that cause or contribute to phenotypes that have at least 8 synonyms containing non-English characters and digits (a-z, A-Z, 0-9). Return the miRNA label and the phenotype label and synonyms.

@@ -1,0 +1,25 @@
+{
+  "Disease": "restrictive cardiomyopathy",
+  "Description": "a type of heart disorder referring to the inability of the ventricles to fill with blood because ..."
+}
+
+{
+  "Disease": "arrhythmogenic right ventricular cardiomyopathy",
+  "Description": "arrhythmogenic right ventricular cardiomyopathy (arvc) is a heart muscle disease that consists in..."
+}
+
+{
+  "Disease": "histiocytoid cardiomyopathy",
+  "Description": "histiocytoid cardiomyopathy is an arrhythmogenic disorder characterized by cardiomegaly, severe c..."
+}
+
+{
+  "Disease": "idiopathic cardiomyopathy",
+  "Description": "a disease of the heart muscle or myocardium proper whose cause is unknown."
+}
+
+{
+  "Disease": "cardiomyopathy",
+  "Description": "a disease of the heart muscle or myocardium proper. cardiomyopathies may be classified as either ..."
+}
+

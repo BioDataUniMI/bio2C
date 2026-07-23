@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*\bactive\b.*' RETURN cc.Label

@@ -1,0 +1,18 @@
+{
+  "Phenotype": "Impotence",
+  "GOterm": "penile erection",
+  "miRNA": "hsa-miR-16-5p"
+}
+
+{
+  "Phenotype": "Erectile dysfunction",
+  "GOterm": "penile erection",
+  "miRNA": "hsa-miR-16-5p"
+}
+
+{
+  "Phenotype": "Priapism",
+  "GOterm": "penile erection",
+  "miRNA": "hsa-miR-16-5p"
+}
+

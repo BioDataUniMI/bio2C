@@ -1,0 +1,1 @@
+Identify diseases that are caused or contributed to by genes whose label starts with 'SYNC', where these genes are regulated by miRNAs expressed in cancers whose labels contain 'benign'. Return the cancer label, miRNA label, gene label, and disease label.

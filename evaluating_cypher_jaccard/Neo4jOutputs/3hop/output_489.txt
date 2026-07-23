@@ -1,0 +1,30 @@
+{
+  "InteractingGene": "TGFB1",
+  "Disease": "asthma",
+  "ExpressedMiRNA": "hsa-miR-152-5p"
+}
+
+{
+  "InteractingGene": "TGFB1",
+  "Disease": "hypertensive disorder",
+  "ExpressedMiRNA": "hsa-miR-155-3p"
+}
+
+{
+  "InteractingGene": "TGFB1",
+  "Disease": "asthma",
+  "ExpressedMiRNA": "hsa-miR-152-3p"
+}
+
+{
+  "InteractingGene": "TGFB1",
+  "Disease": "asthma",
+  "ExpressedMiRNA": "hsa-miR-148a-3p"
+}
+
+{
+  "InteractingGene": "TGFB1",
+  "Disease": "asthma",
+  "ExpressedMiRNA": "hsa-miR-148a-5p"
+}
+

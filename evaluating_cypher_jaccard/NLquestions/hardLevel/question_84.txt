@@ -1,0 +1,1 @@
+Among autoimmune diseases that have at least one subclass node connected to them by a subclassof path of length 1 to 6, find the diseases that are directly caused or contributed to by the largest number of distinct miRNAs. Return the top three autoimmune disease labels and their miRNA counts, ordering by miRNA count descending and alphabetically by disease label in case of ties.

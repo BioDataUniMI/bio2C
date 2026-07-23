@@ -1,0 +1,1 @@
+MATCH (ph:Phenotype)-[:towards]->(bp:Biological_process)-[:regulated_by]->(g:GO) RETURN ph.Label AS Phenotype, bp.Label AS Biological_Process, g.Label AS GO_Term

@@ -1,0 +1,25 @@
+{
+  "Gene": "CENPS-CORT",
+  "Interacting_Gene": "H4C1"
+}
+
+{
+  "Gene": "LINC02218",
+  "Interacting_Gene": "H4C1"
+}
+
+{
+  "Gene": "TAF11L7",
+  "Interacting_Gene": "H4C1"
+}
+
+{
+  "Gene": "TAF11L8",
+  "Interacting_Gene": "H4C1"
+}
+
+{
+  "Gene": "TAF11L10",
+  "Interacting_Gene": "H4C1"
+}
+

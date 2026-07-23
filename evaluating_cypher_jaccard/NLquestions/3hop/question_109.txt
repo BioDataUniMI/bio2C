@@ -1,0 +1,1 @@
+Given the pre-miRNA 'microRNA hsa-mir-203b precursor', identify the biological processes in which it has functions, where those biological processes have as a part GO terms that have the miRNA ‘hsa-miR-9-5p’ as a participant. Return the biological process label and the GO term label.

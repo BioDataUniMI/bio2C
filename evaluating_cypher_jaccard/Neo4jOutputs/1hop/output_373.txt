@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-372-3p",
+  "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:44210"
+}
+

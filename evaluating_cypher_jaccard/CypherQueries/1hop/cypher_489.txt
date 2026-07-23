@@ -1,0 +1,1 @@
+MATCH (g1:GO)-[:results_in_organization_of]->(g2:GO {Label:'cell hair'}) RETURN g1.Label, g2.Label

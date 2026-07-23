@@ -1,0 +1,1 @@
+MATCH (go:GO {Label:'regulation of appetite'})<-[:characteristic_of]-(p:Phenotype)<-[:has_phenotype]-(d:Disease)<-[:expressed_in]-(m:miRNA) RETURN p.Label AS Phenotype, d.Label AS Disease, m.Label AS miRNA

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:located_in]->(go1:GO)-[:part_of]->(go2:GO) WHERE NOT toLower(go1.Label) CONTAINS 'cellular' AND NOT toLower(go2.Label) CONTAINS 'cellular' RETURN g.Label AS Gene, m.Label AS miRNA, go1.Label AS ChildGOterm, go2.Label AS ParentGOterm

@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the disease 'hand, foot and mouth disease', measured by either 'northern blotting' or 'qrt-pcr etc', with sources 'miR2Disease' or 'dbDEMC'. Return the measurement methods and sources for each miRNA-disease association.

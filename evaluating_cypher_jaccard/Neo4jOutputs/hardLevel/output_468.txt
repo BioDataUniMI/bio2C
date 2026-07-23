@@ -1,0 +1,61 @@
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "pre_miRNAs": [
+    "microRNA 320d-1 (ENSG00000211491.2)",
+    "microRNA 320e (ENSG00000211513.5)",
+    "microRNA 320d-2 (ENSG00000221081.1)",
+    "microRNA hsa-mir-320a precursor",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+    "microRNA hsa-mir-320c precursor (hsa-mir-320c-1)",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)"
+  ]
+}
+
+{
+  "miRNA": "microRNA 320d-1 (ENSG00000211491.2)",
+  "pre_miRNAs": [
+    "microRNA 320c-2 (ENSG00000212051.1)",
+    "microRNA 320e (ENSG00000211513.5)",
+    "microRNA 320d-2 (ENSG00000221081.1)",
+    "microRNA hsa-mir-320a precursor",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+    "microRNA hsa-mir-320c precursor (hsa-mir-320c-1)",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)"
+  ]
+}
+
+{
+  "miRNA": "microRNA 320d-2 (ENSG00000221081.1)",
+  "pre_miRNAs": [
+    "microRNA 320c-2 (ENSG00000212051.1)",
+    "microRNA 320d-1 (ENSG00000211491.2)",
+    "microRNA 320e (ENSG00000211513.5)",
+    "microRNA hsa-mir-320a precursor",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+    "microRNA hsa-mir-320c precursor (hsa-mir-320c-1)",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)"
+  ]
+}
+
+{
+  "miRNA": "microRNA 320e (ENSG00000211513.5)",
+  "pre_miRNAs": [
+    "microRNA 320c-2 (ENSG00000212051.1)",
+    "microRNA 320d-1 (ENSG00000211491.2)",
+    "microRNA 320d-2 (ENSG00000221081.1)",
+    "microRNA hsa-mir-320a precursor",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+    "microRNA hsa-mir-320c precursor (hsa-mir-320c-1)",
+    "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-362 precursor",
+  "pre_miRNAs": [
+    "microRNA hsa-mir-501 precursor",
+    "microRNA hsa-mir-500b precursor",
+    "microRNA hsa-mir-500a precursor"
+  ]
+}
+

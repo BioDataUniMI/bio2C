@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:has_modifier]->(p2:Phenotype {Label:'severe intensity'}) RETURN p1.Label AS ModifierPhenotype

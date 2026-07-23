@@ -1,0 +1,30 @@
+{
+  "Cancer": "nodular lymphocyte predominant Hodgkin lymphoma",
+  "Phenotype": "Cellular immunodeficiency",
+  "BiologicalProcess": "immune response"
+}
+
+{
+  "Cancer": "nodular lymphocyte predominant Hodgkin lymphoma",
+  "Phenotype": "Immunodeficiency",
+  "BiologicalProcess": "immune response"
+}
+
+{
+  "Cancer": "Hodgkin's lymphoma, lymphocytic-histiocytic predominance",
+  "Phenotype": "Cellular immunodeficiency",
+  "BiologicalProcess": "immune response"
+}
+
+{
+  "Cancer": "Hodgkin's lymphoma, lymphocytic-histiocytic predominance",
+  "Phenotype": "Immunodeficiency",
+  "BiologicalProcess": "immune response"
+}
+
+{
+  "Cancer": "Hodgkin's lymphoma, mixed cellularity",
+  "Phenotype": "Cellular immunodeficiency",
+  "BiologicalProcess": "immune response"
+}
+

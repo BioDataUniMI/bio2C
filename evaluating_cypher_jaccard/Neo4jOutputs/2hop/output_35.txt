@@ -1,0 +1,55 @@
+{
+  "Disease": "pancreatic neoplasm",
+  "DiseaseType": [
+    "Disease",
+    "Cancer"
+  ],
+  "Precursor_miRNA": "microRNA hsa-mir-1179 precursor",
+  "Gene": "MIR1179",
+  "MalignCancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "Disease": "familial pancreatic carcinoma",
+  "DiseaseType": [
+    "Disease",
+    "Cancer"
+  ],
+  "Precursor_miRNA": "microRNA hsa-mir-1179 precursor",
+  "Gene": "MIR1179",
+  "MalignCancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "Disease": "exocrine pancreatic carcinoma",
+  "DiseaseType": [
+    "Disease",
+    "Cancer"
+  ],
+  "Precursor_miRNA": "microRNA hsa-mir-1179 precursor",
+  "Gene": "MIR1179",
+  "MalignCancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "Disease": "colorectal carcinoma",
+  "DiseaseType": [
+    "Disease",
+    "Cancer"
+  ],
+  "Precursor_miRNA": "microRNA hsa-mir-1273c precursor",
+  "Gene": "MIR1273C",
+  "MalignCancer": "malignant colon neoplasm"
+}
+
+{
+  "Disease": "familial colorectal cancer",
+  "DiseaseType": [
+    "Disease",
+    "Cancer"
+  ],
+  "Precursor_miRNA": "microRNA hsa-mir-1273c precursor",
+  "Gene": "MIR1273C",
+  "MalignCancer": "malignant colon neoplasm"
+}
+

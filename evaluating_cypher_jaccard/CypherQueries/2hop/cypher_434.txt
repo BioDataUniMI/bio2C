@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chrX') AND m.Label CONTAINS '3p' RETURN d.Label AS Disease, bp.Label AS BiologicalProcess, m.Label AS miRNA

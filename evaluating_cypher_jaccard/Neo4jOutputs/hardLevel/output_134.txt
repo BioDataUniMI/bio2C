@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7f-5p",
+  "Cancer": "breast cancer",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-let-7i-3p",
+  "Cancer": "breast cancer",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-103a-3p",
+  "Cancer": "breast cancer",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-1269a",
+  "Cancer": "breast cancer",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-130b-5p",
+  "Cancer": "breast cancer",
+  "RNAsister_score": 0.968971
+}
+

@@ -1,0 +1,1 @@
+Retrieve all properties of diseases whose label contains the string 'Rabin-Pappas' that have phenotypes characterizing GO terms which are parts of biological processes. Return the disease properties, phenotype label, GO term label, and biological process label.

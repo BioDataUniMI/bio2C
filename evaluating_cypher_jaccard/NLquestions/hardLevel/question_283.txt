@@ -1,0 +1,1 @@
+Find the top 5 miRNAs over-expressed in the cancer labeled 'lung adenocarcinoma' with the highest number of G nucleotides in their sequence. Return the miRNA label, number of Gs, and cancer label.

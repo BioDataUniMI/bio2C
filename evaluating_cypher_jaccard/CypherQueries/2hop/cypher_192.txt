@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene {Label:'SYNCRIP'}) RETURN c.Label AS Cancer, m.Label AS miRNA

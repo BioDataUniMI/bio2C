@@ -1,0 +1,1 @@
+Identify biological processes whose disruption is caused by the disease labeled as 'blood coagulation disease' for which the phenotype labeled as 'Telangiectasia of the skin' is recorded.

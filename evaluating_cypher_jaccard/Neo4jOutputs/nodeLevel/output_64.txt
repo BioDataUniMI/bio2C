@@ -1,0 +1,12 @@
+{
+  "CellularComponent": "mitochondrial derivative"
+}
+
+{
+  "CellularComponent": "major mitochondrial derivative"
+}
+
+{
+  "CellularComponent": "minor mitochondrial derivative"
+}
+

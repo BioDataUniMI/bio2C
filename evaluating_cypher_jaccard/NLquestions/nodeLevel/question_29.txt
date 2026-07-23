@@ -1,0 +1,1 @@
+Which diseases mention 'tachycardia' in their description and contain 'syndrome' in the label?

@@ -1,0 +1,1 @@
+Find all genes that are transcribed into pre-miRNAs which are over-expressed in the autoimmune disease labeled as 'multiple sclerosis'. Return the gene and the pre-miRNA labels.

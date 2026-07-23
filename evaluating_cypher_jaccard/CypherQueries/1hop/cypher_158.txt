@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:has_function]->(g:GO) UNWIND r.Source AS source RETURN DISTINCT source AS Source

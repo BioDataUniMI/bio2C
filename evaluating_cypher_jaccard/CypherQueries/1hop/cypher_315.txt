@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE NOT (g)-[:part_of]->(:GO) AND g.Label CONTAINS 'cis-acting' RETURN g.Label

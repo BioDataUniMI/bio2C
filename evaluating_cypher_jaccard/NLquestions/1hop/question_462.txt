@@ -1,0 +1,1 @@
+Identify autoimmune diseases that have a basis in the dysfunction of the cellular component labeled 'canonical inflammasome complex'. Return disease label and the sources confirming the interaction.

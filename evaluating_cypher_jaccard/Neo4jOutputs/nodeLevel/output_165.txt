@@ -1,0 +1,5 @@
+{
+  "Disease": "paracoccidioidomycosis",
+  "Description": "a systemic fungal infection caused by paracoccidioides brasiliensis that is most often seen in im..."
+}
+

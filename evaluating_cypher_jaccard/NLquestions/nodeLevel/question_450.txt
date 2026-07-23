@@ -1,0 +1,1 @@
+List all molecular functions whose labels contain the string 'gated ' without a dash ('-') before it.

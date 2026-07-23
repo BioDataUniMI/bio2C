@@ -1,0 +1,20 @@
+{
+  "Disease": "asthma"
+}
+
+{
+  "Disease": "schizophrenia"
+}
+
+{
+  "Disease": "major depressive disorder"
+}
+
+{
+  "Disease": "endogenous depression"
+}
+
+{
+  "Disease": "atopic eczema"
+}
+

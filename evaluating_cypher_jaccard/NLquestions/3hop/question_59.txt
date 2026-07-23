@@ -1,0 +1,1 @@
+Which cardiovascular diseases share features of other diseases that have phenotypes modified by the phenotype labeled 'abnormal'? Return the labels of the cardiovascular disease, the disease and the phenotype.

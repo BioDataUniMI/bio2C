@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:acts_upstream_of]->(t) WHERE (t:GO OR t:Biological_process) AND t.Label CONTAINS 'cell cycle' RETURN m.Label AS miRNA, t 

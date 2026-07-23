@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:expresses]->(m:miRNA)-[:participates_in]->(bp:Biological_process)-[:has_part]->(mf:Molecular_function) WHERE (toLower(mf.Label) CONTAINS 'rna' OR toLower(mf.Label) CONTAINS 'dna') AND m.Label =~ '.*[0-9]$' RETURN p.Label AS Phenotype, m.Label AS miRNA, bp.Label AS BiologicalProcess, mf.Label AS MolecularFunction

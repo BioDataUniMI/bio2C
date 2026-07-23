@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'Neck muscle' AND NOT p.Description CONTAINS 'strength' RETURN p.Label AS Phenotype, p.Description, p.Synonym

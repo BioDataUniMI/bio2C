@@ -1,0 +1,1 @@
+How many pre-miRNAs cause somatic mutations in phenotypes labeled 'Breast carcinoma', 'Lung adenocarcinoma', or 'Thyroid carcinoma' (including any subclasses of Phenotype)? Return one count per condition.

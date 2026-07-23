@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-324-3p",
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "num_G": 7,
+  "num_C": 10
+}
+
+{
+  "miRNA": "hsa-miR-617",
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "num_G": 6,
+  "num_C": 5
+}
+
+{
+  "miRNA": "hsa-miR-718",
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "num_G": 7,
+  "num_C": 11
+}
+
+{
+  "miRNA": "hsa-miR-1471",
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "num_G": 10,
+  "num_C": 6
+}
+
+{
+  "miRNA": "hsa-miR-1237-3p",
+  "Cancer_label": "invasive ductal breast carcinoma",
+  "num_G": 3,
+  "num_C": 11
+}
+

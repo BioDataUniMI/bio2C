@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-638 precursor",
+  "miRNA": "hsa-miR-638",
+  "Gene": "SOX2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-522 precursor",
+  "miRNA": "hsa-miR-522-3p",
+  "Gene": "SOX2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1181 precursor",
+  "miRNA": "hsa-miR-1181",
+  "Gene": "SOX2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Gene": "SOX2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-145 precursor",
+  "miRNA": "hsa-miR-145-5p",
+  "Gene": "SOX2"
+}
+

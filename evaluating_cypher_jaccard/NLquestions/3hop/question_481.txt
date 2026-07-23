@@ -1,0 +1,1 @@
+Which diseases are caused by the disruption of a GO term that is a function of a miRNA, and also cause the disruption of another GO term? Return the label of diseases, all mentioned GO terms, and miRNAs.

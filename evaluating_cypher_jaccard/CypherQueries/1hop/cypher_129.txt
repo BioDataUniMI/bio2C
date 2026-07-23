@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) RETURN b.Label AS BiologicalProcess, COUNT(m) AS miRNA_Count ORDER BY miRNA_Count DESC, BiologicalProcess ASC LIMIT 5

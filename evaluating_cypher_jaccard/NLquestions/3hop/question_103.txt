@@ -1,0 +1,1 @@
+Count the number of distinct genes regulated by miRNAs that develop from pre-miRNAs, where those genes cause or contribute to the infectious disease labeled 'AIDS'. Return the total count of such genes.

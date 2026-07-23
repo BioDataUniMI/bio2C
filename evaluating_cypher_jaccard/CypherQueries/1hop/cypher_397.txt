@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:transcribed_from]->(:Gene) WHERE SIZE(p.Sequence) > 120 RETURN DISTINCT p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length

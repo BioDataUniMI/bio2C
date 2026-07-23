@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "programmed cell death",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "BiologicalProcess": "programmed cell death",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast cancer"
+}
+
+{
+  "BiologicalProcess": "programmed cell death",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "benign muscle neoplasm"
+}
+
+{
+  "BiologicalProcess": "programmed cell death",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "adenoma"
+}
+
+{
+  "BiologicalProcess": "programmed cell death",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "sarcoma"
+}
+

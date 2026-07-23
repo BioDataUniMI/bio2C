@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrY') AND SIZE(pm.Sequence) < 100 RETURN pm.Label AS miRNA, pm.Genomic_coordinates AS GenomicCoordinates, SIZE(pm.Sequence) AS SequenceLength

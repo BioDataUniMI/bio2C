@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:disease_has_feature]->(p:Phenotype )<-[:disease_has_feature]-(ad:Autoimmune_disease) RETURN nd.Label AS NeurodegenerativeDisease, ad.Label AS AutoimmuneDisease, p.Label AS Phenotype

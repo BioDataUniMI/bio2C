@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease{Label:'cardiac tuberculosis'}) RETURN i.Description

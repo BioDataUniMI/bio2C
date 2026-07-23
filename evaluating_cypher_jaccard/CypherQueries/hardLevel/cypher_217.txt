@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WITH m, m.Sequence AS seq WITH m, seq, (SIZE(SPLIT(seq, 'AA')) - 1 + SIZE(SPLIT(seq, 'UU')) - 1 + SIZE(SPLIT(seq, 'CC')) - 1 + SIZE(SPLIT(seq, 'GG')) - 1) AS double_count ORDER BY double_count DESC, m.Label ASC LIMIT 3 RETURN m.Label AS miRNA, seq AS miRNA_sequence, double_count AS number_of_double_letters

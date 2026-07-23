@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases whose label contains the word 'herpes' along with their phenotypes, where these phenotypes are also phenotype of diseases whose label contains the word 'palsy'.

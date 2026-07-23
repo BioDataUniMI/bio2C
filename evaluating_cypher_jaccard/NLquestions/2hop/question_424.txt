@@ -1,0 +1,1 @@
+Find miRNAs located in the cellular component labeled as 'vesicle lumen' when it is part of GO terms.

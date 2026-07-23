@@ -1,0 +1,30 @@
+{
+  "bp.Label": "exocytosis",
+  "g.Label": "exocytic vesicle",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "vesicle-mediated transport",
+  "g.Label": "vesicle",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "microtubule-based transport",
+  "g.Label": "microtubule",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+

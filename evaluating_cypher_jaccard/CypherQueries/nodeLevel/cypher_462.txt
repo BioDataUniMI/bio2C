@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE ANY(s IN p.Synonym WHERE s =~ '.*[^\x00-\x7F].*' AND s CONTAINS 'BB') RETURN p.Label AS Phenotype

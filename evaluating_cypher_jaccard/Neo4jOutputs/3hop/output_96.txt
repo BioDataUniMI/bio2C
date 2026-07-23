@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Phenotype": "Prostate neoplasm"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Phenotype": "Neoplasm of the lung"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Phenotype": "Sarcoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Phenotype": "Intracranial meningioma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-429 precursor",
+  "miRNA": "hsa-miR-429",
+  "Phenotype": "Brain neoplasm"
+}
+

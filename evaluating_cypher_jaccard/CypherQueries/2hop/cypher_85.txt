@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) WHERE SIZE(g.Label) > 9 RETURN pm.Label AS PreMiRNA, g.Label AS Gene, m.Label AS miRNA

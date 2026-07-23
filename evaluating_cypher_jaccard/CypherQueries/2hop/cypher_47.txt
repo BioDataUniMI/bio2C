@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) RETURN COUNT(DISTINCT pm) AS PrecursorCount

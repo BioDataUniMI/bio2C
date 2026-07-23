@@ -1,0 +1,1 @@
+MATCH (m:miRNA) RETURN m.Label AS miRNA, m.Description AS Description, SIZE(m.Sequence) AS Length ORDER BY Length ASC, miRNA ASC LIMIT 5

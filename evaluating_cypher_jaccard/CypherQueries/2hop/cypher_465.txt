@@ -1,0 +1,1 @@
+MATCH (m1:miRNA {Label: 'microRNA hsa-mir-410 precursor'})-[:in_similarity_relationship_with]->(m2) WHERE m2:miRNA OR m2:pre_miRNA RETURN m2.Label AS Similar_to, LABELS(m2) AS Target_Type

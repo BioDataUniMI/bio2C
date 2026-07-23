@@ -1,0 +1,25 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+

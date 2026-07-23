@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'rnaseh1 gene' OR d.Description CONTAINS 'rnaseh1 gene' RETURN d.Label AS DiseaseLabel, d.Description AS Description

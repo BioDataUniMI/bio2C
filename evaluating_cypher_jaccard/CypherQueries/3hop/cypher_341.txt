@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:participates_in]->(bp:Biological_process)-[:subclassof]->(bp2:Biological_process) RETURN c.Label AS Cancer, COUNT(DISTINCT m) AS miRNACount ORDER BY miRNACount DESC

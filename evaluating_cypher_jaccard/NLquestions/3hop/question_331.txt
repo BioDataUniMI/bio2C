@@ -1,0 +1,1 @@
+Which genes are transcribed into miRNAs that regulate the activity of target genes causing or contributing to diseases? Return the label of the source genes, miRNAs, target genes, diseases, and the sequence lengths of both source and target genes.

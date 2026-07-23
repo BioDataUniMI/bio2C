@@ -1,0 +1,1 @@
+List precursor miRNAs on chromosome X whose sequences end with 'CAA'.

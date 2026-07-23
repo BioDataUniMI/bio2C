@@ -1,0 +1,1 @@
+Which autoimmune diseases have the phenotype labeled as 'Cutaneous photosensitivity', where this phenotype is a feature of diseases of which the neurodegenerative disease labeled as 'COFS syndrome' is a subclass? Return the label of the parent disease and the autoimmune diseases.

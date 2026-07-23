@@ -1,0 +1,10 @@
+{
+  "ad": {
+    "Description": "a group of disorders of the innate immune system characterized by attacks of seemingly unprovoked...",
+    "Label": "autoinflammatory syndrome",
+    "ID": "MONDO:0019751",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0019751"
+  },
+  "g.Label": "canonical inflammasome complex"
+}
+

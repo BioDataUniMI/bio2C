@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:develops_from]->(:pre_miRNA) WHERE r.Source IS NOT NULL RETURN COUNT(m) AS Num_miRNAs_with_Source

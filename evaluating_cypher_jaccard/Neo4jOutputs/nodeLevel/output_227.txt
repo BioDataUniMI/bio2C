@@ -1,0 +1,35 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-548an precursor",
+  "GenomicCoordinates": [
+    "chrX:106639814-106639896+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-509 precursor (hsa-mir-509-3)",
+  "GenomicCoordinates": [
+    "chrX:147259652-147259726-"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-3202 precursor (hsa-mir-3202-2)",
+  "GenomicCoordinates": [
+    "chrX:153981098-153981176-"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4536 precursor (hsa-mir-4536-1)",
+  "GenomicCoordinates": [
+    "chrX:55451495-55451582-"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4536 precursor (hsa-mir-4536-2)",
+  "GenomicCoordinates": [
+    "chrX:55451495-55451582+"
+  ]
+}
+

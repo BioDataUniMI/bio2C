@@ -1,0 +1,1 @@
+Find pre-miRNAs that develop into miRNAs which interact with the miRNA 'hsa-miR-145-5p', known to regulate the activity of genes whose labels start with 'TPM'. Return the label of: the pre-miRNA, the miRNAs, and the gene.

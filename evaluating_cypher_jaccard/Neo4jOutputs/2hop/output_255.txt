@@ -1,0 +1,30 @@
+{
+  "Disease": "hearing disorder",
+  "DisruptedGO": "sensory perception of sound",
+  "BiologicalProcess": "vibrational conductance of sound to the inner ear"
+}
+
+{
+  "Disease": "hearing disorder",
+  "DisruptedGO": "sensory perception of sound",
+  "BiologicalProcess": "detection of mechanical stimulus involved in sensory perception of sound"
+}
+
+{
+  "Disease": "perceptual disorders",
+  "DisruptedGO": "sensory perception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in sensory perception"
+}
+
+{
+  "Disease": "perceptual disorders",
+  "DisruptedGO": "sensory perception",
+  "BiologicalProcess": "detection of electrical stimulus involved in sensory perception"
+}
+
+{
+  "Disease": "perceptual disorders",
+  "DisruptedGO": "sensory perception",
+  "BiologicalProcess": "detection of light stimulus involved in sensory perception"
+}
+

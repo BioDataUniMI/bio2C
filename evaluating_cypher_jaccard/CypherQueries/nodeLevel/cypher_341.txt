@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE (c.Label CONTAINS 'malignant' OR c.Description CONTAINS 'malignant') AND c.Description CONTAINS 'variant' RETURN c.Label AS CancerLabel, c.URI AS CancerURI

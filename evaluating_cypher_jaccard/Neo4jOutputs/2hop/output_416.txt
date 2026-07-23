@@ -1,0 +1,5 @@
+{
+  "BiologicalProcess": "sister chromatid segregation",
+  "Phenotype": "Premature chromatid separation"
+}
+

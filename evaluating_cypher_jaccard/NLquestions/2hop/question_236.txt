@@ -1,0 +1,1 @@
+Identify pre-miRNAs that are over-expressed in infectious diseases having phenotypes whose label contains the word 'tachycardia'. Return the label of: the pre-miRNA, the disease, and the phenotype.

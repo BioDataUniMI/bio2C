@@ -1,0 +1,1 @@
+Retrieve molecular functions (label and description) that are part of biological processes in which miRNAs expressed by the cancer labeled 'sarcoma' participate in. Return also the miRNA labels and the biological process labels.

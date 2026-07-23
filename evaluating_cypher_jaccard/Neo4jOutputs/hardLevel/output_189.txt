@@ -1,0 +1,5 @@
+{
+  "gene": "SNORD116-1",
+  "first_10_percent_sequence": "GGATCGATG"
+}
+

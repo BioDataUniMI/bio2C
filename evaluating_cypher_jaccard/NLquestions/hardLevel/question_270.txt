@@ -1,0 +1,1 @@
+Retrieve the top 5 miRNAs under-expressed in cancer ranked by the highest number of 'A' nucleotides in their sequences. Return the label and sequence of miRNA and the number of 'A'.

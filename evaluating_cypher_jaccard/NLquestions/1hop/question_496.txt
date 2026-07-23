@@ -1,0 +1,1 @@
+Find pre-miRNAs that have parts occurring in GO terms. Return the GO term label, pre-miRNA label and their genomic coordinates, and the sources confirming the relationship.

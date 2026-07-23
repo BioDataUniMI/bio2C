@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'kinase inhibitor' AND NOT g.Label CONTAINS 'protein' RETURN g.Label

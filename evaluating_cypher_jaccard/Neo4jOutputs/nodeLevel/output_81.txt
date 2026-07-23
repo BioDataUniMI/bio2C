@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "UTP-C complex",
+  "Description": "a protein complex that forms a subcomplex of the 90s preribosome. in s. cerevisiae, it is compose..."
+}
+
+{
+  "CellularComponent": "preribosome, large subunit precursor",
+  "Description": "a preribosomal complex consisting of 27sa, 27sb, and/or 7s pre-rrna, 5s rrna, ribosomal proteins ..."
+}
+
+{
+  "CellularComponent": "Mpp10 complex",
+  "Description": "a protein complex that forms a subcomplex of the 90s preribosome. in s. cerevisiae, it is compose..."
+}
+
+{
+  "CellularComponent": "t-UTP complex",
+  "Description": "a protein complex that forms a subcomplex of the 90s preribosome and is required for the subseque..."
+}
+
+{
+  "CellularComponent": "Noc complex",
+  "Description": "any of several heterodimers containing one or two noc proteins, associated with preribosomal comp..."
+}
+

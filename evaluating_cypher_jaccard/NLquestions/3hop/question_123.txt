@@ -1,0 +1,1 @@
+Identify diseases whose labels contain 'sclerosis' but do not contain 'juvenile', where these diseases are caused or contributed to by genes whose activity is regulated by miRNAs transcribed from other genes. Return the source gene label, miRNA label, target gene label, and disease label.

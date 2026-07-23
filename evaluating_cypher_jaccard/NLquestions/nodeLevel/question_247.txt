@@ -1,0 +1,1 @@
+Find miRNAs whose sequences do not contain 'A' but do contain the motif 'CCCC' and return their labels and sequences.

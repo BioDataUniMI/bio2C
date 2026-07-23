@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease{Label:'iron deficiency anemia'}) WHERE  p.Label CONTAINS 'hair' RETURN p.Label AS Phenotype

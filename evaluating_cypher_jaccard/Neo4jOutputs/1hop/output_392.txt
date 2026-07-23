@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "response to iron ion",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "BiologicalProcess": "response to hormone",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "BiologicalProcess": "response to toxic substance",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "BiologicalProcess": "response to virus",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "BiologicalProcess": "response to light stimulus",
+  "miRNA": "hsa-miR-340-5p"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT m.Sequence CONTAINS 'AGGGGA' AND SIZE(m.Sequence) < 20 RETURN COUNT(m) AS NumberOfmiRNAs

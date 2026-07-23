@@ -1,0 +1,1 @@
+Find molecular functions that are subclasses of a GO term, where that GO term starts a biological process that has the 'hsa-miR-124-3p' miRNA as participant. Return the label of: molecular function, GO term, and biological process.

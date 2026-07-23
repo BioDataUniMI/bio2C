@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-424-5p",
+  "Gene": "SRIP3"
+}
+
+{
+  "miRNA": "hsa-miR-424-5p",
+  "Gene": "CD24P4"
+}
+
+{
+  "miRNA": "hsa-miR-424-5p",
+  "Gene": "ACTG1P2"
+}
+
+{
+  "miRNA": "hsa-miR-224-3p",
+  "Gene": "RAB9AP3"
+}
+
+{
+  "miRNA": "hsa-miR-224-3p",
+  "Gene": "RAB9AP1"
+}
+

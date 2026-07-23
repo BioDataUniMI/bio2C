@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:participates_in]->(bp:Biological_process)-[:subclassof]->(bp2:Biological_process) WHERE bp.Label CONTAINS 'autophagy' AND SIZE(m.Sequence) > 21 RETURN c.Label AS Cancer, m.Label AS miRNA, SIZE(m.Sequence) AS miRNASequenceLength, bp2.Label AS ParentBiologicalProcess

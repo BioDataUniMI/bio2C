@@ -1,0 +1,1 @@
+Identify the GO terms function of the miRNA 'hsa-miR-661', and identify the pre-miRNAs from which this miRNA develops and the genes from which those pre-miRNAs are transcribed. Return the labels of the GO term, the pre-miRNA, and the gene

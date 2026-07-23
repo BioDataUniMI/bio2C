@@ -1,0 +1,1 @@
+List all diseases that have phenotypes characteristic of GO terms and in which the miRNA 'hsa-miR-155-5p' is expressed. Return the miRNA label, disease label, disease description, phenotype label, and GO term label.

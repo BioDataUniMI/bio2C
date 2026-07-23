@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Disease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "miRNA": "hsa-miR-195-5p",
+  "Disease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "Disease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Disease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "miRNA": "hsa-miR-214-5p",
+  "Disease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+

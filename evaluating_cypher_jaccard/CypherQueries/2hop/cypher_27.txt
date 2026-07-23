@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype|disease_has_feature]->(p:Phenotype)<-[:has_phenotype|disease_has_feature]-(c:Cancer) RETURN count(DISTINCT d)

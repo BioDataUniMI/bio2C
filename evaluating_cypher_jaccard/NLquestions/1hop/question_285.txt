@@ -1,0 +1,1 @@
+Find the molecular functions whose label starts with 'ADP' and that are subclasses of other GO terms. Return labels for the molecular function and the GO term.

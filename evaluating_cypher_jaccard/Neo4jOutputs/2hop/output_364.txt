@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-6780a-5p",
+  "Disease": "malignant endocrine neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-4524a-5p",
+  "Disease": "malignant endocrine neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-891a-5p",
+  "Disease": "malignant endocrine neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-4433a-5p",
+  "Disease": "malignant endocrine neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-6769a-5p",
+  "Disease": "malignant endocrine neoplasm"
+}
+

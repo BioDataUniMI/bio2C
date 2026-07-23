@@ -1,0 +1,1 @@
+Find all autoimmune diseases whose labels start with 'anti'. Return their label and URI.

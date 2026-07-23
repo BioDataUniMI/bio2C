@@ -1,0 +1,1 @@
+Identify genes that are pseudogenes characterized by a synonym containing: 1) the word 'pseudogene' and 2) the word 'DEAD'.

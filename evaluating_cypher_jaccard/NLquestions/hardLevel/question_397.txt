@@ -1,0 +1,1 @@
+Find genes whose labels contain any value from the set {139, 157, 177} and that cause or contribute to cancer, and return each gene together with the list of cancers it causes or contributes to.

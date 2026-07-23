@@ -1,0 +1,1 @@
+Which diseases have descriptions mentioning both 'brain' and 'tumor' but their label does not contain 'brain' (case-insensitive)?

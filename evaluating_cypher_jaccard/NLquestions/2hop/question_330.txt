@@ -1,0 +1,1 @@
+Identify miRNA-gene-disease associations where the miRNA is expressed in a cancer and regulates a gene contributing to a disease, together with the evidence sources and PubMed IDs for both expression and regulation.

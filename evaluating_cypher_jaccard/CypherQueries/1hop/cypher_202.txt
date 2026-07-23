@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Cardiovascular_disease) RETURN m.Label AS miRNA, d.Label AS Disease, r.combWeight AS combWeight ORDER BY combWeight DESC, miRNA ASC LIMIT 10

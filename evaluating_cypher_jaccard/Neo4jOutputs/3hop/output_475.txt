@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+

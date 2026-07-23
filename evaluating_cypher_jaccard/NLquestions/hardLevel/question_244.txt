@@ -1,0 +1,1 @@
+Calculate the percentage of 'A' nucleotides for each miRNA that is part of GO terms and has sequence length greater than 120, adn return the miRNA label, sequence, and the percentage of A nucleotides.

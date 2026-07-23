@@ -1,0 +1,7 @@
+{
+  "Disease": "immunodeficiency 11b with atopic dermatitis",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "positive regulation of T cell activation"
+}
+

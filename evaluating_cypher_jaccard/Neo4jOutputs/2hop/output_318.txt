@@ -1,0 +1,5 @@
+{
+  "Cancer": "childhood bladder carcinoma",
+  "Disease": "urinary bladder carcinoma"
+}
+

@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c:Cardiovascular_disease AND c.Label CONTAINS 'oma' RETURN c.Label AS CancerLabel

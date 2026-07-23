@@ -1,0 +1,1 @@
+ Find the gene transcribing to the human miRNA labeled as 'microRNA hsa-mir-4498 precursor'. Return the gene label and the labels of the miRNA node.

@@ -1,0 +1,1 @@
+Identify the biological processes that serve as functions of the precursor miRNA 'microRNA hsa-mir-1237 precursor' which is transcribed to gene. Return the biological process, the gene, and the associated miRNA.

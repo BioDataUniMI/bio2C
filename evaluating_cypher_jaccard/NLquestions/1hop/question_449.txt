@@ -1,0 +1,1 @@
+Identify biological processes that result in disassembly of cellular components, excluding those whose label or description contains the word 'disassembly'.

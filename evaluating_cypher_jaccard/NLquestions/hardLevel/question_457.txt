@@ -1,0 +1,1 @@
+Which miRNAs are causal germline mutation hotspots across diseases, defined as the miRNAs associated with the highest number of distinct diseases (top 20), and which diseases are they linked to?

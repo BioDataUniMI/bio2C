@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r1:transcribed_to]->(m:miRNA)-[r2:regulates_activity_of]->(t:Gene) RETURN g.Label AS SourceGene, m.Label AS miRNA, t.Label AS TargetGene, r1.Source AS TranscriptionSource, r2.Method AS RegulationMethod, r2.Source AS RegulationSource

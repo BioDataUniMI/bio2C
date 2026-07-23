@@ -1,0 +1,1 @@
+Find miRNAs that are located in cellular components whose label mention the word 'lipid'.

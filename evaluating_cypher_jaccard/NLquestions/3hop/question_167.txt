@@ -1,0 +1,1 @@
+Which cardiovascular diseases have the highest number of phenotypes that are also phenotypes of diseases such that another disease predisposes_towards those diseases? Return ONLY the 5 best matches (order the diseases alphabetically by label to avoid ties).

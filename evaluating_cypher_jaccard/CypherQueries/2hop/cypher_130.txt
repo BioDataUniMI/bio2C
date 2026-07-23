@@ -1,0 +1,1 @@
+MATCH (mf1:Molecular_function)-[:part_of]->(bp:Biological_process)<-[:part_of]-(mf2:Molecular_function) WHERE mf1 <> mf2 RETURN COUNT(DISTINCT [bp, mf1, mf2]) AS PairCount

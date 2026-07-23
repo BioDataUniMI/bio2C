@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease) WHERE ad.Label CONTAINS 'sclerosis' AND (ad.Label CONTAINS 'rare' OR ad.Label CONTAINS 'acute' OR ad.Description CONTAINS 'rare' OR ad.Description CONTAINS 'acute') RETURN ad.Label AS DiseaseLabel, ad.ID AS ID

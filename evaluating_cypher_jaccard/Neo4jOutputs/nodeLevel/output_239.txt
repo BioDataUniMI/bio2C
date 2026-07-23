@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-2)",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-219a precursor (hsa-mir-219a-1)",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-1)",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-2)",
+  "Length": 109
+}
+

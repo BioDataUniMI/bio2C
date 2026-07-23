@@ -1,0 +1,21 @@
+{
+  "CellularComponent": "chromatin",
+  "GOterm": "DNA-binding transcription factor activity, RNA polymerase II-specific",
+  "BiologicalProcess": "regulation of transcription by RNA polymerase II",
+  "miRNA": "hsa-miR-206"
+}
+
+{
+  "CellularComponent": "chromatin",
+  "GOterm": "RNA polymerase II activity",
+  "BiologicalProcess": "transcription by RNA polymerase II",
+  "miRNA": "hsa-miR-206"
+}
+
+{
+  "CellularComponent": "cytoskeleton",
+  "GOterm": "structural constituent of cytoskeleton",
+  "BiologicalProcess": "cytoskeleton organization",
+  "miRNA": "hsa-miR-206"
+}
+

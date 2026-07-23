@@ -1,0 +1,1 @@
+Given the miRNA 'hsa-miR-199b-5p', which develops from a precursor pre-miRNA that causes or contributes to the disease labeled as 'dermatomyositis', identify all GO terms in which this miRNA is not involved in. Return the label of the pre-miRNA and the GO term and the sources confirming the pre-miRNA-disease association.

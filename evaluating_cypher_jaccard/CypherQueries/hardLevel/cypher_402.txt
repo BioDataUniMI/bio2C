@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE d.Label CONTAINS 'gene' AND (r.Mutation IS NULL OR r.Mutation > 0.002) RETURN COLLECT(DISTINCT COALESCE(g.Label, g.URI)) AS Genes

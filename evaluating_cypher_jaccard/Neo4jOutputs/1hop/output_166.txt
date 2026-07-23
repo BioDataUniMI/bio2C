@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-660-3p",
+  "GOTerm": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-625 precursor",
+  "GOTerm": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-625 precursor",
+  "GOTerm": "RISC complex",
+  "Sources": [
+    "GOC",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-4429",
+  "GOTerm": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-127 precursor",
+  "GOTerm": "RISC complex",
+  "Sources": [
+    "GOC",
+    "RNAcentral"
+  ]
+}
+

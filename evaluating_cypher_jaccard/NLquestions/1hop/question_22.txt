@@ -1,0 +1,1 @@
+Find miRNAs that develop from a pre-miRNA where both sequences contain at least one 'CUUUUU' motif.

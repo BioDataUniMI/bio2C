@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing the word 'chromosome' and explicitly refer to chromosome 'X', 'Y', or 'Z' in their label?

@@ -1,0 +1,10 @@
+{
+  "p1.Label": "soft",
+  "p2.Label": "normal"
+}
+
+{
+  "p1.Label": "has fewer parts of type",
+  "p2.Label": "normal"
+}
+

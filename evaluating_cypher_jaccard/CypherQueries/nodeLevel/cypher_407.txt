@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE bp.Species = 'cellular organisms' AND bp.Description CONTAINS 'steady state' RETURN bp.Label, bp.Description, bp.URI

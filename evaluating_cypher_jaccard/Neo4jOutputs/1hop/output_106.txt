@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Ovarian neoplasm",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Phenotype": "Neoplasm of the lung",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Phenotype": "Sarcoma",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Phenotype": "Stomach cancer",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "Phenotype": "Prostate cancer",
+  "Source": [
+    "dbDEMC"
+  ]
+}
+

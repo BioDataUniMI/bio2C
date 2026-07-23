@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:function_of]->(m:miRNA)-[:acts_upstream_of_or_within]->(bp:Biological_process) WITH go, COLLECT(DISTINCT m) AS miRNAs, COLLECT(DISTINCT bp) AS processes WHERE SIZE(processes) >= 10 RETURN go.Label AS GO, SIZE(miRNAs) AS miRNAs, SIZE(processes) AS processes

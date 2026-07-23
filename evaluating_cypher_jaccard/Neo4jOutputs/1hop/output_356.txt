@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "tRNA-intron endonuclease activity",
+  "CellularComponent": "tRNA-intron endonuclease complex"
+}
+
+{
+  "MolecularFunction": "tRNA-uridine 2-sulfurtransferase activity",
+  "CellularComponent": "cytosolic tRNA wobble base thiouridylase complex"
+}
+
+{
+  "MolecularFunction": "phenylalanine-tRNA ligase activity",
+  "CellularComponent": "phenylalanine-tRNA ligase complex"
+}
+
+{
+  "MolecularFunction": "glutamate-tRNA ligase activity",
+  "CellularComponent": "glutamate-tRNA ligase complex"
+}
+
+{
+  "MolecularFunction": "glycine-tRNA ligase activity",
+  "CellularComponent": "glycine-tRNA ligase complex"
+}
+

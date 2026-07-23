@@ -1,0 +1,35 @@
+{
+  "miRNAs": [
+    "hsa-miR-30a-3p",
+    "hsa-miR-30e-3p"
+  ]
+}
+
+{
+  "miRNAs": [
+    "hsa-miR-302a-3p",
+    "hsa-miR-302b-3p"
+  ]
+}
+
+{
+  "miRNAs": [
+    "hsa-miR-548aj-3p",
+    "hsa-miR-548x-3p"
+  ]
+}
+
+{
+  "miRNAs": [
+    "hsa-miR-520c-5p",
+    "hsa-miR-518f-5p"
+  ]
+}
+
+{
+  "miRNAs": [
+    "hsa-miR-642a-3p",
+    "hsa-miR-642b-3p"
+  ]
+}
+

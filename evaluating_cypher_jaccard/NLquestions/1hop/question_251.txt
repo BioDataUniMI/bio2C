@@ -1,0 +1,1 @@
+Find the gene containing '8y' (case-insensitive) in its label and return the label of the miRNA transcribed from it.

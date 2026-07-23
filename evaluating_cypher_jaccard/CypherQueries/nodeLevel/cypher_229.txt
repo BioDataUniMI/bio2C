@@ -1,0 +1,1 @@
+MATCH (a:Autoimmune_disease) WHERE toLower(a.Label) CONTAINS 'diabetes' AND SIZE(a.Description) > 0 RETURN a.Label AS AutoimmuneDisease, a.Description AS Description

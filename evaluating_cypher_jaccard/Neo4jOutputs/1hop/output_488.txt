@@ -1,0 +1,25 @@
+{
+  "bp.Label": "mitotic cell cycle",
+  "g.Label": "mitotic M phase"
+}
+
+{
+  "bp.Label": "mitotic cell cycle",
+  "g.Label": "mitotic interphase"
+}
+
+{
+  "bp.Label": "mitotic cell cycle",
+  "g.Label": "mitotic cell cycle phase"
+}
+
+{
+  "bp.Label": "meiotic cell cycle",
+  "g.Label": "meiotic M phase"
+}
+
+{
+  "bp.Label": "meiotic cell cycle",
+  "g.Label": "meiotic interphase"
+}
+

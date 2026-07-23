@@ -1,0 +1,6 @@
+{
+  "g.Label": "MIR4723",
+  "m.Label": "microRNA hsa-mir-4723 precursor",
+  "t.Label": "WNT7A"
+}
+

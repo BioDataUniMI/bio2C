@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA {Label: 'microRNA hsa-mir-222 precursor'})-[:causes_or_contributes_to_condition]->(ad:Autoimmune_disease) RETURN pre.Label AS precursor_miRNA, SUBSTRING(pre.Sequence, toInteger(SIZE(pre.Sequence) * 0.9), SIZE(pre.Sequence)) AS last_10_percent_sequence, ad.Label AS autoimmune_disease

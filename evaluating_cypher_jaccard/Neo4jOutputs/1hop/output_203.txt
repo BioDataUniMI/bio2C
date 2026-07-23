@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-183-5p",
+  "Cancer": "large cell carcinoma",
+  "FDR": 9.24e-06
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "Cancer": "large cell carcinoma",
+  "FDR": 8.170000000000001e-21
+}
+
+{
+  "miRNA": "hsa-miR-182-5p",
+  "Cancer": "large cell carcinoma",
+  "FDR": 2.91e-05
+}
+

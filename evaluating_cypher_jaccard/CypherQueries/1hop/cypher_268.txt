@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease) WHERE d.Label CONTAINS 'bronchopneumonia' RETURN d.Label AS Disease, p.Label AS Phenotype

@@ -1,0 +1,35 @@
+{
+  "DiseaseLabel": "ciguatera fish poisoning",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "manganese poisoning",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "ricin poisoning",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "ethylene glycol poisoning",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "poisoning, non-human animal",
+  "Classifications": [
+    "Disease"
+  ]
+}
+

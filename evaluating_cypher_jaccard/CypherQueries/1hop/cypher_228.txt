@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:part_of]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'plasma membrane' RETURN g.Label AS GOterm, cc.Label AS CellularComponent

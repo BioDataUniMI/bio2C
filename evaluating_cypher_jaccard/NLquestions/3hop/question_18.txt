@@ -1,0 +1,1 @@
+Which phenotypes are characteristic of diseases whose descriptions contain 'childhood' or 'pediatric'? Include only diseases that are caused or contributed to by precursor miRNAs that are in a homology relationship with miRNAs. Return ONLY the label of the matching phenotypes.

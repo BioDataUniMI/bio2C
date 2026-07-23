@@ -1,0 +1,50 @@
+{
+  "miRNA": "microRNA hsa-mir-375 precursor",
+  "autoimmune_disease": "type 1 diabetes mellitus 1",
+  "expression_in_autoimmune": "under_expressed_in",
+  "cardiovascular_disease": "aortic valve insufficiency",
+  "expression_in_cardiovascular": "under_expressed_in",
+  "d1.Label": "type 1 diabetes mellitus 1",
+  "d2.Label": "aortic valve insufficiency"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "autoimmune_disease": "type 1 diabetes mellitus 1",
+  "expression_in_autoimmune": "under_expressed_in",
+  "cardiovascular_disease": "atrial fibrillation",
+  "expression_in_cardiovascular": "under_expressed_in",
+  "d1.Label": "type 1 diabetes mellitus 1",
+  "d2.Label": "atrial fibrillation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "autoimmune_disease": "type 1 diabetes mellitus 1",
+  "expression_in_autoimmune": "under_expressed_in",
+  "cardiovascular_disease": "myocardial infarction",
+  "expression_in_cardiovascular": "over_expressed_in",
+  "d1.Label": "type 1 diabetes mellitus 1",
+  "d2.Label": "myocardial infarction"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "autoimmune_disease": "type 1 diabetes mellitus 1",
+  "expression_in_autoimmune": "over_expressed_in",
+  "cardiovascular_disease": "myocardial infarction",
+  "expression_in_cardiovascular": "under_expressed_in",
+  "d1.Label": "type 1 diabetes mellitus 1",
+  "d2.Label": "myocardial infarction"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "autoimmune_disease": "Sjogren syndrome",
+  "expression_in_autoimmune": "over_expressed_in",
+  "cardiovascular_disease": "endomyocardial fibrosis",
+  "expression_in_cardiovascular": "under_expressed_in",
+  "d1.Label": "Sjogren syndrome",
+  "d2.Label": "endomyocardial fibrosis"
+}
+

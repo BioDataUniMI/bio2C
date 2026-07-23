@@ -1,0 +1,1 @@
+List all human miRNAs whose label starts with 'hsa-miR-13' and whose sequence ends with an 'A'.

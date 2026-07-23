@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'contagious' RETURN i.Label AS DiseaseLabel, i.URI

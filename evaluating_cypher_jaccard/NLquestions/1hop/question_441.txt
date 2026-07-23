@@ -1,0 +1,1 @@
+Identify the cellular components that are the start or end locations of biological processes whose label contains the word 'ribosomal'. Return the biological process and cellular component label and the type of relationship.

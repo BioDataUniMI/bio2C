@@ -1,0 +1,65 @@
+{
+  "BiologicalProcess": "3'-UTR-mediated mRNA stabilization",
+  "ExamplePreMiRNAs": [
+    "microRNA hsa-mir-125a precursor"
+  ],
+  "PreMiRNACount": 1
+}
+
+{
+  "BiologicalProcess": "ADP metabolic process",
+  "ExamplePreMiRNAs": [
+    "microRNA hsa-mir-125a precursor",
+    "microRNA hsa-mir-130b precursor",
+    "microRNA hsa-mir-18b precursor",
+    "microRNA hsa-mir-20b precursor",
+    "microRNA hsa-mir-27a precursor",
+    "microRNA hsa-mir-28 precursor",
+    "microRNA hsa-mir-30c precursor (hsa-mir-30c-1)",
+    "microRNA hsa-mir-30c precursor (hsa-mir-30c-2)",
+    "microRNA hsa-mir-338 precursor",
+    "microRNA hsa-mir-33a precursor"
+  ],
+  "PreMiRNACount": 12
+}
+
+{
+  "BiologicalProcess": "ATF6-mediated unfolded protein response",
+  "ExamplePreMiRNAs": [
+    "microRNA hsa-mir-199a precursor (hsa-mir-199a-1)",
+    "microRNA hsa-mir-199a precursor (hsa-mir-199a-2)"
+  ],
+  "PreMiRNACount": 2
+}
+
+{
+  "BiologicalProcess": "ATP biosynthetic process",
+  "ExamplePreMiRNAs": [
+    "let-7a-1 stem-loop (hsa-let-7a-1)",
+    "let-7a-2 stem-loop (hsa-let-7a-2)",
+    "let-7a-3 stem-loop (hsa-let-7a-3)",
+    "microRNA hsa-mir-130a precursor",
+    "microRNA hsa-mir-130b precursor",
+    "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)",
+    "microRNA hsa-mir-338 precursor"
+  ],
+  "PreMiRNACount": 7
+}
+
+{
+  "BiologicalProcess": "ATP metabolic process",
+  "ExamplePreMiRNAs": [
+    "microRNA hsa-mir-1 precursor (hsa-mir-1-1)",
+    "microRNA hsa-mir-1 precursor (hsa-mir-1-2)",
+    "microRNA hsa-mir-125a precursor",
+    "microRNA hsa-mir-130a precursor",
+    "microRNA hsa-mir-130b precursor",
+    "microRNA hsa-mir-18b precursor",
+    "microRNA hsa-mir-27a precursor",
+    "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)",
+    "microRNA hsa-mir-338 precursor",
+    "microRNA hsa-mir-33a precursor"
+  ],
+  "PreMiRNACount": 13
+}
+

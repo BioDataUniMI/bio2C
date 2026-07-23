@@ -1,0 +1,55 @@
+{
+  "m.Label": "hsa-miR-152-5p",
+  "d.Label": "asthma",
+  "m.Genomic_coordinates": [
+    "chr17:48037210-48037232-"
+  ],
+  "r.Mutation": [
+    "rs1063320"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-152-3p",
+  "d.Label": "asthma",
+  "m.Genomic_coordinates": [
+    "chr17:48037174-48037194-"
+  ],
+  "r.Mutation": [
+    "rs1063320"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-148a-3p",
+  "d.Label": "asthma",
+  "m.Genomic_coordinates": [
+    "chr7:25949922-25949943-"
+  ],
+  "r.Mutation": [
+    "rs1063320"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-148a-5p",
+  "d.Label": "asthma",
+  "m.Genomic_coordinates": [
+    "chr7:25949960-25949981-"
+  ],
+  "r.Mutation": [
+    "rs1063320"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-148b-3p",
+  "d.Label": "asthma",
+  "m.Genomic_coordinates": [
+    "chr12:54337278-54337299+"
+  ],
+  "r.Mutation": [
+    "rs1063320"
+  ]
+}
+

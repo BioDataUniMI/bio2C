@@ -1,0 +1,12 @@
+{
+  "GeneRegulatedByMiRNA": "ITIH5",
+  "InteractingGene1": "CGB5",
+  "InteractingGene2": "ITIH5"
+}
+
+{
+  "GeneRegulatedByMiRNA": "ITIH5",
+  "InteractingGene1": "CGB8",
+  "InteractingGene2": "ITIH5"
+}
+

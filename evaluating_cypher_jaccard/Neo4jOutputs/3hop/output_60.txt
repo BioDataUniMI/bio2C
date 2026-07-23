@@ -1,0 +1,20 @@
+{
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Hyperlordosis"
+}
+
+{
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Kyphosis"
+}
+
+{
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Scoliosis"
+}
+
+{
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Obesity"
+}
+

@@ -1,0 +1,7 @@
+{
+  "MolecularFunction": "gene product or complex activity",
+  "Synonyms": [
+    "molecular_function"
+  ]
+}
+

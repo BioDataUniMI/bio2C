@@ -1,0 +1,1 @@
+Find molecular functions described with 'stress' but without any direct regulation by other molecular functions (hint: use 'directly_regulated_by' as relationship type).

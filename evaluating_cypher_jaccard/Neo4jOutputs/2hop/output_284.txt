@@ -1,0 +1,30 @@
+{
+  "Disease": "rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation sy...",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "cognitive impairment - coarse facies - heart defects - obesity - pulmonary involvement - short st...",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "obesity due to leptin receptor gene deficiency",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "obesity due to pro-opiomelanocortin deficiency",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Disease": "obesity due to prohormone convertase I deficiency",
+  "Phenotype": "Decreased response to growth hormone stimulation test",
+  "GOterm": "growth hormone secretion"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(loc) WHERE (loc:GO OR loc:Cellular_component) AND loc.Label CONTAINS 'holoenzyme' WITH m, COLLECT(DISTINCT CASE WHEN loc:GO THEN loc.Label END) AS GOlocations, COLLECT(DISTINCT CASE WHEN loc:Cellular_component THEN loc.Label END) AS CellularComponentLocations RETURN m.Label AS miRNA, GOlocations, CellularComponentLocations

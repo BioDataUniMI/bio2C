@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+

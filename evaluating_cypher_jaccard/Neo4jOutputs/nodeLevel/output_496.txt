@@ -1,0 +1,83 @@
+{
+  "g.Label": "DDX17",
+  "g.Synonym": [
+    "DEAD (Asp-Glu-Ala-Asp) box helicase 17",
+    "DEAD box protein p72",
+    "DEAD-box helicase 17",
+    "probable ATP-dependent RNA helicase DDX17",
+    "RNA-dependent helicase p72",
+    "DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 17 (72kD)",
+    "DEAD box protein p82",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 17",
+    "RH70",
+    "p72 RNA helicase",
+    "P72"
+  ]
+}
+
+{
+  "g.Label": "DDX54",
+  "g.Synonym": [
+    "DEAD box polypeptide, 97kD",
+    "MGC2835",
+    "apoptosis related protein 5",
+    "DEAD-box helicase 54",
+    "DEAD box RNA helicase 97 kDa",
+    "DEAD box protein 54",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 54",
+    "APR-5",
+    "DEAD box helicase 97 KDa",
+    "ATP-dependent RNA helicase DDX54",
+    "ATP-dependent RNA helicase DP97",
+    "DP97"
+  ]
+}
+
+{
+  "g.Label": "DDX59",
+  "g.Synonym": [
+    "zinc finger HIT domain-containing protein 5",
+    "DEAD-box helicase 59",
+    "OFD5",
+    "ZNHIT5",
+    "probable ATP-dependent RNA helicase DDX59",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 59",
+    "DEAD box protein 59",
+    "zinc finger HIT-type containing 5",
+    "DKFZP564B1023"
+  ]
+}
+
+{
+  "g.Label": "PIAS1",
+  "g.Synonym": [
+    "zinc finger, MIZ-type containing 3",
+    "GU/RH-II",
+    "gu-binding protein",
+    "protein inhibitor of activated STAT 1",
+    "GBP",
+    "E3 SUMO-protein ligase PIAS1",
+    "ZMIZ3",
+    "AR interacting protein",
+    "DDXBP1",
+    "DEAD/H box-binding protein 1",
+    "E3 SUMO-protein transferase PIAS1",
+    "protein inhibitor of activated STAT protein 1",
+    "DEAD/H (Asp-Glu-Ala-Asp/His) box binding protein 1",
+    "RNA helicase II-binding protein"
+  ]
+}
+
+{
+  "g.Label": "DDX3Y",
+  "g.Synonym": [
+    "DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked",
+    "ATP-dependent RNA helicase DDX3Y",
+    "DBY",
+    "DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide, Y chromosome",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked",
+    "DEAD box protein 3, Y-chromosomal",
+    "DEAD-box helicase 3 Y-linked"
+  ]
+}
+

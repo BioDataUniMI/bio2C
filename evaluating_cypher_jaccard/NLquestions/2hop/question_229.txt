@@ -1,0 +1,1 @@
+Identify pre-miRNAs that develop into miRNAs regulating the activity of the gene 'TPTE2P2'. Return the label of: the pre-miRNA, the miRNA, and the sequence length of the gene.

@@ -1,0 +1,21 @@
+{
+  "m1.Label": "microRNA hsa-mir-6859 precursor (hsa-mir-6859 1 to 4)",
+  "m1.Genomic_coordinates": [
+    "chrCHR_HG2499_PATCH:79661-79728+",
+    "chrHG2499_PATCH:79661-79728+",
+    "chr1:17369-17436-",
+    "chr1:187891-187958-",
+    "chr16:17052-17119-",
+    "chr15:101973524-101973591+"
+  ],
+  "m2.Label": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "m2.Genomic_coordinates": [
+    "chr15:101960459-101960596-",
+    "chrCHR_HG2499_PATCH:66596-66733-",
+    "chr1:30366-30503+",
+    "chr19:71973-72110+",
+    "chrHG2499_PATCH:66596-66733-",
+    "chr9:30144-30281+"
+  ]
+}
+

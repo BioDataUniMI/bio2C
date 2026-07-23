@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH m, SUBSTRING(m.Sequence, toInteger(SIZE(m.Sequence) * 0.4), SIZE(m.Sequence)) AS last60pct WITH last60pct, COLLECT(DISTINCT m.Label) AS miRNAs WHERE SIZE(miRNAs) > 1 RETURN miRNAs 

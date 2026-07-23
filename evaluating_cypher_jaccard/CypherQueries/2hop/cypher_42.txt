@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:participates_in]->(bp:Biological_process) RETURN bp.Label, COUNT(DISTINCT g), COUNT(DISTINCT m)

@@ -1,0 +1,5 @@
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis"
+}
+

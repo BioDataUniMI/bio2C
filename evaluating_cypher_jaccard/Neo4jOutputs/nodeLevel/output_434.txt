@@ -1,0 +1,20 @@
+{
+  "mf.Label": "box C/D sno(s)RNA binding",
+  "mf.Description": "binding to a box c/d small nucleolar rna."
+}
+
+{
+  "mf.Label": "box H/ACA snoRNA binding",
+  "mf.Description": "binding to a box h/aca small nucleolar rna."
+}
+
+{
+  "mf.Label": "snoRNA binding",
+  "mf.Description": "binding to a small nucleolar rna."
+}
+
+{
+  "mf.Label": "U3 snoRNA binding",
+  "mf.Description": "binding to a u3 small nucleolar rna."
+}
+

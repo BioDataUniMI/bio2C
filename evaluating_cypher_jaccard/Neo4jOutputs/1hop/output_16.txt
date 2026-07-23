@@ -1,0 +1,5 @@
+{
+  "max_miRNA_length": 28,
+  "max_parent_length": 180
+}
+

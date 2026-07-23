@@ -1,0 +1,1 @@
+Identify biological processes that are part of GO terms that have the phenotype labeled as 'Decreased calvarial ossification' as a characteristic. Return the GO term and biological process labels.

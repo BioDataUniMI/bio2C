@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[r:over_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'renal' RETURN g.Label AS Gene, m.Label AS miRNA, c.Label AS Cancer, r.FDR AS FDR

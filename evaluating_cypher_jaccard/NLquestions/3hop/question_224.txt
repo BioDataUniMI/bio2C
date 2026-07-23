@@ -1,0 +1,1 @@
+Consider the disease labeled as 'DEGCAGS syndrome'. Identify the biological processes whose label contains the string 'eye development' in which miRNAs ending with 'a-3p', expressed by its phenotypes, participate. Return the labels of the phenotype, the miRNA, and the biological process.

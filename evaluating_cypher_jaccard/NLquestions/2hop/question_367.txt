@@ -1,0 +1,1 @@
+Identify mature miRNAs that develop from pre-miRNAs transcribed from genes whose label starts with 'MIR62', including the source of the transcription relationship. Return the gene, pre-miRNA, mature miRNA, and relation source.

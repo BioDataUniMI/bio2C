@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-493 precursor",
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-18b precursor",
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-584 precursor",
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-549a precursor",
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-186 precursor",
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+

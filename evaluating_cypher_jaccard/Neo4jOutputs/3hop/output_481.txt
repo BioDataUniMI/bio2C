@@ -1,0 +1,35 @@
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "miRNA": "hsa-miR-323a-3p"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "miRNA": "hsa-miR-30b-5p"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "miRNA": "hsa-miR-758-3p"
+}
+

@@ -1,0 +1,1 @@
+Which cellular component(s) that participate in biological processes whose label contains 'extracellular' have the minimum number of distinct miRNAs located in them (including ties)? Return the cellular component label and the number of miRNAs.

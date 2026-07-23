@@ -1,0 +1,1 @@
+Find GO terms whose labels contain 'plasma', do not contain 'membrane', and are not biological processes.

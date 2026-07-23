@@ -1,0 +1,1 @@
+List all one-word synonyms of genes that cause or contribute to phenotypes whose label contains the word 'movements'. Return the gene label, its one-word synonym, and the associated phenotypes, ordering the synonyms alphabetically.

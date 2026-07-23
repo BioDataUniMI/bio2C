@@ -1,0 +1,1 @@
+Identify genes whose label starts with 'AC' and are regulated by miRNAs expressed in the cancer labeled as 'adenoma'. Return the miRNA and gene labels

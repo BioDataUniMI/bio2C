@@ -1,0 +1,1 @@
+Which miRNAs are developed from more than three different pre-miRNAs, where the number of pre-miRNAs is defined as the count of pre-miRNA that develop into each miRNA? Return each miRNA label and the corresponding number of pre-miRNAs.

@@ -1,0 +1,1 @@
+Which cellular component is characterized by the GO identifier 'GO:0098578'?

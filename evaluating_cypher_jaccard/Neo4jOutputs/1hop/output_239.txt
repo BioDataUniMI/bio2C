@@ -1,0 +1,50 @@
+{
+  "Cancer": "hepatocellular carcinoma",
+  "Precursor": "microRNA hsa-mir-3682 precursor",
+  "Mutations": [
+    "COSN5793514",
+    "COSN1240128",
+    "COSN1240127"
+  ]
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "Precursor": "microRNA hsa-mir-329 precursor (hsa-mir-329-1)",
+  "Mutations": [
+    "COSN6241074",
+    "COSN5746064",
+    "COSN1164240"
+  ]
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "Precursor": "microRNA hsa-mir-4465 precursor",
+  "Mutations": [
+    "COSN2144257",
+    "COSN5084087",
+    "COSN1325885"
+  ]
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "Precursor": "microRNA hsa-mir-663b precursor",
+  "Mutations": [
+    "COSN1224298",
+    "COSN1224297",
+    "COSN6418578"
+  ]
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "Precursor": "microRNA hsa-mir-4533 precursor",
+  "Mutations": [
+    "COSN5766317",
+    "COSN5766318",
+    "COSN1878729"
+  ]
+}
+

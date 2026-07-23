@@ -1,0 +1,20 @@
+{
+  "p.Label": "Abnormality of the adrenal glands"
+}
+
+{
+  "p.Label": "Neoplasm of the adrenal gland"
+}
+
+{
+  "p.Label": "History of adrenalectomy"
+}
+
+{
+  "p.Label": "Testicular adrenal rest tumor"
+}
+
+{
+  "p.Label": "Congenital adrenal hyperplasia"
+}
+

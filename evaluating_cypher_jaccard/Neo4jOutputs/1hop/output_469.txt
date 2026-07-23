@@ -1,0 +1,9 @@
+{
+  "m.Sequence": "UAUUGCACUUGUCCCGGCCUGU",
+  "m.Genomic_coordinates": [
+    "chrX:134169544-134169565-",
+    "chr13:91351361-91351382+"
+  ],
+  "bp.Label": "negative regulation of endothelial cell proliferation"
+}
+

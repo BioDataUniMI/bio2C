@@ -1,0 +1,20 @@
+{
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "Cancer": "non-small cell lung carcinoma"
+}
+
+{
+  "Cancer": "small cell lung carcinoma"
+}
+
+{
+  "Cancer": "lung cancer"
+}
+

@@ -1,0 +1,1 @@
+Count the molecular functions that are part of biological processes with labels containing the word 'translation'. Return the number of such functions and their associated biological processes.

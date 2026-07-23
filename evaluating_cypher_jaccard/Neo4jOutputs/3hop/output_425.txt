@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Atrial septal defect",
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-519c-3p"
+}
+
+{
+  "Phenotype": "Atrial septal defect",
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-130a-3p"
+}
+
+{
+  "Phenotype": "Atrial septal defect",
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-20a-5p"
+}
+
+{
+  "Phenotype": "Atrial septal defect",
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-34a-3p"
+}
+
+{
+  "Phenotype": "Atrial septal defect",
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNA": "hsa-miR-22-3p"
+}
+

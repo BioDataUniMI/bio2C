@@ -1,0 +1,20 @@
+{
+  "g.Label": "alcohol dehydrogenase (cytochrome c) activity"
+}
+
+{
+  "g.Label": "long-chain-alcohol O-fatty-acyltransferase activity"
+}
+
+{
+  "g.Label": "cinnamyl-alcohol dehydrogenase activity"
+}
+
+{
+  "g.Label": "aryl-alcohol dehydrogenase (NAD+) activity"
+}
+
+{
+  "g.Label": "polyvinyl-alcohol oxidase activity"
+}
+

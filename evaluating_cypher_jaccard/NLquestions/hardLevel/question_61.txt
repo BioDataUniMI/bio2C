@@ -1,0 +1,1 @@
+For each miRNA that is expressed in cancers and under-expressed in phenotypes, extract the chromosome (e.g., chr1, chr2, ..., chrX, chrY) from its genomic coordinates. Return the distinct lists of chromosomes associated with each miRNA.

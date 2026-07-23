@@ -1,0 +1,10 @@
+{
+  "relationType": "homology",
+  "miRNACount": 524
+}
+
+{
+  "relationType": "similarity",
+  "miRNACount": 111
+}
+

@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:located_in]->(go:GO) WHERE c.Label CONTAINS 'benign' AND go.Label CONTAINS 'complex' RETURN c.Label AS Cancer, m.Label AS miRNA, go.Label AS GOTerm

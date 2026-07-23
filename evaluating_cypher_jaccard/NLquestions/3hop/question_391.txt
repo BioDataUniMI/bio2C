@@ -1,0 +1,1 @@
+Count the number of miRNAs that regulate the activity of genes causing or contributing to diseases whose label contains the string 'malignant colon neoplasm'. Moreover, count the different phenotypes of those diseases.

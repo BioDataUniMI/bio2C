@@ -1,0 +1,1 @@
+Retrieve labels and URIs of all GO terms that are not biological processes, molecular functions, or cellular components, and whose labels contain the string ' EC' (be careful, there's a space before EC).

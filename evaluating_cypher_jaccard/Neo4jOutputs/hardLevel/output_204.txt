@@ -1,0 +1,10 @@
+{
+  "disease_type": "Cancer",
+  "FDR_difference": 0.009906417
+}
+
+{
+  "disease_type": "Infectious",
+  "FDR_difference": 0.0
+}
+

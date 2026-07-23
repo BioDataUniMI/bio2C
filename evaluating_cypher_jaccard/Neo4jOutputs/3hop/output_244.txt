@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF",
+  "Disease": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF",
+  "Disease": "minimally invasive lung adenocarcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF",
+  "Disease": "lung neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF",
+  "Disease": "lung carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "miRNASequence": "UGUGCAAAUCUAUGCAAAACUGA",
+  "Gene": "TF",
+  "Disease": "non-small cell lung carcinoma"
+}
+

@@ -1,0 +1,1 @@
+Which diseases whose labels contain 'obesity' are caused or contributed by genes characterized by only 2-character labels?

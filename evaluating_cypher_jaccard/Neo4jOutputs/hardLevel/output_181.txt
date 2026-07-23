@@ -1,0 +1,6 @@
+{
+  "microRNA": "microRNA hsa-mir-374a precursor",
+  "G_count_first_half": 5,
+  "G_count_second_half": 7
+}
+

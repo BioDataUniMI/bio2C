@@ -1,0 +1,1 @@
+List the cancers that express the miRNA 'hsa-let-7a-5p', the experimental methods reporting its expression, and the cellular components where it is located, along with the GO terms of which those cellular components are part.

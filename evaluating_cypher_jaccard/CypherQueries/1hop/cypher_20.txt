@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) RETURN MAX(SIZE(m.Sequence)) AS max_miRNA_length, MAX(SIZE(p.Sequence)) AS max_pre_miRNA_length

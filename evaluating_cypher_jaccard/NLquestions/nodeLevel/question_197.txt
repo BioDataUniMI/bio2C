@@ -1,0 +1,1 @@
+Find cellular components whose descriptions or labels mention 'membrane raft'. Return only the matching node labels.

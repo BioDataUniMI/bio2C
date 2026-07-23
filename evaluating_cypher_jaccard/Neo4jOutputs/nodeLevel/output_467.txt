@@ -1,0 +1,12 @@
+{
+  "p": {
+    "Description": "a partial or complete break in the olecranon,which is the proximal articular portion of the ulna ...",
+    "Label": "Olecranon fracture",
+    "Synonym": [
+      "Fractura de olécranon"
+    ],
+    "ID": "HP:6000002",
+    "URI": "http://purl.obolibrary.org/obo/HP_6000002"
+  }
+}
+

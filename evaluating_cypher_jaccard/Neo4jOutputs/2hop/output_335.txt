@@ -1,0 +1,45 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p",
+  "ExpressionMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

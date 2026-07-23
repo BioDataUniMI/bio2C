@@ -1,0 +1,1 @@
+MATCH (m:pre_miRNA)-[r:over_expressed_in]->(p:Phenotype) WITH m, r, p, SIZE([syn IN p.Synonym WHERE syn =~ '.*[\p{L}&&\P{IsLatin}].*']) AS non_latin_syn_count WITH m, p, r, non_latin_syn_count ORDER BY non_latin_syn_count DESC, p.Label ASC LIMIT 3 RETURN DISTINCT m.Label AS pre_miRNA, p.Label AS Phenotype, p.Synonym AS Synonyms, non_latin_syn_count

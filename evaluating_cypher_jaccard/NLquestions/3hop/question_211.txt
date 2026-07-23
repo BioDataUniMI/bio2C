@@ -1,0 +1,1 @@
+Identify the miRNAs that regulate the activity of genes which genetically interact with other genes causing or contributing to diseases whose label contains the word 'diabete'. Return the label of the miRNA, the genes, and the disease.

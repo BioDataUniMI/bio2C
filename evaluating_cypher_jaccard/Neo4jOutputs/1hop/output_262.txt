@@ -1,0 +1,10 @@
+{
+  "Disease": "Milner-Khallouf-Gibson syndrome",
+  "SharesFeaturesOf": "Fanconi anemia"
+}
+
+{
+  "Disease": "Diamond-Blackfan anemia-like",
+  "SharesFeaturesOf": "Diamond-Blackfan anemia"
+}
+

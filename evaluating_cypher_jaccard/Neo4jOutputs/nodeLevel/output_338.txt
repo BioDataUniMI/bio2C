@@ -1,0 +1,25 @@
+{
+  "CancerLabel": "cutaneous melanoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0005012"
+}
+
+{
+  "CancerLabel": "neurofibroma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0016755"
+}
+
+{
+  "CancerLabel": "colorectal sessile serrated adenoma/polyp",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0006164"
+}
+
+{
+  "CancerLabel": "colon sessile serrated adenoma/polyp",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0006156"
+}
+
+{
+  "CancerLabel": "vulvar squamous cell carcinoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0024609"
+}
+

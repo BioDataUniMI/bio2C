@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.Description CONTAINS 'extremely rare' RETURN c.Label AS CancerLabel, c.ID AS ID, c.URI AS URI

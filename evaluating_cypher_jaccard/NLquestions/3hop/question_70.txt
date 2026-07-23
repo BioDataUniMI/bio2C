@@ -1,0 +1,1 @@
+Identify the biological processes that are subclasses of a GO term whose primary input is a cellular component that is itself a subclass of the GO term labeled as 'intracellular membrane-bounded organelle'. Return the biological process label, the GO term label, and the cellular component label.

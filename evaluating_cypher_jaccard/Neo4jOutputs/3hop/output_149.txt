@@ -1,0 +1,12 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-26b precursor",
+  "Cancer": "primary aldosteronism",
+  "Phenotype": "Decreased circulating renin concentration"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-26b precursor",
+  "Cancer": "primary aldosteronism",
+  "Phenotype": "High pulse pressure"
+}
+

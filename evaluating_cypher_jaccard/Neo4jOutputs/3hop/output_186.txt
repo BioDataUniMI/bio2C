@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Gene": "SH3PXD2A",
+  "Disease": "persistent atrial fibrillation"
+}
+
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Gene": "SH3PXD2A",
+  "Disease": "persistent atrial fibrillation"
+}
+

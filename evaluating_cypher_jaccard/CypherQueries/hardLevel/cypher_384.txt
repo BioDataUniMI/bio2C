@@ -1,0 +1,1 @@
+MATCH (g:Gene) WITH MAX(SIZE(g.Sequence)) AS MaxLength MATCH (g:Gene) WHERE SIZE(g.Sequence) = MaxLength RETURN g.Label AS Gene, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'T']) AS T_Count, SIZE(g.Sequence) AS Sequence_Length

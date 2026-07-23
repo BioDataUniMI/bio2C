@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'adrenal' AND NOT (:Disease)-[:has_modifier]->(p) RETURN p.Label

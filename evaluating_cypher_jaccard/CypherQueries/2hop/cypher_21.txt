@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label: 'nuclear lumen'})-[:part_of]->(g:GO) RETURN g.Label AS GO, cc.Label AS Cellular_component, COUNT(m) AS miRNA_count

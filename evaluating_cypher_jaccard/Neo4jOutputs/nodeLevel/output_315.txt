@@ -1,0 +1,9 @@
+{
+  "d": {
+    "Description": "infantile dystonia-parkinsonism (ipd) is an extremely rare inherited neurological syndrome that p...",
+    "Label": "parkinsonism-dystonia, infantile",
+    "ID": "MONDO:0013150",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0013150"
+  }
+}
+

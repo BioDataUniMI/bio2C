@@ -1,0 +1,1 @@
+Find the top 3 miRNAs that share the highest number of chromosome-prefix entries (in their genomic coordinates) with the pre-miRNA they develop from, ordered alphabetically by miRNA label in case of ties. Return the miRNA and pre-miRNA labels, the common chromosome prefixes, and their count.

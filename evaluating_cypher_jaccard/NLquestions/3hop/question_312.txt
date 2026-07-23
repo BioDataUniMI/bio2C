@@ -1,0 +1,1 @@
+Which GO terms are parts of cellular components whose description contains the string 'extracellular region' in which the miRNA 'hsa-miR-106b-5p' is located? Return ONLY the entire nodes of type 'GO'.

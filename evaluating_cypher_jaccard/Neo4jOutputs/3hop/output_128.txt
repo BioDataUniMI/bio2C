@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "positive regulation of transcription by RNA polymerase II",
+  "MolecularFunction": "DNA-binding transcription activator activity, RNA polymerase II-specific"
+}
+
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "RNA biosynthetic process",
+  "MolecularFunction": "DNA-directed 5'-3' RNA polymerase activity"
+}
+
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "transcription by RNA polymerase II",
+  "MolecularFunction": "RNA polymerase II activity"
+}
+
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "regulation of transcription by RNA polymerase II",
+  "MolecularFunction": "RNA polymerase II CTD heptapeptide repeat modifying activity"
+}
+
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "regulation of transcription by RNA polymerase II",
+  "MolecularFunction": "DNA-binding transcription factor activity, RNA polymerase II-specific"
+}
+

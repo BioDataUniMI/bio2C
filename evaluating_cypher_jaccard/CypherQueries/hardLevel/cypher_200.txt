@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(:pre_miRNA)-[:has_function]->(bp:Biological_process) WITH bp, COUNT(DISTINCT g) AS gene_count WHERE gene_count >= 10 RETURN bp.Label AS biological_process, gene_count ORDER BY gene_count DESC

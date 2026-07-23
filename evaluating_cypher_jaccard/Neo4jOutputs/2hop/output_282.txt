@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Arrhythmia",
+  "GOterm": "heart contraction"
+}
+
+{
+  "Phenotype": "Generalized hyperpigmentation",
+  "GOterm": "pigmentation"
+}
+
+{
+  "Phenotype": "Accelerated skeletal maturation",
+  "GOterm": "bone maturation"
+}
+
+{
+  "Phenotype": "Elevated circulating growth hormone concentration",
+  "GOterm": "growth hormone secretion"
+}
+
+{
+  "Phenotype": "Impotence",
+  "GOterm": "penile erection"
+}
+

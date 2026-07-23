@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WITH m1, m2, SIZE(m1.Sequence) - SIZE(REPLACE(m1.Sequence,'A','')) AS num_A_m1, SIZE(m2.Sequence) - SIZE(REPLACE(m2.Sequence,'A','')) AS num_A_m2 WHERE num_A_m1 = num_A_m2 RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, num_A_m1 AS num_A_miRNA, num_A_m2 AS num_A_parent

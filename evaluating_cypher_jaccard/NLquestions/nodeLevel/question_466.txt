@@ -1,0 +1,1 @@
+Retrieve the phenotype whose label and synonyms both contain 'Holster'.

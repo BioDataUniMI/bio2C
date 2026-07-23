@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:regulates_activity_of]->(tg:Gene) RETURN g.Label AS TranscribingGene, m.Label AS miRNA, tg.Label AS TargetGene, SIZE(g.Sequence) AS TranscribingGeneLength, SIZE(tg.Sequence) AS TargetGeneLength

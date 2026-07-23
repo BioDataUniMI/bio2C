@@ -1,0 +1,20 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-93 precursor",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-20a precursor",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-18a precursor",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-20b precursor",
+  "CellularComponent": "RISC complex"
+}
+

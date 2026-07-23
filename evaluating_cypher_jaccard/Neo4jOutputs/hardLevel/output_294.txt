@@ -1,0 +1,25 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "num_miRNAs": 2
+}
+
+{
+  "Cancer": "adenoma",
+  "num_miRNAs": 2
+}
+
+{
+  "Cancer": "sarcoma",
+  "num_miRNAs": 2
+}
+
+{
+  "Cancer": "lipoma",
+  "num_miRNAs": 2
+}
+
+{
+  "Cancer": "hamartoma",
+  "num_miRNAs": 2
+}
+

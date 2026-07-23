@@ -1,0 +1,1 @@
+Find biological processes connected via GO terms that regulate the molecular function labeled as 'glucokinase activity'. Keep only entries where this molecular function is part of these processes. Return the label of the GO term and biological process.

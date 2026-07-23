@@ -1,0 +1,1 @@
+Identify gene-pre-miRN-miRNA maturation chains, i.e., a gene is transcribed into a pre-miRNA that develops into a miRNA. Finally, filter only miRNAs which regulates the gene 'MTCO1P12'. Return the label of the: gene, pre-miRNA, and miRNA.

@@ -1,0 +1,6 @@
+{
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+

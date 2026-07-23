@@ -1,0 +1,21 @@
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-93 precursor",
+  "miRNA": "microRNA hsa-mir-20b precursor",
+  "Cancer": "hepatocellular carcinoma"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-93 precursor",
+  "miRNA": "microRNA hsa-mir-20a precursor",
+  "Cancer": "hepatocellular carcinoma"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-93 precursor",
+  "miRNA": "microRNA hsa-mir-18a precursor",
+  "Cancer": "hepatocellular carcinoma"
+}
+

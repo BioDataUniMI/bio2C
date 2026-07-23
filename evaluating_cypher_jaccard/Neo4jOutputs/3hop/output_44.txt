@@ -1,0 +1,35 @@
+{
+  "biological_process": "brain morphogenesis",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2",
+  "parent_biological_process": "brain development"
+}
+
+{
+  "biological_process": "brain segmentation",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2",
+  "parent_biological_process": "brain development"
+}
+
+{
+  "biological_process": "central complex development",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2",
+  "parent_biological_process": "brain development"
+}
+
+{
+  "biological_process": "midbrain-hindbrain boundary development",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2",
+  "parent_biological_process": "brain development"
+}
+
+{
+  "biological_process": "hindbrain development",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "gene": "MIR103B2",
+  "parent_biological_process": "brain development"
+}
+

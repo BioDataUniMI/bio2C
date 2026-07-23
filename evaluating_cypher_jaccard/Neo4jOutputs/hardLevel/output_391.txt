@@ -1,0 +1,7 @@
+{
+  "GOTerms": [
+    "regulation of catalytic activity",
+    "enzyme regulator activity"
+  ]
+}
+

@@ -1,0 +1,10 @@
+{
+  "m.Label": "microRNA hsa-mir-1247 precursor",
+  "C_count": 59,
+  "diseases": [
+    "malignant glioma",
+    "glioma susceptibility 1",
+    "astrocytic tumor"
+  ]
+}
+

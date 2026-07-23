@@ -1,0 +1,1 @@
+List cellular components where miRNAs developed from the 'microRNA hsa-mir-519a precursor (hsa-mir-519a-2)' pre-miRNA are located.

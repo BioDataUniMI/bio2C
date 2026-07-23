@@ -1,0 +1,1 @@
+Identify molecular functions enabled by miRNAs expressed in cancers. Return the molecular function, miRNA, and cancer labels.

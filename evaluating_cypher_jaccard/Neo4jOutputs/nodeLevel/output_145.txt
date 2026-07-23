@@ -1,0 +1,20 @@
+{
+  "m.Label": "hsa-miR-1248"
+}
+
+{
+  "m.Label": "hsa-miR-1272"
+}
+
+{
+  "m.Label": "hsa-miR-1302"
+}
+
+{
+  "m.Label": "hsa-miR-12135"
+}
+
+{
+  "m.Label": "hsa-miR-1245b-5p"
+}
+

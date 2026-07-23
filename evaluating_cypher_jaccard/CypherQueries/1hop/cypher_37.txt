@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer{Label:'invasive ductal breast carcinoma'}) RETURN m.Label AS miRNA, c.Label AS Cancer_label, SIZE([x IN SPLIT(m.Sequence, '') WHERE x = 'G']) AS num_G, SIZE([x IN SPLIT(m.Sequence, '') WHERE x = 'C']) AS num_C

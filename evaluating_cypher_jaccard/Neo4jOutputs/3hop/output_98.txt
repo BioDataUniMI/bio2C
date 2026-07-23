@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-4720 precursor",
+  "miRNA": "hsa-miR-4720-3p",
+  "Gene": "SMC3"
+}
+
+{
+  "Pre_miRNA": "let-7e stem-loop (hsa-let-7e)",
+  "miRNA": "hsa-let-7e-5p",
+  "Gene": "SMC1A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-493 precursor",
+  "miRNA": "hsa-miR-493-3p",
+  "Gene": "WNT5A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-487b precursor",
+  "miRNA": "hsa-miR-487b-3p",
+  "Gene": "WNT5A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-545 precursor",
+  "miRNA": "hsa-miR-545-3p",
+  "Gene": "WNT5A"
+}
+

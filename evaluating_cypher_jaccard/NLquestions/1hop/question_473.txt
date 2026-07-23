@@ -1,0 +1,1 @@
+Identify cardiovascular diseases that predispose towards the neurodegenerative disease 'Leber hereditary optic neuropathy'., Include both diseases' label and the LABELS(Cardiovascular_disease) to show the full type of the cardiovascular one.

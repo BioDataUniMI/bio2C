@@ -1,0 +1,1 @@
+Retrieve the top 7 miRNA–cardiovascular disease pairs where the miRNA is under-expressed in a cardiovascular disease, ordered by ascending miRNA sequence length and, in case of ties, alphabetically by miRNA label. Return the miRNA label, the sequence length, and the genomic coordinates

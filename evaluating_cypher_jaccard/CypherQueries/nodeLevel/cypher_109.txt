@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label CONTAINS 'coronavirus' RETURN g.Label AS Gene, g.ID AS ID

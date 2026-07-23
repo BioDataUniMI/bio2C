@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "dilated cardiomyopathy 2A",
+  "Description": "a dilated cardiomyopathy that has material basis in mutation in the tnni3 gene on chromosome 19q13."
+}
+
+{
+  "DiseaseLabel": "hypertrophic cardiomyopathy 7",
+  "Description": "any hypertrophic cardiomyopathy in which the cause of the disease is a mutation in the tnni3 gene."
+}
+
+{
+  "DiseaseLabel": "dilated cardiomyopathy 1FF",
+  "Description": "a dilated cardiomyopathy that has material basis in mutation in the tnni3 gene on chromosome 19q1..."
+}
+
+{
+  "DiseaseLabel": "cardiomyopathy, familial restrictive, 1",
+  "Description": "any familial isolated restrictive cardiomyopathy in which the cause of the disease is a mutation ..."
+}
+

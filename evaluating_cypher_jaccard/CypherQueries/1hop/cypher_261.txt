@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_has_major_feature]->(p:Phenotype) WHERE p.Label CONTAINS 'impairment' RETURN d.Label AS Disease, p.Label AS MajorFeature

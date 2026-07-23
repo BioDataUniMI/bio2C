@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:participates_in]->(bp:Biological_process) RETURN DISTINCT nd.Label AS NeurodegenerativeDisease, m.Label AS miRNA, cc.Label AS CellularComponent, bp.Label AS BiologicalProcess

@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases linked through the phenotypes containing the word 'Hepatitis' in their label to diseases whose label contains the string 'benign' and where miRNAs are known to be expressed. Return the miRNA label, disease label, phenotype label, and neurodegenerative disease label.

@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-210 precursor",
+  "AutoimmuneDisease": "type 1 diabetes mellitus 1"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-142 precursor",
+  "AutoimmuneDisease": "Sjogren syndrome"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-223 precursor",
+  "AutoimmuneDisease": "Sjogren syndrome"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-34a precursor",
+  "AutoimmuneDisease": "Sjogren syndrome"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-140 precursor",
+  "AutoimmuneDisease": "osteoarthritis"
+}
+

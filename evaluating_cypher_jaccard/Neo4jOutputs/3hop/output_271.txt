@@ -1,0 +1,35 @@
+{
+  "DiseasePhenotype": "Appendicular spasticity",
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+
+{
+  "DiseasePhenotype": "Delayed ability to walk",
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+
+{
+  "DiseasePhenotype": "Axial hypotonia",
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+
+{
+  "DiseasePhenotype": "Short stature",
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+
+{
+  "DiseasePhenotype": "Infantile onset",
+  "Disease": "spastic paraplegia 90A, autosomal dominant",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Upper limb pain"
+}
+

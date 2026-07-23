@@ -1,0 +1,1 @@
+List all miRNAs that are over-expressed in each biological process that is negatively regulated both by another biological process and by a GO term, where the miRNA sequence ends with 'GU'. Return the biological process label and the collection of miRNA labels.

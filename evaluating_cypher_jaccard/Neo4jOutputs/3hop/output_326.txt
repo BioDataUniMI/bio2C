@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "benign muscle neoplasm"
+}
+
+{
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "adenoma"
+}
+
+{
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "sarcoma"
+}
+
+{
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "lipoma"
+}
+
+{
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-let-7a-5p",
+  "Cancer": "hamartoma"
+}
+

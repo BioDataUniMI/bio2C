@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "RNA polymerase II, holoenzyme",
+  "cc.ID": "GO:0016591"
+}
+
+{
+  "CellularComponent": "RNA polymerase I complex",
+  "cc.ID": "GO:0005736"
+}
+
+{
+  "CellularComponent": "DNA polymerase III complex",
+  "cc.ID": "GO:0009360"
+}
+
+{
+  "CellularComponent": "RNA polymerase IV complex",
+  "cc.ID": "GO:0000418"
+}
+
+{
+  "CellularComponent": "RNA polymerase III complex",
+  "cc.ID": "GO:0005666"
+}
+

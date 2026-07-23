@@ -1,0 +1,1 @@
+MATCH (x)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE x:miRNA OR x:pre_miRNA RETURN d.Label, PROPERTIES(r)

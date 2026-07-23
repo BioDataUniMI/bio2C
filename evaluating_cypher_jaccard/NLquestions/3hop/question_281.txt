@@ -1,0 +1,1 @@
+Find GO terms characterized by the phenotype labeled as 'Thyroiditis' of diseases where specific miRNAs are expressed, BUT excluding the miRNA 'hsa-let-7a-3p'. Return the miRNA label, disease label, phenotype label, and GO term label.

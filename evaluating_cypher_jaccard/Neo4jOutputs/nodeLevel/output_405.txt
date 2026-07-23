@@ -1,0 +1,5 @@
+{
+  "bp.Label": "neuronal action potential propagation",
+  "bp.Description": "the propagation of an action potential along an axon, away from the soma."
+}
+

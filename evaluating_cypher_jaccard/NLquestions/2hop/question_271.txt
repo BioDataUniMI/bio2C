@@ -1,0 +1,1 @@
+Identify pre-miRNAs that develop into miRNAs serving the function of the GO term labeled as 'collagen binding'.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g1:Gene {Label:'ITIH5'})-[:genetically_interacts_with]->(g2:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN m.Label AS miRNA,  g2.Label AS InteractingGene, d.Label AS Disease

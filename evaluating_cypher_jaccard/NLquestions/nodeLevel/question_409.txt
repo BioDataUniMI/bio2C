@@ -1,0 +1,1 @@
+List all biological processes whose label or description contains 'blood' and whose description also contains either 'protein' or 'lipid'. Return their label and URI.

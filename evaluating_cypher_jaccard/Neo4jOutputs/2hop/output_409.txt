@@ -1,0 +1,25 @@
+{
+  "Disease": "ectopic ACTH secretion syndrome",
+  "ParentCancer": "neoplastic syndrome"
+}
+
+{
+  "Disease": "Nelson syndrome",
+  "ParentCancer": "functioning pituitary gland adenoma"
+}
+
+{
+  "Disease": "Cushing disease due to pituitary adenoma",
+  "ParentCancer": "adrenal gland neoplasm"
+}
+
+{
+  "Disease": "Cushing disease due to pituitary adenoma",
+  "ParentCancer": "familial isolated pituitary adenoma"
+}
+
+{
+  "Disease": "Cushing disease due to pituitary adenoma",
+  "ParentCancer": "functioning pituitary gland adenoma"
+}
+

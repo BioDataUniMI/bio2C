@@ -1,0 +1,15 @@
+{
+  "BiologicalProcess": "mitochondrial RNA metabolic process",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "BiologicalProcess": "mitochondrial transcription",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "BiologicalProcess": "postsynaptic modulation of chemical synaptic transmission",
+  "CellularComponent": "postsynapse"
+}
+

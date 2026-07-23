@@ -1,0 +1,6 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "eye development"
+}
+

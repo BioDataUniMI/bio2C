@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-519a-2-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex"
+}
+
+{
+  "miRNA": "hsa-miR-519a-3p",
+  "CellularComponent": "postsynapse",
+  "GOterm": "synaptic vesicle, recycling pool"
+}
+
+{
+  "miRNA": "hsa-miR-519a-3p",
+  "CellularComponent": "postsynapse",
+  "GOterm": "postsynaptic Golgi apparatus"
+}
+
+{
+  "miRNA": "hsa-miR-519a-3p",
+  "CellularComponent": "postsynapse",
+  "GOterm": "postsynaptic specialization"
+}
+
+{
+  "miRNA": "hsa-miR-519a-3p",
+  "CellularComponent": "postsynapse",
+  "GOterm": "postsynaptic cytoskeleton"
+}
+

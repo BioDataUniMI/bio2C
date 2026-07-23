@@ -1,0 +1,5 @@
+{
+  "GO": "structural constituent of synapse-associated extracellular matrix",
+  "ID": "GO:0150043"
+}
+

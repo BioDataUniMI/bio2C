@@ -1,0 +1,1 @@
+Do miRNAs that have as function biological processes whose label contains 'bone regeneration' have high purine content, where purine content is defined as the percentage of adenine (A) and guanine (G) nucleotides relative to the total miRNA sequence length? Return each miRNA label and its purine content percentage, sorted by purine content percentage in descending order.

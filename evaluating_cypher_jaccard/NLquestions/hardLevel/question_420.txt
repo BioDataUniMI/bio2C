@@ -1,0 +1,1 @@
+Do miRNAs that act upstream of or within biological processes whose label contains 'negative regulation' have high normalized GC content, where normalized GC content is defined as (G + C) divided by the total miRNA sequence length? Return each miRNA label and its normalized GC content, sorted by normalized GC content in descending order.

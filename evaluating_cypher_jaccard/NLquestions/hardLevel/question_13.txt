@@ -1,0 +1,1 @@
+List all the unique pairs of neurodegenerative diseases connected by 'disease_has_basis_in_feature' relationships supported by at least the source 'Mondo'. Return the labels of the starting disease (n1) and the target disease (n2) for each pair.

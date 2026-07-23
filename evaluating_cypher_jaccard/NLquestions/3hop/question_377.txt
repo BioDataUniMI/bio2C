@@ -1,0 +1,1 @@
+List all diseases caused by the disruption of GO terms that have pre-miRNA participants developing into the 'hsa-miR-762' miRNA. Return the disease label, GO term label and pre-miRNA label.

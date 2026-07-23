@@ -1,0 +1,40 @@
+{
+  "Gene": "UGCG",
+  "Diseases": [
+    "COVID-19"
+  ],
+  "CAG_Count": 440
+}
+
+{
+  "Gene": "CCR2",
+  "Diseases": [
+    "COVID-19"
+  ],
+  "CAG_Count": 124
+}
+
+{
+  "Gene": "TNF",
+  "Diseases": [
+    "COVID-19"
+  ],
+  "CAG_Count": 95
+}
+
+{
+  "Gene": "ICAM5",
+  "Diseases": [
+    "COVID-19"
+  ],
+  "CAG_Count": 288
+}
+
+{
+  "Gene": "TMPRSS2",
+  "Diseases": [
+    "COVID-19"
+  ],
+  "CAG_Count": 1428
+}
+

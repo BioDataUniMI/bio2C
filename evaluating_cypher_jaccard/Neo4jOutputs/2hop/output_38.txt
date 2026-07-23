@@ -1,0 +1,30 @@
+{
+  "Disease": "asthma",
+  "ExpressedMiRNAs": 5,
+  "TargetGenes": 96
+}
+
+{
+  "Disease": "benign muscle neoplasm",
+  "ExpressedMiRNAs": 2,
+  "TargetGenes": 76
+}
+
+{
+  "Disease": "adenoma",
+  "ExpressedMiRNAs": 2,
+  "TargetGenes": 76
+}
+
+{
+  "Disease": "sarcoma",
+  "ExpressedMiRNAs": 2,
+  "TargetGenes": 76
+}
+
+{
+  "Disease": "lipoma",
+  "ExpressedMiRNAs": 2,
+  "TargetGenes": 76
+}
+

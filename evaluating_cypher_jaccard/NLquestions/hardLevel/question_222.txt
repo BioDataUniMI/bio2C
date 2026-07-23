@@ -1,0 +1,1 @@
+Return the 8-letter sequence from the middle of miRNAs under-expressed in the 'osteoarthritis' autoimmune disease. Return the miRNA label, disease, and middle 8 letters of the sequence.

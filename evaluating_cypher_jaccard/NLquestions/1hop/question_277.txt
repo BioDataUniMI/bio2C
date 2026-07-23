@@ -1,0 +1,1 @@
+Return diseases that have basis in feature for phenotypes.

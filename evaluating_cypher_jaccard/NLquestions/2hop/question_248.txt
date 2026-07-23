@@ -1,0 +1,1 @@
+Identify diseases that are caused or contributed by genes regulated by the miRNA 'hsa-let-7a-3p'. Return the gene and disease label.

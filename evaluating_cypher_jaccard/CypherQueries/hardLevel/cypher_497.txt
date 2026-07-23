@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:under_expressed_in]->(go:GO) WHERE SUBSTRING(p.Sequence, 0, 1) = SUBSTRING(p.Sequence, SIZE(p.Sequence) - 1, 1) WITH go.Label AS GOLabel, MIN(SIZE(p.Sequence)) AS MinSeqLength RETURN GOLabel, MinSeqLength

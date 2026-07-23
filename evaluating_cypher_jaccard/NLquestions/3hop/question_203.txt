@@ -1,0 +1,1 @@
+Identify the cellular components part of GO terms, where the miRNA matured from the pre-miRNA 'microRNA hsa-mir-106b precursor' is located. Return the label of: the pre-miRNA, the cellular component, and the GO term.

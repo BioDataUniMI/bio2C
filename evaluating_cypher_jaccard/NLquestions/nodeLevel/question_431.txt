@@ -1,0 +1,1 @@
+List GO terms whose labels contain the word 'miRNA' and also contain either the word 'binding' or the word 'transcription'.

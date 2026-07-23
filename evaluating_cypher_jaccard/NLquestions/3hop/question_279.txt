@@ -1,0 +1,1 @@
+Which diseases have phenotypes that characterize GO terms and in which the miRNA 'hsa-miR-96-5p' is expressed? Return ONLY the disease node.

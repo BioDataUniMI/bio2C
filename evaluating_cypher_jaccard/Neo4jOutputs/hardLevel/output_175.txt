@@ -1,0 +1,30 @@
+{
+  "m.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "pre.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "disease": "type 1 diabetes mellitus 1"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "pre.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "disease": "vitiligo"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "pre.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "disease": "rheumatoid arthritis"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "pre.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "disease": "systemic lupus erythematosus"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-1)",
+  "pre.Label": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "disease": "multiple sclerosis"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:in_homology_relationship_with]->(m2:miRNA) WHERE m.Label ENDS WITH 'f precursor' OR m.Label ENDS WITH 'e precursor' RETURN g.Label AS Gene, m.Label AS miRNA, m2.Label AS Homologous_miRNA

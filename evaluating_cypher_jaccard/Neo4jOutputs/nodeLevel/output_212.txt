@@ -1,0 +1,20 @@
+{
+  "d.Label": "chronic pyelonephritis"
+}
+
+{
+  "d.Label": "chronic fungal otitis externa"
+}
+
+{
+  "d.Label": "seminal vesicle chronic gonorrhea"
+}
+
+{
+  "d.Label": "chronic gonococcal salpingitis"
+}
+
+{
+  "d.Label": "chronic perichondritis of pinna"
+}
+

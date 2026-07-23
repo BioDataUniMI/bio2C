@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(s IN g.Synonym WHERE toLower(s) CONTAINS 'klf4') RETURN g.Label AS Gene, g.Synonym AS Synonyms

@@ -1,0 +1,1 @@
+Find the average false discovery rate (FDR) for miRNAs that are participants in biological processes in which cellular components participate, and that are under-expressed in diseases of each type: cancer, autoimmune, neurodegenerative, infectious, and mental. Return the disease type and the average FDR.

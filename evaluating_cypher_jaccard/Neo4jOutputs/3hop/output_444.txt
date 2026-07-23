@@ -1,0 +1,28 @@
+{
+  "GOterm": "cholesterol efflux",
+  "miRNA": "microRNA hsa-mir-378c precursor",
+  "Gene": "MIR378C",
+  "Disease": "drug-induced liver injury"
+}
+
+{
+  "GOterm": "cholesterol homeostasis",
+  "miRNA": "microRNA hsa-mir-33b precursor",
+  "Gene": "MIR33B",
+  "Disease": "drug-induced liver injury"
+}
+
+{
+  "GOterm": "cholesterol efflux",
+  "miRNA": "microRNA hsa-mir-33b precursor",
+  "Gene": "MIR33B",
+  "Disease": "drug-induced liver injury"
+}
+
+{
+  "GOterm": "cholesterol metabolic process",
+  "miRNA": "microRNA hsa-mir-33b precursor",
+  "Gene": "MIR33B",
+  "Disease": "drug-induced liver injury"
+}
+

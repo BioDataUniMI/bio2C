@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "serum sickness"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "linear scleroderma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "infective arthritis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "CREST syndrome"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-708 precursor",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "localized scleroderma"
+}
+

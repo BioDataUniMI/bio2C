@@ -1,0 +1,1 @@
+List all miRNAs that are under-expressed in the neurodegenerative disease labeled as 'multiple sclerosis'. Return only the miRNA labels.

@@ -1,0 +1,30 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "response to fibroblast growth factor"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "cellular response to growth factor stimulus"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "response to growth factor"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "cellular response to fibroblast growth factor stimulus"
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "fibroblast growth factor receptor signaling pathway"
+}
+

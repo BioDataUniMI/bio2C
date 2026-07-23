@@ -1,0 +1,1 @@
+List the labels of all biological processes that belong to the species 'Eumetazoa' and do not contain the word 'regulation' in their labels.

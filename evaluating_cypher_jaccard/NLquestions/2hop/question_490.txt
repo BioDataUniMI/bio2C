@@ -1,0 +1,1 @@
+Find all pre-miRNAs that are characterized by at least one genomic coordinate on the positive strand ('+') and at least one on the negative strand ('-'), which are causal somatic mutations in phenotypes, that are phenotype of cardiovascular diseases. Return the label of: the pre-miRNA, the phenotype, the disease, and the pre-miRNA genomic coordinates.

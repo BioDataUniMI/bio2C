@@ -1,0 +1,20 @@
+{
+  "Disease": "defective phagocytic cell engulfment",
+  "DisruptedProcess": "phagocytosis, engulfment"
+}
+
+{
+  "Disease": "phagocytic cell dysfunction",
+  "DisruptedProcess": "phagocytosis"
+}
+
+{
+  "Disease": "defective phagocytic cell chemotaxis",
+  "DisruptedProcess": "chemotaxis"
+}
+
+{
+  "Disease": "defective phagocytic cell opsonization",
+  "DisruptedProcess": "opsonization"
+}
+

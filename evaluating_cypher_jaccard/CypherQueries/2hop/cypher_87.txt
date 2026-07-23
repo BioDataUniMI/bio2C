@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_part]->(mf:Molecular_function)-[:enabled_by]->(m:miRNA) RETURN go.Label AS GOterm, mf.Label AS MolecularFunction, m.Label AS EnablingmiRNA

@@ -1,0 +1,1 @@
+Retrieve the molecular functions whose disruption is caused by diseases that are caused or contributed by precursor miRNAs in homology relationships with miRNAs, where both the miRNA and the precursor miRNA are characterized by even sequence lengths. Return the miRNA, the precursor miRNA, and the list of molecular functions disrupted by the disease.

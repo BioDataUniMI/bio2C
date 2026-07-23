@@ -1,0 +1,30 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "CellularComponent": "ruffle"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "ruffle"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-2)",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "ruffle"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-3)",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "ruffle"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-143 precursor",
+  "miRNA": "hsa-miR-143-3p",
+  "CellularComponent": "cell leading edge"
+}
+

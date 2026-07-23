@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE g.Label CONTAINS 'ncRNA' WITH DISTINCT m ORDER BY m.Label WITH COLLECT(m) AS mirnas, toInteger(0.1 * SIZE(COLLECT(m))) AS limit RETURN [mirna IN mirnas[0..limit] | {Label: mirna.Label, Sequence: mirna.Sequence}] AS First10PercentMiRNAs

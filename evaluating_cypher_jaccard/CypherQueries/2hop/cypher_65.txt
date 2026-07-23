@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(go:GO)-[:part_of]->(cc:Cellular_component {Label:'endosome'}) RETURN m.Label AS miRNA, go.Label AS GO_Term, cc.Label AS CellularComponent

@@ -1,0 +1,1 @@
+Find the infectious diseases that under-expresses miRNAs containing more than 26 'U' nucleotides in their sequence. Return the disease label, miRNA label, and number of U nucleotides.

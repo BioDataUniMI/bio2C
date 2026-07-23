@@ -1,0 +1,35 @@
+{
+  "disease": "transient neonatal myasthenia gravis",
+  "parent_disease": "myasthenia gravis",
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+
+{
+  "disease": "juvenile myasthenia gravis",
+  "parent_disease": "myasthenia gravis",
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+
+{
+  "disease": "adult-onset myasthenia gravis",
+  "parent_disease": "myasthenia gravis",
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+
+{
+  "disease": "myasthenia gravis with thymus hyperplasia",
+  "parent_disease": "myasthenia gravis",
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+
+{
+  "disease": "congenital myasthenic syndrome 6",
+  "parent_disease": "myasthenia gravis",
+  "disrupted_molecular_function": "acetylcholine-gated monoatomic cation-selective channel activity",
+  "regulating_go_term": "regulation of acetylcholine-gated cation channel activity"
+}
+

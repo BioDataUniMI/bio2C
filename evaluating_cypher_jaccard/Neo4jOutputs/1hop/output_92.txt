@@ -1,0 +1,20 @@
+{
+  "Disease": "tuberculosis"
+}
+
+{
+  "Disease": "silicotuberculosis"
+}
+
+{
+  "Disease": "hand, foot and mouth disease"
+}
+
+{
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "Disease": "viral infectious disease"
+}
+

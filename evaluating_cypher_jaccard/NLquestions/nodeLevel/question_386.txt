@@ -1,0 +1,1 @@
+List all neurodegenerative diseases whose labels or description contain 'chronic' but that are not autoimmune diseases.

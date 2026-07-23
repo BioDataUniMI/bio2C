@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:towards]->(g:GO) WHERE g.Label CONTAINS 'ossification' RETURN p.Label AS Phenotype, g.Label AS GOterm

@@ -1,0 +1,1 @@
+Find all genes that cause or contribute to the disease labeled as 'COVID-19'. For each gene, count how many times the motif 'GGG' occurs in its sequence and return the gene label along with the list of associated diseases.

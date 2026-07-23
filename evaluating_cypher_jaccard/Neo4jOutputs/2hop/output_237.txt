@@ -1,0 +1,25 @@
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "ST segment elevation"
+}
+
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Trifascicular block"
+}
+
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Right bundle branch block"
+}
+
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "First degree atrioventricular block"
+}
+
+{
+  "InfectiousDisease": "toxoplasmosis",
+  "Phenotype": "Sick sinus syndrome"
+}
+

@@ -1,0 +1,18 @@
+{
+  "bp.Label": "positive regulation of endodeoxyribonuclease activity",
+  "mf.Label": "DNA endonuclease activity",
+  "TYPE(r)": "positively_regulates"
+}
+
+{
+  "bp.Label": "negative regulation of endodeoxyribonuclease activity",
+  "mf.Label": "DNA endonuclease activity",
+  "TYPE(r)": "negatively_regulates"
+}
+
+{
+  "bp.Label": "negative regulation of restriction endodeoxyribonuclease activity",
+  "mf.Label": "restriction endodeoxyribonuclease activity",
+  "TYPE(r)": "negatively_regulates"
+}
+

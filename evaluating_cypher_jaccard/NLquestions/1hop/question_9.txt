@@ -1,0 +1,1 @@
+Find miRNAs that develop from another miRNA such that the parent sequence is exactly 100 nucleotides longer.

@@ -1,0 +1,1 @@
+Find the top three pre-miRNAs under-expressed in GO terms that have the highest number of repeated triplets (AAA, UUU, GGG, CCC) in their sequence. Return the pre-miRNA IDs, the total triplet count, and the list of associated terms, ordering GO terms alphabetically by label in case of ties.

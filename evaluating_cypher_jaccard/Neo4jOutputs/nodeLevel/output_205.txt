@@ -1,0 +1,9 @@
+{
+  "d": {
+    "Description": "a painful blister of the periungual skin that is caused by herpes simplex virus type 1 or 2.",
+    "Label": "herpetic whitlow",
+    "ID": "MONDO:0004616",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0004616"
+  }
+}
+

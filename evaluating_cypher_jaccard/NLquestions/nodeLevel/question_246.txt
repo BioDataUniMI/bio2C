@@ -1,0 +1,1 @@
+Find the 5 miRNAs with the shortest sequence. Return their labels, descriptions, and sequence length. In case of ties, order miRNAs alphabetically by label.

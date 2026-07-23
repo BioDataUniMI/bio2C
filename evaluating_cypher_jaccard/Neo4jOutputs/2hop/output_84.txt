@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-100-5p",
+  "BiologicalProcess": "positive regulation of protein phosphorylation",
+  "PositivelyRegulatedGO": "protein phosphorylation"
+}
+
+{
+  "miRNA": "hsa-miR-100-5p",
+  "BiologicalProcess": "positive regulation of cell motility",
+  "PositivelyRegulatedGO": "cell motility"
+}
+
+{
+  "miRNA": "hsa-miR-100-5p",
+  "BiologicalProcess": "positive regulation of lipase activity",
+  "PositivelyRegulatedGO": "lipase activity"
+}
+
+{
+  "miRNA": "hsa-miR-100-5p",
+  "BiologicalProcess": "positive regulation of protein metabolic process",
+  "PositivelyRegulatedGO": "protein metabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-100-5p",
+  "BiologicalProcess": "positive regulation of developmental growth",
+  "PositivelyRegulatedGO": "developmental growth"
+}
+

@@ -1,0 +1,12 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "RelationSource": [
+    "miR2Disease"
+  ],
+  "RelationMethod": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

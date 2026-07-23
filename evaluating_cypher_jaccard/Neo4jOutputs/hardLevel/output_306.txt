@@ -1,0 +1,75 @@
+{
+  "miRNA": "hsa-miR-511-3p",
+  "AlzheimerDisease": "Alzheimer disease",
+  "Phenotype": "Seizure",
+  "OtherDiseases": [
+    "early congenital syphilis",
+    "aspiration pneumonitis",
+    "epilepsy",
+    "maple syrup urine disease",
+    "chromosome 1p36 deletion syndrome",
+    "rhizomelic chondrodysplasia punctata",
+    "X-linked complex neurodevelopmental disorder"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1202 precursor",
+  "AlzheimerDisease": "Alzheimer disease",
+  "Phenotype": "Seizure",
+  "OtherDiseases": [
+    "early congenital syphilis",
+    "aspiration pneumonitis",
+    "epilepsy",
+    "maple syrup urine disease",
+    "chromosome 1p36 deletion syndrome",
+    "rhizomelic chondrodysplasia punctata",
+    "X-linked complex neurodevelopmental disorder"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-197-3p",
+  "AlzheimerDisease": "Alzheimer disease",
+  "Phenotype": "Seizure",
+  "OtherDiseases": [
+    "early congenital syphilis",
+    "aspiration pneumonitis",
+    "epilepsy",
+    "maple syrup urine disease",
+    "chromosome 1p36 deletion syndrome",
+    "rhizomelic chondrodysplasia punctata",
+    "X-linked complex neurodevelopmental disorder"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "AlzheimerDisease": "Alzheimer disease",
+  "Phenotype": "Seizure",
+  "OtherDiseases": [
+    "early congenital syphilis",
+    "aspiration pneumonitis",
+    "epilepsy",
+    "maple syrup urine disease",
+    "chromosome 1p36 deletion syndrome",
+    "rhizomelic chondrodysplasia punctata",
+    "X-linked complex neurodevelopmental disorder"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "AlzheimerDisease": "Alzheimer disease",
+  "Phenotype": "Seizure",
+  "OtherDiseases": [
+    "early congenital syphilis",
+    "aspiration pneumonitis",
+    "epilepsy",
+    "maple syrup urine disease",
+    "chromosome 1p36 deletion syndrome",
+    "rhizomelic chondrodysplasia punctata",
+    "X-linked complex neurodevelopmental disorder"
+  ]
+}
+

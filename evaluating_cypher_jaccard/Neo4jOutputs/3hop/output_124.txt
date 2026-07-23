@@ -1,0 +1,35 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "chromosome",
+  "GOterm": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "nuclear chromosome",
+  "GOterm": "nuclear lumen"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "nuclear chromosome",
+  "GOterm": "cell nucleus"
+}
+
+{
+  "Cancer": "colorectal adenocarcinoma",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "chromosome",
+  "GOterm": "intracellular anatomical structure"
+}
+
+{
+  "Cancer": "colorectal adenocarcinoma",
+  "miRNA": "hsa-miR-124-3p",
+  "CellularComponent": "nuclear chromosome",
+  "GOterm": "nuclear lumen"
+}
+

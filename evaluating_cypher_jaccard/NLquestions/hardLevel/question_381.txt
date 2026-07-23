@@ -1,0 +1,1 @@
+Find all subclass paths between genes of length 1 or more that include the gene 'phoP'. Return the list of genes along each path, including their element IDs and labels, following the subclass hierarchy direction.

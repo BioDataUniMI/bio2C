@@ -1,0 +1,8 @@
+{
+  "md.Label": "mental disease course",
+  "LABELS(d)": [
+    "Disease",
+    "Mental_disease"
+  ]
+}
+

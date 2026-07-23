@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "Number_of_G": 34,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "Number_of_G": 28,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-150 precursor",
+  "Number_of_G": 26,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-135b precursor",
+  "Number_of_G": 26,
+  "Cancer": "lung adenocarcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Number_of_G": 20,
+  "Cancer": "lung adenocarcinoma"
+}
+

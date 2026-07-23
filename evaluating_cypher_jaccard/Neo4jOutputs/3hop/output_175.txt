@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "ossification",
+  "PhenotypeCount": 67
+}
+
+{
+  "BiologicalProcess": "inflammatory response",
+  "PhenotypeCount": 53
+}
+
+{
+  "BiologicalProcess": "pigmentation",
+  "PhenotypeCount": 37
+}
+
+{
+  "BiologicalProcess": "bone maturation",
+  "PhenotypeCount": 4
+}
+
+{
+  "BiologicalProcess": "micturition",
+  "PhenotypeCount": 4
+}
+

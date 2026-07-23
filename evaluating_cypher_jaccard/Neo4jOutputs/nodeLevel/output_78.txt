@@ -1,0 +1,25 @@
+{
+  "Disease": "PRPF19-related neurodevelopmental disorder",
+  "Description": "any neurodevelopmental disorder in which the cause of the disease is a mutation in the prpf19 gen..."
+}
+
+{
+  "Disease": "distal 17p13.3 microdeletion syndrome",
+  "Description": "distal 17p13.3 microdeletion syndrome is a rare partial monosomy of the short arm of chromosome 1..."
+}
+
+{
+  "Disease": "Radio-Tartaglia syndrome",
+  "Description": "a syndrome that is caused by a variation in the spen gene and is characterized by developmental d..."
+}
+
+{
+  "Disease": "aldosterone-producing adenoma with seizures and neurological abnormalities",
+  "Description": "an autosomal dominant neurodevelopmental condition related to variants in cacna1d. most reported ..."
+}
+
+{
+  "Disease": "hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+  "Description": "a rare, genetic, syndromic intellectual disability characterized by usually profound intellectual..."
+}
+

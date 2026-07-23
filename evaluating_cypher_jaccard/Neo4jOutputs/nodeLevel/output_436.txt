@@ -1,0 +1,5 @@
+{
+  "mf.Label": "neurotransmitter transmembrane transporter activity",
+  "mf.URI": "http://purl.obolibrary.org/obo/GO_0005326"
+}
+

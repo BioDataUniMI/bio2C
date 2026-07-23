@@ -1,0 +1,96 @@
+{
+  "miRNA": "hsa-miR-124-3p",
+  "Gene": "STAT3",
+  "Methods": [
+    "immunoprecipitaion (ip)",
+    "immunohistochemistry",
+    "immunofluorescent staining method",
+    "flow",
+    "flow cytometry",
+    "western blotting",
+    "luciferase reporter assay",
+    "immunostaining",
+    "immunohistochemistry staining method",
+    "elisa",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-221-3p",
+  "Gene": "CDKN1B",
+  "Methods": [
+    "in situ hybridization",
+    "immunohistochemistry",
+    "microarray analysis",
+    "immunofluorescent staining method",
+    "northern blotting",
+    "flow",
+    "flow cytometry",
+    "reporter assay",
+    "western blotting",
+    "luciferase reporter assay",
+    "immunohistochemistry staining method",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-200c-3p",
+  "Gene": "ZEB1",
+  "Methods": [
+    "in situ hybridization",
+    "immunocytochemistry (icc)",
+    "immunoblot analysis",
+    "immunohistochemistry",
+    "microarray analysis",
+    "immunofluorescent staining method",
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "chip-seq",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-449a",
+  "Gene": "CDK6",
+  "Methods": [
+    "immunohistochemistry",
+    "microarray analysis",
+    "immunofluorescent staining method",
+    "flow",
+    "chip-seq",
+    "reporter assay",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr",
+    "other license status",
+    "immunoprecipitaion"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "Gene": "TRAF6",
+  "Methods": [
+    "in situ hybridization",
+    "immunohistochemistry",
+    "microarray analysis",
+    "immunohistochemistry staining method",
+    "immunofluorescent staining method",
+    "northern blotting",
+    "flow",
+    "flow cytometry",
+    "communoprecipitaion",
+    "western blotting",
+    "whole transcriptome sequencing",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr",
+    "elisa",
+    "immunoprecipitaion"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Identify GO terms that are capable of being part of biological processes whose description contains the string 'cell killing'.

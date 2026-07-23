@@ -1,0 +1,1 @@
+Identify the genes that transcribe pre-miRNAs which develop into miRNAs serving as function of the GO term labeled as 'BH domain binding'. Return the labels of the miRNA, the pre-miRNA, and the gene.

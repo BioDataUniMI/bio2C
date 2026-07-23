@@ -1,0 +1,52 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-4477b precursor",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "giant cell myocarditis",
+  "Genomic_Coordinates": [
+    "chr9:41233755-41233835-",
+    "chr9:63819574-63819654+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4477b precursor",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "cardiofaciocutaneous syndrome",
+  "Genomic_Coordinates": [
+    "chr9:41233755-41233835-",
+    "chr9:63819574-63819654+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-4477b precursor",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "dilated cardiomyopathy",
+  "Genomic_Coordinates": [
+    "chr9:41233755-41233835-",
+    "chr9:63819574-63819654+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "Phenotype": "Lung adenocarcinoma",
+  "Disease": "dilated cardiomyopathy",
+  "Genomic_Coordinates": [
+    "chr8:9903388-9903472-",
+    "chrHG76_PATCH:3445252-3445336+",
+    "chrCHR_HG76_PATCH:3445252-3445336+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "giant cell myocarditis",
+  "Genomic_Coordinates": [
+    "chr8:9903388-9903472-",
+    "chrHG76_PATCH:3445252-3445336+",
+    "chrCHR_HG76_PATCH:3445252-3445336+"
+  ]
+}
+

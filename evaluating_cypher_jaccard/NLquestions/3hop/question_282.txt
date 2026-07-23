@@ -1,0 +1,1 @@
+List pre-miRNAs that develop into mature miRNAs that regulate the activity of the target gene 'PDXDC2P'. Return the pre-miRNA label, miRNA label, and target gene label.

@@ -1,0 +1,25 @@
+{
+  "AutoimmuneDisease": "Al Gazali Khidr Prem Chandran syndrome",
+  "PhenotypeCount": 2
+}
+
+{
+  "AutoimmuneDisease": "autoimmune lymphoproliferative syndrome type 2B",
+  "PhenotypeCount": 1
+}
+
+{
+  "AutoimmuneDisease": "familial cold autoinflammatory syndrome",
+  "PhenotypeCount": 1
+}
+
+{
+  "AutoimmuneDisease": "CINCA syndrome",
+  "PhenotypeCount": 1
+}
+
+{
+  "AutoimmuneDisease": "familial cold autoinflammatory syndrome 3",
+  "PhenotypeCount": 1
+}
+

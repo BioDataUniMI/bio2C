@@ -1,0 +1,1 @@
+Find all biological processes whose label contains the string 'mitotic spindle' and in which miRNAs whose sequences do not contain 'C' participate. Return biological processes' label and miRNAs' label and sequence.

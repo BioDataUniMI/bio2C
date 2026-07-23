@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-143-3p",
+  "Gene": "TNF"
+}
+
+{
+  "miRNA": "hsa-miR-203a-3p",
+  "Gene": "TNF"
+}
+
+{
+  "miRNA": "hsa-miR-100-5p",
+  "Gene": "TNF"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "Gene": "TNF"
+}
+
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Gene": "TNF"
+}
+

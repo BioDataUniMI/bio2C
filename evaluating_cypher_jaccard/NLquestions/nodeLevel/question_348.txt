@@ -1,0 +1,1 @@
+Find cardiovascular diseases whose descriptions mention both 'gene' and 'mutation'. Return the labels and the IDs.

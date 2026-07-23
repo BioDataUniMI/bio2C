@@ -1,0 +1,25 @@
+{
+  "Cancer": "colorectal carcinoma",
+  "num_pre_miRNAs": 153
+}
+
+{
+  "Cancer": "malignant pancreatic neoplasm",
+  "num_pre_miRNAs": 152
+}
+
+{
+  "Cancer": "lung cancer",
+  "num_pre_miRNAs": 177
+}
+
+{
+  "Cancer": "prostate cancer",
+  "num_pre_miRNAs": 140
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "num_pre_miRNAs": 175
+}
+

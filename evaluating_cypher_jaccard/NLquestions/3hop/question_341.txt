@@ -1,0 +1,1 @@
+Consider cancers. How many distinct miRNAs do they express? Keep only miRNAs that participate in biological processes where those biological processes are subclasses of other biological processes. Return the cancer labels and the count of distinct miRNAs, ordered by miRNA count (in descending order).

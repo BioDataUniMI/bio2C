@@ -1,0 +1,30 @@
+{
+  "Disease": "blood coagulation disease",
+  "DisruptedProcess": "blood coagulation",
+  "InvolvedGO": "blood coagulation, fibrin clot formation"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "DisruptedProcess": "blood coagulation",
+  "InvolvedGO": "thrombocyte activation"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "DisruptedProcess": "blood coagulation",
+  "InvolvedGO": "platelet activation"
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "DisruptedProcess": "cartilage development",
+  "InvolvedGO": "chondroblast differentiation"
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "DisruptedProcess": "cartilage development",
+  "InvolvedGO": "cartilage morphogenesis"
+}
+

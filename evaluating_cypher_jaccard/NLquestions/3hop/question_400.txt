@@ -1,0 +1,1 @@
+List the GO terms that cellular component are part of. Consider only cellular components where miRNAs expressed by cancers (excluding those whose label contains the string 'oma') are located. Return the cancer label, miRNA label, cellular component label, and GO term label.

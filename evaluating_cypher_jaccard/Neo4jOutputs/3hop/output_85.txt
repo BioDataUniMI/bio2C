@@ -1,0 +1,62 @@
+{
+  "miRNA": "hsa-miR-150-5p",
+  "Pre_miRNA": "microRNA hsa-mir-150 precursor",
+  "GO_Term": "regulation of vascular endothelial cell proliferation",
+  "NeurodegenerativeDisease": "Alzheimer disease type 1",
+  "PubMedIDs": [
+    "35811521",
+    "34776451",
+    "33180258"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-150-5p",
+  "Pre_miRNA": "microRNA hsa-mir-150 precursor",
+  "GO_Term": "regulation of vascular endothelial cell proliferation",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "PubMedIDs": [
+    "35811521",
+    "34776451",
+    "33180258"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-23a precursor",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "NeurodegenerativeDisease": "Alzheimer disease type 1",
+  "PubMedIDs": [
+    "32531989",
+    "30914946",
+    "34776451",
+    "31592314"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-23a precursor",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "NeurodegenerativeDisease": "multiple sclerosis",
+  "PubMedIDs": [
+    "36324503",
+    "33107309",
+    "30518189"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-23a precursor",
+  "GO_Term": "regulation of sprouting angiogenesis",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "PubMedIDs": [
+    "32531989",
+    "30914946",
+    "34776451",
+    "31592314"
+  ]
+}
+

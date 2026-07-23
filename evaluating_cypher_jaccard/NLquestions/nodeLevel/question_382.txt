@@ -1,0 +1,1 @@
+Retrieve the description of the 'cardiac tuberculosis'-labeled infectious diseases.

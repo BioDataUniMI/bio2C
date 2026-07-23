@@ -1,0 +1,20 @@
+{
+  "cc.Label": "X chromosome located dosage compensation complex, transcription activating",
+  "cc.ID": "GO:0016456"
+}
+
+{
+  "cc.Label": "Z chromosome",
+  "cc.ID": "GO:0000807"
+}
+
+{
+  "cc.Label": "Y chromosome",
+  "cc.ID": "GO:0000806"
+}
+
+{
+  "cc.Label": "X chromosome",
+  "cc.ID": "GO:0000805"
+}
+

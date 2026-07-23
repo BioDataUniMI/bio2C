@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:disease_has_major_feature]->(p:Phenotype)-[:phenotype_of]->(d:Disease) RETURN c.Label, COUNT(DISTINCT p), COUNT(DISTINCT d)

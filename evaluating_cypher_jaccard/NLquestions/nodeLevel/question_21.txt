@@ -1,0 +1,1 @@
+Which phenotypes have labels containing 'skeletal' (case-insensitive) and exactly 4 synonyms recorded?

@@ -1,0 +1,25 @@
+{
+  "GO_Term": "execution phase of apoptosis",
+  "miRNA": "microRNA hsa-mir-208a precursor"
+}
+
+{
+  "GO_Term": "heart development",
+  "miRNA": "microRNA hsa-mir-208a precursor"
+}
+
+{
+  "GO_Term": "apoptotic process",
+  "miRNA": "microRNA hsa-mir-208a precursor"
+}
+
+{
+  "GO_Term": "dentinogenesis",
+  "miRNA": "microRNA hsa-mir-665 precursor"
+}
+
+{
+  "GO_Term": "execution phase of apoptosis",
+  "miRNA": "microRNA hsa-mir-30b precursor"
+}
+

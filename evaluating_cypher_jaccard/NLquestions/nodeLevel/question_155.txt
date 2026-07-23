@@ -1,0 +1,1 @@
+Which GO terms contain 'membrane' in their label and list at least one synonym mentioning 'plasma'?

@@ -1,0 +1,14 @@
+{
+  "GOterm": "biological process",
+  "Pre_miRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-1)",
+  "miRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-2)",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "GOterm": "biological process",
+  "Pre_miRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-2)",
+  "miRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-1)",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+

@@ -1,0 +1,1 @@
+Identify pre-miRNAs that are overexpressed in infectious diseases, and for those diseases, list their associated phenotypes and the GO terms that characterize these phenotypes. Return the labels of the: pre-miRNA, infectious disease, phenotype, and GO term.

@@ -1,0 +1,1 @@
+Identify GO terms that are part of biological processes whose disruption is caused by diseases that have the phenotype labeled as 'Sleep apnea', and report the GO term and disease labels.

@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Lymphangioma",
+  "Disease": "kaposiform lymphangiomatosis",
+  "Cancer": "kaposiform hemangioendothelioma"
+}
+
+{
+  "Phenotype": "Abnormality of the lymphatic system",
+  "Disease": "kaposiform lymphangiomatosis",
+  "Cancer": "kaposiform hemangioendothelioma"
+}
+
+{
+  "Phenotype": "Chest pain",
+  "Disease": "kaposiform lymphangiomatosis",
+  "Cancer": "kaposiform hemangioendothelioma"
+}
+
+{
+  "Phenotype": "Metrorrhagia",
+  "Disease": "kaposiform lymphangiomatosis",
+  "Cancer": "kaposiform hemangioendothelioma"
+}
+
+{
+  "Phenotype": "Epidural hemorrhage",
+  "Disease": "kaposiform lymphangiomatosis",
+  "Cancer": "kaposiform hemangioendothelioma"
+}
+

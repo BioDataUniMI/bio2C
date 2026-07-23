@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'creatine' AND (p.Label CONTAINS 'Reduced' OR p.Label CONTAINS 'Decreased') RETURN p.Label AS Phenotype

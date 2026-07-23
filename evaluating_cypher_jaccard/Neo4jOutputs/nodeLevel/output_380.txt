@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "epidural abscess"
+}
+
+{
+  "DiseaseLabel": "kuru"
+}
+
+{
+  "DiseaseLabel": "Cryptococcal meningitis"
+}
+
+{
+  "DiseaseLabel": "st. Louis encephalitis"
+}
+
+{
+  "DiseaseLabel": "bulbar polio"
+}
+

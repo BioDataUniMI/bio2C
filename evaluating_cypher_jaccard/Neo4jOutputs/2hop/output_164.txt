@@ -1,0 +1,15 @@
+{
+  "Cancer": "functioning pituitary gland adenoma",
+  "miRNAsViaProcesses": 9
+}
+
+{
+  "Cancer": "non-functioning endocrine neoplasm",
+  "miRNAsViaProcesses": 9
+}
+
+{
+  "Cancer": "functioning endocrine neoplasm",
+  "miRNAsViaProcesses": 9
+}
+

@@ -1,0 +1,8 @@
+{
+  "BrainDisease": "brain glioblastoma"
+}
+
+{
+  "BrainDisease": "brain cancer"
+}
+

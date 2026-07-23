@@ -1,0 +1,7 @@
+{
+  "miRNA": "microRNA hsa-mir-107 precursor",
+  "go_term": "endocytosis",
+  "target_start_location_go": "extracellular region",
+  "target_end_location_go": "cytoplasmic vesicle"
+}
+

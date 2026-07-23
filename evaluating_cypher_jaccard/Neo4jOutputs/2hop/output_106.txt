@@ -1,0 +1,30 @@
+{
+  "CardiovascularDisease": "heart conduction disease",
+  "GO": "cardiac conduction",
+  "miRNA": "hsa-miR-133a-3p"
+}
+
+{
+  "CardiovascularDisease": "heart conduction disease",
+  "GO": "cardiac conduction",
+  "miRNA": "hsa-miR-185-5p"
+}
+
+{
+  "CardiovascularDisease": "heart conduction disease",
+  "GO": "cardiac conduction",
+  "miRNA": "hsa-miR-208b-3p"
+}
+
+{
+  "CardiovascularDisease": "heart conduction disease",
+  "GO": "cardiac conduction",
+  "miRNA": "hsa-miR-1-3p"
+}
+
+{
+  "CardiovascularDisease": "heart conduction disease",
+  "GO": "cardiac conduction",
+  "miRNA": "hsa-miR-208a-3p"
+}
+

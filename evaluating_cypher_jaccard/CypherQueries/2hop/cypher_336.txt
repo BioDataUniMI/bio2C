@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[r:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'P-body'}) WHERE ANY(method IN r.Method WHERE toLower(method) IN ['qrt-pcr etc','northern blotting']) RETURN c.Label AS Cancer, m.Label AS miRNA, r.Method AS ExpressionMethod

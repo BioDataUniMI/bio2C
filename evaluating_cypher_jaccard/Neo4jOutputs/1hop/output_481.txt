@@ -1,0 +1,45 @@
+{
+  "bp.Label": "negative regulation of DNA replication",
+  "x.Label": "DNA replication",
+  "LABELS(x)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "negative regulation of DNA endoreduplication",
+  "x.Label": "DNA endoreduplication",
+  "LABELS(x)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "negative regulation of DNA-templated DNA replication initiation",
+  "x.Label": "DNA replication initiation",
+  "LABELS(x)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "negative regulation of DNA-templated transcription, elongation",
+  "x.Label": "DNA-templated transcription elongation",
+  "LABELS(x)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "negative regulation of DNA recombination",
+  "x.Label": "DNA recombination",
+  "LABELS(x)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+

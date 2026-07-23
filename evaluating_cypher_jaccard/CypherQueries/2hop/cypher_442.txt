@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:over_expressed_in]-(pre:pre_miRNA) WHERE toLower(d.Label) CONTAINS 'brain' RETURN d.Label AS BrainDisease UNION MATCH (d:Disease)-[:expresses]->(m:miRNA) WHERE d.Label CONTAINS 'brain' RETURN d.Label AS BrainDisease

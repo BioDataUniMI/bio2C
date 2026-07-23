@@ -1,0 +1,1 @@
+Which genes that cause or contribute to neurodegenerative disease have their activity regulated by the largest number of distinct miRNAs? Return the gene label, disease label, and miRNA count. Limit the result to the top 5 genes, ordering their labels alphabetically to avoid ties.

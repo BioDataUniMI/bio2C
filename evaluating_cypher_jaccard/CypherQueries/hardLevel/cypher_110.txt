@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(d)-[:subclassof*0..1]->(parent:Cancer), (d)-[:has_phenotype]->(ph:Phenotype)-[:subclassof*0..1]->(parentPh:Phenotype) WHERE toLower(d.Label) CONTAINS 'esophageal' AND toLower(parent.Label) = 'adenocarcinoma' AND parentPh IS NOT NULL RETURN COUNT(DISTINCT m) AS miRNA_count

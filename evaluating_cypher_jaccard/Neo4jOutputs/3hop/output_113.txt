@@ -1,0 +1,30 @@
+{
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+

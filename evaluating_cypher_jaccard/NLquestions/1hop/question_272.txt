@@ -1,0 +1,1 @@
+How many unique phenotypes are linked to diseases via the 'has_phenotype' relationship type?

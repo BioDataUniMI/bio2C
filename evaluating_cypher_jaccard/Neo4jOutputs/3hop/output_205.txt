@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNACount": 447
+}
+
+{
+  "CellularComponent": "extracellular vesicle",
+  "miRNACount": 73
+}
+
+{
+  "CellularComponent": "nucleoplasm",
+  "miRNACount": 22
+}
+
+{
+  "CellularComponent": "chromatin",
+  "miRNACount": 18
+}
+
+{
+  "CellularComponent": "nuclear lumen",
+  "miRNACount": 18
+}
+

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ACTG1P12"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ACTG1P14"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ACTG1P4"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ACTBP11"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ACTG1P19"
+}
+

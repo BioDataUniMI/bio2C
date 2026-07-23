@@ -1,0 +1,1 @@
+Find the GO terms associated with miRNAs, including the function GO term, the target start location GO term, and the target end location GO term. Return the miRNA label, the GO term labels, and the GO term URIs.

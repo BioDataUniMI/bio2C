@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:directly_regulated_by]->(g:GO) WITH DISTINCT mf, g.Label AS goTerm ORDER BY mf.Label ASC, goTerm ASC WITH mf, COLLECT(goTerm)[0..5] AS GOProcesses RETURN mf.Label AS MolecularFunction, GOProcesses

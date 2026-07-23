@@ -1,0 +1,1 @@
+Consider the disease 'lead poisoning'. Identify the biological processes (keep only those containing the word 'development' in the label) in which miRNAs ending with 'a-3p' and expressed by the phenotypic traits of the disease participate. Return the labels of the phenotype, the miRNA, and the biological process.

@@ -1,0 +1,1 @@
+Find the cardiovascular disease(s) that have the shortest miRNA sequence among miRNAs under-expressed in cardiovascular diseases. Return the disease label, miRNA label, sequence, and sequence length.

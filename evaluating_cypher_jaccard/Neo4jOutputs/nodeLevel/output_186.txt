@@ -1,0 +1,9 @@
+{
+  "mf": {
+    "Description": "binding to a ubiquitin protein ligase enzyme, any of the e3 proteins.",
+    "Label": "ubiquitin protein ligase binding",
+    "ID": "GO:0031625",
+    "URI": "http://purl.obolibrary.org/obo/GO_0031625"
+  }
+}
+

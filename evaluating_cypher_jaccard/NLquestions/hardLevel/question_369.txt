@@ -1,0 +1,1 @@
+Which neurodegenerative disease(s) have the highest number of distinct phenotypic features that are also phenotypes of diseases whose label contains 'epilep' or 'infantil' (including ties)? Return the neurodegenerative disease label and the count of these phenotypic features.

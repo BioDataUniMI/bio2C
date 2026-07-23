@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "CellularComponent": "outer kinetochore"
+}
+

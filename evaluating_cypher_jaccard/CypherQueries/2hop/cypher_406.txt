@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_participant]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label =~ '.*[0-9]{2}[AB]$' RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA, g.Label AS RegulatedGene

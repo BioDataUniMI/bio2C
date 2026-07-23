@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Cancer": "colorectal adenocarcinoma",
+  "Disease": "adenocarcinoma",
+  "Phenotype": "Papule"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Cancer": "colorectal adenocarcinoma",
+  "Disease": "adenocarcinoma",
+  "Phenotype": "Pulmonary sequestration"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Cancer": "colorectal adenocarcinoma",
+  "Disease": "adenocarcinoma",
+  "Phenotype": "Skin tags"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Cancer": "colorectal adenocarcinoma",
+  "Disease": "adenocarcinoma",
+  "Phenotype": "Abnormality of retinal pigmentation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Cancer": "colorectal adenocarcinoma",
+  "Disease": "adenocarcinoma",
+  "Phenotype": "Renal cell carcinoma"
+}
+

@@ -1,0 +1,1 @@
+Find the difference in sequence length between the shortest and longest genes transcribed from any precursor miRNA that contribute to the cancer labeled as 'colon carcinoma'.

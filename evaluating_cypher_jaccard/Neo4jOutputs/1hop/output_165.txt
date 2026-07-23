@@ -1,0 +1,19 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "Context": [
+    "breast cancer cells",
+    "dendritic cells",
+    "t cells",
+    "blood serum",
+    "urine",
+    "saliva"
+  ],
+  "PubMedID": [
+    "21505438",
+    "20976003",
+    "24352158",
+    "18589210",
+    "19627513"
+  ]
+}
+

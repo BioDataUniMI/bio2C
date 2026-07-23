@@ -1,0 +1,30 @@
+{
+  "Disease": "apperceptive agnosia",
+  "GOterm": "visual behavior",
+  "miRNA": "hsa-miR-520c-3p"
+}
+
+{
+  "Disease": "apperceptive agnosia",
+  "GOterm": "visual behavior",
+  "miRNA": "hsa-miR-144-3p"
+}
+
+{
+  "Disease": "apperceptive agnosia",
+  "GOterm": "visual behavior",
+  "miRNA": "hsa-miR-27a-3p"
+}
+
+{
+  "Disease": "apperceptive agnosia",
+  "GOterm": "visual behavior",
+  "miRNA": "hsa-miR-20a-5p"
+}
+
+{
+  "Disease": "apperceptive agnosia",
+  "GOterm": "visual behavior",
+  "miRNA": "hsa-miR-433-3p"
+}
+

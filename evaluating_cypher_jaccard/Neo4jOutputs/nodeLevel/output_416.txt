@@ -1,0 +1,21 @@
+{
+  "Classification": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "Classification": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "Classification": [
+    "GO",
+    "Cellular_component"
+  ]
+}
+

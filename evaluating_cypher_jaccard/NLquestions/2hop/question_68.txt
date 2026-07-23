@@ -1,0 +1,1 @@
+Which cancers whose label contains the word 'Hodgkin' have phenotypes that are characteristic of biological processes with 'immune' in their labels (case-insensitive)?

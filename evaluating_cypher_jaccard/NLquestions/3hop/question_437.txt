@@ -1,0 +1,1 @@
+Identify genes with activity regulated by miRNAs that cause or contribute to the disease labeled as 'hypochromic anemia' and have at least one phenotype as a feature. Return the disease label, phenotype label, gene label, and miRNA label.

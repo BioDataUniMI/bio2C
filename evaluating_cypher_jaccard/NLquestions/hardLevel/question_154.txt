@@ -1,0 +1,1 @@
+Count the number of miRNA pairs where a first miRNA causes or contributes to a cancer and the second miRNA is expressed by the parent disease of that cancer, and both have different sequence lengths.

@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[r:disease_shares_features_of]->(d:Disease) RETURN cd.Label, cd.Description, d.Label, d.Description

@@ -1,0 +1,1 @@
+Which genes have genomic coordinates on chromosome 17 and sequences longer than 200,000 nucleotides?

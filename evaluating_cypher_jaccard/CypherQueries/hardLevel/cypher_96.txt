@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r1:under_expressed_in]->(d1:Autoimmune_disease), (m)-[r2:over_expressed_in]->(d2:Cardiovascular_disease) WITH m, r1, r2, d1, d2 ORDER BY SIZE(m.Sequence) ASC, m.Label ASC LIMIT 3 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS sequence_length, d1.Label AS autoimmune_disease, d2.Label AS cardiovascular_disease

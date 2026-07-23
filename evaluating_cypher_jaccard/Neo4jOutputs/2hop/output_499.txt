@@ -1,0 +1,15 @@
+{
+  "Neurodegenerative_Disease": "bulbar polio",
+  "Infectious_Disease": "paralytic poliomyelitis"
+}
+
+{
+  "Neurodegenerative_Disease": "bulbospinal polio",
+  "Infectious_Disease": "paralytic poliomyelitis"
+}
+
+{
+  "Neurodegenerative_Disease": "spinal polio",
+  "Infectious_Disease": "paralytic poliomyelitis"
+}
+

@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-518b precursor",
+  "Cancer_label": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-596 precursor",
+  "Cancer_label": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-596",
+  "Cancer_label": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "Cancer_label": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-328 precursor",
+  "Cancer_label": "cervical squamous cell carcinoma"
+}
+

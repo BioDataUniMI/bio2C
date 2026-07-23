@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-599",
+  "Disease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-96 precursor",
+  "Disease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-145 precursor",
+  "Disease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-422a",
+  "Disease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Disease": "multiple sclerosis"
+}
+

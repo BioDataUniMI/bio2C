@@ -1,0 +1,20 @@
+{
+  "phenotype": "Enamel hypoplasia"
+}
+
+{
+  "phenotype": "Short stature"
+}
+
+{
+  "phenotype": "Aortic valve stenosis"
+}
+
+{
+  "phenotype": "Abnormally high-pitched voice"
+}
+
+{
+  "phenotype": "Joint stiffness"
+}
+

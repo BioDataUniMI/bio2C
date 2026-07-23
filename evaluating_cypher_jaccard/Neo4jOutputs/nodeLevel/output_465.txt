@@ -1,0 +1,28 @@
+{
+  "Phenotype": "Neck muscle hypoplasia",
+  "p.Description": "underdevelopment of muscles of the neck.",
+  "p.Synonym": [
+    "Hipoplasia del músculo del cuello",
+    "Boyun kası hipoplazisi",
+    "Nekspier hypoplasie",
+    "Hypoplasie des muscles du cou",
+    "頸部筋低形成",
+    "颈部肌肉发育不良",
+    "Hypoplázie krčních svalů"
+  ]
+}
+
+{
+  "Phenotype": "Neck muscle hypertrophy",
+  "p.Description": "muscle hypertrophy affecting the muscles of the neck.",
+  "p.Synonym": [
+    "Nekspier hypertrofie",
+    "Boyun kası hipertrofisi",
+    "Hipertrofia del músculo del cuello",
+    "颈部肌肉肥大",
+    "Hypertrophie des muscles du cou",
+    "Hypertrofie svalů krku",
+    "頸部筋肥大"
+  ]
+}
+

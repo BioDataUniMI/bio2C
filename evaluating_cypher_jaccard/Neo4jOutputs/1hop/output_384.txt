@@ -1,0 +1,5 @@
+{
+  "Disease": "precocious puberty",
+  "BiologicalProcess": "endocrine process"
+}
+

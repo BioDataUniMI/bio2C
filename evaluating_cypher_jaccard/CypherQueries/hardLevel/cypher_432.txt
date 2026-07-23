@@ -1,0 +1,1 @@
+MATCH (d:Cardiovascular_disease)-[:disease_caused_by_disruption_of]->(mf:Molecular_function) WITH d, COLLECT(DISTINCT mf.Label) AS functionList UNWIND functionList AS mfLabel WITH d, COUNT(mfLabel) AS nFunctions, COLLECT(mfLabel) AS functions RETURN d.Label AS Cardiovascular_disease, nFunctions, functions ORDER BY nFunctions DESC

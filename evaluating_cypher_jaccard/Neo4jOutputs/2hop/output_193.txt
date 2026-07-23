@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "CellularComponent": "cell leading edge"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "CellularComponent": "ruffle"
+}
+

@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:subclassof]->(go:GO)-[:starts]->(bp1:Biological_process)-[r:subclassof]->(bp2:Biological_process {Label:'glutamate receptor signaling pathway'}) WHERE SIZE(r.Source) >= 2 RETURN mf.Label AS MolecularFunction, go.Label AS GO_Term, bp1.Label AS BiologicalProcess, r.Source AS Sources

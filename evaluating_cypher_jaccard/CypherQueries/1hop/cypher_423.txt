@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE NOT (cc)-[:part_of]->(:Cellular_component) AND cc.Description CONTAINS 'membrane vesicle' RETURN cc.Label, cc.Description

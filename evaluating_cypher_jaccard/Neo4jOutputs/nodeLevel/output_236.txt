@@ -1,0 +1,25 @@
+{
+  "Disease": "breast lobular carcinoma",
+  "Description": "an adenocarcinoma of the breast arising from the lobules. this is a relatively uncommon carcinoma..."
+}
+
+{
+  "Disease": "salivary gland type cancer of the breast",
+  "Description": "a group of uncommon neoplasms, usually seen in the salivary glands but occurring in the breast, w..."
+}
+
+{
+  "Disease": "breast adenomyoepithelial adenosis",
+  "Description": "an uncommon variant of breast adenosis characterized by the presence of irregularly shaped glands..."
+}
+
+{
+  "Disease": "glycogen-rich clear cell breast carcinoma",
+  "Description": "an uncommon, usually aggressive adenocarcinoma of the breast characterized by the presence of cle..."
+}
+
+{
+  "Disease": "medullary breast carcinoma",
+  "Description": "an infiltrating breast carcinoma with a relatively favorable prognosis. it is an uncommon carcino..."
+}
+

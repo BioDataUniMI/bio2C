@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "autoinflammatory disease, systemic, with vasculitis",
+  "FDR": 0.00959547
+}
+
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "thyroid hormone metabolism, abnormal, 3",
+  "FDR": 0.00959547
+}
+
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "muscular dystrophy, congenital, with or without seizures",
+  "FDR": 0.00959547
+}
+
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "mitochondrial complex 3 deficiency, nuclear type 11",
+  "FDR": 0.00959547
+}
+
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "developmental delay, impaired speech, and behavioral abnormalities",
+  "FDR": 0.00959547
+}
+

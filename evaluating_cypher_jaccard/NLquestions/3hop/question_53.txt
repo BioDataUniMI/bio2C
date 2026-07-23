@@ -1,0 +1,1 @@
+Identify the label of diseases whose description contains the string 'tend to metastasize to other anatomic sites', together with their associated phenotypes' labels (use the 'has_phenotype' relationship type) and the labels of cancers that are classified as subclasses of those diseases.

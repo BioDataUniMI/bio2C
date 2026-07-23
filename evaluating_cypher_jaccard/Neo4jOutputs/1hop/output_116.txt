@@ -1,0 +1,25 @@
+{
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "miRNA": "hsa-miR-511-3p"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "miRNA": "microRNA hsa-mir-1202 precursor"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "miRNA": "hsa-miR-197-3p"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "miRNA": "hsa-miR-146a-5p"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "miRNA": "hsa-miR-9-3p"
+}
+

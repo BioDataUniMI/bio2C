@@ -1,0 +1,1 @@
+Return genes have labels starting with 'MIR43' and have genomic coordinates starting with 'chr17'.

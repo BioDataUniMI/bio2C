@@ -1,0 +1,30 @@
+{
+  "regulation_scope": "direct",
+  "relationship_type": "directly_negatively_regulated_by",
+  "total": 65
+}
+
+{
+  "regulation_scope": "direct",
+  "relationship_type": "directly_positively_regulated_by",
+  "total": 57
+}
+
+{
+  "regulation_scope": "direct",
+  "relationship_type": "directly_regulated_by",
+  "total": 36
+}
+
+{
+  "regulation_scope": "indirect",
+  "relationship_type": "regulated_by",
+  "total": 15
+}
+
+{
+  "regulation_scope": "indirect",
+  "relationship_type": "negatively_regulated_by",
+  "total": 9
+}
+

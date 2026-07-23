@@ -1,0 +1,1 @@
+Which miRNAs develop from precursor miRNAs that participate in biological processes whose descriptions contain 'auditory stimulus' and that have phenotypic characteristics whose description contains 'unilateral'? Return the miRNA label, precursor miRNA label, biological process label, and phenotype label.

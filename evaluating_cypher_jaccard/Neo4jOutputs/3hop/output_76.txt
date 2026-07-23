@@ -1,0 +1,40 @@
+{
+  "CellularComponent": "integrin complex",
+  "BiologicalProcess": "cell adhesion mediated by integrin",
+  "miRNA": "hsa-miR-17-3p",
+  "Disease": "medullary thyroid gland carcinoma",
+  "FDR": 0.008199171
+}
+
+{
+  "CellularComponent": "integrin complex",
+  "BiologicalProcess": "cell adhesion mediated by integrin",
+  "miRNA": "hsa-miR-17-3p",
+  "Disease": "pancreatic adenocarcinoma",
+  "FDR": 0.008109725
+}
+
+{
+  "CellularComponent": "integrin complex",
+  "BiologicalProcess": "cell adhesion mediated by integrin",
+  "miRNA": "hsa-miR-126-3p",
+  "Disease": "oral cavity squamous cell carcinoma",
+  "FDR": 0.008921436
+}
+
+{
+  "CellularComponent": "integrin complex",
+  "BiologicalProcess": "cell adhesion mediated by integrin",
+  "miRNA": "hsa-miR-192-5p",
+  "Disease": "melanoma",
+  "FDR": 0.008037059
+}
+
+{
+  "CellularComponent": "integrin complex",
+  "BiologicalProcess": "cell adhesion mediated by integrin",
+  "miRNA": "hsa-miR-489-3p",
+  "Disease": "carcinoma of esophagus",
+  "FDR": 0.008724864
+}
+

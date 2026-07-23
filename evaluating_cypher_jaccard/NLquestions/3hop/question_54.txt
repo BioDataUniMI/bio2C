@@ -1,0 +1,1 @@
+Consider cancers that share features of other cancers (cancer1->cancer2). What diseases is c2 subclass of? Moreover, count the number of phenotypes of c2. Return the label of: the cancers (c1 and c2), the parent disease, and the phenotype count.

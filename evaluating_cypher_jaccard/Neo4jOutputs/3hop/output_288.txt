@@ -1,0 +1,18 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-671 precursor",
+  "Phenotype": "Abnormal bone ossification",
+  "GOterm": "ossification"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-671 precursor",
+  "Phenotype": "Growth delay",
+  "GOterm": "growth"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-671 precursor",
+  "Phenotype": "Abnormality of vision",
+  "GOterm": "visual perception"
+}
+

@@ -1,0 +1,15 @@
+{
+  "GO_Description": "the process in which a relatively unspecialized cell acquires specialized features of a blood ves...",
+  "miRNA": "hsa-miR-21-5p"
+}
+
+{
+  "GO_Description": "the process in which the anatomical structures of blood vessels are generated and organized. the ...",
+  "miRNA": "hsa-miR-21-5p"
+}
+
+{
+  "GO_Description": "a developmental process, independent of morphogenetic (shape) change, that is required for a bloo...",
+  "miRNA": "hsa-miR-21-5p"
+}
+

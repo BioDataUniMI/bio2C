@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WHERE SIZE(m.Sequence) = 22 AND c.Description STARTS WITH 'failure of the heart' RETURN m.Label AS miRNA, c.Label AS Disease, c.Description AS Description

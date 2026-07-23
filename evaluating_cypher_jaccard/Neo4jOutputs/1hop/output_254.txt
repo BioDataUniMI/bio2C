@@ -1,0 +1,18 @@
+{
+  "m.Label": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "r": [
+    {},
+    "transcribed_to",
+    {}
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "r": [
+    {},
+    "transcribed_to",
+    {}
+  ]
+}
+

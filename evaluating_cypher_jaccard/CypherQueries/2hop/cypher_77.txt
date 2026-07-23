@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:expressed_in]-(m:miRNA)-[:over_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'colon' AND c.Label CONTAINS 'malignant' RETURN d.Label AS Disease, m.Label AS miRNA, c.Label AS Cancer

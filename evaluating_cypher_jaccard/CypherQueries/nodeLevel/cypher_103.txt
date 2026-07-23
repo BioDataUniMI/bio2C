@@ -1,0 +1,1 @@
+MATCH (g:Gene) RETURN AVG(SIZE(g.Synonym)) AS AverageSynonymCount

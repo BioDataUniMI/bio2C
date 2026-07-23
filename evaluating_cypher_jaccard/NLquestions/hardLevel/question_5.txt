@@ -1,0 +1,1 @@
+Consider the pre-miRNA labeled as 'microRNA hsa-mir-127 precursor'. Count of cytosine ('C') nucleotides in its sequence and list all associated phenotypes in which it is under-expressed. Return the pre-miRNA label, the count of cytosine ('C') nucleotides in its sequence, and the list of phenotypes' label.

@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.Description CONTAINS 'some authors' RETURN c.Label AS CancerLabel, c.ID AS ID

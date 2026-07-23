@@ -1,0 +1,1 @@
+Identify pre-miRNAs that have a biological process function, where that biological process has as a part the GO term labeled as 'angiogenesis involved in wound healing', and this GO term has the miRNA 'hsa-miR-9-5p' as a participant. Return the pre-miRNA label, the biological process label, and the GO term label.

@@ -1,0 +1,1 @@
+Identify miRNAs that develop from pre-miRNAs whose labels contain “181b” and are located in the cellular component labeled “extracellular exosome”, and the GO terms that this cellular component is part of. Return the labels of the pre-miRNA, the miRNA, and the GO term.

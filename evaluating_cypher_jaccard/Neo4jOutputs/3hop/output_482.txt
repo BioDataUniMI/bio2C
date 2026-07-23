@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-92a-3p",
+  "Acts_Upstream_Of": "blood vessel diameter maintenance",
+  "Not_Involved_In": "negative regulation of endothelial cell proliferation",
+  "Is_Active_In": "mRNA base-pairing translational repressor activity"
+}
+
+{
+  "miRNA": "hsa-miR-92a-3p",
+  "Acts_Upstream_Of": "blood vessel diameter maintenance",
+  "Not_Involved_In": "negative regulation of endothelial cell proliferation",
+  "Is_Active_In": "mRNA 3'-UTR binding"
+}
+

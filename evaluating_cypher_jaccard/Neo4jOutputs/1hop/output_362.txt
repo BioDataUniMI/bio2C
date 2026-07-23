@@ -1,0 +1,25 @@
+{
+  "Disease": "malignant glioma",
+  "miRNA": "microRNA hsa-mir-638 precursor"
+}
+
+{
+  "Disease": "colorectal carcinoma",
+  "miRNA": "microRNA hsa-mir-638 precursor"
+}
+
+{
+  "Disease": "glioma",
+  "miRNA": "microRNA hsa-mir-638 precursor"
+}
+
+{
+  "Disease": "basal cell carcinoma",
+  "miRNA": "microRNA hsa-mir-638 precursor"
+}
+
+{
+  "Disease": "osteosarcoma",
+  "miRNA": "microRNA hsa-mir-638 precursor"
+}
+

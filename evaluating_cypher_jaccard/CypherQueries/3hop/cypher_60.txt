@@ -1,0 +1,1 @@
+MATCH (c:Cardiovascular_disease {Label:'Emery-Dreifuss muscular dystrophy 2, autosomal dominant'})-[:disease_shares_features_of]->(d1:Disease)-[:has_phenotype]->(p1:Phenotype)-[:has_modifier]->(p2:Phenotype {Label: 'pathological'}) RETURN d1.Label AS related_disease, p1.Label AS phenotype

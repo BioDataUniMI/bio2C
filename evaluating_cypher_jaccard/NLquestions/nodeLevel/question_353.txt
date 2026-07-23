@@ -1,0 +1,1 @@
+Find autoimmune diseases whose labels contain the string 'anemia' and whose descriptions contain the string 'aiha'.

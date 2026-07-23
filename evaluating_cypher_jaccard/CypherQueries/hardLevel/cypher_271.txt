@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:under_expressed_in]->(c:Cancer) WITH p, c, SIZE(p.Sequence) AS sequence_length ORDER BY sequence_length DESC, p.Label ASC LIMIT 5 RETURN DISTINCT c.Label AS Cancer_label, p.Label AS pre_miRNA, sequence_length

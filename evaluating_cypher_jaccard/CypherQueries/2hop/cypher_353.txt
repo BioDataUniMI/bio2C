@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease)-[:disease_has_feature]->(p1:Phenotype)-[:subclassof]->(p2:Phenotype) WHERE ad.Label CONTAINS 'chronic' RETURN DISTINCT ad.Label, p1.Label, p2.Label

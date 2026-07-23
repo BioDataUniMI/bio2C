@@ -1,0 +1,23 @@
+{
+  "m.Label": "hsa-miR-520f-3p",
+  "x.Label": "lung adenocarcinoma",
+  "LABELS(x)": [
+    "Disease",
+    "Cancer"
+  ],
+  "r.Mutation": [
+    "COSN527062"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-520f-3p",
+  "x.Label": "Lung adenocarcinoma",
+  "LABELS(x)": [
+    "Phenotype"
+  ],
+  "r.Mutation": [
+    "COSN527062"
+  ]
+}
+

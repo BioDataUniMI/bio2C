@@ -1,0 +1,1 @@
+Count how many diseases of each type ('Autoimmune', 'Infectious', 'Cancer', 'Neurodegenerative', 'Cardiovascular', 'Mental', or 'Other') are caused or contributed to by the precursor microRNA labeled 'microRNA hsa-mir-222 precursor'.

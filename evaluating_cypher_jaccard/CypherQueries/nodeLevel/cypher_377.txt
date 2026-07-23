@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease) WHERE NOT i.Label ENDS WITH 'osis' AND (i.Description CONTAINS 'mortality' OR i.Description CONTAINS 'death') RETURN i.Label AS DiseaseLabel

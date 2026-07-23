@@ -1,0 +1,25 @@
+{
+  "Disease": "diarrheal disease secondary to altered bowel motility",
+  "Phenotype": "Abnormal gastrointestinal motility"
+}
+
+{
+  "Disease": "autoimmune neuropathy",
+  "Phenotype": "Autoimmunity"
+}
+
+{
+  "Disease": "autoimmune disease of ear, nose and throat",
+  "Phenotype": "Autoimmunity"
+}
+
+{
+  "Disease": "renal hypertension",
+  "Phenotype": "Renal artery stenosis"
+}
+
+{
+  "Disease": "keratomalacia",
+  "Phenotype": "Reduced circulating vitamin A concentration"
+}
+

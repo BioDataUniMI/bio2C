@@ -1,0 +1,1 @@
+Which GO terms are parts of cellular components in which the miRNA 'hsa-miR-205-5p' is located? Return the label of the: cellular components and GO terms.

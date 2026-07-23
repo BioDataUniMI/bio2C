@@ -1,0 +1,45 @@
+{
+  "Similar_to": "microRNA 320c-2 (ENSG00000212051.1)",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ],
+  "Source_Sequence_Length": 48
+}
+
+{
+  "Similar_to": "microRNA 320d-2 (ENSG00000221081.1)",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ],
+  "Source_Sequence_Length": 48
+}
+
+{
+  "Similar_to": "microRNA 320e (ENSG00000211513.5)",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ],
+  "Source_Sequence_Length": 48
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-320a precursor",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ],
+  "Source_Sequence_Length": 48
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ],
+  "Source_Sequence_Length": 48
+}
+

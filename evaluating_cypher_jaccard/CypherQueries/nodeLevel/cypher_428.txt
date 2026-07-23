@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'dopamine' AND g.Description CONTAINS 'catalysis' AND g.Description CONTAINS '+' RETURN DISTINCT g.Label, g.Description

@@ -1,0 +1,20 @@
+{
+  "bp.Label": "cardiac muscle cell fate commitment"
+}
+
+{
+  "bp.Label": "regulation of membrane repolarization during ventricular cardiac muscle cell action potential"
+}
+
+{
+  "bp.Label": "cardiac muscle myoblast proliferation"
+}
+
+{
+  "bp.Label": "atrial cardiac muscle cell membrane repolarization"
+}
+
+{
+  "bp.Label": "regulation of voltage-gated potassium channel activity involved in atrial cardiac muscle cell act..."
+}
+

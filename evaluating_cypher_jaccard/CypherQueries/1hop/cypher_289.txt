@@ -1,0 +1,1 @@
+MATCH (cc1:Cellular_component)-[:adjacent_to]->(cc2:Cellular_component) RETURN DISTINCT cc1.Label AS Component, cc2.Label AS AdjacentComponent

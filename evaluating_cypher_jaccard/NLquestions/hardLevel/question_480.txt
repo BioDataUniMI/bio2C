@@ -1,0 +1,1 @@
+Retrieve all phenotypes whose label contains the word 'creatine' and that have at least one synonym containing the word 'creatina'. Return only the phenotype label and its list of synonyms containing the word 'creatina'.

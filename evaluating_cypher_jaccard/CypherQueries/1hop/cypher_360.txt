@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE SIZE(m.Sequence) > 25 AND r.`p-value` < 0.05 RETURN d.Label

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype {Label:'Fine hair'}) WHERE m.Label ENDS WITH '620' AND d.Label CONTAINS 'malignant' RETURN m.Label AS miRNA, c.Label AS Cancer, d.Label AS ParentDisease, r.FDR AS FDR, p.Label AS Phenotype

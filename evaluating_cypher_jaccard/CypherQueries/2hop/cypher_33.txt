@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_material_basis_in_somatic_mutation_in]->(m:miRNA)-[:participates_in]->(bp:Biological_process {Label:'cellular response to oxygen levels'}) RETURN c.Label AS Cancer, m.Label AS miRNA

@@ -1,0 +1,15 @@
+{
+  "CardiovascularDisease": "persistent truncus arteriosus",
+  "Phenotype": "Truncus arteriosus"
+}
+
+{
+  "CardiovascularDisease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "CardiovascularDisease": "Timothy syndrome",
+  "Phenotype": "Tachycardia"
+}
+

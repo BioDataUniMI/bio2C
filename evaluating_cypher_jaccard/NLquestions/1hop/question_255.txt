@@ -1,0 +1,1 @@
+Return miRNA-gene regulation edges, such that the 'miRNA regulate the activity of genes' relationships are supported by at least ten experimental methods.

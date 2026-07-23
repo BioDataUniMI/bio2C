@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-6081",
+  "Disease": "childhood kidney neoplasm"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4733 precursor",
+  "Disease": "childhood kidney neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-6516-5p",
+  "Disease": "childhood kidney neoplasm"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4796 precursor",
+  "Disease": "childhood kidney neoplasm"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4280 precursor",
+  "Disease": "childhood kidney neoplasm"
+}
+

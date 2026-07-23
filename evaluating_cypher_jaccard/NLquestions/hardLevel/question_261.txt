@@ -1,0 +1,1 @@
+For all miRNAs that are causal germline mutations in diseases, count the number of A and U nucleotides in their sequence. Return the miRNA label, disease label, and AU count.

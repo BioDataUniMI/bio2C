@@ -1,0 +1,1 @@
+Find autoimmune diseases whose labels contain 'sclerosis' and whose label or description contains either 'rare' or 'acute'. Return only labels and IDs.

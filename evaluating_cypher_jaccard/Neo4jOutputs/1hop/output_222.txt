@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "Term": "cell cycle G2/M phase transition"
+}
+
+{
+  "miRNA": "hsa-miR-302a-3p",
+  "Term": "cell cycle G2/M phase transition"
+}
+
+{
+  "miRNA": "hsa-miR-424-5p",
+  "Term": "cell cycle G2/M phase transition"
+}
+
+{
+  "miRNA": "hsa-miR-503-5p",
+  "Term": "cell cycle G2/M phase transition"
+}
+
+{
+  "miRNA": "hsa-miR-497-5p",
+  "Term": "cell cycle G2/M phase transition"
+}
+

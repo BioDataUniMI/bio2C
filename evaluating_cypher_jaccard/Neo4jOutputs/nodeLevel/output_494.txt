@@ -1,0 +1,42 @@
+{
+  "m.Label": "hsa-miR-3202",
+  "m.Genomic_coordinates": [
+    "chrX:153981148-153981169-",
+    "chrX:153981105-153981126+"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-4536-3p",
+  "m.Genomic_coordinates": [
+    "chrX:55451495-55451515-",
+    "chrX:55451562-55451582+"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-4536-5p",
+  "m.Genomic_coordinates": [
+    "chrX:55451561-55451581-",
+    "chrX:55451496-55451516+"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-1184 precursor (hsa-mir-1184 1 to 3)",
+  "m.Genomic_coordinates": [
+    "chrX:155383100-155383198-",
+    "chrX:154887360-154887458-",
+    "chrX:155457517-155457615+"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-1184",
+  "m.Genomic_coordinates": [
+    "chrX:154887376-154887398-",
+    "chrX:155457577-155457599+",
+    "chrX:155383116-155383138-"
+  ]
+}
+

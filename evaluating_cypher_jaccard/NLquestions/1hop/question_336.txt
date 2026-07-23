@@ -1,0 +1,1 @@
+Count molecular functions that have regulatory relationships ('regulates' or 'regulated_by') and whose description contains the word 'protein'.

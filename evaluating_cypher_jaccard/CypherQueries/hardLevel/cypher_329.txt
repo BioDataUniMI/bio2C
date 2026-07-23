@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:disease_causes_disruption_of]->(go:GO)-[:function_of]->(m:miRNA)-[:transcribed_from]->(g:Gene) WITH DISTINCT c.Label AS Cancer, go.Label AS Disrupted_GO, m.Label AS miRNA, g.Label AS Gene, RIGHT(g.Label, 1) AS LastLetter RETURN Cancer, Disrupted_GO, miRNA, Gene ORDER BY LastLetter ASC, Gene ASC

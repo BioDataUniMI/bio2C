@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'autism' (case-insensitive) that are caused or contributed by miRNAs through genes that have a three-character label.

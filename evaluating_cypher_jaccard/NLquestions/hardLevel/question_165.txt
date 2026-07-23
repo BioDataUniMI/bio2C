@@ -1,0 +1,1 @@
+Find the top 3 shortest miRNAs with the maximum number of 'C' nucleotides in their sequence that are over-expressed in a biological process. In case of ties, order the miRNAs alphabetically. Return the miRNA label, biological process label, sequence length, and C count.

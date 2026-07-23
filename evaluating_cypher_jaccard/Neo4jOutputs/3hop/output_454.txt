@@ -1,0 +1,28 @@
+{
+  "Gene1": "LOC102724334",
+  "Gene2": "H2BC4",
+  "Cancer": "lung carcinoma",
+  "FeaturePhenotype": "Weight loss"
+}
+
+{
+  "Gene1": "LOC102724334",
+  "Gene2": "H2BC4",
+  "Cancer": "lung carcinoma",
+  "FeaturePhenotype": "Hemoptysis"
+}
+
+{
+  "Gene1": "LOC102724334",
+  "Gene2": "H2BC4",
+  "Cancer": "lung cancer",
+  "FeaturePhenotype": "Cough"
+}
+
+{
+  "Gene1": "LOC102724334",
+  "Gene2": "H2BC4",
+  "Cancer": "lung cancer",
+  "FeaturePhenotype": "Wheezing"
+}
+

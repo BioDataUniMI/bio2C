@@ -1,0 +1,1 @@
+Retrieve labels and URIs of the phenotypes whose labels contain either 'BB' or 'MM'.

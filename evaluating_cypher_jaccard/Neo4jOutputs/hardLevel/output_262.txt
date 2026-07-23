@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-424-5p",
+  "num_genes": 235
+}
+
+{
+  "miRNA": "hsa-miR-497-5p",
+  "num_genes": 228
+}
+
+{
+  "miRNA": "hsa-miR-15b-5p",
+  "num_genes": 222
+}
+
+{
+  "miRNA": "hsa-miR-16-5p",
+  "num_genes": 241
+}
+
+{
+  "miRNA": "hsa-miR-942-5p",
+  "num_genes": 200
+}
+

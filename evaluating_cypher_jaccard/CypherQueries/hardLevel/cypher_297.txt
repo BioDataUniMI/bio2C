@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:transcribed_from]->(g:Gene) WITH m, COLLECT(DISTINCT g.Label) AS genes WHERE SIZE(genes) > 1 RETURN m.Label AS miRNA, genes

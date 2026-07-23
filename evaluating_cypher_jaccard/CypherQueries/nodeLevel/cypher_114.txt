@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE cd.Description CONTAINS 'tachycardia' AND cd.Description CONTAINS 'gene' RETURN cd.Label AS Cardiovascular_disease, cd.Description AS Description

@@ -1,0 +1,1 @@
+Which phenotypes characterize GO terms that are part of the biological process labeled as 'copulation' where those biological processes have miRNA participant? Return the phenotype labels, GO term labels and miRNA label.

@@ -1,0 +1,1 @@
+MATCH (:Cardiovascular_disease)-[:disease_causes_disruption_of]->(x) RETURN HEAD(LABELS(x)) AS NodeType, COUNT(*) AS DisruptionCount ORDER BY DisruptionCount DESC

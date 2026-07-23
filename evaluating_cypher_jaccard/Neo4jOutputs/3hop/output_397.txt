@@ -1,0 +1,11 @@
+{
+  "PROPERTIES(d)": {
+    "Description": "any peroxisomal single enzyme/protein defect that disrupts peroxisomal transport.",
+    "ID": "MONDO:0100372",
+    "Label": "disorder of peroxisomal transporter",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0100372"
+  },
+  "BiologicalProcess": "peroxisomal transport",
+  "CellularComponent": "intracellular anatomical structure"
+}
+

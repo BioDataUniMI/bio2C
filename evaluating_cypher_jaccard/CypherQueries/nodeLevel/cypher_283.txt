@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label =~ '^[BC-DF-GHJ-LMNP-QR-STV-Zbc-df-ghj-lmnp-qr-stv-z]+$' AND SIZE(g.Label) > 5 RETURN g.Label AS GeneLabel

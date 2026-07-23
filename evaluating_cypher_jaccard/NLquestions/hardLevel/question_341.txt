@@ -1,0 +1,1 @@
+For each disease that has at least one phenotype, which biological processes are disrupted by the disease, and how many distinct miRNAs participate in those processes? Return labels of the diseases, biological processes, and the count of distinct miRNAs, ordered by the miRNA count in descending order.

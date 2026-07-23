@@ -1,0 +1,1 @@
+Identify the parent disease of the neurodegenerative disease labeled as 'Cockayne syndrome type 2' that has a 'Growth'-related feature phenotype.

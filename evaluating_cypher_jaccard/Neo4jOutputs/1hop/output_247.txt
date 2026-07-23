@@ -1,0 +1,20 @@
+{
+  "Disease": "squamous cell lung carcinoma"
+}
+
+{
+  "Disease": "breast carcinoma"
+}
+
+{
+  "Disease": "lung adenocarcinoma"
+}
+
+{
+  "Disease": "prostate adenocarcinoma"
+}
+
+{
+  "Disease": "exocrine pancreatic carcinoma"
+}
+

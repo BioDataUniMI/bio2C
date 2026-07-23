@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-328-5p",
+  "intermediateDisease": "malignant pancreatic neoplasm",
+  "targetDisease": "acute pancreatitis"
+}
+
+{
+  "miRNA": "hsa-miR-6821-5p",
+  "intermediateDisease": "malignant pancreatic neoplasm",
+  "targetDisease": "acute pancreatitis"
+}
+
+{
+  "miRNA": "hsa-miR-1225-5p",
+  "intermediateDisease": "malignant pancreatic neoplasm",
+  "targetDisease": "acute pancreatitis"
+}
+
+{
+  "miRNA": "hsa-miR-7107-5p",
+  "intermediateDisease": "malignant pancreatic neoplasm",
+  "targetDisease": "acute pancreatitis"
+}
+
+{
+  "miRNA": "hsa-miR-6891-5p",
+  "intermediateDisease": "malignant pancreatic neoplasm",
+  "targetDisease": "acute pancreatitis"
+}
+

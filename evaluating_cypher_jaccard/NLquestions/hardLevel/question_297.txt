@@ -1,0 +1,1 @@
+Which miRNAs are transcribed from multiple genes? Return miRNAs label and the collection of genes.

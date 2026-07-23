@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'social phobia'})-[:disease_causes_disruption_of]->(go:GO)-[:has_participant]->(m:miRNA) RETURN go.Label AS GO, m.Label AS miRNA

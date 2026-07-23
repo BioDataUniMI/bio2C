@@ -1,0 +1,1 @@
+Find the GO terms whose IDs end with '76668'.

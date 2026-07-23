@@ -1,0 +1,18 @@
+{
+  "PreMiRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "Gene": "MIR1302-11",
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)"
+}
+
+{
+  "PreMiRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "Gene": "MIR1302-10",
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)"
+}
+
+{
+  "PreMiRNA": "microRNA hsa-mir-8069 precursor (hsa-mir-8069-1%2C hsa-mir-8069-2)",
+  "Gene": "hsa-mir-8069-1",
+  "miRNA": "microRNA hsa-mir-8069 precursor (hsa-mir-8069-1%2C hsa-mir-8069-2)"
+}
+

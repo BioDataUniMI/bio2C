@@ -1,0 +1,5 @@
+{
+  "n.Label": "Alzheimer disease 19",
+  "n.Description": "any alzheimer disease in which the cause of the disease is a mutation in the pld3 gene."
+}
+

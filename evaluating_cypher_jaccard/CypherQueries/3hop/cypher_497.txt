@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:disease_has_feature]->(p2:Phenotype)-[:characteristic_of]->(go1:GO)-[:has_part]->(go2:GO) RETURN nd.Label AS NeurodegenerativeDisease, p2.Label AS Phenotype, go1.Label AS GOTerm, go2.Label AS PartGOTerm

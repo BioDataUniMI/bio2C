@@ -1,0 +1,1 @@
+Which neurodegenerative diseases are classified as subclasses of infectious diseases that have the phenotype labeled 'Paralysis'? Return the neurodegenerative disease and the corresponding infectious disease labels.

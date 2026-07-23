@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:over_expressed_in]->(ad:Autoimmune_disease {Label:'multiple sclerosis'}) RETURN g.Label AS Gene, pre.Label AS Pre_miRNA

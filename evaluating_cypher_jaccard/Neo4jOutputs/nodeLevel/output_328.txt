@@ -1,0 +1,10 @@
+{
+  "CancerLabel": "anti-NMDA receptor encephalitis",
+  "Classifications": [
+    "Disease",
+    "Cancer",
+    "Infectious_disease",
+    "Autoimmune_disease"
+  ]
+}
+

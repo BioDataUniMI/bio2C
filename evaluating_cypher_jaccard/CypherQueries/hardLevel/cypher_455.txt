@@ -1,0 +1,1 @@
+MATCH (g:Gene) WITH g.Label AS gene, SIZE(g.Sequence) AS len ORDER BY len WITH COLLECT({gene: gene, len: len}) AS rows UNWIND (rows[0..10] + rows[-10..]) AS r RETURN r.gene AS gene, r.len AS length 

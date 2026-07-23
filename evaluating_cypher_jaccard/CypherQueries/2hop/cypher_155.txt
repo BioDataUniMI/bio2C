@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(p:pre_miRNA) WHERE g.Label CONTAINS '999' RETURN m.Label AS miRNA, g.Label AS Gene, p.Label AS pre_miRNA

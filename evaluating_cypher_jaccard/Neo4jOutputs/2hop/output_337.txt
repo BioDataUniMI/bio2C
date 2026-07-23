@@ -1,0 +1,60 @@
+{
+  "miRNA": "hsa-miR-1181",
+  "Cancer": "urinary bladder small cell neuroendocrine carcinoma",
+  "Method": [
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1181",
+  "Cancer": "small cell carcinoma",
+  "Method": [
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1181",
+  "Cancer": "small cell lung carcinoma",
+  "Method": [
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1181",
+  "Cancer": "non-small cell lung carcinoma",
+  "Method": [
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1181",
+  "Cancer": "minimally invasive lung adenocarcinoma",
+  "Method": [
+    "immunoprecipitaion",
+    "flow",
+    "western blotting",
+    "luciferase reporter assay",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+

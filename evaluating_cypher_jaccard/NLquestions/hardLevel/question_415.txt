@@ -1,0 +1,1 @@
+Which miRNAs that cause or contribute diseases have at least one genomic coordinate on chromosome 1 whose start position lies within the first 1,000,000 base pairs of the chromosome? Return the labels of miRNA and disease.

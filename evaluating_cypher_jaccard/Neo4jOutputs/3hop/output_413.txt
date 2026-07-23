@@ -1,0 +1,28 @@
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung neoplasm"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung cancer"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung carcinoma"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung benign neoplasm"
+}
+

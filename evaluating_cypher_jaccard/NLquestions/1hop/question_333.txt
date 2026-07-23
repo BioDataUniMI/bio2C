@@ -1,0 +1,1 @@
+Return all GO terms described in terms of both 'blood' and 'enzyme' and that are not part of relationships. Return ONLY the label and sort the result set from the longest description.

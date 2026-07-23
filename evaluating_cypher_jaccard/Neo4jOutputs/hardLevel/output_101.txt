@@ -1,0 +1,15 @@
+{
+  "pre_miRNA": "hsa-miR-34a-5p",
+  "Genomic_coordinates": [
+    "chr1:9151735-9151756-"
+  ]
+}
+
+{
+  "pre_miRNA": "hsa-miR-181a-5p",
+  "Genomic_coordinates": [
+    "chr9:124692480-124692502+",
+    "chr1:198859108-198859130-"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Find all miRNAs that participate in molecular functions and have at least two occurrences of the string 'AA' in their sequence. Return miRNA label, sequence, and associated molecular function label.

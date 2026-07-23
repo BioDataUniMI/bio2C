@@ -1,0 +1,1 @@
+Among diseases that are subclasses of cancer, which disease(s) have the highest number of distinct miRNAs that are expressed, under-expressed, or over-expressed (including ties)? Return the disease label and the number of distinct miRNAs.

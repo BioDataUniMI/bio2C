@@ -1,0 +1,1 @@
+Which phenotypes belong to diseases that share features with cancers, excluding those related to 'nevus of Ota' and excluding phenotypes whose label contains 'Abnormal ' (be careful about the space at the end of the word)? Return the label of phenotype, disease and cancer.

@@ -1,0 +1,1 @@
+Count the number of distinct genes in each position of gene pairs that genetically interact and cause or contribute to diseases containing the word 'liver' in their label.

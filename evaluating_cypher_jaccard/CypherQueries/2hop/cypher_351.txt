@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease {Label:'COFS syndrome'})-[:subclassof]->(d:Disease)-[:disease_has_feature]->(p:Phenotype) WHERE p.Label CONTAINS 'delay' OR p.Description CONTAINS 'delay' RETURN p.Label as Phenotype, d.Label AS ParentDisease

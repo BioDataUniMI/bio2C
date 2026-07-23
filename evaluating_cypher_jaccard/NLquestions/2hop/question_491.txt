@@ -1,0 +1,1 @@
+Find all miRNAs with sequence length less than 20 nucleotides that directly regulate pre-miRNAs which cause or contribute to a disease. Return the miRNA and the pre-miRNA labels and the miRNA sequence length.

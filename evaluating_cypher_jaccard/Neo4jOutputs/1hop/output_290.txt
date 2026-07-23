@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "adenyl-nucleotide exchange factor activity",
+  "TargetCount": 1
+}
+
+{
+  "MolecularFunction": "enzyme inhibitor activity",
+  "TargetCount": 1
+}
+
+{
+  "MolecularFunction": "dUTP pyrophosphatase inhibitor activity",
+  "TargetCount": 1
+}
+
+{
+  "MolecularFunction": "phospholipase inhibitor activity",
+  "TargetCount": 1
+}
+
+{
+  "MolecularFunction": "protein kinase inhibitor activity",
+  "TargetCount": 1
+}
+

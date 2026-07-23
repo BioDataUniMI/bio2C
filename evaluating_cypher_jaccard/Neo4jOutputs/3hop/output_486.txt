@@ -1,0 +1,25 @@
+{
+  "CardiovascularDisease": "Timothy syndrome",
+  "PhenotypeCount": 3
+}
+
+{
+  "CardiovascularDisease": "X-linked scapuloperoneal muscular dystrophy",
+  "PhenotypeCount": 1
+}
+
+{
+  "CardiovascularDisease": "congenital myopathy 7A, myosin storage, autosomal dominant",
+  "PhenotypeCount": 1
+}
+
+{
+  "CardiovascularDisease": "congestive heart failure",
+  "PhenotypeCount": 1
+}
+
+{
+  "CardiovascularDisease": "myocardial infarction",
+  "PhenotypeCount": 1
+}
+

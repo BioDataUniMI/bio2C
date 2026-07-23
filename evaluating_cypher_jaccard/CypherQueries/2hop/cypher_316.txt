@@ -1,0 +1,1 @@
+MATCH (cv:Cardiovascular_disease {Label:'sick sinus syndrome'})-[:disease_has_feature]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN p.Label AS Phenotype, go.Label AS GOterm

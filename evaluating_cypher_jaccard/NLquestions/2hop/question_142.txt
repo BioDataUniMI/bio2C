@@ -1,0 +1,1 @@
+For each cancer, count the number of cases where a miRNA is under-expressed and the same cancer expresses a miRNA located on chromosome 9.

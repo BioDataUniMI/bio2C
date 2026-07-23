@@ -1,0 +1,12 @@
+{
+  "Disease": "auditory agnosia",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-762 precursor"
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-762 precursor"
+}
+

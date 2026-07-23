@@ -1,0 +1,35 @@
+{
+  "Path": [
+    "Small cell lung carcinoma",
+    "Neoplasm of the lung"
+  ]
+}
+
+{
+  "Path": [
+    "Squamous cell lung carcinoma",
+    "Non-small cell lung carcinoma"
+  ]
+}
+
+{
+  "Path": [
+    "Lung adenocarcinoma",
+    "Non-small cell lung carcinoma"
+  ]
+}
+
+{
+  "Path": [
+    "Non-small cell lung carcinoma",
+    "Neoplasm of the lung"
+  ]
+}
+
+{
+  "Path": [
+    "Large cell lung carcinoma",
+    "Non-small cell lung carcinoma"
+  ]
+}
+

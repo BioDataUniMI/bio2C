@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r:causes_or_contributes_to_condition]->(c:Cancer) WITH g, c, SIZE(SPLIT(g.Sequence, 'T')) - 1 AS T_count ORDER BY T_count DESC, g.Label ASC, c.Label ASC LIMIT 3 RETURN DISTINCT g.Label AS Gene, c.Label AS Cancer, T_count

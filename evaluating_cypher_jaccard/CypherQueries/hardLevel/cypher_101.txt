@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease) WHERE ANY(mth IN r.Method WHERE mth = 'northern blotting') AND ANY(src IN r.Source WHERE src = 'miR2Disease') AND m.Label ENDS WITH 'a-5p' AND d.Description CONTAINS 'the most malignant' RETURN DISTINCT m.Label AS pre_miRNA, m.Genomic_coordinates AS Genomic_coordinates

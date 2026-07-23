@@ -1,0 +1,20 @@
+{
+  "Disease": "postpartum thyroiditis"
+}
+
+{
+  "Disease": "autoimmune hypoparathyroidism"
+}
+
+{
+  "Disease": "hypoparathyroidism"
+}
+
+{
+  "Disease": "Hashimoto thyroiditis"
+}
+
+{
+  "Disease": "atrophic thyroiditis"
+}
+

@@ -1,0 +1,1 @@
+Retrieve genes that transcribe pre-miRNAs ending with the string '0b precursor', and their mature miRNAs that are over-expressed in diseases with 'pediatric' in their label. Return the gene label, pre-miRNA label, miRNA label, and disease label.

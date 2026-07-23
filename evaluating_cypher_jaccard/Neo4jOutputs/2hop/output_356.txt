@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-4715-3p",
+  "TargetGene": "AURKA",
+  "Disease": "neuropathy, congenital hypomyelinating, 3"
+}
+
+{
+  "miRNA": "hsa-miR-4715-3p",
+  "TargetGene": "AURKA",
+  "Disease": "neuropathy, congenital hypomyelinating, 2"
+}
+
+{
+  "miRNA": "hsa-miR-377-3p",
+  "TargetGene": "SOD2",
+  "Disease": "neuropathy, congenital hypomyelinating, 3"
+}
+
+{
+  "miRNA": "hsa-miR-377-3p",
+  "TargetGene": "SOD2",
+  "Disease": "neuropathy, congenital hypomyelinating, 2"
+}
+
+{
+  "miRNA": "hsa-miR-212-3p",
+  "TargetGene": "SOD2",
+  "Disease": "neuropathy, congenital hypomyelinating, 3"
+}
+

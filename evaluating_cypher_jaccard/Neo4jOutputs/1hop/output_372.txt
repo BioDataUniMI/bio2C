@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-93 precursor",
+  "Disease": "severe acute respiratory syndrome",
+  "DiseaseType": null
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)",
+  "Disease": "severe acute respiratory syndrome",
+  "DiseaseType": null
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200c precursor",
+  "Disease": "severe acute respiratory syndrome",
+  "DiseaseType": null
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1236 precursor",
+  "Disease": "severe acute respiratory syndrome",
+  "DiseaseType": null
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1246 precursor",
+  "Disease": "severe acute respiratory syndrome",
+  "DiseaseType": null
+}
+

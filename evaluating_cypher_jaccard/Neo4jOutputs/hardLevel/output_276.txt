@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-365b precursor",
+  "Number_of_Neurodegenerative_Diseases": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4449 precursor",
+  "Number_of_Neurodegenerative_Diseases": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-142 precursor",
+  "Number_of_Neurodegenerative_Diseases": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-137 precursor",
+  "Number_of_Neurodegenerative_Diseases": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4286 precursor",
+  "Number_of_Neurodegenerative_Diseases": 2
+}
+

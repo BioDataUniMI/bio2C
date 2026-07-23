@@ -1,0 +1,1 @@
+Identify genes with activity regulated by miRNAs that cause or contribute to phenotypes feature of the disease labeled as 'toxic shock syndrome'. Return the phenotype label, gene label, and miRNA label.

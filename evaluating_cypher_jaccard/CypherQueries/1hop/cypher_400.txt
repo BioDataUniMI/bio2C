@@ -1,0 +1,1 @@
+MATCH (g:GO)<-[:directly_regulates]-(:Molecular_function) WHERE g.Label CONTAINS 'cyclase' RETURN g.Label AS GO

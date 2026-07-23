@@ -1,0 +1,1 @@
+Which diseases whose label contains the number '72b' are characterized by at least one phenotype and are subclasses of neurodegenerative diseases, where the superclass disease has the 'Lower limb hyperreflexia' as phenotype? Return the disease phenotype label, the disease label, the neurodegenerative superclass label, and the superclass phenotype label.

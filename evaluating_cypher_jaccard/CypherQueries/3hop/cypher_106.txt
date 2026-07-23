@@ -1,0 +1,1 @@
+MATCH (premirna:pre_miRNA)-[:develops_into]->(mirna:miRNA {Label:'hsa-miR-708-5p'})-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(ad:Autoimmune_disease) WHERE NOT ad.Label CONTAINS 'diabete' RETURN premirna.Label AS Pre_miRNA, g.Label AS Gene, ad.Label AS AutoimmuneDisease

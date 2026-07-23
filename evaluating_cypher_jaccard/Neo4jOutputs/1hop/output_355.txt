@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "cytosol",
+  "GOTerm": "Golgi to endosome transport"
+}
+
+{
+  "CellularComponent": "cytosol",
+  "GOTerm": "cytosolic transport"
+}
+
+{
+  "CellularComponent": "cytosol",
+  "GOTerm": "retrograde transport, endosome to Golgi"
+}
+
+{
+  "CellularComponent": "cytosol",
+  "GOTerm": "dense core granule transport"
+}
+
+{
+  "CellularComponent": "cytosol",
+  "GOTerm": "vesicle-mediated cholesterol transport"
+}
+

@@ -1,0 +1,1 @@
+Find biological processes whose labels contain 'bone marrow' and whose descriptions contain 'cell death'. Return their label and URI.

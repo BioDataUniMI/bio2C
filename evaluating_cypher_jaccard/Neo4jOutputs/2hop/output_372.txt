@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Small hand",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "Phenotype": "Malar prominence",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "Phenotype": "Uplifted earlobe",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "Phenotype": "Microtia",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "Phenotype": "Short stature",
+  "Cancer": "breast carcinoma"
+}
+

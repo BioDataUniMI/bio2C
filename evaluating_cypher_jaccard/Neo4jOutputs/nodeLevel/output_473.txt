@@ -1,0 +1,15 @@
+{
+  "cc.Label": "postsynaptic specialization of symmetric synapse, intracellular component",
+  "cc.ID": "GO:0099165"
+}
+
+{
+  "cc.Label": "postsynaptic specialization, intracellular component",
+  "cc.ID": "GO:0099091"
+}
+
+{
+  "cc.Label": "postsynaptic density, intracellular component",
+  "cc.ID": "GO:0099092"
+}
+

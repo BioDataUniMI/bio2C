@@ -1,0 +1,25 @@
+{
+  "Disease": "hypertrophic cardiomyopathy",
+  "Number_of_miRNAs": 40
+}
+
+{
+  "Disease": "heart failure",
+  "Number_of_miRNAs": 16
+}
+
+{
+  "Disease": "congestive heart failure",
+  "Number_of_miRNAs": 15
+}
+
+{
+  "Disease": "coronary artery disorder",
+  "Number_of_miRNAs": 7
+}
+
+{
+  "Disease": "myocardial infarction",
+  "Number_of_miRNAs": 5
+}
+

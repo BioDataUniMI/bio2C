@@ -1,0 +1,1 @@
+Find phenotypes that are part of a broader phenotypes whose label contains the word 'hemangioma'.

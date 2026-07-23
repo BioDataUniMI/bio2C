@@ -1,0 +1,1 @@
+Identify diseases that cause disruption of Gene Ontology terms which have biological process parts related to the heart, and report the corresponding diseases, disrupted GO terms, and biological processes.

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE ANY(s IN g.Synonym WHERE s CONTAINS 'transport') RETURN g.Label AS GO, g.ID AS GO_ID

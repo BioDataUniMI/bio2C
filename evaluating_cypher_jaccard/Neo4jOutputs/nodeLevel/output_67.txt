@@ -1,0 +1,10 @@
+{
+  "GO": "transport of viral material towards nucleus",
+  "Description": "the directed movement of a virus, or part of a virus, towards the host cell nucleus. the process ..."
+}
+
+{
+  "GO": "microtubule-dependent intracellular transport of viral material towards cell periphery",
+  "Description": "the directed movement of the viral genome or a viral particle towards the cell periphery using ho..."
+}
+

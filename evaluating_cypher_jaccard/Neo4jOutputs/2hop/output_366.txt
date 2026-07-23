@@ -1,0 +1,10 @@
+{
+  "Cancer": "small intestine neuroendocrine tumor, well differentiated, low or intermediate grade",
+  "Disease": "tumor grade 1 or 2, general grading system"
+}
+
+{
+  "Cancer": "glioblastoma",
+  "Disease": "tumor grade 4, general grading system"
+}
+

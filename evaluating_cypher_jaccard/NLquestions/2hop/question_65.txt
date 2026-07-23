@@ -1,0 +1,1 @@
+Which miRNAs are located in GO terms that are part of the cellular component labeled as 'endosome'? Return the miRNA label, GO term label, and cellular component label.

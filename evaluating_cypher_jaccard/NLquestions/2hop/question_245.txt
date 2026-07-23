@@ -1,0 +1,1 @@
+Identify diseases that are caused or contributed by genes regulated by miRNAs whose label ends with 'd'. Return the label of the miRNA, gene, and disease.

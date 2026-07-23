@@ -1,0 +1,1 @@
+MATCH (premirna:pre_miRNA)-[:develops_into]->(mirna:miRNA) WITH mirna, [coord IN mirna.Genomic_coordinates WHERE coord STARTS WITH 'chr8'] AS chr8_coords WHERE SIZE(chr8_coords) > 1 RETURN COUNT(DISTINCT mirna) AS miRNA_count

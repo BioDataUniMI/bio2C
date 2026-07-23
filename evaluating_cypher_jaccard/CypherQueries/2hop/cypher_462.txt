@@ -1,0 +1,1 @@
+MATCH (md:Mental_disease)-[:manifestation_of]->(x) WHERE x:Mental_disease OR x:Disease RETURN md.Label AS MentalDisease, x.Label AS Disease, LABELS(x) AS ManifestedFrom

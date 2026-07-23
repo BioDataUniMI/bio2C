@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE NOT pm.Label CONTAINS 'precursor' AND NOT pm.Label CONTAINS 'stem' RETURN pm.Label AS Pre_miRNA, pm.ID AS ID

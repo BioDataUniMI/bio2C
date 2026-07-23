@@ -1,0 +1,6 @@
+{
+  "Disease_ID": "MONDO:0007256",
+  "Disease_label": "hepatocellular carcinoma",
+  "Disease_description": "a malignant tumor that arises from hepatocytes. hepatocellular carcinoma is relatively rare in th..."
+}
+

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "Disease": "colorectal carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "Disease": "familial colorectal cancer"
+}
+
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "Disease": "malignant colon neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "Disease": "hepatocellular carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-10b-3p",
+  "Disease": "fibrolamellar hepatocellular carcinoma"
+}
+

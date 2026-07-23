@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:process_has_causal_agent]->(cc:Cellular_component) WHERE bp.Label CONTAINS 'signaling' RETURN bp.Label, cc.Label

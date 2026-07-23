@@ -1,0 +1,10 @@
+{
+  "NodeType": "Phenotype",
+  "ConnectionCount": 664
+}
+
+{
+  "NodeType": "Disease",
+  "ConnectionCount": 644
+}
+

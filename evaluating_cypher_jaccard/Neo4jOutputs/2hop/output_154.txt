@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-384",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+
+{
+  "miRNA": "hsa-miR-205-5p",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+
+{
+  "miRNA": "hsa-miR-302b-3p",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+
+{
+  "miRNA": "hsa-miR-34a-5p",
+  "Cancer": "uterine cervix carcinoma in situ"
+}
+

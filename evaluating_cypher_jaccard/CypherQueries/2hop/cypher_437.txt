@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(go:GO)-[:positively_regulates]->(mf:Molecular_function) WHERE mf.Label CONTAINS 'kinase' AND SIZE(m.Sequence) < 20 RETURN m.Label AS miRNA, go.Label AS GOTerm, mf.Label AS MolecularFunction, SIZE(m.Sequence)

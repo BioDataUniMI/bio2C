@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.ID =~ '.*0{5,}.*' RETURN c.Label AS CancerLabel, c.ID AS CancerID

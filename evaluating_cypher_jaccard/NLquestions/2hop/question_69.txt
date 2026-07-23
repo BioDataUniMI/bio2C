@@ -1,0 +1,1 @@
+list miRNAs located in cellular components that are part of the GO term labeled as 'somatodendritic compartment'.

@@ -1,0 +1,1 @@
+Retrieve the label of the parent phenotype of 'Breast carcinoma'.

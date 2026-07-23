@@ -1,0 +1,1 @@
+Find the infectious diseases whose description mentions 'psychotropic medications', and return its label and ID.

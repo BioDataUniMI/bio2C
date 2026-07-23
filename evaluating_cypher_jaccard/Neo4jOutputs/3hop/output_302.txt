@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "GOpart": "forebrain morphogenesis"
+}
+
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "GOpart": "forebrain astrocyte differentiation"
+}
+
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "GOpart": "cerebral cortex neuron differentiation"
+}
+
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "GOpart": "forebrain cell migration"
+}
+
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "GOpart": "forebrain generation of neurons"
+}
+

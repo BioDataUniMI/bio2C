@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:location_of]->(m:miRNA) WHERE cc.Label CONTAINS 'lipid' RETURN cc.Label AS CellularComponent, COUNT(m) AS SharedMiRNAs

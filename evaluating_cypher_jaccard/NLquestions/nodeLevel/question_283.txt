@@ -1,0 +1,1 @@
+Which genes have labels that contain only consonants and are longer than 5 characters?

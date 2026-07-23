@@ -1,0 +1,1 @@
+Which phenotypes are characterized by synonyms written in non-ASCII characters but that do include the string 'BB'.

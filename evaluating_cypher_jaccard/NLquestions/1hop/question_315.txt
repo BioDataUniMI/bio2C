@@ -1,0 +1,1 @@
+List GO terms without any 'part_of' relashionship with other GO terms and whose labels contain the string 'cis-acting'.

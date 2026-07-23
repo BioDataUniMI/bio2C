@@ -1,0 +1,1 @@
+Identify phenotypes whose label contains 'cerebellar' and that have at least 10 synonyms.

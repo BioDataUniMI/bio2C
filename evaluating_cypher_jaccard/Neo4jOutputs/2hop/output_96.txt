@@ -1,0 +1,15 @@
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "DiseasePhenotypePairs": 3039
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "DiseasePhenotypePairs": 2568
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "DiseasePhenotypePairs": 2476
+}
+

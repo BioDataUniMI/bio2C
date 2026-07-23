@@ -1,0 +1,30 @@
+{
+  "Disease": "amnestic disorder",
+  "BiologicalProcess": "memory",
+  "miRNACount": 6
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis",
+  "miRNACount": 5
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "BiologicalProcess": "blood coagulation",
+  "miRNACount": 4
+}
+
+{
+  "Disease": "protein S deficiency",
+  "BiologicalProcess": "negative regulation of blood coagulation",
+  "miRNACount": 1
+}
+
+{
+  "Disease": "inherited lipid metabolism disorder",
+  "BiologicalProcess": "lipid metabolic process",
+  "miRNACount": 15
+}
+

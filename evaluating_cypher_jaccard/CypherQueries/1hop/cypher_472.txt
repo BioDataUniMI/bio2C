@@ -1,0 +1,1 @@
+MATCH (c1:Cancer)-[:predisposes_towards]->(c2:Cancer) WHERE c2.Label CONTAINS 'leukemia' RETURN c1.Label, c2.Label

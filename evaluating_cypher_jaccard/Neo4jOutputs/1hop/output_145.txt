@@ -1,0 +1,20 @@
+{
+  "InfectiousDisease": "tuberculosis"
+}
+
+{
+  "InfectiousDisease": "tuberculosis"
+}
+
+{
+  "InfectiousDisease": "tuberculosis"
+}
+
+{
+  "InfectiousDisease": "tuberculosis"
+}
+
+{
+  "InfectiousDisease": "tuberculosis"
+}
+

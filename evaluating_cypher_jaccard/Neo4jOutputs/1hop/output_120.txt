@@ -1,0 +1,7 @@
+{
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "GenomicCoordinates": [
+    "chr11:568089-568198-"
+  ]
+}
+

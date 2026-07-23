@@ -1,0 +1,30 @@
+{
+  "gene": "CDH1",
+  "primary_cancer": "stage I endometrioid carcinoma",
+  "related_cancer_in_progression": "endometrial carcinoma"
+}
+
+{
+  "gene": "SOCS3",
+  "primary_cancer": "stage I endometrioid carcinoma",
+  "related_cancer_in_progression": "endometrial carcinoma"
+}
+
+{
+  "gene": "TNFSF10",
+  "primary_cancer": "stage I endometrioid carcinoma",
+  "related_cancer_in_progression": "endometrial carcinoma"
+}
+
+{
+  "gene": "AKR1C3",
+  "primary_cancer": "stage I endometrioid carcinoma",
+  "related_cancer_in_progression": "endometrial carcinoma"
+}
+
+{
+  "gene": "SPOP",
+  "primary_cancer": "stage I endometrioid carcinoma",
+  "related_cancer_in_progression": "endometrial carcinoma"
+}
+

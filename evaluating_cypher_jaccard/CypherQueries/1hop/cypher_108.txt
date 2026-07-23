@@ -1,0 +1,1 @@
+MATCH (:miRNA {Label:'hsa-miR-372-3p'})-[:over_expressed_in]->(bp:Biological_process) RETURN bp.Label AS Biological_Process, bp.Description AS Description

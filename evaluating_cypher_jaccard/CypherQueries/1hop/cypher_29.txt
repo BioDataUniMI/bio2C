@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'two subtypes' RETURN COUNT(DISTINCT m) AS num_miRNAs

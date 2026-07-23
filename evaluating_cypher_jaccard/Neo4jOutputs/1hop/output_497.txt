@@ -1,0 +1,55 @@
+{
+  "m.Label": "hsa-miR-140-5p",
+  "bp.Label": "positive regulation of gene expression",
+  "m.Genomic_coordinates": [
+    "chr16:69933103-69933124+"
+  ],
+  "r.GO_evidence": [
+    "IDA"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-27b-5p",
+  "bp.Label": "positive regulation of intrinsic apoptotic signaling pathway",
+  "m.Genomic_coordinates": [
+    "chr9:95085463-95085484+"
+  ],
+  "r.GO_evidence": [
+    "IGI"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-206",
+  "bp.Label": "positive regulation of gene expression",
+  "m.Genomic_coordinates": [
+    "chr6:52144401-52144422+"
+  ],
+  "r.GO_evidence": [
+    "IDA"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-144-3p",
+  "bp.Label": "positive regulation of gene expression",
+  "m.Genomic_coordinates": [
+    "chr17:28861548-28861567-"
+  ],
+  "r.GO_evidence": [
+    "IDA"
+  ]
+}
+
+{
+  "m.Label": "hsa-miR-144-3p",
+  "bp.Label": "positive regulation of cell adhesion molecule production",
+  "m.Genomic_coordinates": [
+    "chr17:28861548-28861567-"
+  ],
+  "r.GO_evidence": [
+    "IDA"
+  ]
+}
+

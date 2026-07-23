@@ -1,0 +1,1 @@
+List phenotypes that characterize GO terms which are part of the biological process labeled as 'bone development' where those biological processes have as participant the miRNA whose label contains '7i', along with their descriptions. Return the phenotype labels, phenotype descriptions, GO term labels and miRNA label

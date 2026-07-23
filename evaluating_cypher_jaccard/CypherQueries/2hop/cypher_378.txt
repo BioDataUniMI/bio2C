@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease {Label:'atherosclerosis'}) RETURN g.Label AS Gene, m.Label AS miRNA

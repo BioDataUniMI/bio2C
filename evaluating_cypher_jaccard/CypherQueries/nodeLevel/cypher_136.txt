@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Description CONTAINS 'hypoplasia' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'facial') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

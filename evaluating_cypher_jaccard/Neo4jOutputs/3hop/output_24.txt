@@ -1,0 +1,6 @@
+{
+  "primary_disease": "hypercalcemia, infantile",
+  "phenotype": "Autosomal recessive inheritance",
+  "related_disease": "proteinuria, chronic benign"
+}
+

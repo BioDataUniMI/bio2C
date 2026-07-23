@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-miR-1270",
+  "Synonym": [
+    "epididymis secretory sperm binding protein",
+    "hWNT5A",
+    "Wnt family member 5A",
+    "WNT-5A protein",
+    "wingless-type MMTV integration site family, member 5A",
+    "protein Wnt-5a"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-374a-5p",
+  "Synonym": [
+    "epididymis secretory sperm binding protein",
+    "hWNT5A",
+    "Wnt family member 5A",
+    "WNT-5A protein",
+    "wingless-type MMTV integration site family, member 5A",
+    "protein Wnt-5a"
+  ]
+}
+

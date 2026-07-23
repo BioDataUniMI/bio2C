@@ -1,0 +1,1 @@
+Which genes whose activity is regulated by miRNAs are characterized by at least one synonym containing the phrase 'nuclear protein'?

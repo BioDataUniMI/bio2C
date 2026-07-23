@@ -1,0 +1,1 @@
+Consider genes that cause or contribute to the autoimmune disease labeled as 'celiac disease' (case-insensitive). Count how many times the subsequences 'GA' and 'CCC' appear in these sequences. Return the gene label, the counts of 'GA' and 'CCC', and the associated autoimmune disease label.

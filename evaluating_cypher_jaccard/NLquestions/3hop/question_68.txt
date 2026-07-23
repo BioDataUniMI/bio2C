@@ -1,0 +1,1 @@
+Which biological processes are subclasses of GO terms that have primary inputs in cellular components which are themselves subclasses of the cellular component labeled as 'site of polarized growth'? Return the label of: the biological process, the GO term and the cellular component.

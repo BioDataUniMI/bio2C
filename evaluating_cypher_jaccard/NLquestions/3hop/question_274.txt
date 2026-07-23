@@ -1,0 +1,1 @@
+Retrieve all properties (use PROPERTIES) of phenotypes that are features of cardiovascular diseases caused or contributed to by the gene 'CAT', whose activity is regulated by miRNAs. Return also the cardiovascular disease and miRNA labels.

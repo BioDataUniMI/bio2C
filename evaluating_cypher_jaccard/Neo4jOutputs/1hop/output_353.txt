@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "cytoplasm",
+  "GOTerm": "endoplasmic reticulum to Golgi vesicle-mediated transport"
+}
+
+{
+  "CellularComponent": "endoplasmic reticulum",
+  "GOTerm": "maintenance of protein localization in endoplasmic reticulum"
+}
+
+{
+  "CellularComponent": "endoplasmic reticulum",
+  "GOTerm": "endoplasmic reticulum calcium ion homeostasis"
+}
+
+{
+  "CellularComponent": "cytoplasm",
+  "GOTerm": "protein exit from endoplasmic reticulum"
+}
+
+{
+  "CellularComponent": "smooth endoplasmic reticulum",
+  "GOTerm": "smooth endoplasmic reticulum calcium ion homeostasis"
+}
+

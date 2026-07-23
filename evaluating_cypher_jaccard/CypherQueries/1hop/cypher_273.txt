@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_characteristic]->(p:Phenotype) WHERE d.Label CONTAINS 'acute' AND NOT p.Label CONTAINS 'acute' RETURN d.Label AS Disease, p.Label AS Phenotype

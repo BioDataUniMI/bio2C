@@ -1,0 +1,1 @@
+Return the distinct labels of cellular components that include GO terms as part, considering only those GO terms that have miRNAs as parts

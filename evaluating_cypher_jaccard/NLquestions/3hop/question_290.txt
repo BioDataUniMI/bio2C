@@ -1,0 +1,1 @@
+How many precursor miRNAs develop into mature miRNAs that regulate the activity of genes causing or contributing to cancer? Return the count of distinct precursor miRNAs.

@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'dementia' AND NOT n.Label CONTAINS 'sclerosis' RETURN n.Label AS DiseaseLabel

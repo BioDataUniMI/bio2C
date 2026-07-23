@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr22') AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr22') RETURN m.Label, g.Label

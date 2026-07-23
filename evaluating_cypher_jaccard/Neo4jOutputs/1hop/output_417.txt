@@ -1,0 +1,5 @@
+{
+  "Phenotype": "Cardiomyopathy",
+  "QualityPhenotype": "decreased functionality"
+}
+

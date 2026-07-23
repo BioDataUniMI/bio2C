@@ -1,0 +1,1 @@
+Which molecular functions whose disruption causes diseases that are superclasses of the disease labeled 'transient neonatal myasthenia gravis' are regulated by GO terms? Return the disrupted molecular function label and the regulating GO term label.

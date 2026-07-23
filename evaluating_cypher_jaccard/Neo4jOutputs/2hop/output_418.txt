@@ -1,0 +1,30 @@
+{
+  "c.Label": "benign muscle neoplasm",
+  "m.Label": "hsa-let-7a-5p",
+  "go.Label": "response to corticosteroid"
+}
+
+{
+  "c.Label": "adenoma",
+  "m.Label": "hsa-let-7a-5p",
+  "go.Label": "response to corticosteroid"
+}
+
+{
+  "c.Label": "sarcoma",
+  "m.Label": "hsa-let-7a-5p",
+  "go.Label": "response to corticosteroid"
+}
+
+{
+  "c.Label": "lipoma",
+  "m.Label": "hsa-let-7a-5p",
+  "go.Label": "response to corticosteroid"
+}
+
+{
+  "c.Label": "hamartoma",
+  "m.Label": "hsa-let-7a-5p",
+  "go.Label": "response to corticosteroid"
+}
+

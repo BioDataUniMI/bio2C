@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(p:Phenotype) WHERE p.Label CONTAINS 'movements' AND g.Synonym IS NOT NULL UNWIND g.Synonym AS synonym WITH g, p, TRIM(synonym) AS syn WHERE NOT syn CONTAINS ' ' RETURN DISTINCT g.Label AS Gene, syn AS One_Word_Synonym, p.Label AS Phenotype ORDER BY syn

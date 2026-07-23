@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Description CONTAINS 'abuse' RETURN d.Label AS Disease, d.Description AS Description

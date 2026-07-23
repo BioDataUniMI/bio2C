@@ -1,0 +1,1 @@
+Return all diseases whose labels contain 'animal' but do not contain 'non-human', Return their labels and descriptions.

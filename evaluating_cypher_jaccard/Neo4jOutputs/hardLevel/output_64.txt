@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Ovarian neoplasm",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Neoplasm of the lung",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Small cell lung carcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Cholangiocarcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Lung adenocarcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) RETURN cc.Label AS CellularComponent, COUNT(DISTINCT m) AS miRNACount ORDER BY COUNT(DISTINCT m) DESC, cc.Label ASC LIMIT 5

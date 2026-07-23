@@ -1,0 +1,51 @@
+[
+  {
+    "PathLabels": [
+      "fadD26",
+      "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Bacteria",
+      "gene"
+    ],
+    "PathLength": 5
+  },
+  {
+    "PathLabels": [
+      "BMEI1364",
+      "protein-coding gene of Brucella melitensis bv. 1 str. 16M",
+      "gene of Brucella melitensis bv. 1 str. 16M",
+      "gene of Proteobacteria",
+      "gene of Bacteria",
+      "gene"
+    ],
+    "PathLength": 6
+  },
+  {
+    "PathLabels": [
+      "drrC",
+      "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Bacteria",
+      "gene"
+    ],
+    "PathLength": 5
+  },
+  {
+    "PathLabels": [
+      "BMEI1364",
+      "protein-coding gene of Brucella melitensis bv. 1 str. 16M",
+      "gene of Brucella melitensis bv. 1 str. 16M",
+      "gene of Proteobacteria"
+    ],
+    "PathLength": 4
+  },
+  {
+    "PathLabels": [
+      "fadD26",
+      "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Mycobacterium tuberculosis H37Rv",
+      "gene of Bacteria"
+    ],
+    "PathLength": 4
+  }
+]

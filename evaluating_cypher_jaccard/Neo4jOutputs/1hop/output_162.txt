@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-223-3p",
+  "PubMedID": [
+    "31525642"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-361-5p",
+  "PubMedID": [
+    "31694982"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "PubMedID": [
+    "31545249"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "PubMedID": [
+    "31694982"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "PubMedID": [
+    "31694982"
+  ]
+}
+

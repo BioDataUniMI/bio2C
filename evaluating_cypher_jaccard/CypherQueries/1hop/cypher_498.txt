@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-520f-3p'})-[r:is_causal_somatic_mutation_in]->(x) WHERE x:Cancer OR x:Phenotype RETURN m.Label, x.Label,  LABELS(x), r.Mutation

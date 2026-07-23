@@ -1,0 +1,1 @@
+Count the number of unique genomic coordinate strings among miRNAs that are under-expressed in at least one phenotype whose label contains the substring 'lung'.

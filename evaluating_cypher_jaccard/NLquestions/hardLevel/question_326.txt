@@ -1,0 +1,1 @@
+Among diseases that have phenotypes that are characteristic of GO terms, what is the average number of distinct pre-miRNAs that are over-expressed in those diseases?

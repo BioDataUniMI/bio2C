@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR1273C",
+  "Source_miRNA": "microRNA hsa-mir-1273c precursor",
+  "Pre_miRNA": "microRNA hsa-mir-1273c precursor",
+  "Mature_miRNA": "hsa-miR-1273c"
+}
+
+{
+  "Gene": "MIR449C",
+  "Source_miRNA": "microRNA hsa-mir-449c precursor",
+  "Pre_miRNA": "microRNA hsa-mir-449c precursor",
+  "Mature_miRNA": "hsa-miR-449c-3p"
+}
+
+{
+  "Gene": "MIR449C",
+  "Source_miRNA": "microRNA hsa-mir-449c precursor",
+  "Pre_miRNA": "microRNA hsa-mir-449c precursor",
+  "Mature_miRNA": "hsa-miR-449c-5p"
+}
+
+{
+  "Gene": "MIR374C",
+  "Source_miRNA": "microRNA hsa-mir-374c precursor",
+  "Pre_miRNA": "microRNA hsa-mir-374c precursor",
+  "Mature_miRNA": "hsa-miR-374c-5p"
+}
+
+{
+  "Gene": "MIR374C",
+  "Source_miRNA": "microRNA hsa-mir-374c precursor",
+  "Pre_miRNA": "microRNA hsa-mir-374c precursor",
+  "Mature_miRNA": "hsa-miR-374c-3p"
+}
+

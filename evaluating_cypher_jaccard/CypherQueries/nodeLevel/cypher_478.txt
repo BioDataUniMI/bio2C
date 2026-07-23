@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'lipid' AND (cc.Label CONTAINS 'oleosins' OR cc.Description CONTAINS 'oleosins') RETURN cc.Label AS CellularComponent, cc.URI

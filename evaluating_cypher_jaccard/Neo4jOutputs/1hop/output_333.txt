@@ -1,0 +1,20 @@
+{
+  "g.Label": "response to corticosteroid"
+}
+
+{
+  "g.Label": "cellular response to corticosteroid stimulus"
+}
+
+{
+  "g.Label": "response to laminar fluid shear stress"
+}
+
+{
+  "g.Label": "response to clopidogrel"
+}
+
+{
+  "g.Label": "response to peptide hormone"
+}
+

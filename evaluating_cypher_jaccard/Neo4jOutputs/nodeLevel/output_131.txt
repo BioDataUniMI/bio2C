@@ -1,0 +1,30 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-3689b precursor",
+  "p.Description": "homo sapiens (human) microrna hsa-mir-3689b precursor",
+  "Length": 148
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-376b precursor",
+  "p.Description": "homo sapiens (human) microrna hsa-mir-376b precursor",
+  "Length": 100
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-10b precursor",
+  "p.Description": "homo sapiens (human) microrna hsa-mir-10b precursor",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-181b precursor (hsa-mir-181b-1)",
+  "p.Description": "homo sapiens (human) microrna hsa-mir-181b precursor (hsa-mir-181b-1)",
+  "Length": 110
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-199b precursor",
+  "p.Description": "homo sapiens (human) microrna hsa-mir-199b precursor",
+  "Length": 110
+}
+

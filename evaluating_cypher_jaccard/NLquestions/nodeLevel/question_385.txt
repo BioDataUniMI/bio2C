@@ -1,0 +1,1 @@
+List all neurodegenerative diseases whose labels contain 'sclerosis' and they are also either autoimmune diseases or cancers.

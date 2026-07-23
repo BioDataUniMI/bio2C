@@ -1,0 +1,30 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome"
+}
+

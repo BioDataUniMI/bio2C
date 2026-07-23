@@ -1,0 +1,1 @@
+Identify biological processes that are preceded by GO terms. Include the GO term labels, the process labels, and the source of the relationship in the output.

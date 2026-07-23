@@ -1,0 +1,1 @@
+Identify mental diseases that have an occurrent part corresponding to the disease labeled as 'pathological mental process'. Include the mental disease labels and the LABELS(disease) in the output (to show how the disease is classified).

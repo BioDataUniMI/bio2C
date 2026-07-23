@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label =~ '^hsa-miR-[1-3].*' AND SIZE(m.Sequence) = 25 RETURN m.Label AS miRNA, m.Sequence AS Sequence

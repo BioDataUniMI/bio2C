@@ -1,0 +1,20 @@
+{
+  "g.Label": "modulation by virus of host cytokine production"
+}
+
+{
+  "g.Label": "modulation by virus of host protein transport"
+}
+
+{
+  "g.Label": "modulation by virus of host cell division"
+}
+
+{
+  "g.Label": "modulation by host of viral transcription"
+}
+
+{
+  "g.Label": "modulation by host of viral catalytic activity"
+}
+

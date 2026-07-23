@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) WHERE d.Label CONTAINS 'obesity' AND p.Label CONTAINS 'Decreased response' RETURN DISTINCT d.Label AS Disease, p.Label AS Phenotype, go.Label AS GOterm

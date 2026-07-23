@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease) WHERE r.FDR < 0.04 AND ANY(mth IN r.Method WHERE toLower(mth) = 'northern blotting') AND ANY(src IN r.Source WHERE toLower(src) = 'mir2disease') AND m.Label ENDS WITH 'c-5p' RETURN DISTINCT m.Label AS miRNA, d.Label AS Disease, r.FDR AS FDR, r.Source AS Source

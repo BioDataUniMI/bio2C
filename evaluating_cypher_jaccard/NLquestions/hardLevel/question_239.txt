@@ -1,0 +1,1 @@
+Find the top 3 chromosome prefixes (from miRNA genomic coordinates) with the highest number of distinct miRNAs that have at least one associated molecular function whose label does not contain 'protein'. Return the chromosome and the miRNA count, ordered by miRNA count in descending order and, in case of ties, by chromosome prefix in ascending alphabetical order.

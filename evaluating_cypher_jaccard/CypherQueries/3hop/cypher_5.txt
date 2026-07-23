@@ -1,0 +1,1 @@
+MATCH (m1:miRNA {Label:'hsa-miR-125b-5p'})-[:causes_or_contributes_to_condition]->(c:Cancer)-[:subclassof]->(d:Disease)-[:expresses]->(m2:miRNA) RETURN c.Label AS cancerType, d.Label AS parentDisease, COLLECT(DISTINCT m2.Label) AS expressed_miRNAs

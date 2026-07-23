@@ -1,0 +1,9 @@
+{
+  "g": {
+    "Description": "a gene of an organism of bacteria",
+    "Label": "gene of Bacteria",
+    "ID": "OGG:2000000002",
+    "URI": "http://purl.obolibrary.org/obo/OGG_2000000002"
+  }
+}
+

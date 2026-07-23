@@ -1,0 +1,14 @@
+{
+  "Disease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "BiologicalProcess": "mitochondrial depolarization",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "Disease": "asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "mitochondrial membrane organization",
+  "CellularComponent": "mitochondrion"
+}
+

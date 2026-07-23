@@ -1,0 +1,1 @@
+MATCH (d)-[:disease_caused_by_disruption_of]->(mf:Molecular_function) WITH d, COUNT(DISTINCT mf) AS nMolecularFunctions RETURN AVG(nMolecularFunctions) AS avg_MolecularFunctions_per_disease

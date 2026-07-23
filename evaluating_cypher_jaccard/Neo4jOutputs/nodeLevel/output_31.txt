@@ -1,0 +1,19 @@
+{
+  "miRNA": "hsa-miR-194-5p",
+  "GenomicCoordinates": [
+    "chr1:220118206-220118227-",
+    "chr11:64891404-64891425-"
+  ],
+  "Sequence": "UGUAACAGCAACUCCAUGUGGA"
+}
+
+{
+  "miRNA": "hsa-miR-199b-3p",
+  "GenomicCoordinates": [
+    "chr19:10817429-10817450-",
+    "chr1:172144554-172144575-",
+    "chr9:128244745-128244766-"
+  ],
+  "Sequence": "ACAGUAGUCUGCACAUUGGUUA"
+}
+

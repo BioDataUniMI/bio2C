@@ -1,0 +1,1 @@
+Find all phenotypes that are towards a biological process and the biological process is regulated by a GO term. Return the label of the phenotype, the biological process, and the GO term.

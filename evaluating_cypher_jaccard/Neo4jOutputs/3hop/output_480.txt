@@ -1,0 +1,7 @@
+{
+  "Disease": "myotonic dystrophy",
+  "GO_CausedByDisruption": "RNA binding",
+  "GO_CausesDisruption": "regulation of RNA splicing",
+  "GO_Regulated": "RNA splicing"
+}
+

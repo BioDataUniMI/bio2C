@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label IS NOT NULL AND g.Label <> '' RETURN g.Label AS GeneLabel, SIZE(g.Label) AS LabelLength ORDER BY LabelLength DESC, GeneLabel ASC LIMIT 1

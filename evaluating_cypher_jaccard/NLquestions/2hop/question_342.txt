@@ -1,0 +1,1 @@
+List all miRNAs expressed in cancers whose label contains the word 'benign' that regulate the gene 'CDK6', including the source and method of the expression relationship. Return the cancer label, the miRNA label, the expression sources, and the expression methods.

@@ -1,0 +1,1 @@
+MATCH (g:GO {Label:'provirus excision'}) RETURN g.Description

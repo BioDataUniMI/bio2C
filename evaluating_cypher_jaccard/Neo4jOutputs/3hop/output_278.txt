@@ -1,0 +1,8 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Disease": "hypertensive disorder",
+  "Description": "persistently high systemic arterial blood pressure. based on multiple readings (blood pressure de...",
+  "Phenotype": "Pancreatitis",
+  "GOterm": "inflammatory response"
+}
+

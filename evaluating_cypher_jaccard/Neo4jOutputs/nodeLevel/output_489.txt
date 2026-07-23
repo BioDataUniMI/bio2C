@@ -1,0 +1,10 @@
+{
+  "CellularComponent": "host cell PML body",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0075341"
+}
+
+{
+  "CellularComponent": "PML body",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0016605"
+}
+

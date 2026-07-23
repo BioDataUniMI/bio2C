@@ -1,0 +1,30 @@
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Increased muscle lipid content"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Peroneal muscle atrophy"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Proximal muscle weakness in lower limbs"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Proximal lower limb amyotrophy"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Proximal upper limb amyotrophy"
+}
+

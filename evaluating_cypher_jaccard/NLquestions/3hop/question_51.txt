@@ -1,0 +1,1 @@
+Identify the phenotypes of the disease labeled as 'mucopolysaccharidosis', and determine the biological processes those phenotypes are directed towards, and the neurodegenerative diseases that are subclasses of mucopolysaccharidosis. Return the label of: the phenotype, the biological process and the neurodegenerative disease.

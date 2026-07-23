@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "RegulatedGene": "ITIH5",
+  "InteractingGene": "CGB5",
+  "Disease": "polycystic ovary syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "RegulatedGene": "ITIH5",
+  "InteractingGene": "CDY1",
+  "Disease": "spermatogenic failure, Y-linked, 2"
+}
+

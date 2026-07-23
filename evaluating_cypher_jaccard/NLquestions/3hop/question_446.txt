@@ -1,0 +1,1 @@
+Find phenotypes of diseases, that have as subclass cancers whose label contains the word 'adenocarcinoma' where the miRNA labeled as 'microRNA hsa-mir-182 precursor' is over-expressed. Return the miRNA label, cancer label, disease label, and phenotype label.

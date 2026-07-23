@@ -1,0 +1,25 @@
+{
+  "RegulatorProcess": "positive regulation of antimicrobial peptide production",
+  "TargetProcess": "antimicrobial peptide production"
+}
+
+{
+  "RegulatorProcess": "positive regulation of antimicrobial peptide production",
+  "TargetProcess": "antimicrobial humoral response"
+}
+
+{
+  "RegulatorProcess": "positive regulation of antimicrobial peptide secretion",
+  "TargetProcess": "antimicrobial peptide production"
+}
+
+{
+  "RegulatorProcess": "positive regulation of antibacterial peptide production",
+  "TargetProcess": "antibacterial peptide production"
+}
+
+{
+  "RegulatorProcess": "positive regulation of antifungal peptide production",
+  "TargetProcess": "antifungal peptide production"
+}
+

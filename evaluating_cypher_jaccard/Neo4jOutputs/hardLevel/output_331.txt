@@ -1,0 +1,4 @@
+{
+  "AveragePhenotypeCount": 1.3342730567861467
+}
+

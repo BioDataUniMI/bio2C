@@ -1,0 +1,1 @@
+Which molecular functions mention 'kinase' in their description and have IDs starting with 'GO:003'? Return only their labels and IDs.

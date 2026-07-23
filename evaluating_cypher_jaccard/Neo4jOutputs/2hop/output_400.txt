@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Exercise-induced myalgia"
+}
+
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Myalgia"
+}
+
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Episodic abdominal pain"
+}
+
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Headache"
+}
+

@@ -1,0 +1,45 @@
+{
+  "miRNA": "microRNA hsa-mir-493 precursor",
+  "DiseaseLabels": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-18b precursor",
+  "DiseaseLabels": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-584 precursor",
+  "DiseaseLabels": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-549a precursor",
+  "DiseaseLabels": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-186 precursor",
+  "DiseaseLabels": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+

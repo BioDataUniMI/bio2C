@@ -1,0 +1,14 @@
+{
+  "GOLabel": "positive regulation of protein kinase activity",
+  "BiologicalProcess": "positive regulation of protein autophosphorylation",
+  "Type": "positive",
+  "MinSeqLength": 19
+}
+
+{
+  "GOLabel": "negative regulation of protein kinase activity",
+  "BiologicalProcess": "negative regulation of protein autophosphorylation",
+  "Type": "negative",
+  "MinSeqLength": 21
+}
+

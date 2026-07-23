@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c1:Cancer)-[:subclassof]->(d:Disease)-[:predisposes_towards]->(c2:Cancer) WHERE m.Label STARTS WITH 'hsa-miR-63' RETURN m.Label AS miRNA, d.Label AS ParentDisease, c1.Label AS Cancer, c2.Label AS PredisposedCancer

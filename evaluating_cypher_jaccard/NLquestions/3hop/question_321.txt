@@ -1,0 +1,1 @@
+Which miRNAs are expressed in the cancer labeled 'adenoma' and have molecular functions that are part of biological processes? Return the label of the: biological processes, molecular functions and miRNAs, and molecular function descriptions.

@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:directly_regulates_activity_of]->(m2:miRNA) RETURN m1.Label AS Regulator, m2.Label AS Target

@@ -1,0 +1,25 @@
+{
+  "CancerLabel": "colorectal adenocarcinoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0005008"
+}
+
+{
+  "CancerLabel": "malignant melanocytic neoplasm of the peripheral nerve sheath",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0003863"
+}
+
+{
+  "CancerLabel": "cervical basaloid carcinoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0004088"
+}
+
+{
+  "CancerLabel": "bladder clear cell adenocarcinoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0003386"
+}
+
+{
+  "CancerLabel": "Langerhans cell sarcoma",
+  "CancerURI": "http://purl.obolibrary.org/obo/MONDO_0019480"
+}
+

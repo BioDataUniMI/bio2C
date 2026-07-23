@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE r.Interactor IS NOT NULL RETURN m.Label, d.Label, m.Genomic_coordinates, r.Mutation

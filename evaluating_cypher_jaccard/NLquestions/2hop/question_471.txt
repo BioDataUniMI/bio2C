@@ -1,0 +1,1 @@
+Find all genes with sequence length shorter than 50 nucleotides that are transcribed into miRNAs, where the miRNAs are either over-expressed or under-expressed in a phenotype. Return the label of: the gene, the miRNA, and the phenotype, along with the type of expression relationship and the gene sequence length.

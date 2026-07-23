@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-519a-2-5p'})-[:over_expressed_in]->(d:Disease {Label:'malignant glioma'})-[:has_phenotype]->(p:Phenotype) RETURN p.Label AS Phenotype

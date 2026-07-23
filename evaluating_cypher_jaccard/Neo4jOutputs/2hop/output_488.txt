@@ -1,0 +1,45 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-16 precursor (hsa-mir-16-2)",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "giant cell myocarditis",
+  "Genomic_Coordinates": [
+    "chr3:160404745-160404825+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-16 precursor (hsa-mir-16-2)",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "cardiofaciocutaneous syndrome",
+  "Genomic_Coordinates": [
+    "chr3:160404745-160404825+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-16 precursor (hsa-mir-16-2)",
+  "Phenotype": "Breast carcinoma",
+  "Disease": "dilated cardiomyopathy",
+  "Genomic_Coordinates": [
+    "chr3:160404745-160404825+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-551b precursor",
+  "Phenotype": "Lung adenocarcinoma",
+  "Disease": "dilated cardiomyopathy",
+  "Genomic_Coordinates": [
+    "chr3:168551854-168551949+"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1324 precursor",
+  "Phenotype": "Lung adenocarcinoma",
+  "Disease": "dilated cardiomyopathy",
+  "Genomic_Coordinates": [
+    "chr3:75630763-75630858+"
+  ]
+}
+

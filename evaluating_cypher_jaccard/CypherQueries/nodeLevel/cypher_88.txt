@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND SIZE(m.Sequence) = 22 AND m.Label STARTS WITH 'hsa-miR-19' AND NOT m.Label ENDS WITH 'p' RETURN m.Label AS miRNA

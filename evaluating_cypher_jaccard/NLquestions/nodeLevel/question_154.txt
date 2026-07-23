@@ -1,0 +1,1 @@
+Retrieve diseases whose descriptions mention 'metabolic complications' but whose labels do not include 'syndrome'.

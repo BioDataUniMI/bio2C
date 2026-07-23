@@ -1,0 +1,35 @@
+{
+  "Disease": "odontochondrodysplasia 2 with hearing loss and diabetes",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "positive regulation of cell motility"
+}
+
+{
+  "Disease": "odontochondrodysplasia 2 with hearing loss and diabetes",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "BiologicalProcess": "regulation of cell motility"
+}
+
+{
+  "Disease": "odontochondrodysplasia 2 with hearing loss and diabetes",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "positive regulation of cell motility"
+}
+
+{
+  "Disease": "odontochondrodysplasia 2 with hearing loss and diabetes",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "regulation of cell motility"
+}
+
+{
+  "Disease": "odontochondrodysplasia 2 with hearing loss and diabetes",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "cell motility"
+}
+

@@ -1,0 +1,1 @@
+Identify miRNAs, along with their sequence lengths and genomic coordinates, that are located in cellular components which are part of the GO term labeled as 'chromosome'

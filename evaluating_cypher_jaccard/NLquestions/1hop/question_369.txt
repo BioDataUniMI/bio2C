@@ -1,0 +1,1 @@
+List unique miRNA pairs in homology relationship (do not repeat the same pair in reverse) such that at least one homologue miRNA has 'stem-loop' in its label.

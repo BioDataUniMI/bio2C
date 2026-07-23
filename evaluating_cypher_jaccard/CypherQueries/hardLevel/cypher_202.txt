@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease)-[:has_phenotype]->(p:Phenotype) WITH d, p, [syn IN p.Synonym WHERE SIZE(syn)=1 AND NOT syn =~ '[A-Za-z]'] AS matching_synonyms WHERE SIZE(matching_synonyms) > 0 RETURN d.Label AS autoimmune_disease, p.Label AS phenotype, matching_synonyms

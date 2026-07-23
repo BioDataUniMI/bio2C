@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'senior' and determine how many of their phenotypes are also characteristic of GO terms. Return the disease label, the GO term label, and the count of distinct shared phenotypes.

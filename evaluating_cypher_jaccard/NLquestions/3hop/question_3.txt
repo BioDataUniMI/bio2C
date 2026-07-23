@@ -1,0 +1,1 @@
+Which miRNAs are over-expressed in the disease labeled 'Down syndrome'? Moreover, which the superclasses of the disease labeled 'Down syndrome' such that the parent disease has a characteristic disease whose label contains 'inherited'? Return the labels of: the miRNAs, the parent disease, and the characteristic disease.

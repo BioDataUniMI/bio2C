@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:part_of]->(go:GO) WHERE mf.Label CONTAINS 'kinase binding' AND elementId(go) = '4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73789' RETURN mf.Label AS MolecularFunction, go.Label AS GO

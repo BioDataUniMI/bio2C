@@ -1,0 +1,12 @@
+
+{
+  "BiologicalProcesses": [
+    "(1->3)-beta-D-glucan biosynthetic process",
+    "D-aspartate import across plasma membrane",
+    "telomeric D-loop disassembly",
+    "vitamin D biosynthetic process",
+    "vitamin D receptor signaling pathway",
+    "D-glucose import",
+    "D-glucose transmembrane transport"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "NeurodegenerativeDisease": "geniculate herpes zoster",
+  "Phenotype": "Paralysis",
+  "Disease": "progressive bulbar palsy"
+}
+
+{
+  "NeurodegenerativeDisease": "geniculate herpes zoster",
+  "Phenotype": "Vertigo",
+  "Disease": "supranuclear palsy, progressive, 1"
+}
+
+{
+  "NeurodegenerativeDisease": "geniculate herpes zoster",
+  "Phenotype": "Vertigo",
+  "Disease": "progressive supranuclear palsy"
+}
+

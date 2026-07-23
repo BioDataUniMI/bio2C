@@ -1,0 +1,5 @@
+{
+  "InfectiousDisease": "cytomegalovirus pneumonia due to NOS2 deficiency",
+  "Modifier": "Autosomal recessive inheritance"
+}
+

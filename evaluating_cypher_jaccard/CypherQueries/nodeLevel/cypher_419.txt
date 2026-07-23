@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.ID ENDS WITH '76668' RETURN g.Label, g.ID

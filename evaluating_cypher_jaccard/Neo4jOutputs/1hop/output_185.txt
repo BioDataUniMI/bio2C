@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-382-5p",
+  "BiologicalProcess": "maternal behavior"
+}
+
+{
+  "miRNA": "hsa-miR-155-3p",
+  "BiologicalProcess": "maternal behavior"
+}
+
+{
+  "miRNA": "hsa-miR-302a-3p",
+  "BiologicalProcess": "maternal behavior"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "BiologicalProcess": "maternal placenta development"
+}
+
+{
+  "miRNA": "hsa-miR-199b-3p",
+  "BiologicalProcess": "maternal placenta development"
+}
+

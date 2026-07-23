@@ -1,0 +1,40 @@
+{
+  "Phenotype": "Chronic myelogenous leukemia",
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "Genomic_coordinates": [
+    "chr21:25573980-25574044+"
+  ]
+}
+
+{
+  "Phenotype": "Chronic lymphatic leukemia",
+  "miRNA": "hsa-miR-155-5p",
+  "Genomic_coordinates": [
+    "chr21:25573983-25574006+"
+  ]
+}
+
+{
+  "Phenotype": "Chronic lymphatic leukemia",
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "Genomic_coordinates": [
+    "chr21:25573980-25574044+"
+  ]
+}
+
+{
+  "Phenotype": "Chronic pancreatitis",
+  "miRNA": "hsa-miR-99a-3p",
+  "Genomic_coordinates": [
+    "chr21:16539138-16539159+"
+  ]
+}
+
+{
+  "Phenotype": "Chronic pancreatitis",
+  "miRNA": "hsa-miR-125b-2-3p",
+  "Genomic_coordinates": [
+    "chr21:16590290-16590311+"
+  ]
+}
+

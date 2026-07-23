@@ -1,0 +1,35 @@
+{
+  "GeneLabel": "PPARGC1A",
+  "GreekSymbolSynonyms": [
+    "PPARAGCIα"
+  ]
+}
+
+{
+  "GeneLabel": "SNCB",
+  "GreekSymbolSynonyms": [
+    "β-synuclein"
+  ]
+}
+
+{
+  "GeneLabel": "SNCA",
+  "GreekSymbolSynonyms": [
+    "α-synuclein"
+  ]
+}
+
+{
+  "GeneLabel": "SNCG",
+  "GreekSymbolSynonyms": [
+    "ɣ-synuclein"
+  ]
+}
+
+{
+  "GeneLabel": "HNF1A",
+  "GreekSymbolSynonyms": [
+    "HNF1α"
+  ]
+}
+

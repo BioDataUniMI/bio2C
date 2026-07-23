@@ -1,0 +1,10 @@
+{
+  "Cancer": "glioblastoma",
+  "avg_TANRIC_score": 0.4320150465339608
+}
+
+{
+  "Cancer": "lung adenocarcinoma",
+  "avg_TANRIC_score": 0.3956548875707243
+}
+

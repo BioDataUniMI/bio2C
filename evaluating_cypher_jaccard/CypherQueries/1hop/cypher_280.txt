@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'cerebellar ataxia'})-[:disease_has_feature]->(p:Phenotype) RETURN p.Label AS Phenotype

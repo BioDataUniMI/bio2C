@@ -1,0 +1,1 @@
+Which diseases are caused or contributed to by genes starting with thw string 'SYNC' that are regulated by miRNAs expressed in cancers whose label contains the word 'benign'? Return the cancer, miRNA, gene, and disease labels.

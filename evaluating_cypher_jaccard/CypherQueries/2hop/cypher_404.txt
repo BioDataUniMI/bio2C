@@ -1,0 +1,1 @@
+MATCH (go1:GO)-[r:has_part]->(cc:Cellular_component)-[:participates_in]->(go2:GO) WHERE SIZE(r.Source) >= 3 RETURN go1.Label AS ParentGO, cc.Label AS CellularComponent, go2.Label AS ParticipatingGO, r.Source AS RelationSources

@@ -1,0 +1,1 @@
+Which miRNAs ending with '3p' are expressed in diseases that are subclasses of neurodegenerative diseases whose label contains the word 'inherited'? Keep only entries having a parent neurodegenerative disease with phenotypes. Return labels of the: miRNAs, diseases, parent neurodegenerative diseases, and phenotypes.

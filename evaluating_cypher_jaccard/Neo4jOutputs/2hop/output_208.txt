@@ -1,0 +1,12 @@
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-548a precursor (hsa-mir-548a-1)",
+  "miRNA": "microRNA hsa-mir-548au precursor",
+  "Gene": "MIR548AU"
+}
+
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-548a precursor (hsa-mir-548a-1)",
+  "miRNA": "microRNA hsa-mir-548u precursor",
+  "Gene": "MIR548U"
+}
+

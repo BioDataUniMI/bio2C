@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease {Label: 'COFS syndrome'})-[:subclassof]->(d:Disease)-[:disease_has_feature]->(p:Phenotype {Label:'Cutaneous photosensitivity'})-[:phenotype_of]->(ad:Autoimmune_disease) RETURN d.Label AS ParentDisease, ad.Label AS AutoimmuneDisease

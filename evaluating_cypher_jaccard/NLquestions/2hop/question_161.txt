@@ -1,0 +1,1 @@
+Identify diseases connected to genes through miRNAs transcribed from those genes, where the miRNAs are reported as causal germline mutations in the diseases, and return the label of the: gene, miRNA, and disease.

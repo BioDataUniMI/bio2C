@@ -1,0 +1,1 @@
+Identify cancers that share features of other cancers, where that other cancer is a subclass of a disease that has the phenotype labeled as 'Delayed epiphyseal ossification'. Return the labels of the cancer, the related cancer, and the parent disease.

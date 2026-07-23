@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "extracellular vesicle",
+  "RNAsisterScore": 0.963102205232583
+}
+
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "extracellular vesicle",
+  "RNAsisterScore": 0.963102205232583
+}
+
+{
+  "Cancer": "sarcoma",
+  "CellularComponent": "extracellular vesicle",
+  "RNAsisterScore": 0.963102205232583
+}
+
+{
+  "Cancer": "lipoma",
+  "CellularComponent": "extracellular vesicle",
+  "RNAsisterScore": 0.963102205232583
+}
+
+{
+  "Cancer": "hamartoma",
+  "CellularComponent": "extracellular vesicle",
+  "RNAsisterScore": 0.963102205232583
+}
+

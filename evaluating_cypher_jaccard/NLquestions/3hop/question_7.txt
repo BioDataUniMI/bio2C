@@ -1,0 +1,1 @@
+Which phenotypes are caused or contributed by the 'microRNA hsa-mir-363 precursor' miRNA, and are part of other phenotypes that are part of higher-level phenotypes that have modifier phenotypes (the chain is: miRNA -> phenotype -> phenotype -> phenotype -> phenotype)? Return the phenotype label, parent phenotype label, grandparent phenotype label, and modifier phenotype label.

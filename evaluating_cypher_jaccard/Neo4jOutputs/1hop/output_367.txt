@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-3180 precursor (hsa-mir-3180-4)",
+  "Gene": "MIR3180-4",
+  "GeneLength": 153
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3907 precursor",
+  "Gene": "MIR3907",
+  "GeneLength": 151
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "Gene": "MIR3648-1",
+  "GeneLength": 180
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "Gene": "MIR3648-2",
+  "GeneLength": 180
+}
+
+{
+  "miRNA": "microRNA hsa-mir-6843 precursor",
+  "Gene": "MIR6843",
+  "GeneLength": 151
+}
+

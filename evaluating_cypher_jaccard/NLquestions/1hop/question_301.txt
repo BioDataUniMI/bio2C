@@ -1,0 +1,1 @@
+List all phenotypes of cancers containing the word 'esophageal' in their labels.

@@ -1,0 +1,1 @@
+Which GO terms containing the word 'cyclase' are directly regulated by any molecular function?

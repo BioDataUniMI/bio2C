@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'MIR590'})-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)<-[:function_of]-(go:GO) RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, m.Label AS miRNA, go.Label AS GOterm

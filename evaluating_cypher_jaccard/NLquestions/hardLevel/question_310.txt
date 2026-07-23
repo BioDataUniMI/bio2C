@@ -1,0 +1,1 @@
+Which molecular functions are directly regulated by GO terms? Return the function and up to five related GO terms in alphabetical order.

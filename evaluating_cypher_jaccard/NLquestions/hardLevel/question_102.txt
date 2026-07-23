@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the 'glioma' disease with FDR < 0.09 measured only by both 'qrt-pcr etc' and 'northern blotting'. Return the labels of miRNA and disease, FDR and methods.

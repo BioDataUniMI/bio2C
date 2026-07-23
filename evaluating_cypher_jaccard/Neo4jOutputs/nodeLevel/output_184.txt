@@ -1,0 +1,5 @@
+{
+  "GOterm": "execution phase of apoptosis",
+  "Description": "a stage of the apoptotic process that starts with the controlled breakdown of the cell through th..."
+}
+

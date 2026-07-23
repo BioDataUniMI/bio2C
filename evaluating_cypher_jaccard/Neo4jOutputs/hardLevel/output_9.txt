@@ -1,0 +1,15 @@
+{
+  "Disease": "breast carcinoma",
+  "PubMed_count": 606
+}
+
+{
+  "Disease": "breast cancer",
+  "PubMed_count": 601
+}
+
+{
+  "Disease": "colorectal cancer",
+  "PubMed_count": 520
+}
+

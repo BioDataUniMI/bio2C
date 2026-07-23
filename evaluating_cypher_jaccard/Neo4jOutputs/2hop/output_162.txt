@@ -1,0 +1,18 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)",
+  "miRNA": "hsa-miR-124-3p",
+  "Cancer": "childhood bladder carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)",
+  "miRNA": "hsa-miR-124-3p",
+  "Cancer": "childhood medulloblastoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)",
+  "miRNA": "hsa-miR-122-5p",
+  "Cancer": "childhood testicular germ cell tumor"
+}
+

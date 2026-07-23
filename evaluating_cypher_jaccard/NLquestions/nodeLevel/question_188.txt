@@ -1,0 +1,1 @@
+Find GO terms whose label contains 'cell cycle' and whose description mentions 'checkpoint'.

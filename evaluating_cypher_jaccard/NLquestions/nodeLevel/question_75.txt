@@ -1,0 +1,1 @@
+Which phenotypes have 'cyst' in their label, have at least 10 synonyms, and include at least one synonym that contains non-ASCII letters (A-Z, a-z)?

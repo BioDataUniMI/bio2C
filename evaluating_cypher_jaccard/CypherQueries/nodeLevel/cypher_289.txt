@@ -1,0 +1,1 @@
+MATCH (g:Gene) RETURN MAX(SIZE(g.Sequence)) AS MaxSequenceLength

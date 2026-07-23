@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-518a precursor (hsa-mir-518a-2)",
+  "miRNA": "hsa-miR-518a-3p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-518a precursor (hsa-mir-518a-1)",
+  "miRNA": "hsa-miR-518a-3p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-518c precursor",
+  "miRNA": "hsa-miR-518c-5p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-527 precursor",
+  "miRNA": "hsa-miR-527",
+  "GOterm": "cellular_component"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-518a precursor (hsa-mir-518a-2)",
+  "miRNA": "hsa-miR-527",
+  "GOterm": "cellular_component"
+}
+

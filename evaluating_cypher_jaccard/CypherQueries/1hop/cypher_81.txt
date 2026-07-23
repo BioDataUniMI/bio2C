@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) UNWIND r.Method AS method RETURN DISTINCT method AS Method

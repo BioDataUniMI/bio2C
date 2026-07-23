@@ -1,0 +1,7 @@
+{
+  "miRNA": "hsa-miR-4316",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+

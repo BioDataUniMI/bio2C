@@ -1,0 +1,11 @@
+{
+  "Phenotype": "Elevated urinary collagen degradation products",
+  "p.Label": "Elevated urinary collagen degradation products",
+  "p.Synonym": [
+    "Elevación de los productos de degradación del colágeno urinario",
+    "Zvýšené množství produktů degradace kolagenu v moči",
+    "尿胶原蛋白降解产物升高",
+    "尿中コラーゲン分解産物の上昇"
+  ]
+}
+

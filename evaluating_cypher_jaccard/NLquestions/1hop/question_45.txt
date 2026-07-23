@@ -1,0 +1,1 @@
+Find miRNAs that are under-expressed in phenotypes whose label contains 'lung'. Moreover, filter only miRNAs that are located on chromosome 21 (chr21).

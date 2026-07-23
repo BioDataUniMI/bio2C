@@ -1,0 +1,20 @@
+{
+  "mf.Label": "ATPase-coupled monoatomic cation transmembrane transporter activity"
+}
+
+{
+  "mf.Label": "ATPase-coupled antimonite transmembrane transporter activity"
+}
+
+{
+  "mf.Label": "ATPase-coupled transmembrane transporter activity"
+}
+
+{
+  "mf.Label": "ATPase-coupled inorganic anion transmembrane transporter activity"
+}
+
+{
+  "mf.Label": "ATPase-coupled nonpolar-amino acid transporter activity"
+}
+

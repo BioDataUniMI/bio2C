@@ -1,0 +1,1 @@
+Return infectious diseases whose descriptions contain both 'fever virus' and 'infection' and that do not have any phenotypes

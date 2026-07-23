@@ -1,0 +1,1 @@
+Which nodes that are phenotypes or subclasses of phenotypes whose label contains 'cerebral' (case-insensitive) are caused or contributed to by miRNAs whose label ends with 'a precursor' through one or more hierarchical relationships? Return the label of the miRNA and the phenotype.

@@ -1,0 +1,1 @@
+Which GO terms have label mentioning 'membrane' and description mentioning 'transport', and have at least one synonym?

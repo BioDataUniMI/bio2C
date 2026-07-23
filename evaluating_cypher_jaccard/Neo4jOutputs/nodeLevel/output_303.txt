@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "post-COVID-19 disorder"
+}
+
+{
+  "DiseaseLabel": "long COVID-19"
+}
+
+{
+  "DiseaseLabel": "post-COVID-19 disorder, non-human animal"
+}
+
+{
+  "DiseaseLabel": "COVID-19–associated multisystem inflammatory syndrome in adults"
+}
+
+{
+  "DiseaseLabel": "immunodeficiency 74, COVID-19-related, X-linked"
+}
+

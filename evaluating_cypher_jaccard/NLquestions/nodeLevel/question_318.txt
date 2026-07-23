@@ -1,0 +1,1 @@
+Return all diseases whose labels contain 'liver' but do not contain 'polycystic', 'Oliver', or 'infantile', and that are not classified as 'Cancer'. Return diseases' label and type (i.e., LABELS(Disease)).

@@ -1,0 +1,1 @@
+Retrieve the cellular components whose ID starts with 'GO:009857' and whose label does not contain the word 'chromosome'.

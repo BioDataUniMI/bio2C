@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:part_of]->(go:GO)-[:has_characteristic]->(p:Phenotype {Label: 'Decreased calvarial ossification'}) RETURN go.Label AS GOterm, bp.Label AS BiologicalProcess

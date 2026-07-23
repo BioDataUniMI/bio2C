@@ -1,0 +1,25 @@
+{
+  "GO": "collagen type XVII trimer",
+  "CellularComponent": "basement membrane"
+}
+
+{
+  "GO": "mitochondria-associated endoplasmic reticulum membrane contact site",
+  "CellularComponent": "endoplasmic reticulum membrane"
+}
+
+{
+  "GO": "mitochondria-associated endoplasmic reticulum membrane contact site",
+  "CellularComponent": "mitochondrial membrane"
+}
+
+{
+  "GO": "nucleus-vacuole junction",
+  "CellularComponent": "nuclear outer membrane"
+}
+
+{
+  "GO": "nucleus-vacuole junction",
+  "CellularComponent": "lytic vacuole membrane"
+}
+

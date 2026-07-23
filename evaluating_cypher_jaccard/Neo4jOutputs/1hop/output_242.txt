@@ -1,0 +1,12 @@
+{
+  "Phenotype": "Asthma"
+}
+
+{
+  "Phenotype": "Schizophrenia"
+}
+
+{
+  "Phenotype": "Atopic dermatitis"
+}
+

@@ -1,0 +1,1 @@
+Which miRNAs have the lowest percentage of 'C' nucleotides in their sequence, excluding miRNAs with zero 'C'? Return all miRNAs tied for the minimum percentage.

@@ -1,0 +1,1 @@
+What diseases are caused or contributed by miRNAs regulating the activity of the gene 'ADAMTS4' and have the phenotype 'Pulmonary sequestration'? Return the disease label, gene label, miRNA label, and phenotype label.

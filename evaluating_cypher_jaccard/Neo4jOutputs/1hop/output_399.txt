@@ -1,0 +1,20 @@
+{
+  "GO": "positive regulation of synapse assembly"
+}
+
+{
+  "GO": "protein-containing complex assembly involved in synapse maturation"
+}
+
+{
+  "GO": "regulation of presynapse assembly"
+}
+
+{
+  "GO": "regulation of inhibitory synapse assembly"
+}
+
+{
+  "GO": "negative regulation of inhibitory synapse assembly"
+}
+

@@ -1,0 +1,35 @@
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-302a precursor",
+  "miRNA": "microRNA hsa-mir-302c precursor",
+  "Cancer": "cervical carcinoma"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-302a precursor",
+  "miRNA": "microRNA hsa-mir-302c precursor",
+  "Cancer": "cervical cancer"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-302a precursor",
+  "miRNA": "microRNA hsa-mir-302d precursor",
+  "Cancer": "cervical carcinoma"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-302a precursor",
+  "miRNA": "microRNA hsa-mir-302d precursor",
+  "Cancer": "cervical cancer"
+}
+
+{
+  "GOterm": "miRNA-mediated post-transcriptional gene silencing",
+  "Pre_miRNA": "microRNA hsa-mir-302d precursor",
+  "miRNA": "microRNA hsa-mir-302c precursor",
+  "Cancer": "cervical carcinoma"
+}
+

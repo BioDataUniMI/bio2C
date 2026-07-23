@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*[a-z]DNA.*' RETURN cc.Label AS CellularComponent

@@ -1,0 +1,4 @@
+{
+  "AdultInfectiousDisease": "adult T-cell leukemia/lymphoma"
+}
+

@@ -1,0 +1,1 @@
+Identify the miRNAs located in cellular components that are part of the GO terms labeled as 'mitochondrial envelope'.

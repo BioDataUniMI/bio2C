@@ -1,0 +1,45 @@
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-205-3p",
+  "Pre_miRNA": "microRNA hsa-mir-205 precursor",
+  "PubMedID": [
+    "36306049"
+  ]
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-205-3p",
+  "Pre_miRNA": "microRNA hsa-mir-205 precursor",
+  "PubMedID": [
+    "36306049"
+  ]
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-485-3p",
+  "Pre_miRNA": "microRNA hsa-mir-485 precursor",
+  "PubMedID": [
+    "34194552"
+  ]
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-485-3p",
+  "Pre_miRNA": "microRNA hsa-mir-485 precursor",
+  "PubMedID": [
+    "34194552"
+  ]
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-29a-5p",
+  "Pre_miRNA": "microRNA hsa-mir-29a precursor",
+  "PubMedID": [
+    "35708150"
+  ]
+}
+

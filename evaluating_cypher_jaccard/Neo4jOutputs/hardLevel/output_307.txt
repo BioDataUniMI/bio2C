@@ -1,0 +1,35 @@
+{
+  "MolecularFunction": "G protein-coupled acetylcholine receptor activity",
+  "GOProcesses": [
+    "G protein-coupled acetylcholine receptor signaling pathway"
+  ]
+}
+
+{
+  "MolecularFunction": "G protein-coupled bile acid receptor activity",
+  "GOProcesses": [
+    "adenylate cyclase-activating G protein-coupled bile acid receptor signaling pathway"
+  ]
+}
+
+{
+  "MolecularFunction": "G protein-coupled glutamate receptor activity",
+  "GOProcesses": [
+    "G protein-coupled glutamate receptor signaling pathway"
+  ]
+}
+
+{
+  "MolecularFunction": "G protein-coupled serotonin receptor activity",
+  "GOProcesses": [
+    "G protein-coupled serotonin receptor signaling pathway"
+  ]
+}
+
+{
+  "MolecularFunction": "PLC activating G protein-coupled glutamate receptor activity",
+  "GOProcesses": [
+    "phospholipase C-activating G protein-coupled glutamate receptor signaling pathway"
+  ]
+}
+

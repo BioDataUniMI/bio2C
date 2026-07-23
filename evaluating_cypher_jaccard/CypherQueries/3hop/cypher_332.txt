@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Fatigue'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(c:Cancer)-[:expresses]->(m:miRNA) WHERE m.Label ENDS WITH '3p' RETURN d.Label AS Disease, c.Label AS ParentCancer, m.Label AS miRNA

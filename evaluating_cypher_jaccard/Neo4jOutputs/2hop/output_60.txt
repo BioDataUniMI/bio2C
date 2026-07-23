@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-296-5p",
+  "GOTerm": "positive regulation of ubiquitin-protein transferase activity",
+  "GOTermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GOTerm": "histone H3K9 monomethyltransferase activity",
+  "GOTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-296-5p",
+  "GOTerm": "regulation of ubiquitin-protein transferase activity",
+  "GOTermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GOTerm": "histone H3K9 trimethyltransferase activity",
+  "GOTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GOTerm": "histone H3K9me2 methyltransferase activity",
+  "GOTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+

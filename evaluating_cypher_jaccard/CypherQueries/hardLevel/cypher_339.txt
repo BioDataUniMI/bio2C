@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_part]->(cc:Cellular_component)-[:location_of]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH go, COUNT(DISTINCT g) AS GeneCount RETURN go.Label AS GOterm, GeneCount ORDER BY GeneCount DESC, go.Label ASC LIMIT 5

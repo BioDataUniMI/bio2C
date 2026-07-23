@@ -1,0 +1,20 @@
+{
+  "GO": "synaptic transmission involved in micturition",
+  "Phenotype": "Polyuria"
+}
+
+{
+  "GO": "synaptic transmission involved in micturition",
+  "Phenotype": "Decreased urine output"
+}
+
+{
+  "GO": "synaptic transmission involved in micturition",
+  "Phenotype": "Abnormal urine output"
+}
+
+{
+  "GO": "synaptic transmission involved in micturition",
+  "Phenotype": "Anuria"
+}
+

@@ -1,0 +1,24 @@
+{
+  "Phenotype": "Chondrosarcoma",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Typified by somatic mosaicism",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Chondrosarcoma",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "Phenotype": "Typified by somatic mosaicism",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+

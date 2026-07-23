@@ -1,0 +1,1 @@
+Identify the top ten cellular components in which miRNAs are active, ranked by the number of associated miRNAs. In case of ties, order the cellular components alphabetically by their label, and report the corresponding counts.

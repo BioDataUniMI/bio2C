@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:over_expressed_in]->(c2:Cancer {Label:'pediatric osteosarcoma'}) RETURN m.Label AS miRNA, c.Label AS Cancer

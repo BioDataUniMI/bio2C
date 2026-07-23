@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-13' AND m.Sequence ENDS WITH 'A' RETURN m.Label AS miRNALabel, m.Sequence AS miRNASequence

@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Non-small cell lung carcinoma",
+  "Cancer": "adenoma",
+  "GU_Count": 1
+}
+
+{
+  "Phenotype": "Laryngeal carcinoma",
+  "Cancer": "adenoma",
+  "GU_Count": 1
+}
+
+{
+  "Phenotype": "Renal cell carcinoma",
+  "Cancer": "adenoma",
+  "GU_Count": 1
+}
+
+{
+  "Phenotype": "Breast carcinoma",
+  "Cancer": "adenoma",
+  "GU_Count": 1
+}
+
+{
+  "Phenotype": "Papillary thyroid carcinoma",
+  "Cancer": "adenoma",
+  "GU_Count": 1
+}
+

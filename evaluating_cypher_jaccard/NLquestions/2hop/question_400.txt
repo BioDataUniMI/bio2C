@@ -1,0 +1,1 @@
+Identify miRNAs located in the cellular component labeled as 'compact myelin' that cause or contribute to the disease labeled as 'malignant pancreatic neoplasm', and report the disease phenotypes related to 'pain'.

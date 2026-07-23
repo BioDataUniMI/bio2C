@@ -1,0 +1,1 @@
+Return GO terms whose descriptions mention both 'proton' and 'catalytic'.

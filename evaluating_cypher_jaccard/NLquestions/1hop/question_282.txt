@@ -1,0 +1,1 @@
+Which diseases related to the brain are caused by the disruption of biological processes? Return the label of the disease and the disrupted process.

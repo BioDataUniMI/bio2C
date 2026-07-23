@@ -1,0 +1,20 @@
+{
+  "cc.Label": "synapse-associated extracellular matrix"
+}
+
+{
+  "cc.Label": "chitin-based extracellular matrix"
+}
+
+{
+  "cc.Label": "interphotoreceptor matrix"
+}
+
+{
+  "cc.Label": "perisynaptic extracellular matrix"
+}
+
+{
+  "cc.Label": "organomineral extracellular matrix"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) STARTS WITH 'anti' RETURN d.Label, d.URI

@@ -1,0 +1,1 @@
+Which biological processes, including all their properties, occur in cellular components and have miRNAs expressed by the cancer labeled as 'lipoma' participating in them? Return the cellular component label, miRNA label, and properties of the biological processes.

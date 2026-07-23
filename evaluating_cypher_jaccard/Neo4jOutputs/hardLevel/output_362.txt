@@ -1,0 +1,25 @@
+{
+  "Gene": "A1BG",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "ADA",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "CDH3",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "TANK",
+  "NumberOfRegulatingMiRNAs": 1
+}
+
+{
+  "Gene": "HOTTIP",
+  "NumberOfRegulatingMiRNAs": 1
+}
+

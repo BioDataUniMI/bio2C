@@ -1,0 +1,1 @@
+Find GO terms characterized by the phenotype labeled as 'Hepatitis' of diseases in which the miRNA 'hsa-let-7a-3p' is expressed. Return the miRNA label, disease label, phenotype label, and GO term label.

@@ -1,0 +1,1 @@
+Which cellular component(s) have the maximum number of distinct miRNAs located in them, considering only cellular components that participate in biological processes (including ties)? Return the cellular component label and the number of associated miRNAs.

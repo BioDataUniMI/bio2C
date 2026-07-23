@@ -1,0 +1,1 @@
+Retrieve the autoimmune diseases that have a basis in the dysfunction of GO terms. Return the entire node for the autoimmune disease and ONLY the label for the GO term.

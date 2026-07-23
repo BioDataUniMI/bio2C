@@ -1,0 +1,8 @@
+{
+  "Gene": "ZNF592",
+  "Genomic_coordinates": [
+    "chr15:84748592-84806445+"
+  ],
+  "Sequence_Length": 57854
+}
+

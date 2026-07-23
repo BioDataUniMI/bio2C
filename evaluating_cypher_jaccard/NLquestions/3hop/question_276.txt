@@ -1,0 +1,1 @@
+Retrieve phenotypes that are features of cardiovascular diseases caused or contributed to by genes whose activity is regulated by the 'hsa-miR-372-3p' miRNA. Return the phenotype entire node.

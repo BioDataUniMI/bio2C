@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-20a-3p",
+  "Length": 22,
+  "Sequence": "ACUGCAUUAUGAGCACUUAAAG"
+}
+
+{
+  "miRNA": "hsa-miR-208a-3p",
+  "Length": 22,
+  "Sequence": "AUAAGACGAGCAAAAAGCUUGU"
+}
+
+{
+  "miRNA": "hsa-miR-203a-3p",
+  "Length": 22,
+  "Sequence": "GUGAAAUGUUUAGGACCACUAG"
+}
+
+{
+  "miRNA": "hsa-miR-23a-3p",
+  "Length": 21,
+  "Sequence": "AUCACAUUGCCAGGGAUUUCC"
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "Length": 22,
+  "Sequence": "UAGCACCAUCUGAAAUCGGUUA"
+}
+

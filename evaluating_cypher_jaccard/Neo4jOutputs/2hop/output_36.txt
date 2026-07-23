@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "SuperDisease": "myomatous neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "SuperDisease": "benign neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "SuperDisease": "musculoskeletal system benign neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "adenoma",
+  "SuperDisease": "epithelial neoplasm"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "sarcoma",
+  "SuperDisease": "cancer"
+}
+

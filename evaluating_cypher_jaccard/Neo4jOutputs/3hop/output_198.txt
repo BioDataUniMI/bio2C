@@ -1,0 +1,25 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "adenoma",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "sarcoma",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "lipoma",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Cancer": "hamartoma",
+  "Gene": "SYNCRIP"
+}
+

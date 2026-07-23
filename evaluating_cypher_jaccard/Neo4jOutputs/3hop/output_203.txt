@@ -1,0 +1,24 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "CellularComponent": "nuclear lumen",
+  "GOterm": "cell nucleus"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "CellularComponent": "nucleoplasm",
+  "GOterm": "nuclear lumen"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+

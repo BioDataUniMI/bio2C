@@ -1,0 +1,8 @@
+{
+  "g.Label": "kinase inhibitor activity"
+}
+
+{
+  "g.Label": "phosphatidylinositol 3-kinase inhibitor activity"
+}
+

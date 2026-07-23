@@ -1,0 +1,1 @@
+For each miRNA, retrieve the pri-miRNA sequence it was transcribed from (i.e., the gene-level sequence but with Ts converted to Us). Consider only miRNAs transcribed from genes whose label contains the letter 'B'. Return the miRNAs and genes' labels and the sequence.

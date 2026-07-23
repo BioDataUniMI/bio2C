@@ -1,0 +1,1 @@
+Find the distinct IDs of diseases where miRNAs are under-expressed and such that their description contains the word 'sahara'.

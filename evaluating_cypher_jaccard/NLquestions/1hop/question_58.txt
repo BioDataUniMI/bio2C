@@ -1,0 +1,1 @@
+List all GO terms whose description contains the string 'dna damage' that under express miRNAs whose labels end with 'b-5p'. Return the miRNAs and the GO terms' labels.

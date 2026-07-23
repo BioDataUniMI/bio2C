@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE SIZE(m.Sequence) < 17 AND m.Sequence CONTAINS 'A' AND m.Sequence CONTAINS 'U' AND m.Sequence CONTAINS 'C' AND m.Sequence CONTAINS 'G' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Length, m.Sequence AS Sequence

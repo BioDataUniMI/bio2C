@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:increased_in_magnitude_relative_to]->(p2:Phenotype {Label:'normal'}) RETURN p1.Label

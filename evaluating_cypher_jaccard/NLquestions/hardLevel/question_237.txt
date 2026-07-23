@@ -1,0 +1,1 @@
+For each autoimmune disease whose label contains 'multiple sclerosis', find the miRNA with the shortest sequence that causes or contributes to it. Return disease label, miRNA label, sequence, and sequence length.

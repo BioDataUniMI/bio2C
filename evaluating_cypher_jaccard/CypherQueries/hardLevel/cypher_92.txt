@@ -1,0 +1,1 @@
+MATCH (premirna:pre_miRNA)-[:develops_into]->(mirna:miRNA)-[:regulates_activity_of]->(g1:Gene)-[:genetically_interacts_with]->(g2:Gene {Label:'H4C16'}) WITH premirna, mirna, g1, [coord IN mirna.Genomic_coordinates WHERE coord STARTS WITH 'chr8'] AS chr8_coords WHERE SIZE(chr8_coords) >= 2 RETURN premirna.Label AS Pre_miRNA, mirna.Label AS miRNA, g1.Label AS RegulatedGene

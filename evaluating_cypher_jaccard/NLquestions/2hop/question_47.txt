@@ -1,0 +1,1 @@
+Compute the number of distinct precursor miRNAs that are transcribed from genes that are also transcribed into mature miRNAs.

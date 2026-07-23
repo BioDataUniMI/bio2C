@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(nd:Neurodegenerative_disease {Label:'Alzheimer disease'})-[:has_phenotype]->(p:Phenotype {Label:'Semantic dementia'})-[:phenotype_of]->(d:Disease) WHERE m.Label =~ '.*a-5p$' RETURN DISTINCT m.Label AS miRNA, nd.Label AS NeurodegenerativeDisease, p.Label AS Phenotype, d.Label AS Disease

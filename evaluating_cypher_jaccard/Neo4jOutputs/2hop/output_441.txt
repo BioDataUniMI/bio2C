@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-4259",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "FDR": 2.49e-20
+}
+
+{
+  "miRNA": "hsa-miR-101-5p",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss",
+  "FDR": 0.000373451
+}
+
+{
+  "miRNA": "hsa-miR-101-5p",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Hemoptysis",
+  "FDR": 0.000373451
+}
+
+{
+  "miRNA": "hsa-miR-101-5p",
+  "Cancer": "lung cancer",
+  "Phenotype": "Cough",
+  "FDR": 0.000373451
+}
+
+{
+  "miRNA": "hsa-miR-101-5p",
+  "Cancer": "lung cancer",
+  "Phenotype": "Wheezing",
+  "FDR": 0.000373451
+}
+

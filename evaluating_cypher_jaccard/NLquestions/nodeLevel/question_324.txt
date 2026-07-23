@@ -1,0 +1,1 @@
+Find all cancers whose labels contain 'lung' and 'carcinoma'; the latter as a standalone word (i.e., without any prefixes).

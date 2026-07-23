@@ -1,0 +1,1 @@
+Consider miRNAs that regulate the gene 'CCNG1' and count the number of uracil ('U') nucleotides in each miRNA sequence and the number of thymine ('T') nucleotides in the sequence of 'CCNG1'. Return both counts along with the miRNA and gene labels.

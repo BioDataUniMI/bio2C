@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-425 precursor",
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-141 precursor",
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-146b precursor",
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-191 precursor",
+  "Cancer": "lung carcinoma"
+}
+

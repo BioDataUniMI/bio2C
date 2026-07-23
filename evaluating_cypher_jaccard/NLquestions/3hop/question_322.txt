@@ -1,0 +1,1 @@
+Which miRNAs participate in biological processes whose disruption is caused by diseases that have the phenotype labeled as 'Renovascular hypertension'? Return the label of diseases, biological processes, and miRNAs.

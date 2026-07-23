@@ -1,0 +1,1 @@
+Find all biological processes whose labels contain 'blood-brain barrier'. Return their label and ID.

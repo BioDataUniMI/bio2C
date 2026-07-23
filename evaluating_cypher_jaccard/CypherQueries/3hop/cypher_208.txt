@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(go:GO)-[:has_part]->(bp:Biological_process) WHERE go.Label CONTAINS 'heart' OR bp.Label CONTAINS 'heart' RETURN DISTINCT p.Label AS Phenotype, d.Label AS Disease, go.Label AS DisruptedGO, bp.Label AS BiologicalProcess

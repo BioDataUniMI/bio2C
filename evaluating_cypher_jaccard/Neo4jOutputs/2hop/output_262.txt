@@ -1,0 +1,5 @@
+{
+  "RegulatedGene": "TGFB1",
+  "InteractingGene": "ABCF2"
+}
+

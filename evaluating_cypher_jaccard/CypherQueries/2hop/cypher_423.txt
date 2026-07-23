@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:in_homology_relationship_with]->(m:miRNA)-[:under_expressed_in]->(c:Cancer {Label :'liver cancer'}) RETURN p.Label AS pre_miRNA, m.Label AS miRNA

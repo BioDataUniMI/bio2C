@@ -1,0 +1,1 @@
+List all miRNAs that are under-expressed in GO terms and are characterized by sequences ending with 'GGGG'.

@@ -1,0 +1,1 @@
+Which genes have sequences that contain a stretch of 50 consecutive Ts?

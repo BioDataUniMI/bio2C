@@ -1,0 +1,30 @@
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedGO": "intracellular iron ion homeostasis",
+  "BiologicalProcess": "sequestering of iron ion"
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedGO": "intracellular iron ion homeostasis",
+  "BiologicalProcess": "cellular response to iron ion starvation"
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "DisruptedGO": "cartilage development",
+  "BiologicalProcess": "chondroblast differentiation"
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "DisruptedGO": "cartilage development",
+  "BiologicalProcess": "cartilage morphogenesis"
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "DisruptedGO": "cartilage development",
+  "BiologicalProcess": "chondrocyte differentiation"
+}
+

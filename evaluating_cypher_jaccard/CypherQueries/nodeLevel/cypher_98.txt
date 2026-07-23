@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'cell' AND SIZE(cc.Synonym) >= 1 RETURN cc.Label AS CellularComponent, cc.Synonym AS Synonyms

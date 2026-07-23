@@ -1,0 +1,1 @@
+Find molecular functions that are associated with 8 or more cellular components. Return the molecular function label and the number of associated components.

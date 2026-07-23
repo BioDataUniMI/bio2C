@@ -1,0 +1,1 @@
+Which molecular functions start or end GO terms having the word 'signaling' in the label? Return ONLY the distinct label of molecular functions.

@@ -1,0 +1,1 @@
+MATCH (m:pre_miRNA)-[:is_causal_germline_mutation_in]->(p) WHERE (p:Phenotype OR (p)-[:subclassof*1..]->(:Phenotype)) RETURN DISTINCT m.Label AS pre_miRNA, p.Label AS Phenotype

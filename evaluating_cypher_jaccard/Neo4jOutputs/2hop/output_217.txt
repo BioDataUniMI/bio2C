@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "serine/threonine protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "RISC-loading complex"
+}
+

@@ -1,0 +1,1 @@
+Find biological processes that have exactly three sources listed as their causal agent relationships wrt. GO terms. Return the labels of the processes, the GO terms, and the source(s) confirming the interaction.

@@ -1,0 +1,30 @@
+{
+  "Gene": "TNF",
+  "Disease": "hypersensitivity reaction disease",
+  "Disrupted_GO": "hypersensitivity"
+}
+
+{
+  "Gene": "TNF",
+  "Disease": "anemia",
+  "Disrupted_GO": "erythrocyte homeostasis"
+}
+
+{
+  "Gene": "CDK6",
+  "Disease": "anemia",
+  "Disrupted_GO": "erythrocyte homeostasis"
+}
+
+{
+  "Gene": "TYMS",
+  "Disease": "anemia",
+  "Disrupted_GO": "erythrocyte homeostasis"
+}
+
+{
+  "Gene": "TYMS",
+  "Disease": "urea cycle disorder",
+  "Disrupted_GO": "urea cycle"
+}
+

@@ -1,0 +1,24 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-29c precursor",
+  "AutoimmuneDisease": "toxoplasmosis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "AutoimmuneDisease": "toxoplasmosis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "AutoimmuneDisease": "toxoplasmosis",
+  "Source": [
+    "HMDD"
+  ]
+}
+

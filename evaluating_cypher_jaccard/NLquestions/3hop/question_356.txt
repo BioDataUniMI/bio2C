@@ -1,0 +1,1 @@
+Find the genes that transcribe pre-miRNAs which develop into miRNAs that do not end with 'p' and regulate the activity of either target genes 'SMG1P6' and 'SMG1P7'. Return the label of the: gene, pre-miRNA, and miRNA.

@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "miRNA-mediated post-transcriptional gene silencing",
+  "miRNA_Count": 770
+}
+
+{
+  "BiologicalProcess": "apoptotic process",
+  "miRNA_Count": 358
+}
+
+{
+  "BiologicalProcess": "cell population proliferation",
+  "miRNA_Count": 92
+}
+
+{
+  "BiologicalProcess": "positive regulation of cell population proliferation",
+  "miRNA_Count": 88
+}
+
+{
+  "BiologicalProcess": "regulation of cell population proliferation",
+  "miRNA_Count": 88
+}
+

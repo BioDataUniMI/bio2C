@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:over_expressed_in|under_expressed_in]->(d1:Disease)-[:disease_has_feature]->(d2:Disease) WHERE d1.Label CONTAINS 'pancreatic' AND m.Label ENDS WITH '5p' AND m.Sequence ENDS WITH 'GGG' RETURN DISTINCT m.Label AS miRNA, d1.Label AS intermediateDisease,d2.Label AS targetDisease

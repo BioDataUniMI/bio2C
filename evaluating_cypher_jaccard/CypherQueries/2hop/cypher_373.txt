@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:genetically_interacts_with]->(g2:Gene)-[:causes_or_contributes_to_condition]->(d:Disease {Label: 'acute liver failure'}) RETURN g1.Label AS Gene, g2.Label AS Interacting_Gene

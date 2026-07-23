@@ -1,0 +1,1 @@
+Find the miRNA(s) that regulate the maximum number of distinct genes (including ties). Return the miRNA label and the number of regulated genes.

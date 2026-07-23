@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'microvesicle' AND m.Label ENDS WITH 'a-3p' RETURN m.Label AS miRNA

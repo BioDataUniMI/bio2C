@@ -1,0 +1,20 @@
+{
+  "cc.Label": "bacterial extracellular vesicle"
+}
+
+{
+  "cc.Label": "COPI vesicle coat"
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory membrane"
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory outer membrane"
+}
+
+{
+  "cc.Label": "COPII vesicle coat"
+}
+

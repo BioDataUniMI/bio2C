@@ -1,0 +1,20 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-200a precursor",
+  "Mature_miRNA": "hsa-miR-200a-5p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-519a precursor (hsa-mir-519a-1)",
+  "Mature_miRNA": "hsa-miR-519a-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-519a precursor (hsa-mir-519a-2)",
+  "Mature_miRNA": "hsa-miR-519a-3p"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-216a precursor",
+  "Mature_miRNA": "hsa-miR-216a-5p"
+}
+

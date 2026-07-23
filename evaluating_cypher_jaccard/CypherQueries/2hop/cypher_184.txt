@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:part_of]->(cc:Cellular_component) RETURN DISTINCT c.Label AS Cancer, m.Label AS miRNA, cc.Label AS CellularComponent

@@ -1,0 +1,7 @@
+{
+  "Phenotype": "Seizure",
+  "numAutoimmuneDiseases": 89,
+  "numCancers": 307,
+  "MaxTotalShared": 396
+}
+

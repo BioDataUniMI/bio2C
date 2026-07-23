@@ -1,0 +1,1 @@
+List cellular components whose labels contain 'chromosome' and whose descriptions contain 'gene' and either 'dna' or 'rna'.

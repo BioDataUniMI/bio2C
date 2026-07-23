@@ -1,0 +1,1 @@
+Which biological processes simultaneously have GO terms as parts of the process, occur in specific GO terms, and have primary input GO terms? Return the label of the biological process and of all the mentioned GO terms.

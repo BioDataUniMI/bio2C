@@ -1,0 +1,1 @@
+Find cardiovascular diseases whose descriptions mention both 'tachycardia' and 'gene'.

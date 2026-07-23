@@ -1,0 +1,1 @@
+List the labels of miRNAs having parts that occur in GO terms. Include also the sources claiming the interaction in the output.

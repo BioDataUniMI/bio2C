@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'thyroid' AND d.Description CONTAINS 'carcinoma' RETURN d.Label AS Disease, d.Description AS Description

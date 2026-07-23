@@ -1,0 +1,1 @@
+MATCH (e)-[r]->(d:Mental_disease) WITH e, d, COLLECT(DISTINCT TYPE(r)) AS rels RETURN DISTINCT e.Label AS Entity, d.Label AS Mental_disease, rels AS RelationshipTypes

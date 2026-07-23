@@ -1,0 +1,1 @@
+Identify miRNAs that are expressed in a disease and overexpressed in cancers whose label contains the word 'colon' and the word 'malignant', together with the corresponding diseases and cancers.

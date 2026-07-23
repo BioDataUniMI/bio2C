@@ -1,0 +1,30 @@
+{
+  "Gene": "SSTR3",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+
+{
+  "Gene": "SSTR2",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+
+{
+  "Gene": "BRAF",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+
+{
+  "Gene": "SSTR1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+

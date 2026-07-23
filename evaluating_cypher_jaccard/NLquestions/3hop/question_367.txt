@@ -1,0 +1,1 @@
+Which sources report the interaction between genes regulated by miRNAs and genes that cause or contribute to diseases whose label contains the word 'disk'? Return the labels of the miRNA, genes, disease, and the sources confirming the interaction.

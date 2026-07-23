@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE m1.Label =~ '.*[d-zD-Z]-5p$' RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Sequence AS miRNA_sequence, m2.Sequence AS parent_sequence

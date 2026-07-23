@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-328-5p",
+  "miRNA_sequence": "GGGGGGGCAGGAGGGGCUCAGGG",
+  "Sequence_length": 23,
+  "DiseaseLabel": "Alzheimer disease",
+  "DiseaseDescription": "a progressive, neurodegenerative disease characterized by loss of function and death of nerve cel..."
+}
+
+{
+  "miRNA": "hsa-miR-9-5p",
+  "miRNA_sequence": "UCUUUGGUUAUCUAGCUGUAUGA",
+  "Sequence_length": 23,
+  "DiseaseLabel": "Alzheimer disease",
+  "DiseaseDescription": "a progressive, neurodegenerative disease characterized by loss of function and death of nerve cel..."
+}
+
+{
+  "miRNA": "hsa-miR-107",
+  "miRNA_sequence": "AGCAGCAUUGUACAGGGCUAUCA",
+  "Sequence_length": 23,
+  "DiseaseLabel": "Alzheimer disease",
+  "DiseaseDescription": "a progressive, neurodegenerative disease characterized by loss of function and death of nerve cel..."
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "miRNA_sequence": "CAAAGUGCUGUUCGUGCAGGUAG",
+  "Sequence_length": 23,
+  "DiseaseLabel": "Alzheimer disease",
+  "DiseaseDescription": "a progressive, neurodegenerative disease characterized by loss of function and death of nerve cel..."
+}
+
+{
+  "miRNA": "hsa-miR-20b-5p",
+  "miRNA_sequence": "CAAAGUGCUCAUAGUGCAGGUAG",
+  "Sequence_length": 23,
+  "DiseaseLabel": "multiple sclerosis",
+  "DiseaseDescription": "a progressive autoimmune disorder affecting the central nervous system resulting in demyelination..."
+}
+

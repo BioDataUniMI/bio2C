@@ -1,0 +1,1 @@
+List all one-word synonyms for the phenotype 'APUdoma' that are associated with genes causing or contributing to it. Return the gene label, the phenotype label, and each one-word synonym, ordering the synonyms alphabetically.

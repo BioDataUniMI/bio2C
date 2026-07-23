@@ -1,0 +1,9 @@
+{
+  "MolecularFunction": {
+    "Description": "catalysis of the reaction: protein + atp = protein phosphate + adp. this reaction is the phosphor...",
+    "Label": "MAP kinase activity",
+    "ID": "GO:0004707",
+    "URI": "http://purl.obolibrary.org/obo/GO_0004707"
+  }
+}
+

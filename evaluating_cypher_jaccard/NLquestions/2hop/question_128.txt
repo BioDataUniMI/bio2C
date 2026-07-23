@@ -1,0 +1,1 @@
+Identify phenotypes that express miRNAs which are under-expressed in cancers whose label contains the word 'esophagus' with an FDR lower than 0.05. Return the label of: phenotype, the miRNA, the cancer labels, and the FDR value.

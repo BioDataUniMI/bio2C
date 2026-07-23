@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:under_expressed_in]->(ph:Phenotype) WHERE SIZE(m.Sequence) < 22 AND SUBSTRING(m.Sequence, 0, 1) = SUBSTRING(m.Sequence, SIZE(m.Sequence)-1, 1) AND ph.Description CONTAINS 'malignant' RETURN ph.Label AS Phenotype, c.Label AS Cancer, COLLECT(m.Label) AS miRNAs

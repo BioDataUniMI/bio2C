@@ -1,0 +1,1 @@
+Identify GO terms where miRNAs transcribed from genes containing the character 'J' in their label are located, excluding GO terms that contain 'extracellular' or 'nucleus' in the label. Return the gene, miRNA, and GO term labels.

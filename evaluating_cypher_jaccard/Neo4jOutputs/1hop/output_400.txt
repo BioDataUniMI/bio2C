@@ -1,0 +1,12 @@
+{
+  "GO": "guanylate cyclase activity"
+}
+
+{
+  "GO": "cyclase activity"
+}
+
+{
+  "GO": "adenylate cyclase activity"
+}
+

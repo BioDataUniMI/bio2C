@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-499a-3p",
+  "Parent_miRNA": "microRNA hsa-mir-499a precursor",
+  "sequence_length": 22,
+  "parent_sequence_length": 122
+}
+
+{
+  "miRNA": "hsa-miR-7844-5p",
+  "Parent_miRNA": "microRNA hsa-mir-7844 precursor",
+  "sequence_length": 22,
+  "parent_sequence_length": 122
+}
+

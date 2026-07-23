@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'collagen' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'Elevación') RETURN p.Label AS Phenotype, p.Label, p.Synonym

@@ -1,0 +1,1 @@
+Which miRNAs whose label contains '-7f-1-' are over expressed in GO terms that are subclasses of other GO terms whose label contains 'catabolic process', are positively regulated by another GO term, and in which genomic coordinates these miRNAs are located?

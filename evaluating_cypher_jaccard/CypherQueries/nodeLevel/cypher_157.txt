@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA) WHERE p.Description CONTAINS 'precursor' AND SIZE(p.Sequence) < 50 RETURN p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length

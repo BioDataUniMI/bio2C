@@ -1,0 +1,36 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Source": [
+    "GOC"
+  ],
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Source": [
+    "GOC"
+  ],
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "Source": [
+    "GOC"
+  ],
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA base-pairing translational repressor activity",
+  "Source": [
+    "GOC"
+  ],
+  "CellularComponent": "extracellular exosome"
+}
+

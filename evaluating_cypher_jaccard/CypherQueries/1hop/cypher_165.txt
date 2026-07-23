@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-652-3p'})-[r:located_in]->(cc:Cellular_component) WHERE r.Context IS NOT NULL AND r.PubMedID IS NOT NULL RETURN cc.Label AS CellularComponent, r.Context AS Context, r.PubMedID AS PubMedID

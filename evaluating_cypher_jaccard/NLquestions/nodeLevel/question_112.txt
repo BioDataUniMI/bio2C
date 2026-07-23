@@ -1,0 +1,1 @@
+Which miRNAs have sequences less than 17 nucleotides long and contain at least one 'A', 'U', 'C', and 'G'?

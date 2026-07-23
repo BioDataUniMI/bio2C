@@ -1,0 +1,1 @@
+Which miRNAs have as function molecular functions whose label contains the word 'miRNA' and also participate in biological processes whose label contains the string 'protein signal transduction'?

@@ -1,0 +1,39 @@
+{
+  "Gene": "MIR1247",
+  "GeneLength": 136,
+  "Cancers": [
+    "clear cell renal carcinoma",
+    "differentiated thyroid carcinoma",
+    "familial nonmedullary thyroid carcinoma",
+    "papillary adenocarcinoma",
+    "papillary renal cell carcinoma",
+    "renal cell adenocarcinoma",
+    "renal cell carcinoma",
+    "thyroid cancer, nonmedullary, 1",
+    "thyroid gland papillary carcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR769",
+  "GeneLength": 118,
+  "Cancers": [
+    "fibrolamellar hepatocellular carcinoma",
+    "hepatocellular carcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR638",
+  "GeneLength": 100,
+  "Cancers": [
+    "lung adenocarcinoma",
+    "lung benign neoplasm",
+    "lung cancer",
+    "lung carcinoma",
+    "lung neoplasm",
+    "minimally invasive lung adenocarcinoma",
+    "non-small cell lung carcinoma"
+  ]
+}
+

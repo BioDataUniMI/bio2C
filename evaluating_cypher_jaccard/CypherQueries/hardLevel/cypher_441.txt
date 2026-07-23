@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(:Neurodegenerative_disease) UNWIND m.Genomic_coordinates AS coord WITH toInteger(SPLIT(SPLIT(coord, ':')[1], '-')[0]) AS startPos RETURN AVG(startPos) AS avg_start_position

@@ -1,0 +1,1 @@
+Find GO terms that are part of cellular components that have as part the miRNA 'microRNA hsa-mir-7704 precursor'. Return the GO term and the cellular component labels.

@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-338-3p",
+  "target_count": 186
+}
+
+{
+  "m.Label": "hsa-miR-424-5p",
+  "target_count": 235
+}
+
+{
+  "m.Label": "hsa-miR-497-5p",
+  "target_count": 228
+}
+
+{
+  "m.Label": "hsa-miR-29b-3p",
+  "target_count": 161
+}
+
+{
+  "m.Label": "hsa-miR-15b-5p",
+  "target_count": 222
+}
+

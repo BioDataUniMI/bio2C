@@ -1,0 +1,1 @@
+List pairs of genes that genetically interact with each other, where both gene names start with 'CT' and Gene2 has a longer sequence than Gene1. Return both gene labels and their sequence lengths along with the length difference.

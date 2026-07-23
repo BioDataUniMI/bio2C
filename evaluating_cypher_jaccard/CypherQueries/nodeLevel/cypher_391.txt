@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'epilepsy' AND n.Description CONTAINS 'mutation' AND n.Description CONTAINS 'gene' RETURN n.Label,n.Description

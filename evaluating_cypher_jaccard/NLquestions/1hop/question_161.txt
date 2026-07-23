@@ -1,0 +1,1 @@
+List all miRNAs that enable a GO term, such that the GO evidence include 'IDA' and the source include 'GOC'. Return the GO terms' label, ID, and URI.

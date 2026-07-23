@@ -1,0 +1,1 @@
+How many phenotypes containing the word 'lung' and how many containing the word 'breast' are associated with causal somatic mutations involving pre-miRNAs?

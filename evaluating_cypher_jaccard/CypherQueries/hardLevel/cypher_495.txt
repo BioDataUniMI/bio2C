@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(p:Phenotype) WHERE ANY(ctx IN r.Context WHERE toLower(ctx) CONTAINS '1 cell' OR toLower(ctx) CONTAINS 'lovo') RETURN DISTINCT m.Label AS miRNA, p.Label AS Phenotype, r.Context AS Context

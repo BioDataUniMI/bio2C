@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "cytoplasmic vesicle",
+  "miRNA": "hsa-miR-23a-5p"
+}
+
+{
+  "CellularComponent": "cytoplasmic vesicle",
+  "miRNA": "hsa-miR-129-5p"
+}
+
+{
+  "CellularComponent": "cytoplasmic vesicle",
+  "miRNA": "hsa-miR-133a-3p"
+}
+
+{
+  "CellularComponent": "cytoplasmic vesicle",
+  "miRNA": "hsa-miR-140-3p"
+}
+
+{
+  "CellularComponent": "cytoplasmic vesicle",
+  "miRNA": "hsa-miR-330-5p"
+}
+

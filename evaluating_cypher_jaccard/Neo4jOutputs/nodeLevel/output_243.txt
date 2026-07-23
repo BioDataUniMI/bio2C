@@ -1,0 +1,12 @@
+{
+  "Length": 164,
+  "miRNA": "microRNA hsa-mir-6753 precursor",
+  "Description": "homo sapiens (human) microrna hsa-mir-6753 precursor"
+}
+
+{
+  "Length": 180,
+  "miRNA": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "Description": "homo sapiens (human) microrna hsa-mir-3648 precursor (hsa-mir-3648-1, hsa-mir-3648-2)"
+}
+

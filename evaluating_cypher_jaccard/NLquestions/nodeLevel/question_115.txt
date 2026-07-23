@@ -1,0 +1,1 @@
+Which GO terms contain 'cell' in the label and have at least one synonym?

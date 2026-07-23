@@ -1,0 +1,1 @@
+Which GO terms contain 'membrane' in the label and have at least one synonym mentioning 'transport' (consider a case-insensitive string comparison)?

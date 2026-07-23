@@ -1,0 +1,1 @@
+MATCH (d:Neurodegenerative_disease) WHERE d.Description CONTAINS 'dementia' RETURN d.Label AS Disease, d.Description AS Description

@@ -1,0 +1,1 @@
+MATCH (cv:Cardiovascular_disease)-[:disease_has_feature]->(p:Phenotype)-[:expresses]->(m:miRNA {Species:'Homo sapiens'}) RETURN cv.Label AS Disease, p.Label AS Phenotype, m.Label AS miRNA

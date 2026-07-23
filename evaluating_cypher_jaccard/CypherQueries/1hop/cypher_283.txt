@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(mf:Molecular_function) RETURN d.Label AS Disease, mf.Label AS DisruptedFunction

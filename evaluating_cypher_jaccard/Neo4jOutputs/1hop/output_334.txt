@@ -1,0 +1,4 @@
+{
+  "g.Label": "activation of blood coagulation via clotting cascade"
+}
+

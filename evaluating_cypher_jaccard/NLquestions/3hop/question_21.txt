@@ -1,0 +1,1 @@
+Which miRNAs are in a homology relationship with the precursor miRNA 'microRNA hsa-mir-374b precursor' that is known to cause or contribute to diseases causing the disruption of specific molecular functions? Return the label of miRNA and disease, and the entire disrupted molecular function node.

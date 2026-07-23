@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "megasporocyte nucleus",
+  "Description": "the nucleus of a megasporocyte, a diploid cell that undergoes meiosis to produce four megaspores,..."
+}
+
+{
+  "CellularComponent": "polar nucleus",
+  "Description": "either of two nuclei located centrally in a flowering plant embryo sac that eventually fuse to fo..."
+}
+
+{
+  "CellularComponent": "primary endosperm nucleus",
+  "Description": "nucleus resulting from the fusion of the male gamete and two polar nuclei in the central cell of ..."
+}
+
+{
+  "CellularComponent": "male pronucleus",
+  "Description": "the pronucleus originating from the spermatozoa that was involved in fertilization."
+}
+
+{
+  "CellularComponent": "right nucleus",
+  "Description": "one of the two nuclei found in giardia species (trophozoite stage). it is located on the right si..."
+}
+

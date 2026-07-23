@@ -1,0 +1,30 @@
+{
+  "Biological_Process": "glutamate receptor signaling pathway",
+  "Molecular_Function": "glutamate receptor activity",
+  "miRNA": "hsa-miR-124-3p"
+}
+
+{
+  "Biological_Process": "ionotropic glutamate receptor signaling pathway",
+  "Molecular_Function": "glutamate-gated receptor activity",
+  "miRNA": "hsa-miR-124-3p"
+}
+
+{
+  "Biological_Process": "chaperone-mediated autophagy",
+  "Molecular_Function": "protein-folding chaperone binding",
+  "miRNA": "hsa-miR-365a-3p"
+}
+
+{
+  "Biological_Process": "chaperone-mediated autophagy",
+  "Molecular_Function": "protein-folding chaperone binding",
+  "miRNA": "hsa-miR-377-3p"
+}
+
+{
+  "Biological_Process": "NMDA selective glutamate receptor signaling pathway",
+  "Molecular_Function": "NMDA glutamate receptor activity",
+  "miRNA": "hsa-miR-124-3p"
+}
+

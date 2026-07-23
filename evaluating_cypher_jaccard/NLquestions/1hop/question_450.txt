@@ -1,0 +1,1 @@
+Identify biological processes that encompass other biological processes, where the first process label contains the word 'phase' and the encompassed process label does not contain the word 'phase'.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Hepatic failure'})-[:phenotype_of]->(d:Disease {Label:'coenzyme Q10 deficiency'})-[:disease_caused_by_disruption_of]->(go:GO)-[:has_part]->(mf:Molecular_function) RETURN p.Label AS Phenotype, d.Label AS Disease, go.Label AS Disrupted_GO, mf.Label AS MolecularFunction

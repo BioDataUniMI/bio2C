@@ -1,0 +1,20 @@
+{
+  "m.Label": "hsa-miR-660-3p"
+}
+
+{
+  "m.Label": "hsa-miR-548aj-3p"
+}
+
+{
+  "m.Label": "hsa-miR-8088"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-548m precursor"
+}
+
+{
+  "m.Label": "hsa-miR-664b-5p"
+}
+

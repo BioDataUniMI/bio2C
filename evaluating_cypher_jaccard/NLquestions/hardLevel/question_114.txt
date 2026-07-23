@@ -1,0 +1,1 @@
+Find the average difference in sequence length between pairs of genes that genetically interact, where Gene2 has a longer sequence than Gene1. Return the average length difference.

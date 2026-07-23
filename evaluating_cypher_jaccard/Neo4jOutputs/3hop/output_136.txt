@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-3622b precursor",
+  "miRNA": "microRNA hsa-mir-3622a precursor",
+  "Gene": "MIR3622A",
+  "Transcribed_pre_miRNA": "microRNA hsa-mir-3622a precursor"
+}
+
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-5681b precursor",
+  "miRNA": "microRNA hsa-mir-5681a precursor",
+  "Gene": "MIR5681A",
+  "Transcribed_pre_miRNA": "microRNA hsa-mir-5681a precursor"
+}
+
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-663b precursor",
+  "miRNA": "microRNA hsa-mir-663a precursor",
+  "Gene": "MIR663A",
+  "Transcribed_pre_miRNA": "microRNA hsa-mir-663a precursor"
+}
+
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-891b precursor",
+  "miRNA": "microRNA hsa-mir-891a precursor",
+  "Gene": "MIR891A",
+  "Transcribed_pre_miRNA": "microRNA hsa-mir-891a precursor"
+}
+
+{
+  "Pre_miRNA_Homolog": "microRNA hsa-mir-4433b precursor",
+  "miRNA": "microRNA hsa-mir-4433a precursor",
+  "Gene": "MIR4433A",
+  "Transcribed_pre_miRNA": "microRNA hsa-mir-4433a precursor"
+}
+

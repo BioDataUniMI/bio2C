@@ -1,0 +1,14 @@
+{
+  "gene": "MIR103B2",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-2)",
+  "biological_process": "endocytosis",
+  "target_start_location": "extracellular region"
+}
+
+{
+  "gene": "MIR103B1",
+  "precursor_miRNA": "microRNA hsa-mir-103b precursor (hsa-mir-103b-1)",
+  "biological_process": "endocytosis",
+  "target_start_location": "extracellular region"
+}
+

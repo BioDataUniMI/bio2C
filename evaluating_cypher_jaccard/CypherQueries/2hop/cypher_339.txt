@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:has_phenotype]->(p:Phenotype)<-[:expressed_in]-(m:miRNA) WHERE m.Label ENDS WITH '5p' AND (nd.Label CONTAINS 'aphasia' OR nd.Description CONTAINS 'aphasia') AND NOT p.Label =~ '(?i).*(behavior|recognition|brain|thought).*' RETURN m.Label AS miRNA, nd.Label AS NeurodegenerativeDisease, p.Label AS Phenotype

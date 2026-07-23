@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:part_of]->(g:GO) RETURN DISTINCT m.Label AS miRNA, g.Label AS GOTerm, r.Source AS Sources

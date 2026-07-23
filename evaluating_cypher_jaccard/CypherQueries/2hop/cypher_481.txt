@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_formation_of_anatomical_entity]->(go:GO)-[:has_part]->(cc:Cellular_component {Label:'microtubule'}) RETURN bp.Label AS Biological_Process, go.Label AS GO_Term

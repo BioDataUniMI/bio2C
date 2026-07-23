@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process)-[:positively_regulates]->(g:GO) WHERE m.Label ENDS WITH '100-5p' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess, g.Label AS PositivelyRegulatedGO

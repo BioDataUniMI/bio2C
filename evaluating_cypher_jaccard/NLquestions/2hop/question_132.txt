@@ -1,0 +1,1 @@
+List diseases that are related with germline causal mutations in miRNAs, showing the involved miRNAs.

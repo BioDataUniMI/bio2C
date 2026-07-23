@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA) WHERE NOT (:pre_miRNA)-[:in_homology_relationship_with]->(m) RETURN m.Label AS miRNA, COLLECT(DISTINCT p.Label) AS pre_miRNAs ORDER BY miRNA

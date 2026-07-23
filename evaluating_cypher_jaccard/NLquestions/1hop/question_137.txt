@@ -1,0 +1,1 @@
+Find all miRNAs with genomic coordinates located on chromosome 19 and the molecular functions they participate in. Return the miRNA label and genomic coordinates and the molecular function label.

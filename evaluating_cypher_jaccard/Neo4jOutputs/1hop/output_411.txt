@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-518a-3p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-518c-5p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-527",
+  "GOterm": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-520c-5p",
+  "GOterm": "cellular_component"
+}
+
+{
+  "miRNA": "hsa-miR-518d-3p",
+  "GOterm": "cellular_component"
+}
+

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'zona pellucida' AND (p.Description CONTAINS 'abnormal' OR p.Description CONTAINS 'reduced') RETURN p.Label, p.Description

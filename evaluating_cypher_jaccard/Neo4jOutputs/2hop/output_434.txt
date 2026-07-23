@@ -1,0 +1,30 @@
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-222-3p"
+}
+
+{
+  "Disease": "precocious puberty",
+  "BiologicalProcess": "developmental process involved in reproduction",
+  "miRNA": "hsa-miR-222-3p"
+}
+
+{
+  "Disease": "chronic granulomatous disease",
+  "BiologicalProcess": "immune system process",
+  "miRNA": "hsa-miR-506-3p"
+}
+
+{
+  "Disease": "chronic granulomatous disease",
+  "BiologicalProcess": "immune system process",
+  "miRNA": "hsa-miR-363-3p"
+}
+
+{
+  "Disease": "chronic granulomatous disease",
+  "BiologicalProcess": "immune system process",
+  "miRNA": "hsa-miR-223-3p"
+}
+

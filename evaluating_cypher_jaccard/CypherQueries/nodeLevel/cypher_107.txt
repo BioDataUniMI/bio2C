@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE SIZE(SPLIT(g.Label, '-')) - 1 = 2 RETURN g.Label AS Gene

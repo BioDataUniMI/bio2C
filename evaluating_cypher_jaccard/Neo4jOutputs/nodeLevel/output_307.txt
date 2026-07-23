@@ -1,0 +1,20 @@
+{
+  "d.Label": "developmental delay with autism spectrum disorder and gait instability"
+}
+
+{
+  "d.Label": "autism spectrum disorder due to AUTS2 deficiency"
+}
+
+{
+  "d.Label": "syndromic X-linked intellectual disability 34"
+}
+
+{
+  "d.Label": "SYNGAP1-related developmental and epileptic encephalopathy"
+}
+
+{
+  "d.Label": "Hao-Fountain syndrome"
+}
+

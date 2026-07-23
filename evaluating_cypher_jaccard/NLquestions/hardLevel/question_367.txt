@@ -1,0 +1,1 @@
+Identify miRNAs that regulate genes which genetically interact with other genes, returning only the cases where the regulated gene has the maximum sequence length and the interacting gene has the minimum sequence length. Return the miRNA label, its sequence length, the regulated gene label and length, and the interacting gene label and length.

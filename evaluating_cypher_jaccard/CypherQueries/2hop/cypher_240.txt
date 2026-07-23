@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process {Label:'response to iron ion'})-[:has_participant]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(g.Label) = 4 AND g.Label CONTAINS 'A' RETURN m.Label AS miRNA, g.Label AS Gene

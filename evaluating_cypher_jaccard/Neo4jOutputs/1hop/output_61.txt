@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-4770",
+  "miRNA_sequence": "UGAGAUGACACUGUAGCU",
+  "Sequence_length": 18,
+  "Genomic_coordinates": [
+    "chrX:6383907-6383924-"
+  ],
+  "GO_term": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-500b-5p",
+  "miRNA_sequence": "AAUCCUUGCUACCUGGGU",
+  "Sequence_length": 18,
+  "Genomic_coordinates": [
+    "chrX:50010682-50010699+"
+  ],
+  "GO_term": "apoptotic process"
+}
+

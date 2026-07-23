@@ -1,0 +1,1 @@
+Compute the average number of distinct Gene Ontology terms associated with miRNAs through the cellular components in which they are located.

@@ -1,0 +1,25 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "microRNA hsa-mir-490 precursor"
+}
+
+{
+  "Cancer": "squamous cell lung carcinoma",
+  "miRNA": "microRNA hsa-mir-490 precursor"
+}
+
+{
+  "Cancer": "exocrine pancreatic carcinoma",
+  "miRNA": "microRNA hsa-mir-490 precursor"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "microRNA hsa-mir-490 precursor"
+}
+
+{
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract",
+  "miRNA": "microRNA hsa-mir-490 precursor"
+}
+

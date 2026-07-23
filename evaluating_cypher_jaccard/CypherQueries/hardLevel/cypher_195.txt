@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:under_expressed_in]->(d:Disease {Label:'laryngeal squamous cell carcinoma'}) WITH g RETURN g.Label AS gene, SIZE(g.Sequence) - SIZE(REPLACE(g.Sequence,'T','')) AS T_count ORDER BY T_count DESC, gene ASC LIMIT 1

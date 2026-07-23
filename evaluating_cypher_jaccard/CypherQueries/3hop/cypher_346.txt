@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cancer {Label: 'neoplastic meningitis'})-[:subclassof]->(d:Disease)-[:has_characteristic]->(p:Phenotype) WHERE d.Label CONTAINS 'metastatic' RETURN m.Label AS miRNA, d.Label AS ParentDisease,  p.Label AS Phenotype, r.Source AS Sources

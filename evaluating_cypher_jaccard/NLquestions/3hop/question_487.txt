@@ -1,0 +1,1 @@
+List miRNAs regulating the activity of the gene 'ERCC8' that cause or contribute to the diseases whose label contains the substring 'autosomal' and having the phenotype labeled as 'Abnormality of coagulation'. Return the label of miRNA and disease.

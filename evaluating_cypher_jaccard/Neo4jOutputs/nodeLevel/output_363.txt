@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "phobia",
+  "d.Description": "a persistent, irrational fear of a specific object, activity, or situation (the phobic stimulus) ..."
+}
+

@@ -1,0 +1,25 @@
+{
+  "Disease": "primary non-gestational choriocarcinoma of ovary",
+  "Description": "primary non-gestational choriocarcinoma of ovary is a rare ovarian germ cell malignant tumor, ari..."
+}
+
+{
+  "Disease": "salivary gland acinic cell carcinoma",
+  "Description": "a carcinoma of the salivary gland characterized by serous acinar cell differentiation. the vast m..."
+}
+
+{
+  "Disease": "intratubular embryonal carcinoma",
+  "Description": "stage 0 includes: ptis, n0, m0, s0. ptis: intratubular germ cell neoplasia (carcinoma in situ). n..."
+}
+
+{
+  "Disease": "bladder carcinoma in situ",
+  "Description": "also known as carcinoma in situ of the urinary bladder or high grade intraurothelial neoplasia, t..."
+}
+
+{
+  "Disease": "clear cell renal carcinoma",
+  "Description": "a malignant epithelial neoplasm of the kidney characterized by the presence of lipid-containing c..."
+}
+

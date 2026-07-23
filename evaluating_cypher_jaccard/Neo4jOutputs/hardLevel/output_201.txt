@@ -1,0 +1,33 @@
+{
+  "biological_process": "cell cycle",
+  "gene_list": [
+    "MIR449B",
+    "MIR33B",
+    "MIR92B",
+    "MIR103B1",
+    "MIR103B2"
+  ]
+}
+
+{
+  "biological_process": "cell death",
+  "gene_list": [
+    "MIR630",
+    "MIR203B",
+    "MIR939",
+    "MIR1226",
+    "MIR885"
+  ]
+}
+
+{
+  "biological_process": "wound healing",
+  "gene_list": [
+    "MIR1285-2",
+    "MIR203B",
+    "MIR1285-1",
+    "MIR147B",
+    "MIR1908"
+  ]
+}
+

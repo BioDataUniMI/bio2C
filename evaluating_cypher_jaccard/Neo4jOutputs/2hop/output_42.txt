@@ -1,0 +1,30 @@
+{
+  "bp.Label": "miRNA-mediated post-transcriptional gene silencing",
+  "COUNT(DISTINCT g)": 203,
+  "COUNT(DISTINCT m)": 196
+}
+
+{
+  "bp.Label": "RNA processing",
+  "COUNT(DISTINCT g)": 5,
+  "COUNT(DISTINCT m)": 5
+}
+
+{
+  "bp.Label": "long-term synaptic potentiation",
+  "COUNT(DISTINCT g)": 3,
+  "COUNT(DISTINCT m)": 3
+}
+
+{
+  "bp.Label": "negative regulation of gene expression",
+  "COUNT(DISTINCT g)": 1,
+  "COUNT(DISTINCT m)": 1
+}
+
+{
+  "bp.Label": "type B pancreatic cell development",
+  "COUNT(DISTINCT g)": 1,
+  "COUNT(DISTINCT m)": 1
+}
+

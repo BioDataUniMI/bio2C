@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Cancer": "malignant glioma",
+  "ParentDisease": "cancer"
+}
+
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Cancer": "astrocytic tumor",
+  "ParentDisease": "cancer"
+}
+
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Cancer": "glioma",
+  "ParentDisease": "neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Cancer": "malignant pancreatic neoplasm",
+  "ParentDisease": "cancer"
+}
+
+{
+  "miRNA": "hsa-miR-130a-3p",
+  "Cancer": "lung cancer",
+  "ParentDisease": "cancer"
+}
+

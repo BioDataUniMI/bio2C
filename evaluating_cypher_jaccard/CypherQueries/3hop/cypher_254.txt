@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO)-[:part_of]->(bp:Biological_process) WHERE d.Label CONTAINS 'autism' AND p.Label CONTAINS 'hearing' RETURN d.Label AS Disease, p.Label AS Phenotype, go.Label AS GOterm, bp.Label AS BiologicalProcess

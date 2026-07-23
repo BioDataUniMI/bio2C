@@ -1,0 +1,1 @@
+Identify the miRNAs that regulate the activity of genes which genetically interact with other genes that causr or contribute to diseases whose label contains the word 'susceptibility'. Return the label of the miRNA, the genes, and the disease.

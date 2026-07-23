@@ -1,0 +1,1 @@
+Find miRNAs whose labels end with 'a-5p' that are under-expressed in the cancer labeled as 'malignant pancreatic neoplasm', and identify the parent (superclass) diseases of that cancer whose labels contain the word 'malignant'. Return the miRNA and disease labels.

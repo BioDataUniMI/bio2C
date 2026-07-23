@@ -1,0 +1,1 @@
+Find the infectious diseases whose labels contain the word 'tuberculosis' and that are also cardiovascular diseases. 

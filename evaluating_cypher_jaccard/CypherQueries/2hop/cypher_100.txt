@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE SIZE(r.Method) >= 5 RETURN p.Label AS Precursor, m.Label AS miRNA, g.Label AS Gene, r.Method AS Methods ORDER BY SIZE(r.Method) DESC, p.Label ASC, m.Label ASC, g.Label ASC LIMIT 10

@@ -1,0 +1,41 @@
+{
+  "Gene": "GNE",
+  "Diseases": [
+    "free sialic acid storage disease",
+    "myopathy, distal, with rimmed vacuoles",
+    "GNE myopathy",
+    "myopathy, proximal, and ophthalmoplegia",
+    "Salla disease",
+    "sialuria",
+    "free sialic acid storage disease, infantile form",
+    "inclusion body myositis"
+  ]
+}
+
+{
+  "Gene": "ADA",
+  "Diseases": [
+    "lung neoplasm",
+    "lung cancer",
+    "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-...",
+    "autism",
+    "autism spectrum disorder",
+    "lung carcinoma",
+    "lung benign neoplasm",
+    "spinal cord disorder"
+  ]
+}
+
+{
+  "Gene": "GJE1",
+  "Diseases": [
+    "neuropathy, congenital hypomyelinating, 3",
+    "neuropathy, congenital hypomyelinating, 2",
+    "meningoencephalitis",
+    "peripheral neuropathy",
+    "peripheral nervous system disorder",
+    "critical illness polyneuropathy",
+    "polyneuropathy"
+  ]
+}
+

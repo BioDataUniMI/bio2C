@@ -1,0 +1,1 @@
+Find all mental diseases whose description contains 'consciousness' or 'cognitive'. Return their label, description, and URI.

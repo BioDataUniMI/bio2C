@@ -1,0 +1,1 @@
+Which gene located on chromosome 15 (i.e., the 'Genomic_coordinates' property contains the string 'chr15') causes or contributes to the phenotype labeled as 'Bipolar affective disorder' and has the longest nucleotide sequence? Return the gene label, its genomic coordinates, and its sequence length.

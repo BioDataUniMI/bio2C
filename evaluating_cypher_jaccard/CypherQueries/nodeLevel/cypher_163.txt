@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'hemifacial' AND NOT syn CONTAINS 'tessier') RETURN p.Label

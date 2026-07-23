@@ -1,0 +1,1 @@
+Which diseases share features with other diseases whose label contains the word 'anemia'?

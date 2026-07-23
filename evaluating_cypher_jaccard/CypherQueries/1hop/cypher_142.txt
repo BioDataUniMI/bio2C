@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN AVG(SIZE(m.Sequence)) AS AverageSequenceLength

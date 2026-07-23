@@ -1,0 +1,1 @@
+List all miRNAs that: 1) are under-expressed in GO terms; 2) are characterized by genomic coordinates exclusively on chromosome X; and 3) are characterized by a sequence length greater than 50.

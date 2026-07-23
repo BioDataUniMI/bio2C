@@ -1,0 +1,60 @@
+{
+  "ParentGO": "actin-based cell projection",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "actin filament uncapping",
+  "RelationSources": [
+    "GO",
+    "Mondo",
+    "HPO",
+    "Uberon"
+  ]
+}
+
+{
+  "ParentGO": "actin filament bundle",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "actin filament uncapping",
+  "RelationSources": [
+    "GO",
+    "Mondo",
+    "HPO",
+    "Uberon"
+  ]
+}
+
+{
+  "ParentGO": "actin cytoskeleton",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "actin filament uncapping",
+  "RelationSources": [
+    "GO",
+    "Mondo",
+    "HPO",
+    "Uberon"
+  ]
+}
+
+{
+  "ParentGO": "actin-based cell projection",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "microfilament motor activity",
+  "RelationSources": [
+    "GO",
+    "Mondo",
+    "HPO",
+    "Uberon"
+  ]
+}
+
+{
+  "ParentGO": "actin filament bundle",
+  "CellularComponent": "actin filament",
+  "ParticipatingGO": "microfilament motor activity",
+  "RelationSources": [
+    "GO",
+    "Mondo",
+    "HPO",
+    "Uberon"
+  ]
+}
+

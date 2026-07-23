@@ -1,0 +1,14 @@
+{
+  "GeneLabels": "TP53",
+  "GeneSynonyms": null,
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "GeneLabels": "TP53",
+  "GeneSynonyms": null,
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast cancer"
+}
+

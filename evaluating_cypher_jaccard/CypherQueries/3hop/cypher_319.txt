@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process {Label:'MAPK cascade'})<-[:part_of]-(mf:Molecular_function)<-[:has_function]-(m:miRNA)<-[:expresses]-(c:Cancer) RETURN mf.Label AS MolecularFunction, m.Label AS miRNA, c.Label AS Cancer

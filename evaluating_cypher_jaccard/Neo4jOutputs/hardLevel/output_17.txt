@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-493 precursor",
+  "Disease": "squamous cell lung carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4423 precursor",
+  "Disease": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4423 precursor",
+  "Disease": "hepatocellular carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-548g precursor",
+  "Disease": "exocrine pancreatic carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1973 precursor",
+  "Disease": "exocrine pancreatic carcinoma"
+}
+

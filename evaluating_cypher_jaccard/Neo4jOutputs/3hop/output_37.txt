@@ -1,0 +1,12 @@
+{
+  "gene": "MIR1290",
+  "precursor_miRNA": "microRNA hsa-mir-1290 precursor",
+  "biological_process": "neuron differentiation"
+}
+
+{
+  "gene": "MIR1246",
+  "precursor_miRNA": "microRNA hsa-mir-1246 precursor",
+  "biological_process": "neuron differentiation"
+}
+

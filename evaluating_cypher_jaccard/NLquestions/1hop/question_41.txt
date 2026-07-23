@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in phenotypes that have at least 8 synonyms containing non-English characters and digits (i.e., NOT a-z, A-Z, 0-9).

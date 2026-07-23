@@ -1,0 +1,1 @@
+Identify all miRNAs that regulate genes which genetically interact with other genes whose labels end with a digit and that cause or contribute to diseases whose label contains 'pneumonitis'. Return the label of the miRNA, the genes, and the disease.

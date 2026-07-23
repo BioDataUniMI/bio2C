@@ -1,0 +1,1 @@
+Find the gene with the shortest sequence among all genes that cause or contribute to diseases characterized by phenotypes that are also phenotypes of other diseases, and count the number of T nucleotides in its sequence. In case of ties, select the gene alphabetically. Return the gene label, sequence length, and T count.

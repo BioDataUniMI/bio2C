@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label IS NOT NULL AND NOT g.Label CONTAINS ' ' AND SIZE(g.Label) = 22 RETURN g.Label AS Gene, SIZE(g.Label) AS NameLength

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease {Label:'esophageal cancer'}) WHERE r.FDR < 0.08 AND ANY(mth IN r.Method WHERE toLower(mth) = 'northern blotting') AND ANY(src IN r.Source WHERE toLower(src) = 'dbdemc') RETURN d.Label AS Disease, COLLECT(m.Label) AS miRNAs, COLLECT(r.Method) AS Methods, COLLECT(r.Source) AS Sources

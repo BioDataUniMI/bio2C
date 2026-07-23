@@ -1,0 +1,1 @@
+Which phenotypes include 'inflammation' in their label and have at least one synonym with no ASCII letters (A–Z, a-z)?

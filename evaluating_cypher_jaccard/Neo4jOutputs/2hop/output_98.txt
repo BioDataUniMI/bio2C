@@ -1,0 +1,4 @@
+{
+  "CellularComponent": "extracellular space"
+}
+

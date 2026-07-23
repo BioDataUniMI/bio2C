@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'extracellular' AND NOT cc.Label CONTAINS 'nucleus' RETURN g.Label AS Gene, m.Label AS miRNA, cc.Label AS CellularComponent

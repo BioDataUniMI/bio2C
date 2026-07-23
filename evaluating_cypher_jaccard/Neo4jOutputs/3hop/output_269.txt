@@ -1,0 +1,35 @@
+{
+  "DiseasePhenotype": "Childhood onset",
+  "Disease": "spastic paraplegia 72b, autosomal recessive",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Lower limb hyperreflexia"
+}
+
+{
+  "DiseasePhenotype": "Difficulty running",
+  "Disease": "spastic paraplegia 72b, autosomal recessive",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Lower limb hyperreflexia"
+}
+
+{
+  "DiseasePhenotype": "Babinski sign",
+  "Disease": "spastic paraplegia 72b, autosomal recessive",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Lower limb hyperreflexia"
+}
+
+{
+  "DiseasePhenotype": "Lower limb hyperreflexia",
+  "Disease": "spastic paraplegia 72b, autosomal recessive",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Lower limb hyperreflexia"
+}
+
+{
+  "DiseasePhenotype": "Gait ataxia",
+  "Disease": "spastic paraplegia 72b, autosomal recessive",
+  "NeurodegenerativeSuperclass": "hereditary spastic paraplegia",
+  "SuperclassPhenotype": "Lower limb hyperreflexia"
+}
+

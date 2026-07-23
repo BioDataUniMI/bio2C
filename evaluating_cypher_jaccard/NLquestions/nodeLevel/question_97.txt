@@ -1,0 +1,1 @@
+Which GO terms have descriptions containing 'adaptive immune response'?

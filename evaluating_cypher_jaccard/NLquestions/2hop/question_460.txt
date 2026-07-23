@@ -1,0 +1,1 @@
+Find GO terms in which both miRNAs and precursor miRNAs participate.

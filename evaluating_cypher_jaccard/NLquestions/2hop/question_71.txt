@@ -1,0 +1,1 @@
+List cardiovascular diseases whose features are phenotypes that are also phenotypes of the disease labeled as 'absence of the pulmonary artery'.

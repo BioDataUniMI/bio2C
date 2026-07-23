@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "cAMP-dependent protein kinase inhibitor activity",
+  "Description": "binds to and stops, prevents or reduces the activity of a camp-dependent protein kinase."
+}
+
+{
+  "MolecularFunction": "protein kinase inhibitor activity",
+  "Description": "binds to and stops, prevents or reduces the activity of a protein kinase."
+}
+
+{
+  "MolecularFunction": "kinase inhibitor activity",
+  "Description": "binds to and stops, prevents or reduces the activity of a kinase."
+}
+
+{
+  "MolecularFunction": "transmembrane receptor protein tyrosine kinase inhibitor activity",
+  "Description": "binds to and stops, prevents or reduces the activity of a transmembrane receptor protein tyrosine..."
+}
+
+{
+  "MolecularFunction": "protein serine/threonine kinase inhibitor activity",
+  "Description": "binds to and stops, prevents or reduces the activity of a protein serine/threonine kinase."
+}
+

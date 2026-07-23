@@ -1,0 +1,10 @@
+{
+  "miRNA": "hsa-miR-92a-3p",
+  "Gene": "TF"
+}
+
+{
+  "miRNA": "hsa-miR-19a-3p",
+  "Gene": "TF"
+}
+

@@ -1,0 +1,6 @@
+{
+  "m.Label": "hsa-miR-7161-3p",
+  "m.Sequence": "UAGAUCUUUGACUCUGGCAGUCUCCAGG",
+  "m.URI": "https://rnacentral.org/rna/URS000075E7DE_9606"
+}
+

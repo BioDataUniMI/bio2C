@@ -1,0 +1,40 @@
+{
+  "GOTerm": "potassium channel activity",
+  "Description": "enables the energy-independent facilitated diffusion of a potassium ion through a transmembrane a...",
+  "Synonyms": [
+    "potassium channel activity"
+  ]
+}
+
+{
+  "GOTerm": "voltage-gated monoatomic ion channel activity",
+  "Description": "enables the transmembrane transfer of an ion by a voltage-gated channel. an ion is an atom or gro...",
+  "Synonyms": [
+    "voltage-gated monoatomic ion channel activity"
+  ]
+}
+
+{
+  "GOTerm": "inward rectifier potassium channel activity",
+  "Description": "enables the transmembrane transfer of a potassium ion by an inwardly-rectifying voltage-gated cha...",
+  "Synonyms": [
+    "inward rectifier potassium channel activity"
+  ]
+}
+
+{
+  "GOTerm": "water channel activity",
+  "Description": "transport systems of this type enable facilitated diffusion of water (by an energy-independent pr...",
+  "Synonyms": [
+    "water channel activity"
+  ]
+}
+
+{
+  "GOTerm": "voltage-gated sodium channel activity",
+  "Description": "enables the transmembrane transfer of a sodium ion by a voltage-gated channel. a voltage-gated ch...",
+  "Synonyms": [
+    "voltage-gated sodium channel activity"
+  ]
+}
+

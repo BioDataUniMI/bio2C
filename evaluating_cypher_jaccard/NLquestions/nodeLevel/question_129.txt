@@ -1,0 +1,1 @@
+Identify precursor miRNAs whose sequence ends with 'AU' and whose genomic coordinates include an entry starting with 'chr12'.

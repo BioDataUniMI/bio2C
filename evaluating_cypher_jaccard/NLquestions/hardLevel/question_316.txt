@@ -1,0 +1,1 @@
+Find miRNAs expressed by the maximum number of distinct cancers (including ties). Return each miRNA label, the list of genes it regulates, and the number of associated cancers.

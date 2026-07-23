@@ -1,0 +1,6 @@
+{
+  "gene": "SNORD116-1",
+  "sequence_length": 95,
+  "T_count": 22
+}
+

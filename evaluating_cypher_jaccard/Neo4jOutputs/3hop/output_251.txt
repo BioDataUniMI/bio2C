@@ -1,0 +1,30 @@
+{
+  "CardiovascularDisease": "Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion",
+  "Phenotype": "Asymmetric growth",
+  "GOterm": "growth"
+}
+
+{
+  "CardiovascularDisease": "Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion",
+  "Phenotype": "Abnormality of glycolipid metabolism",
+  "GOterm": "glycolipid metabolic process"
+}
+
+{
+  "CardiovascularDisease": "Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion",
+  "Phenotype": "Accelerated skeletal maturation",
+  "GOterm": "bone maturation"
+}
+
+{
+  "CardiovascularDisease": "Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion",
+  "Phenotype": "Exaggerated startle response",
+  "GOterm": "startle response"
+}
+
+{
+  "CardiovascularDisease": "Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion",
+  "Phenotype": "Gliosis",
+  "GOterm": "glial cell growth"
+}
+

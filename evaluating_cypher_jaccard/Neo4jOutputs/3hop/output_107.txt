@@ -1,0 +1,18 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-486 precursor (hsa-mir-486-2)",
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-486 precursor (hsa-mir-486-1)",
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-145 precursor",
+  "miRNA": "hsa-miR-145-5p",
+  "RegulatedGene": "DDX17"
+}
+

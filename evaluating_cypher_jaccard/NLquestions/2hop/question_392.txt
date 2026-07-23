@@ -1,0 +1,1 @@
+Return the average number of 'disease-has phenotype-phenotype' relationships when considering diseases that are caused or contributed to by genes regulated by miRNAs.

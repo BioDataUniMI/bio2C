@@ -1,0 +1,1 @@
+Find miRNAs that are under-expressed in a disease where the miRNA sequence contains at least two 'AAAAA'

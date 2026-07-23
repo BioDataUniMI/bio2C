@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE NOT pm.Label STARTS WITH 'microRNA' AND NOT pm.Label STARTS WITH 'Hsa' RETURN pm.Label, SIZE(pm.Sequence)

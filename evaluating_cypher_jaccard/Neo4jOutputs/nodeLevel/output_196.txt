@@ -1,0 +1,30 @@
+{
+  "d.Label": "substance dependence",
+  "d.Description": "the psychological or physiological need to take a substance in order to experience its effects or...",
+  "d.ID": "MONDO:0004938"
+}
+
+{
+  "d.Label": "opiate dependence",
+  "d.Description": "disorders related or resulting from abuse or mis-use of opioids.",
+  "d.ID": "MONDO:0005530"
+}
+
+{
+  "d.Label": "hallucinogen dependence",
+  "d.Description": "a drug dependence for a hallucinogenic substance.",
+  "d.ID": "MONDO:0004939"
+}
+
+{
+  "d.Label": "heroin dependence",
+  "d.Description": "physical and psychological dependence on the drug heroin.",
+  "d.ID": "MONDO:0005367"
+}
+
+{
+  "d.Label": "barbiturate dependence",
+  "d.Description": "a drug dependence that involves the continued use of barbiturates despite problems related to use...",
+  "d.ID": "MONDO:0002347"
+}
+

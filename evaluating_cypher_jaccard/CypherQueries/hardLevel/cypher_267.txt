@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WITH m, p, ABS(SIZE(p.Sequence) - SIZE(m.Sequence)) AS length_diff ORDER BY length_diff ASC, p.Label ASC LIMIT 2 RETURN m.Label AS miRNA, p.Label AS pre_miRNA, SIZE(m.Sequence) AS miRNA_length, SIZE(p.Sequence) AS pre_miRNA_length, length_diff

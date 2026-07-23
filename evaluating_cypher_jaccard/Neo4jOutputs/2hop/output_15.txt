@@ -1,0 +1,25 @@
+{
+  "GOterm": "plasma membrane",
+  "CellularComponent": "plasma membrane protein complex"
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "CellularComponent": "intracellular vesicle"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "GOterm": "cytoplasmic vesicle",
+  "CellularComponent": "cytoplasmic vesicle lumen"
+}
+
+{
+  "GOterm": "somatodendritic compartment",
+  "CellularComponent": "neuronal cell body"
+}
+

@@ -1,0 +1,1 @@
+List autoimmune disease labels that contain the word 'chronic' and, for each of those diseases, return the labels of its phenotype feature and that phenotype’s parent (superclass) phenotype label

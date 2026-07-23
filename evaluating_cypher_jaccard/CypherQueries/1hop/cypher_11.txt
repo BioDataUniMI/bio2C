@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE m2.Label CONTAINS 'loop' RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA

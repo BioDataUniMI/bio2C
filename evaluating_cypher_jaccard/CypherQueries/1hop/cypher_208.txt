@@ -1,0 +1,1 @@
+MATCH (ph:Phenotype)<-[:over_expressed_in]-(m) WHERE (m:miRNA OR m:pre_miRNA) AND ph.Label CONTAINS 'carcinoma' RETURN DISTINCT ph.Label AS Phenotype

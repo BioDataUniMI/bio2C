@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'plasma' AND NOT g.Label CONTAINS 'membrane' AND NOT g:Biological_process RETURN g.Label, LABELS(g)

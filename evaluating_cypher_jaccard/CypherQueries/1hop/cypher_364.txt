@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[r:interacts_with]->(m2) WHERE (m2:miRNA OR m2:pre_miRNA) AND r.RNAsister_score >= 0.3 AND r.RNAsister_score <= 0.6 RETURN m1.Label AS Source, m2.Label AS Target, r.RNAsister_score AS Score

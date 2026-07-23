@@ -1,0 +1,1 @@
+Identify genes (i) from which a miRNA whose label ends with four digits followed by the string “a precursor” is transcribed and (ii) that also transcribe a pre-miRNA. Return the gene label, the miRNA label, and the pre-miRNA label

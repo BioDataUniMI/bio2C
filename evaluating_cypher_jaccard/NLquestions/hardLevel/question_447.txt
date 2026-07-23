@@ -1,0 +1,1 @@
+Which miRNAs share the same first 80% of their sequence with at least one other miRNA? Return the groups of miRNAs that share an identical first-80% sequence segment.

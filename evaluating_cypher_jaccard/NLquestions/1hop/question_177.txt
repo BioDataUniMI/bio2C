@@ -1,0 +1,1 @@
+Which genes with 2-character labels are characterized by an activity regulated by miRNAs whose sequence ends with the nucleotide 'A'?

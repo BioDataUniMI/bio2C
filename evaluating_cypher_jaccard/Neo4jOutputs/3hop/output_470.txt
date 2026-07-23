@@ -1,0 +1,35 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "VDR",
+  "Disease": "vitamin D deficiency"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "VDR",
+  "Disease": "vitamin D-dependent rickets"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "VDR",
+  "Disease": "vitamin D-dependent rickets, type 2A"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "VDR",
+  "Disease": "vitamin D deficiency"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "VDR",
+  "Disease": "vitamin D-dependent rickets"
+}
+

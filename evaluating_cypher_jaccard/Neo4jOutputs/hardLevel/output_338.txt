@@ -1,0 +1,25 @@
+{
+  "GOterm": "inflammatory response",
+  "miRNACount": 5
+}
+
+{
+  "GOterm": "gastro-intestinal system smooth muscle contraction",
+  "miRNACount": 2
+}
+
+{
+  "GOterm": "heart contraction",
+  "miRNACount": 2
+}
+
+{
+  "GOterm": "cognition",
+  "miRNACount": 8
+}
+
+{
+  "GOterm": "IgG immunoglobulin complex, circulating",
+  "miRNACount": 2
+}
+

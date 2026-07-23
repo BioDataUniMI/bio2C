@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH m, COUNT(DISTINCT g) AS num_genes WITH MAX(num_genes) AS max_num_genes WITH max_num_genes MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH m, COUNT(DISTINCT g) AS num_genes, max_num_genes WHERE num_genes = max_num_genes RETURN m.Label AS miRNA, num_genes

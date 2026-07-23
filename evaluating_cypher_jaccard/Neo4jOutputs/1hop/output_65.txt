@@ -1,0 +1,56 @@
+{
+  "miRNA": "hsa-miR-489-5p",
+  "Relationship_properties": {
+    "Source": [
+      "ncRDeathDB"
+    ],
+    "Context": [
+      "ovaries cell",
+      "cardiac"
+    ],
+    "PubMedID": [
+      "24686007",
+      "24557880"
+    ]
+  }
+}
+
+{
+  "miRNA": "hsa-miR-19b-3p",
+  "Relationship_properties": {
+    "Source": [
+      "ncRDeathDB"
+    ],
+    "Context": [
+      "leukemic t-cell",
+      "cardiac",
+      "keratinocytes",
+      "hepatocellular carcinoma"
+    ],
+    "PubMedID": [
+      "21527938",
+      "25617127",
+      "24117217",
+      "19148830",
+      "20851997"
+    ]
+  }
+}
+
+{
+  "miRNA": "hsa-miR-489-3p",
+  "Relationship_properties": {
+    "Source": [
+      "ncRDeathDB"
+    ],
+    "Context": [
+      "ovaries cell",
+      "cardiac"
+    ],
+    "PubMedID": [
+      "24686007",
+      "24557880"
+    ]
+  }
+}
+

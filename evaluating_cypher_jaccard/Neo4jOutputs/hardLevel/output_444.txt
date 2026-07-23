@@ -1,0 +1,74 @@
+{
+  "genes": [
+    "SNAR-I",
+    "CCAT1",
+    "CDR1-AS",
+    "ATG7",
+    "CECR",
+    "TRA",
+    "UGT1A",
+    "phoP",
+    "panC",
+    "fadD26",
+    "ORF1ab of severe acute respiratory syndrome coronavirus 2",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+    "gene of severe acute respiratory syndrome coronavirus 2",
+    "N gene of severe acute respiratory syndrome coronavirus 2",
+    "ORF10 of severe acute respiratory syndrome coronavirus 2",
+    "sigE",
+    "ORF7a of severe acute respiratory syndrome coronavirus 2",
+    "ORF7b of severe acute respiratory syndrome coronavirus 2",
+    "gene",
+    "S gene of severe acute respiratory syndrome coronavirus 2",
+    "gene of Proteobacteria",
+    "ORF8 of severe acute respiratory syndrome coronavirus 2",
+    "panD",
+    "ORF3a of severe acute respiratory syndrome coronavirus 2",
+    "ORF6 of severe acute respiratory syndrome coronavirus 2",
+    "M gene of severe acute respiratory syndrome coronavirus 2",
+    "gene of Brucella melitensis bv. 1 str. 16M",
+    "trpD",
+    "gene of Mycobacterium tuberculosis H37Rv",
+    "BMEI1364",
+    "secA2",
+    "leuD",
+    "gene of Bacteria",
+    "E gene of severe acute respiratory syndrome coronavirus 2",
+    "drrC",
+    "protein-coding gene of Brucella melitensis bv. 1 str. 16M",
+    "lysA"
+  ]
+}
+
+{
+  "genes": [
+    "MIR941-1",
+    "MIR941-4",
+    "MIR941-2",
+    "MIR941-3",
+    "MIR941-5"
+  ]
+}
+
+{
+  "genes": [
+    "RAB9AP1",
+    "RAB9AP3"
+  ]
+}
+
+{
+  "genes": [
+    "MIR1184-1",
+    "MIR1184-3",
+    "MIR1184-2"
+  ]
+}
+
+{
+  "genes": [
+    "MIR1233-1",
+    "MIR1233-2"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "Cancer": "lung adenocarcinoma",
+  "miCount": 494
+}
+
+{
+  "Cancer": "urinary bladder cancer",
+  "miCount": 241
+}
+
+{
+  "Cancer": "glioma",
+  "miCount": 309
+}
+
+{
+  "Cancer": "osteosarcoma",
+  "miCount": 663
+}
+
+{
+  "Cancer": "esophageal squamous cell carcinoma",
+  "miCount": 375
+}
+

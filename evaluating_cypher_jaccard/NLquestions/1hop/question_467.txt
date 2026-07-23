@@ -1,0 +1,1 @@
+Identify pairs of mental diseases connected by either 'realizes' or 'has occurrent part' relationship types. Return the relationship type and the source(s) confirming the interaction.

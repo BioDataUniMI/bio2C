@@ -1,0 +1,21 @@
+{
+  "miRNA": "microRNA hsa-mir-98 precursor",
+  "biological_process": "inflammatory response",
+  "seq_length": 119,
+  "C_count": 19
+}
+
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "biological_process": "inflammatory response",
+  "seq_length": 118,
+  "C_count": 28
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "biological_process": "inflammatory response",
+  "seq_length": 110,
+  "C_count": 21
+}
+

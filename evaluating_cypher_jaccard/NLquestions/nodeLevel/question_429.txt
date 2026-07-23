@@ -1,0 +1,1 @@
+Find labels and IDs of all GO terms whose descriptions mention the small interfering RNAs 'sirnas' (case insensitive).

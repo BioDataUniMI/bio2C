@@ -1,0 +1,1 @@
+MATCH (:miRNA)-[:participates_in]->(g:GO)<-[:participates_in]-(:pre_miRNA) RETURN DISTINCT g.Label AS GOTerm

@@ -1,0 +1,35 @@
+{
+  "ParentGO": "regulation of receptor signaling pathway via JAK-STAT",
+  "RegulatedGO": "cell surface receptor signaling pathway via JAK-STAT",
+  "miRNA_Label": "hsa-miR-98-5p",
+  "miRNA_Sequence": "UGAGGUAGUAAGUUGUAUUGUU"
+}
+
+{
+  "ParentGO": "regulation of receptor signaling pathway via JAK-STAT",
+  "RegulatedGO": "cell surface receptor signaling pathway via JAK-STAT",
+  "miRNA_Label": "hsa-miR-203a-3p",
+  "miRNA_Sequence": "GUGAAAUGUUUAGGACCACUAG"
+}
+
+{
+  "ParentGO": "regulation of receptor signaling pathway via JAK-STAT",
+  "RegulatedGO": "cell surface receptor signaling pathway via JAK-STAT",
+  "miRNA_Label": "hsa-miR-410-3p",
+  "miRNA_Sequence": "AAUAUAACACAGAUGGCCUGU"
+}
+
+{
+  "ParentGO": "regulation of receptor signaling pathway via JAK-STAT",
+  "RegulatedGO": "cell surface receptor signaling pathway via JAK-STAT",
+  "miRNA_Label": "hsa-let-7i-5p",
+  "miRNA_Sequence": "UGAGGUAGUAGUUUGUGCUGUU"
+}
+
+{
+  "ParentGO": "regulation of receptor signaling pathway via JAK-STAT",
+  "RegulatedGO": "cell surface receptor signaling pathway via JAK-STAT",
+  "miRNA_Label": "hsa-miR-146b-5p",
+  "miRNA_Sequence": "UGAGAACUGAAUUCCAUAGGCUG"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) WITH g, COUNT(DISTINCT m) AS Num_miRNAs RETURN AVG(Num_miRNAs) AS Avg_miRNAs_per_Gene

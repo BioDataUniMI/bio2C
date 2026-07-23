@@ -1,0 +1,1 @@
+Show all pre-miRNAs transcribed from genes where that also are transcribed to miRNAs, where the gene sequence ends with the triplet 'AAA'. Return the pre-miRNA, the gene and the miRNA labels.

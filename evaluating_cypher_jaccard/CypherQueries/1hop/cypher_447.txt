@@ -1,0 +1,1 @@
+MATCH (g:GO)-[r:transports_or_maintains_localization_of]->(cc:Cellular_component) RETURN g.Label, cc.Label, r.Source

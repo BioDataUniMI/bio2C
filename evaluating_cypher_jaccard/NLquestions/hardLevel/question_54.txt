@@ -1,0 +1,1 @@
+Find all GO terms whose label contains either the word 'cell growth' or 'cell death' and in which miRNA(s) with the longest sequence participate, and where this GO is part of a specific bilogical process. Return the label of: the GO term, the biological process, the type ('cell growth' or 'cell death'), and the maximum miRNA sequence length.

@@ -1,0 +1,1 @@
+MATCH (cvd:Cardiovascular_disease)-[:disease_has_feature]->(p:Phenotype)-[:phenotype_of]->(d:Disease {Label: 'absence of the pulmonary artery'}) RETURN cvd.Label AS CardiovascularDisease, p.Label AS Phenotype

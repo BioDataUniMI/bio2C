@@ -1,0 +1,1 @@
+Which miRNAs are characterized by genomic coordinates located exclusively on chromosome 1 or chromosome 11 whose start position lies within the first 1,000,000 base pairs of the chromosome? Return the label of miRNA.

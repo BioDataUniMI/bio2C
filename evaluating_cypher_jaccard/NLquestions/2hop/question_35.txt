@@ -1,0 +1,1 @@
+Identify diseases and cancers whose labels contain the word 'malign' that share genes causing or contributing to both conditions, where those genes are transcribed into precursor miRNAs, and report the associated disease types, genes, and precursor miRNA.

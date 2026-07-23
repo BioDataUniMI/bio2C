@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:under_expressed_in]->(c:Cancer) WHERE SIZE(r.Method) >= 2 AND ANY(mth IN r.Method WHERE toLower(mth) = 'quantitative reverse transcriptase pcr') WITH c, COLLECT(DISTINCT r.Source) AS Sources RETURN c.Label AS Cancer, SIZE(Sources) AS source_count ORDER BY source_count DESC

@@ -1,0 +1,1 @@
+Find miRNAs that: 1) are not annotated with any known function; 2) whose genomic coordinates start with 'chr15' or 'chr14' (at least one coordinate); 3) whose sequence starts with 'AG' and ends with 'AU'. Return ONLY their labels.

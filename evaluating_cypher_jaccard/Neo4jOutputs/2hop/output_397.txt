@@ -1,0 +1,65 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Source_participates_in": [
+    "Rfam",
+    "RNAcentral"
+  ],
+  "Source_has_characteristic": [
+    "HPO"
+  ]
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Sensorineural hearing impairment",
+  "Source_participates_in": [
+    "Rfam",
+    "RNAcentral"
+  ],
+  "Source_has_characteristic": [
+    "HPO"
+  ]
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Hearing impairment",
+  "Source_participates_in": [
+    "Rfam",
+    "RNAcentral"
+  ],
+  "Source_has_characteristic": [
+    "HPO"
+  ]
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Source_participates_in": [
+    "Rfam",
+    "RNAcentral"
+  ],
+  "Source_has_characteristic": [
+    "HPO"
+  ]
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Sensorineural hearing impairment",
+  "Source_participates_in": [
+    "Rfam",
+    "RNAcentral"
+  ],
+  "Source_has_characteristic": [
+    "HPO"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'regulation' AND g.Description CONTAINS 'antiviral response' RETURN g.Label, g.Description

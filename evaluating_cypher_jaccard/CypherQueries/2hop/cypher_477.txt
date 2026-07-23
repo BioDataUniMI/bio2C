@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:starts_with]->(mf:Molecular_function)-[:function_of]->(m:miRNA) RETURN bp.Label AS Biological_Process, mf.Label AS Molecular_Function, m.Label AS miRNA

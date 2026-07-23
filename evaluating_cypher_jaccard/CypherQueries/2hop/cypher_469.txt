@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:under_expressed_in]->(ph:Phenotype {Label:'Osteoporosis'}) RETURN g.Label AS Gene, pre.Label AS Pre_miRNA

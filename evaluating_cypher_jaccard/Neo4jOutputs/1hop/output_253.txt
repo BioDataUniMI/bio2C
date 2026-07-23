@@ -1,0 +1,8 @@
+{
+  "Precursor": "microRNA hsa-mir-4723 precursor",
+  "Gene": "WNT7A",
+  "Sources": [
+    "miRTarBase"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease) WHERE r.FDR >= 0.00999 RETURN DISTINCT m.Label AS miRNA, r.FDR AS FDR

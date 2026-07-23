@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene), (m)-[r:over_expressed_in]->(c:Cancer) WHERE SIZE(g.Label) = 3 AND toLower(c.Label) CONTAINS 'neoplastic meningitis' RETURN m.Label AS miRNA, g.Label AS Gene, c.Label AS Cancer, r.Source AS EvidenceSources

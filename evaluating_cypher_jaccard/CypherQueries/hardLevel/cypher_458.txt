@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_germline_mutation_in]->(p:Phenotype) WITH m, COUNT(DISTINCT p) AS phenotypeCount ORDER BY phenotypeCount DESC LIMIT 20 MATCH (m)-[:is_causal_germline_mutation_in]->(p:Phenotype) RETURN m.Label AS miRNA, phenotypeCount, COLLECT(DISTINCT p.Label) AS phenotypes ORDER BY phenotypeCount DESC

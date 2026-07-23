@@ -1,0 +1,25 @@
+{
+  "CardiovascularDisease": "coronary artery disorder",
+  "SequenceLength": 16
+}
+
+{
+  "CardiovascularDisease": "coronary artery disorder",
+  "SequenceLength": 122
+}
+
+{
+  "CardiovascularDisease": "coronary artery disorder",
+  "SequenceLength": 124
+}
+
+{
+  "CardiovascularDisease": "viral myocarditis",
+  "SequenceLength": 137
+}
+
+{
+  "CardiovascularDisease": "myocardial infarction",
+  "SequenceLength": 128
+}
+

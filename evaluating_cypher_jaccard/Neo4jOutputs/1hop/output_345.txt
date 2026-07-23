@@ -1,0 +1,40 @@
+{
+  "b1.Label": "microRNA hsa-mir-222 precursor",
+  "r.Source": [
+    "TAM"
+  ],
+  "b2.Label": "microRNA hsa-mir-221 precursor"
+}
+
+{
+  "b1.Label": "microRNA hsa-mir-222 precursor",
+  "r.Source": [
+    "TAM"
+  ],
+  "b2.Label": "microRNA hsa-mir-221 precursor"
+}
+
+{
+  "b1.Label": "microRNA hsa-mir-506 precursor",
+  "r.Source": [
+    "TAM"
+  ],
+  "b2.Label": "microRNA hsa-mir-508 precursor"
+}
+
+{
+  "b1.Label": "microRNA hsa-mir-652 precursor",
+  "r.Source": [
+    "TAM"
+  ],
+  "b2.Label": "microRNA hsa-mir-3978 precursor"
+}
+
+{
+  "b1.Label": "microRNA hsa-mir-532 precursor",
+  "r.Source": [
+    "TAM"
+  ],
+  "b2.Label": "microRNA hsa-mir-660 precursor"
+}
+

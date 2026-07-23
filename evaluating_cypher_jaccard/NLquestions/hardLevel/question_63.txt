@@ -1,0 +1,1 @@
+Consider only miRNAs under-expressed in phenotypes. Which miRNAs are also expressed in the cancer labeled as 'adenoma' and contains 'CU' dinucleotide pairs? Return the label of the phenotype and cancer, and the 'CU' count.

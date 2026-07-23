@@ -1,0 +1,21 @@
+{
+  "GO_term": "autophagy",
+  "miRNA": "hsa-miR-4770",
+  "miRNA_sequence": "UGAGAUGACACUGUAGCU",
+  "Sequence_length": 18
+}
+
+{
+  "GO_term": "apoptotic process",
+  "miRNA": "hsa-miR-500b-5p",
+  "miRNA_sequence": "AAUCCUUGCUACCUGGGU",
+  "Sequence_length": 18
+}
+
+{
+  "GO_term": "autophagy",
+  "miRNA": "hsa-miR-4295",
+  "miRNA_sequence": "CAGUGCAAUGUUUUCCUU",
+  "Sequence_length": 18
+}
+

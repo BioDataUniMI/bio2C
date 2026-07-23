@@ -1,0 +1,1 @@
+Find all cellular components that are formed as a result of a GO term which is part of another GO term. Return the label of: cellular component, the GO term, and the parent GO term labels.

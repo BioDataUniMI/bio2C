@@ -1,0 +1,18 @@
+{
+  "Gene": "MIR378F",
+  "miRNA": "microRNA hsa-mir-378f precursor",
+  "Pre_miRNA": "microRNA hsa-mir-378f precursor"
+}
+
+{
+  "Gene": "MIR3689F",
+  "miRNA": "microRNA hsa-mir-3689f precursor",
+  "Pre_miRNA": "microRNA hsa-mir-3689f precursor"
+}
+
+{
+  "Gene": "MIR302F",
+  "miRNA": "microRNA hsa-mir-302f precursor",
+  "Pre_miRNA": "microRNA hsa-mir-302f precursor"
+}
+

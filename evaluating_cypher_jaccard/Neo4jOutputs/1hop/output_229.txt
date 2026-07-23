@@ -1,0 +1,10 @@
+{
+  "GOterm": "cell death",
+  "pre_miRNA": "microRNA hsa-mir-15b precursor"
+}
+
+{
+  "GOterm": "cell killing",
+  "pre_miRNA": "microRNA hsa-mir-15b precursor"
+}
+

@@ -1,0 +1,1 @@
+For each neurodegenerative disease whose description contains 'chromosome 9', return the disease label and the collected list of distinct miRNA genomic-coordinate lists for miRNAs that cause or contribute to the disease.

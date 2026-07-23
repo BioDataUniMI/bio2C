@@ -1,0 +1,1 @@
+Find all miRNAs and the molecular functions in which they participate. Return: 1) the miRNA label; 2) the molecular function label, ID, and URI.

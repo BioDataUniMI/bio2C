@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease) WHERE m.Label CONTAINS 'precursor' RETURN m.Label AS miRNA, c.Label AS Disease

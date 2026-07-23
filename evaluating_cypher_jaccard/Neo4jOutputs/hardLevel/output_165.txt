@@ -1,0 +1,21 @@
+{
+  "miRNA": "hsa-miR-500b-5p",
+  "biological_process": "apoptotic process",
+  "seq_length": 18,
+  "C_count": 5
+}
+
+{
+  "miRNA": "hsa-miR-513a-5p",
+  "biological_process": "apoptotic process",
+  "seq_length": 18,
+  "C_count": 3
+}
+
+{
+  "miRNA": "hsa-miR-1301-5p",
+  "biological_process": "apoptotic process",
+  "seq_length": 19,
+  "C_count": 8
+}
+

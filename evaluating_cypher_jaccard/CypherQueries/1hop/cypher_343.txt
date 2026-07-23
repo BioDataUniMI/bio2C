@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[r:develops_from]->(m2:miRNA) WHERE SIZE(m1.Sequence) < 20 AND SIZE(m2.Sequence) > 90 RETURN m1.Label, m2.Label, r.Source

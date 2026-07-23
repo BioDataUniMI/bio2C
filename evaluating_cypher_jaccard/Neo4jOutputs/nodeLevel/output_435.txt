@@ -1,0 +1,9 @@
+{
+  "mf": {
+    "Description": "binding to pirna clusters, double-stranded dna regions that give rise to piwi-interacting rnas (p...",
+    "Label": "piRNA cluster binding",
+    "ID": "GO:1990470",
+    "URI": "http://purl.obolibrary.org/obo/GO_1990470"
+  }
+}
+

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component {Label:'intracellular anatomical structure'})<-[:occurs_in]-(bp:Biological_process)<-[:participates_in]-(m:miRNA)<-[:expresses]-(c:Cancer) RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA, c.Label AS Cancer

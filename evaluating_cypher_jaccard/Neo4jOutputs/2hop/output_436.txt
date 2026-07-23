@@ -1,0 +1,12 @@
+{
+  "miRNA": "microRNA hsa-mir-664a precursor",
+  "GOTerm": "RNA processing",
+  "BiologicalProcess": "RNA biosynthetic process"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-664a precursor",
+  "GOTerm": "RNA processing",
+  "BiologicalProcess": "gene expression"
+}
+

@@ -1,0 +1,1 @@
+Which molecular functions described with 'kinase' and have labels ending with 'inhibitor activity'?

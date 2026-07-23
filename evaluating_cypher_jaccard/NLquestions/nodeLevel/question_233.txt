@@ -1,0 +1,1 @@
+Retrieve the top 5 single-word gene labels with the shortest length. In case of ties, order genes' labels alphabetically.

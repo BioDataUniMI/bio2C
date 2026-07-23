@@ -1,0 +1,1 @@
+Find the top three Gene1-Gene2 pairs that genetically interact and are characterized by the largest difference in sequence length, but only when Gene2 is longer than Gene1. Return both gene labels, their sequence lengths, and the length difference, ordering alphabetically by both gene labels to avoid ties.

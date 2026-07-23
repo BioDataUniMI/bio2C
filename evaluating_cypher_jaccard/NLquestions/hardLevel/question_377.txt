@@ -1,0 +1,1 @@
+Find all two-step genetic interaction paths among miRNAs where the intermediate miRNA is 'microRNA hsa-mir-2392 precursor' and all miRNAs in the path are distinct. To avoid duplicate paths, only return paths where the first miRNA label is alphabetically smaller than the last miRNA label. Return the list of miRNA labels for each such path.

@@ -1,0 +1,1 @@
+MATCH (id:Infectious_disease) WHERE id.Label CONTAINS 'limbic encephalitis' RETURN id.Label AS InfectiousDisease

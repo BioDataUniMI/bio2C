@@ -1,0 +1,1 @@
+Find miRNAs over-expressed in neurodegenerative diseases whose sequence contains exactly 3 'C's and 3 'A's. Return miRNA label, sequence, and disease label.

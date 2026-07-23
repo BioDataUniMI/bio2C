@@ -1,0 +1,35 @@
+{
+  "GOterm": "fat cell differentiation",
+  "miRNA": "microRNA hsa-mir-378c precursor",
+  "Gene": "MIR378C",
+  "Disease": "drug-induced liver injury"
+}
+
+{
+  "GOterm": "fat cell differentiation",
+  "miRNA": "microRNA hsa-mir-378f precursor",
+  "Gene": "MIR378F",
+  "Disease": "heart failure"
+}
+
+{
+  "GOterm": "fat cell differentiation",
+  "miRNA": "microRNA hsa-mir-378f precursor",
+  "Gene": "MIR378F",
+  "Disease": "congestive heart failure"
+}
+
+{
+  "GOterm": "fat cell differentiation",
+  "miRNA": "microRNA hsa-mir-33b precursor",
+  "Gene": "MIR33B",
+  "Disease": "transitional cell neoplasm"
+}
+
+{
+  "GOterm": "fat cell differentiation",
+  "miRNA": "microRNA hsa-mir-33b precursor",
+  "Gene": "MIR33B",
+  "Disease": "transitional cell carcinoma"
+}
+

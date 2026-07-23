@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_part]->(go:GO) WHERE bp.Label CONTAINS 'reproduction' RETURN bp.Label AS BiologicalProcess, go.Label AS GOterm

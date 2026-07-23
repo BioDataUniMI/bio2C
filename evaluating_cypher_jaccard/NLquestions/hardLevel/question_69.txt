@@ -1,0 +1,1 @@
+Find the top three genes having the longest sequence lengths and transcribed from any pre-miRNA that cause or contribute to cancers. Return the gene label and its sequence length, and the list of the all related cancers' label (ordering them alphabetically by gene label in case of ties).

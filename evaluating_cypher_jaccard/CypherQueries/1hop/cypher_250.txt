@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[:regulates_activity_of]->(g:Gene) RETURN g.Label AS Gene,pm.Label AS pre_miRNA

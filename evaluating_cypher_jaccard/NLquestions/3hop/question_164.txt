@@ -1,0 +1,1 @@
+Count the number of distinct genes that are regulated by miRNAs which interact with other miRNAs developed from pre-miRNAs. Return the total count of such genes.

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:participates_in]->(bp:Biological_process)-[:has_characteristic]->(p:Phenotype) WHERE NOT p.Label CONTAINS 'Unilateral' AND (p.Label CONTAINS 'deafness' OR p.Label CONTAINS 'impairment') RETURN pre.Label AS Pre_miRNA, bp.Label AS BiologicalProcess, p.Label AS Phenotype

@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases that exhibit a feature phenotype which is also observed in autoimmune diseases. Return the matching neurodegenerative diseases, autoimmune diseases and phenotype labels.

@@ -1,0 +1,30 @@
+{
+  "biological_process": "sympathetic neuron axon guidance",
+  "go_term": "axon guidance",
+  "cellular_component": "growth cone"
+}
+
+{
+  "biological_process": "photoreceptor cell axon guidance",
+  "go_term": "axon guidance",
+  "cellular_component": "growth cone"
+}
+
+{
+  "biological_process": "commissural neuron axon guidance",
+  "go_term": "axon guidance",
+  "cellular_component": "growth cone"
+}
+
+{
+  "biological_process": "olfactory bulb axon guidance",
+  "go_term": "axon guidance",
+  "cellular_component": "growth cone"
+}
+
+{
+  "biological_process": "interneuron axon guidance",
+  "go_term": "axon guidance",
+  "cellular_component": "growth cone"
+}
+

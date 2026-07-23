@@ -1,0 +1,24 @@
+{
+  "Gene": "MIR1246",
+  "miRNA": "microRNA hsa-mir-1246 precursor",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "Gene": "MIR1246",
+  "miRNA": "microRNA hsa-mir-1246 precursor",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "Gene": "MIR1290",
+  "miRNA": "microRNA hsa-mir-1290 precursor",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "Gene": "MIR1290",
+  "miRNA": "microRNA hsa-mir-1290 precursor",
+  "CellularComponent": "extracellular exosome"
+}
+

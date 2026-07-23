@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE m.Label CONTAINS 'ENSG' RETURN m.Label AS miRNA, g.Label AS GO_Term, SIZE(m.Sequence) AS SequenceLength

@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-9-5p",
+  "Mental_disease": "Alzheimer disease",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "Mental_disease": "Alzheimer disease",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Mental_disease": "multiple sclerosis",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Mental_disease": "multiple sclerosis",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+

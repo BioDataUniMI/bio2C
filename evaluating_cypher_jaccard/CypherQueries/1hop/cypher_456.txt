@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:results_in_transport_across]->(cc:Cellular_component) WHERE g.Label =~ '.*RNA.*' AND NOT g.Label =~ '.*(rRNA|lrRNA).*' RETURN g.Label, cc.Label

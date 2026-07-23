@@ -1,0 +1,30 @@
+{
+  "Gene": "TF",
+  "Disease": "obesity disorder",
+  "ParentDisease": "overnutrition"
+}
+
+{
+  "Gene": "TF",
+  "Disease": "obesity disorder",
+  "ParentDisease": "disease"
+}
+
+{
+  "Gene": "TF",
+  "Disease": "inherited obesity",
+  "ParentDisease": "obesity disorder"
+}
+
+{
+  "Gene": "TF",
+  "Disease": "inherited obesity",
+  "ParentDisease": "endocrine system disorder"
+}
+
+{
+  "Gene": "TF",
+  "Disease": "inherited obesity",
+  "ParentDisease": "hereditary disease"
+}
+

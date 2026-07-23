@@ -1,0 +1,1 @@
+Which are the top 5 most common phenotypes among diseases that cause disruption of biological processes having GO terms as part? In case of ties, order alphabetically by phenotype label. Return the phenotype label and the number of diseases.

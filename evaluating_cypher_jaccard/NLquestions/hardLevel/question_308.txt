@@ -1,0 +1,1 @@
+Which cellular components contain miRNAs as parts? Return component label, an example list of up to 10 miRNAs in alphabetical order, and the total count.

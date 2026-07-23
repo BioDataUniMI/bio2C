@@ -1,0 +1,5 @@
+{
+  "GeneLabel": "E gene of severe acute respiratory syndrome coronavirus 2",
+  "LabelLength": 57
+}
+

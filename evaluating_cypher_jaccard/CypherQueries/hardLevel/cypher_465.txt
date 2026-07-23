@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_part]->(g:GO) RETURN 'has_part' AS relation, COUNT(DISTINCT g) AS goTermCount UNION MATCH (bp:Biological_process)-[:part_of]->(g:GO) RETURN 'part_of' AS relation, COUNT(DISTINCT g) AS goTermCount

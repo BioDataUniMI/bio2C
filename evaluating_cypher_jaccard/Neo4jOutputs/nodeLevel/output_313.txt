@@ -1,0 +1,30 @@
+{
+  "DiseaseLabel": "glycogen storage disease due to acid maltase deficiency, infantile onset",
+  "ID": "MONDO:0017694",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0017694"
+}
+
+{
+  "DiseaseLabel": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3",
+  "ID": "MONDO:0014667",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0014667"
+}
+
+{
+  "DiseaseLabel": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 2",
+  "ID": "MONDO:0014051",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0014051"
+}
+
+{
+  "DiseaseLabel": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 4",
+  "ID": "MONDO:0014668",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0014668"
+}
+
+{
+  "DiseaseLabel": "fatal infantile hypertonic myofibrillar myopathy",
+  "ID": "MONDO:0013472",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0013472"
+}
+

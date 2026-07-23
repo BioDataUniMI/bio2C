@@ -1,0 +1,1 @@
+Find all GO terms that regulate molecular functions whose disruption causes an infectious disease. Return the infectious disease, the molecular function, and the GO term labels.

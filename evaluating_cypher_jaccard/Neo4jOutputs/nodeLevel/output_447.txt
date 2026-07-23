@@ -1,0 +1,20 @@
+{
+  "mf.Label": "voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic c..."
+}
+
+{
+  "mf.Label": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane..."
+}
+
+{
+  "mf.Label": "voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane pote..."
+}
+
+{
+  "mf.Label": "glutamate-gated receptor activity"
+}
+
+{
+  "mf.Label": "pH-gated chloride channel activity"
+}
+

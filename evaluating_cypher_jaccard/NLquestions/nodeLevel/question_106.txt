@@ -1,0 +1,1 @@
+Return all genes with single-word labels that are exactly 22 characters long.

@@ -1,0 +1,24 @@
+{
+  "primary_disease": "Down syndrome",
+  "feature_disease": "epilepsy",
+  "phenotype": "Cellulitis"
+}
+
+{
+  "primary_disease": "Down syndrome",
+  "feature_disease": "epilepsy",
+  "phenotype": "Cellulitis"
+}
+
+{
+  "primary_disease": "Down syndrome",
+  "feature_disease": "epilepsy",
+  "phenotype": "Cellulitis"
+}
+
+{
+  "primary_disease": "Down syndrome",
+  "feature_disease": "epilepsy",
+  "phenotype": "Cellulitis"
+}
+

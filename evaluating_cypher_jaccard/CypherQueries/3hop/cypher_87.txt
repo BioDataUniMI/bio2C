@@ -1,0 +1,1 @@
+MATCH (mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA)-[r:under_expressed_in]->(id:Infectious_disease), (mirna)-[:not_involved_in]->(go:GO {Label:'regulation of vascular endothelial cell proliferation'}) RETURN mirna.Label AS miRNA, premirna.Label AS Pre_miRNA, id.Label AS InfectiousDisease, r.Source AS Source

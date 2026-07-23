@@ -1,0 +1,9 @@
+{
+  "CellularComponent": "mitochondrion",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder",
+  "r.Source": [
+    "miRPathDB"
+  ]
+}
+

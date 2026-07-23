@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'muscle' AND p.Label CONTAINS 'weakness' AND p.Description CONTAINS 'decreased strength' AND NOT p.Description CONTAINS 'generalized' RETURN p.Label AS Phenotype, p.Description

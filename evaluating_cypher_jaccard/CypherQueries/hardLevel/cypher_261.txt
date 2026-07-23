@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_germline_mutation_in]->(d:Disease) WITH m, d, SIZE(m.Sequence) - SIZE(REPLACE(REPLACE(m.Sequence, 'A', ''), 'U', '')) AS AU_count RETURN m.Label AS miRNA, d.Label AS Disease, AU_count

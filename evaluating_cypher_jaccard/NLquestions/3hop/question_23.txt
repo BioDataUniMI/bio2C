@@ -1,0 +1,1 @@
+Which genes cause or contribute to diseases whose labels contain 'infantile' and have characteristic phenotypes that are also phenotypes of diseases labeled with 'chronic benign'? Return genes, all diseases, and phenotype labels.

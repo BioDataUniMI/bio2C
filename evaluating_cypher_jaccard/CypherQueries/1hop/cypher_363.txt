@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(p:Phenotype) WHERE r.PubMedID IS NOT NULL RETURN  m.Label AS miRNA, p.Label AS Phenotype, r.PubMedID AS PubMedIDs

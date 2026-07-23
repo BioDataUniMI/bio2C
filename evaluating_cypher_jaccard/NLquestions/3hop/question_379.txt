@@ -1,0 +1,1 @@
+List diseases caused by the disruption of GO terms that have pre-miRNA participants which develop into miRNAs. Return the disease label, GO term label, pre-miRNA label, miRNA label, and the source reporting the pre-miRNA to miRNA development relationship.

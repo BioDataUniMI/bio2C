@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-4500",
+  "FunctionCount": 1
+}
+
+{
+  "miRNA": "hsa-miR-527",
+  "FunctionCount": 1
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "FunctionCount": 2
+}
+
+{
+  "miRNA": "hsa-miR-4516",
+  "FunctionCount": 1
+}
+
+{
+  "miRNA": "hsa-miR-346",
+  "FunctionCount": 2
+}
+

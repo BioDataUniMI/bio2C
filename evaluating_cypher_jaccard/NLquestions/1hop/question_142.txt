@@ -1,0 +1,1 @@
+Find the average length of miRNA sequences that cause or contribute to diseases. Return the average sequence length.

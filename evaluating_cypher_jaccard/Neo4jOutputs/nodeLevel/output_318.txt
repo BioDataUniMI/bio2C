@@ -1,0 +1,35 @@
+{
+  "DiseaseLabel": "liver disorder",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "drug-induced liver injury",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "liver disease, severe congenital",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "acute fatty liver of pregnancy",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "liver fibrocystic disease and polydactyly",
+  "Classifications": [
+    "Disease"
+  ]
+}
+

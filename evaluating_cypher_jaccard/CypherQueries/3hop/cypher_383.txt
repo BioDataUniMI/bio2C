@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease)-[:subclassof]->(c:Cancer)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'chronic' AND p.Label CONTAINS 'Abnormal' RETURN COUNT(DISTINCT m) AS miRNACount

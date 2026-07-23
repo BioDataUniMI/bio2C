@@ -1,0 +1,30 @@
+{
+  "Disease": "intracranial meningioma",
+  "GeneLabelLength": 5,
+  "MaxMiRNACount": 55
+}
+
+{
+  "Disease": "choroidal neovascularization",
+  "GeneLabelLength": 5,
+  "MaxMiRNACount": 55
+}
+
+{
+  "Disease": "coronary artery disease, severe, susceptibility to",
+  "GeneLabelLength": 5,
+  "MaxMiRNACount": 55
+}
+
+{
+  "Disease": "prostate cancer, hereditary",
+  "GeneLabelLength": 5,
+  "MaxMiRNACount": 55
+}
+
+{
+  "Disease": "hemorrhage, intracerebral, susceptibility to",
+  "GeneLabelLength": 5,
+  "MaxMiRNACount": 55
+}
+

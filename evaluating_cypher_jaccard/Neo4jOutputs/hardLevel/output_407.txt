@@ -1,0 +1,20 @@
+{
+  "m.Label": "hsa-miR-210-5p"
+}
+
+{
+  "m.Label": "hsa-miR-6743-3p"
+}
+
+{
+  "m.Label": "hsa-miR-210-3p"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-210 precursor"
+}
+
+{
+  "m.Label": "Hsa-Mir-210_pre stem-loop"
+}
+

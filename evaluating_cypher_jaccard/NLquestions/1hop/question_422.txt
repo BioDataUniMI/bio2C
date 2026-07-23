@@ -1,0 +1,1 @@
+Return labels of phenotypes with 'adrenal' in the label and that are not modifiers of any disease

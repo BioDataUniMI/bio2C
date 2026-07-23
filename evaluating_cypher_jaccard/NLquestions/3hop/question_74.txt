@@ -1,0 +1,1 @@
+Find pre-miRNA molecules that have a GO function (use 'GO' as node type and 'has_function' as relationship type) composed of multiple parts, i.e., it includes a molecular function and another GO term. Return the labels of: pre-miRNA, the GO function, the molecular function part, and the GO term part

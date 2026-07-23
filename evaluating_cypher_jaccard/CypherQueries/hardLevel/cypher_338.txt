@@ -1,0 +1,1 @@
+MATCH (go:GO)<-[:characteristic_of]-(p:Phenotype)<-[:has_phenotype]-(d:Disease)<-[:expressed_in]-(m:miRNA) WITH go, COUNT(DISTINCT m) AS miRNACount RETURN go.Label AS GOterm, miRNACount

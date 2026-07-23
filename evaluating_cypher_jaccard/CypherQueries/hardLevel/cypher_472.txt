@@ -1,0 +1,1 @@
+MATCH (g:Gene) UNWIND g.Genomic_coordinates AS coord WITH g, coord WHERE coord CONTAINS ':' WITH g, toLower(SPLIT(coord, ':')[0]) AS chr WHERE chr STARTS WITH 'chr' WITH g, COLLECT(DISTINCT chr) AS chromosomes WITH g, chromosomes, SIZE(chromosomes) AS chromosomeCount RETURN g.Label AS Gene, chromosomeCount, chromosomes ORDER BY chromosomeCount DESC, Gene ASC LIMIT 5

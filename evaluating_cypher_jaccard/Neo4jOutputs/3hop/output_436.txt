@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Abnormality of the nervous system",
+  "Gene": "ACTG1",
+  "miRNA": "hsa-let-7b-5p"
+}
+
+{
+  "Phenotype": "Abnormality of the nervous system",
+  "Gene": "ACTG1",
+  "miRNA": "hsa-miR-10a-5p"
+}
+
+{
+  "Phenotype": "Hypotension",
+  "Gene": "APLN",
+  "miRNA": "hsa-miR-224-5p"
+}
+
+{
+  "Phenotype": "Hypotension",
+  "Gene": "APLN",
+  "miRNA": "hsa-miR-424-5p"
+}
+
+{
+  "Phenotype": "Hypotension",
+  "Gene": "APLN",
+  "miRNA": "hsa-miR-182-5p"
+}
+

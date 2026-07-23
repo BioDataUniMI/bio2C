@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:located_in]->(go:GO) WHERE g.Label CONTAINS 'J' AND NOT go.Label CONTAINS 'extracellular' AND NOT go.Label CONTAINS 'nucleus' RETURN g.Label AS Gene, m.Label AS miRNA, go.Label AS GOterm

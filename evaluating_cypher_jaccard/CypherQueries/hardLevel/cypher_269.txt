@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WITH m, COUNT(DISTINCT d) AS num_diseases WHERE num_diseases = 1 RETURN COUNT(m) AS num_miRNAs

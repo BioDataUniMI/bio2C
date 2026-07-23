@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "regulation of mitotic spindle assembly",
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+
+{
+  "BiologicalProcess": "mitotic spindle assembly",
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+
+{
+  "BiologicalProcess": "regulation of mitotic spindle organization",
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+
+{
+  "BiologicalProcess": "mitotic spindle assembly checkpoint signaling",
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+
+{
+  "BiologicalProcess": "mitotic spindle organization",
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU"
+}
+

@@ -1,0 +1,1 @@
+Find miRNAs that develop from another miRNA such that both are characterized by genomic coordinates on chr21.

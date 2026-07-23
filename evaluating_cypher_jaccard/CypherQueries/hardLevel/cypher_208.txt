@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) UNWIND m.Genomic_coordinates AS coord WITH m, g, SPLIT(coord, ':')[0] AS chrom WITH m, g, COLLECT(DISTINCT chrom) AS unique_chroms_miRNA WHERE SIZE(unique_chroms_miRNA) >= 3 AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrX:') RETURN m.Label AS miRNA, g.Label AS Gene

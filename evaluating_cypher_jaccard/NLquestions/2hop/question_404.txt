@@ -1,0 +1,1 @@
+Which GO terms include cellular components as parts supported by at least three sources, where those cellular components participate in other GO terms? Return the parent and participating GO term labels, the cellular component, and the sources supporting the has_part relationship

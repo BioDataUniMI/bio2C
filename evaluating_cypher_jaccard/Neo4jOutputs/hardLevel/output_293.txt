@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Intellectual disability",
+  "DisorderCount": 3270
+}
+
+{
+  "Phenotype": "Scoliosis",
+  "DisorderCount": 2036
+}
+
+{
+  "Phenotype": "Autosomal recessive inheritance",
+  "DisorderCount": 4496
+}
+
+{
+  "Phenotype": "Seizure",
+  "DisorderCount": 3300
+}
+
+{
+  "Phenotype": "Hypotonia",
+  "DisorderCount": 2401
+}
+

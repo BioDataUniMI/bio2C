@@ -1,0 +1,78 @@
+{
+  "Gene": "MIR1295A",
+  "Synonyms": [
+    "hsa-mir-1295a",
+    "microRNA 1295a",
+    "hsa-mir-1295",
+    "mir-1295a",
+    "MIRN1295",
+    "MIR1295",
+    "microRNA 1295"
+  ],
+  "GenomicCoordinates": [
+    "chr1:171101728-171101806-"
+  ]
+}
+
+{
+  "Gene": "MIR1245A",
+  "Synonyms": [
+    "hsa-mir-1245",
+    "MIR1245",
+    "MIRN1245",
+    "microRNA 1245a",
+    "microRNA 1245",
+    "mir-1245a",
+    "hsa-mir-1245a"
+  ],
+  "GenomicCoordinates": [
+    "chr2:188978092-188978161+"
+  ]
+}
+
+{
+  "Gene": "MIR664A",
+  "Synonyms": [
+    "hsa-mir-664a",
+    "mir-664a",
+    "hsa-mir-664",
+    "microRNA 664a",
+    "MIR664",
+    "MIRN664",
+    "microRNA 664"
+  ],
+  "GenomicCoordinates": [
+    "chr1:220200538-220200619-"
+  ]
+}
+
+{
+  "Gene": "MIR1244-1",
+  "Synonyms": [
+    "microRNA 1244-1",
+    "microRNA 1244",
+    "hsa-mir-1244",
+    "hsa-mir-1244-1",
+    "MIRN1244",
+    "MIR1244"
+  ],
+  "GenomicCoordinates": [
+    "chr2:231713314-231713398+"
+  ]
+}
+
+{
+  "Gene": "MIR3130-1",
+  "Synonyms": [
+    "hsa-mir-3130-1",
+    "hsa-mir-3130-3",
+    "mir-3130-1",
+    "microRNA 3130-1",
+    "MIR3130-3",
+    "microRNA 3130-3"
+  ],
+  "GenomicCoordinates": [
+    "chr2:206783234-206783308-"
+  ]
+}
+

@@ -1,0 +1,6 @@
+{
+  "NeurodegenerativeDisease": "Leber congenital amaurosis with early-onset deafness",
+  "AutoimmuneDisease": "Wolfram syndrome",
+  "Phenotype": "Hearing impairment"
+}
+

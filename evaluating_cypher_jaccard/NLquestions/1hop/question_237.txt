@@ -1,0 +1,1 @@
+Which precursor miRNAs are involved in 'is_causal_germline_mutation_in' relationships with diseases? Keep only relationships with supporting PubMed articles as evidence.

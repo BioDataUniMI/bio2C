@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+
+{
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+
+{
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+
+{
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+
+{
+  "Phenotype": "Mildly elevated creatine kinase"
+}
+

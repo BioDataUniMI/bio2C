@@ -1,0 +1,25 @@
+{
+  "Cancer": "breast carcinoma",
+  "MolecularFunctionCount": 2
+}
+
+{
+  "Cancer": "adenoma",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "MolecularFunctionCount": 1
+}
+
+{
+  "Cancer": "lipoma",
+  "MolecularFunctionCount": 1
+}
+

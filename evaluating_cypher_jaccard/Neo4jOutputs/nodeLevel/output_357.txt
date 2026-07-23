@@ -1,0 +1,9 @@
+{
+  "ad": {
+    "Description": "a clinicopathologic variant of multicentric castleman's disease characterized by thrombocytopenia...",
+    "Label": "Castleman-Kojima disease",
+    "ID": "MONDO:0018702",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0018702"
+  }
+}
+

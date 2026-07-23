@@ -1,0 +1,1 @@
+Among genes transcribed to precursor miRNAs under-expressed in the disease labeled 'laryngeal squamous cell carcinoma', which gene has the highest number of T nucleotides in its sequence? In case of ties, sort genes alphabetically in ascending order. Return the gene label and the T count.

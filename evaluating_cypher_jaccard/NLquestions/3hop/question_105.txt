@@ -1,0 +1,1 @@
+Given the miRNA 'hsa-miR-708-5p', identify the autoimmune diseases linked to genes regulated by this miRNA. Also, return the pre-miRNA from which this miRNA develops. Return the pre-miRNA label, the gene label, and the autoimmune disease label.

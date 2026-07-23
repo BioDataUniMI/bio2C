@@ -1,0 +1,1 @@
+Which Homo sapiens genes are on chromosome 7 and have at least one synonym containing 'kinase'?

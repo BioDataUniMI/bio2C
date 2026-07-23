@@ -1,0 +1,1 @@
+List all molecular functions whose labels contain the string 'alcohol O' and whose descriptions contain the string 'catalysis of the reaction'.

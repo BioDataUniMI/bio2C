@@ -1,0 +1,16 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A",
+  "GeneSequenceLength": 27550,
+  "Disease": "primary cutaneous diffuse large B-cell lymphoma, Leg type"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "Gene": "CDKN2A",
+  "GeneSequenceLength": 27550,
+  "Disease": "primary cutaneous diffuse large B-cell lymphoma, Leg type"
+}
+

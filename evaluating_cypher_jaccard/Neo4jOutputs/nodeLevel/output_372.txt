@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "mental disease",
+  "d.Description": "a disease which is a disposition to undergo pathological mental processes."
+}
+

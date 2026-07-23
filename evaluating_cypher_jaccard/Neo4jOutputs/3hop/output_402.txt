@@ -1,0 +1,14 @@
+{
+  "CellularComponent": "compact myelin",
+  "miRNA": "hsa-miR-155-5p",
+  "Disease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "CellularComponent": "compact myelin",
+  "miRNA": "hsa-miR-155-5p",
+  "Disease": "malignant pancreatic neoplasm",
+  "Phenotype": "Episodic abdominal pain"
+}
+

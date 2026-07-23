@@ -1,0 +1,1 @@
+MATCH (c:Cellular_component) WHERE c.Description CONTAINS 'membrane raft' OR c.Label CONTAINS 'membrane raft' RETURN c.Label

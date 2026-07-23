@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-129-1-3p",
+  "PartLabel": "microtubule organizing center organization"
+}
+
+{
+  "miRNA": "hsa-miR-524-5p",
+  "PartLabel": "microtubule organizing center organization"
+}
+
+{
+  "miRNA": "hsa-miR-129-1-3p",
+  "PartLabel": "ascospore-type prospore-specific spindle pole body remodeling"
+}
+
+{
+  "miRNA": "hsa-miR-524-5p",
+  "PartLabel": "ascospore-type prospore-specific spindle pole body remodeling"
+}
+

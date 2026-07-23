@@ -1,0 +1,15 @@
+{
+  "m.Label": "hsa-miR-199a-5p",
+  "sequence_length": 23
+}
+
+{
+  "m.Label": "hsa-miR-199b-5p",
+  "sequence_length": 23
+}
+
+{
+  "m.Label": "hsa-miR-199b-3p",
+  "sequence_length": 22
+}
+

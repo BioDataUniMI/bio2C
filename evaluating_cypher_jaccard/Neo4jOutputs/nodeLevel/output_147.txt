@@ -1,0 +1,61 @@
+{
+  "p.Label": "Limited vertical extraocular movement",
+  "p.Synonym": [
+    "垂直方向の眼球外運動制限",
+    "Omezený vertikální extraokulární pohyb",
+    "Limitación del movimiento extraocular vertical",
+    "眼球外肌垂直运动受限"
+  ]
+}
+
+{
+  "p.Label": "Abnormality of the extraocular muscles",
+  "p.Synonym": [
+    "Afwijking van extra-oculaire spieren",
+    "眼外肌异常",
+    "Abnormalita okohybních svalů",
+    "Anomalía de los músculos extraoculares",
+    "外眼筋の異常",
+    "anomalie des muscles oculomoteurs externes",
+    "Ekstraoküler kasların anormalliği"
+  ]
+}
+
+{
+  "p.Label": "Abnormality of inferior rectus extraocular muscle",
+  "p.Synonym": [
+    "Abnormalita musculus rectus inferior",
+    "下直眼外肌异常",
+    "Anomalie du muscle droit inférieur extra-oculaire",
+    "Anomalía del músculo extraocular recto inferior",
+    "İnferior rektus ekstraoküler kasının anormalliği",
+    "Afwijking van musculus rectus inferior bulbi"
+  ]
+}
+
+{
+  "p.Label": "Limited extraocular movements",
+  "p.Synonym": [
+    "Mouvements extraoculaires limités",
+    "Beperkte extra-oculaire bewegingen",
+    "Sınırlı ekstraoküler hareketler",
+    "外眼球運動制限",
+    "Movimientos extraoculares limitados",
+    "眼球运动受限",
+    "Omezené extraokulární pohyby"
+  ]
+}
+
+{
+  "p.Label": "Absent extraocular muscles",
+  "p.Synonym": [
+    "Músculos extraoculares ausentes",
+    "Absence des muscles oculaires",
+    "Ekstra oküler kasların yokluğu",
+    "外眼筋欠損",
+    "Afwezige extra-oculaire spieren",
+    "Chybění extraokulárních svalů",
+    "眼外肌缺如"
+  ]
+}
+

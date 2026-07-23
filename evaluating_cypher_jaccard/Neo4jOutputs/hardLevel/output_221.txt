@@ -1,0 +1,6 @@
+{
+  "Chromosome": "chr17:59841311-59841331+",
+  "miRNA": "hsa-miR-21-3p",
+  "Sequence_length": 21
+}
+

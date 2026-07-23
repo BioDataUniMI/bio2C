@@ -1,0 +1,21 @@
+{
+  "Example_miRNAs": [
+    "hsa-miR-21-3p",
+    "hsa-miR-486-3p",
+    "hsa-miR-149-3p",
+    "hsa-miR-26b-5p",
+    "hsa-miR-26b-3p",
+    "hsa-miR-218-5p",
+    "hsa-miR-126-5p"
+  ],
+  "Sequence_lengths": [
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21
+  ]
+}
+

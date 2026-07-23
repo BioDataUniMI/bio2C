@@ -1,0 +1,1 @@
+What are the top five diseases that are subclasses of cancers and have at least one over-expressed miRNA, with the highest number of phenotypes? In case of ties, order them alphabetically. Return the disease label and the total count of distinct phenotypes.

@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-148a-5p",
+  "expressing_disease": "asthma",
+  "predisposing_disease": "inherited susceptibility to asthma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-148a precursor",
+  "expressing_disease": "asthma",
+  "predisposing_disease": "inherited susceptibility to asthma"
+}
+

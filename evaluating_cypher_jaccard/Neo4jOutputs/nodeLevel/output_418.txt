@@ -1,0 +1,32 @@
+{
+  "g.Label": "transposable element silencing by siRNA-mediated DNA methylation",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "gene silencing by siRNA-directed DNA methylation",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "gene silencing by piRNA-directed DNA methylation",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "g.Label": "RNAi-mediated antiviral immunity against DNA virus",
+  "LABELS(g)": [
+    "Biological_process",
+    "GO"
+  ]
+}
+

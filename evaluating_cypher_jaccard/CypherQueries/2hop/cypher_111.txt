@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_part]->(g:GO)-[:positively_regulates]->(mf:Molecular_function) RETURN bp.Label AS BiologicalProcess, g.Label AS GOTerm, mf.Label AS MolecularFunction

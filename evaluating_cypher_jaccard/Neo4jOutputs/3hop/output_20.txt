@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-374a precursor",
+  "precursor_miRNA": "microRNA hsa-mir-374b precursor",
+  "disease": "hemophilia A"
+}
+

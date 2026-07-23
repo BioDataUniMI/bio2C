@@ -1,0 +1,40 @@
+{
+  "autoimmune_disease": "hypersensitivity vasculitis",
+  "phenotype": "Macule",
+  "matching_synonyms": [
+    "斑"
+  ]
+}
+
+{
+  "autoimmune_disease": "allergic cutaneous vasculitis",
+  "phenotype": "Macule",
+  "matching_synonyms": [
+    "斑"
+  ]
+}
+
+{
+  "autoimmune_disease": "polymyalgia rheumatica",
+  "phenotype": "Blindness",
+  "matching_synonyms": [
+    "盲"
+  ]
+}
+
+{
+  "autoimmune_disease": "mixed connective tissue disease",
+  "phenotype": "Blindness",
+  "matching_synonyms": [
+    "盲"
+  ]
+}
+
+{
+  "autoimmune_disease": "Wolfram syndrome, mitochondrial form",
+  "phenotype": "Blindness",
+  "matching_synonyms": [
+    "盲"
+  ]
+}
+

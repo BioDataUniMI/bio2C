@@ -1,0 +1,2060 @@
+[
+{
+  "question": "Which miRNAs regulate the activity of genes whose sequence is ten times longer (wrt. the regulatory miRNA)?",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(m.Sequence) * 10 = SIZE(g.Sequence) RETURN m.Label, g.Label, SIZE(m.Sequence), SIZE(g.Sequence)"
+},
+{
+  "question": "Which miRNAs whose sequences contain both the motifs 'CCCCCCC' and 'GGG' do regulate the activity of genes? Return the labels of those miRNAs and of the regulated genes.",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE m.Sequence CONTAINS 'CCCCCCC' AND m.Sequence CONTAINS 'GGG' RETURN m.Label, g.Label"
+},
+{
+  "question": "Which genes whose activity is regulated by miRNAs are characterized by at least one synonym containing the phrase 'nuclear protein'?",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE ANY(s IN g.Synonym WHERE s CONTAINS 'nuclear protein') RETURN g.Label, g.Synonym, m.miRNA"
+},
+{
+  "question": "Which miRNAs regulate the activity of genes such that both the miRNA and the gene are both characterized by at least one genomic coordinates' item starting with 'chr22'? Return their labels.",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr22') AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr22') RETURN m.Label, g.Label"
+},
+{
+  "question": "Which miRNAs regulate the activity of genes such that: 1) the miRNA is characterized by at least one genomic coordinates' item starting with 'chr1:' or 'chr2:'; 2) the gene is characterized by at least one genomic coordinates' item starting with 'chrY'?",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE ANY(coord IN m.Genomic_coordinates WHERE (coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chr2:')) AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN m.Label, g.Label, m.Genomic_coordinates, g.Genomic_coordinates"
+},
+{
+  "question": "Find all miRNAs that regulate the activity of genes whose labels are exactly 2 letters long.",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(g.Label) = 2 RETURN m.Label AS miRNA, g.Label AS Gene"
+},
+{
+  "question": "Find the label of all genes whose activity is regulated by the miRNA labeled as 'hsa-miR-34a-3p'.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-34a-3p'})-[:regulates_activity_of]->(g:Gene) RETURN g.Label AS Gene"
+},
+{
+  "question": "Find all miRNAs that regulate the activity of the gene 'KL'.",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene {Label:'KL'}) RETURN m.Label AS miRNA"
+},
+
+{
+  "question": "Find miRNAs that develop from another miRNA such that the parent sequence is exactly 100 nucleotides longer.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE SIZE(m1.Sequence) + 100 = SIZE(m2.Sequence) RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, SIZE(m1.Sequence) AS sequence_length, SIZE(m2.Sequence) AS parent_sequence_length"
+},
+{
+  "question": "Find miRNAs that develop from another miRNA, where the first miRNA's label ends with the character 'z', 'f', or 'w'.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE (m1.Label ENDS WITH 'z' OR m1.Label ENDS WITH 'f' OR m1.Label ENDS WITH 'w') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA"
+},
+{
+  "question": "Find miRNAs that develop from another miRNA such that the latter miRNA's label contains the word 'loop'.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE m2.Label CONTAINS 'loop' RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA"
+},
+{
+  "question": "Find miRNAs with genomic coordinates on chrY and that develop from another miRNA. Return both miRNA labels and their complete set of genomic coordinates.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Genomic_coordinates AS miRNA_coords, m2.Genomic_coordinates AS parent_coords"
+},
+{
+  "question": "Find miRNAs with genomic coordinates on chrX that develop from a miRNA with genomic coordinates not on chrX.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND NONE(coord IN m2.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Genomic_coordinates AS miRNA_coords, m2.Genomic_coordinates AS parent_coords"
+},
+{
+  "question": "Find miRNAs that develop from another miRNA such that both are characterized by genomic coordinates on chr21.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord STARTS WITH 'chr21') AND ANY(coord IN m2.Genomic_coordinates WHERE coord STARTS WITH 'chr21') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Genomic_coordinates AS miRNA_coords, m2.Genomic_coordinates AS parent_coords"
+},
+{
+  "question": "Find the average length of miRNAs that develop from another miRNA. Compute also the average length of the latter.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) RETURN AVG(SIZE(m1.Sequence)) AS average_miRNA_length, AVG(SIZE(m2.Sequence)) AS average_parent_length"
+},
+{
+  "question": "For each miRNAs, identify the pre-miRNAs that developed from them and return the maximum length of their sequences.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) RETURN MAX(SIZE(m1.Sequence)) AS max_miRNA_length, MAX(SIZE(m2.Sequence)) AS max_parent_length"
+},
+{
+  "question": "For each miRNAs, identify the pre-miRNAs that developed from them and return the minimum length of their sequences.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) RETURN MIN(SIZE(m1.Sequence)) AS min_miRNA_length, MIN(SIZE(m2.Sequence)) AS min_parent_length"
+},
+{
+  "question": "Find miRNAs that develop from another miRNA where the miRNA label ends with a letter other than 'a', 'b', or 'c' (case-insensitive) followed by '-5p'.",
+  "cypher": "MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE m1.Label =~ '.*[d-zD-Z]-5p$' RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA, m1.Sequence AS miRNA_sequence, m2.Sequence AS parent_sequence"
+},
+
+{
+  "question": "Find miRNAs with genomic coordinates on chrX that develop from pre-miRNAs not on chrX.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND NONE(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Genomic_coordinates AS miRNA_coords, p.Genomic_coordinates AS pre_miRNA_coords"
+},
+{
+  "question": "Find the maximum length of miRNAs and of their corresponfìding pre-miRNAs for all miRNAs that develop from a pre-miRNA.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) RETURN MAX(SIZE(m.Sequence)) AS max_miRNA_length, MAX(SIZE(p.Sequence)) AS max_pre_miRNA_length"
+},
+{
+  "question": "Find miRNAs that develop from a pre-miRNA such that the pre-miRNA sequence is exactly twice the length of the miRNA sequence.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE SIZE(m.Sequence) * 2 = SIZE(p.Sequence) RETURN m.Label AS miRNA, p.Label AS pre_miRNA, SIZE(m.Sequence) AS miRNA_sequence_length, SIZE(p.Sequence) AS pre_miRNA_sequence_length"
+},
+{
+  "question": "Find miRNAs that develop from a pre-miRNA where both sequences contain at least one 'CUUUUU' motif.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE m.Sequence CONTAINS 'CUUUUU' AND p.Sequence CONTAINS 'CUUUUU' RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Sequence AS miRNA_sequence, p.Sequence AS pre_miRNA_sequence"
+},
+
+{
+  "question": "Find miRNAs that develop from a pre-miRNA where the miRNA contains the sequence 'AAAA'. Return the labels and sequences of both the miRNA and the pre-miRNA.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE m.Sequence CONTAINS 'AAAA' RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Sequence AS miRNA_sequence, p.Sequence AS pre_miRNA_sequence"
+},
+
+{
+  "question": "Find the average difference in sequence length between miRNAs and their corresponding pre-miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) RETURN AVG(SIZE(p.Sequence) - SIZE(m.Sequence)) AS average_length_diff"
+},
+{
+  "question": "Find all miRNAs that develop from a pre-miRNA where the miRNA label ends with a letter other that 'a', 'b', 'c', or 'p' (case-insensitive).",
+  "cypher": "MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE m.Label =~ '.*[d-oq-zD-OQ-Z]$' RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Sequence AS miRNA_sequence, p.Sequence AS pre_miRNA_sequence"
+},
+{
+  "question": "Find miRNAs that are under-expressed in a disease where the miRNA sequence contains at least two 'AAAAA'",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE (SIZE(SPLIT(m.Sequence, 'AAAAA')) - 1) >= 2 RETURN m.Label AS miRNA, d.Label AS Disease, m.Sequence AS miRNA_sequence"
+},
+{
+  "question": "Find the maximum length of all miRNAs that are under-expressed in a disease.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) RETURN MAX(SIZE(m.Sequence)) AS max_miRNA_length"
+},
+{
+  "question": "Find diseases that have miRNAs under-expressed and whose description contains the string 'two subtypes'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'two subtypes' RETURN DISTINCT d.Label AS Disease, d.Description AS Disease_description"
+},
+{
+  "question": "Count the miRNAs that are under-expressed in diseases where the description contains the string 'two subtypes'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'two subtypes' RETURN COUNT(DISTINCT m) AS num_miRNAs"
+},
+{
+  "question": "Find the URIs of diseases where miRNAs are under-expressed and whose descriptions contain the string 'african countries'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'african countries' RETURN DISTINCT d.URI AS Disease_URI"
+},
+
+{
+  "question": "Find the distinct IDs of diseases where miRNAs are under-expressed and such that their description contains the word 'sahara'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE d.Description CONTAINS 'sahara' RETURN DISTINCT d.ID AS Disease_ID, d.Label AS Disease_label, d.Description AS Disease_description"
+},
+{
+  "question": "Find all the diseases where the miRNA labeled as 'microRNA hsa-mir-625 precursor' is under-expressed. Return their ID and label." ,
+  "cypher": "MATCH (m:miRNA {Label:'microRNA hsa-mir-625 precursor'})-[:under_expressed_in]->(d:Disease) RETURN DISTINCT d.ID AS Disease_ID, d.Label AS Disease_label"
+},
+
+{
+  "question": "Find miRNAs that are under-expressed in diseases whose label or description contains 'blood'. Consider only miRNAs ending with 'precursor'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE (d.Label CONTAINS 'blood' OR d.Description CONTAINS 'blood') AND m.Label ENDS WITH 'precursor' RETURN m.Label AS miRNA, d.Label AS Disease_label, d.Description AS Disease_description"
+},
+{
+  "question": "Find miRNAs under-expressed in cancers whose label or description contains the string 'atypical cells'. Return the label for miRNAs, ID and label for cancers.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'atypical cells' OR c.Description CONTAINS 'atypical cells' RETURN m.Label AS miRNA, c.ID AS Cancer_ID, c.Label AS Cancer_label"
+},
+{
+  "question": "List cancers where the under-expressed miRNAs have a sequence containing a 'UUUUUUU' motif.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE m.Sequence CONTAINS 'UUUUUUU' RETURN m.Label AS miRNA, m.Sequence AS miRNA_Sequence, c.Label AS Cancer_label"
+},
+
+{
+  "question": "Find the average sequence length of miRNAs under-expressed in cancers.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) RETURN AVG(SIZE(m.Sequence)) AS average_miRNA_length"
+},
+{
+  "question": "Count the number of Gs and Cs in the sequences of miRNAs under-expressed in the cancer labeled as 'invasive ductal breast carcinoma'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer{Label:'invasive ductal breast carcinoma'}) RETURN m.Label AS miRNA, c.Label AS Cancer_label, SIZE([x IN SPLIT(m.Sequence, '') WHERE x = 'G']) AS num_G, SIZE([x IN SPLIT(m.Sequence, '') WHERE x = 'C']) AS num_C"
+},
+{
+  "question": "Find cancers whose label or description contains 'breast' and in which under-expressed miRNAs have genomic coordinates on chromosome X. Return the distinct cancers' label.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE (c.Label CONTAINS 'breast' OR c.Description CONTAINS 'breast') AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN DISTINCT c.Label AS Cancer_label"
+},
+
+{
+  "question": "Find cancers whose label or description contains 'breast' and in which under-expressed miRNAs have genomic coordinates are not on chromosome Y. Return the distinct cancers' label.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE (c.Label CONTAINS 'breast' OR c.Description CONTAINS 'breast') AND NONE(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN DISTINCT c.Label AS Cancer_label"
+},
+{
+  "question": "List all cancers whose description contains the word 'common' and are characterized by under-expressed miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE c.Description CONTAINS 'common' RETURN DISTINCT c.Label AS Cancer_label"
+},
+
+{
+  "question": "Find miRNAs under-expressed in phenotypes that have at least 8 synonyms containing non-English characters and digits (i.e., NOT a-z, A-Z, 0-9).",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE SIZE([s IN p.Synonym WHERE s =~ '.*[^a-zA-Z0-9 ].*']) >= 8 RETURN DISTINCT m.Label AS miRNA, p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms"
+},
+{
+  "question": "Find phenotypes whose synonyms contain the Japanese expression '卵巣新生物' and are characterized by under-expressed miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE ANY(s IN p.Synonym WHERE s CONTAINS '卵巣新生物') RETURN DISTINCT p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms"
+},
+{
+  "question": "Find phenotypes whose label or synonyms contain the special character 'č' and are characterized by under-expressed miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'č' OR  ANY(s IN p.Synonym WHERE s CONTAINS 'č') RETURN DISTINCT p.ID AS Phenotype_ID, p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms"
+},
+
+{
+  "question": "Find phenotypes whose label contains 'Acute' and that are characterized by under-expressed miRNAs whose labels do not end with 'p' or 'precursor'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'Acute' AND NOT m.Label ENDS WITH 'p' AND NOT m.Label ENDS WITH 'precursor' RETURN p.Label AS Phenotype_label, m.Label AS miRNA"
+},
+{
+  "question": "Find miRNAs that are under-expressed in phenotypes whose label contains 'lung'. Moreover, filter only miRNAs that are located on chromosome 21 (chr21).",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'lung' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr21') RETURN p.Label AS Phenotype_label, m.Label AS miRNA, m.Genomic_coordinates AS miRNA_coordinates"
+},
+{
+  "question": "Find all the phenotypes with under-expressed miRNAs having genomic coordinates on chrY.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN p.Label AS Phenotype_label, m.Label AS miRNA, m.Genomic_coordinates AS miRNA_coordinates"
+},
+
+
+{
+  "question": "Find phenotypes with under-expressed miRNAs sequence longer than 120 nucleotides.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE SIZE(m.Sequence) > 120 RETURN p.Label AS Phenotype_label, m.Label AS miRNA, SIZE(m.Sequence) AS sequence_length"
+},
+{
+  "question": "Find phenotypes that under express miRNAs and whose sequence is longer than 140 or shorter than 17 nucleotides.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE SIZE(m.Sequence) > 140 OR SIZE(m.Sequence) < 17 RETURN p.Label AS Phenotype_label, m.Label AS miRNA, SIZE(m.Sequence) AS sequence_length"
+},
+
+{
+  "question": "Count the number of unique genomic coordinate arrays of miRNAs under-expressed in phenotypes whose label contains the word 'lung'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'lung' RETURN COUNT(DISTINCT m.Genomic_coordinates) AS num_unique_chromosomes"
+},
+
+{
+  "question": "Find all miRNAs having the genomic coordinates on chr3 and whose sequence contains 'UUUUU' that are under-expressed in phenotypes whose label does NOT contain the word 'oma'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr3') AND NOT p.Label CONTAINS 'oma' AND m.Sequence CONTAINS 'UUUUU' RETURN m.Label AS miRNA, m.Genomic_coordinates AS miRNA_coordinates, p.Label AS Phenotype_label"
+},
+{
+  "question": "Which miRNAs located on chromosome 9 or 19 are under-expressed in biological processes? Return miRNAs' distinct label, and the associated processes' ID and label.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr9') OR ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr19') RETURN DISTINCT m.Label AS miRNA, b.ID AS Process_ID, b.Label AS Process_label"
+},
+{
+  "question": "Which miRNAs are under-expressed in biological processes whose description contains 'defensive reaction'? Return miRNAs and associated processes' label.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WHERE b.Description CONTAINS 'defensive reaction' RETURN m.Label AS miRNA, b.Label AS Process_label"
+},
+{
+  "question": "List all miRNAs that are under-expressed in the biological process 'inflammatory response'. Return their labels.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process {Label:'inflammatory response'}) RETURN m.Label AS miRNA"
+},
+{
+  "question": "Which miRNAs are under-expressed in the biological process 'programmed necrotic cell death'? What are the source(s) claiming this under-expression?",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process {Label:'programmed necrotic cell death'}) RETURN m.Label AS miRNA, r.Source AS Source"
+},
+{
+  "question": "Return miRNAs under-expressed in biological processes such that this relationship (miRNA-under_expressed_in->Biological_process) is verified within the context 'cardiomyocyte progenitor cells'. Return the distinct processes' label, description and the entire set of contexts.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE ANY(c IN r.Context WHERE c = 'cardiomyocyte progenitor cells') RETURN DISTINCT b.Label AS Process_name, b.Description AS Process_description, r.Context AS Context"
+},
+{
+  "question": "Find all miRNAs that are under-expressed in biological processes. Consider only relationships with more than ten associated contexts. Return the distinct label of miRNAs and biological processes, and the list of contexts as well.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE  SIZE(r.Context) > 10 RETURN DISTINCT m.Label AS miRNA, b.Label AS Process_label, r.Context AS Context"
+},
+{
+  "question": "Return all miRNAs under-expressed in biological processes such that the 'context' property characterizing this relationship contains the item 'hepg2 cells'.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE ANY(c IN r.Context WHERE c = 'hepg2 cells') RETURN DISTINCT m.Label AS miRNA, b.Label AS Process_label, r.Context AS Context"
+},
+
+{
+  "question": "List all GO terms whose description contains the string 'dna damage' that under express miRNAs whose labels end with 'b-5p'. Return the miRNAs and the GO terms' labels.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(go:GO) WHERE m.Label ENDS WITH 'b-5p' AND go.Description CONTAINS 'dna damage' RETURN m.Label AS miRNA, go.Label AS GO_term"
+},
+{
+  "question": "List all miRNAs that are under-expressed in GO terms and are characterized by sequences ending with 'GGGG'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(go:GO) WHERE m.Sequence ENDS WITH 'GGGG' RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, go.Label AS GO_term"
+},
+
+{
+  "question": "List all miRNAs that: 1) are under-expressed in GO terms; 2) are characterized by genomic coordinates exclusively on chromosome X; and 3) are characterized by a sequence length greater than 50.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:GO) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND SIZE(m.Sequence) > 50 RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates, b.Label AS GO_term"
+},
+{
+  "question": "List all miRNAs that: 1) are under-expressed in GO terms; 2) are characterized by genomic coordinates exclusively on chromosome X; and 3) are characterized by sequence length of exactly 18 nucleotides.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:GO) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND SIZE(m.Sequence) = 18 RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates, b.Label AS GO_term"
+},
+
+{
+  "question": "Find all GO terms in which miRNAs with a sequence length of exactly 18 nucleotides are under-expressed.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(go:GO) WHERE SIZE(m.Sequence) = 18 RETURN go.Label AS GO_term, m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length"
+},
+{
+  "question": "Which source(s) report the under-expression of the miRNA labelled as 'hsa-miR-500b-5p'? Which are the GO terms involved in the under-expression?",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-500b-5p'})-[r:under_expressed_in]->(b:GO) RETURN r.Source AS Source, b.Label AS GO_term"
+},
+{
+  "question": "List all the distinct sources reporting under-expression of miRNAs in GO terms.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:GO) UNWIND r.Source AS source RETURN DISTINCT source as Source"
+},
+{
+  "question": "List all miRNAs under-expressed in the GO term 'apoptotic process' such that the relationship (miRNA-under_expressed_in->GO) is characterized by context that contains the item 'cardiac'. Return the miRNA label and all relationship properties.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:GO {Label:'apoptotic process'}) WHERE r.Context IS NOT NULL AND ANY(c IN r.Context WHERE c = 'cardiac') RETURN m.Label AS miRNA, properties(r) AS Relationship_properties"
+},
+{
+  "question": "Find all miRNAs with sequence length greater than 100 that are under-expressed in GO terms.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(b:GO) WHERE SIZE(m.Sequence) > 100 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length, b.Label AS GO_term"
+},
+{
+  "question": "Find miRNAs under-expressed in GO terms such that the context property of the relationship contains at least one item with the Greek letter 'β'. Return the miRNAs' label, sequence, and the entire set of contexts for the relationships.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(b:GO) WHERE ANY(c IN r.Context WHERE c CONTAINS 'β') RETURN b.Label AS GO_term, m.Label AS miRNA, m.Sequence AS miRNA_sequence, r.Context AS Context"
+},
+
+{
+  "question": "List all miRNAs that are under-expressed in the cardiovascular disease labeled as 'cardiomyopathy'. Return only the miRNA labels.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease {Label:'cardiomyopathy'}) RETURN m.Label AS miRNA"
+},
+{
+  "question": "Which miRNAs with a sequence length equal to 22 are under-expressed in cardiovascular diseases whose description starts with 'failure of the heart'?",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WHERE SIZE(m.Sequence) = 22 AND c.Description STARTS WITH 'failure of the heart' RETURN m.Label AS miRNA, c.Label AS Disease, c.Description AS Description"
+},
+{
+  "question": "Retrieve the set of unique experimental methods used to report miRNA under-expression in cardiovascular diseases.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cardiovascular_disease) UNWIND r.Method AS method RETURN DISTINCT method AS Method"
+},
+{
+  "question": "Which experimental methods report miRNAs with a sequence length of 22 nucleotides that are under-expressed in cardiovascular diseases whose descriptions start with 'failure of the heart'?",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cardiovascular_disease) WHERE c.Description STARTS WITH 'failure of the heart' AND SIZE(m.Sequence) = 22 RETURN r.Method AS Method, m.Label, c.Label, c.Description"
+},
+{
+  "question": "Find cardiovascular diseases in which miRNAs are under-expressed, where the description contains both 'blood' and 'flow'. Return the disease and miRNA labels.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cardiovascular_disease) WHERE c.Description CONTAINS 'blood' AND c.Description CONTAINS 'flow' RETURN c.Label AS Disease, m.Label AS miRNA"
+},
+{
+  "question": "Find all cardiovascular diseases in which miRNAs whose genomic coordinates start with 'chrX' are under-expressed.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN c.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "Retrieve the top 7 miRNA–cardiovascular disease pairs where the miRNA is under-expressed in a cardiovascular disease, ordered by ascending miRNA sequence length and, in case of ties, alphabetically by miRNA label. Return the miRNA label, the sequence length, and the genomic coordinates",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates ORDER BY SIZE(m.Sequence) ASC, m.Label ASC LIMIT 7"
+},
+{
+  "question": "Retrieve the top 3 miRNAs that are under-expressed in cardiovascular diseases, ordered by descending sequence length and, in case of ties, alphabetically by miRNA label. Return the miRNA label, sequence length, and genomic coordinates",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates ORDER BY SIZE(m.Sequence) DESC, m.Label ASC LIMIT 3"
+},
+{
+  "question": "Find the cardiovascular diseases in which the 3 miRNAs with the longest sequence length are under-expressed. In case of ties in sequence length, order the miRNAs alphabetically by their label.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN c.Label AS Disease, m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length ORDER BY SIZE(m.Sequence) DESC, m.Label ASC LIMIT 3"
+},
+
+{
+  "question": "Return the 3 miRNA–cardiovascular disease pairs where the miRNA is under-expressed in the disease, ordered by descending miRNA sequence length and, in case of ties, alphabetically by miRNA label. Return the disease label, miRNA label, and sequence length.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) RETURN n.Label AS Disease, m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length ORDER BY SIZE(m.Sequence) ASC, m.Label ASC LIMIT 3"
+},
+{
+  "question": "Retrieve the top 3 miRNA–neurodegenerative disease pairs where the miRNA is under-expressed in a neurodegenerative disease, ordered by ascending miRNA sequence length and, in case of ties, alphabetically by miRNA label. Return the miRNA label, sequence length, and genomic coordinates",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length, m.Genomic_coordinates AS Genomic_coordinates ORDER BY SIZE(m.Sequence) ASC, m.Label ASC LIMIT 3"
+},
+
+{
+  "question": "Find the neurodegenerative diseases in which miRNAs whose genomic coordinates start with 'chrX' are under-expressed.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN n.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "Which experimental methods report that certain miRNAs with sequence equal to 22 are under-expressed in neurodegenerative diseases whose description contains 'progressive'?",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE n.Description CONTAINS 'progressive' AND SIZE(m.Sequence) = 22 RETURN r.Method AS Method, m.Label AS miRNA, n.Label AS Disease"
+},
+{
+  "question": "List all distinct experimental methods used to report miRNA under-expression in neurodegenerative diseases.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) UNWIND r.Method AS method RETURN DISTINCT method AS Method"
+},
+
+{
+  "question": "Which miRNAs with a sequence length of 23 are under-expressed in neurodegenerative diseases whose descriptions start with the string 'a progressive'?",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) WHERE SIZE(m.Sequence) = 23 AND n.Description STARTS WITH 'a progressive' RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, n.Label AS DiseaseLabel, n.Description AS DiseaseDescription"
+},
+
+{
+  "question": "List all miRNAs that are under-expressed in the neurodegenerative disease labeled as 'multiple sclerosis'. Return only the miRNA labels.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease {Label:'multiple sclerosis'}) RETURN m.Label AS miRNA"
+},
+{
+  "question": "List all sources that report under-expression of miRNAs in the neurodegenerative disease labeled as 'Parkinson disease'.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease {Label:'Parkinson disease'}) RETURN r.Source AS Source, m.Label AS miRNA"
+},
+
+{
+  "question": "Which sources report the under-expression of the miRNA which label contains 'b-5p' in neurodegenerative diseases?",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE m.Label CONTAINS 'b-5p' RETURN r.Source AS Source, n.Label AS Disease, m.Label AS miRNA"
+},
+
+{
+  "question": "List all miRNAs that are under-expressed in autoimmune diseases.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) RETURN m.Label AS miRNA, a.Label AS Disease"
+},
+{
+  "question": "List all miRNAs under-expressed in autoimmune diseases whose sequence contains the motif 'AAGG'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) WHERE m.Sequence CONTAINS 'AAGG' RETURN m.Label AS miRNA, m.Sequence AS Sequence, a.Label AS Disease"
+},
+{
+  "question": "List the genomic coordinates of miRNAs that are under-expressed in the autoimmune disease labeled as 'rheumatoid arthritis'.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease {Label:'rheumatoid arthritis'}) RETURN m.Label AS miRNA, m.Genomic_coordinates AS Chromosomes"
+},
+{
+  "question": "Find the average sequence length of miRNAs across all instances where they are under-expressed in autoimmune diseases",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(:Autoimmune_disease) RETURN AVG(SIZE(m.Sequence)) AS Average_Sequence_Length"
+},
+{
+  "question": "Find the length of the shortest miRNA that is under-expressed in cardiovascular diseases.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN MIN(SIZE(m.Sequence)) AS Shortest_Sequence_Length"
+},
+{
+  "question": "Find the length of the longest miRNA that is under-expressed in cardiovascular diseases.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN MAX(SIZE(m.Sequence)) AS Longest_Sequence_Length"
+},
+{
+  "question": "List all infectious diseases in which miRNAs are under-expressed.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) RETURN DISTINCT i.Label AS Disease"
+},
+{
+  "question": "List all sources reporting the under-expression of miRNAs in the infectious disease 'COVID-19'.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease {Label:'COVID-19'}) RETURN m.Label AS miRNA, r.Source AS Source, i.Label AS Disease"
+},
+{
+  "question": "Find the maximum length of miRNA sequences that are under-expressed in infectious diseases.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(:Infectious_disease) RETURN MAX(SIZE(m.Sequence)) AS Max_Sequence_Length"
+},
+{
+  "question": "List all miRNAs under-expressed in the infectious disease labeled 'viral infectious disease' and report the source.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease {Label:'viral infectious disease'}) RETURN m.Label AS miRNA, r.Source AS Source, i.Label AS InfectiousDisease"
+},
+{
+  "question": "Find miRNAs under-expressed in infectious diseases where 'dbDEMC' is listed as a source.",
+  "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease) WHERE 'dbDEMC' IN r.Source RETURN i.Label AS Disease, m.Label AS miRNA, r.Source AS Source"
+},
+{
+  "question": "Which miRNAs with a sequence length of 21 are under-expressed in infectious diseases whose description starts with the string 'a malignant'?",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WHERE SIZE(m.Sequence) = 21 AND i.Description STARTS WITH 'a malignant' RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, i.Label AS Disease"
+},
+{
+  "question": "Which miRNAs with a sequence length greater than 20 and less than 24 are under-expressed in infectious diseases?",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WHERE SIZE(m.Sequence) > 20 AND SIZE(m.Sequence) < 24  RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, i.Label AS Disease"
+},
+{
+  "question": "Find miRNAs that do not contain 'C' in the nucleotide sequence and that are under-expressed in infectious diseases.",
+  "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WHERE SIZE(SPLIT(m.Sequence, 'C')) - 1 = 0 RETURN m.Label AS miRNA, m.Sequence AS Sequence, i.Label AS Disease"
+},
+{
+  "question": "List the diseases in which the miRNA 'hsa-miR-660-3p' is over-expressed. Return only the disease label and URI.",
+  "cypher": "MATCH (m:miRNA{Label:'hsa-miR-660-3p'})-[:over_expressed_in]->(d:Disease) RETURN d.Label AS Disease, d.URI AS Disease_URI"
+},
+{
+  "question": "Return the disease label, URI, and the Source, Method, and Context of the relationship 'miRNA 'hsa-miR-4271' - over-expressed in - disease'.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-4271'})-[r:over_expressed_in]->(d:Disease) RETURN d.Label AS Disease, d.URI AS Disease_URI, r.Source AS Source, r.Method AS Method, r.Context AS Context"
+},
+{
+  "question": "Compute the average sequence length of miRNAs that are over-expressed in diseases.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease) RETURN AVG(SIZE(m.Sequence)) AS Average_Sequence_Length"
+},
+{
+  "question": "Return the miRNA label and genomic coordinates for the three longest-sequence miRNA–disease over-expression relationships, ordered by descending sequence length and, in case of ties, alphabetically by miRNA label.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease) RETURN m.Label AS miRNA, m.Genomic_coordinates AS Chromosome ORDER BY SIZE(m.Sequence) DESC, m.Label ASC LIMIT 3"
+},
+{
+  "question": "Find diseases whose labels contain the word 'childhood' and such that over-expressed miRNAs have genomic coordinates starting with 'chr21'.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr21') AND d.Label CONTAINS 'childhood' RETURN d.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "Find phenotypes having: 1) a label that contains the word 'Chronic'; 2) 'over-expressed in' relationships with miRNAs characterized by genomic coordinates starting with 'chr21'.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(p:Phenotype) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr21') AND p.Label CONTAINS 'Chronic' RETURN p.Label AS Phenotype, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+ "question": "Find all phenotypes in which the miRNA 'hsa-miR-5692b' is over-expressed. Return the phenotype label and the source stating the over-expression.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-5692b'})-[r:over_expressed_in]->(p:Phenotype) RETURN p.Label AS Phenotype, r.Source AS Source"
+},
+
+{
+ "question": "Find all phenotypes in which the miRNA 'hsa-miR-99a-5p' is over-expressed and this over-expression is measured with the method called 'microarray analysis'. Return the phenotype label and all the relationship sources and methods.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-99a-5p'})-[r:over_expressed_in]->(p:Phenotype) WHERE 'microarray analysis' IN r.Method RETURN p.Label AS Phenotype, r.Source AS Source, r.Method AS Method"
+},
+{
+  "question": "List biological processes in which the miRNA 'hsa-miR-372-3p' is over-expressed. Return biological processes' label and description.",
+  "cypher": "MATCH (:miRNA {Label:'hsa-miR-372-3p'})-[:over_expressed_in]->(bp:Biological_process) RETURN bp.Label AS Biological_Process, bp.Description AS Description"
+},
+{
+  "question": "Find biological processes where an over-expressed miRNA has a sequence shorter than 20 nucleotides and a genomic coordinate on chrX.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) WHERE SIZE(m.Sequence) < 20 AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN bp.Label AS Biological_Process, m.Label AS miRNA, m.Sequence AS Sequence, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "Find the genomic coordinates of the top five miRNAs with the longest sequences that are over-expressed in biological processes. In case of ties in sequence length, order the miRNAs alphabetically by their label.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) RETURN m.Label AS miRNA, m.Sequence AS Sequence, m.Genomic_coordinates AS GenomicCoordinates, bp.Label AS Biological_Process ORDER BY SIZE(m.Sequence) DESC, miRNA ASC LIMIT 5"
+},
+{
+  "question": "Find biological processes where over-expressed miRNAs have no 'C' nucleotides in their sequence.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(b:Biological_process) WHERE SIZE(SPLIT(m.Sequence, 'C')) - 1 = 0 RETURN b.Label AS Biological_Process, m.Label AS miRNA, m.Sequence AS Sequence"
+},
+{
+  "question": "List all GO terms in which over-expressed miRNAs do not end with 'p'.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(g:GO) WHERE NOT m.Label ENDS WITH 'p' RETURN g.Label AS GO_Term, m.Label"
+},
+{
+  "question": "List all miRNAs that are over-expressed in cardiovascular diseases, considering only miRNAs whose labels contain 'precursor'.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease) WHERE m.Label CONTAINS 'precursor' RETURN m.Label AS miRNA, c.Label AS Disease"
+},
+{
+  "question": "List all miRNAs that are over-expressed in the cardiovascular disease labeled 'myocardial infarction'. ",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease {Label: 'myocardial infarction'}) RETURN m.Label AS miRNA"
+},
+{
+  "question": "Find all cardiovascular diseases that are characterized by over-expressed miRNAs located on chromosome 1 (using 'chr1:' to distinguish from decimal coordinates).",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN c.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "List all neurodegenerative diseases characterized by over-expressed miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) RETURN DISTINCT n.Label AS NeurodegenerativeDisease, m.Label AS miRNA"
+},
+{
+  "question": "Find all neurodegenerative diseases characterized by over-expressed miRNAs located on chromosome 11.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr11:') RETURN n.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "List all miRNAs that are over-expressed in autoimmune diseases whose descriptions mention ‘cognitive impairments’.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Autoimmune_disease) WHERE d.Description CONTAINS 'cognitive impairments' RETURN m.Label AS miRNA, d.Label AS DiseaseLabel, d.Description AS DiseaseDescription"
+},
+{
+  "question": "How many miRNAs are overexpressed in each autoimmune disease?",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Autoimmune_disease) RETURN d.Label AS Disease, COUNT(m.Label) AS miRNA_Count"
+},
+{
+  "question": "Find all the genomic coordinates of the miRNAs over-expressed in the autoimmune disease labeled as 'type 1 diabetes mellitus 1'.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Autoimmune_disease {Label:'type 1 diabetes mellitus 1'}) RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Which miRNAs are over-expressed in infectious diseases whose label or description contains the word 'sarcoma'?",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Infectious_disease) WHERE d.Label CONTAINS 'sarcoma' OR d.Description CONTAINS 'sarcoma' RETURN m.Label AS miRNA, d.Label AS diseaseLabel, d.Description AS DiseaseDescription"
+},
+{
+  "question": "Which miRNAs are over-expressed in infectious diseases that are also classified as cancers?",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Infectious_disease:Cancer) RETURN m.Label AS miRNA, d.Label AS disease"
+},
+{
+  "question": "Which miRNAs with sequences starting with 'AA' or 'UU' motifs are over-expressed in infectious diseases?",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Infectious_disease) WHERE m.Sequence STARTS WITH 'AA' OR m.Sequence STARTS WITH 'UU' RETURN m.Label AS miRNA, d.Label AS disease"
+},
+{
+  "question": "Find all infectious diseases that have over-expressed miRNAs located on chromosome 1: (using 'chr1:' to distinguish from decimal coordinates).",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(i:Infectious_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') RETURN i.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates"
+},
+{
+  "question": "Find miRNAs over-expressed in the infectious disease labeled 'toxoplasmosis', ranked by miRNA sequence length.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(i:Infectious_disease {Label:'toxoplasmosis'}) RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_Length ORDER BY Sequence_Length DESC"
+},
+{
+  "question": "Find all miRNAs that participate in biological processes with ‘DNA’ in the label and ‘protein’ in the label or description.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) WHERE (b.Label CONTAINS 'protein' OR b.Description CONTAINS 'protein') AND b.Label CONTAINS 'DNA' RETURN m.Label AS miRNA, b.Label AS BiologicalProcess"
+},
+{
+  "question": "Count the number of biological process participation relationships for miRNAs with genomic coordinates located on chromosome 14.",
+  "cypher": "MATCH (m:miRNA)-[r:participates_in]->(b:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr14:') RETURN COUNT(r) AS RelationshipCount"
+},
+{
+  "question": "Find all biological processes whose label contains the string 'mitotic spindle' and in which miRNAs whose sequences do not contain 'C' participate. Return biological processes' label and miRNAs' label and sequence.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) WHERE NOT m.Sequence CONTAINS 'C' AND b.Label CONTAINS 'mitotic spindle' RETURN b.Label AS BiologicalProcess, m.Label AS miRNA, m.Sequence AS Sequence"
+},
+{
+  "question": "Find the top five biological processes with the highest number of associated miRNAs. In case of ties, order the biological processes alphabetically by their label.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) RETURN b.Label AS BiologicalProcess, COUNT(m) AS miRNA_Count ORDER BY miRNA_Count DESC, BiologicalProcess ASC LIMIT 5"
+},
+{
+  "question": "Find all miRNAs with sequences longer than 25 nucleotides that participate in GO terms having a label that contains the word 'negative'.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE SIZE(m.Sequence) > 25 AND g.Label CONTAINS 'negative' RETURN m.Label AS miRNA, g.Label AS GO_Term"
+},
+{
+  "question": "Find all GO terms containing the standalone word 'gene', in which miRNAs participate.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE g.Label =~ '.*\\bgene\\b.*' RETURN DISTINCT g.Label AS GO_Term"
+},
+{
+  "question": "Find the genomic coordinates of miRNAs participating in the GO term labeled 'positive regulation of gene expression via chromosomal CpG island demethylation'.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(g:GO {Label:'positive regulation of gene expression via chromosomal CpG island demethylation'}) RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Count the sequence length of miRNAs whose labels contain 'ENSG' and participate in GO terms. Return miRNA label, GO term label, and sequence length.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE m.Label CONTAINS 'ENSG' RETURN m.Label AS miRNA, g.Label AS GO_Term, SIZE(m.Sequence) AS SequenceLength"
+},
+{
+  "question": "Find all miRNAs and their genomic coordinates that participate in GO terms whose label contains the word 'ncRNA'.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE g.Label CONTAINS 'ncRNA' RETURN DISTINCT m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+
+{
+  "question": "Find all miRNAs and the molecular functions in which they participate. Return: 1) the miRNA label; 2) the molecular function label, ID, and URI.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) RETURN m.Label AS miRNA, mf.Label AS MolecularFunctionLabel, mf.ID AS MolecularFunctionID, mf.URI AS MolecularFunctionURI"
+},
+{
+  "question": "Find miRNAs located on chromosome 19 that participate in molecular functions. Return the molecular function label and the list of associated miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr19:') RETURN mf.Label AS MolecularFunction, COLLECT(m.Label) AS miRNAs"
+},
+{
+  "question": "Find all miRNAs with genomic coordinates located on chromosome 19 and the molecular functions they participate in. Return the miRNA label and genomic coordinates and the molecular function label.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr19:') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates, mf.Label AS MolecularFunction"
+},
+{
+  "question": "Find all miRNAs that participate in molecular functions and have at least two occurrences of the string 'AA' in their sequence. Return miRNA label, sequence, and associated molecular function label.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WHERE SIZE(SPLIT(m.Sequence, 'AA')) - 1 >= 2 RETURN m.Label AS miRNA, m.Sequence AS Sequence, mf.Label AS MolecularFunction"
+},
+{
+  "question": "Find miRNAs that participate in molecular functions and contain at least two occurrences of 'GG', ranked by sequence length. Ties should be resolved alphabetically by miRNA label. Return the miRNA label, sequence, sequence length, and associated molecular function label.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WHERE SIZE(SPLIT(m.Sequence, 'GG')) - 1 >= 2 RETURN m.Label AS miRNA, m.Sequence AS Sequence, SIZE(m.Sequence) AS Length, mf.Label AS MolecularFunction ORDER BY SIZE(m.Sequence) DESC, m.Label ASC"
+},
+{
+  "question": "Return the first 10 nucleotides of miRNA sequences that participate in molecular functions. Return the miRNA label, truncated sequence (i.e., first 10 nts), and associated molecular function label.",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) RETURN m.Label AS miRNA, SUBSTRING(m.Sequence, 0, 10) AS Sequence_First10, mf.Label AS MolecularFunction"
+},
+{
+  "question": "Count all relationships where miRNAs cause or contribute to diseases",
+  "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Disease) RETURN COUNT(r) AS RelationshipCount"
+},
+{
+  "question": "Find the average length of miRNA sequences that cause or contribute to diseases. Return the average sequence length.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN AVG(SIZE(m.Sequence)) AS AverageSequenceLength"
+},
+{
+  "question": "Find the difference in length between the longest and shortest miRNA sequences that cause or contribute to diseases.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN MAX(SIZE(m.Sequence)) - MIN(SIZE(m.Sequence)) AS LengthDifference"
+},
+{
+  "question": "Find all miRNAs that cause or contribute to cancers whose label or description contains the word 'invasive' and whose RNAsister score on the causal relationship is lower than 0.97.",
+  "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(c:Cancer) WHERE (c.Label CONTAINS 'invasive' OR c.Description CONTAINS 'invasive') AND r.RNAsister_score < 0.97 RETURN m.Label AS miRNA, c.Label AS Cancer, r.RNAsister_score AS RNAsister_score"
+},
+
+{
+  "question": "Find all infectious diseases whose labels contain 'tuberculosis' and that are caused or contributed to by miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(i:Infectious_disease) WHERE i.Label CONTAINS 'tuberculosis' RETURN i.Label AS InfectiousDisease"
+},
+{
+  "question": "List all miRNAs (include label and genomic coordinates in the return clause) that cause or contribute to the infectious disease labeled 'AIDS', excluding miRNAs containing the word 'precursor' in the label and excluding also those located on chromosome X.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(i:Infectious_disease {Label:'AIDS'}) WHERE NOT m.Label CONTAINS 'precursor' AND NONE(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates"
+},
+{
+  "question": "Find all autoimmune diseases that are also classified as neurodegenerative diseases and have miRNAs causing or contributing to them.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Autoimmune_disease:Neurodegenerative_disease) RETURN DISTINCT d.Label AS Disease"
+},
+{
+  "question": "Find all autoimmune diseases whose description contains 'women' and the miRNAs that cause or contribute to them.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(a:Autoimmune_disease) WHERE a.Description CONTAINS 'women' RETURN a.Label AS AutoimmuneDisease, m.Label AS Contributing_miRNAs"
+},
+{
+  "question": "Find miRNAs with short sequence length (i.e., less than 21 nucleotides) that cause or contribute to autoimmune diseases whose label contains the string 'multiple sclerosis'. Return the miRNA label, sequence, sequence length, and the disease label.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(a:Autoimmune_disease) WHERE a.Label CONTAINS 'multiple sclerosis' AND SIZE(m.Sequence) < 21 RETURN m.Label AS miRNA, m.Sequence AS Sequence, SIZE(m.Sequence) AS Length, a.Label AS AutoimmuneDisease"
+},
+{
+  "question": "Find all miRNAs causing or contributing to cardiovascular diseases. Moreover, consider only miRNAs located EXCLUSIVELY on chromosome X (NOT on any other chromosome!).",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(c:Cardiovascular_disease) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN DISTINCT c.Label AS CardiovascularDisease"
+},
+{
+  "question": "Find miRNAs causing or contributing to cardiovascular diseases. Moreover, consider only miRNAs whose sequence length is less than 20 or greater than 120.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(c:Cardiovascular_disease) WHERE SIZE(m.Sequence) < 20 OR SIZE(m.Sequence) > 120 RETURN c.Label AS CardiovascularDisease, SIZE(m.Sequence) AS SequenceLength"
+},
+{
+  "question": "Find all sources reporting miRNAs that cause or contribute to the cardiovascular disease labeled 'aortic valve insufficiency'.",
+  "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(c:Cardiovascular_disease {Label:'aortic valve insufficiency'}) RETURN r.Source AS Source, m.Label AS miRNA"
+},
+{
+  "question": "Find all mature miRNAs (i.e., exclude pre-miRNAs) that cause or contribute to phenotypes that have at least 8 synonyms containing non-English characters and digits (a-z, A-Z, 0-9). Return the miRNA label and the phenotype label and synonyms.",
+  "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(p:Phenotype) WHERE NOT m.Label CONTAINS 'precursor' AND SIZE([syn IN p.Synonym WHERE syn =~ '.*[^a-zA-Z0-9 ].*']) >= 8 RETURN m.Label AS miRNA, p.Label AS Phenotype, p.Synonym"
+},
+{
+  "question": "Find all miRNAs causing or contributing to biological processes. Return the biological process label, ID, and URI.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(b:Biological_process) RETURN DISTINCT b.Label AS BiologicalProcess, b.ID AS ID, b.URI AS URI"
+},
+{
+  "question": "List all miRNAs that cause or contribute to the GO term labeled 'wound healing'. Return ONLY the miRNA label and the GO description.",
+  "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(g:GO {Label:'wound healing'}) RETURN m.Label AS miRNA, g.Description AS GO_Description"
+},
+{
+  "question": "List all miRNAs that have the GO 'cell motility' as function. Return the miRNA label and the source of the information for the relationship.",
+  "cypher": "MATCH (m:miRNA)-[r:has_function]->(g:GO {Label:'cell motility'}) RETURN m.Label AS miRNA, r.Source AS Source"
+},
+{
+  "question": "Find all GO terms in which miRNAs shorter than 50 nts have a function. Moreover, filter only relationships reported by the source 'TAM'. Return ONLY the GO labels.",
+  "cypher": "MATCH (m:miRNA)-[r:has_function]->(g:GO) WHERE 'TAM' IN r.Source AND SIZE(m.Sequence) < 50 RETURN g.Label AS GOTerm"
+},
+{
+  "question": "List all distinct sources that report miRNAs having function in GO terms.",
+  "cypher": "MATCH (m:miRNA)-[r:has_function]->(g:GO) UNWIND r.Source AS source RETURN DISTINCT source AS Source"
+},
+{
+  "question": "List the distinct GO term labels associated with miRNA function, considering only 'has_function' relationships whose sources include 'Rfam' or 'RNAcentral'. Return the distinct labels of GO terms.",
+  "cypher": "MATCH (m:miRNA)-[r:has_function]->(g:GO) WHERE ANY(src IN r.Source WHERE src IN ['Rfam', 'RNAcentral']) RETURN DISTINCT g.Label AS GOTerm"
+},
+
+{
+  "question": "List the distinct GO term labels associated with miRNA function, considering only 'has_function' relationships whose sources are limited to 'Rfam' and 'RNAcentral'. Return distinct GO labels.",
+  "cypher": "MATCH (m:miRNA)-[r:has_function]->(g:GO) WHERE ANY(src IN r.Source WHERE src = 'Rfam') AND ANY(src IN r.Source WHERE src = 'RNAcentral') RETURN DISTINCT g.Label AS GOTerm"
+},
+{
+  "question": "List all miRNAs that enable a GO term, such that the GO evidence include 'IDA' and the source include 'GOC'. Return the GO terms' label, ID, and URI.",
+  "cypher": "MATCH (m:miRNA)-[r:enables]->(g:GO) WHERE 'IDA' IN r.GO_evidence AND 'GOC' IN r.Source RETURN DISTINCT g.Label AS GOTerm, g.ID AS ID, g.URI AS URI"
+},
+{
+  "question": "List all miRNAs that enable the GO term labeled as 'lncRNA binding'. Return the miRNA label and the PubMed IDs associated with the relationship.",
+  "cypher": "MATCH (m:miRNA)-[r:enables]->(g:GO{Label:'lncRNA binding'}) RETURN m.Label AS miRNA, r.PubMedID AS PubMedID"
+},
+{
+  "question": "List all GO terms in which miRNAs are located, where the method is 'differential centrifugation'. Return distinct GO term labels, IDs, and URIs.",
+  "cypher": "MATCH (m:miRNA)-[r:located_in]->(g:GO) WHERE 'differential centrifugation' IN r.Method RETURN DISTINCT g.Label AS GOTerm, g.ID AS ID, g.URI AS URI"
+},
+
+{
+  "question": "Find the GO terms in which the miRNA 'hsa-miR-152-3p' is located. Return only entries having non-null Context and PubMedID properties.",
+  "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-152-3p'})-[r:located_in]->(g:GO) WHERE r.Context IS NOT NULL AND r.PubMedID IS NOT NULL RETURN g.Label AS GO_Term, r.Context AS Context, r.PubMedID AS PubMedID"
+},
+{
+  "question": "List cellular components in which the miRNA 'hsa-miR-652-3p' is located. Return only entries having non-null Context and PubMedID properties.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-652-3p'})-[r:located_in]->(cc:Cellular_component) WHERE r.Context IS NOT NULL AND r.PubMedID IS NOT NULL RETURN cc.Label AS CellularComponent, r.Context AS Context, r.PubMedID AS PubMedID"
+},
+{
+  "question": "List miRNAs part of a GO term, along with the sources of the annotation.",
+  "cypher": "MATCH (m:miRNA)-[r:part_of]->(g:GO) RETURN DISTINCT m.Label AS miRNA, g.Label AS GOTerm, r.Source AS Sources"
+},
+{
+  "question": "List all miRNAs that are part of GO terms, such that the source include 'GOC' and the miRNA label does not contain the word 'precursor' nor 'pre stem-loop'. Return miRNA and GO term labels.",
+  "cypher": "MATCH (m:miRNA)-[r:part_of]->(g:GO) WHERE 'GOC' IN r.Source AND NOT m.Label CONTAINS 'precursor' AND NOT m.Label CONTAINS 'pre stem-loop' RETURN m.Label AS miRNA, g.Label AS GOTerm"
+},
+{
+  "question": "Find miRNAs that are part of cellular components and are characterized by a high number of annotation contexts (more than 24). Return the component label and the number of contexts.",
+  "cypher": "MATCH (m:miRNA)-[r:part_of]->(cc:Cellular_component) WHERE SIZE(r.Context) > 24 RETURN cc.Label AS CellularComponent, SIZE(r.Context) AS NumberOfContexts"
+},
+{
+  "question": "List all miRNAs: 1) characterized by a sequence shorter than 24 nucleotides; 2) that contains no 'C's; and 3) part of at least one cellular component. Return the cellular component labels and miRNA labels.",
+  "cypher": "MATCH (m:miRNA)-[:part_of]->(cc:Cellular_component) WHERE SIZE(m.Sequence) < 24 AND NOT m.Sequence CONTAINS 'C' RETURN cc.Label AS CellularComponent, m.Label AS miRNA"
+},
+{
+  "question": "Find of what GO terms is the miRNA 'hsa-miR-574-5p' part of.",
+  "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-574-5p'})-[:part_of]->(g:GO) RETURN g.Label AS GO_term"
+},
+{
+  "question": "Find all miRNAs located in the cellular component labeled as 'chromatin'.",
+  "cypher": "MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'chromatin'}) RETURN m.Label AS miRNA"
+},
+{
+    "question": "Which miRNAs are located in the cellular component labeled 'cyclin A1-CDK2 complex'?",
+    "cypher": "MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'cyclin A1-CDK2 complex'}) RETURN m.Label AS miRNA, cc.Label AS CellularComponent"
+},
+{
+    "question": "List neurodegenerative diseases that are caused by the disruption of biological processes.",
+    "cypher": "MATCH (nd:Neurodegenerative_disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process) RETURN  nd.Label AS NeurodegenerativeDisease, bp.Label AS DisruptedProcess"
+   },
+   {
+  "question": "Find the phenotypes of the disease labeled 'iron deficiency anemia' whose label contains the word 'hair'.",
+  "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease{Label:'iron deficiency anemia'}) WHERE  p.Label CONTAINS 'hair' RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Find phenotypes of diseases containing 'cervical vertebrae' in their labels (case-insensitive).",
+  "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease) WHERE toLower(d.Label) CONTAINS 'cervical vertebrae' RETURN  p.Label AS Phenotype, d.Label AS Disease"
+},
+{
+  "question": "Which biological processes are disrupted by diseases whose label contain the word 'cell'?",
+  "cypher": "MATCH (d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process) WHERE d.Label CONTAINS 'cell' RETURN d.Label AS Disease, bp.Label AS DisruptedProcess"
+},
+{
+  "question": "Which genes with 2-character labels are characterized by an activity regulated by miRNAs whose sequence ends with the nucleotide 'A'?",
+  "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(g.Label) = 2 AND m.Sequence ENDS WITH 'A' RETURN m.Label AS miRNA, m.Sequence AS miRNASequence, g.Label AS Gene"
+},
+{
+  "question": "Which diseases whose labels contain 'obesity' are caused or contributed by genes characterized by only 2-character labels?",
+  "cypher": "MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE SIZE(g.Label) = 2 AND d.Label CONTAINS 'obesity' RETURN g.Label AS Gene, d.Label AS Disease"
+},
+{
+  "question": "Which miRNAs participate in biological processes whose label contain the string 'protein deacetylation'?",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'protein deacetylation' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess"
+},
+{
+  "question": "Find pre-miRNAs transcribed from genes whose label starts with 'MIR62'. Return the label of genes and miRNAs, and the source claiming the relationship.",
+  "cypher": "MATCH (g:Gene)-[r:transcribed_to]->(pre:pre_miRNA) WHERE g.Label STARTS WITH 'MIR62' RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, r.Source AS RelationSource"
+},
+{
+  "question": "Identify the biological processes that are characterized by phenotypes whose label contains the string 'Absent ossification'.",
+  "cypher": "MATCH (bp:Biological_process)-[:has_characteristic]->(p:Phenotype) WHERE p.Label CONTAINS 'Absent ossification' RETURN bp.Label AS BiologicalProcess, p.Label AS Phenotype"
+},
+{
+    "question": "Return miRNAs whose labels end with 'a-3p' that are located in cellular components with a label containing the string 'microvesicle'. Return the miRNA labels along with the methods confirming the interaction.",
+    "cypher": "MATCH (m:miRNA)-[r:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'microvesicle' AND m.Label ENDS WITH 'a-3p' RETURN m.Label AS miRNA, r.Method AS Methods"
+},
+  {
+    "question": "Which miRNAs ending with the word 'a-5p' cause or contribute to the disease labeled as 'Parkinson disease'?",
+    "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease {Label:'Parkinson disease'}) WHERE m.Label ENDS WITH 'a-5p' RETURN m.Label AS miRNA"
+  },
+  {
+  "question": "Which phenotypes containing the word 'skin' are phenotype of diseases whose labels contain 'heart'?",
+  "cypher": "MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'heart' AND p.Label CONTAINS 'skin' RETURN d.Label AS Disease, p.Label AS Phenotype"
+   },
+   {
+  "question": "Which miRNAs participate in biological processes whose label contains the word 'maternal'?",
+  "cypher": "MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'maternal' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess"
+},
+  {
+  "question": "In which cancers, excluding those containing 'adenocarcinoma' in their labels (case-insensitive), miRNAs are causal somatic mutation in?",
+  "cypher": "MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(c:Cancer) WHERE NOT toLower(c.Label) CONTAINS 'adenocarcinoma' RETURN c.Label AS Cancer, m.Label AS miRNA"
+},
+{
+  "question": "List precursor miRNAs that cause or contribute to the disease labeled as 'Alzheimer disease', excluding those whose labels end with 'precursor' and whose sequence length is between 80 and 85 nucleotides (inclusive). Return the miRNA label and sequence length.",
+  "cypher": "MATCH (p:pre_miRNA)-[:causes_or_contributes_to_condition]->(d:Disease {Label:'Alzheimer disease'}) WHERE NOT p.Label ENDS WITH 'precursor' AND (SIZE(p.Sequence) < 80 OR SIZE(p.Sequence) > 85) RETURN p.Label AS Pre_miRNA, SIZE(p.Sequence) AS SequenceLength"
+},
+  {
+    "question": "How many distinct miRNAs cause or contribute to autoimmune diseases?",
+    "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Autoimmune_disease) RETURN COUNT(DISTINCT m) AS miRNAcount"
+  },
+    {
+    "question": "Which miRNAs are reported to be causal germline mutations in diseases with a p-value below 1e-5? What are the data sources claiming these associations?",
+    "cypher": "MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE r.`p-value` < 1e-5 RETURN m.Label AS miRNA, d.Label AS Disease, r.Source AS Sources"
+  },
+  {
+    "question": "Which miRNAs are over-expressed in the disease labeled as 'multiple sclerosis', and what types (LABELS) does this disease node have?",
+    "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease {Label:'multiple sclerosis'}) RETURN m.Label AS miRNA,  LABELS(d) AS DiseaseLabels"
+  },
+  {
+    "question": "Which precursor miRNAs are either over-expressed or under-expressed in the disease labeled as 'Alzheimer disease'?",
+    "cypher": "MATCH (p:pre_miRNA)-[:over_expressed_in|under_expressed_in]->(d {Label:'Alzheimer disease'}) RETURN DISTINCT p.Label AS pre_miRNA, d.Label AS Disease"
+  },
+  {
+    "question": "Which miRNAs cause or contribute to diseases whose labels contain 'osteosarcoma'? Filter relationships supported by a RNAsister score lower than or equal to 0.97?",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Disease) WHERE r.RNAsister_score <= 0.97 AND d.Label CONTAINS 'osteosarcoma' RETURN m.Label AS miRNA, d.Label AS Disease, r.RNAsister_score AS Score"
+  },           
+{
+  "question": "How many miRNAs are over-expressed in cancers or autoimmune diseases whose labels contain the word 'breast' (case-insensitive)?",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(d) WHERE (d:Cancer OR d:Autoimmune_disease) AND d.Label CONTAINS 'breast' RETURN COUNT(DISTINCT m) AS miRNAcount"
+},
+  {
+    "question": "For each infectious disease, how many distinct precursor miRNAs are under-expressed?",
+    "cypher": "MATCH (p:pre_miRNA)-[:under_expressed_in]->(d:Infectious_disease) RETURN d.Label AS Disease, COUNT(DISTINCT p) AS underexpressed_pre_miRNAs"
+  },
+  {
+
+    "question": "Retrieve miRNAs with a sequence length of 120 nucleotides that are causal somatic mutation in diseases.",
+    "cypher": "MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease) WHERE SIZE(m.Sequence) = 120 RETURN m.Label AS miRNA, d.Label AS Disease"
+  },
+  {
+    "question": "List neurodegenerative diseases linked to miRNAs by either cause/contribute association, over-expression, or under-expression.",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition|over_expressed_in|under_expressed_in]->(d:Neurodegenerative_disease) RETURN DISTINCT d.Label AS Disease"
+  },
+  {
+    "question": "Which miRNAs are reported by both miR2Disease and HMDD to cause or contribute to the same neurodegenerative diseases?",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Disease) WHERE d:Neurodegenerative_disease AND 'miR2Disease' IN r.Source AND 'HMDD' IN r.Source RETURN m.Label AS miRNA, d.Label AS Disease"
+  },           
+
+  {
+    "question": "Find precursor miRNAs that are transcribed from genes whose labels start with 'MIR' and have a sequence longer than 120 nucleotides.",
+    "cypher": "MATCH (p:pre_miRNA)-[:transcribed_from]->(g:Gene) WHERE g.Label STARTS WITH 'MIR' AND SIZE(p.Sequence) > 120 RETURN p.Label AS pre_miRNA, g.Label AS Gene"
+  }, 
+
+  {
+    "question": "Return the single distinct evidence sources that report miRNA over-expression in cancers.",
+    "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(c:Cancer) UNWIND r.Source AS source RETURN DISTINCT source AS Source"
+  },
+  {
+    "question": "Which precursor miRNAs are causal somatic mutation in diseases containing the string 'colorectal adenocarcinoma' in their label (case-insensitive)?",
+    "cypher": "MATCH (p:pre_miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease) WHERE toLower(d.Label) CONTAINS 'colorectal adenocarcinoma' RETURN p.Label AS pre_miRNA, d.Label AS Disease"
+  },
+   {
+  "question": "Consider the miRNA hsa-miR-21-5p. What autoimmune diseases is it connected to? What is the type of these relationships (hint: use TYPE(relationship))?",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-21-5p'})-[r]->(d:Autoimmune_disease) RETURN d.Label AS Disease, TYPE(r) AS RelationshipType"
+  },
+
+  {
+    "question": "Find the top 10 strongest associations between miRNAs and cardiovascular diseases, ranked by combWeight f the causes_or_contributes_to_condition relationship (descending). For ties, order by miRNA label alphabetically",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Cardiovascular_disease) RETURN m.Label AS miRNA, d.Label AS Disease, r.combWeight AS combWeight ORDER BY combWeight DESC, miRNA ASC LIMIT 10"
+  },
+  {
+    "question": "Which miRNAs are overexpressed in the cancer labeled 'large cell carcinoma'? Filter only interactions having an FDR value below 0.001.",
+    "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(c:Cancer{Label:'large cell carcinoma'}) WHERE r.FDR < 0.001 RETURN m.Label AS miRNA, c.Label AS Cancer, r.FDR AS FDR"
+  },
+{
+   "question": "What is the number of pre-miRNAs located in Gene Ontology (GO) terms with support from at least three experimental methods?",
+   "cypher": "MATCH (p:pre_miRNA)-[r:located_in]->(:GO) WHERE SIZE(r.Method) >= 3 RETURN COUNT(p) AS pre_miRNAcount"
+  },
+    {
+    "question": "Which pre-miRNAs are over-expressed in autoimmune diseases according to the HMDD source?",
+    "cypher": "MATCH (p:pre_miRNA)-[r:over_expressed_in]->(a:Autoimmune_disease) WHERE 'HMDD' IN r.Source RETURN p.Label AS pre_miRNA, a.Label AS AutoimmuneDisease"
+  },
+    {
+    "question": "List pre-miRNAs over-expressed in infectious disease according to the HMDD source.",
+    "cypher": "MATCH (p:pre_miRNA)-[r:over_expressed_in]->(a:Infectious_disease) WHERE 'HMDD' IN r.Source RETURN p.Label AS pre_miRNA, a.Label AS AutoimmuneDisease, r.Source AS Source"
+  },
+
+  {
+    "question": "Which miRNAs are over-expressed in diseases that are also annotated as neurodegenerative?",
+    "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(d:Disease:Neurodegenerative_disease) RETURN m.Label AS miRNA, d.Label AS Disease"
+  },
+     {
+  "question": "Find distinct phenotypes containing the word 'carcinoma' in their labels that show over-expression of miRNAs or precursor miRNAs.",
+  "cypher": "MATCH (ph:Phenotype)<-[:over_expressed_in]-(m) WHERE (m:miRNA OR m:pre_miRNA) AND ph.Label CONTAINS 'carcinoma' RETURN DISTINCT ph.Label AS Phenotype"
+  },
+  {
+    "question": "For each miRNA, list the cancers in which it is expressed and report the number of experimental methods supporting each expression.",
+    "cypher": "MATCH (m:miRNA)-[r:expressed_in]->(c:Cancer) RETURN m.Label AS miRNA, c.Label AS Cancer, SIZE(r.Method) AS MethodCount"
+  },
+  {
+    "question": "Which miRNAs are under-expressed in neurodegenerative diseases according to the PubMed article with ID '32920076'?",
+    "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE '32920076' IN r.PubMedID RETURN m.Label AS miRNA, n.Label AS NeurodegenerativeDisease"
+  },
+
+  {
+    "question": "Find miRNAs expressed in diseases with at least two supporting PubMed articles.",
+    "cypher": "MATCH (m:miRNA)-[r:expressed_in]->(d:Disease) WHERE SIZE(r.PubMedID) >= 2 RETURN m.Label AS miRNA, d.Label AS Disease"
+  },
+  {
+  "question": "Return distinct miRNAs with '548a' in their label that are over-expressed in phenotypes whose labels include the term 'neoplasm' (case-insensitive).",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(p:Phenotype) WHERE toLower(p.Label) CONTAINS 'neoplasm' AND m.Label CONTAINS '548a' RETURN DISTINCT m.Label AS miRNA"
+  },
+    {
+    "question": "Return miRNAs under-expressed in infectious diseases whose labels contain 'tuberculosis'. Return miRNAs' label, diseases' label and the list of evidence sources.",
+    "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease) WHERE i.Label CONTAINS 'tuberculosis' RETURN m.Label AS miRNA, i.Label AS InfectiousDisease, r.Source AS Sources"
+  },
+
+  {
+  "question": "Find miRNAs whose label ends with a number that are over-expressed in biological processes. Return the miRNAs' label, the biological processes' label, and the PubMedIDs supporting the interaction.",
+  "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(bp:Biological_process) WHERE m.Label =~ '.*[0-9]$' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess, r.PubMedID AS PubMedID"
+  },
+  {
+  "question": "Which miRNAs are characterized by label ending with a number and enable any molecular function? How many distinct molecular functions does each miRNA enable?",
+  "cypher": "MATCH (m:miRNA)-[:enables]->(mf:Molecular_function) WHERE m.Label =~ '.*[0-9]$' RETURN m.Label AS miRNA, COUNT(mf) AS FunctionCount"
+  },           
+{
+  "question": "Which GO terms are parts of biological processes whose labels contain 'reproduction'?",
+  "cypher": "MATCH (bp:Biological_process)-[:has_part]->(go:GO) WHERE bp.Label CONTAINS 'reproduction' RETURN bp.Label AS BiologicalProcess, go.Label AS GOterm"
+},
+  {
+    "question": "Which miRNAs act upstream of GO or biological process terms mentioning 'cell cycle' in their labels? Return miRNAs' labels and all properties of GO or biological process (i.e., return the entire node for biological processes and GOs).",
+    "cypher": "MATCH (m:miRNA)-[:acts_upstream_of]->(t) WHERE (t:GO OR t:Biological_process) AND t.Label CONTAINS 'cell cycle' RETURN m.Label AS miRNA, t "
+  },
+  {
+    "question": "Identify miRNAs and the molecular functions in which they participate.",
+    "cypher": "MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) RETURN m.Label AS miRNA, mf.Label AS MolecularFunction"
+  },
+  {
+    "question": "Identify GO terms related to 'cell growth' and report the number of miRNAs that have those functions.",
+    "cypher": "MATCH (m:miRNA)-[:has_function]->(g:GO) WHERE g.Label CONTAINS 'cell growth' RETURN g.Label AS GOTerm, COUNT(m) AS miRNAcount"
+  },
+  {
+    "question": "Identify miRNAs that enable the molecular function labeled 'RNA binding'.",
+    "cypher": "MATCH (m:miRNA)-[:enables]->(mf:Molecular_function) WHERE mf.Label CONTAINS 'RNA binding' RETURN m.Label AS miRNA, mf.Label AS MolecularFunction"
+  },
+  {
+    "question": "Which miRNAs are linked to GO terms via the relationship type 'enables'? Filter only relationships supported by more than one source.",
+    "cypher": "MATCH (m:miRNA)-[r:enables]->(:GO) WHERE SIZE(r.Source) > 1 RETURN m.Label AS miRNA, r.Source AS Sources"
+  },
+
+  {
+    "question": "Identify miRNAs that participate in the Gene Ontology term or biological process 'cell cycle G2/M phase transition'.",
+    "cypher": "MATCH (m:miRNA)-[:participates_in]->(t) WHERE (t:GO OR t:Biological_process) AND t.Label = 'cell cycle G2/M phase transition' RETURN m.Label AS miRNA, t.Label AS Term"
+  },
+
+  {
+    "question": "Which miRNAs participate in GO terms such that the relationship includes more than 4 interactors?",
+    "cypher": "MATCH (m:miRNA)-[r:participates_in]->(g:GO) WHERE SIZE(r.Interactor) > 4 RETURN m.Label AS miRNA, g.Label AS GOTerm, r.Interactor AS Interactors"
+  },
+
+  {
+    "question": "Identify the cellular components in which the miRNA 'microRNA hsa-mir-192 precursor' is located.",
+    "cypher": "MATCH (m:miRNA{Label:'microRNA hsa-mir-192 precursor'})-[:located_in]->(cc:Cellular_component) RETURN cc.Label AS CellularComponent"
+  },
+  {
+    "question": "Identify the top ten cellular components in which miRNAs are active, ranked by the number of associated miRNAs. In case of ties, order the cellular components alphabetically by their label, and report the corresponding counts.",
+    "cypher": "MATCH (m:miRNA)-[:is_active_in]->(cc:Cellular_component) RETURN cc.Label AS CellularComponent, COUNT(m) AS miRNACount ORDER BY miRNACount DESC, CellularComponent ASC LIMIT 10"
+  },
+{
+  "question": "Count the number of pre-miRNAs that are located in GO terms having a label containing the word 'exosome'.",
+  "cypher": "MATCH (p:pre_miRNA)-[:located_in]->(g:GO) WHERE g.Label CONTAINS 'exosome' RETURN COUNT(p) AS precursors_count"
+},
+  {
+    "question": "How many miRNAs are characterized by at least one 'is active in' relationship?",
+    "cypher": "MATCH (m:miRNA )-[r:is_active_in]->() RETURN COUNT(m) AS ActiveMiRNA_Count"
+  },
+  {
+    "question": "Find  GO terms that are part of cellular components containing 'plasma membrane' in their label.",
+    "cypher": "MATCH (g:GO)-[:part_of]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'plasma membrane' RETURN g.Label AS GOterm, cc.Label AS CellularComponent"
+  },
+    {
+    "question": "Find pre-miRNAs under-expressed in GO terms containing 'cell' in the label.",
+    "cypher": "MATCH (p:pre_miRNA)-[:under_expressed_in]->(g:GO) WHERE g.Label CONTAINS 'cell' RETURN g.Label AS GOterm, p.Label AS pre_miRNA"
+  },
+  {
+    "question": "Return miRNAs whose localization relationships are supported by at least seven methods.",
+    "cypher": "MATCH (m:miRNA)-[r:located_in]->(x) WHERE SIZE(r.Method) >= 7 RETURN m.Label AS miRNA, x.Label AS Location, r.Method AS Methods"
+  },
+  {
+    "question": "Identify the distinct sources supporting the localization of miRNAs in cellular components whose labels contain the word 'mitochondrion'.",
+    "cypher": "MATCH (m:miRNA)-[r:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'mitochondrion' UNWIND r.Source AS source RETURN DISTINCT source AS Source"
+  },
+  {
+    "question": "Which miRNAs are located in cellular components whose labels contain the word 'holoenzyme'?",
+    "cypher": "MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'holoenzyme' RETURN m.Label AS miRNA, cc.Label AS CellularComponent"
+  },
+    {
+    "question": "Which diseases are characterized by causal germline mutations in miRNAs? Return their distinct label.",
+    "cypher": "MATCH (m:miRNA)-[:is_causal_germline_mutation_in]->(d:Disease) RETURN DISTINCT d.Label AS Disease"
+  },
+    {
+    "question": "Which cancers are linked to causal somatic mutations in miRNAs? Return their distinct label.",
+    "cypher": "MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(c:Cancer) RETURN DISTINCT c.Label AS Cancer"
+  },
+  {
+  "question": "Return all diseases associated with causal somatic mutations in precursor miRNAs, along with the properties of the corresponding relationships.",
+  "cypher": "MATCH (pm:pre_miRNA)-[r:is_causal_somatic_mutation_in]->(d:Disease) RETURN DISTINCT d.Label AS Disease, PROPERTIES(r)"
+},
+  {
+    "question": "List miRNAs that are reported as causal germline mutations in phenotypes with p-value below 0.05.",
+    "cypher": "MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(p:Phenotype) WHERE r.`p-value` < 0.05 RETURN m.Label AS miRNA, p.Label AS Phenotype, r.`p-value` AS p_value"
+  },
+  {
+    "question": "Which precursor miRNAs are involved in 'is_causal_germline_mutation_in' relationships with diseases? Keep only relationships with supporting PubMed articles as evidence.",
+    "cypher": "MATCH (pm:pre_miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE SIZE(r.PubMedID) > 0 RETURN pm.Label AS Precursor, d.Label AS Disease, r.PubMedID AS PubMedIDs"
+  },
+  {
+    "question": "How many 'miRNA->is_causal_somatic_mutation_in->Disease' relationships are recorded?",
+    "cypher": "MATCH (m:miRNA)-[r:is_causal_somatic_mutation_in]->(d:Disease) RETURN COUNT(r) AS RelationshipCount"
+  },
+  {
+    "question": "Which cancers whose labels contain 'hepatocellular' have a material basis in somatic mutations in precursor miRNAs with exactly three annotated mutations?",
+    "cypher": "MATCH (c:Cancer)-[r:has_material_basis_in_somatic_mutation_in]->(pm:pre_miRNA) WHERE c.Label CONTAINS 'hepatocellular' AND SIZE(r.Mutation) = 3 RETURN c.Label AS Cancer, pm.Label AS Precursor, r.Mutation AS Mutations"
+  },
+  {
+    "question": "Which precursor miRNAs are reported to be germline-causal mutations in diseases?",
+    "cypher": "MATCH (pm:pre_miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) RETURN pm.Label AS Precursor, d.Label AS Disease"
+  },
+  {
+    "question": "Which miRNAs, ending with '5p', are somatic-causal mutation in cancers whose labels mention 'carcinoma of liver' or 'biliary tract'?",
+    "cypher": "MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(c:Cancer) WHERE m.Label ENDS WITH '5p' AND (c.Label CONTAINS 'carcinoma of liver' OR c.Label CONTAINS 'biliary tract') RETURN m.Label AS miRNA, c.Label AS Cancer"
+  },
+  {
+    "question": "Which phenotypes have material basis in germline mutations in miRNAs?",
+    "cypher": "MATCH (p:Phenotype)-[:has_material_basis_in_germline_mutation_in]->(m:miRNA) RETURN DISTINCT p.Label AS Phenotype"
+  },
+  {
+    "question": "Which phenotype - has material basis germline mutation in - miRNA relationships are characterized by p-values below 0.01?",
+    "cypher": "MATCH (p:Phenotype)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE r.`p-value` < 0.01 RETURN p.Label AS Phenotype, m.Label AS miRNA, r.`p-value` AS p_value"
+  },
+  {
+    "question": "Which miRNA regulate the activity of 'AURKA' gene? Retrieve the miRNA label, the gene label, and all properties of the relationship.",
+    "cypher": "MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene {Label:'AURKA'}) RETURN m.Label AS miRNA, g.Label AS Gene, properties(r) AS RelationshipProperties"
+  },
+  {
+    "question": "In which cancers both miRNAs and precursor miRNAs are causal somatic mutation?",
+    "cypher": "MATCH (c:Cancer)<-[:is_causal_somatic_mutation_in]-(m) WHERE (m:miRNA OR m:pre_miRNA) RETURN DISTINCT c.Label AS Cancer"
+  },
+  {
+    "question": "Which miRNAs are causal germline mutation in phenotypes such that the relationship is supported by at least one PubMed article?",
+    "cypher": "MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(p:Phenotype) WHERE SIZE(r.PubMedID) >= 1 RETURN m.Label AS miRNA, p.Label AS Phenotype, r.PubMedID AS PubMedIDs"
+  },
+  {
+    "question": "Which diseases have causal somatic mutations in miRNAs reported by 'SomamiR'? Return their distinct label.",
+    "cypher": "MATCH (m:miRNA)-[r:is_causal_somatic_mutation_in]->(d:Disease) WHERE 'SomamiR' IN r.Source RETURN DISTINCT d.Label AS Disease"
+  },
+  {
+  "question": "Return all diseases associated with causal germline mutations in either miRNAs or precursor miRNAs, along with all properties of the corresponding relationships.",
+  "cypher": "MATCH (x)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE x:miRNA OR x:pre_miRNA RETURN d.Label, PROPERTIES(r)"
+},
+  {
+    "question": "Which miRNAs are transcribed from genes that are characterized by a large sequence (> 150 nucletides)?",
+    "cypher": "MATCH (m:miRNA )-[:transcribed_from]->(g:Gene) WHERE SIZE(g.Sequence) > 150 RETURN m.Label AS miRNA, SIZE(g.Sequence) AS GeneSequenceLength"
+  },
+
+  {
+    "question": "Which genes are regulated by pre-miRNAs?",
+    "cypher": "MATCH (pm:pre_miRNA)-[:regulates_activity_of]->(g:Gene) RETURN g.Label AS Gene,pm.Label AS pre_miRNA"
+  },
+  {
+    "question": "Find the gene containing '8y' (case-insensitive) in its label and return the label of the miRNA transcribed from it.",
+    "cypher": "MATCH (g:Gene) -[:transcribed_to]->(m:miRNA) WHERE toLower(g.Label) CONTAINS '8y' RETURN g.Label AS Gene, m.Label AS miRNA "
+    }, 
+  {
+    "question": "Return the PubMed IDs supporting miRNA-regulates activity of->'KLF4' gene relationships.",
+    "cypher": "MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene {Label:'KLF4'}) RETURN m.Label AS miRNA, r.PubMedID"
+  },
+  {
+    "question": "List 'pre-miRNAs regulate the activity of genes' relationships supported by at least one source.",
+    "cypher": "MATCH (pm:pre_miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE SIZE(r.Source) >= 1 RETURN pm.Label AS Precursor, g.Label AS Gene, r.Source AS Sources"
+  },
+  {
+    "question": "What are the relationships involving genes transcribed to miRNAs that have a sequence length of exactly 180 nucleotides?",
+    "cypher": " MATCH (g:Gene)-[r:transcribed_to]->(m:miRNA) WHERE SIZE(m.Sequence) = 180 RETURN m.Label, r"
+  },
+  {
+    "question": "Return miRNA-gene regulation edges, such that the 'miRNA regulate the activity of genes' relationships are supported by at least ten experimental methods.",
+    "cypher": "MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE SIZE(r.Method) >= 10 RETURN m.Label AS miRNA, g.Label AS Gene, r.Method AS Methods"
+  },
+  {
+    "question": "List all the miRNAs transcribed to genes having a label that starts with 'MIR2'.",
+    "cypher": "MATCH (g:Gene)-[:transcribed_to]->(m:miRNA) WHERE g.Label STARTS WITH 'MIR2' RETURN g.Label AS Gene, m.Label AS TranscribedMiRNAs"
+  },
+  {
+  "question": "How many miRNAs are transcribed from genes whose labels start with 'MIR'?",
+  "cypher": "MATCH (m:miRNA)-[:transcribed_from]->(g:Gene) WHERE g.Label STARTS WITH 'MIR' RETURN COUNT(DISTINCT m) AS miRNACount"
+},
+  {
+    "question": "List genes transcribed to miRNAs such that the genes are characterized by genomic coordinates starting with 'chr13'.",
+    "cypher": "MATCH (g:Gene)-[:transcribed_to]->(m:miRNA) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr13') RETURN g.Label AS Gene, g.Genomic_coordinates AS GeneCoords, m.Label AS miRNA"
+  },
+  {
+    "question": "Which miRNAs regulate genes with exactly 10 supporting PubMed IDs and at least one supporting source?",
+    "cypher": "MATCH (m:miRNA)-[r:regulates_activity_of]->(g:Gene) WHERE  SIZE(r.PubMedID) = 10 AND SIZE(r.Source) > 0 RETURN m.Label AS miRNA, g.Label AS Gene, r.Source AS Sources"
+  },
+  {
+    "question": "List all genes whose activity is regulated by the miRNA 'hsa-miR-603'.",
+    "cypher": "MATCH (m:miRNA {Label:'hsa-miR-603'})-[:regulates_activity_of]->(t:Gene) RETURN t.Label AS TargetGene"
+  },
+  {
+    "question": "Return diseases that have as major feature a phenotype with a label mentioning the word 'impairment'.",
+    "cypher": "MATCH (d:Disease)-[:disease_has_major_feature]->(p:Phenotype) WHERE p.Label CONTAINS 'impairment' RETURN d.Label AS Disease, p.Label AS MajorFeature"
+  },
+  {
+    "question": "Which diseases share features with other diseases whose label contains the word 'anemia'?",
+    "cypher": "MATCH (d1:Disease)-[:disease_shares_features_of]->(d2:Disease) WHERE d2.Label CONTAINS 'anemia' RETURN d1.Label AS Disease, d2.Label AS SharesFeaturesOf"
+  },
+  {
+    "question": "Find phenotypes that act as modifier of diseases.",
+    "cypher": "MATCH (d:Disease)-[:has_modifier]->(p:Phenotype) RETURN d.Label AS Disease, p.Label AS Modifier"
+  },
+  {
+    "question": "Which diseases contain the string 'neutropenia of adults' (case-insensitive) in their label and have phenotype?",
+    "cypher": "MATCH (d:Disease) -[:has_phenotype]->(:Phenotype) WHERE toLower(d.Label) CONTAINS 'neutropenia of adults' RETURN d.Label AS Disease"
+  },
+  {
+    "question": "Find diseases that contain the word 'migrain' in their labels and that do have a feature phenotype.",
+    "cypher": "MATCH (d:Disease)-[:disease_has_feature]->(p:Phenotype) WHERE d.Label CONTAINS 'migrain' RETURN d.Label AS Disease, p.Label AS Phenotype"
+  },
+  {
+    "question": "List phenotypes of the cancer node whose label contains 'lymphoid leukemia' (case-insensitive).",
+    "cypher": "MATCH (c:Cancer)-[:has_phenotype]->(p:Phenotype) WHERE toLower(c.Label) CONTAINS 'lymphoid leukemia' RETURN c.Label AS Cancer, p.Label AS Phenotype"
+  },
+  {
+    "question": "Return the major phenotypic features of all infectious diseases.",
+    "cypher": "MATCH (i:Infectious_disease)-[:disease_has_major_feature]->(p:Phenotype) RETURN i.Label AS InfectiousDisease, p.Label AS MajorFeature"
+  },
+  {
+    "question": "List all phenotypes reported as 'phenotype_of' diseases whose label includes the word 'bronchopneumonia'.",
+    "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease) WHERE d.Label CONTAINS 'bronchopneumonia' RETURN d.Label AS Disease, p.Label AS Phenotype"
+  },
+  {
+    "question": "Which phenotypes are recorded as features of diseases and are characterized by a label that contains the word 'pleurisy'.",
+    "cypher": "MATCH (d:Disease)-[:disease_has_feature]->(p:Phenotype) WHERE d.Label CONTAINS 'pleurisy' RETURN d.Label AS Disease, p.Label AS FeaturePhenotype"
+  },
+  {
+    "question": "Show the PubMed IDs that provide evidence for diseases having phenotypes whose labels include the word 'Lymphoma'.",
+    "cypher": "MATCH (d:Disease)-[r:has_phenotype]->(p:Phenotype) WHERE p.Label CONTAINS 'Lymphoma' RETURN d.Label AS Disease, p.Label AS Phenotype, r.PubMedID AS PubMedIDs"
+  },
+  {
+    "question": "Return phenotypes of the disease whose labels contain 'Schizophrenia' (case-insensitive).",
+    "cypher": "MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE toLower(d.Label) CONTAINS 'schizophrenia' RETURN  d.Label AS Disease, p.Label AS Phenotype"
+  },
+  {
+    "question": "How many unique phenotypes are linked to diseases via the 'has_phenotype' relationship type?",
+    "cypher": "MATCH (:Disease)-[:has_phenotype]->(p:Phenotype) RETURN COUNT(DISTINCT p) AS UniquePhenotypes"
+  },
+  {
+    "question": "Find phenotypes whose labels DOES NOT contain the word 'acute' but that are characteristics of diseases whose labels mention the word 'acute'.",
+    "cypher": "MATCH (d:Disease)-[:has_characteristic]->(p:Phenotype) WHERE d.Label CONTAINS 'acute' AND NOT p.Label CONTAINS 'acute' RETURN d.Label AS Disease, p.Label AS Phenotype"
+  },
+  {
+    "question": "Which diseases whose label contains 'bacteria' predispose towards other diseases?",
+    "cypher": "MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease) WHERE d1.Label CONTAINS 'bacteria' RETURN d1.Label AS PredisposingDisease, d2.Label AS PredisposedDisease"
+  },
+{
+  "question": "Which diseases whose label contain 'obesity' have phenotypes containing in their labels the string 'Decreased response'?",
+  "cypher": "MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'obesity' AND p.Label CONTAINS 'Decreased response' RETURN d.Label AS Disease, p.Label AS Phenotype"
+},
+{
+    "question": "Which phenotypes are major features of cardiovascular diseases that are not cancers?",
+    "cypher": "MATCH (cv:Cardiovascular_disease)-[:disease_has_major_feature]->(p:Phenotype) WHERE NOT cv:Cancer RETURN p.Label AS Phenotype, cv.Label AS CardiovascularDisease"
+},
+{
+    "question": "Return diseases that have basis in feature for phenotypes.",
+    "cypher": "MATCH (d:Disease)-[:disease_has_basis_in_feature]->(p:Phenotype) RETURN d.Label AS Disease, p.Label AS Phenotype"
+},
+{
+  "question": "Count phenotypes reported for each cardiovascular disease containing the string 'syndrome 7'.",
+  "cypher": "MATCH (c:Cardiovascular_disease)<-[:phenotype_of]-(p:Phenotype) WHERE toLower(c.Label) CONTAINS 'syndrome 7' RETURN c.Label AS CardiovascularDisease, COUNT(p) AS PhenotypeCount"
+},
+{
+    "question": "Which phenotypes are modifiers of infectious diseases?",
+    "cypher": "MATCH (i:Infectious_disease)-[:has_modifier]->(p:Phenotype) RETURN i.Label AS InfectiousDisease, p.Label AS Modifier"
+},
+{
+  "question": "Find phenotypes feature of the disease labeled as 'cerebellar ataxia'.",
+  "cypher": "MATCH (d:Disease {Label:'cerebellar ataxia'})-[:disease_has_feature]->(p:Phenotype) RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Find the genomic coordinates of the top five miRNAs with the longest sequences that are over-expressed in biological processes. In case of ties in sequence length, order the miRNAs alphabetically by their label.",
+  "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) RETURN m.Label AS miRNA, m.Sequence AS Sequence, m.Genomic_coordinates AS GenomicCoordinates, bp.Label AS Biological_Process ORDER BY SIZE(m.Sequence) DESC, m.Label ASC LIMIT 5"
+},
+{
+  "question": "Which diseases related to the brain are caused by the disruption of biological processes? Return the label of the disease and the disrupted process.",
+  "cypher": "MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process) WHERE d.Label CONTAINS 'brain' RETURN d.Label AS Disease, bp.Label AS DisruptedProcess"
+},
+{
+    "question": "List diseases caused by disruption of molecular functions, returning the disease and the function labels.",
+    "cypher": "MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(mf:Molecular_function) RETURN d.Label AS Disease, mf.Label AS DisruptedFunction"
+},
+{
+    "question": "Find infectious diseases that trigger biological processes supported by at least one evidence sources.",
+    "cypher": "MATCH (i:Infectious_disease)-[r:disease_triggers]->(bp:Biological_process) WHERE SIZE(r.Source) >= 1 RETURN i.Label AS Disease, bp.Label AS TriggeredProcess, r.Source AS Source"
+},
+{
+  "question": "Find the molecular functions whose label starts with 'ADP' and that are subclasses of other GO terms. Return labels for the molecular function and the GO term.",
+  "cypher": "MATCH (mf:Molecular_function)-[:subclassof]->(g:GO) WHERE mf.Label STARTS WITH 'ADP' RETURN mf.Label AS MolecularFunction, g.Label AS GO"
+},
+{
+    "question": "How many 'GO-directly_regulates->GO' relationships exist in the database?",
+    "cypher": "MATCH (:GO)-[r:directly_regulates]->(:GO) RETURN COUNT(r) AS DirectRegulationCount"
+  },
+  {
+    "question": "Which miRNAs are part of cellular components? Return the component label and the count of distinct miRNAs.",
+    "cypher": "MATCH (cc:Cellular_component)-[:has_part]->(m:miRNA) RETURN cc.Label AS CellularComponent, COUNT(DISTINCT m) AS miRNACount"
+  },
+  {
+    "question": "Find GO terms that overlap cellular components.",
+    "cypher": "MATCH (g:GO)-[:overlaps]->(cc:Cellular_component) RETURN g.Label AS GO, cc.Label AS CellularComponent"
+  },
+  {
+    "question": "Find distinct labels of cellular components that are adjacent to another cellular component.",
+    "cypher": "MATCH (cc1:Cellular_component)-[:adjacent_to]->(cc2:Cellular_component) RETURN DISTINCT cc1.Label AS Component, cc2.Label AS AdjacentComponent"
+},
+{
+    "question": "Consider molecular functions. Count how many GO or molecular function terms they directly negatively regulate.",
+    "cypher": "MATCH (mf:Molecular_function)-[:directly_negatively_regulates]->(t) WHERE t:GO OR t:Molecular_function RETURN mf.Label AS MolecularFunction, COUNT(t) AS TargetCount"
+},
+{
+    "question": "Which molecular functions start or end GO terms having the word 'signaling' in the label? Return ONLY the distinct label of molecular functions.",
+    "cypher": "MATCH (mf:Molecular_function)-[:starts|ends]->(g:GO) WHERE g.Label CONTAINS 'signaling' RETURN DISTINCT mf.Label AS MolecularFunction"
+},
+{
+  "question": "Consider GO terms whose label contains the string 'Golgi membrane'. Return the number of direct parts it has.",
+  "cypher": "MATCH (g:GO)-[:has_part]->(child) WHERE g.Label CONTAINS 'Golgi membrane' RETURN g.Label AS GO, COUNT(child) AS PartCount"
+},
+{
+  "question": "List cellular components whose labels contain 'DNA' and that are capable of specific molecular functions.",
+  "cypher": "MATCH (cc:Cellular_component)-[:capable_of]->(mf:Molecular_function) WHERE cc.Label CONTAINS 'DNA' RETURN  cc.Label AS CellularComponent, mf.Label AS MolecularFunction"
+},
+{
+  "question": "Which GO terms containing the string 'glial cell development' have participants which are miRNAs or precursor miRNAs?",
+  "cypher": "MATCH (g:GO)-[:has_participant]->(x) WHERE (x:miRNA OR x:pre_miRNA) AND g.Label CONTAINS 'glial cell development' RETURN g.Label AS GO, x.Label AS Participant"
+},
+{
+    "question": "Find GO term that regulate molecular function mentioning 'DNA' in their label.",
+    "cypher": "MATCH (g:GO)-[:regulates]->(mf:Molecular_function) WHERE mf.Label CONTAINS 'DNA' RETURN mf.Label AS Molecular_function, g.Label AS GO"
+},
+
+{
+    "question": "Find miRNAs that are located in cellular components whose label mention the word 'lipid'.",
+    "cypher": "MATCH (cc:Cellular_component)-[:location_of]->(m:miRNA) WHERE cc.Label CONTAINS 'lipid' RETURN cc.Label AS CellularComponent, COUNT(m) AS SharedMiRNAs"
+},
+{
+    "question": "Retrieve the label of the parent phenotype of 'Breast carcinoma'.",
+    "cypher": "MATCH (parent:Phenotype)-[:subclassof]->(p:Phenotype {Label:'Breast carcinoma'}) RETURN parent.Label AS Parent"
+},
+{
+    "question": "Find phenotypes containing 'humeral' in their labels and return the number of biological processes they are the characteristic of",
+    "cypher": "MATCH (p:Phenotype)-[:characteristic_of]->(bp:Biological_process) WHERE p.Label CONTAINS 'humeral' RETURN p.Label AS Phenotype, COUNT(bp) AS ProcessCount"
+},
+{
+    "question": "Which phenotypes have the phenotype labeled 'severe intensity' as modifier?",
+    "cypher": "MATCH (p1:Phenotype)-[:has_modifier]->(p2:Phenotype {Label:'severe intensity'}) RETURN p1.Label AS ModifierPhenotype"
+},
+{
+  "question": "Find phenotypes that are part of a broader phenotypes whose label contains the word 'hemangioma'.",
+  "cypher": "MATCH (p1:Phenotype)-[:part_of]->(p2:Phenotype) WHERE p2.Label CONTAINS 'hemangioma' RETURN p1.Label AS Phenotype, p2.Label AS BroaderPhenotype"
+},
+{
+  "question": "List all phenotypes of cancers containing the word 'esophageal' in their labels.",
+  "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(c:Cancer) WHERE c.Label CONTAINS 'esophageal' RETURN p.Label AS Phenotype, c.Label AS Cancer"
+},
+{
+  "question": "List phenotypes of cancers, where the phenotype labels contain the word 'kinase'.",
+  "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(c:Cancer) WHERE p.Label CONTAINS 'kinase' RETURN p.Label AS Phenotype"
+},
+{
+  "question": "Find phenotypes that point towards GO terms containing 'ossification' in their labels.",
+  "cypher": "MATCH (p:Phenotype)-[:towards]->(g:GO) WHERE g.Label CONTAINS 'ossification' RETURN p.Label AS Phenotype, g.Label AS GOterm"
+},
+{
+   "question": "Return phenotypes with a material basis in germline mutations in miRNAs. Keep only relationships characted by a statistically significant mutation (p-value < 0.01).",
+   "cypher": "MATCH (p:Phenotype)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE r.`p-value` < 0.01 RETURN p.Label AS Phenotype, m.Label AS miRNA, r.`p-value`"
+},
+{
+  "question": "Return phenotypes containing 'myopathy' in their labels that are characteristic of cellular components.",
+  "cypher": "MATCH (p:Phenotype)-[:characteristic_of]->(cc:Cellular_component) WHERE p.Label CONTAINS 'myopathy' RETURN p.Label AS Phenotype, cc.Label AS CellularComponent"
+},
+{
+    "question": "Which phenotypes express miRNAs?",
+    "cypher": "MATCH (p:Phenotype)-[:expresses]->(m:miRNA) RETURN p.Label AS Phenotype, m.Label AS miRNA"
+  },
+{
+    "question": "Which phenotypes have germline mutations in miRNAs longer than 22 nucleotides characterized by a p-value lower than 0.01?",
+    "cypher": "MATCH (p:Phenotype)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE SIZE(m.Sequence) > 22 AND r.`p-value` < 0.01 RETURN p.Label AS Phenotype, m.Label AS miRNA"
+},
+{
+  "question": "Return infectious diseases whose descriptions contain both 'fever virus' and 'infection' and that do not have any phenotypes",
+  "cypher": "MATCH (d:Infectious_disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype) AND d.Description CONTAINS 'fever virus' AND d.Description CONTAINS 'infection' RETURN d.Label"
+},
+{
+    "question": "Return all molecular functions that lack a subclass relationship.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE NOT (mf)-[:subclassof]->(:Molecular_function) RETURN mf.Label"
+},
+{
+  "question": "Find phenotypes with 'aortic arch hypoplasia' in their labels that do not have phenotypes as quality.",
+  "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'aortic arch hypoplasia' AND NOT (p)-[:has_quality]->(:Phenotype) RETURN p.Label"
+},
+{
+  "question": "Find phenotypes that have a phenotype with the label 'increased height' as quality.",
+  "cypher": "MATCH (p:Phenotype )-[:has_quality]->(q:Phenotype {Label:'increased height'}) RETURN p.Label"
+},
+{
+  "question": "Find the phenotypes that are qualities of the phenotype labeled 'Tall stature'",
+  "cypher": "MATCH (p:Phenotype {Label:'Tall stature'})-[:has_quality]->(q:Phenotype) RETURN q.Label AS Phenotype"
+},
+
+{
+  "question": "Return autoimmune diseases containing 'celiac disease' in their label and do not have any phenotype.",
+  "cypher": "MATCH (a:Autoimmune_disease) WHERE NOT (a)-[:has_phenotype]->(:Phenotype) AND a.Label CONTAINS 'celiac disease' RETURN a.Label"
+},
+{
+  "question": "Find cellular components that are not part of any other cellular component and whose description contains 'p85 proteins' (case-insensitive).",
+  "cypher": "MATCH (c:Cellular_component) WHERE NOT (c)-[:part_of]->(:Cellular_component) AND toLower(c.Description) CONTAINS 'p85 proteins' RETURN c.Label"
+},
+{
+  "question": "List GO terms without any 'part_of' relashionship with other GO terms and whose labels contain the string 'cis-acting'.",
+  "cypher": "MATCH (g:GO) WHERE NOT (g)-[:part_of]->(:GO) AND g.Label CONTAINS 'cis-acting' RETURN g.Label"
+},
+{
+  "question": "Find diseases involving 'tachycardia' in their description and that are not caused by the disruption of any GO terms.",
+  "cypher": "MATCH (d:Disease) WHERE NOT (d)-[:disease_caused_by_disruption_of]->(:GO) AND d.Description CONTAINS 'tachycardia' RETURN d.Label"
+},
+{
+  "question": "Retrieve miRNAs that :1) are not location of cellular components; 2) have genomic coordinates starting with 'chrX:5'; and 3) whose sequence ends with 'A'.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT (m)-[:location_of]->(:Cellular_component) AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX:5') AND m.Sequence ENDS WITH 'A' RETURN m.Label, m.Genomic_coordinates, m.Sequence"
+},
+
+{
+  "question": "Retrieve biological processes without any 'results_in' relationship with any other biological processes and with labels referring to 'alcohol'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE NOT (bp)-[:results_in]->(:Biological_process) AND bp.Label CONTAINS 'alcohol' RETURN bp.Label"
+},
+{
+  "question": "Find molecular functions that have no regulatory relationships ('regulates' or 'regulated_by') with GO terms and whose labels contain the word 'acetylation'.",
+  "cypher": "MATCH (mf:Molecular_function) WHERE NOT (mf)-[:regulates|regulated_by]-(:GO) AND toLower(mf.Label) CONTAINS 'acetylation' RETURN mf.Label"
+},
+ {
+  "question": "Return the diseases labeled as 'tachycardia' lacking any 'disease_triggers' relationships with biological processes.",
+  "cypher": "MATCH (d:Disease) WHERE NOT (d)-[:disease_triggers]-(:Biological_process) AND d.Label CONTAINS 'tachycardia' RETURN d.Label"
+},
+{
+  "question": "Find miRNAs that have the following characteristics: 1) they do not have any 'has_participant' relationship with any other miRNA; 2) they have a sequence that ends with 'UA'; 3) their location (property named 'Genomic_coordinates') contains elements starting with 'chrX'.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT (m)-[:has_participant]-(:miRNA) AND m.Sequence ENDS WITH 'UA' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label"
+},
+{
+  "question": "Find diseases whose label contain 'brachyolmia' and that do not have any phenotype.",
+  "cypher": "MATCH (d:Disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype) AND d.Label CONTAINS 'brachyolmia' RETURN d.Label"
+},
+{
+  "question": "Find phenotypes whose labels do not contain the word 'increased' but that are increased in magnitude relative to other phenotypes.",
+  "cypher": "MATCH (p1:Phenotype)-[:increased_in_magnitude_relative_to]->(p2:Phenotype) WHERE NOT p1.Label CONTAINS 'increased' RETURN p1.Label, p2.Label"
+},
+{
+  "question": "Find phenotypes that are increased in magnitude relative to the phenotype labeled as 'normal'.",
+  "cypher": "MATCH (p1:Phenotype)-[:increased_in_magnitude_relative_to]->(p2:Phenotype {Label:'normal'}) RETURN p1.Label"
+},
+{
+  "question": "Find phenotypes whose labels do not contain 'decreased' and are decreased in magnitude relative to other phenotypes.",
+  "cypher": "MATCH (p1:Phenotype)-[:decreased_in_magnitude_relative_to]->(p2:Phenotype) WHERE NOT p1.Label CONTAINS 'decreased' RETURN p1.Label, p2.Label"
+},
+{
+  "question": "How many biological processes are NOT part of cellular components?",
+  "cypher": "MATCH (bp:Biological_process) WHERE NOT (bp)-[:part_of]->(:Cellular_component) RETURN COUNT(bp) AS processes_without_cc"
+},
+{
+  "question": "Return diseases that do not have any phenotype and whose description mentions the string 'skeletal disorders'.",
+  "cypher": "MATCH (d:Disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype) AND d.Description CONTAINS 'skeletal disorders' RETURN d.Label"
+},
+{
+  "question": "Find miRNAs that: 1) are not annotated with any known function; 2) whose genomic coordinates start with 'chr15' or 'chr14' (at least one coordinate); 3) whose sequence starts with 'AG' and ends with 'AU'. Return ONLY their labels.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT (m)-[:function_of]->(:GO) AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr15' OR coord STARTS WITH 'chr14') AND m.Sequence STARTS WITH 'AG' AND m.Sequence ENDS WITH 'AU' RETURN m.Label"
+},
+  {
+    "question": "Return all molecular functions that lack a 'subclassof' relationship with other molecular functions.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE NOT (mf)-[:subclassof]->(:Molecular_function) RETURN mf.Label"
+  },
+{
+  "question": "Find phenotypes that: 1) do not have a phenotype as a quality; 2) have no synonyms; and 3) whose description contains 'virus'.",
+  "cypher": "MATCH (p:Phenotype) WHERE NOT (p)-[:has_quality]->(:Phenotype) AND (p.Synonym IS NULL OR SIZE(p.Synonym) = 0) AND p.Description CONTAINS 'virus' RETURN p.Label"
+},
+{
+  "question": "Return all autoimmune diseases that do not have any phenotype in the database and whose description contains 'variation'.",
+  "cypher": "MATCH (a:Autoimmune_disease) WHERE NOT (a)-[:has_phenotype]->(:Phenotype) AND a.Description CONTAINS 'variation' RETURN a.Label"
+},
+{
+  "question": "Find cellular components that are not part of any other cellular component with the word 'pathways' mentioned in the description.",
+  "cypher": "MATCH (c:Cellular_component) WHERE NOT (c)-[:part_of]->(:Cellular_component) AND c.Description CONTAINS 'pathways' RETURN c.Label"
+},
+{
+  "question": "Return all GO terms described in terms of both 'blood' and 'enzyme' and that are not part of relationships. Return ONLY the label and sort the result set from the longest description.",
+  "cypher": "MATCH (g:GO) WHERE NOT (g)-[:part_of]->(:GO) AND g.Description CONTAINS 'blood' AND g.Description CONTAINS 'enzyme' RETURN g.Label ORDER BY SIZE(g.Description) DESC"
+},
+{
+  "question": "Return all GO terms described in terms of both blood and enzyme that are in a 'part of' relationships. Return ONLY the label and sort the result set from the longest description.",
+  "cypher": "MATCH (g:GO)-[:part_of]->(:GO) WHERE g.Description CONTAINS 'blood' AND g.Description CONTAINS 'enzyme' RETURN g.Label ORDER BY SIZE(g.Description) DESC"
+},
+{
+  "question": "Find diseases with a description containing the string 'slow growing' that are caused by the disruption of GO terms.",
+  "cypher": "MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(:GO) WHERE d.Description CONTAINS 'slow growing' RETURN d.Label"
+},
+{
+  "question": "Count molecular functions that have regulatory relationships ('regulates' or 'regulated_by') and whose description contains the word 'protein'.",
+  "cypher": "MATCH (mf:Molecular_function)-[:regulates|regulated_by]-(:GO) WHERE mf.Description CONTAINS 'protein' RETURN COUNT(DISTINCT mf) AS MolecularFunctionCount"
+},
+{
+  "question": "Return 'Cardiovascular_disease' whose 'Description' contains the word 'infant' and that lack any 'disease_triggers' relationships with 'Biological_process'es.",
+  "cypher": "MATCH (d:Cardiovascular_disease) WHERE NOT (d)-[:disease_triggers]-(:Biological_process) AND d.Description CONTAINS 'infant' RETURN d.Label, d.Description"
+},
+{
+  "question": "Find diseases whose description contain the words 'acute', 'chronic' and 'rare' but do not have any recorded phenotypes in the database.",
+  "cypher": "MATCH (d:Disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype)  AND d.Description CONTAINS 'acute' AND d.Description CONTAINS 'chronic' AND d.Description CONTAINS 'rare' RETURN d.Label, d.Description"
+},
+  {
+    "question": "Return biological processes that aren't part of any cellular component.",
+    "cypher": "MATCH (bp:Biological_process) WHERE NOT (bp)-[:part_of]-(:Cellular_component) RETURN bp.Label"
+  },
+{
+  "question": "Find molecular functions described with 'stress' but without any direct regulation by other molecular functions (hint: use 'directly_regulated_by' as relationship type).",
+  "cypher": "MATCH (mf:Molecular_function) WHERE NOT (mf)<-[:directly_regulated_by]-(:Molecular_function) AND mf.Description CONTAINS 'stress' RETURN mf.Label"
+},
+{
+  "question": "Return the label of phenotypes that have a known material basis in germline mutation in miRNA.",
+  "cypher": "MATCH (p:Phenotype) WHERE (p)-[:has_material_basis_in_germline_mutation_in]->(:miRNA) RETURN p.Label"
+},
+{
+  "question": "Find all miRNAs that do not participate in any biological process and are characterized by a sequence strictly shorter than 17 nucleotides. In case of ties, order the miRNAs alphabetically by their label.",
+  "cypher": "MATCH (m:miRNA) WHERE NOT (m)-[:participates_in]->(:Biological_process) AND SIZE(m.Sequence) < 17 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength ORDER BY SequenceLength ASC, miRNA ASC"
+},
+{
+  "question": "Find miRNAs that develop from other miRNAs such that: 1) the first miRNA has a sequence length shorter than 20 nts and 2) the second miRNA has a sequence length longer than 90 nts. Return the labels of both miRNAs and the sources confirming this development.",
+  "cypher": "MATCH (m1:miRNA)-[r:develops_from]->(m2:miRNA) WHERE SIZE(m1.Sequence) < 20 AND SIZE(m2.Sequence) > 90 RETURN m1.Label, m2.Label, r.Source"
+},
+{
+  "question": "Find miRNAs ending with the digit '0' that develop from other miRNAs such that both miRNAs' Genomic_coordinates' start with 'chr' followed by a letter. Return miRNAs' label, their genomic coordinates, and the source that state the development.",
+  "cypher": "MATCH (m1:miRNA)-[r:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord =~ 'chr[A-Za-z].*') AND ANY(coord2 IN m2.Genomic_coordinates WHERE coord2 =~ 'chr[A-Za-z].*') AND m1.Label ENDS WITH '0' RETURN m1.Label, m2.Label, r.Source, m1.Genomic_coordinates, m2.Genomic_coordinates"
+},
+{
+  "question": "Return miRNAs interacting with other miRNAs with relationship types different from 'develops_from'. Moreover, genomic coordinates for both miRNAs MUST start with 'chr' followed by a letter and the sequence length of both miRNAs MUST be longer than 90. Return both miRNAs' label and the sources confirming the interaction.",
+  "cypher": "MATCH (b1:miRNA)-[r]->(b2:miRNA) WHERE TYPE(r) <> 'develops_from' AND ANY(coord IN b1.Genomic_coordinates WHERE coord =~ 'chr[A-Za-z].*') AND ANY(coord2 IN b2.Genomic_coordinates WHERE coord2 =~ 'chr[A-Za-z].*') AND SIZE(b1.Sequence) > 90 AND SIZE(b2.Sequence) > 90 RETURN b1.Label, r.Source, b2.Label"
+},  
+   {
+    "question": " Find the homo sapiens miRNAs over-expressed in cancers with False Discovery Rate score strictly greater than 0.00998.",
+    "cypher": " MATCH (m:miRNA{Species:'Homo sapiens'})-[r:over_expressed_in]->(d:Cancer) WHERE r.FDR > 0.00998 RETURN m.Label As miRNA, d.Label AS Cancer, r.FDR AS FDR"
+  }, 
+   {
+    "question": " Retrieve the 'Mutation' reported by the relationships between diseases that have material basis in somatic mutation in miRNAs having sequences ending with 'A'. Moreover, each relationship MUST include at least 4 mutations.",
+    "cypher": "MATCH (d:Disease)-[r:has_material_basis_in_somatic_mutation_in]->(m:miRNA) WHERE m.Sequence ENDS WITH 'A' AND SIZE(r.Mutation) >= 4 RETURN d.Label, r.Mutation, m.Label "
+  },
+    {
+  "question": "Count the number of miRNAs expressed by each cancer. Return the cancers' label and their associated miRNA counts.",
+  "cypher": "MATCH (c:Cancer)-[:expresses]->(m:miRNA) RETURN c.Label AS Cancer, COUNT(m) AS expressed_miRNAs_count"
+ },
+{
+     "question": "Find molecular functions that are part of biological processes containing the word 'serotonin' in their labels.",
+    "cypher": "MATCH (mf:Molecular_function)-[:part_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'serotonin' RETURN mf.Label AS MolecularFunction, bp.Label AS BiologicalProcess"
+ },
+{
+     "question": "Find GO terms that occur in cellular components with labels containing the word 'membrane'.",
+    "cypher": "MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'membrane' RETURN go.Label AS GOTerm, cc.Label AS CellularComponent"
+ },
+{
+     "question": "Find GO terms whose labels contain the word 'interleukin' that are part of biological processes. ",
+     "cypher": "MATCH (go:GO)-[:part_of]->(bp:Biological_process) WHERE go.Label CONTAINS 'interleukin' RETURN go.Label AS GOTerm, bp.Label AS BiologicalProcess"
+},
+{
+     "question":"Count the molecular functions that are part of biological processes with labels containing the word 'translation'. Return the number of such functions and their associated biological processes.",
+     "cypher": "MATCH (mf:Molecular_function)-[:part_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'translation' RETURN bp.Label AS BiologicalProcess, COUNT(mf) AS NumMolecularFunctions"
+},
+{
+     "question":"Find the cellular components where GO terms occur such that the label for these GO terms contains the string 'endoplasmic reticulum'.",
+     "cypher": "MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE go.Label CONTAINS 'endoplasmic reticulum' RETURN  cc.Label AS CellularComponent, go.Label AS GOTerm"
+ },
+{
+     "question": "Find cellular components that are capable of molecular functions with a label starting with the keyword 'RNA'.",
+     "cypher": "MATCH (cc:Cellular_component)-[:capable_of]->(mf:Molecular_function) WHERE mf.Label STARTS WITH 'RNA' RETURN  cc.Label AS CellularComponent, mf.Label AS MolecularFunction"
+ },
+
+{
+     "question": "Find GO terms containing the word 'transport' or 'metabolic' that do occur in cellular components having labels containing the word 'cytosol'.",
+     "cypher":  "MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'cytosol' AND (go.Label CONTAINS 'transport' OR go.Label CONTAINS 'metabolic') RETURN cc.Label AS CellularComponent, go.Label AS GOTerm"
+ },
+ {
+     "question":"Find molecular functions that are linked to cellular components whose labels contain the word 'tRNA' via a 'capable of' relationship type.",
+     "cypher": "MATCH (cc:Cellular_component)-[:capable_of]->(mf:Molecular_function) WHERE cc.Label CONTAINS 'tRNA' RETURN  mf.Label AS MolecularFunction, cc.Label AS CellularComponent"
+ },
+{
+     "question": "Find GO terms that occur in cellular components containing the word 'presynapse' in their label.",
+     "cypher": "MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'presynapse' RETURN  go.Label AS GO, cc.Label AS CellularComponent"
+},
+{
+  "question": "List the phenotypes of the diseases containing the word 'Madras' in their label.",
+  "cypher": "MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'Madras' RETURN d.Label AS Disease, p.Label AS Phenotype"
+},
+{
+  "question": "List miRNAs whose sequence ends with 'U' and that have at least one relationship with a PubMedID list containing 50 or more PubMed IDs. Return the miRNA label, sequence, the relationship type, and that relationship’s PubMed IDs.",
+  "cypher": "MATCH (m:miRNA)-[r]->() WHERE m.Sequence ENDS WITH 'U' AND SIZE(r.PubMedID) >= 50 RETURN m.Label AS miRNA, m.Sequence AS Sequence, TYPE(r) AS RelationshipType, r.PubMedID AS PubMedIDs"
+},
+
+   {
+        "question": "Find diseases that have material in germline mutations in miRNAs longer than 25 nucleotides. Return only interations characterized by a p-value strictly lower than 0.05.",
+        "cypher":  "MATCH (d:Disease)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE SIZE(m.Sequence) > 25 AND r.`p-value` < 0.05 RETURN d.Label"
+      },
+    {
+        "question": "Return all human miRNAs transcribed from genes whose labels end with ‘A’ and have genomic coordinates on chromosome 1 or 2.",
+        "cypher": "MATCH (m:miRNA {Species:'Homo sapiens'})-[:transcribed_from]->(g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord =~ '^chr(1|2)(:.*)?$') AND g.Label ENDS WITH 'A' RETURN m.Label AS miRNA, g.Label AS Gene, g.Genomic_coordinates"
+    },             
+    {
+        "question": "List diseases that under-express miRNAs whose sequence has more than 50 guanine nucleotides. Return the the diseases and the miRNAs' labels.",
+        "cypher": "MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'G', '')) > 50 RETURN d.Label AS Disease, m.Label AS miRNA"
+    },
+    {
+        "question": "Return miRNAs involved in causal germline mutation in phenotypes. List only miRNA-phenotype pairs characterized by non-null PubMed IDs.",
+        "cypher": "MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(p:Phenotype) WHERE r.PubMedID IS NOT NULL RETURN  m.Label AS miRNA, p.Label AS Phenotype, r.PubMedID AS PubMedIDs"
+    },
+    {
+        "question": "Find miRNAs interacting with both miRNAs and pre-miRNAs with a RNAsister score between 0.3 and 0.6.",
+        "cypher": "MATCH (m1:miRNA)-[r:interacts_with]->(m2) WHERE (m2:miRNA OR m2:pre_miRNA) AND r.RNAsister_score >= 0.3 AND r.RNAsister_score <= 0.6 RETURN m1.Label AS Source, m2.Label AS Target, r.RNAsister_score AS Score"
+    },
+    {
+        "question": "Find diseases that have material basis in germline mutation in miRNAs with sequence longer than 22 nucleotides and mutations with p-value < 0.01. Return also associated PubMed articles' ID.",
+        "cypher": "MATCH (d:Disease)-[r:has_material_basis_in_germline_mutation_in]->(m:miRNA) WHERE SIZE(m.Sequence) > 22 AND r.`p-value` < 0.01 AND r.PubMedID IS NOT NULL RETURN d.Label AS Disease, m.Label AS miRNA, r.PubMedID AS PubMedID"
+    },
+    {
+        "question": "Find miRNAs under-expressed in diseases with FDR >= 0.00999.",
+        "cypher": "MATCH (m:miRNA)-[r:under_expressed_in]->(d:Disease) WHERE r.FDR >= 0.00999 RETURN DISTINCT m.Label AS miRNA, r.FDR AS FDR"
+    },
+    {
+        "question": "List miRNAs transcribed from genes of at least 150 nt long.",
+        "cypher": "MATCH (m:miRNA)-[:transcribed_from]->(g:Gene) WHERE SIZE(g.Sequence) >= 150 RETURN m.Label AS miRNA, g.Label AS Gene, SIZE(g.Sequence) AS GeneLength"
+    },
+        {
+        "question": "Find miRNA-miRNA interaction pairs with RNAsister score >= 0.3.",
+        "cypher": "MATCH (m1:miRNA)-[r:interacts_with]->(m2:miRNA) WHERE r.RNAsister_score >= 0.3 RETURN  m1.Label AS Source, m2.Label AS Target, r.RNAsister_score AS Score"
+    },
+
+    {
+        "question": "List unique miRNA pairs in homology relationship (do not repeat the same pair in reverse) such that at least one homologue miRNA has 'stem-loop' in its label.",
+        "cypher": "MATCH (m1:miRNA)-[:in_homology_relationship_with]->(m2:miRNA) WHERE m1.Label CONTAINS 'stem-loop' AND m1<m2 RETURN m1.Label AS miRNA1, m2.Label AS miRNA2"
+    },
+    {
+        "question": "Find miRNAs participating in biological processes whose label contains 'regulation of behavior'.",
+        "cypher": "MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'regulation of behavior' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess"
+    },
+    {
+        "question": "Return miRNAs that are annotated with biological processes whose labels contain the string 'cell motility' using the 'has_function' relationshyp type.",
+        "cypher": "MATCH (m:miRNA)-[:has_function]->(bp:Biological_process) WHERE bp.Label CONTAINS 'cell motility' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess"
+    },
+    {
+  "question": "List miRNAs (also labeled as pre_miRNA) that cause or contribute to diseases containing the string 'severe acute' in the label. Also return the type of the disease.",
+  "cypher": "MATCH (m:miRNA:pre_miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE d.Label CONTAINS 'severe acute' RETURN m.Label AS miRNA, d.Label AS Disease, d.Type AS DiseaseType"
+},
+    {
+    "question": "Which miRNAs are located in the cellular component labeled as 'cyclin A1-CDK2 complex'? Return the miRNA label and the cellular component elementId.",
+    "cypher": "MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component{Label:'cyclin A1-CDK2 complex'}) RETURN m.Label AS miRNA, elementId(cc) AS elementId"
+    },
+    {
+        "question": "Return the labels of miRNAs ending with '5-5p' that are part of GO terms, along with the sources claiming these interactions.",
+        "cypher": "MATCH (m:miRNA)-[r:part_of]->(g:GO) WHERE m.Label ENDS WITH '5-5p' RETURN m.Label AS miRNA, g.Label AS GO, r.Source AS Sources"
+    },
+    {
+        "question": "Find the labels of miRNAs active in GO terms, returning also the GO evidence for the relashionship.",
+        "cypher": "MATCH (m:miRNA)-[r:is_active_in]->(g:GO) RETURN m.Label AS miRNA, g.Label AS GOTerm, r.GO_evidence AS GOEvidence"
+    },
+    {
+        "question": "Return miRNAs acting upstream of or within biological processes characterized by the expression 'positive regulation' in their labels.",
+        "cypher": "MATCH (m:miRNA)-[r:acts_upstream_of_or_within]->(bp:Biological_process) WHERE bp.Label CONTAINS 'positive regulation' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess"
+    },
+    {
+        "question": "List labels of miRNAs ending with 'b-3p' that enable molecular functions. Include also the sources claiming the interaction in the output.",
+        "cypher": "MATCH (m:miRNA)-[r:enables]->(mf:Molecular_function) WHERE m.Label ENDS WITH 'b-3p' RETURN DISTINCT m.Label AS miRNA, mf.Label AS MolecularFunction, r.Source AS Sources"
+    },
+    {
+        "question": "Find miRNAs acting upstream of GO terms that are characterized by more than one PubMed evidence.",
+        "cypher": "MATCH (m:miRNA)-[r:acts_upstream_of]->(go:GO) WHERE SIZE(r.PubMedID) > 1 RETURN m.Label AS miRNA, go.Label AS GOTerm, r.PubMedID AS PubMedIDs"
+    },
+    {
+        "question": "List the labels of miRNAs having parts that occur in GO terms. Include also the sources claiming the interaction in the output.",
+        "cypher": "MATCH (m:miRNA)-[r:has_part_that_occurs_in]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOTerm, r.Source AS Sources"
+    },
+    {
+        "question": "Find miRNAs that directly regulate the activity of other miRNAs.",
+        "cypher": "MATCH (m1:miRNA)-[:directly_regulates_activity_of]->(m2:miRNA) RETURN m1.Label AS Regulator, m2.Label AS Target"
+    },
+    {
+        "question": "Return human miRNAs transcribed from genes whose label ends with the character 'C'.",
+         "cypher": "MATCH (m:miRNA {Species: 'Homo sapiens'})-[:transcribed_from]->(g:Gene) WHERE g.Label ENDS WITH 'C' RETURN m.Label AS miRNA, g.Label AS Gene"
+    },
+    {
+  "question": " Find the gene transcribing to the human miRNA labeled as 'microRNA hsa-mir-4498 precursor'. Return the gene label and the labels of the miRNA node.",
+  "cypher": "MATCH (g:Gene)-[:transcribed_to]->(m:miRNA {Species:'Homo sapiens', Label:'microRNA hsa-mir-4498 precursor'}) RETURN g.Label AS Gene, labels(m) AS miRNALabels"
+},
+    {
+    "question": "Find diseases that cause disruption of biological processes containing the string 'thiamine transport' in their label.",
+    "cypher": "MATCH (d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'thiamine transport' RETURN d.Label AS Disease, bp.Label AS BiologicalProcess"
+    },
+    {
+    "question": "Return diseases caused by disruption of biological processes whose labels contain the string 'endocrine process'.",
+    "cypher": "MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'endocrine process' RETURN d.Label AS Disease, bp.Label AS BiologicalProcess"
+    },
+    {
+    "question": "List biological processes that negatively regulate other biological processes where either the regulator or the target process has 'hyperpolarization' in its label.",
+    "cypher": "MATCH (bp1:Biological_process)-[:negatively_regulates]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'hyperpolarization' OR bp2.Label CONTAINS 'hyperpolarization' RETURN bp1.Label AS RegulatorProcess, bp2.Label AS TargetProcess"
+    },
+    {
+    "question": "Find biological processes that positively regulate other biological processes where either the regulator or the target process has 'peptide production' in its label.",
+    "cypher": "MATCH (bp1:Biological_process)-[:positively_regulates]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'peptide production' OR bp2.Label CONTAINS 'peptide production' RETURN bp1.Label AS RegulatorProcess, bp2.Label AS TargetProcess"
+    },
+    {
+    "question": "List all phenotypes of the disease whose label contains 'hypercalcemia' via the 'has_characteristic' relationship type. Return the the phenotypes label and the disease label and elementId  ",
+    "cypher": "MATCH (d:Disease)-[:has_characteristic]->(p:Phenotype) WHERE d.Label CONTAINS 'hypercalcemia' RETURN p.Label AS Characteristic, d.Label AS Disease, elementId(d)"
+    },
+    {
+    "question": "List biological processes that have other biological processes as parts, where either the whole process or the part process has a label containing the string  'reproductive process'.",
+    "cypher": "MATCH (bp1:Biological_process)-[:has_part]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'reproductive process' OR bp2.Label CONTAINS 'reproductive process' RETURN bp1.Label AS WholeProcess, bp2.Label AS PartProcess"
+    },
+    {
+        "question": "Find biological processes that start with other biological processes.",
+        "cypher": "MATCH (bp1:Biological_process)-[:starts_with]->(bp2:Biological_process) RETURN bp1.Label AS Process, bp2.Label AS StartsWith"
+    },
+    {
+        "question": "Return biological processes that end with other biological processes.",
+        "cypher": "MATCH (bp1:Biological_process)-[:ends_with]->(bp2:Biological_process) RETURN bp1.Label AS Process, bp2.Label AS EndsWith"
+    },
+    {
+        "question": "List biological processes that happen during other biological processes.",
+        "cypher": "MATCH (bp1:Biological_process)-[:happens_during]->(bp2:Biological_process) RETURN bp1.Label AS Process, bp2.Label AS ContextProcess"
+    },
+
+    {
+    "question": "Find biological processes whose labels contain 'response' having the miRNA 'hsa-miR-340-5p' as participant.",
+    "cypher": "MATCH (bp:Biological_process)-[:has_participant]->(m:miRNA {Label:'hsa-miR-340-5p'}) WHERE bp.Label CONTAINS 'response' RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA"
+    },
+    {
+        "question": "Return miRNAs ending with the character 'j' that are over-expressed in GO terms.",
+        "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(go:GO) WHERE m.Label ENDS WITH 'j' RETURN m.Label AS miRNA, go.Label AS GOtermLabel"
+    },
+    {
+        "question": "Find miRNAs located in GO terms with RNAsister score strictly greater than 0.972.",
+        "cypher": "MATCH (m:miRNA)-[r:located_in]->(:GO) WHERE r.RNAsister_score > 0.972 RETURN m.Label AS miRNA, r.RNAsister_score AS RNAsisterScore"
+    },
+    {
+       "question": "Count the number of miRNAs developing from pre-miRNAs with at least one source confirming the interaction.",
+    "cypher": "MATCH (m:miRNA)-[r:develops_from]->(:pre_miRNA) WHERE r.Source IS NOT NULL RETURN COUNT(m) AS Num_miRNAs_with_Source"
+    },
+      {
+    "question": "Which miRNAs starting with 'hsa-miR-218' are not located in any cellular component?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-218' AND NOT (m)-[:located_in]->(:Cellular_component) RETURN m.Label AS miRNA"
+  },
+    {
+    "question": "List precursor miRNAs longer than 120 nucleotides that are transcribed from known genes. Return only the distinct pre-miRNA labels and pre-miRNA length.",
+    "cypher": "MATCH (p:pre_miRNA)-[:transcribed_from]->(:Gene) WHERE SIZE(p.Sequence) > 120 RETURN DISTINCT p.Label AS pre_miRNA, SIZE(p.Sequence) AS Length"
+  },
+   { 
+    "question": "Which human genes whose label starts with 'MIR43' transcribe a miRNA? Return only the distinct gene labels.",
+    "cypher": "MATCH (g:Gene {Species: 'Homo sapiens'})-[:transcribed_to]->(m:miRNA) WHERE g.Label STARTS WITH 'MIR43' RETURN DISTINCT g.Label AS Gene"
+  },
+    {
+    "question": "Which GO terms containing both the word 'synapse' and 'assembly' are not directly regulated by any molecular function?",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'synapse' AND g.Label CONTAINS 'assembly' AND NOT (g)<-[:directly_regulates]-(:Molecular_function) RETURN g.Label AS GO"
+  },
+     {
+    "question": "Which GO terms containing the word 'cyclase' are directly regulated by any molecular function?",
+    "cypher": "MATCH (g:GO)<-[:directly_regulates]-(:Molecular_function) WHERE g.Label CONTAINS 'cyclase' RETURN g.Label AS GO"
+  },
+  {
+  "question": "Find molecular functions whose labels contain 'kinase binding' that are part of the GO term with elementId '4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73789'. Return the molecular function label and the GO term label.",
+  "cypher": "MATCH (mf:Molecular_function)-[:part_of]->(go:GO) WHERE mf.Label CONTAINS 'kinase binding' AND elementId(go) = '4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73789' RETURN mf.Label AS MolecularFunction, go.Label AS GO"
+},
+
+  {
+    "question": "Which cellular components whose labels contain 'nucleus' are not part of any other cellular component?",
+    "cypher": "MATCH (cc:Cellular_component) WHERE toLower(cc.Label) CONTAINS 'nucleus' AND NOT (cc)-[:part_of]->(:Cellular_component) RETURN cc.Label AS CellularComponent"
+  },
+    {
+
+    "question": "Find the sequence length of all Homo sapiens miRNAs starting with 'hsa-miR-20' that are located in known cellular components. Return only the distinct miRNA labels and their sequence length.",
+    "cypher": "MATCH (m:miRNA {Species:'Homo sapiens'})-[:located_in]->(:Cellular_component) WHERE m.Label STARTS WITH 'hsa-miR-20' RETURN DISTINCT m.Label, SIZE(m.Sequence)"
+  },
+  {
+    "question": "What is the distinct labels of Homo sapiens miRNAs starting with 'hsa-miR-20' are not located in any cellular component?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-20' AND NOT (m)-[:located_in]->(:Cellular_component) RETURN DISTINCT m.Label"
+  },
+  {
+  "question": "Which diseases mention 'dysmorphisms' in their description and do not have any phenotype?",
+    "cypher": "MATCH (d:Disease) WHERE d.Description CONTAINS 'dysmorphisms' AND NOT (d)-[:has_phenotype]->(:Phenotype) RETURN d.Label AS Disease, d.Description AS Description"
+  },
+  {
+     "question": "Find all phenotypes that do not have modifier phenotypes and have at least one synonym containing the Spanish word 'clónicafocal'.",
+    "cypher": "MATCH (p:Phenotype) WHERE NOT (p)-[:has_modifier]-(:Phenotype) AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'clónicafocal') RETURN p.Label, p.Synonym"
+},
+{
+     "question": "Find all phenotypes missing a 'Phenotype-has_modifier-Phenotype' relationship and have at least one synonym containing the Czech string 'Fokální non-motorický'.",
+    "cypher": "MATCH (p:Phenotype) WHERE NOT (p)-[:has_modifier]-(:Phenotype) AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'Fokální non-motorický') RETURN p.Label, p.Synonym"
+},
+  {
+  "question": "Which diseases predispose towards diseases whose labels contain 'celiac'?",
+  "cypher": "MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease) WHERE d2.Label CONTAINS 'celiac' RETURN d1.Label AS PredisposingDisease, d2.Label AS TargetDisease"
+},
+{
+  "question": "Which pre-miRNAs are transcribed from the gene labeled as 'MIR590'?",
+  "cypher": "MATCH (g:Gene {Label: 'MIR590'})-[:transcribed_to]->(pre:pre_miRNA) RETURN pre.Label AS Pre_miRNA"
+},
+{
+  "question": "Which infectious diseases trigger GO terms?",
+  "cypher": "MATCH (id:Infectious_disease)-[:disease_triggers]->(go:GO) RETURN id.Label AS InfectiousDisease, go.Label AS GOterms"
+},
+{
+  "question": "List miRNAs and the GO terms in which they are active.",
+ "cypher":"MATCH (m:miRNA)-[:is_active_in]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOterm"
+ },
+ {
+  "question": "List the node types that are connected to diseases via a 'has_characteristic' relationship, and report how many such connections each type has, ordered from highest to lowest.",
+  "cypher": "MATCH (d:Disease)-[:has_characteristic]->(x) RETURN HEAD(LABELS(x)) AS NodeType, COUNT(*) AS ConnectionCount ORDER BY ConnectionCount DESC"
+},
+{
+  "question": "List the node types disrupted by cardiovascular diseases, and report how many disruption relationships involve each type, ordered from highest to lowest.",
+  "cypher": "MATCH (:Cardiovascular_disease)-[:disease_causes_disruption_of]->(x) RETURN HEAD(LABELS(x)) AS NodeType, COUNT(*) AS DisruptionCount ORDER BY DisruptionCount DESC"
+},
+ {
+  "question": "Return labels of biological processes that results in other biological processes.",
+  "cypher": "MATCH (bp1:Biological_process)-[:results_in]->(bp2:Biological_process) RETURN bp1.Label, bp2.Label"
+},
+{
+  "question": "Return biological processes without any 'Biological_process-results_in->Biological_process' relationship and whose description contains both 'result in' and 'activated by'.",
+  "cypher": "MATCH (bp:Biological_process) WHERE NOT (bp)-[:results_in]->(:Biological_process) AND bp.Description CONTAINS 'result in' AND bp.Description CONTAINS 'activated by' RETURN bp.Label, bp.Description"
+},
+ {
+    "question": "Return GO terms containing the string 'sepiapterin reductase' that are not part of any other GO term.",
+    "cypher": "MATCH (g:GO) WHERE g.Label CONTAINS 'sepiapterin reductase' AND NOT (g)-[:part_of]->(:GO) RETURN g.Label AS GOTerm"
+  },
+      {
+    "question": "Find phenotypes containing the word 'myopathy' that have another (diverse) phenotype as quality.",
+    "cypher": "MATCH (p1:Phenotype)-[:has_quality]->(p2:Phenotype) WHERE p1.Label CONTAINS 'myopathy' AND ID(p1) <> ID(p2) RETURN p1.Label AS Phenotype, p2.Label AS QualityPhenotype"
+  },
+    {
+    "question": "Find phenotypes containing the word 'myopathy' that do not have a 'has_quality' relationship towards phenotypes in the database.",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'myopathy' AND NOT (p)-[:has_quality]->(:Phenotype) RETURN p.Label AS Phenotype"
+  },
+      {
+    "question": "List all properties of the molecular function that are regulated by another molecular function whose description contains the string 'calcium channel'.",
+    "cypher": "MATCH (mf1:Molecular_function)-[:regulated_by]->(mf2:Molecular_function ) WHERE mf2.Description CONTAINS 'calcium channel' RETURN mf1, mf2"
+  },
+    {
+    "question": "List molecular functions with labels starting with 'ATPase' that lack any 'regulated_by' relationships.",
+    "cypher": "MATCH (mf:Molecular_function) WHERE mf.Label STARTS WITH 'ATPase' AND NOT (mf)-[:regulated_by]->() RETURN mf.Label"
+  },
+      {
+    "question": "Find phenotypes that are modifiers of disease",
+    "cypher": "MATCH (d:Disease)-[:has_modifier]->(p:Phenotype) RETURN p.Label, d.Label"
+  },
+    {
+    "question": "Return labels of phenotypes with 'adrenal' in the label and that are not modifiers of any disease",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'adrenal' AND NOT (:Disease)-[:has_modifier]->(p) RETURN p.Label"
+  },
+  {
+    "question": "Find cellular components not part of any other cellular component and whose description includes 'membrane vesicle'.",
+    "cypher": "MATCH (cc:Cellular_component) WHERE NOT (cc)-[:part_of]->(:Cellular_component) AND cc.Description CONTAINS 'membrane vesicle' RETURN cc.Label, cc.Description"
+  },
+  {
+  "question": "Find miRNAs that enable the 'gene product or complex activity' molecular function. Return the label of the miRNA and of the molecular function.",
+  "cypher": "MATCH (m:miRNA)-[:enables]->(mf:Molecular_function {Label:'gene product or complex activity'}) RETURN m.Label AS miRNA, mf.Label AS molecular_function"
+},
+{
+  "question": "Return the number of of distinct miRNAs enabling molecular functions.",
+  "cypher": "MATCH (m:miRNA)-[:enables]->(mf:Molecular_function) RETURN COUNT(DISTINCT m) AS mirna_count"
+},
+{
+     "question": "Return the cancers whose labels contain the word 'brain' in which certain miRNAs are over-expressed.",
+    "cypher": "MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'brain' RETURN DISTINCT c.Label AS Cancer, m.Label AS miRNA "
+ },
+  {
+    "question": "Which miRNAs ending with the string 'c precursor' are reported by HMDD to cause or contribute to diseases whose labels contains 'AIDS'?",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Infectious_disease) WHERE 'HMDD' IN r.Source AND d.Label CONTAINS 'AIDS' AND m.Label ENDS WITH 'c precursor' RETURN m.Label AS miRNA, d.Label AS Disease"
+  },
+    {
+       "question": "Return miRNAs ending with 'a-3p' that are located in cellular components with label containing the word 'microvesicle'",
+        "cypher": "MATCH (m:miRNA)-[r:located_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'microvesicle' AND m.Label ENDS WITH 'a-3p' RETURN m.Label AS miRNA"
+    },
+  {
+   "question": "Retrieve miRNAs causing or contributing to diseases supported by the PubMed article with ID '22677230'.",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d) WHERE '22677230' IN r.PubMedID RETURN m.Label AS miRNA, d.Label AS Disease"
+  },
+   {
+    "question": "List miRNAs: 1) whose labels start with 'hsa-miR-2'; 2) whose sequence length is exactly 20 nucleotides; and 3) that cause or contribute to any infectious disease. Return the miRNA and disease labels and the evidence sources.",
+    "cypher": "MATCH (m:miRNA)-[r:causes_or_contributes_to_condition]->(d:Infectious_disease) WHERE m.Label STARTS WITH 'hsa-miR-2' AND SIZE(m.Sequence) = 20 RETURN m.Label AS miRNA, d.Label AS Disease, r.Source AS Sources"
+  },
+    {
+   "question": "Find pre-miRNAs that cause or contribute to autoimmune diseases with at least two evidence sources.",
+    "cypher": "MATCH (p:pre_miRNA)-[r:causes_or_contributes_to_condition]->(d:Autoimmune_disease) WHERE SIZE(r.Source) >= 2 RETURN p.Label AS pre_miRNA, d.Label AS Disease, r.Source AS Sources"
+   },
+  {
+   "question": "List pre-miRNAs participating in Gene Ontology (GO) terms, and report the number of relationships for each GO term, ordered by the participation count.",
+    "cypher": "MATCH (:pre_miRNA)-[:participates_in]->(g:GO) RETURN g.Label AS GOTerm, COUNT(*) AS ParticipationCount ORDER BY ParticipationCount"
+  },
+  {
+  "question": "Find phenotypes whose labels contain the word 'Childhood' that are phenotypes of diseases containing the word 'lupus' in their labels.",
+  "cypher": "MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease) WHERE d.Label CONTAINS 'lupus' AND p.Label CONTAINS 'Childhood' RETURN p.Label AS Phenotype, d.Label AS Disease"
+},
+{
+    "question": "List diseases whose labels contain the word 'childhood' that have somatic mutation associations with miRNAs.",
+    "cypher": "MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease) WHERE d.Label CONTAINS 'childhood' RETURN m.Label AS miRNA, d.Label AS Disease"
+},
+{
+    "question": "Which miRNAs starting with 'hsa-miR-2' have a sequence of at least 23 nucleotides and are not located in the 'nucleus' (a cellular component)? Return the distinct miRNA labels and their sequence length.",
+    "cypher":   "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-2' AND SIZE(m.Sequence) >= 23 AND NOT (m)-[:located_in]->(:Cellular_component {Label: 'nucleus'}) RETURN DISTINCT m.Label AS miRNA, SIZE(m.Sequence) AS Length"
+},
+
+{
+    "question": "Which miRNAs with label starting with 'hsa-miR-33' have sequence of exactly 22 nts of length and are characterized by at least one genomic coordinates' item starting with 'chr'?",
+    "cypher": "MATCH (m:miRNA) WHERE m.Label STARTS WITH 'hsa-miR-33' AND SIZE(m.Sequence)=22 AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr') RETURN DISTINCT m.Label AS miRNA"
+  },
+   {
+    "question": "Which phenotypes whose label contains the word 'ataxia' are characterized by at least one synonym?",
+    "cypher": "MATCH (p:Phenotype) WHERE p.Label CONTAINS 'ataxia' AND SIZE(p.Synonym) > 0 RETURN DISTINCT p.Label AS Phenotype, p.Synonym AS Synonyms"
+  },
+  {
+    "question": "Return biological processes that are part of other biological processes, where the child process contains 'nucleotide' or the parent process contains 'maturation' in their label. Return only the labels of both biological processes.",
+    "cypher": "MATCH (bp1:Biological_process)-[:part_of]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'nucleotide' OR bp2.Label CONTAINS 'maturation' RETURN bp1.Label AS Process, bp2.Label AS ParentProcess"
+    },
+{
+  "question": "Which diseases have basis in dysfunction of cellular components whose description contains the string 'eukaryotic cells'?",
+  "cypher": "MATCH (d:Disease)-[:disease_has_basis_in_dysfunction_of]->(cc:Cellular_component) WHERE cc.Description CONTAINS 'eukaryotic cells' RETURN d.Label, cc.Label, cc.Description"
+},
+{
+  "question": "Identify the mental diseases in which the disease labeled 'obsessive-compulsive personality disorder' is realized. Return the labels of both diseases and the sources confirming the interaction.",
+  "cypher": "MATCH (d:Disease {Label:'obsessive-compulsive personality disorder'})-[r:realized_in]->(md:Mental_disease) RETURN d.Label, md.Label, r.Source"
+},
+{
+  "question": "Identify the cellular components that are the start or end locations of biological processes whose label contains the word 'ribosomal'. Return the biological process and cellular component label and the type of relationship.",
+  "cypher": "MATCH (bp:Biological_process)-[r:has_target_end_location|has_target_start_location]->(cc:Cellular_component) WHERE bp.Label CONTAINS 'ribosomal' RETURN bp.Label, cc.Label, TYPE(r)"
+},
+{
+  "question": "Identify the cardiovascular diseases that have basis in feature of infectious diseases.",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[:disease_has_basis_in_feature]->(id:Infectious_disease) RETURN cd.Label, id.Label"
+},
+{
+  "question": "Identify biological processes that result in transport across the cellular component labeled the string 'plasma membrane', excluding those whose label contains the word 'plasma'.",
+  "cypher": "MATCH (bp:Biological_process)-[:results_in_transport_across]->(cc:Cellular_component {Label:'plasma membrane'}) WHERE NOT bp.Label CONTAINS 'plasma' RETURN bp.Label, cc.Label"
+},
+{
+  "question": "Identify biological processes that result in transport along cellular components where the source includes Uberon.",
+  "cypher": "MATCH (bp:Biological_process)-[r:results_in_transport_along]->(cc:Cellular_component) WHERE ANY(src IN r.Source WHERE src = 'Uberon') RETURN bp.Label, cc.Label, r.Source"
+},
+{
+  "question": "Identify biological processes that result in transport to, from, or in cellular components where the source includes CLO.",
+  "cypher": "MATCH (bp:Biological_process)-[r:results_in_transport_to_from_or_in]->(cc:Cellular_component) WHERE ANY(src IN r.Source WHERE src = 'CLO') RETURN bp.Label, cc.Label, r.Source"
+},
+{
+  "question": "Identify cellular components that act as causal agents of biological processes whose label contains the word 'signaling'.",
+  "cypher": "MATCH (bp:Biological_process)-[:process_has_causal_agent]->(cc:Cellular_component) WHERE bp.Label CONTAINS 'signaling' RETURN bp.Label, cc.Label"
+},
+{
+  "question": "Identify Gene Ontology terms that transport or maintain the localization of cellular components. Return GO term and component labels and the sources confirming the interaction.",
+  "cypher": "MATCH (g:GO)-[r:transports_or_maintains_localization_of]->(cc:Cellular_component) RETURN g.Label, cc.Label, r.Source"
+},
+{
+  "question": "Identify Gene Ontology terms that result in the assembly of cellular components whose label contains the string 'sno'.",
+  "cypher": "MATCH (g:GO)-[:results_in_assembly_of]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'sno' RETURN g.Label, cc.Label"
+},
+
+{
+  "question": "Identify biological processes that result in disassembly of cellular components, excluding those whose label or description contains the word 'disassembly'.",
+  "cypher": "MATCH (bp:Biological_process)-[r:results_in_disassembly_of]->(cc:Cellular_component) WHERE NOT bp.Label CONTAINS 'disassembly' AND NOT bp.Description CONTAINS 'disassembly' RETURN bp.Label,bp.Description, cc.Label"
+},
+{
+  "question": "Identify biological processes that encompass other biological processes, where the first process label contains the word 'phase' and the encompassed process label does not contain the word 'phase'.",
+  "cypher": "MATCH (bp1:Biological_process)-[:encompasses]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'phase' AND NOT bp2.Label CONTAINS 'phase' RETURN bp1.Label, bp2.Label"
+},
+{
+  "question": "Identify biological processes whose description contains the word 'lipid' that result in the fusion of GO annotations.",
+  "cypher": "MATCH (bp:Biological_process)-[:results_in_fusion_of]->(g:GO) WHERE bp.Description CONTAINS 'lipid' RETURN bp.Label, bp.Description , g.Label"
+},
+{
+  "question": "Identify cellular components related to the nucleus, either by label or synonym, and the GO terms that are bounding layers of these components.",
+  "cypher": "MATCH (g:GO)-[:bounding_layer_of]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'nucleus' OR ANY(s IN cc.Synonym WHERE s CONTAINS 'nucleus') RETURN cc.Label, cc.Synonym, g.Label"
+},
+{
+  "question": "Identify biological processes that happen in GO term whose description mentions the string 'dna damage'.",
+  "cypher": "MATCH (g:GO)-[r:happens_during]->(cc:Biological_process) WHERE g.Description CONTAINS 'dna damage' RETURN cc.Label, g.Label, g.Description"
+},
+{
+  "question": "Identify the GO terms that result in the development or fusion of cellular components whose description contains 'fluid-filled'. Return the component label and description, the GO label and the relationship type.",
+  "cypher": "MATCH (g:GO)-[r:results_in_development_of|results_in_fusion_of]->(cc:Cellular_component) WHERE cc.Description CONTAINS 'fluid-filled' RETURN cc.Label, cc.Description, g.Label, TYPE(r)"
+},
+{
+  "question": "Identify GO terms that transport or maintain the localization of other GO terms. Include terms' labels, IDs, and the source of the relationship in the output.",
+  "cypher": "MATCH (g1:GO)-[r:transports_or_maintains_localization_of]->(g2:GO) RETURN g1.Label, g2.Label, g1.ID, g2.ID, r.Source"
+},
+{
+  "question": "Identify  GO terms whose label include RNA, excluding rRNA and lrRNA. that result in transport across cellular components.",
+  "cypher": "MATCH (g:GO)-[:results_in_transport_across]->(cc:Cellular_component) WHERE g.Label =~ '.*RNA.*' AND NOT g.Label =~ '.*(rRNA|lrRNA).*' RETURN g.Label, cc.Label"
+},
+{
+  "question": "Identify GO terms that are capable of being part of biological processes whose description contains the string 'cell killing'.",
+  "cypher": "MATCH (g:GO)-[:capable_of_part_of]->(bp:Biological_process) WHERE bp.Description CONTAINS 'cell killing' RETURN g.Label, bp.Label, bp.Description"
+},
+{
+  "question": "Identify GO terms whose label contains the word 'outer' and the GO terms they are bounding layers of.",
+  "cypher": "MATCH (g1:GO)-[:bounding_layer_of]->(g2:GO) WHERE g1.Label CONTAINS 'outer' RETURN g1.Label, g2.Label"
+},
+{
+  "question": "Identify biological processes that are preceded by GO terms. Include the GO term labels, the process labels, and the source of the relationship in the output.",
+  "cypher": "MATCH (bp:Biological_process)-[r:preceded_by]->(g:GO) RETURN g.Label, bp.Label, r.Source"
+},
+
+{
+  "question": "Identify phenotypes that are the quality of another phenotype such that at least one of the two phenotype label contains the string 'sub'.",
+  "cypher": "MATCH (p1:Phenotype)-[:quality_of]->(p2:Phenotype) WHERE p1.Label CONTAINS 'sub' OR p2.Label CONTAINS 'sub' RETURN p1.Label, p2.Label"
+},
+{
+  "question": "Retrieve the autoimmune diseases that have a basis in the dysfunction of GO terms. Return the entire node for the autoimmune disease and ONLY the label for the GO term.",
+  "cypher": "MATCH (ad:Autoimmune_disease)-[r:disease_has_basis_in_dysfunction_of]->(g:GO) RETURN ad, g.Label"
+},
+{
+  "question": "Identify autoimmune diseases that have a basis in the dysfunction of the cellular component labeled 'canonical inflammasome complex'. Return disease label and the sources confirming the interaction.",
+  "cypher": "MATCH (ad:Autoimmune_disease)-[r:disease_has_basis_in_dysfunction_of]->(cc:Cellular_component {Label: 'canonical inflammasome complex'}) RETURN ad.Label, r.Source"
+},
+{
+  "question": "Identify autoimmune diseases that are realized in response to a stimulus in specific cellular components. Include node label and URI in the output.",
+  "cypher": "MATCH (ad:Autoimmune_disease)-[r:realized_in_response_to_stimulus]->(cc:Cellular_component) RETURN ad.Label, ad.URI, cc.Label, cc.URI"
+},
+{
+  "question": "Identify mental diseases that are manifestations of mental diseases. Return the labels and descriptions of the involved diseases.",
+  "cypher": "MATCH (md1:Mental_disease)-[r:manifestation_of]->(md2:Mental_disease) RETURN md1.Label, md1.Description, md2.Label, md2.Description"
+},
+{
+  "question": "Identify diseases that are realized by the mental disease labeled as 'mental disease course'. Include their labels, descriptions, and URIs in the output.",
+  "cypher": "MATCH (md:Mental_disease {Label: 'mental disease course'})-[:realizes]->(d:Disease) RETURN d.Label, d.Description, d.URI"
+},
+{
+  "question": "Identify mental diseases that have an occurrent part corresponding to the disease labeled as 'pathological mental process'. Include the mental disease labels and the LABELS(disease) in the output (to show how the disease is classified).",
+  "cypher": "MATCH (md:Mental_disease)-[r:has_occurrent_part]->(d:Disease {Label: 'pathological mental process'}) RETURN md.Label, LABELS(d)"
+},
+{
+  "question": "Identify pairs of mental diseases connected by either 'realizes' or 'has occurrent part' relationship types. Return the relationship type and the source(s) confirming the interaction.",
+  "cypher": "MATCH (md1:Mental_disease)-[r:realizes|has_occurrent_part]->(md2:Mental_disease) RETURN md1.Label, md2.Label, TYPE(r), r.Source"
+},
+{
+  "question": "Identify miRNAs that are not involved in the biological process labeled as 'regulation of angiogenesis'. Return miRNA and process label, along with all the properties (PROPERTIES(r)) of the relationship.",
+  "cypher": "MATCH (m:miRNA)-[r:not_involved_in]->(bp:Biological_process {Label:'regulation of angiogenesis'}) RETURN m.Label, bp.Label, PROPERTIES(r)"
+},
+
+{
+  "question": "Find the genomic coordinates and sequences of miRNAs that are not involved in biological processes whose label contains the string 'negative regulation'. Return the miRNA sequence and genomic coordinates, along with the process label.",
+  "cypher": "MATCH (m:miRNA)-[r:not_involved_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'negative regulation' RETURN m.Sequence, m.Genomic_coordinates, bp.Label"
+},
+{
+  "question": "Find miRNAs with genomic coordinates on chromosome 19 that are not involved in biological process. Return their sequences, genomic coordinates, and the labels of the processes.",
+  "cypher": "MATCH (m:miRNA)-[r:not_involved_in]->(bp:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chr19') RETURN m.Sequence, m.Genomic_coordinates, bp.Label"
+},
+
+{
+  "question": "Identify biological processes whose description contains 'carbon', with a target start location in the cellular component labeled as 'cytosol'.",
+  "cypher": "MATCH (bp:Biological_process)-[:has_target_start_location]->(cc:Cellular_component {Label: 'cytosol'}) WHERE bp.Description CONTAINS 'carbon' RETURN bp.Label, bp.Description"
+},
+{
+  "question": "Identify cancers that predispose towards cancers whose labels contain the word 'leukemia'. Return ONLY the labels of both the predisposing and the predisposed cancers.",
+  "cypher": "MATCH (c1:Cancer)-[:predisposes_towards]->(c2:Cancer) WHERE c2.Label CONTAINS 'leukemia' RETURN c1.Label, c2.Label"
+},
+{
+  "question": "Identify cardiovascular diseases that predispose towards the neurodegenerative disease 'Leber hereditary optic neuropathy'., Include both diseases' label and the LABELS(Cardiovascular_disease) to show the full type of the cardiovascular one.",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[r:predisposes_towards]->(nd:Neurodegenerative_disease {Label: 'Leber hereditary optic neuropathy'}) RETURN cd.Label, LABELS(cd), nd.Label"
+},
+{
+  "question": "Find diseases that are realized in other diseases with the same label but different descriptions. Return their labels and descriptions.",
+  "cypher": "MATCH (d1:Disease)-[:realized_in]->(d2:Disease) WHERE d1.Label = d2.Label AND d1.Description <> d2.Description RETURN d1.Label, d1.Description, d2.Label, d2.Description"
+},
+{
+  "question": "Which cardiovascular diseases whose label ends with 'cardiomyopathy' have basis in feature of other diseases?",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[r:disease_has_basis_in_feature]->(d:Disease) WHERE cd.Label ENDS WITH 'cardiomyopathy' RETURN cd.Label, d.Label"
+},
+{
+  "question": "Which diseases are major features of cardiovascular diseases?",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[:disease_has_major_feature]->(d:Disease) RETURN cd.Label, d.Label"
+},
+{
+  "question": "Which cardiovascular diseases have basis in the feature of infectious diseases?",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[:disease_has_basis_in_feature]->(id:Infectious_disease) RETURN cd.Label, id.Label"
+},
+{
+  "question": "Which diseases share features with cardiovascular diseases? Include both diseases' label and description in the output.",
+  "cypher": "MATCH (cd:Cardiovascular_disease)-[r:disease_shares_features_of]->(d:Disease) RETURN cd.Label, cd.Description, d.Label, d.Description"
+},
+{
+  "question": "Which biological processes starting with the letter 'L' have the cellular component labeled 'vacuolar lumen' as their target end location? Include ONLY process label and description, along with the sources confirming the information in the output.",
+  "cypher": "MATCH (bp:Biological_process)-[r:has_target_end_location]->(cc:Cellular_component {Label: 'vacuolar lumen'}) WHERE bp.Label STARTS WITH 'L' RETURN bp.Label, bp.Description, r.Source"
+},
+{
+  "question": "Which biological processes have the peroxisome as their primary input? Return ONLY their label and URI.",
+  "cypher": "MATCH (bp:Biological_process)-[:has_primary_input]->(cc:Cellular_component {Label: 'peroxisome'}) RETURN bp.Label, bp.URI"
+},
+{
+  "question": "Which biological processes starting with a label 'negative regulation of DNA' negatively regulate either a biological process or a molecular function? Return the labels of the regulating process and the target, as well as the types of the target node",
+  "cypher": "MATCH (bp:Biological_process)-[:negatively_regulates]->(x) WHERE (x:Biological_process OR x:Molecular_function) AND bp.Label STARTS WITH 'negative regulation of DNA' RETURN bp.Label, x.Label, LABELS(x)"
+},
+{
+  "question": "Which biological processes containing 'endodeoxyribonuclease' in their label negatively or positively regulate molecular functions? Return the labels of the processes, the target molecular functions, and the type of regulation.",
+  "cypher": "MATCH (bp:Biological_process)-[r:negatively_regulates|positively_regulates]->(mf:Molecular_function) WHERE bp.Label CONTAINS 'endodeoxyribonuclease' RETURN bp.Label, mf.Label, TYPE(r)"
+},
+{
+  "question": "How many times do biological processes negatively or positively regulate molecular functions?",
+  "cypher": "MATCH (bp:Biological_process)-[r:negatively_regulates|positively_regulates]->(mf:Molecular_function) RETURN type(r) AS RegulationType, COUNT(*) AS Count"
+},
+{
+  "question": "Find biological processes that have exactly three sources listed as their causal agent relationships wrt. GO terms. Return the labels of the processes, the GO terms, and the source(s) confirming the interaction.",
+  "cypher": "MATCH (bp:Biological_process)-[r:process_has_causal_agent]->(g:GO) WHERE SIZE(r.Source) = 3 RETURN bp.Label, g.Label, r.Source"
+},
+{
+  "question": "Find biological processes that encompass other biological processes whose label contains 'checkpoint'. Include the labels of both the encompassing and the encompassed processes in the output.",
+  "cypher": "MATCH (bp1:Biological_process)-[r:encompasses]->(bp2:Biological_process) WHERE bp2.Label CONTAINS 'checkpoint' RETURN bp1.Label, bp2.Label"
+},
+{
+  "question": "Find biological processes whose label or description contains the word 'amine' that result in transport to, from, or within GO terms. Return the processes' label, description, and GO terms' label.",
+  "cypher": "MATCH (bp:Biological_process)-[r:results_in_transport_to_from_or_in]->(g:GO) WHERE bp.Label CONTAINS 'amine' OR bp.Description CONTAINS 'amine' RETURN bp.Label, bp.Description, g.Label"
+},
+{
+  "question": "Find GO terms whose description contains the word 'monoamine' and that form the bounding layer of other GO terms. Return 'monoamine'-like GO term's label, description, along with the labels of the bounded GO terms, and the properties of the bounding relationship (hint: use PROPERTIES(r)).",
+  "cypher": "MATCH (g1:GO)-[r:bounding_layer_of]->(g2:GO) WHERE g1.Description CONTAINS 'monoamine' RETURN g1.Label, g1.Description, g2.Label, PROPERTIES(r)"
+},
+{
+  "question": "Find biological processes whose description starts with the word 'progression' and that encompass GO terms. Return the labels of both the processes and the GO terms.",
+  "cypher": "MATCH (bp:Biological_process)-[r:encompasses]->(g:GO) WHERE bp.Description STARTS WITH 'progression' RETURN bp.Label, g.Label"
+},
+{
+  "question": "Which GO terms result in the organization of the GO term labeled as 'cell hair'",
+  "cypher": "MATCH (g1:GO)-[:results_in_organization_of]->(g2:GO {Label:'cell hair'}) RETURN g1.Label, g2.Label"
+},
+{
+  "question": "Find GO terms that result in the organization of GO terms, but only when the relationship source includes 'Uberon'. Return the labels of both GO terms and the sources.",
+  "cypher": "MATCH (g1:GO)-[r:results_in_organization_of]->(g2:GO) WHERE ANY(src IN r.Source WHERE src = 'Uberon') RETURN g1.Label, g2.Label, r.Source"
+},
+{
+  "question": "Find GO terms that result in the organization of other GO terms where the relationship source includes ALL the following sources: 'CLO', 'GO', and 'Uberon'. Return the label of both GO terms along with the sources.",
+  "cypher": "MATCH (g1:GO)-[r:results_in_organization_of]->(g2:GO) WHERE ALL(src IN ['CLO','GO','Uberon'] WHERE src IN r.Source) RETURN g1.Label, g2.Label, r.Source"
+},
+{
+  "question": "Find miRNAs directly regulated by the miRNA 'hsa-miR-320d'. Return the labels of both the regulator and the target miRNAs, as well as the properties of the regulation relationship.",
+  "cypher": "MATCH (m1:miRNA {Label:'hsa-miR-320d'})-[r:directly_regulates_activity_of]->(m2:miRNA) RETURN m1.Label, m2.Label, PROPERTIES(r)"
+},
+{
+  "question": "Find pairs of miRNAs that genetically interact such that: 1) the first miRNA has at least one genomic coordinate on chromosome 16; 2) the second miRNA has no coordinates on chromosome 16. Retun the labels and genomic coordinates of both miRNAs.",
+  "cypher": "MATCH (m1:miRNA)-[:genetically_interacts_with]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord CONTAINS 'chr16') AND NONE(coord IN m2.Genomic_coordinates WHERE coord CONTAINS 'chr16') RETURN m1.Label, m1.Genomic_coordinates, m2.Label, m2.Genomic_coordinates"
+},
+{
+  "question": "Find miRNAs that are in a homology relationship with pre-miRNAs where the miRNA has at least one genomic coordinate on chromosome X and the pre-miRNA has at least one genomic coordinate on chromosome Y. Return the labels and genomic coordinates of miRNAs and pre-miRNAs.",
+  "cypher": "MATCH (m:miRNA)-[:in_homology_relationship_with]->(p:pre_miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chrX') AND ANY(coord IN p.Genomic_coordinates WHERE coord CONTAINS 'chrY') RETURN m.Label, m.Genomic_coordinates, p.Label, p.Genomic_coordinates"
+},
+{
+  "question": "Find miRNAs that are in a homology relationship with pre-miRNAs where both the miRNA and the pre-miRNA have at least one genomic coordinate on chromosome Y. Return the labels and genomic coordinates of both involved entities.",
+  "cypher": "MATCH (m:miRNA)-[:in_homology_relationship_with]->(p:pre_miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord CONTAINS 'chrY') AND ANY(coord IN p.Genomic_coordinates WHERE coord CONTAINS 'chrY') RETURN m.Label, m.Genomic_coordinates, p.Label, p.Genomic_coordinates"
+},
+{
+  "question": "Find pre-miRNAs that have parts occurring in GO terms. Return the GO term label, pre-miRNA label and their genomic coordinates, and the sources confirming the relationship.",
+  "cypher": "MATCH (p:pre_miRNA)-[r:has_part_that_occurs_in]->(g:GO) RETURN g.Label, p.Label, p.Genomic_coordinates, r.Source"
+},
+
+{
+  "question": "Find miRNAs that act upstream of or within biological processes whose label starts with 'positive regulation'. Return the miRNA labels, biological process labels, the miRNAs' genomic coordinates, and the GO evidence for the relationship.",
+  "cypher": "MATCH (m:miRNA)-[r:acts_upstream_of_or_within]->(bp:Biological_process) WHERE bp.Label STARTS WITH 'positive regulation' RETURN m.Label, bp.Label, m.Genomic_coordinates, r.GO_evidence"
+},
+{
+  "question": "Find cancers or phenotypes in which the miRNA 'hsa-miR-520f-3p' acts as a causal somatic mutation. Return the miRNA label, the target label, the type of the target (LABELS), and mutations.",
+  "cypher": "MATCH (m:miRNA {Label:'hsa-miR-520f-3p'})-[r:is_causal_somatic_mutation_in]->(x) WHERE x:Cancer OR x:Phenotype RETURN m.Label, x.Label,  LABELS(x), r.Mutation"
+},
+{
+  "question": "Find miRNAs that act as causal somatic mutations in cancers where the mutation list contains more than 5 entries. Return the miRNA label, cancer label, miRNA genomic coordinates, and the number of mutations.",
+  "cypher": "MATCH (m:miRNA)-[r:is_causal_somatic_mutation_in]->(c:Cancer) WHERE SIZE(r.Mutation) > 5 RETURN m.Label, c.Label, m.Genomic_coordinates, SIZE(r.Mutation)"
+},
+
+{
+  "question": "Find miRNAs that act as causal germline mutations in diseases where the 'Interactor' of the relationship is not null. Return the miRNA label, disease label, miRNA genomic coordinates, and the mutations.",
+  "cypher": "MATCH (m:miRNA)-[r:is_causal_germline_mutation_in]->(d:Disease) WHERE r.Interactor IS NOT NULL RETURN m.Label, d.Label, m.Genomic_coordinates, r.Mutation"
+}
+
+
+]

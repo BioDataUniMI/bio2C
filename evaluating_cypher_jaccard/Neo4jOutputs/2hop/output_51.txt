@@ -1,0 +1,30 @@
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-302a-5p"
+}
+
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-143-3p"
+}
+
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-196b-5p"
+}
+
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-199a-5p"
+}
+
+{
+  "Disease": "pregnancy loss, recurrent, susceptibility",
+  "BiologicalProcess": "female pregnancy",
+  "miRNA": "hsa-miR-16-5p"
+}
+

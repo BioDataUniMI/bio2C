@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:in_similarity_relationship_with]->(m2) WHERE (m2:miRNA OR m2:pre_miRNA) AND SIZE(m1.Sequence) < 50 RETURN m2.Label AS Similar_to, LABELS(m2) AS Target_Type, SIZE(m1.Sequence) AS Source_Sequence_Length

@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of genes such that: 1) the miRNA has genomic coordinates starting with at least 3 different chromosome prefixes and 2) the gene has genomic coordinates starting with 'chrX'? Return the miRNA label and the gene label.

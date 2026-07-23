@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'disability syndrome' AND d.Description CONTAINS 'recessive' RETURN d.Label AS Disease, d.ID AS ID

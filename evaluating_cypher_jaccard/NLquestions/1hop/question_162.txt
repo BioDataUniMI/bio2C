@@ -1,0 +1,1 @@
+List all miRNAs that enable the GO term labeled as 'lncRNA binding'. Return the miRNA label and the PubMed IDs associated with the relationship.

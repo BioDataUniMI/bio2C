@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[r:develops_from]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord =~ 'chr[A-Za-z].*') AND ANY(coord2 IN m2.Genomic_coordinates WHERE coord2 =~ 'chr[A-Za-z].*') AND m1.Label ENDS WITH '0' RETURN m1.Label, m2.Label, r.Source, m1.Genomic_coordinates, m2.Genomic_coordinates

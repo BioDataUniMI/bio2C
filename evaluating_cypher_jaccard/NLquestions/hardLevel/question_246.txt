@@ -1,0 +1,1 @@
+Find Cellular Components where at least 3 different miRNAs located in it end with the same 10 nucleotides. Return the cellular component label, the shared last 10 nucleotides, the list of miRNAs, and the number of miRNAs.

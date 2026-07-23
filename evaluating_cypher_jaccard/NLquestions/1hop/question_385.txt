@@ -1,0 +1,1 @@
+List biological processes that negatively regulate other biological processes where either the regulator or the target process has 'hyperpolarization' in its label.

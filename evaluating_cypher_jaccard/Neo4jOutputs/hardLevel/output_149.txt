@@ -1,0 +1,25 @@
+{
+  "Label": "epidermal growth factor catabolic process",
+  "DescriptionSnippet": "the chemical reactions and pathways resulting in the breakdown of "
+}
+
+{
+  "Label": "hormone catabolic process",
+  "DescriptionSnippet": "the chemical reactions and pathways resulting in the breakdown of "
+}
+
+{
+  "Label": "negative regulation of low-density lipoprotein particle receptor catabolic process",
+  "DescriptionSnippet": "any process that stops, prevents, or reduces the frequency, rate "
+}
+
+{
+  "Label": "receptor metabolic process",
+  "DescriptionSnippet": "the chemical reactions and pathways involving a receptor molecule, a "
+}
+
+{
+  "Label": "phytochrome chromophore biosynthetic process",
+  "DescriptionSnippet": "the chemical reactions and pathways resulting in the formation of "
+}
+

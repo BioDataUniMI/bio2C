@@ -1,0 +1,30 @@
+{
+  "RelationType": "is_causal_germline_mutation_in",
+  "Disease": "asthma",
+  "miRNA": "hsa-miR-152-5p"
+}
+
+{
+  "RelationType": "is_causal_germline_mutation_in",
+  "Disease": "schizophrenia",
+  "miRNA": "hsa-miR-137-3p"
+}
+
+{
+  "RelationType": "is_causal_germline_mutation_in",
+  "Disease": "endogenous depression",
+  "miRNA": "hsa-miR-1224-5p"
+}
+
+{
+  "RelationType": "is_causal_germline_mutation_in",
+  "Disease": "major depressive disorder",
+  "miRNA": "hsa-miR-1224-5p"
+}
+
+{
+  "RelationType": "is_causal_germline_mutation_in",
+  "Disease": "asthma",
+  "miRNA": "hsa-miR-148b-3p"
+}
+

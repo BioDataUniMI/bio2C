@@ -1,0 +1,1 @@
+Find miRNAs that act as causal somatic mutations in cancers where the mutation list contains more than 5 entries. Return the miRNA label, cancer label, miRNA genomic coordinates, and the number of mutations.

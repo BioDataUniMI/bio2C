@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Label STARTS WITH 'ATPase' AND NOT (mf)-[:regulated_by]->() RETURN mf.Label

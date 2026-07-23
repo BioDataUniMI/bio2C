@@ -1,0 +1,1 @@
+What is the average length of the top 5 genes, ranked by sequence length in descending order, among genes that transcribe precursor miRNAs involved in biological processes positively regulated by other biological processes, breaking ties by gene label in ascending alphabetical order?

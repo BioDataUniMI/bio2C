@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-204-5p",
+  "Gene": "ELOVL6",
+  "CardiovascularDisease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+
+{
+  "miRNA": "hsa-miR-211-5p",
+  "Gene": "ELOVL6",
+  "CardiovascularDisease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+

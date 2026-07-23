@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE d.Label CONTAINS 'celiac disease, susceptibility to' RETURN COUNT(d) AS count

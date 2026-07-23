@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:participates_in]->(go:GO)<-[:has_part]-(bp:Biological_process) WHERE g.Label ENDS WITH 'B' RETURN g.Label AS Gene, m.Label AS miRNA, go.Label AS GOterm, bp.Label AS BiologicalProcess

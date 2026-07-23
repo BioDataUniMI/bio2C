@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'chromosome' AND (cc.Label CONTAINS 'X' OR cc.Label CONTAINS 'Y' OR cc.Label CONTAINS 'Z') RETURN cc.Label, cc.ID

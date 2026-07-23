@@ -1,0 +1,1 @@
+Which miRNAs whose labels end with 'a-5p' are over-expressed in the neurodegenerative disease labeled as 'Alzheimer disease' that has the phenotype 'Semantic dementia', and which diseases are associated with this phenotype?

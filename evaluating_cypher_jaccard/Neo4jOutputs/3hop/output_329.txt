@@ -1,0 +1,25 @@
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "amyopathic dermatomyositis"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "Singleton-Merten syndrome 1"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "lupus erythematosus tumidus"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "familial chilblain lupus"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "neonatal lupus erythematosus"
+}
+

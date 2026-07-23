@@ -1,0 +1,14 @@
+{
+  "Genes": [
+    "http://www.ncbi.nlm.nih.gov/gene/101096131",
+    "http://www.ncbi.nlm.nih.gov/gene/103347222",
+    "http://www.ncbi.nlm.nih.gov/gene/474985",
+    "http://www.ncbi.nlm.nih.gov/gene/476255",
+    "http://www.ncbi.nlm.nih.gov/gene/478018",
+    "http://www.ncbi.nlm.nih.gov/gene/478798",
+    "http://www.ncbi.nlm.nih.gov/gene/482186",
+    "http://www.ncbi.nlm.nih.gov/gene/484357",
+    "http://www.ncbi.nlm.nih.gov/gene/485187"
+  ]
+}
+

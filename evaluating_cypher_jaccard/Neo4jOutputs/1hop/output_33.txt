@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Disease_label": "gastrointestinal stromal tumor",
+  "Disease_description": "gastrointestinal stromal tumor (gist) is the most common mesenchymal neoplasm of the gastrointest..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Disease_label": "heart failure",
+  "Disease_description": "inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. c..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Disease_label": "myocardial infarction",
+  "Disease_description": "gross necrosis of the myocardium, as a result of interruption of the blood supply to the area, as..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Disease_label": "congestive heart failure",
+  "Disease_description": "failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, ..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-25 precursor",
+  "Disease_label": "cerebrovascular disorder",
+  "Disease_description": "a disorder resulting from inadequate blood flow in the vessels that supply the brain. representat..."
+}
+

@@ -1,0 +1,1 @@
+Find GO terms whose labels contain 'dopamine' and whose descriptions contain both the words 'catalysis' and '+'.

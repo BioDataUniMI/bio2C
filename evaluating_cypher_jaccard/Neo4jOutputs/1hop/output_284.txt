@@ -1,0 +1,16 @@
+{
+  "Disease": "multibacillary leprosy",
+  "TriggeredProcess": "type 2 immune response",
+  "Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "Disease": "paucibacillary leprosy",
+  "TriggeredProcess": "T-helper 1 type immune response",
+  "Source": [
+    "Mondo"
+  ]
+}
+

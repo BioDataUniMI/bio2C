@@ -1,0 +1,4 @@
+{
+  "nLocationRelationships": 49
+}
+

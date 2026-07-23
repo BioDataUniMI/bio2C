@@ -1,0 +1,24 @@
+{
+  "CellularComponent": "plastid mRNA editing complex",
+  "cc.ID": "GO:0031020"
+}
+
+{
+  "CellularComponent": "U12-type post-mRNA release spliceosomal complex",
+  "cc.ID": "GO:0071019"
+}
+
+{
+  "CellularComponent": "tRNA-guanine transglycosylase complex",
+  "cc.ID": "GO:0120507"
+}
+
+{
+  "CellularComponent": "tRNA-intron endonuclease complex",
+  "cc.ID": "GO:0000214"
+}
+
+{
+  "CellularComponent": "methionyl glutamyl tRNA synthetase complex",
+  "cc.ID": "GO:0017102"
+}

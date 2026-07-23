@@ -1,0 +1,4 @@
+{
+  "d.Label": "Alkhurma hemorrhagic fever"
+}
+

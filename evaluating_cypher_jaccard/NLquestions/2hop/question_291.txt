@@ -1,0 +1,1 @@
+Identify the cellular components containing miRNAs expressed in the disease labeled as 'asthma'. Return the miRNA and cellular component labels.

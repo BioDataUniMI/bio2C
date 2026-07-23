@@ -1,0 +1,1 @@
+Which GO terms are characterized by a 'Description' property containing the word 'synapt' at least 5 times? List only the GO labels.

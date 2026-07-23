@@ -1,0 +1,1 @@
+Identify the GO terms whose disruption cause diseases caused or contributed to by genes having activity regulated by the miRNA 'hsa-miR-1291'. Return the labels of: the gene, the disease, and the GO term.

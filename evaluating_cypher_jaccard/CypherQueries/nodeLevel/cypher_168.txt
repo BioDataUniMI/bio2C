@@ -1,0 +1,1 @@
+MATCH (c:Cellular_component) WHERE c.Description CONTAINS 'giardia species' RETURN c.Label AS CellularComponent, c.Description AS Description

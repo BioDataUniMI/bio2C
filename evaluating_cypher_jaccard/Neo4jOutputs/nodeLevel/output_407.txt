@@ -1,0 +1,6 @@
+{
+  "bp.Label": "cellular homeostasis",
+  "bp.Description": "any process involved in the maintenance of an internal steady state at the level of the cell.",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0019725"
+}
+

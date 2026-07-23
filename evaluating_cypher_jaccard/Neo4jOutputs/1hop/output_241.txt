@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "hsa-miR-3160-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "hsa-miR-4668-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "hsa-miR-4738-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "hsa-miR-1307-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+

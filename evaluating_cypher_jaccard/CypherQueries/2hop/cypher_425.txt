@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA {Label:'microRNA hsa-mir-744 precursor'})-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) RETURN g.Label AS Gene, m.Label AS miRNA

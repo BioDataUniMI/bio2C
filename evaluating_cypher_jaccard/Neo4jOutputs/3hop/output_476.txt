@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+

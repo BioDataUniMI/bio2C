@@ -1,0 +1,35 @@
+{
+  "GOterm": "myoblast differentiation",
+  "miRNA": "microRNA hsa-mir-106a precursor",
+  "Cancer": "esophageal squamous cell carcinoma",
+  "SuperclassDisease": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "myoblast differentiation",
+  "miRNA": "microRNA hsa-mir-106a precursor",
+  "Cancer": "esophageal squamous cell carcinoma",
+  "SuperclassDisease": "squamous cell carcinoma"
+}
+
+{
+  "GOterm": "myoblast differentiation",
+  "miRNA": "microRNA hsa-mir-17 precursor",
+  "Cancer": "esophageal squamous cell carcinoma",
+  "SuperclassDisease": "carcinoma of esophagus"
+}
+
+{
+  "GOterm": "myoblast differentiation",
+  "miRNA": "microRNA hsa-mir-17 precursor",
+  "Cancer": "esophageal squamous cell carcinoma",
+  "SuperclassDisease": "squamous cell carcinoma"
+}
+
+{
+  "GOterm": "myoblast differentiation",
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Cancer": "esophageal squamous cell carcinoma",
+  "SuperclassDisease": "carcinoma of esophagus"
+}
+

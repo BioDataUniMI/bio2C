@@ -1,0 +1,1 @@
+Which genes with two-character labels cause or contribute to the disease labeled 'hepatitis' through miRNAs that regulate their activity? Return the labels of the miRNA, the gene, and the disease.

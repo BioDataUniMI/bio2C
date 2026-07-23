@@ -1,0 +1,4 @@
+{
+  "CellularComponent": "condensed chromatin of inactivated sex chromosome"
+}
+

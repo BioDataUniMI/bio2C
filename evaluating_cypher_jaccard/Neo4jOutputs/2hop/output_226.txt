@@ -1,0 +1,25 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "Phenotype": "Abnormal cell morphology"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "Phenotype": "Abnormal nervous system physiology"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "Phenotype": "Fatigue"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "Phenotype": "Glioblastoma multiforme"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-106b precursor",
+  "Phenotype": "Paralysis"
+}
+

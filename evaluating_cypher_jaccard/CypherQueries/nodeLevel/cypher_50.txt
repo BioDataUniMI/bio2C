@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Species:'Homo sapiens'}) WHERE m.Label STARTS WITH 'hsa-miR-' AND SIZE(m.Sequence) >= 26 AND SIZE(m.Sequence) <= 30 RETURN  m.Label AS miRNA, SIZE(m.Sequence) AS Length

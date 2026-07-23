@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WITH m ORDER BY SIZE(m.Sequence) ASC RETURN COLLECT(m.Label)[0..7] AS Example_miRNAs, COLLECT(SIZE(m.Sequence))[0..7] AS Sequence_lengths

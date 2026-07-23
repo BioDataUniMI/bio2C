@@ -1,0 +1,1 @@
+Identify diseases that have the phenotype labeled 'Short hallux' as phenotype and cause disruption of biological processes. Return the disease and disrupted process labels.

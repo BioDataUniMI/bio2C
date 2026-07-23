@@ -1,0 +1,1 @@
+Which autoimmune diseases mentioning 'diabetes' have a non-empty description?

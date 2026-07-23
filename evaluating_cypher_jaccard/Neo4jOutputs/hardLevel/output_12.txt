@@ -1,0 +1,54 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-876 precursor",
+  "p": {
+    "Description": "the presence of a carcinoma of the thyroid gland.",
+    "Label": "Thyroid carcinoma",
+    "Synonym": [
+      "Carcinoma de tiroides",
+      "甲状腺癌",
+      "Karcinom štítné žlázy",
+      "Carcinome de la thyroïde",
+      "Schildklier carcinoom",
+      "Tiroid karsinomu"
+    ],
+    "ID": "HP:0002890",
+    "URI": "http://purl.obolibrary.org/obo/HP_0002890"
+  }
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1324 precursor",
+  "p": {
+    "Description": "the presence of a carcinoma of the thyroid gland.",
+    "Label": "Thyroid carcinoma",
+    "Synonym": [
+      "Carcinoma de tiroides",
+      "甲状腺癌",
+      "Karcinom štítné žlázy",
+      "Carcinome de la thyroïde",
+      "Schildklier carcinoom",
+      "Tiroid karsinomu"
+    ],
+    "ID": "HP:0002890",
+    "URI": "http://purl.obolibrary.org/obo/HP_0002890"
+  }
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1275 precursor",
+  "p": {
+    "Description": "the presence of a carcinoma of the thyroid gland.",
+    "Label": "Thyroid carcinoma",
+    "Synonym": [
+      "Carcinoma de tiroides",
+      "甲状腺癌",
+      "Karcinom štítné žlázy",
+      "Carcinome de la thyroïde",
+      "Schildklier carcinoom",
+      "Tiroid karsinomu"
+    ],
+    "ID": "HP:0002890",
+    "URI": "http://purl.obolibrary.org/obo/HP_0002890"
+  }
+}
+

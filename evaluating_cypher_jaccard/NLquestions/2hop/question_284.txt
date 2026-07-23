@@ -1,0 +1,1 @@
+Which GO terms are characteristic of phenotypes whose label contains the string 'Decreased response' and diseases with label containing the word 'obesity' have this specific phenotype?

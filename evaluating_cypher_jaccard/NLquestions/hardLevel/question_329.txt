@@ -1,0 +1,1 @@
+Identify genes that transcribe miRNAs whose functions are GO terms disrupted by cancer (the cancer cause their disruption). Order results by the last letter of the gene label (alphabetically), breaking ties by gene label. Return the cancer label, disrupted GO term label, miRNA label, and gene label.

@@ -1,0 +1,24 @@
+{
+  "Gene": "MIR548AT",
+  "Pre_miRNA": "microRNA hsa-mir-548at precursor",
+  "Mature_miRNA": "hsa-miR-548at-5p"
+}
+
+{
+  "Gene": "MIR548AT",
+  "Pre_miRNA": "microRNA hsa-mir-548at precursor",
+  "Mature_miRNA": "hsa-miR-548at-3p"
+}
+
+{
+  "Gene": "MIR548T",
+  "Pre_miRNA": "microRNA hsa-mir-548t precursor",
+  "Mature_miRNA": "hsa-miR-548t-5p"
+}
+
+{
+  "Gene": "MIR548T",
+  "Pre_miRNA": "microRNA hsa-mir-548t precursor",
+  "Mature_miRNA": "hsa-miR-548t-3p"
+}
+

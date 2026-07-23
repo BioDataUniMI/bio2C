@@ -1,0 +1,1 @@
+Identify phenotypes that are characteristic of diseases whose label contains the string '72' and for which GO terms are known to describe those phenotypes, return the disease, phenotype, and GO term labels.

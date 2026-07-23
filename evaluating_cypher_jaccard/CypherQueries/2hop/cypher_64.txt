@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) WHERE NOT m.Label ENDS WITH 'precursor' RETURN COUNT(DISTINCT pm) AS TotalPre_miRNAs, COUNT(DISTINCT m) AS TotalMature_miRNAs

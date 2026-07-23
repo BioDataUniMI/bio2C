@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-27a-3p",
+  "Cancer": "cervical adenocarcinoma",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-135b-5p",
+  "Cancer": "triple-negative breast carcinoma",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "microRNA hsa-mir-146a precursor",
+  "Cancer": "medulloblastoma",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-181d-3p",
+  "Cancer": "medulloblastoma",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-214-3p",
+  "Cancer": "medulloblastoma",
+  "RNAsister_score": 0.968971
+}
+

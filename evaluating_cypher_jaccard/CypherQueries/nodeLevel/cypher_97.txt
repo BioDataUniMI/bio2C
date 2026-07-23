@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'adaptive immune response' RETURN g.Label AS GOTerm

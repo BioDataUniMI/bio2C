@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-106a-5p",
+  "BiologicalProcess": "mitotic sister chromatid segregation",
+  "GOterm": "mitotic spindle elongation"
+}
+
+{
+  "miRNA": "hsa-let-7e-5p",
+  "BiologicalProcess": "mitotic sister chromatid segregation",
+  "GOterm": "mitotic spindle elongation"
+}
+
+{
+  "miRNA": "hsa-miR-106a-5p",
+  "BiologicalProcess": "mitotic sister chromatid segregation",
+  "GOterm": "mitotic chromosome condensation"
+}
+
+{
+  "miRNA": "hsa-let-7e-5p",
+  "BiologicalProcess": "mitotic sister chromatid segregation",
+  "GOterm": "mitotic chromosome condensation"
+}
+
+{
+  "miRNA": "hsa-miR-106a-5p",
+  "BiologicalProcess": "mitotic sister chromatid segregation",
+  "GOterm": "mitotic chromosome movement towards spindle pole"
+}
+

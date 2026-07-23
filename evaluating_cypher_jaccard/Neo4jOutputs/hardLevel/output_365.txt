@@ -1,0 +1,4 @@
+{
+  "AvgSharedPhenotypes": 28.259751037344305
+}
+

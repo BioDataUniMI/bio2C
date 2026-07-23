@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function {Label:'death receptor activity'})<-[:has_part]-(bp:Biological_process)<-[:participates_in]-(m:miRNA)<-[:expresses]-(c:Cancer) RETURN bp.Label AS BiologicalProcess, m.Label AS miRNA, c.Label AS Cancer

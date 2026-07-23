@@ -1,0 +1,25 @@
+{
+  "InfectiousDisease": "Kunjin virus infectous disease",
+  "Description": "a west nile encephalitis that results in infection located in brain, has material basis in kunjin..."
+}
+
+{
+  "InfectiousDisease": "parainfluenza virus type 3 infectious disease",
+  "Description": "parainfluenza virus type 3 is one of a group of common viruses known as human parainfluenza virus..."
+}
+
+{
+  "InfectiousDisease": "arbovirus fever",
+  "Description": "arbovirosis are polymorphic diseases caused by arboviruses and are classically characterized by e..."
+}
+
+{
+  "InfectiousDisease": "hantavirus infectious disease",
+  "Description": "any infection caused by a virus of the genus hantavirus, which is transmitted by aerosolized rode..."
+}
+
+{
+  "InfectiousDisease": "arenavirus hemorrhagic fever",
+  "Description": "a viral infectious disease that involves fever and bleeding disorder caused by arenavirus."
+}
+

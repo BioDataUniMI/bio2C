@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+

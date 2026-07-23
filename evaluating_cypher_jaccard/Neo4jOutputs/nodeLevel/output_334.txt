@@ -1,0 +1,30 @@
+{
+  "CancerLabel": "paraneoplastic pemphigus",
+  "ID": "MONDO:0018974",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0018974"
+}
+
+{
+  "CancerLabel": "anal margin basal cell carcinoma",
+  "ID": "MONDO:0002940",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0002940"
+}
+
+{
+  "CancerLabel": "mucoepidermoid breast carcinoma",
+  "ID": "MONDO:0003087",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0003087"
+}
+
+{
+  "CancerLabel": "primary lymphoma of the conjunctiva",
+  "ID": "MONDO:0017907",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0017907"
+}
+
+{
+  "CancerLabel": "extragonadal teratoma",
+  "ID": "MONDO:0019500",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0019500"
+}
+

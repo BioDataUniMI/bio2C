@@ -1,0 +1,52 @@
+{
+  "miRNA": "hsa-miR-425-3p",
+  "Disease": "adult glioblastoma",
+  "FDR": 0.000443738,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181b-5p",
+  "Disease": "adult glioblastoma",
+  "FDR": 0.004965236,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "Disease": "adult glioblastoma",
+  "FDR": 8.000000000000001e-24,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-128-3p",
+  "Disease": "adult glioblastoma",
+  "FDR": 0.0015740646666666,
+  "Methods": [
+    "northern blotting",
+    "quantitative reverse transcriptase pcr"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Disease": "adult glioblastoma",
+  "FDR": 8.550000000000312e-22,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

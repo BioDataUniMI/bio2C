@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-182-3p",
+  "biological_process": "autophagy",
+  "regulating_process": "negative regulation of autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-210-3p",
+  "biological_process": "autophagy",
+  "regulating_process": "negative regulation of autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-25-3p",
+  "biological_process": "autophagy",
+  "regulating_process": "negative regulation of autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-885-3p",
+  "biological_process": "autophagy",
+  "regulating_process": "negative regulation of autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-320a-3p",
+  "biological_process": "autophagy",
+  "regulating_process": "negative regulation of autophagy"
+}
+

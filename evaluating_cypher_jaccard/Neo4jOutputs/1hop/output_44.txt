@@ -1,0 +1,25 @@
+{
+  "Phenotype_label": "Acute promyelocytic leukemia",
+  "miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "Phenotype_label": "Acute myeloid leukemia",
+  "miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "Phenotype_label": "B Acute Lymphoblastic Leukemia",
+  "miRNA": "hsa-miR-1275"
+}
+
+{
+  "Phenotype_label": "Acute myeloid leukemia",
+  "miRNA": "hsa-miR-543"
+}
+
+{
+  "Phenotype_label": "Acute lymphoblastic leukemia",
+  "miRNA": "hsa-miR-198"
+}
+

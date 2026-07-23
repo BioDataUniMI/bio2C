@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(g:GO) WHERE d.Label CONTAINS 'infections' RETURN d.Label AS Disease, p.Label AS Phenotype, g.Label AS GOterm

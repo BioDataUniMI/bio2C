@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'DNA' AND g.Label CONTAINS 'RNA' AND (g.Label CONTAINS 'gene silencing' OR g.Description CONTAINS 'gene silencing') RETURN g.Label, LABELS(g)

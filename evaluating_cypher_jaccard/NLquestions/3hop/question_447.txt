@@ -1,0 +1,1 @@
+Retrieve the labels and descriptions of the phenotypes of diseases that are superclasses of cancers whose label contains the word 'childhood' and where 'hsa-miR-429' miRNA are over-expressed. Return also the involved miRNAs label, cancers label, diseases label.

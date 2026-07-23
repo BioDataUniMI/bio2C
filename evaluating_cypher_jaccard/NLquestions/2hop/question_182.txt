@@ -1,0 +1,1 @@
+Consider miRNAs whose label contains the string '133a-5p'. List the GO terms they are located in and the corresponding cellular components the GO terms have as a part.

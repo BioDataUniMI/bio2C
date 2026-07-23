@@ -1,0 +1,18 @@
+{
+  "Biological_Process": "apoptotic process",
+  "miRNA": "hsa-miR-1-3p",
+  "Sequence": "UGGAAUGUAAAGAAGUAUGUAU"
+}
+
+{
+  "Biological_Process": "apoptotic process",
+  "miRNA": "hsa-miR-206",
+  "Sequence": "UGGAAUGUAAGGAAGUGUGUGG"
+}
+
+{
+  "Biological_Process": "apoptotic process",
+  "miRNA": "hsa-let-7a-5p",
+  "Sequence": "UGAGGUAGUAGGUUGUAUAGUU"
+}
+

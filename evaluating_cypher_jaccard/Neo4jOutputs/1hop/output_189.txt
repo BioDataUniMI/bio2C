@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-137-3p",
+  "Disease": "schizophrenia",
+  "Sources": [
+    "PolymiRTS"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548d-3p",
+  "Disease": "major depressive disorder",
+  "Sources": [
+    "PolymiRTS"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548d-3p",
+  "Disease": "endogenous depression",
+  "Sources": [
+    "PolymiRTS"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1224-5p",
+  "Disease": "major depressive disorder",
+  "Sources": [
+    "PolymiRTS"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1224-5p",
+  "Disease": "endogenous depression",
+  "Sources": [
+    "PolymiRTS"
+  ]
+}
+

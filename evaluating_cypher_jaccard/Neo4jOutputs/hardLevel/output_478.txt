@@ -1,0 +1,30 @@
+{
+  "diseaseType": "Autoimmune_disease",
+  "expressionType": "over_expressed",
+  "miRNACount": 9
+}
+
+{
+  "diseaseType": "Autoimmune_disease",
+  "expressionType": "under_expressed",
+  "miRNACount": 18
+}
+
+{
+  "diseaseType": "Cancer",
+  "expressionType": "over_expressed",
+  "miRNACount": 2917
+}
+
+{
+  "diseaseType": "Cancer",
+  "expressionType": "under_expressed",
+  "miRNACount": 2919
+}
+
+{
+  "diseaseType": "Cardiovascular_disease",
+  "expressionType": "over_expressed",
+  "miRNACount": 50
+}
+

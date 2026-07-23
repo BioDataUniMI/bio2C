@@ -1,0 +1,1 @@
+List GO terms whose descriptions mention 'outer mitochondrial membrane'. Return only the node labels.

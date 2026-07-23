@@ -1,0 +1,1 @@
+Which experimental methods report that certain miRNAs with sequence equal to 22 are under-expressed in neurodegenerative diseases whose description contains 'progressive'?

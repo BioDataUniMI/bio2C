@@ -1,0 +1,25 @@
+{
+  "g.Label": "symbiont-mediated activation of host apoptosis",
+  "g.ID": "GO:0052151"
+}
+
+{
+  "g.Label": "positive regulation of execution phase of apoptosis",
+  "g.ID": "GO:1900119"
+}
+
+{
+  "g.Label": "regulation of execution phase of apoptosis",
+  "g.ID": "GO:1900117"
+}
+
+{
+  "g.Label": "symbiont-mediated perturbation of host apoptosis",
+  "g.ID": "GO:0052150"
+}
+
+{
+  "g.Label": "negative regulation of execution phase of apoptosis",
+  "g.ID": "GO:1900118"
+}
+

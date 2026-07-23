@@ -1,0 +1,28 @@
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "sporadic amyotrophic lateral sclerosis"
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "amyotrophic lateral sclerosis type 1"
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "amyotrophic lateral sclerosis type 4"
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "familial amyotrophic lateral sclerosis"
+}
+

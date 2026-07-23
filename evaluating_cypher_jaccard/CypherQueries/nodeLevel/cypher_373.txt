@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease) WHERE i.Description CONTAINS 'psychotropic medications' RETURN i.Label AS DiseaseLabel, i.ID

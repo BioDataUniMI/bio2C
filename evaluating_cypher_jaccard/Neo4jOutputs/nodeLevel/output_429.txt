@@ -1,0 +1,25 @@
+{
+  "g.Label": "3' transitive RNA interference",
+  "g.ID": "GO:1990515"
+}
+
+{
+  "g.Label": "siRNA-mediated gene silencing by mRNA destabilization",
+  "g.ID": "GO:0090625"
+}
+
+{
+  "g.Label": "RNA polymerase IV complex",
+  "g.ID": "GO:0000418"
+}
+
+{
+  "g.Label": "siRNA catabolic process",
+  "g.ID": "GO:0140746"
+}
+
+{
+  "g.Label": "siRNA processing",
+  "g.ID": "GO:0030422"
+}
+

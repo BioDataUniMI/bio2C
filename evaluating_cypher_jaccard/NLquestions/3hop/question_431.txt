@@ -1,0 +1,1 @@
+How many different diseases are caused or contributed to by target genes regulated by miRNAs developed from pre-miRNAs transcribed from known genes? Return ONLY the count of distinct diseases.

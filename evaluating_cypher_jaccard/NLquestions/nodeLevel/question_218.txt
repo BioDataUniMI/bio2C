@@ -1,0 +1,1 @@
+How many genes have labels ending with a consonant?

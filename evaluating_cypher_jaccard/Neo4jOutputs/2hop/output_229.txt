@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-5195 precursor",
+  "Regulator_miRNA": "hsa-miR-5195-3p",
+  "GeneSequenceLength": 78301
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-145 precursor",
+  "Regulator_miRNA": "hsa-miR-145-5p",
+  "GeneSequenceLength": 78301
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-19a precursor",
+  "Regulator_miRNA": "hsa-miR-19a-3p",
+  "GeneSequenceLength": 78301
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-19b precursor (hsa-mir-19b-1)",
+  "Regulator_miRNA": "hsa-miR-19b-3p",
+  "GeneSequenceLength": 78301
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-19b precursor (hsa-mir-19b-2)",
+  "Regulator_miRNA": "hsa-miR-19b-3p",
+  "GeneSequenceLength": 78301
+}
+

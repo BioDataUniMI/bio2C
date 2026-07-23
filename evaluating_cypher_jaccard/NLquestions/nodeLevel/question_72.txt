@@ -1,0 +1,1 @@
+What is the average sequence length of human miRNAs whose sequence ends with an 'A'?

@@ -1,0 +1,1 @@
+Find the infectious diseases whose labels do not ends with 'osis' and whose description contains the word 'mortality' or the word 'death'. Return only disease labels.

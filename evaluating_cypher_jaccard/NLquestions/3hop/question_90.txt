@@ -1,0 +1,1 @@
+For the molecular function 'kainate selective glutamate receptor activity', find the GO term it is a subclass of. Filter only GO term starting a biological process having as participant a miRNA. Also retrieve the source providing evidence for the last relationship. Return the label for the GO term, the miRNA  and the biological process, and the sources.

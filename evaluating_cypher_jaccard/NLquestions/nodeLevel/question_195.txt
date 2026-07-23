@@ -1,0 +1,1 @@
+List the labels of all molecular functions with descriptions containing 'phosphatase'.

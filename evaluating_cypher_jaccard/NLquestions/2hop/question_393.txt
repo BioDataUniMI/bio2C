@@ -1,0 +1,1 @@
+Which cardiovascular diseases have phenotypes that are disease features of cancers in which the miRNA 'hsa-miR-1229-5p' is over-expressed? Return the label of cancers and phenotypes involved.

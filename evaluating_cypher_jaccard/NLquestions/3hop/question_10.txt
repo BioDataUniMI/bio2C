@@ -1,0 +1,1 @@
+Identify miRNAs that have GO terms annotated as function. Include only GO terms that are characterized by the GO term labeled 'extracellular region' as target start location and by the GO term labeled 'cytoplasmic vesicle' as end location. Return the miRNA label, the GO term label, the target start location GO term label, and the target end location GO term label.

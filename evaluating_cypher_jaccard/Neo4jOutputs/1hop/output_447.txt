@@ -1,0 +1,32 @@
+{
+  "g.Label": "protein-containing complex localization",
+  "cc.Label": "protein-containing complex",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g.Label": "organelle localization",
+  "cc.Label": "organelle",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g.Label": "vesicle targeting, to, from or within Golgi",
+  "cc.Label": "Golgi-associated vesicle",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g.Label": "establishment of organelle localization",
+  "cc.Label": "organelle",
+  "r.Source": [
+    "CLO"
+  ]
+}
+

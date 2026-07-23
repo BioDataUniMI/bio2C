@@ -1,0 +1,1 @@
+Given the cellular component 'extracellular region', identify the biological processes that have target start locations in this component and are functions of precursor miRNAs transcribed from genes. Return label of: the biological process, the precursor miRNA, and the gene.

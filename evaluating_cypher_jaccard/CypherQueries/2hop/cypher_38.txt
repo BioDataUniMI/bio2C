@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) RETURN d.Label AS Disease, COUNT(DISTINCT m) AS ExpressedMiRNAs, COUNT(DISTINCT g) AS TargetGenes

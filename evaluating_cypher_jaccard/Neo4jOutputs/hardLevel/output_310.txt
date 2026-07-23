@@ -1,0 +1,35 @@
+{
+  "MolecularFunction": "1-phosphatidylinositol-3-kinase activity",
+  "GOProcesses": [
+    "1-phosphatidylinositol-3-kinase regulator activity"
+  ]
+}
+
+{
+  "MolecularFunction": "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",
+  "GOProcesses": [
+    "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) regulator activity"
+  ]
+}
+
+{
+  "MolecularFunction": "GTP cyclohydrolase I activity",
+  "GOProcesses": [
+    "GTP cyclohydrolase I regulator activity"
+  ]
+}
+
+{
+  "MolecularFunction": "GTPase activity",
+  "GOProcesses": [
+    "GTPase regulator activity"
+  ]
+}
+
+{
+  "MolecularFunction": "UTP:glucose-1-phosphate uridylyltransferase activity",
+  "GOProcesses": [
+    "UTP:glucose-1-phosphate uridylyltransferase regulator activity"
+  ]
+}
+

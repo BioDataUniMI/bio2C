@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:under_expressed_in]->(go:GO) WITH p, go, p.Sequence AS seq WITH p, go, seq, SIZE([i IN RANGE(0, SIZE(seq)-2) WHERE SUBSTRING(seq, i, 2) = 'GG']) AS GG_count WHERE GG_count >= 3 RETURN go.Label AS GO_term, p.Label AS pre_miRNA, GG_count

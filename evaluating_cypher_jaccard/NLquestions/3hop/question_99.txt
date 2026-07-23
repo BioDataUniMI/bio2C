@@ -1,0 +1,1 @@
+Given the miRNA 'hsa-let-7e-5p', identify the cardiovascular diseases caused or contributed to by genes regulated by this miRNA. Retrieve the pre-miRNA from which this miRNA develops, along with the regulated gene and the cardiovascular disease. Return the pre-miRNA label, the gene label, and the cardiovascular disease label.

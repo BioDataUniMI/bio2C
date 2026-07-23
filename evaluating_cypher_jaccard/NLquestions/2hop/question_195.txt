@@ -1,0 +1,1 @@
+ List GO terms whose disruption is caused by diseases with specific phenotypes whose label contains 'Paroxysmal' along with the associated diseases and phenotypes.

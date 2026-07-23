@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:part_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'translation' RETURN bp.Label AS BiologicalProcess, COUNT(mf) AS NumMolecularFunctions

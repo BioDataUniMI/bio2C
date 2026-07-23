@@ -1,0 +1,1 @@
+Find all distinct pairs of molecular functions such that one starts and the other ends the same biological process. Return the biological process label along with the two molecular function labels.

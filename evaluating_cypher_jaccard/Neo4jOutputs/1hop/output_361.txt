@@ -1,0 +1,40 @@
+{
+  "miRNA": "microRNA hsa-mir-4433a precursor",
+  "Gene": "MIR4433A",
+  "g.Genomic_coordinates": [
+    "chr2:64340759-64340839+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-548ba precursor",
+  "Gene": "MIR548BA",
+  "g.Genomic_coordinates": [
+    "chr2:49059603-49059658+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1245a precursor",
+  "Gene": "MIR1245A",
+  "g.Genomic_coordinates": [
+    "chr2:188978092-188978161+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-551a precursor",
+  "Gene": "MIR551A",
+  "g.Genomic_coordinates": [
+    "chr1:3560695-3560790-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-664a precursor",
+  "Gene": "MIR664A",
+  "g.Genomic_coordinates": [
+    "chr1:220200538-220200619-"
+  ]
+}
+

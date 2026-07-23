@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "inflammatory response",
+  "ID": "GO:0006954",
+  "URI": "http://purl.obolibrary.org/obo/GO_0006954"
+}
+
+{
+  "BiologicalProcess": "hypersensitivity",
+  "ID": "GO:0002524",
+  "URI": "http://purl.obolibrary.org/obo/GO_0002524"
+}
+
+{
+  "BiologicalProcess": "cell death",
+  "ID": "GO:0008219",
+  "URI": "http://purl.obolibrary.org/obo/GO_0008219"
+}
+
+{
+  "BiologicalProcess": "cell killing",
+  "ID": "GO:0001906",
+  "URI": "http://purl.obolibrary.org/obo/GO_0001906"
+}
+
+{
+  "BiologicalProcess": "wound healing",
+  "ID": "GO:0042060",
+  "URI": "http://purl.obolibrary.org/obo/GO_0042060"
+}
+

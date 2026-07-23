@@ -1,0 +1,1 @@
+MATCH (md:Mental_disease)-[:manifestation_of]->(x) WHERE x:Disease OR x:Mental_disease RETURN md.Label AS MentalDisease, CASE WHEN x:Disease THEN 'Disease' WHEN x:Mental_disease THEN 'Mental_disease' END AS ManifestationType, x.Label AS ManifestedFrom

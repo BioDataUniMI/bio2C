@@ -1,0 +1,1 @@
+Return the second half of the miRNA sequences that are under-expressed in the autoimmune disease labeled 'rheumatoid arthritis'. Return the miRNA label, disease, and second half of the sequence.

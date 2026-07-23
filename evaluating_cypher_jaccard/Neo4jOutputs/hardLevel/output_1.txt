@@ -1,0 +1,50 @@
+{
+  "miRNA": "hsa-miR-210-5p",
+  "Disease": "glioma",
+  "FDR": 4.1250000000064513e-13,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-210-3p",
+  "Disease": "glioma",
+  "FDR": 0.000156928,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-328-3p",
+  "Disease": "glioma",
+  "FDR": 1.480333e-12,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-20a-5p",
+  "Disease": "glioma",
+  "FDR": 1.33e-05,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "Disease": "glioma",
+  "FDR": 1.37e-05,
+  "Methods": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ]
+}
+

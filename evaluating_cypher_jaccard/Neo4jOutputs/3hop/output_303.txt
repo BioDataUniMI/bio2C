@@ -1,0 +1,21 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-214 precursor",
+  "miRNA": "hsa-miR-214-3p",
+  "BiologicalProcess": "cellular response to dopamine",
+  "GOpart": "beta-arrestin-dependent dopamine receptor signaling pathway"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-214 precursor",
+  "miRNA": "hsa-miR-214-3p",
+  "BiologicalProcess": "cellular response to dopamine",
+  "GOpart": "G protein-coupled dopamine receptor signaling pathway"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-214 precursor",
+  "miRNA": "hsa-miR-214-3p",
+  "BiologicalProcess": "cellular response to dopamine",
+  "GOpart": "serotonin receptor signaling pathway"
+}
+

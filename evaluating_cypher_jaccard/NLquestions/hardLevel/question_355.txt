@@ -1,0 +1,1 @@
+Which gene-neurodegenerative disease pairs are connected through the largest number of distinct miRNAs regulating the activity of gene (including ties)? Return the gene label, disease label, and the number of distinct miRNAs.

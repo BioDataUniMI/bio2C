@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label: 'Hernia'})-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(go:GO)-[:has_part]->(bp:Biological_process) RETURN DISTINCT d.Label AS Disease, go.Label AS DisruptedGO, bp.Label AS BiologicalProcess

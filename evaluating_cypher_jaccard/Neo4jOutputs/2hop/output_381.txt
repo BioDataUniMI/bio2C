@@ -1,0 +1,30 @@
+{
+  "Disease": "cholesterolosis of gallbladder",
+  "GOterm": "cholesterol homeostasis",
+  "miRNA": "hsa-miR-613"
+}
+
+{
+  "Disease": "cholesterolosis of gallbladder",
+  "GOterm": "cholesterol homeostasis",
+  "miRNA": "hsa-miR-199a-5p"
+}
+
+{
+  "Disease": "cholesterolosis of gallbladder",
+  "GOterm": "cholesterol homeostasis",
+  "miRNA": "hsa-miR-33b-5p"
+}
+
+{
+  "Disease": "cholesterolosis of gallbladder",
+  "GOterm": "cholesterol homeostasis",
+  "miRNA": "hsa-miR-128-3p"
+}
+
+{
+  "Disease": "anemia",
+  "GOterm": "erythrocyte homeostasis",
+  "miRNA": "hsa-miR-125a-5p"
+}
+

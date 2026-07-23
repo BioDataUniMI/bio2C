@@ -1,0 +1,28 @@
+{
+  "Disease": "esophageal cancer",
+  "miRNAs": [
+    "hsa-miR-375-5p",
+    "hsa-miR-375-3p"
+  ],
+  "Methods": [
+    [
+      "qrt-pcr etc",
+      "northern blotting"
+    ],
+    [
+      "qrt-pcr etc",
+      "northern blotting"
+    ]
+  ],
+  "Sources": [
+    [
+      "miR2Disease",
+      "dbDEMC"
+    ],
+    [
+      "miR2Disease",
+      "dbDEMC"
+    ]
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:phenotype_of]-(p:Phenotype)<-[:has_characteristic]-(g:GO)<-[:disease_causes_disruption_of]-(cd:Cardiovascular_disease) RETURN cd.Label AS CardiovascularDisease, g.Label AS DisruptedGO, p.Label AS Phenotype, d.Label AS RelatedDisease

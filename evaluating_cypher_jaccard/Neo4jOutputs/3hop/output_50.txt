@@ -1,0 +1,30 @@
+{
+  "neurodegenerative_disease": "mucopolysaccharidosis type 6",
+  "parent_disease": "mucopolysaccharidosis",
+  "phenotype": "Recurrent otitis media"
+}
+
+{
+  "neurodegenerative_disease": "microphthalmia-brain atrophy syndrome",
+  "parent_disease": "syndromic microphthalmia",
+  "phenotype": "Recurrent otitis media"
+}
+
+{
+  "neurodegenerative_disease": "COFS syndrome",
+  "parent_disease": "syndromic microphthalmia",
+  "phenotype": "Recurrent otitis media"
+}
+
+{
+  "neurodegenerative_disease": "Cockayne spectrum with or without cerebrooculofacioskeletal syndrome",
+  "parent_disease": "Cockayne syndrome",
+  "phenotype": "Recurrent otitis media"
+}
+
+{
+  "neurodegenerative_disease": "Cockayne syndrome type 2",
+  "parent_disease": "Cockayne syndrome",
+  "phenotype": "Recurrent otitis media"
+}
+

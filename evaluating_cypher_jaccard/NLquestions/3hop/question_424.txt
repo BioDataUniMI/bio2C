@@ -1,0 +1,1 @@
+Identify all the GO terms of which cellular components whose label contains the string 'ligase complex' are part. Moreover, consider only components in which miRNAs expressed in neurodegenerative diseases are located. Return the neurodegenerative disease label, miRNA label, cellular component label, and GO term label.

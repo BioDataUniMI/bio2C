@@ -1,0 +1,5 @@
+{
+  "Phenotype": "Extremely elevated creatine kinase",
+  "p.ID": "HP:0030235"
+}
+

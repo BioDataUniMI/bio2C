@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "cell-cell adhesion"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "cell-cell adhesion"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "cell-cell adhesion"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "cell-cell adhesion"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "cell-cell adhesion"
+}
+

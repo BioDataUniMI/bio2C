@@ -1,0 +1,12 @@
+{
+  "Disease": "parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p"
+}
+

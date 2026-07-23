@@ -1,0 +1,1 @@
+List miRNAs containing '29c' in their label that cause or contribute to diseases having phenotypes whose labels contain 'skeletal', where these phenotypes are also phenotypes of the disease labeled as 'pituitary dwarfism'. Return the labels of the: miRNA, disease, and phenotype 

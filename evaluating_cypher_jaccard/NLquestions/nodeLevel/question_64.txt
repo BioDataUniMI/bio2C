@@ -1,0 +1,1 @@
+Find cellular components with labels containing 'mitochondrial derivative'.

@@ -1,0 +1,1 @@
+Return phenotypes with a material basis in germline mutations in miRNAs. Keep only relationships characted by a statistically significant mutation (p-value < 0.01).

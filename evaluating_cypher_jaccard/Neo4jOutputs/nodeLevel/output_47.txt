@@ -1,0 +1,20 @@
+{
+  "Gene": "MIR210HG",
+  "SequenceLength": 2886
+}
+
+{
+  "Gene": "MIR9-2HG",
+  "SequenceLength": 282332
+}
+
+{
+  "Gene": "MIR503HG",
+  "SequenceLength": 6527
+}
+
+{
+  "Gene": "MIR22HG",
+  "SequenceLength": 5728
+}
+

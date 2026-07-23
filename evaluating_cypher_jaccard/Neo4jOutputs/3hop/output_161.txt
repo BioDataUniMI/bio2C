@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Regulator_miRNA": "hsa-let-7d-5p",
+  "Gene": "TNFRSF10B"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Regulator_miRNA": "hsa-let-7d-5p",
+  "Gene": "ARHGAP42P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Regulator_miRNA": "hsa-let-7d-5p",
+  "Gene": "EEF1A1P10"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Regulator_miRNA": "hsa-let-7d-5p",
+  "Gene": "EIF4EBP2P2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Regulator_miRNA": "hsa-let-7d-5p",
+  "Gene": "ARHGAP42P2"
+}
+

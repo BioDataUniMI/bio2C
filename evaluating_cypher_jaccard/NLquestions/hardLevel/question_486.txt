@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the disease labeled as 'carcinoma of esophagus' with FDR < 0.09 measured by both 'qrt-pcr etc' and 'northern blotting'.

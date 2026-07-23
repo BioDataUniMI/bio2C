@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA {Label:'hsa-miR-519a-2-5p'})-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) RETURN  pre.Label AS Pre_miRNA, cc.Label AS CellularComponent, go.Label AS GOterm

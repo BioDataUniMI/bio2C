@@ -1,0 +1,1 @@
+Retrieve genes that transcribe pre-miRNAs ending with the string '1b precursor', along with the mature miRNAs that are under-expressed in diseases whose label contains the word 'thyroid'. Return the gene label, pre-miRNA label, miRNA label, and disease label.

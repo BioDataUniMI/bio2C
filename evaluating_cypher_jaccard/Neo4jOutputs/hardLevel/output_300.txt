@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-23a-5p",
+  "Components": 9,
+  "ParentGOTerms": 9
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "Components": 12,
+  "ParentGOTerms": 13
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "Components": 7,
+  "ParentGOTerms": 9
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "Components": 10,
+  "ParentGOTerms": 10
+}
+
+{
+  "miRNA": "hsa-miR-140-3p",
+  "Components": 10,
+  "ParentGOTerms": 10
+}
+

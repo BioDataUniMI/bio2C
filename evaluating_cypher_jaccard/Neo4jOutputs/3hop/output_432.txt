@@ -1,0 +1,28 @@
+{
+  "SourceGene": "MIR638",
+  "Precursor_pre_miRNA": "microRNA hsa-mir-638 precursor",
+  "Mature_miRNA": "hsa-miR-638",
+  "TargetGene": "SOX2"
+}
+
+{
+  "SourceGene": "MIR1181",
+  "Precursor_pre_miRNA": "microRNA hsa-mir-1181 precursor",
+  "Mature_miRNA": "hsa-miR-1181",
+  "TargetGene": "SOX2"
+}
+
+{
+  "SourceGene": "MIR590",
+  "Precursor_pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "Mature_miRNA": "hsa-miR-590-3p",
+  "TargetGene": "SOX2"
+}
+
+{
+  "SourceGene": "MIR625",
+  "Precursor_pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "Mature_miRNA": "hsa-miR-625-5p",
+  "TargetGene": "SOX2"
+}
+

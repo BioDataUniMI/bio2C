@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Quadriceps muscle atrophy'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(c:Cancer)-[:expresses]->(m:miRNA) RETURN d.Label AS Disease, c.Label AS Cancer, m.Label AS miRNA

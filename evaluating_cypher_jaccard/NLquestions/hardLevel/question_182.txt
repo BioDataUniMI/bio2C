@@ -1,0 +1,1 @@
+Consider the miRNA 'microRNA hsa-mir-374a precursor' and split its sequence into two halves. Then, count the number of UA dinucleotides in each half. Return the number of UA dinucleotides in the first half and the number of UA dinucleotides in the second half.

@@ -1,0 +1,1 @@
+Which pre-miRNAs cause somatic mutations in phenotypes with 'thyroid' conditions (including any subclasses of Phenotype)? Return the labels of pre-miRNA and phenotype.

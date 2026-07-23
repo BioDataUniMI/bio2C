@@ -1,0 +1,1 @@
+Which miRNAs participate in biological processes where 'anemia' diseases that have phenotypes containing the word 'defect' in their label cause their disruption? Return the phenotype label, disease label, biological process label, and miRNA label.

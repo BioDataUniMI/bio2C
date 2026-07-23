@@ -1,0 +1,25 @@
+{
+  "Disease": "GLUT1 deficiency syndrome",
+  "DisruptedFunction": "D-glucose transmembrane transporter activity"
+}
+
+{
+  "Disease": "thyroid hormone resistance syndrome",
+  "DisruptedFunction": "nuclear receptor activity"
+}
+
+{
+  "Disease": "factor XIII deficiency",
+  "DisruptedFunction": "protein-glutamine gamma-glutamyltransferase activity"
+}
+
+{
+  "Disease": "G6PD deficiency",
+  "DisruptedFunction": "glucose-6-phosphate dehydrogenase activity"
+}
+
+{
+  "Disease": "adenylosuccinate lyase deficiency",
+  "DisruptedFunction": "(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming)..."
+}
+

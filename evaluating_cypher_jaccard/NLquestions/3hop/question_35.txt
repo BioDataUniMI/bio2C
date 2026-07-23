@@ -1,0 +1,1 @@
+Find genes transcribed to precursor miRNAs whose sequences end with 'UC' that have functions in biological processes regulated by the 'regulation of inflammatory response'-labeled biological process. Return the labels of: the genes, the pre-miRNAs, the regulated biological processes.

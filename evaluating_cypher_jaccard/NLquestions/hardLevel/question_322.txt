@@ -1,0 +1,1 @@
+Which cellular component(s) that are part of GO terms have the highest number of distinct mature miRNAs (from pre-miRNAs developed into miRNA) located in them (including ties)? Return the cellular component label and the miRNA count.

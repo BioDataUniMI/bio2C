@@ -1,0 +1,1 @@
+Identify the GO terms that are parts of cellular components where the miRNA 'hsa-let-7a-5p', expressed in cancers, is located. Return the labels of the cancer, the cellular component and the GO term.

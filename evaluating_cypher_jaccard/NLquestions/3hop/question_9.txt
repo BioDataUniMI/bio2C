@@ -1,0 +1,1 @@
+Which miRNAs are over-expressed in GO terms that are subclasses of other GO terms whose label contain 'catabolic process', where those parent GO terms are positively regulated by another GO term? Return ONLY the labels of the miRNA, the GO term, its parent GO term, and the positively regulating GO term.

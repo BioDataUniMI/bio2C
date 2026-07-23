@@ -1,0 +1,25 @@
+{
+  "Disease": "cytomegalovirus infection",
+  "Description": "a herpesvirus infection caused by cytomegalovirus. healthy individuals generally do not produce s..."
+}
+
+{
+  "Disease": "AIDS",
+  "Description": "a syndrome resulting from the acquired deficiency of cellular immunity caused by the human immuno..."
+}
+
+{
+  "Disease": "viral esophagitis",
+  "Description": "viral infection of the esophagus. it often occurs in immunocompromised patients and it is caused ..."
+}
+
+{
+  "Disease": "cytomegalovirus pneumonia",
+  "Description": "pneumonia caused by cytomegalovirus. most humans are exposed to cytomegalovirus. healthy individu..."
+}
+
+{
+  "Disease": "fetal cytomegalovirus syndrome",
+  "Description": "an infection with the cytomegalovirus that is present from birth."
+}
+

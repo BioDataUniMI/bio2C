@@ -1,0 +1,18 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-20a precursor",
+  "GeneLabel": "VEGFA",
+  "GeneSynonym": [
+    "vascular permeability factor",
+    "vascular endothelial growth factor A, long form",
+    "VEGF",
+    "MVCD1",
+    "VEGF-A",
+    "L-VEGF",
+    "vascular endothelial growth factor A165",
+    "vascular endothelial growth factor A121",
+    "VPF",
+    "vascular endothelial growth factor A"
+  ],
+  "Disease": "bone osteosarcoma"
+}
+

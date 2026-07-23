@@ -1,0 +1,25 @@
+{
+  "bp.Label": "TOR signaling",
+  "cc.Label": "TOR complex"
+}
+
+{
+  "bp.Label": "TORC1 signaling",
+  "cc.Label": "TORC1 complex"
+}
+
+{
+  "bp.Label": "TORC2 signaling",
+  "cc.Label": "TORC2 complex"
+}
+
+{
+  "bp.Label": "anterograde trans-synaptic signaling by trans-synaptic protein complex",
+  "cc.Label": "trans-synaptic protein complex"
+}
+
+{
+  "bp.Label": "retrograde trans-synaptic signaling by trans-synaptic protein complex",
+  "cc.Label": "trans-synaptic protein complex"
+}
+

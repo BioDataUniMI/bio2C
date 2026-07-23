@@ -1,0 +1,1 @@
+Return Homo sapiens miRNAs whose labels start with 'hsa-miR-1' and sequences end with 'GACU'.

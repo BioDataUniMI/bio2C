@@ -1,0 +1,5 @@
+{
+  "CancerLabel": "Peutz-Jeghers polyp",
+  "Description": "a hamartomatous polyp that occurs in the stomach, small and large intestines, and rarely within t..."
+}
+

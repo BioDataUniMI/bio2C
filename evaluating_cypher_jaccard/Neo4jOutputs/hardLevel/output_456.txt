@@ -1,0 +1,25 @@
+{
+  "gene": "SNORD50B",
+  "length": 70
+}
+
+{
+  "gene": "SNORD50B",
+  "length": 70
+}
+
+{
+  "gene": "SNORD50B",
+  "length": 70
+}
+
+{
+  "gene": "SNORD50B",
+  "length": 70
+}
+
+{
+  "gene": "MIR4324",
+  "length": 72
+}
+

@@ -1,0 +1,1 @@
+Identify 'bone'-related cancers whose material basis involves harbor somatic mutations in miRNAs with labels ending in a digit. Return the label of matching cancers, miRNAs, and cellular components in which those miRNAs are located.

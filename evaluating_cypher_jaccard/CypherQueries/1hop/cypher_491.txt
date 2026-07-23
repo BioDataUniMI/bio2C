@@ -1,0 +1,1 @@
+MATCH (g1:GO)-[r:results_in_organization_of]->(g2:GO) WHERE ALL(src IN ['CLO','GO','Uberon'] WHERE src IN r.Source) RETURN g1.Label, g2.Label, r.Source

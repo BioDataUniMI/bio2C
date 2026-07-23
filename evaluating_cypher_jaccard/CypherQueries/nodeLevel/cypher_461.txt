@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'BB' OR p.Label CONTAINS 'MM' RETURN p.Label AS Phenotype, p.URI

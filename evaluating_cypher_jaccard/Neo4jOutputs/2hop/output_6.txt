@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR645",
+  "miRNA": "microRNA hsa-mir-645 precursor",
+  "Cancer": "clear cell renal carcinoma",
+  "FDR": null
+}
+
+{
+  "Gene": "MIR1290",
+  "miRNA": "microRNA hsa-mir-1290 precursor",
+  "Cancer": "clear cell renal carcinoma",
+  "FDR": null
+}
+
+{
+  "Gene": "MIR630",
+  "miRNA": "microRNA hsa-mir-630 precursor",
+  "Cancer": "clear cell renal carcinoma",
+  "FDR": null
+}
+
+{
+  "Gene": "MIR572",
+  "miRNA": "microRNA hsa-mir-572 precursor",
+  "Cancer": "nonpapillary renal cell carcinoma",
+  "FDR": null
+}
+
+{
+  "Gene": "MIR543",
+  "miRNA": "microRNA hsa-mir-543 precursor",
+  "Cancer": "nonpapillary renal cell carcinoma",
+  "FDR": null
+}
+

@@ -1,0 +1,1 @@
+Which molecular functions whose label contains 'G protein' start or end GO processes? Return the function and a collection of up to five related GO terms in alphabetical order.

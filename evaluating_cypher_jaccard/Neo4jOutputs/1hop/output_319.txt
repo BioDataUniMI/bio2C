@@ -1,0 +1,4 @@
+{
+  "mf.Label": "acetylation-dependent protein binding"
+}
+

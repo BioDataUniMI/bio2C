@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE SIZE(pm.Sequence) = 180 RETURN pm.Label AS Pre_miRNA, pm.Genomic_coordinates AS GenomicCoordinates

@@ -1,0 +1,1 @@
+Find cellular components that are not part of any other cellular component and whose description contains 'p85 proteins' (case-insensitive).

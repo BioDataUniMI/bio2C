@@ -1,0 +1,30 @@
+{
+  "Disease": "non-functioning pituitary adenoma",
+  "ParentCancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Disease": "growth hormone-producing pituitary gland adenoma",
+  "ParentCancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Disease": "mast cell sarcoma",
+  "ParentCancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Disease": "soft tissue sarcoma",
+  "ParentCancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Disease": "reticulum cell sarcoma",
+  "ParentCancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+

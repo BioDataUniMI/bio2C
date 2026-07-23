@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:disease_has_feature]->(p:Phenotype), (g1:Gene)-[:genetically_interacts_with]->(g2:Gene)-[:causes_or_contributes_to_condition]->(c) WHERE SIZE(g1.Label) = 12 OR SIZE(g2.Label) = 12 RETURN g1.Label AS Gene1, g2.Label AS Gene2, c.Label AS Cancer, p.Label AS FeaturePhenotype

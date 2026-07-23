@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:causes_or_contributes_to_condition]->(c:Cancer{Label: 'colon carcinoma'}) WITH SIZE(g.Sequence) AS geneLength RETURN max(geneLength) - min(geneLength) AS LengthDifference

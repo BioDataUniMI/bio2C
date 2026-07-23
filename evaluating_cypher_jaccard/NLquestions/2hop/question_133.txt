@@ -1,0 +1,1 @@
+List diseases connected to miRNAs through relationships whose type includes both the words 'germline' and 'causal'. Return the relationship type, the disease label, and the involved miRNAs label.

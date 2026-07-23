@@ -1,0 +1,1 @@
+List all GO terms in which over-expressed miRNAs do not end with 'p'.

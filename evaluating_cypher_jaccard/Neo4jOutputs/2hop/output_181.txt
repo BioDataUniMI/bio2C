@@ -1,0 +1,25 @@
+{
+  "Gene": "TRIP13",
+  "miRNA": "hsa-miR-30c-2-3p"
+}
+
+{
+  "Gene": "TRIP13",
+  "miRNA": "hsa-miR-139-3p"
+}
+
+{
+  "Gene": "TRIP13",
+  "miRNA": "hsa-miR-30c-1-3p"
+}
+
+{
+  "Gene": "CKAP5",
+  "miRNA": "hsa-miR-155-5p"
+}
+
+{
+  "Gene": "AURKA",
+  "miRNA": "hsa-miR-621"
+}
+

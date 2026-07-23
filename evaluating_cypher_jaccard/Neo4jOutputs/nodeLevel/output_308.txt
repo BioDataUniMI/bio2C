@@ -1,0 +1,38 @@
+{
+  "DiseaseLabel": "basal ganglia calcification, idiopathic, 4",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "basal ganglia cerebrovascular disorder",
+  "Classifications": [
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "basal ganglia calcification, idiopathic, childhood-onset",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Autoimmune_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "basal ganglia calcification, idiopathic, 7, autosomal recessive",
+  "Classifications": [
+    "Disease"
+  ]
+}
+

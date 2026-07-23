@@ -1,0 +1,30 @@
+{
+  "Cancer": "breast carcinoma",
+  "CellularComponent": "extracellular vesicle",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "CellularComponent": "senescence-associated heterochromatin focus",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "CellularComponent": "apical plasma membrane",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Cancer": "breast cancer",
+  "CellularComponent": "extracellular vesicle",
+  "miRNA": "hsa-miR-125b-5p"
+}
+

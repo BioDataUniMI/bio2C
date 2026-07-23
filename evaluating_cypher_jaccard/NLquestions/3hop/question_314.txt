@@ -1,0 +1,1 @@
+Which miRNAs act upstream of GO terms that have parts other GO terms whose descriptions contain 'blood'? Return the miRNA labels and the descriptions of the GO terms that are part of other GO terms.

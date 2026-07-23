@@ -1,0 +1,1 @@
+How many 'miRNA->is_causal_somatic_mutation_in->Disease' relationships are recorded?

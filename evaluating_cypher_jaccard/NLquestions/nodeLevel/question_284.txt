@@ -1,0 +1,1 @@
+Which genes have labels that are exactly 2 characters long, and what is the length of their sequence?

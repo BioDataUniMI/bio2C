@@ -1,0 +1,16 @@
+{
+  "Disease": "osteoarthritis",
+  "Number_of_miRNAs": 9,
+  "miRNAs": [
+    "microRNA hsa-mir-761 precursor",
+    "microRNA hsa-mir-379 precursor",
+    "microRNA hsa-mir-665 precursor",
+    "microRNA hsa-mir-373 precursor",
+    "microRNA hsa-mir-4498 precursor",
+    "microRNA hsa-mir-149 precursor",
+    "microRNA hsa-mir-140 precursor",
+    "microRNA hsa-mir-18a precursor",
+    "microRNA hsa-mir-204 precursor"
+  ]
+}
+

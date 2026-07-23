@@ -1,0 +1,8 @@
+{
+  "Gene": "MIR3171",
+  "Synonyms": [
+    "microRNA 3171",
+    "hsa-mir-3171"
+  ]
+}
+

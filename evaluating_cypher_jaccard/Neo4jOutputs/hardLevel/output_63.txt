@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Neoplasm of the lung",
+  "Cancer": "adenoma",
+  "CU_Count": 4
+}
+
+{
+  "Phenotype": "Non-small cell lung carcinoma",
+  "Cancer": "adenoma",
+  "CU_Count": 4
+}
+
+{
+  "Phenotype": "Burkitt lymphoma",
+  "Cancer": "adenoma",
+  "CU_Count": 4
+}
+
+{
+  "Phenotype": "Hodgkin lymphoma",
+  "Cancer": "adenoma",
+  "CU_Count": 4
+}
+
+{
+  "Phenotype": "Stomach cancer",
+  "Cancer": "adenoma",
+  "CU_Count": 4
+}
+

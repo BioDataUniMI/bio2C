@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:encompasses]->(g:GO) WHERE bp.Description STARTS WITH 'progression' RETURN bp.Label, g.Label

@@ -1,0 +1,1 @@
+Find in which other type of diseases the infectious diseases labeled 'bulbar polio' are classified, and return the diseases' ID and types (use 'LABELS(Infectious_disease)').

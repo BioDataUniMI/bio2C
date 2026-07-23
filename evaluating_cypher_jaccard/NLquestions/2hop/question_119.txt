@@ -1,0 +1,1 @@
+Identify miRNAs whose label starts with 'hsa' that regulate the gene 'FSTL1' and contribute to cardiovascular diseases. Return the miRNA and disease labels.

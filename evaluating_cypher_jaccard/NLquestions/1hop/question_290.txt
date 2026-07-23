@@ -1,0 +1,1 @@
+Consider molecular functions. Count how many GO or molecular function terms they directly negatively regulate.

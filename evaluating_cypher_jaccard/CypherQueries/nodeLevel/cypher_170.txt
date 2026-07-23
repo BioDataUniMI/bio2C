@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label ENDS WITH '55-5p' RETURN m.Label AS miRNA

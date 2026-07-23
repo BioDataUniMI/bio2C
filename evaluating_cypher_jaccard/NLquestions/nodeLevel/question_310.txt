@@ -1,0 +1,1 @@
+Retrieve diseases whose descriptions contain 'mid-adolescence' and whose labels contain 'epilepsy'. Return their label, ID and URI.

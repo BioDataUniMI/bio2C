@@ -1,0 +1,1 @@
+Given the gene 'SOX2' and the pre-miRNA 'microRNA hsa-mir-429 precursor', identify the phenotypes caused or contributed by this gene, where the pre-miRNA develops into a miRNA that regulates the gene. Return the pre-miRNA label, the miRNA label, and the phenotype label.

@@ -1,0 +1,1 @@
+List the distinct GO term labels associated with miRNA function, considering only 'has_function' relationships whose sources include 'Rfam' or 'RNAcentral'. Return the distinct labels of GO terms.

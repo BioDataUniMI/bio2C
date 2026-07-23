@@ -1,0 +1,8 @@
+{
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "CellularComponent": "RISC complex"
+}
+

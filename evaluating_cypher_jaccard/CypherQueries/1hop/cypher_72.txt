@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(c:Cardiovascular_disease) WHERE c.Description CONTAINS 'blood' AND c.Description CONTAINS 'flow' RETURN c.Label AS Disease, m.Label AS miRNA

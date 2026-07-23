@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH m, SIZE([x IN SPLIT(m.Sequence, '') WHERE x = 'U']) AS UCount WITH COLLECT({m: m, UCount: UCount}) AS rows, MAX(UCount) AS maxU UNWIND rows AS row WITH row, maxU WHERE row.UCount = maxU RETURN row.m.Label AS miRNA, row.m.Sequence AS Sequence, row.UCount AS UCount ORDER BY miRNA

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'mitochondrial fission' RETURN g.Label AS GOTerm, g.Description AS Description

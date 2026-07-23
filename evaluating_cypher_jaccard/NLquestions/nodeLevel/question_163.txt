@@ -1,0 +1,1 @@
+Find phenotypes that have at least one synonym containing 'hemifacial' while also not containing 'tessier'.

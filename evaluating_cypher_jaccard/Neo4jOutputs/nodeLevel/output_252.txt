@@ -1,0 +1,5 @@
+{
+  "miRNA": "microRNA hsa-mir-567 precursor",
+  "SequenceLength": 98
+}
+

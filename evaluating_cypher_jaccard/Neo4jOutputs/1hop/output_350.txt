@@ -1,0 +1,25 @@
+{
+  "GOTerm": "membrane lipid metabolic process",
+  "CellularComponent": "membrane"
+}
+
+{
+  "GOTerm": "protein transport within lipid bilayer",
+  "CellularComponent": "membrane"
+}
+
+{
+  "GOTerm": "plasma membrane proton-transporting ATP synthase complex assembly",
+  "CellularComponent": "plasma membrane"
+}
+
+{
+  "GOTerm": "plasma membrane ATP synthesis coupled electron transport",
+  "CellularComponent": "plasma membrane"
+}
+
+{
+  "GOTerm": "receptor clustering",
+  "CellularComponent": "plasma membrane"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR2' AND ALL(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr9') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates

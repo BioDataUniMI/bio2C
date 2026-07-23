@@ -1,0 +1,1 @@
+Identify the diseases caused or contributed to by genes that genetically interact with genes regulated by the miRNA 'hsa-miR-29a-3p'. Return the labels of the miRNA, the regulated gene, the interacting gene, and the disease.

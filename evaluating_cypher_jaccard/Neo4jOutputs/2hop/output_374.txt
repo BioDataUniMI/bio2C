@@ -1,0 +1,5 @@
+{
+  "DistinctG1": 33,
+  "DistinctG2": 2
+}
+

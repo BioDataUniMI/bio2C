@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE NOT (bp)-[:results_in]->(:Biological_process) AND bp.Description CONTAINS 'result in' AND bp.Description CONTAINS 'activated by' RETURN bp.Label, bp.Description

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE NOT (g)-[:part_of]->(:GO) AND g.Description CONTAINS 'blood' AND g.Description CONTAINS 'enzyme' RETURN g.Label ORDER BY SIZE(g.Description) DESC

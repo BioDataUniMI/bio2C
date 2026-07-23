@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:located_in]->(:GO) WHERE SIZE(r.Method) >= 3 RETURN COUNT(p) AS pre_miRNAcount

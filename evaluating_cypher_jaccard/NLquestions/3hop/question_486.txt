@@ -1,0 +1,1 @@
+Identify cardiovascular diseases caused or contributed to by genes whose activity are regulated by miRNAs, ranked by the number of distinct feature phenotypes. Return the disease label and phenotype count, ordering alphabetically by disease label in case of ties.

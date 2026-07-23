@@ -1,0 +1,1 @@
+Which diseases have a description that contains the word 'brain' and a label that contains 'virus'? Return the entire nodes (i.e., all their properties).

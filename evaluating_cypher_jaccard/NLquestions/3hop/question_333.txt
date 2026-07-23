@@ -1,0 +1,1 @@
+Retrieve all properties of the diseases that have the phenotype labeled 'Heart block' and are subclasses of cancers that express miRNAs ending with '5p'. Return the label of miRNA and cancer, and the properties of the disease (use PROPERTIES(disease)). 

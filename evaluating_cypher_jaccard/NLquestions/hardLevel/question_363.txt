@@ -1,0 +1,1 @@
+Identify GO terms that are functions of at least one miRNA that acts upstream of or within at least 4 distinct biological processes. Return the GO term label and the maximum number of biological processes among its associated miRNAs.

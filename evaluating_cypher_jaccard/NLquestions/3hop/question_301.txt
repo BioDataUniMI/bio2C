@@ -1,0 +1,1 @@
+Which miRNAs are expressed in cancers whose labels contain 'benign', regulate the gene 'SYNCRIP', and cause or contribute to diseases whose labels do not include 'carcinoma', 'cancer', 'neoplasm', 'plastic', and 'syndrome'? Return the label of the: cancers, miRNAs, and associated diseases.

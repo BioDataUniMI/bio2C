@@ -1,0 +1,1 @@
+Which nodes that are GO terms or subclasses of GO terms (via one or more subclassof relationships) are caused or contributed to by the largest number of distinct miRNAs with sequence length greater than 120 nucleotides? Return the top three GO node labels and their miRNA counts, ordering by miRNA count descending and alphabetically by GO label to break ties.

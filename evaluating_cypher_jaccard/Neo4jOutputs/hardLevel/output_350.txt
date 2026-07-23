@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "plasma membrane",
+  "NumberOfGOTerms": 4
+}
+

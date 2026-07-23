@@ -1,0 +1,1 @@
+Identify the GO terms that result in the development or fusion of cellular components whose description contains 'fluid-filled'. Return the component label and description, the GO label and the relationship type.

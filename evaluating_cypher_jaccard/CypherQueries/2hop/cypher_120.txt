@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:under_expressed_in]->(c:Cancer)-[:expresses]->(m2:miRNA) WHERE ANY(coord IN m2.Genomic_coordinates WHERE coord STARTS WITH 'chr9') RETURN c.Label AS Cancer

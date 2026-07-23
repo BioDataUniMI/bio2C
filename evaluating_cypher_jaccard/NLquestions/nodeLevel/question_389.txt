@@ -1,0 +1,1 @@
+Retrieve all the available information (i.e., the entire node) about the neurodegenerative disease with the following ID:'MONDO:0002960'.

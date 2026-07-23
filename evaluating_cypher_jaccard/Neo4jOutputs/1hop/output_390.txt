@@ -1,0 +1,25 @@
+{
+  "Process": "autophagy",
+  "EndsWith": "transmembrane transport"
+}
+
+{
+  "Process": "pentose-phosphate shunt",
+  "EndsWith": "pentose-phosphate shunt, non-oxidative branch"
+}
+
+{
+  "Process": "translation",
+  "EndsWith": "translational termination"
+}
+
+{
+  "Process": "glucose catabolic process to lactate via pyruvate",
+  "EndsWith": "L(+)-lactate biosynthetic process from pyruvate"
+}
+
+{
+  "Process": "heterochromatin formation",
+  "EndsWith": "heterochromatin boundary formation"
+}
+

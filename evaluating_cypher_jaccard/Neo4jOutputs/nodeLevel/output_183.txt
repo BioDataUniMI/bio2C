@@ -1,0 +1,65 @@
+{
+  "Phenotype": "Benign neoplasm of the central nervous system",
+  "Synonyms": [
+    "Nezhoubný novotvar centrální nervové soustavy",
+    "中枢神経良性新生物",
+    "Tumeur bénigne du système nerveux central",
+    "Merkezi sinir sistemi benign neoplazmı",
+    "Benigne neoplasma van het centrale zenuwstelsel",
+    "中枢神经系统的良性肿瘤",
+    "Tumor benigno del sistema nervioso central"
+  ]
+}
+
+{
+  "Phenotype": "Neoplasm of fatty tissue",
+  "Synonyms": [
+    "Novotvar tukové tkáně",
+    "脂肪组织肿瘤",
+    "Yağ dokusunun neoplazmı",
+    "脂肪組織新生物",
+    "Tumor de tejido graso",
+    "Neoplasma van vetweefsel",
+    "Néoplasie du tissu adipeux"
+  ]
+}
+
+{
+  "Phenotype": "Malignant neoplasm of the central nervous system",
+  "Synonyms": [
+    "中枢神経悪性新生物",
+    "中枢神经系统恶性肿瘤",
+    "Tumor maligno del sistema nervioso central",
+    "Maligne neoplasma van het centrale zenuwstelsel",
+    "Tumeur maligne du système nerveux central",
+    "Santral sinir sisteminin malign neoplazmı",
+    "Zhoubný novotvar centrální nervové soustavy"
+  ]
+}
+
+{
+  "Phenotype": "Neoplasm of the tracheobronchial system",
+  "Synonyms": [
+    "Neoplasma van het tracheabronchiale systeem",
+    "気管気管支新生物",
+    "气管支气管系统肿瘤",
+    "Néoplasie du système trachéobronchique",
+    "Trakeobronşiyal sistem neoplazmı",
+    "Novotvar tracheobronchiálního systému",
+    "Tumor del sistema traqueobronquial"
+  ]
+}
+
+{
+  "Phenotype": "Neoplasm of striated muscle",
+  "Synonyms": [
+    "Tumeurs du muscle strié",
+    "横紋筋新生物",
+    "Novotvar příčně pruhovaného svalstva",
+    "横纹肌肿瘤",
+    "Çizgili kas neoplazisi",
+    "Tumor de músculo estriado",
+    "Neoplasma van dwarsgestreept spierweefsel"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process )<-[:part_of]-(mf:Molecular_function)<-[:has_function]-(m:miRNA)<-[:expresses]-(c:Cancer {Label: 'familial multiple lipomatosis'}) RETURN  bp.Label AS BiologicalProcess, mf.Label AS MolecularFunction, m.Label AS miRNA_Label, m.Sequence AS miRNA_Sequence, m.Genomic_coordinates AS miRNA_Genomic_coordinates

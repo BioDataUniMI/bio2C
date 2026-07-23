@@ -1,0 +1,1 @@
+Find the list of all genes that are subclasses of other genes and the list of all genes that serve as superclasses in subclass relationships.

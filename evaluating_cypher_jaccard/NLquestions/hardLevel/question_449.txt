@@ -1,0 +1,1 @@
+Which miRNAs have the same number of 'C' nucleotides in the first and second half of their sequence, with more than 10 'C's in each half?

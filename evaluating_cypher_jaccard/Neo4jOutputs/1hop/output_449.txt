@@ -1,0 +1,30 @@
+{
+  "bp.Label": "microtubule depolymerization",
+  "bp.Description": "the removal of tubulin heterodimers from one or both ends of a microtubule.",
+  "cc.Label": "microtubule"
+}
+
+{
+  "bp.Label": "pseudopodium retraction",
+  "bp.Description": "the myosin-based contraction and retraction of a pseudopodium.",
+  "cc.Label": "pseudopodium"
+}
+
+{
+  "bp.Label": "synapse pruning",
+  "bp.Description": "a cellular process that results in the controlled breakdown of synapse. after it starts the proce...",
+  "cc.Label": "synapse"
+}
+
+{
+  "bp.Label": "excitatory synapse pruning",
+  "bp.Description": "the disaggregation of an excitatory synapse into its constituent components.",
+  "cc.Label": "excitatory synapse"
+}
+
+{
+  "bp.Label": "mitotic spindle microtubule depolymerization",
+  "bp.Description": "the removal of tubulin heterodimers from one or both ends of a microtubule that is part of the mi...",
+  "cc.Label": "mitotic spindle microtubule"
+}
+

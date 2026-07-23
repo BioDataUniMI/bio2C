@@ -1,0 +1,1 @@
+Identify the miRNAs transcribed from the gene 'MIR548AA2' and their homologous miRNAs.

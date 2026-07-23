@@ -1,0 +1,30 @@
+{
+  "Disease": "hereditary spastic paraplegia 72",
+  "Phenotype": "Hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Disease": "hearing loss, autosomal dominant 72",
+  "Phenotype": "Sensorineural hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Disease": "retinitis pigmentosa 72",
+  "Phenotype": "Sensorineural hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Disease": "hereditary spastic paraplegia 72",
+  "Phenotype": "Sensorineural hearing impairment",
+  "GOterm": "sensory perception of sound"
+}
+
+{
+  "Disease": "retinitis pigmentosa 72",
+  "Phenotype": "Visual impairment",
+  "GOterm": "visual perception"
+}
+

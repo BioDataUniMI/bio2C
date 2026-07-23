@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-let-7a-5p",
+  "GOterm": "mRNA base-pairing translational repressor activity"
+}
+

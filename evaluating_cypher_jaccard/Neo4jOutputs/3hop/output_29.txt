@@ -1,0 +1,30 @@
+{
+  "gene": "SLC23A1",
+  "phenotype": "Respiratory failure",
+  "parent_phenotype": "Respiratory insufficiency"
+}
+
+{
+  "gene": "MGME1",
+  "phenotype": "Respiratory failure",
+  "parent_phenotype": "Respiratory insufficiency"
+}
+
+{
+  "gene": "CACNA1S",
+  "phenotype": "Respiratory failure",
+  "parent_phenotype": "Respiratory insufficiency"
+}
+
+{
+  "gene": "TRH",
+  "phenotype": "Respiratory failure",
+  "parent_phenotype": "Respiratory insufficiency"
+}
+
+{
+  "gene": "TBCD",
+  "phenotype": "Respiratory failure",
+  "parent_phenotype": "Respiratory insufficiency"
+}
+

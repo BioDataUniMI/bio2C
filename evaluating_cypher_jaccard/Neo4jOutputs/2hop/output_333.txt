@@ -1,0 +1,30 @@
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 5",
+  "NeurodegenerativeDisease": "frontotemporal dementia and/or amyotrophic lateral sclerosis",
+  "Phenotype": "Middle age onset"
+}
+
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 8",
+  "NeurodegenerativeDisease": "frontotemporal dementia and/or amyotrophic lateral sclerosis",
+  "Phenotype": "Middle age onset"
+}
+
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 4",
+  "NeurodegenerativeDisease": "frontotemporal dementia and/or amyotrophic lateral sclerosis",
+  "Phenotype": "Middle age onset"
+}
+
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 3",
+  "NeurodegenerativeDisease": "frontotemporal dementia and/or amyotrophic lateral sclerosis",
+  "Phenotype": "Middle age onset"
+}
+
+{
+  "Disease": "frontotemporal dementia and/or amyotrophic lateral sclerosis 2",
+  "NeurodegenerativeDisease": "frontotemporal dementia and/or amyotrophic lateral sclerosis",
+  "Phenotype": "Middle age onset"
+}
+

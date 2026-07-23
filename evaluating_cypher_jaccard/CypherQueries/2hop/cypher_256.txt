@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label: 'Feeding difficulties'})-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process) RETURN d.Label AS Disease, bp.Label AS BiologicalProcess

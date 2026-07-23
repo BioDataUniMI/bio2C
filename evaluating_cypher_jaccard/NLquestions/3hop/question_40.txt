@@ -1,0 +1,1 @@
+Identify the genes transcribed to precursor miRNAs that have functions in biological processes which have as target start locations the 'extracellular region' cellular component. Return the gene, the precursor miRNA, the biological process, and the target cellular component.

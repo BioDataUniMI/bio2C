@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:transcribed_from]->(s:Gene), (m)-[:regulates_activity_of]->(t:Gene) WHERE SIZE(t.Sequence) >= 100 * SIZE(s.Sequence) OR SIZE(t.Sequence) > 50000 RETURN DISTINCT t.Label AS TargetGene, m.Label AS miRNA, s.Label AS SourceGene

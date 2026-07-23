@@ -1,0 +1,35 @@
+{
+  "SourceGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "stroke disorder",
+  "DiseaseFeature": "structural epilepsy"
+}
+
+{
+  "SourceGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "gout",
+  "DiseaseFeature": "hydrarthrosis"
+}
+
+{
+  "SourceGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "malignant pancreatic neoplasm",
+  "DiseaseFeature": "acute pancreatitis"
+}
+
+{
+  "SourceGene": "H2AC11",
+  "InteractingGene": "H2BC4",
+  "Disease": "hereditary breast carcinoma",
+  "DiseaseFeature": "breast carcinoma"
+}
+
+{
+  "SourceGene": "H3C7",
+  "InteractingGene": "H2BC4",
+  "Disease": "hereditary breast carcinoma",
+  "DiseaseFeature": "breast carcinoma"
+}
+

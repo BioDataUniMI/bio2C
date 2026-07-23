@@ -1,0 +1,21 @@
+{
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity",
+  "miRNAs": [
+    "hsa-miR-181c-5p"
+  ]
+}
+
+{
+  "MolecularFunction": "histone H3K9 trimethyltransferase activity",
+  "miRNAs": [
+    "hsa-miR-181c-5p"
+  ]
+}
+
+{
+  "MolecularFunction": "histone H3K9me2 methyltransferase activity",
+  "miRNAs": [
+    "hsa-miR-181c-5p"
+  ]
+}
+

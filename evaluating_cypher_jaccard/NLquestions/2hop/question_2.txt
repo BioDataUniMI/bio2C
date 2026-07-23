@@ -1,0 +1,1 @@
+Show all pre-miRNA → gene → miRNA triads where the gene label ends with the letter 'BA', linking precursors to mature miRNAs through their genes. Return pre-miRNA, the gene and the miRNA labels.

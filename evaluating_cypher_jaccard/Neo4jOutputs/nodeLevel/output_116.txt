@@ -1,0 +1,28 @@
+{
+  "Gene": "MIR934",
+  "GenomicCoordinates": [
+    "chrX:136550878-136550960+"
+  ]
+}
+
+{
+  "Gene": "MIR942",
+  "GenomicCoordinates": [
+    "chr1:117094643-117094728+"
+  ]
+}
+
+{
+  "Gene": "MIR921",
+  "GenomicCoordinates": [
+    "chr1:166154743-166154798-"
+  ]
+}
+
+{
+  "Gene": "MIR92B",
+  "GenomicCoordinates": [
+    "chr1:155195177-155195272+"
+  ]
+}
+

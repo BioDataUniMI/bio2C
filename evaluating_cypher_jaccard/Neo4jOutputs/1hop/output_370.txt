@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "positive regulation of behavior"
+}
+
+{
+  "miRNA": "hsa-miR-381-3p",
+  "BiologicalProcess": "positive regulation of behavior"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "regulation of behavior"
+}
+
+{
+  "miRNA": "hsa-miR-520c-3p",
+  "BiologicalProcess": "regulation of behavior"
+}
+
+{
+  "miRNA": "hsa-miR-199b-3p",
+  "BiologicalProcess": "regulation of behavior"
+}
+

@@ -1,0 +1,1 @@
+Which cancers express miRNAs longer than 21 nucleotides that participate in biological processes labeled as 'autophagy', where those biological processes are subclasses of other biological processes? Return the labels of the cancers, the miRNAs, the miRNA sequence length, and the label of the parent biological process.

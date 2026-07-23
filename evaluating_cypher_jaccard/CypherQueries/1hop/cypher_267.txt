@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease)-[:disease_has_major_feature]->(p:Phenotype) RETURN i.Label AS InfectiousDisease, p.Label AS MajorFeature

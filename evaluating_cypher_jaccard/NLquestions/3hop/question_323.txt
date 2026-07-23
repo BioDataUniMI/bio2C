@@ -1,0 +1,1 @@
+Identify miRNAs participating in biological processes whose disruption is caused by a disease that has the phenotype labeled as 'Hypoplastic pubic ramus'. Return the label of the diseases, biological processes, miRNAs, and the miRNA genomic coordinates.

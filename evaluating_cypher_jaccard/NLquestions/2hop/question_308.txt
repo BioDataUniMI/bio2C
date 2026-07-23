@@ -1,0 +1,1 @@
+Identify molecular functions that are part of GO terms whose disruption causes the disease labeled 'disorder of glycolysis'. Return the GO term and molecular function labels.

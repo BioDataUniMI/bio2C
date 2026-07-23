@@ -1,0 +1,6 @@
+{
+  "Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus in which the cause of the disease is a mutation in the sumo4 gene.",
+  "ID": "MONDO:0010863",
+  "Label": "type 1 diabetes mellitus 5",
+  "URI": "http://purl.obolibrary.org/obo/MONDO_0010863"
+}

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr19:') RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates, mf.Label AS MolecularFunction

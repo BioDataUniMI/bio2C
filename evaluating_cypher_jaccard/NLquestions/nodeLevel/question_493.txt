@@ -1,0 +1,1 @@
+Which pre-miRNA have genomic coordinate located on the negative strand of the chromosome 21 (i.e., the coordinates end with '-') ?

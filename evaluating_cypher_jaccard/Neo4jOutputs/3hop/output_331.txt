@@ -1,0 +1,45 @@
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "ovarian neoplasm",
+  "SourceGeneLength": 81,
+  "TargetGeneLength": 63814
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "motor neuron disorder",
+  "SourceGeneLength": 81,
+  "TargetGeneLength": 63814
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "malignant epithelial tumor of ovary",
+  "SourceGeneLength": 81,
+  "TargetGeneLength": 63814
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "juvenile amyotrophic lateral sclerosis",
+  "SourceGeneLength": 81,
+  "TargetGeneLength": 63814
+}
+
+{
+  "SourceGene": "MIR4723",
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "Disease": "autosomal recessive distal spinal muscular atrophy 1",
+  "SourceGeneLength": 81,
+  "TargetGeneLength": 63814
+}
+

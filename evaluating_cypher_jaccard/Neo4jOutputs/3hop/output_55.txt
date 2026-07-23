@@ -1,0 +1,35 @@
+{
+  "precursor_miRNA": "microRNA hsa-mir-185 precursor",
+  "primary_disease": "bipolar disorder",
+  "feature_disease": "recurrent hypersomnia",
+  "phenotype": "Abnormal eating behavior"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-185 precursor",
+  "primary_disease": "bipolar disorder",
+  "feature_disease": "recurrent hypersomnia",
+  "phenotype": "Sweet craving"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-185 precursor",
+  "primary_disease": "bipolar disorder",
+  "feature_disease": "recurrent hypersomnia",
+  "phenotype": "Episodic hypersomnia"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-185 precursor",
+  "primary_disease": "bipolar disorder",
+  "feature_disease": "recurrent hypersomnia",
+  "phenotype": "Poor appetite"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-185 precursor",
+  "primary_disease": "bipolar disorder",
+  "feature_disease": "recurrent hypersomnia",
+  "phenotype": "Polyphagia"
+}
+

@@ -1,0 +1,1 @@
+Identify diseases that have phenotypes and cause disruption of biological processes whose label contains the string 'T cell'. Return the phenotype, disease, and biological process labels.

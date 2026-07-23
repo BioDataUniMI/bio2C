@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(go1:GO), (d)-[:disease_causes_disruption_of]->(go)-[:regulates]->(go2:GO) WHERE go1 <> go RETURN d.Label AS Disease, go1.Label AS GO_CausedByDisruption, go.Label AS GO_CausesDisruption, go2.Label AS GO_Regulated

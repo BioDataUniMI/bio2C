@@ -1,0 +1,20 @@
+{
+  "bp.Label": "insulin secretion"
+}
+
+{
+  "bp.Label": "muscle structure development"
+}
+
+{
+  "bp.Label": "lipid transport across blood-brain barrier"
+}
+
+{
+  "bp.Label": "insulin receptor signaling pathway"
+}
+
+{
+  "bp.Label": "transport across blood-brain barrier"
+}
+

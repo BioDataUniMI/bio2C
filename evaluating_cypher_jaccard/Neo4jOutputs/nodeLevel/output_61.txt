@@ -1,0 +1,20 @@
+{
+  "g.Label": "positive regulation of mast cell degranulation"
+}
+
+{
+  "g.Label": "positive regulation of basophil degranulation"
+}
+
+{
+  "g.Label": "regulation of neutrophil degranulation"
+}
+
+{
+  "g.Label": "envenomation resulting in positive regulation of mast cell degranulation in another organism"
+}
+
+{
+  "g.Label": "natural killer cell degranulation"
+}
+

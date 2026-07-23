@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Cancer)-[:has_phenotype]->(p:Phenotype) WHERE m.Label CONTAINS 'f' AND d.Label CONTAINS 'malignant' AND p.Label CONTAINS 'painful' RETURN m.Label AS miRNA, c.Label AS Cancer, d.Label AS ParentDisease, p.Label AS Phenotype

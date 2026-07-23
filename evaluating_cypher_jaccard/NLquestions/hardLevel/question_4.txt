@@ -1,0 +1,1 @@
+Count the number of distinct data sources reporting under-expression of pre-miRNAs in cancers with at least two measurement methods, one of which is 'quantitative reverse transcriptase PCR', and return the count per cancer.

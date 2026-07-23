@@ -1,0 +1,1 @@
+Retrieve 5 pre-miRNA from the longest sequence. In case of ties, sort alphabetically by label. Return their full labels, descriptions, and sequence length.

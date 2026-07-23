@@ -1,0 +1,1 @@
+Find the URIs of diseases where miRNAs are under-expressed and whose descriptions contain the string 'african countries'.

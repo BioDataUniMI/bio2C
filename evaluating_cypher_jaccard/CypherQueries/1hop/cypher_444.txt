@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:results_in_transport_along]->(cc:Cellular_component) WHERE ANY(src IN r.Source WHERE src = 'Uberon') RETURN bp.Label, cc.Label, r.Source

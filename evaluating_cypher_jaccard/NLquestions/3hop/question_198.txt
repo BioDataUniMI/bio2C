@@ -1,0 +1,1 @@
+Identify the cancers that express the miRNA 'hsa-let-7a-3p' when it regulates the activity of genes that cause or contribute to the disease labeled 'leukemia'. Return the label of both the cancer and the gene

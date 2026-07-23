@@ -1,0 +1,17 @@
+{
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-125b-5p",
+  "Genomic_coordinates": [
+    "chr11:122099809-122099830-",
+    "chr21:16590253-16590274+"
+  ]
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "miRNA": "hsa-miR-326",
+  "Genomic_coordinates": [
+    "chr11:75335108-75335127-"
+  ]
+}
+

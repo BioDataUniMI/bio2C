@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'MIR548AA2'})-[:transcribed_to]->(m:miRNA)-[:in_homology_relationship_with]->(m2:miRNA) RETURN m.Label AS Transcribed_miRNA, m2.Label AS Homologous_miRNA

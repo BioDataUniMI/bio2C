@@ -1,0 +1,1 @@
+For each GO term, count how many distinct miRNAs are expressed in diseases that have phenotypes characteristic of it. Return the GO term label and the miRNA count.

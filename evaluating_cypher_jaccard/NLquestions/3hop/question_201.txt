@@ -1,0 +1,1 @@
+Identify the cancers that express miRNAs regulating the activity of genes that cause or contribute to the disease labeled as 'primary cutaneous diffuse large B-cell lymphoma, Leg type'. Return the labels of the cancer, the miRNA, the gene.

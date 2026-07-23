@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-103a-3p",
+  "CellularComponent": "dendrite"
+}
+
+{
+  "miRNA": "hsa-miR-483-5p",
+  "CellularComponent": "dendrite"
+}
+
+{
+  "miRNA": "hsa-miR-216a-5p",
+  "CellularComponent": "dendrite"
+}
+
+{
+  "miRNA": "hsa-miR-23a-5p",
+  "CellularComponent": "neuronal cell body"
+}
+
+{
+  "miRNA": "hsa-miR-103a-3p",
+  "CellularComponent": "dendritic tree"
+}
+

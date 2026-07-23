@@ -1,0 +1,1 @@
+Identify genes whose label ends with two digits followed by 'A' or 'B' and are regulated by miRNAs that participate in biological processes whose disruption causes neurodegenerative diseases. Return the neurodegenerative disease label, biological process label, miRNA label, and gene label.

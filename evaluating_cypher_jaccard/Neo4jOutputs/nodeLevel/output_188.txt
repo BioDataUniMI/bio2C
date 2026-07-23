@@ -1,0 +1,25 @@
+{
+  "GOTerm": "negative regulation of cell cycle checkpoint",
+  "Description": "any process that stops, prevents or reduces the frequency, rate or extent of cell cycle checkpoint."
+}
+
+{
+  "GOTerm": "meiotic cell cycle checkpoint signaling",
+  "Description": "a signaling process that contributes to a meiotic cell cycle checkpoint that ensures accurate chr..."
+}
+
+{
+  "GOTerm": "activation of mitotic cell cycle spindle assembly checkpoint",
+  "Description": "any process that starts the inactive process of a mitotic cell cycle spindle assembly checkpoint."
+}
+
+{
+  "GOTerm": "response to meiotic cell cycle checkpoint signaling",
+  "Description": "a process that acts directly to delay or stop progression through the cell cycle in response to s..."
+}
+
+{
+  "GOTerm": "symbiont-mediated perturbation of host cell cycle G0/G1 transition checkpoint",
+  "Description": "a process in which a symbiont interferes with the normal execution of the host cell g0/g1 transit..."
+}
+

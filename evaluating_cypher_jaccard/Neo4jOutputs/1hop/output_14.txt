@@ -1,0 +1,55 @@
+{
+  "miRNA": "hsa-miR-3197",
+  "Parent_miRNA": "microRNA hsa-mir-3197 precursor",
+  "miRNA_coords": [
+    "chr21:41167564-41167586+"
+  ],
+  "parent_coords": [
+    "chr21:41167557-41167629+"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7c-5p",
+  "Parent_miRNA": "let-7c stem-loop (hsa-let-7c)",
+  "miRNA_coords": [
+    "chr21:16539838-16539859+"
+  ],
+  "parent_coords": [
+    "chr21:16539828-16539911+"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7c-3p",
+  "Parent_miRNA": "let-7c stem-loop (hsa-let-7c)",
+  "miRNA_coords": [
+    "chr21:16539883-16539904+"
+  ],
+  "parent_coords": [
+    "chr21:16539828-16539911+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-99a-5p",
+  "Parent_miRNA": "microRNA hsa-mir-99a precursor",
+  "miRNA_coords": [
+    "chr21:16539101-16539122+"
+  ],
+  "parent_coords": [
+    "chr21:16539089-16539169+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-99a-3p",
+  "Parent_miRNA": "microRNA hsa-mir-99a precursor",
+  "miRNA_coords": [
+    "chr21:16539138-16539159+"
+  ],
+  "parent_coords": [
+    "chr21:16539089-16539169+"
+  ]
+}
+

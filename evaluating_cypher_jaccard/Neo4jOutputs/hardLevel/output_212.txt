@@ -1,0 +1,116 @@
+{
+  "miRNA": "hsa-miR-1302",
+  "pre_miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "common_chroms": [
+    "chr15",
+    "chr1",
+    "chr9",
+    "chr9",
+    "chr19"
+  ],
+  "miRNA_coords": [
+    "chr15:101960504-101960524-",
+    "chr1:30438-30458+",
+    "chr9:97363596-97363616-",
+    "chr7:18127234-18127254-",
+    "chr2:113583004-113583024-",
+    "chr2:207269328-207269348-",
+    "chr9:30216-30236+",
+    "chr19:72045-72065+",
+    "chr20:50614689-50614709-",
+    "chr12:112695082-112695102-",
+    "chr8:141786255-141786275-"
+  ],
+  "pre_miRNA_coords": [
+    "chr15:101960459-101960596-",
+    "chrCHR_HG2499_PATCH:66596-66733-",
+    "chr1:30366-30503+",
+    "chr19:71973-72110+",
+    "chrHG2499_PATCH:66596-66733-",
+    "chr9:30144-30281+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-520c-5p",
+  "pre_miRNA": "microRNA hsa-mir-526a precursor (hsa-mir-526a-2)",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "miRNA_coords": [
+    "chr19:53726928-53726949+",
+    "chr19:53707468-53707489+",
+    "chr19:53706266-53706287+",
+    "chr19:53734892-53734913+"
+  ],
+  "pre_miRNA_coords": [
+    "chr19:53726922-53726986+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-520c-5p",
+  "pre_miRNA": "microRNA hsa-mir-526a precursor (hsa-mir-526a-1)",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "miRNA_coords": [
+    "chr19:53726928-53726949+",
+    "chr19:53707468-53707489+",
+    "chr19:53706266-53706287+",
+    "chr19:53734892-53734913+"
+  ],
+  "pre_miRNA_coords": [
+    "chr19:53706252-53706336+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-516b-3p",
+  "pre_miRNA": "microRNA hsa-mir-516a precursor (hsa-mir-516a-2)",
+  "common_chroms": [
+    "chr19",
+    "chr19",
+    "chr19",
+    "chr19"
+  ],
+  "miRNA_coords": [
+    "chr19:53756801-53756818+",
+    "chr19:53725497-53725514+",
+    "chr19:53761193-53761210+",
+    "chr19:53736905-53736922+"
+  ],
+  "pre_miRNA_coords": [
+    "chr19:53761133-53761222+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-3179",
+  "pre_miRNA": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)",
+  "common_chroms": [
+    "chr16",
+    "chr16",
+    "chr16",
+    "chr16"
+  ],
+  "miRNA_coords": [
+    "chr16:16300210-16300231+",
+    "chr16:18494504-18494525-",
+    "chr16:18411905-18411926-",
+    "chr16:14901559-14901580+"
+  ],
+  "pre_miRNA_coords": [
+    "chr16:14901508-14901591+",
+    "chr16:18494493-18494576-",
+    "chr16:18411894-18411977-",
+    "chr16:16300159-16300242+"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Find all phenotypes that do not have modifier phenotypes and have at least one synonym containing the Spanish word 'clónicafocal'.

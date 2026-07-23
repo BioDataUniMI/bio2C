@@ -1,0 +1,1 @@
+Given the miRNA 'hsa-miR-708-5p', identify the autoimmune diseases caused or contributed to by genes regulated by this miRNA, excluding diseases whose labels contain the term 'diabete'. Return the pre-miRNA label, the gene label, and the autoimmune disease label.

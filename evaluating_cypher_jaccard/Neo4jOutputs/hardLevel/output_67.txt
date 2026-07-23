@@ -1,0 +1,32 @@
+{
+  "Phenotype": "Small cell lung carcinoma",
+  "Cancer": "breast carcinoma",
+  "miRNAs": [
+    "hsa-miR-125b-5p"
+  ]
+}
+
+{
+  "Phenotype": "Melanoma",
+  "Cancer": "breast carcinoma",
+  "miRNAs": [
+    "hsa-miR-125b-5p"
+  ]
+}
+
+{
+  "Phenotype": "Small cell lung carcinoma",
+  "Cancer": "breast cancer",
+  "miRNAs": [
+    "hsa-miR-125b-5p"
+  ]
+}
+
+{
+  "Phenotype": "Melanoma",
+  "Cancer": "breast cancer",
+  "miRNAs": [
+    "hsa-miR-125b-5p"
+  ]
+}
+

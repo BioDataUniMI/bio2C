@@ -1,0 +1,1 @@
+Which cancers express miRNAs that are located in cellular components whose label contains the string 'extracellular'? Keep only entries having these components part of GO terms. Return the label of the: cancer, miRNA, cellular component, and GO term.

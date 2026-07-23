@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-497-5p",
+  "Gene": "QKI",
+  "Disease": "central nervous system neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-214-3p",
+  "Gene": "QKI",
+  "Disease": "central nervous system neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Gene": "CD9",
+  "Disease": "central nervous system neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-30b-5p",
+  "Gene": "CAT",
+  "Disease": "central nervous system neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-1270",
+  "Gene": "WT1",
+  "Disease": "central nervous system neoplasm"
+}
+

@@ -1,0 +1,1 @@
+Find all pre-miRNAs that have at least one genomic coordinate on chromosome 20 on the positive strand ('+') and none on the negative strand ('-'), which are causal somatic mutations in phenotypes associated with cardiovascular diseases. Return the pre-miRNA, the phenotype, the disease, and the pre_miRNA genomic coordinates.

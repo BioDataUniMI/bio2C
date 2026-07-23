@@ -1,0 +1,20 @@
+{
+  "g.Label": "PXN-AS1"
+}
+
+{
+  "g.Label": "POC1B-GALNT4"
+}
+
+{
+  "g.Label": "PRH1-PRR4"
+}
+
+{
+  "g.Label": "PINK1-AS"
+}
+
+{
+  "g.Label": "PTGES3L-AARSD1"
+}
+

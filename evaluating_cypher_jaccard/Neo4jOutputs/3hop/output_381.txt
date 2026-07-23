@@ -1,0 +1,55 @@
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-762 precursor",
+  "miRNA": "hsa-miR-762",
+  "ParticipationSource": [
+    "Rfam",
+    "RNAcentral"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-3p",
+  "ParticipationSource": [
+    "Rfam",
+    "RNAcentral"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "miRNA": "hsa-miR-324-5p",
+  "ParticipationSource": [
+    "Rfam",
+    "RNAcentral"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "miRNA": "hsa-miR-455-3p",
+  "ParticipationSource": [
+    "Rfam",
+    "RNAcentral"
+  ]
+}
+
+{
+  "Disease": "auditory perceptual disorders",
+  "GOterm": "sensory perception of sound",
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "miRNA": "hsa-miR-455-5p",
+  "ParticipationSource": [
+    "Rfam",
+    "RNAcentral"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "Source": [
+    "miR2Disease"
+  ],
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-106b-5p"
+}
+
+{
+  "Source": [
+    "miR2Disease"
+  ],
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-26b-5p"
+}
+
+{
+  "Source": [
+    "miR2Disease"
+  ],
+  "Disease": "multiple sclerosis",
+  "miRNA": "hsa-miR-20b-5p"
+}
+

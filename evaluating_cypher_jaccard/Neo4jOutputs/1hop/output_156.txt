@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Source": [
+    "TAM"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-143 precursor",
+  "Source": [
+    "TAM"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-205 precursor",
+  "Source": [
+    "TAM"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Source": [
+    "TAM"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200a precursor",
+  "Source": [
+    "TAM"
+  ]
+}
+

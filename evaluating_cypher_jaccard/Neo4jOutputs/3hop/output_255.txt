@@ -1,0 +1,35 @@
+{
+  "Disease": "neurodevelopmental disorder with seizures, spasticity, and complete or partial agenesis of the co...",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development"
+}
+
+{
+  "Disease": "neurodevelopmental disorder with growth retardation, dysmorphic facies, and corpus callosum abnor...",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development"
+}
+
+{
+  "Disease": "neurodevelopmental disorder, nonprogressive, with spasticity and transient opisthotonus",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development"
+}
+
+{
+  "Disease": "neurodevelopmental disorder with seizures and brain abnormalities",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development"
+}
+
+{
+  "Disease": "neurodevelopmental disorder with hypotonia and brain abnormalities",
+  "Phenotype": "Partial agenesis of the corpus callosum",
+  "GOterm": "animal organ development",
+  "BiologicalProcess": "system development"
+}
+

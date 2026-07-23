@@ -1,0 +1,6 @@
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNACount": 15
+}
+

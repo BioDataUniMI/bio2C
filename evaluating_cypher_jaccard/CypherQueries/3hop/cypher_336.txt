@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process {Label: 'serine phosphorylation of STAT protein'})-[:part_of]->(go1:GO)-[:regulates]->(go2:GO)<-[:participates_in]-(m:miRNA) RETURN go1.Label AS ParentGO, go2.Label AS RegulatedGO, m.Label AS miRNA_Label, m.Sequence AS miRNA_Sequence 

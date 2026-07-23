@@ -1,0 +1,30 @@
+{
+  "Disease": "Li-fraumeni-like syndrome",
+  "Phenotype": "Lymphoma",
+  "PubMedIDs": null
+}
+
+{
+  "Disease": "familial idiopathic inflammatory myopathy",
+  "Phenotype": "Lymphoma",
+  "PubMedIDs": null
+}
+
+{
+  "Disease": "macroglobulinemia, Waldenstrom, 1",
+  "Phenotype": "Lymphoma",
+  "PubMedIDs": null
+}
+
+{
+  "Disease": "Waldenstrom macroglobulinemia",
+  "Phenotype": "Lymphoma",
+  "PubMedIDs": null
+}
+
+{
+  "Disease": "hereditary thrombocytopenia and hematological cancer predisposition syndrome associated with RUNX1",
+  "Phenotype": "Lymphoma",
+  "PubMedIDs": null
+}
+

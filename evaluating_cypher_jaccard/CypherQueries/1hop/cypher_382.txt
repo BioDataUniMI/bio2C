@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA {Species:'Homo sapiens', Label:'microRNA hsa-mir-4498 precursor'}) RETURN g.Label AS Gene, labels(m) AS miRNALabels

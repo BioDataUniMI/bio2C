@@ -1,0 +1,5 @@
+{
+  "Gene_URI": "http://www.ncbi.nlm.nih.gov/gene/281338",
+  "Disease": "cleft palate, MYH3-related, cattle"
+}
+

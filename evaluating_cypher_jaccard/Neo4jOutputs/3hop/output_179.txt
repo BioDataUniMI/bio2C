@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Phenotype": "Abnormality of the sense of smell",
+  "GOterm": "sensory perception of smell"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Phenotype": "Involuntary movements",
+  "GOterm": "voluntary skeletal muscle contraction"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Phenotype": "Hypokinesia",
+  "GOterm": "musculoskeletal movement"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Phenotype": "Hyperreflexia",
+  "GOterm": "reflex"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-29c precursor",
+  "InfectiousDisease": "silicotuberculosis",
+  "Phenotype": "Delayed skeletal maturation",
+  "GOterm": "bone maturation"
+}
+

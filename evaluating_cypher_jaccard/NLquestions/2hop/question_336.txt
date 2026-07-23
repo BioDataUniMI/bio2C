@@ -1,0 +1,1 @@
+Identify, for miRNAs located in the cellular component labeled as 'P-body', the cancers in which they are expressed and the experimental methods used to support their expression. We want to keep interactions validated by 'qRT-PCR etc' or 'Northern blotting' (case-insensitive) methods only. Return the cancer, miRNA, and expression method.

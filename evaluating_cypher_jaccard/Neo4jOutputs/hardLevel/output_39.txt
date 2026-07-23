@@ -1,0 +1,30 @@
+{
+  "Gene": "SNCG",
+  "One_Word_Synonym": "-synuclein",
+  "Phenotype": "Hyperkinetic movements"
+}
+
+{
+  "Gene": "ADCY1",
+  "One_Word_Synonym": "AC1",
+  "Phenotype": "Hyperkinetic movements"
+}
+
+{
+  "Gene": "ADCY8",
+  "One_Word_Synonym": "AC8",
+  "Phenotype": "Hyperkinetic movements"
+}
+
+{
+  "Gene": "ADCY8",
+  "One_Word_Synonym": "ADCY3",
+  "Phenotype": "Hyperkinetic movements"
+}
+
+{
+  "Gene": "SNCG",
+  "One_Word_Synonym": "BCSG1",
+  "Phenotype": "Hyperkinetic movements"
+}
+

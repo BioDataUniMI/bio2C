@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'lung' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr21') RETURN p.Label AS Phenotype_label, m.Label AS miRNA, m.Genomic_coordinates AS miRNA_coordinates

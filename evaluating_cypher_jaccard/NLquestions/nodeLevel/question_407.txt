@@ -1,0 +1,1 @@
+List all biological processes belonging to the species 'cellular organisms' whose descriptions contain 'steady state'. Return their label, description, and URI.

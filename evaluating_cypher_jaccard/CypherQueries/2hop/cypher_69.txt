@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO {Label:'somatodendritic compartment'}) RETURN m.Label AS miRNA, cc.Label AS CellularComponent

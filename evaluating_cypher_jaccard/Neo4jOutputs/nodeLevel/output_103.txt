@@ -1,0 +1,4 @@
+{
+  "AverageSynonymCount": 6.24154786150712
+}
+

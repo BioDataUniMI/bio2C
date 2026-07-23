@@ -1,0 +1,12 @@
+{
+  "Chromosome": "chr7"
+}
+
+{
+  "Chromosome": "chr17"
+}
+
+{
+  "Chromosome": "chr12"
+}
+

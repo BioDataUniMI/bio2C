@@ -1,0 +1,46 @@
+{
+  "g.Label": "DDX55P1",
+  "g.Synonym": [
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 55 pseudogene 1",
+    "DEAD-box helicase 55 pseudogene 1"
+  ]
+}
+
+{
+  "g.Label": "DDX6P2",
+  "g.Synonym": [
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 6 pseudogene 2",
+    "DEAD (Asp-Glu-Ala-Asp) box helicase 6 pseudogene 2",
+    "DEAD-box helicase 6 pseudogene 2"
+  ]
+}
+
+{
+  "g.Label": "DDX18P6",
+  "g.Synonym": [
+    "DEAD-box helicase 18 pseudogene 6",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 18 pseudogene 6"
+  ]
+}
+
+{
+  "g.Label": "DDX3P1",
+  "g.Synonym": [
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked pseudogene 1",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, pseudogene 1",
+    "DEAD-box helicase 3 pseudogene 1",
+    "DDX3YP1"
+  ]
+}
+
+{
+  "g.Label": "DDX50P2",
+  "g.Synonym": [
+    "DEAD-box helicase 50 pseudogene 2",
+    "DEAD (Asp-Glu-Ala-Asp) box polypeptide 50 pseudogene",
+    "RH_II/GuBp2",
+    "DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 50 pseudogene 2",
+    "RH_II/GuB pseudogene 2"
+  ]
+}
+

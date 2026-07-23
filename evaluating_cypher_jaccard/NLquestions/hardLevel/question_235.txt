@@ -1,0 +1,1 @@
+Find molecular functions in which miRNAs participate grouped by chromosome. Return molecular function label, chromosome, and miRNAs.

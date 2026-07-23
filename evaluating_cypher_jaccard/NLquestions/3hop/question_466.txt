@@ -1,0 +1,1 @@
+Identify miRNAs ending with '648' that develop from precursor pre-miRNAs and are located in the cellular component labeled as 'extracellular exosome', which is known to be part of GO terms. Return the pre-miRNA label, miRNA label, and GO term label.

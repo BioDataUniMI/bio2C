@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "MolecularFunctionLabel": "histone H3K4 trimethyltransferase activity",
+  "MolecularFunctionID": "GO:0140999",
+  "MolecularFunctionURI": "http://purl.obolibrary.org/obo/GO_0140999"
+}
+
+{
+  "miRNA": "hsa-miR-20b-5p",
+  "MolecularFunctionLabel": "histone H4K20 monomethyltransferase activity",
+  "MolecularFunctionID": "GO:0140944",
+  "MolecularFunctionURI": "http://purl.obolibrary.org/obo/GO_0140944"
+}
+
+{
+  "miRNA": "hsa-miR-20b-5p",
+  "MolecularFunctionLabel": "histone H3K9 monomethyltransferase activity",
+  "MolecularFunctionID": "GO:0140948",
+  "MolecularFunctionURI": "http://purl.obolibrary.org/obo/GO_0140948"
+}
+
+{
+  "miRNA": "hsa-miR-200c-3p",
+  "MolecularFunctionLabel": "histone H3K9 monomethyltransferase activity",
+  "MolecularFunctionID": "GO:0140948",
+  "MolecularFunctionURI": "http://purl.obolibrary.org/obo/GO_0140948"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "MolecularFunctionLabel": "histone H3K9 monomethyltransferase activity",
+  "MolecularFunctionID": "GO:0140948",
+  "MolecularFunctionURI": "http://purl.obolibrary.org/obo/GO_0140948"
+}
+

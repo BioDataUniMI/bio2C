@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Relation": "part_of",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Relation": "part_of",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Relation": "located_in",
+  "CellularComponent": "protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Relation": "located_in",
+  "CellularComponent": "serine/threonine protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Relation": "located_in",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+

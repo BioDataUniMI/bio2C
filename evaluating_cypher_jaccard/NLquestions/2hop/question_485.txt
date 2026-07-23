@@ -1,0 +1,1 @@
+Find all phenotypes characterized by being a part of the phenotype labeled as 'Overgrowth', and such that those phenotype parts are again part of a superior phenotype distinct from 'Overgrowth'. Return the part phenotype and the superior phenotype labels.

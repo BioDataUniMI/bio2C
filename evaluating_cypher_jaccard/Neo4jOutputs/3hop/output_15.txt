@@ -1,0 +1,15 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "phenotype": "Unilateral deafness"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "phenotype": "Sensorineural hearing impairment"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "phenotype": "Hearing impairment"
+}
+

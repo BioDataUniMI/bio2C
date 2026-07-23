@@ -1,0 +1,1 @@
+Find diseases that are realized in other diseases with the same label but different descriptions. Return their labels and descriptions.

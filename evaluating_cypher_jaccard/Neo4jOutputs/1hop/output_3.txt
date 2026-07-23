@@ -1,0 +1,35 @@
+{
+  "g.Label": "PCNPP5",
+  "g.Synonym": [
+    "PEST containing nuclear protein pseudogene 5"
+  ]
+}
+
+{
+  "g.Label": "PCNPP5",
+  "g.Synonym": [
+    "PEST containing nuclear protein pseudogene 5"
+  ]
+}
+
+{
+  "g.Label": "PCNPP5",
+  "g.Synonym": [
+    "PEST containing nuclear protein pseudogene 5"
+  ]
+}
+
+{
+  "g.Label": "PCNPP5",
+  "g.Synonym": [
+    "PEST containing nuclear protein pseudogene 5"
+  ]
+}
+
+{
+  "g.Label": "PCNPP5",
+  "g.Synonym": [
+    "PEST containing nuclear protein pseudogene 5"
+  ]
+}
+

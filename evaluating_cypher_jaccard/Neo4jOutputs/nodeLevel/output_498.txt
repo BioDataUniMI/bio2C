@@ -1,0 +1,100 @@
+{
+  "g.Label": "CT47A12",
+  "g.Synonym": [
+    "CT47.2,",
+    "CT47.3,",
+    "CT47.7,",
+    "CT47.5,",
+    "CT47.8,",
+    "CT47.9,",
+    "cancer/testis CT47 family, member 12",
+    "cancer/testis antigen 47A",
+    "CT47",
+    "CT47.12",
+    "cancer/testis antigen 47A family member",
+    "CT47.4,",
+    "CT47.6,",
+    "CT47.1,",
+    "cancer/testis antigen family 47 member A12",
+    "cancer/testis antigen 47",
+    "CT47.11,",
+    "CT47.10,"
+  ]
+}
+
+{
+  "g.Label": "TSHZ1",
+  "g.Synonym": [
+    "SDCCAG33",
+    "serologically defined colon cancer antigen 33",
+    "TSH1",
+    "teashirt zinc finger homeobox 1",
+    "antigen NY-CO-33",
+    "teashirt homolog 1",
+    "CAA",
+    "NY-CO-33"
+  ]
+}
+
+{
+  "g.Label": "STUB1",
+  "g.Synonym": [
+    "carboxy terminus of Hsp70-interacting protein",
+    "RING-type E3 ubiquitin transferase CHIP",
+    "serologically defined colon cancer antigen 7",
+    "HSPABP2",
+    "STIP1 homology and U-box containing protein 1, E3 ubiquitin protein ligase",
+    "SCA48",
+    "UBOX1",
+    "CLL-associated antigen KW-8",
+    "SCAR16",
+    "antigen NY-CO-7",
+    "NY-CO-7",
+    "heat shock protein A binding protein 2 (c-terminal)",
+    "E3 ubiquitin-protein ligase CHIP",
+    "SDCCAG7",
+    "CHIP",
+    "STIP1 homology and U-box containing protein 1"
+  ]
+}
+
+{
+  "g.Label": "CWC27",
+  "g.Synonym": [
+    "peptidyl-prolyl cis-trans isomerase CWC27 homolog",
+    "spliceosome-associated protein CWC27 homolog",
+    "PPIase SDCCAG10",
+    "SDCCAG10",
+    "PPIase CWC27",
+    "RPSKA",
+    "SDCCAG-10",
+    "CWC27 spliceosome associated cyclophilin",
+    "antigen NY-CO-10",
+    "peptidyl-prolyl cis-trans isomerase SDCCAG10",
+    "CWC27 spliceosome associated protein homolog",
+    "serologically defined colon cancer antigen 10",
+    "NY-CO-10",
+    "probable inactive peptidyl-prolyl cis-trans isomerase CWC27 homolog"
+  ]
+}
+
+{
+  "g.Label": "IGF2BP3",
+  "g.Synonym": [
+    "VICKZ family member 3",
+    "CT98",
+    "IMP-3",
+    "cancer/testis antigen 98",
+    "IGF II mRNA binding protein 3",
+    "KOC",
+    "IGF-II mRNA-binding protein 3",
+    "insulin like growth factor 2 mRNA binding protein 3",
+    "IMP3",
+    "KH domain containing protein overexpressed in cancer",
+    "IGF2 mRNA-binding protein 3",
+    "KOC1",
+    "insulin-like growth factor 2 mRNA-binding protein 3",
+    "VICKZ3"
+  ]
+}
+

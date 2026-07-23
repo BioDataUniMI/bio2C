@@ -1,0 +1,1 @@
+List miRNAs that are causal somatic mutations in any 'cervical' cancer subtype. Returning labels of the: miRNAs, cancer subtypes, and parent cancers.

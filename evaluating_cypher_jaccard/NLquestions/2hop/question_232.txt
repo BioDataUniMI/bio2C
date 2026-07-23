@@ -1,0 +1,1 @@
+Identify cellular components where miRNAs, expressed by cancers whose label does not contain the string 'oma', are located. Return the cancer, the miRNA, and the cellular component labels

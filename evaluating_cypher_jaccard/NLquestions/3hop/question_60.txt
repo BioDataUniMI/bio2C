@@ -1,0 +1,1 @@
+For the cardiovascular disease labeled “Emery-Dreifuss muscular dystrophy 2, autosomal dominant”, identify the diseases it shares features with that have phenotypes modified by the phenotype labeled “pathological”. Return the related disease label and the phenotype label.

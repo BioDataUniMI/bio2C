@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT (m)-[:has_participant]-(:miRNA) AND m.Sequence ENDS WITH 'UA' AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label

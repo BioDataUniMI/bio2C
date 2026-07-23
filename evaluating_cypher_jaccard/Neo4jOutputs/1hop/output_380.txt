@@ -1,0 +1,25 @@
+{
+  "Regulator": "hsa-miR-320d",
+  "Target": "microRNA hsa-mir-6501 precursor"
+}
+
+{
+  "Regulator": "hsa-miR-320c",
+  "Target": "microRNA hsa-mir-6501 precursor"
+}
+
+{
+  "Regulator": "hsa-miR-338-3p",
+  "Target": "microRNA hsa-mir-6501 precursor"
+}
+
+{
+  "Regulator": "hsa-miR-141-3p",
+  "Target": "microRNA hsa-mir-6501 precursor"
+}
+
+{
+  "Regulator": "hsa-miR-30d-5p",
+  "Target": "microRNA hsa-mir-6501 precursor"
+}
+

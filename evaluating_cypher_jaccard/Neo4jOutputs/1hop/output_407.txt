@@ -1,0 +1,20 @@
+{
+  "p.Label": "Focal non-motor seizure",
+  "p.Synonym": [
+    "Fokální non-motorický záchvat",
+    "局灶性非运动发作",
+    "Convulsión focal no motora",
+    "局所性非運動発作"
+  ]
+}
+
+{
+  "p.Label": "Focal aware non-motor seizure",
+  "p.Synonym": [
+    "Fokální non-motorický záchvat bez poruchy vědomí",
+    "知觉保留的非运动型发作",
+    "焦点性意識非運動発作",
+    "Convulsión focal no motora sin pérdida de conciencia"
+  ]
+}
+

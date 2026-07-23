@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "miRNA_coordinates": [
+    "chr12:97563834-97563856+",
+    "chr3:52294270-52294292-"
+  ],
+  "Phenotype_label": "Ovarian neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "miRNA_coordinates": [
+    "chr12:97563834-97563856+",
+    "chr3:52294270-52294292-"
+  ],
+  "Phenotype_label": "Neoplasm of the lung"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "miRNA_coordinates": [
+    "chr12:97563834-97563856+",
+    "chr3:52294270-52294292-"
+  ],
+  "Phenotype_label": "Neoplasm of head and neck"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "miRNA_coordinates": [
+    "chr12:97563834-97563856+",
+    "chr3:52294270-52294292-"
+  ],
+  "Phenotype_label": "Prostate cancer"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "miRNA_coordinates": [
+    "chr12:97563834-97563856+",
+    "chr3:52294270-52294292-"
+  ],
+  "Phenotype_label": "Acute myeloid leukemia"
+}
+

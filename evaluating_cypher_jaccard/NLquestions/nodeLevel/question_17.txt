@@ -1,0 +1,1 @@
+List miRNAs with sequences of at least 100 nucleotides whose genomic coordinates start with 'chr7'.

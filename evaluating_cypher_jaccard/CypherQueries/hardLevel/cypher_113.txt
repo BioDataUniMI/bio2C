@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_active_in]->(c:Cellular_component) WHERE SIZE(SPLIT(m.Sequence, 'GA')) - 1 >= 2 WITH m, c, SIZE(m.Sequence) AS seqLength ORDER BY seqLength DESC LIMIT 1 RETURN DISTINCT m.Sequence, seqLength AS Sequence_Length, c.Label

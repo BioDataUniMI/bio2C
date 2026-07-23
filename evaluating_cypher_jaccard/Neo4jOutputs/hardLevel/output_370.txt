@@ -1,0 +1,4 @@
+{
+  "DiseaseType": ["Disease", "Cancer"],
+  "RelationshipCount": 250
+}

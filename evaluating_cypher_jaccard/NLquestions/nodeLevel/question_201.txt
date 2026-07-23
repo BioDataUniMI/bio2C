@@ -1,0 +1,1 @@
+Which biological processes have labels mentioning 'cell cycle' and descriptions mentioning 'regulation'?

@@ -1,0 +1,35 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "miRNASequenceLength": 22,
+  "ParentBiologicalProcess": "process utilizing autophagic mechanism"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "miRNASequenceLength": 22,
+  "ParentBiologicalProcess": "catabolic process"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "miRNASequenceLength": 22,
+  "ParentBiologicalProcess": "process utilizing autophagic mechanism"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "miRNASequenceLength": 22,
+  "ParentBiologicalProcess": "catabolic process"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "miRNASequenceLength": 22,
+  "ParentBiologicalProcess": "process utilizing autophagic mechanism"
+}
+

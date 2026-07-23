@@ -1,0 +1,1 @@
+Find miRNAs that develop from a pre-miRNA with the highest difference in sequence length. List the top 2, ordered alphabetically by pre-miRNA label in case of ties. Return the miRNA label and pre-miRNA label, their sequence lengths, and the length difference.

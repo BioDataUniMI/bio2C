@@ -1,0 +1,1 @@
+Which biological processes include GO terms that characterize phenotypes of diseases whose label contains the word 'autism'? Keep only phenotypes having a label that contains the word 'hearing'? Return the disease label, the phenotype label, the GO term, and the biological process.

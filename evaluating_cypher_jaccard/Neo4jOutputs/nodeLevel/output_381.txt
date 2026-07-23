@@ -1,0 +1,8 @@
+{
+  "DiseaseLabel": "parainfluenza virus type 3 infectious disease"
+}
+
+{
+  "DiseaseLabel": "influenza"
+}
+

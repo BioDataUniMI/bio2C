@@ -1,0 +1,28 @@
+{
+  "Gene": "MIR4316",
+  "GenomicCoordinates": [
+    "chr17:77396984-77397054-"
+  ]
+}
+
+{
+  "Gene": "MIR4315-2",
+  "GenomicCoordinates": [
+    "chr17:64822030-64822102-"
+  ]
+}
+
+{
+  "Gene": "MIR4314",
+  "GenomicCoordinates": [
+    "chr17:8088056-8088147+"
+  ]
+}
+
+{
+  "Gene": "MIR4315-1",
+  "GenomicCoordinates": [
+    "chr17:45475363-45475435-"
+  ]
+}
+

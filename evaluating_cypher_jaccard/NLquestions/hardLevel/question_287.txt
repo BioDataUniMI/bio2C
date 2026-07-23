@@ -1,0 +1,1 @@
+Find the miRNAs that participate in biological processes whose labels contain 'stress', ranked by their sequence length. List the longest 5 along with their sequence length and the associated biological process. In case of ties, order miRNAs alphabetically.

@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Cerebral ischemia",
+  "miRNA": "microRNA hsa-mir-15a precursor"
+}
+
+{
+  "Phenotype": "Cerebral ischemia",
+  "miRNA": "microRNA hsa-mir-23a precursor"
+}
+
+{
+  "Phenotype": "Cerebral hemorrhage",
+  "miRNA": "microRNA hsa-mir-23a precursor"
+}
+
+{
+  "Phenotype": "Cerebral ischemia",
+  "miRNA": "microRNA hsa-mir-27a precursor"
+}
+
+{
+  "Phenotype": "Dilatation of the cerebral artery",
+  "miRNA": "microRNA hsa-mir-125a precursor"
+}
+

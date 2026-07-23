@@ -1,0 +1,1 @@
+Which phenotypes are recorded as features of diseases and are characterized by a label that contains the word 'pleurisy'.

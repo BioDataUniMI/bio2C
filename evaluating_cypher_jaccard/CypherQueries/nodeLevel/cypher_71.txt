@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Species = 'Homo sapiens' AND m.Label STARTS WITH 'hsa-miR-2' RETURN AVG(SIZE(m.Sequence)) AS AvgLength

@@ -1,0 +1,40 @@
+{
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ],
+  "TargetGene": "CDC6"
+}
+
+{
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ],
+  "TargetGene": "BSG"
+}
+
+{
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ],
+  "TargetGene": "SNAI1"
+}
+
+{
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ],
+  "TargetGene": "SLC2A1"
+}
+
+{
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ],
+  "TargetGene": "CDKN1A"
+}
+

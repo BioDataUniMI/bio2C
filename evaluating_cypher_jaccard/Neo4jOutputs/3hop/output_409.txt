@@ -1,0 +1,14 @@
+{
+  "Phenotype": "Quadriceps muscle atrophy",
+  "Disease": "ACTH-producing pituitary gland adenoma",
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Quadriceps muscle atrophy",
+  "Disease": "ACTH-producing pituitary gland adenoma",
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+

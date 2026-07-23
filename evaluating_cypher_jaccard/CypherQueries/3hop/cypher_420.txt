@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:subclassof]->(d2:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) WHERE toLower(d1.Label) CONTAINS 'neuropathy-sensorineural' RETURN COUNT(DISTINCT d1) AS DiseaseCount

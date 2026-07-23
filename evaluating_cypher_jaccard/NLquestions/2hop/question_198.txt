@@ -1,0 +1,1 @@
+Identify precursor miRNAs that develop into miRNAs active in the GO term labeled as 'cellular_component', where 'cellular_component' appears also among the GO term synonyms. Report the corresponding precursor miRNAs, mature miRNAs, GO term, and its synonyms.

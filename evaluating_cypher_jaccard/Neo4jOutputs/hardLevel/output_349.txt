@@ -1,0 +1,6 @@
+{
+  "AutoimmuneDisease": "Hailey-Hailey disease",
+  "Cancer": "Rothmund-Thomson syndrome",
+  "sharedPhenotypeCount": 149
+}
+

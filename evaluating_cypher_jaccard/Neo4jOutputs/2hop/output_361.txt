@@ -1,0 +1,10 @@
+{
+  "CardiovascularDisease": "Gaucher disease type III",
+  "DisruptedTerm": "beta-galactosidase activity",
+  "Phenotype": "Decreased beta-galactosidase activity",
+  "TermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+

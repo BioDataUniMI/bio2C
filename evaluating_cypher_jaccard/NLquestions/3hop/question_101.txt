@@ -1,0 +1,1 @@
+Identify the genes whose synonyms contain the phrase 'son of', that are regulated by miRNAs developed from pre-miRNAs, and that cause or contribute to neurodegenerative diseases. Return the gene label, the gene synonyms, the related miRNA label, the pre-miRNA label, and the neurodegenerative disease label.

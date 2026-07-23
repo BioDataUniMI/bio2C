@@ -1,0 +1,1 @@
+Identify genes that are regulated by the miRNA 'hsa-miR-633' and that genetically interact with other genes. Return the regulated gene, and the interacting gene labels.

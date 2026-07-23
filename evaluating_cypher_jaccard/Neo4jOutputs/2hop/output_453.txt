@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-652 precursor",
+  "miRNA": "hsa-miR-652-3p",
+  "TargetGene": "PMS2P11"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-652 precursor",
+  "miRNA": "hsa-miR-652-3p",
+  "TargetGene": "NDUFA5P11"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-652 precursor",
+  "miRNA": "hsa-miR-652-3p",
+  "TargetGene": "RPL10P18"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-652 precursor",
+  "miRNA": "hsa-miR-652-3p",
+  "TargetGene": "RNF7P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-652 precursor",
+  "miRNA": "hsa-miR-652-3p",
+  "TargetGene": "MPRIPP1"
+}
+

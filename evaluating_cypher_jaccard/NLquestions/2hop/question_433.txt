@@ -1,0 +1,1 @@
+Identify the top five phenotypes shared between 'brain'-related diseases and 'breast'-related cancers (keywords can be specified in a case-insensitive manner), ranked by the total number of associated diseases and cancers. In case of ties, order phenotypes alphabetically by label.

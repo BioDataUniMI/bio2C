@@ -1,0 +1,1 @@
+Identify diseases whose label contains the string 'pregnancy loss' that cause the disruption of biological processes in which miRNAs participate. Return the disease label, the disrupted biological process label, and the participating miRNA label.

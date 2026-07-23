@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "myocardial infarction",
+  "combWeight": null
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "Fabry disease",
+  "combWeight": null
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "atrial fibrillation",
+  "combWeight": null
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "heart failure",
+  "combWeight": null
+}
+
+{
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "Fabry disease",
+  "combWeight": null
+}
+

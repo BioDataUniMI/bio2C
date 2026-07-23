@@ -1,0 +1,1 @@
+MATCH (g:GO)-[r:results_in_development_of|results_in_fusion_of]->(cc:Cellular_component) WHERE cc.Description CONTAINS 'fluid-filled' RETURN cc.Label, cc.Description, g.Label, TYPE(r)

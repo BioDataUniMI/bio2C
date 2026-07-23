@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:expressed_in]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(nd:Neurodegenerative_disease) WHERE p.Label CONTAINS 'gallbladder' AND d.Label CONTAINS 'oma' WITH nd, COUNT(DISTINCT m) AS miRNACount RETURN nd.Label AS NeurodegenerativeDisease, miRNACount

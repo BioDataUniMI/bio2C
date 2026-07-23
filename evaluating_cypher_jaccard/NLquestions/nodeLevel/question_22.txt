@@ -1,0 +1,1 @@
+List cellular components whose labels end with 'membrane' and whose descriptions mention mitochondria.

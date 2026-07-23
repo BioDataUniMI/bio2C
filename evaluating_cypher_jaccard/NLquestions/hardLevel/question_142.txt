@@ -1,0 +1,1 @@
+Find miRNAs whose label does not end with 'p' that regulate the activity of gene labeled 'UBE2C', where UBE2C contributes to at least one disease. Return the gene label, its synonyms, the miRNA label, and the list of associated disease labels (use the COLLECT clause to produce a list).

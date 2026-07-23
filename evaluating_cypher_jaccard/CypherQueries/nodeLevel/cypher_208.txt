@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease {Label: 'viral eye infection'}) RETURN d.Description

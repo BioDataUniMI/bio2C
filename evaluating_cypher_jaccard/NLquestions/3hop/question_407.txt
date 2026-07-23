@@ -1,0 +1,1 @@
+Which diseases, whose label contains the word 'sclerosis' but not 'juvenile', are caused or contributed by genes whose activity is regulated by miRNAs transcribed from other genes? Return the source gene, the miRNA, the target gene, and the disease label.

@@ -1,0 +1,30 @@
+{
+  "Biological_Process": "pentose-phosphate shunt",
+  "Starts_With_GO": "pentose-phosphate shunt, oxidative branch",
+  "Ends_With_GO": "pentose-phosphate shunt, non-oxidative branch"
+}
+
+{
+  "Biological_Process": "CDP-choline pathway",
+  "Starts_With_GO": "choline kinase activity",
+  "Ends_With_GO": "diacylglycerol cholinephosphotransferase activity"
+}
+
+{
+  "Biological_Process": "translation",
+  "Starts_With_GO": "translational initiation",
+  "Ends_With_GO": "translational termination"
+}
+
+{
+  "Biological_Process": "pentose-phosphate shunt, oxidative branch",
+  "Starts_With_GO": "glucose-6-phosphate dehydrogenase activity",
+  "Ends_With_GO": "phosphogluconate dehydrogenase (decarboxylating) activity"
+}
+
+{
+  "Biological_Process": "methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione",
+  "Starts_With_GO": "lactoylglutathione lyase activity",
+  "Ends_With_GO": "hydroxyacylglutathione hydrolase activity"
+}
+

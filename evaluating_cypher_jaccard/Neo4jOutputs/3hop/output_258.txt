@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "BiologicalProcess": "decidualization",
+  "GOterm": "maternal placenta development"
+}
+
+{
+  "miRNA": "hsa-miR-199b-3p",
+  "BiologicalProcess": "decidualization",
+  "GOterm": "maternal placenta development"
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "BiologicalProcess": "decidualization",
+  "GOterm": "maternal placenta development"
+}
+
+{
+  "miRNA": "hsa-miR-550a-3p",
+  "BiologicalProcess": "decidualization",
+  "GOterm": "maternal placenta development"
+}
+

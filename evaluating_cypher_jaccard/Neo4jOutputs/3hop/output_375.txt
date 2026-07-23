@@ -1,0 +1,30 @@
+{
+  "Disease": "orofacial cleft 7",
+  "Phenotype": "Intellectual disability",
+  "GOterm": "cognition"
+}
+
+{
+  "Disease": "dyskinesia with orofacial involvement, autosomal dominant",
+  "Phenotype": "Intellectual disability",
+  "GOterm": "cognition"
+}
+
+{
+  "Disease": "dyskinesia with orofacial involvement, autosomal dominant",
+  "Phenotype": "Hyperreflexia",
+  "GOterm": "reflex"
+}
+
+{
+  "Disease": "dyskinesia with orofacial involvement",
+  "Phenotype": "Hyperreflexia",
+  "GOterm": "reflex"
+}
+
+{
+  "Disease": "dyskinesia with orofacial involvement, autosomal dominant",
+  "Phenotype": "Congestive heart failure",
+  "GOterm": "heart contraction"
+}
+

@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "pre_miRNA": "microRNA hsa-mir-34b precursor",
+  "disease": "osteoarthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "pre_miRNA": "microRNA hsa-mir-34c precursor",
+  "disease": "rheumatoid arthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-10a precursor",
+  "pre_miRNA": "microRNA hsa-mir-100 precursor",
+  "disease": "arthritic joint disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-10a precursor",
+  "pre_miRNA": "microRNA hsa-mir-100 precursor",
+  "disease": "osteoarthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-10b precursor",
+  "pre_miRNA": "microRNA hsa-mir-100 precursor",
+  "disease": "arthritic joint disease"
+}
+

@@ -1,0 +1,35 @@
+{
+  "Disease": "myocardial infarction",
+  "miRNA": "hsa-miR-21-3p",
+  "Sequence": "CAACACCAGUCGAUGGGCUGU",
+  "Sequence_Length": 21
+}
+
+{
+  "Disease": "hypertrophic cardiomyopathy",
+  "miRNA": "hsa-miR-486-3p",
+  "Sequence": "CGGGGCAGCUCAGUACAGGAU",
+  "Sequence_Length": 21
+}
+
+{
+  "Disease": "hypertrophic cardiomyopathy",
+  "miRNA": "hsa-miR-149-3p",
+  "Sequence": "AGGGAGGGACGGGGGCUGUGC",
+  "Sequence_Length": 21
+}
+
+{
+  "Disease": "hypertrophic cardiomyopathy",
+  "miRNA": "hsa-miR-26b-5p",
+  "Sequence": "UUCAAGUAAUUCAGGAUAGGU",
+  "Sequence_Length": 21
+}
+
+{
+  "Disease": "hypertrophic cardiomyopathy",
+  "miRNA": "hsa-miR-26b-3p",
+  "Sequence": "CCUGUUCUCCAUUACUUGGCU",
+  "Sequence_Length": 21
+}
+

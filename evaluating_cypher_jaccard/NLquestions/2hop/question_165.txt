@@ -1,0 +1,1 @@
+Identify miRNAs located in cellular components capable of some molecular functions, and report the number of miRNAs associated with each molecular function.

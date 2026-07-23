@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-2054",
+  "disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-4297",
+  "disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-302c-5p",
+  "disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-146b-5p",
+  "disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "disease": "Kaposi's sarcoma"
+}
+

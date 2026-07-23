@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "GOTerm": "triplet codon-amino acid adaptor activity",
+  "ParentProcess": "translation"
+}
+

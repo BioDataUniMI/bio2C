@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(go1:GO)-[:has_target_start_location]->(go2:GO {Label:'extracellular region'}), (go1)-[:has_target_end_location]->(go3:GO {Label:'cytoplasmic vesicle'}) RETURN m.Label AS miRNA, go1.Label AS go_term, go2.Label AS target_start_location_go, go3.Label AS target_end_location_go

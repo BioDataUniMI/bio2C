@@ -1,0 +1,25 @@
+{
+  "Disease": "Cornelia de Lange syndrome",
+  "PhenotypeCount": 6
+}
+
+{
+  "Disease": "Cornelia de Lange syndrome 1",
+  "PhenotypeCount": 6
+}
+
+{
+  "Disease": "microcephalic osteodysplastic primordial dwarfism type I",
+  "PhenotypeCount": 6
+}
+
+{
+  "Disease": "Aarskog-Scott syndrome, X-linked",
+  "PhenotypeCount": 5
+}
+
+{
+  "Disease": "Cockayne syndrome",
+  "PhenotypeCount": 5
+}
+

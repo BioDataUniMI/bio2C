@@ -1,0 +1,19 @@
+{
+  "cc.Label": "presynaptic active zone membrane"
+}
+
+{
+  "cc.Label": "cytoskeleton of presynaptic active zone"
+}
+
+{
+  "cc.Label": "presynaptic active zone cytoplasmic component"
+}
+
+{
+  "cc.Label": "active sex chromosome"
+}
+
+{
+  "cc.Label": "presynaptic active zone dense projection"
+}

@@ -1,0 +1,1 @@
+Retrieve the last 10% of the sequence of the precursor miRNA 'microRNA hsa-mir-222 precursor' and the autoimmune diseases it cause or contribute to. Return the precursor miRNA label, the last 10% of its sequence, and the autoimmune disease label.

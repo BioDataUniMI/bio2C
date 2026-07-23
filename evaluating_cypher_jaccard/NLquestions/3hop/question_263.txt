@@ -1,0 +1,1 @@
+Which miRNAs are expressed in neurodegenerative diseases and are located in cellular components participating in biological processes containing the string 'clathrin-dependent'? Return the neurodegenerative disease label, the miRNA label, the cellular component label, and the biological process label.

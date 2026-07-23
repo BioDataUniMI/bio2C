@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-5p",
+  "BiologicalProcess": "Schwann cell development"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "miRNA": "hsa-miR-625-5p",
+  "BiologicalProcess": "Schwann cell differentiation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-221 precursor",
+  "miRNA": "hsa-miR-221-3p",
+  "BiologicalProcess": "negative regulation of Schwann cell proliferation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-125a precursor",
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "Schwann cell differentiation"
+}
+
+{
+  "Pre_miRNA": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA": "hsa-let-7a-5p",
+  "BiologicalProcess": "Schwann cell proliferation"
+}
+

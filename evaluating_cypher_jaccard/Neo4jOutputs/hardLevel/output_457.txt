@@ -1,0 +1,82 @@
+{
+  "miRNA": "hsa-miR-548d-3p",
+  "diseaseCount": 2,
+  "diseases": [
+    "endogenous depression",
+    "major depressive disorder"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1224-5p",
+  "diseaseCount": 2,
+  "diseases": [
+    "endogenous depression",
+    "major depressive disorder"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-152-5p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-137-3p",
+  "diseaseCount": 1,
+  "diseases": [
+    "schizophrenia"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-152-3p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148a-3p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148a-5p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148b-3p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-148b-5p",
+  "diseaseCount": 1,
+  "diseases": [
+    "asthma"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "diseaseCount": 1,
+  "diseases": [
+    "atopic eczema"
+  ]
+}
+

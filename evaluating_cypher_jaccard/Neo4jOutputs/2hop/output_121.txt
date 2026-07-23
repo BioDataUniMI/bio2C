@@ -1,0 +1,30 @@
+{
+  "Disease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-5p"
+}
+
+{
+  "Disease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-3p"
+}
+
+{
+  "Disease": "corticobasal syndrome",
+  "Phenotype": "Frontotemporal dementia",
+  "miRNA": "hsa-miR-659-5p"
+}
+
+{
+  "Disease": "progressive supranuclear palsy",
+  "Phenotype": "Frontotemporal dementia",
+  "miRNA": "hsa-miR-659-5p"
+}
+
+{
+  "Disease": "frontotemporal dementia with motor neuron disease",
+  "Phenotype": "Frontotemporal dementia",
+  "miRNA": "hsa-miR-659-5p"
+}
+

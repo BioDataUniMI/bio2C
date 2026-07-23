@@ -1,0 +1,1 @@
+List the phenotypes whose IDs start with 'HP:600000'. Return their label, synonyms, and ID.

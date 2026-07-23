@@ -1,0 +1,36 @@
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Disease": "hand, foot and mouth disease",
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "Source": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "Disease": "hand, foot and mouth disease",
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "Source": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-93-3p",
+  "Disease": "hand, foot and mouth disease",
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "Source": [
+    "miR2Disease"
+  ]
+}
+

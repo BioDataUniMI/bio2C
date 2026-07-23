@@ -1,0 +1,40 @@
+{
+  "Gene": "CAT",
+  "Autoimmune_Disease": "type 1 diabetes mellitus 12",
+  "Genomic_Coordinates": [
+    "chr11:34438934-34472060+"
+  ]
+}
+
+{
+  "Gene": "ABCC8",
+  "Autoimmune_Disease": "type 1 diabetes mellitus 12",
+  "Genomic_Coordinates": [
+    "chr11:17392498-17476894-"
+  ]
+}
+
+{
+  "Gene": "CCR5",
+  "Autoimmune_Disease": "type 1 diabetes mellitus 12",
+  "Genomic_Coordinates": [
+    "chr3:46370946-46376206+"
+  ]
+}
+
+{
+  "Gene": "CASP12",
+  "Autoimmune_Disease": "type 1 diabetes mellitus 12",
+  "Genomic_Coordinates": [
+    "chr11:104885718-104898670-"
+  ]
+}
+
+{
+  "Gene": "CAT",
+  "Autoimmune_Disease": "type 1 diabetes mellitus 5",
+  "Genomic_Coordinates": [
+    "chr11:34438934-34472060+"
+  ]
+}
+

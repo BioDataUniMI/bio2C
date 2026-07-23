@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WITH i, COLLECT(DISTINCT m.Label) AS miRNAs RETURN i.Label AS Disease, miRNAs, SIZE(miRNAs) AS Number_of_miRNAs

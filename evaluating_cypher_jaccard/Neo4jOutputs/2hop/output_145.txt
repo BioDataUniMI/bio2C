@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-8089",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "FDR": 0.009648094
+}
+
+{
+  "miRNA": "hsa-miR-3622b-3p",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss",
+  "FDR": 0.009985482
+}
+
+{
+  "miRNA": "hsa-miR-6865-3p",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss",
+  "FDR": 0.00964873
+}
+
+{
+  "miRNA": "hsa-miR-517c-3p",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss",
+  "FDR": 0.00979693
+}
+
+{
+  "miRNA": "hsa-miR-147a",
+  "Cancer": "lung carcinoma",
+  "Phenotype": "Weight loss",
+  "FDR": 0.009949808
+}
+

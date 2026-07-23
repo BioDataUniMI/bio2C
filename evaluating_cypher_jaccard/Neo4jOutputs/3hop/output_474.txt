@@ -1,0 +1,28 @@
+{
+  "Gene": "MIR551B",
+  "Pre_miRNA": "microRNA hsa-mir-551b precursor",
+  "miRNA": "hsa-miR-551b-3p",
+  "Disease": "thyroid gland carcinoma"
+}
+
+{
+  "Gene": "MIR551B",
+  "Pre_miRNA": "microRNA hsa-mir-551b precursor",
+  "miRNA": "hsa-miR-551b-3p",
+  "Disease": "thyroid cancer"
+}
+
+{
+  "Gene": "MIR301B",
+  "Pre_miRNA": "microRNA hsa-mir-301b precursor",
+  "miRNA": "hsa-miR-301b-5p",
+  "Disease": "thyroid gland carcinoma"
+}
+
+{
+  "Gene": "MIR301B",
+  "Pre_miRNA": "microRNA hsa-mir-301b precursor",
+  "miRNA": "hsa-miR-301b-3p",
+  "Disease": "thyroid gland carcinoma"
+}
+

@@ -1,0 +1,1 @@
+Return miRNAs under-expressed in biological processes such that this relationship (miRNA-under_expressed_in->Biological_process) is verified within the context 'cardiomyocyte progenitor cells'. Return the distinct processes' label, description and the entire set of contexts.

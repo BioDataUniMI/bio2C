@@ -1,0 +1,1 @@
+MATCH (g:Gene) WITH MIN(SIZE(g.Sequence)) AS MinLength MATCH (g:Gene) WHERE SIZE(g.Sequence) = MinLength RETURN g.Label AS Gene, SIZE([c IN SPLIT(g.Sequence, '') WHERE c = 'A']) AS A_Count, SIZE(g.Sequence) AS Sequence_Length

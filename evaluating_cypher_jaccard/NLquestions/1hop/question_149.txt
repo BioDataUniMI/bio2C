@@ -1,0 +1,1 @@
+Find miRNAs with short sequence length (i.e., less than 21 nucleotides) that cause or contribute to autoimmune diseases whose label contains the string 'multiple sclerosis'. Return the miRNA label, sequence, sequence length, and the disease label.

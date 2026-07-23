@@ -1,0 +1,4 @@
+{
+  "Phenotype": "Increased circulating creatine kinase BB isoform"
+}
+

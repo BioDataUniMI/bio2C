@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[r:has_material_basis_in_somatic_mutation_in]->(m:miRNA) WHERE m.Sequence ENDS WITH 'A' AND SIZE(r.Mutation) >= 4 RETURN d.Label, r.Mutation, m.Label 

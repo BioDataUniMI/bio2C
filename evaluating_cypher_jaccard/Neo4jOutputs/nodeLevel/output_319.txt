@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "non-syndromic bridging bronchus"
+}
+
+{
+  "DiseaseLabel": "carcinoid syndrome"
+}
+
+{
+  "DiseaseLabel": "otofaciocervical syndrome"
+}
+
+{
+  "DiseaseLabel": "spinal muscular atrophy"
+}
+
+{
+  "DiseaseLabel": "autosomal dominant rhegmatogenous retinal detachment"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'MIR652'})-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(tg:Gene) RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, tg.Label AS TargetGene

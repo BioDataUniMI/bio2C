@@ -1,0 +1,28 @@
+{
+  "GOLabel": "programmed cell death involved in cell development",
+  "BiologicalProcess": "cell development",
+  "Type": "cell death",
+  "MaxSeqLength": 24
+}
+
+{
+  "GOLabel": "positive regulation of protein kinase activity",
+  "BiologicalProcess": "positive regulation of protein autophosphorylation",
+  "Type": "cell death",
+  "MaxSeqLength": 24
+}
+
+{
+  "GOLabel": "retinal cell programmed cell death",
+  "BiologicalProcess": "eye morphogenesis",
+  "Type": "cell death",
+  "MaxSeqLength": 24
+}
+
+{
+  "GOLabel": "mitochondrial outer membrane permeabilization involved in programmed cell death",
+  "BiologicalProcess": "programmed cell death",
+  "Type": "cell death",
+  "MaxSeqLength": 24
+}
+

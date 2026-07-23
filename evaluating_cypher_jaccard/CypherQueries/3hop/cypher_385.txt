@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA {Label: 'hsa-miR-20a-5p'})-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) RETURN COUNT(DISTINCT d) AS DiseaseCount

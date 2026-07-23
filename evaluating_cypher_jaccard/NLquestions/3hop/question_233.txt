@@ -1,0 +1,1 @@
+Which genes transcribe pre-miRNAs that develop into miRNAs serving as a function for the 'SMAD binding'-labeled GO term?

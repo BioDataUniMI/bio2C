@@ -1,0 +1,25 @@
+{
+  "Disease": "malignant glioma",
+  "miRNA": "hsa-miR-326"
+}
+
+{
+  "Disease": "acute myeloid leukemia",
+  "miRNA": "hsa-miR-326"
+}
+
+{
+  "Disease": "nasopharyngeal carcinoma",
+  "miRNA": "hsa-miR-326"
+}
+
+{
+  "Disease": "endometrial cancer",
+  "miRNA": "hsa-miR-326"
+}
+
+{
+  "Disease": "malignant pancreatic neoplasm",
+  "miRNA": "hsa-miR-326"
+}
+

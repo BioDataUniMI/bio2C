@@ -1,0 +1,20 @@
+{
+  "g.Label": "pre-miRNA binding"
+}
+
+{
+  "g.Label": "miRNA binding"
+}
+
+{
+  "g.Label": "double-stranded miRNA binding"
+}
+
+{
+  "g.Label": "primary miRNA binding"
+}
+
+{
+  "g.Label": "regulation of miRNA transcription"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'anxiety' AND NOT toLower(d.Label) CONTAINS 'depress' RETURN d.Label AS DiseaseLabel, d.Description

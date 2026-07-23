@@ -1,0 +1,1 @@
+Identify mature miRNAs that develop from pre-miRNAs and participate in GO terms whose label contains the word 'auditory'. Return the label of the: pre-miRNA, mature miRNA, and GO term.

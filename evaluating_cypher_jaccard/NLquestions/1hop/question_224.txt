@@ -1,0 +1,1 @@
+Identify the cellular components in which the miRNA 'microRNA hsa-mir-192 precursor' is located.

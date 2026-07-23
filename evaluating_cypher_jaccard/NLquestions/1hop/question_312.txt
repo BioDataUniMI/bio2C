@@ -1,0 +1,1 @@
+Find the phenotypes that are qualities of the phenotype labeled 'Tall stature'

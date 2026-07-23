@@ -1,0 +1,1 @@
+MATCH (md1:Mental_disease)-[r:manifestation_of]->(md2:Mental_disease) RETURN md1.Label, md1.Description, md2.Label, md2.Description

@@ -1,0 +1,4 @@
+{
+  "AvgDiseasePhenotypePairs": 390.5655245496289
+}
+

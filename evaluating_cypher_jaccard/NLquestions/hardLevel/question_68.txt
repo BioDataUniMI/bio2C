@@ -1,0 +1,1 @@
+Consider miRNAs that cause or contribute to autoimmune diseases. What is the maximum sequence length among miRNAs whose sequence starts and ends with the same nucleotide?

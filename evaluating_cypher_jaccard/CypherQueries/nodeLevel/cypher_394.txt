@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) RETURN COUNT(bp), LABELS(bp), bp.Species

@@ -1,0 +1,1 @@
+Find the genomic coordinate(s) of one shortest-length miRNA (by sequence length) among miRNAs under-expressed in cardiovascular diseases. Return the genomic coordinates, the miRNA label, and the sequence length.

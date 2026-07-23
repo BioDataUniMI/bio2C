@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:expressed_in]->(d1:Disease)-[:subclassof]->(d2:Cancer) WHERE d2.Label CONTAINS 'benign' RETURN m.Label AS miRNA, d1.Label AS Disease, d2.Label AS ParentCancer

@@ -1,0 +1,1 @@
+Which diseases have labels containing 'neonatal' and 'disability' and descriptions that do not mention 'deafness'?

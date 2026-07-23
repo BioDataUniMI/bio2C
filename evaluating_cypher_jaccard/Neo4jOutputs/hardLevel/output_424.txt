@@ -1,0 +1,15 @@
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "length_deviation": 66
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "length_deviation": 50
+}
+
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "length_deviation": 43
+}
+

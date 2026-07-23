@@ -1,0 +1,11 @@
+{
+  "miRNA": "microRNA hsa-mir-374a precursor",
+  "disease": "hemophilia A",
+  "disrupted_molecular_function": {
+    "Description": "catalysis of the reaction: l-glutaminyl-[protein] + l-lysyl-[protein] = [protein]-l-lysyl-n(6)-5-...",
+    "Label": "protein-glutamine gamma-glutamyltransferase activity",
+    "ID": "GO:0003810",
+    "URI": "http://purl.obolibrary.org/obo/GO_0003810"
+  }
+}
+

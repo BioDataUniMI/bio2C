@@ -1,0 +1,1 @@
+MATCH (c:Cancer)<-[:is_causal_somatic_mutation_in]-(m) WHERE (m:miRNA OR m:pre_miRNA) RETURN DISTINCT c.Label AS Cancer

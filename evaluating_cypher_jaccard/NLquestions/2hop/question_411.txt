@@ -1,0 +1,1 @@
+Which genes with labels starting with 'SYNC' have their activity regulated by miRNAs expressed in cancers whose labels contain the word 'benign'? Return the label of the cancers, the regulating miRNAs, and the genes.

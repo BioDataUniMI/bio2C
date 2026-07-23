@@ -1,0 +1,7 @@
+{
+  "Disease": "prostate cancer",
+  "Gene": "CD9",
+  "miRNA": "hsa-miR-326",
+  "Phenotype": "Pulmonary sequestration"
+}
+

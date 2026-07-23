@@ -1,0 +1,1 @@
+Consider miRNAs that are transcribed from known genes and regulate target genes. Count the number of occurrences of five consecutive guanines ('GGGGG') in the sequences of the miRNA, source gene, and target gene. Return each count along with the gene and miRNA label.

@@ -1,0 +1,20 @@
+{
+  "d.Label": "chronic mucocutaneous candidiasis and connective tissue disease due to JNK1 haploinsufficiency"
+}
+
+{
+  "d.Label": "hereditary disorder of connective tissue"
+}
+
+{
+  "d.Label": "mixed connective tissue disease"
+}
+
+{
+  "d.Label": "connective tissue disorder"
+}
+
+{
+  "d.Label": "EMILIN-1-related connective tissue disease"
+}
+

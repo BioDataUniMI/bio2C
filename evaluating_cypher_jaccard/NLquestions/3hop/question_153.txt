@@ -1,0 +1,1 @@
+Which miRNAs are expressed in neurodegenerative diseases that are superclasses of diseases having the phenotype labeled as 'Resting tremor'? Return the label of the: disease, neurodegenerative disease, and miRNA.

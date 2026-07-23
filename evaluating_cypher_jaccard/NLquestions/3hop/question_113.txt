@@ -1,0 +1,1 @@
+Identify the molecular functions that are enabled by miRNAs expressed in cancers that do have phenotypes. Return the molecular function label, the miRNA label, and the cancer label.

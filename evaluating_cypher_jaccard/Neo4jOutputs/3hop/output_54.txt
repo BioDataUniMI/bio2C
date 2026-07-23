@@ -1,0 +1,35 @@
+{
+  "cancer": "keratoacanthoma",
+  "related_cancer": "squamous cell carcinoma",
+  "parent_disease": "carcinoma",
+  "phenotype_count": 10
+}
+
+{
+  "cancer": "keratoacanthoma",
+  "related_cancer": "squamous cell carcinoma",
+  "parent_disease": "squamous cell neoplasm",
+  "phenotype_count": 26
+}
+
+{
+  "cancer": "nevus of Ito",
+  "related_cancer": "nevus of Ota",
+  "parent_disease": "melanocytic nevus",
+  "phenotype_count": 43
+}
+
+{
+  "cancer": "kaposiform lymphangiomatosis",
+  "related_cancer": "kaposiform hemangioendothelioma",
+  "parent_disease": "soft tissue neoplasm",
+  "phenotype_count": 63
+}
+
+{
+  "cancer": "autosomal recessive dyskeratosis congenita 4",
+  "related_cancer": "dyskeratosis congenita, autosomal dominant 2",
+  "parent_disease": "dyskeratosis congenita",
+  "phenotype_count": 122
+}
+

@@ -1,0 +1,35 @@
+{
+  "GOterm": "extracellular region",
+  "CellularComponent": "extracellular vesicle",
+  "pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "miRNA": "hsa-miR-155-5p"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-155 precursor",
+  "miRNA": "hsa-miR-155-5p"
+}
+
+{
+  "GOterm": "extracellular region",
+  "CellularComponent": "extracellular vesicle",
+  "pre_miRNA": "microRNA hsa-mir-210 precursor",
+  "miRNA": "hsa-miR-210-5p"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-210 precursor",
+  "miRNA": "hsa-miR-210-5p"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-122 precursor",
+  "miRNA": "hsa-miR-122-3p"
+}
+

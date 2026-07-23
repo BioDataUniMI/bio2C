@@ -1,0 +1,30 @@
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "let-7e stem-loop (hsa-let-7e)"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-122 precursor"
+}
+
+{
+  "GOterm": "extracellular region",
+  "CellularComponent": "extracellular vesicle",
+  "pre_miRNA": "microRNA hsa-mir-146a precursor"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-146a precursor"
+}
+
+{
+  "GOterm": "extracellular space",
+  "CellularComponent": "extracellular exosome",
+  "pre_miRNA": "microRNA hsa-mir-222 precursor"
+}
+

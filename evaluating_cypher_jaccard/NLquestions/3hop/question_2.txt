@@ -1,0 +1,1 @@
+Which miRNAs are over-expressed in diseases related to the kidney (based on the disease label or description) that are subclasses of a parent disease, where the parent disease has a characteristic disease whose label contains 'inherited'? Return the labels of: the miRNAs, the kidney disease, its parent disease, and the characteristic disease.

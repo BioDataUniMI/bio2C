@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:transcribed_from]->(g:Gene) WHERE g.Label STARTS WITH 'MIR' AND SIZE(p.Sequence) > 120 RETURN p.Label AS pre_miRNA, g.Label AS Gene

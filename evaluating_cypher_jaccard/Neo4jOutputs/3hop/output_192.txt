@@ -1,0 +1,6 @@
+{
+  "Gene": "SLC2A1",
+  "Disease": "GLUT1 deficiency syndrome",
+  "Disrupted_GO": "D-glucose transmembrane transporter activity"
+}
+

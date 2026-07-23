@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases that share the phenotypes whose label contains the word 'gallbladder' with diseases containing 'oma' in their labels and where miRNAs are known to be expressed. Return the miRNA label, disease label, phenotype label, and neurodegenerative disease label.

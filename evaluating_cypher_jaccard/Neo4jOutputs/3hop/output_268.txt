@@ -1,0 +1,14 @@
+{
+  "CellularComponent": "intracellular anatomical structure",
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-miR-152-3p",
+  "Disease": "asthma"
+}
+
+{
+  "CellularComponent": "mitochondrion",
+  "BiologicalProcess": "mitochondrial membrane organization",
+  "miRNA": "hsa-miR-148a-3p",
+  "Disease": "asthma"
+}
+

@@ -1,0 +1,25 @@
+{
+  "Process": "autophagosome assembly",
+  "StartsWith": "Atg1/ULK1 kinase complex assembly"
+}
+
+{
+  "Process": "pentose-phosphate shunt",
+  "StartsWith": "pentose-phosphate shunt, oxidative branch"
+}
+
+{
+  "Process": "translation",
+  "StartsWith": "translational initiation"
+}
+
+{
+  "Process": "pollen development",
+  "StartsWith": "microsporogenesis"
+}
+
+{
+  "Process": "ubiquitin-dependent protein catabolic process",
+  "StartsWith": "protein ubiquitination"
+}
+

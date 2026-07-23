@@ -1,0 +1,1 @@
+Find genes that have at least 70 miRNAs regulating their activity. Return the gene label and the number of regulating miRNAs.

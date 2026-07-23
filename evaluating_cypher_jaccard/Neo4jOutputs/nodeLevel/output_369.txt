@@ -1,0 +1,15 @@
+{
+  "DiseaseLabel": "compulsion",
+  "d.Description": "the need to perform acts or to dwell on thoughts to reduce anxiety.\n\n\"understanding abnormal beha..."
+}
+
+{
+  "DiseaseLabel": "enuresis",
+  "d.Description": "the habitual voiding of urine during the day or night into one's clothes, bed, or floor. the beha..."
+}
+
+{
+  "DiseaseLabel": "obsession",
+  "d.Description": "an intrusive and repetitive thought or image that produce anxiety.\n\n\n\"understanding abnormal beha..."
+}
+

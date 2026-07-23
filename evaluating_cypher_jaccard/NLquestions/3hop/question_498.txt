@@ -1,0 +1,1 @@
+Identify diseases related to 'thyroid' in which the same miRNA is both overexpressed and underexpressed, and which are subclasses of cancer.

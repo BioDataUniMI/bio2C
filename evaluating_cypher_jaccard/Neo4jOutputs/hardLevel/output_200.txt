@@ -1,0 +1,25 @@
+{
+  "biological_process": "apoptotic process",
+  "gene_count": 16
+}
+
+{
+  "biological_process": "execution phase of apoptosis",
+  "gene_count": 16
+}
+
+{
+  "biological_process": "ossification",
+  "gene_count": 13
+}
+
+{
+  "biological_process": "cell population proliferation",
+  "gene_count": 12
+}
+
+{
+  "biological_process": "angiogenesis",
+  "gene_count": 12
+}
+

@@ -1,0 +1,1 @@
+Which genes are located on an odd-numbered chromosomes (chr1, chr3, chr5, etc.) and cause or contribute to the phenotype 'Bipolar affective disorder' and are characterized by the longest nucleotide sequence? Return the gene label, genomic coordinates, and sequence length for all matching genes.

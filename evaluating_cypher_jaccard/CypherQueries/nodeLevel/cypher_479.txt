@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'synaptic' AND cc.Description =~ '.*[0-9]+\s*nm.*' RETURN cc.Label AS CellularComponent, cc.Description, cc.ID

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:part_of]->(go:GO) WHERE ANY(c IN p.Genomic_coordinates WHERE c STARTS WITH 'chrX' OR c STARTS WITH 'chrY') WITH go.Label AS GOLabel, MAX(SIZE(p.Sequence)) AS MaxLen, [c IN p.Genomic_coordinates WHERE c STARTS WITH 'chrX' OR c STARTS WITH 'chrY'] AS Chromosomes RETURN GOLabel, Chromosomes, MaxLen ORDER BY MaxLen DESC, GOLabel ASC LIMIT 3

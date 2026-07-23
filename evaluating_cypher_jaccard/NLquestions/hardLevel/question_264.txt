@@ -1,0 +1,1 @@
+Find the top 5 miRNAs that regulate the activity of the highest number of genes and return their labels and the number of genes they regulate, ordered alphabetically by miRNA label in case of ties.

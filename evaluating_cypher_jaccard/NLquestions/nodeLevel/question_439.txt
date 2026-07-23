@@ -1,0 +1,1 @@
+Return the labels of all molecular functions that contain the word 'gene' as a standalone word in their labels.

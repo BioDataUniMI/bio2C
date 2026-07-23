@@ -1,0 +1,1 @@
+Which miRNAs are reported to be causal germline mutations in diseases with a p-value below 1e-5? What are the data sources claiming these associations?

@@ -1,0 +1,1 @@
+Return all diseases whose labels do not contain 'depletion' nor 'DNA'.

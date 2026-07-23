@@ -1,0 +1,1 @@
+MATCH (ref:Gene {Label: 'RBPJP5'}) WITH ref, SUBSTRING(ref.Sequence, toInteger(SIZE(ref.Sequence) * 0.7), SIZE(ref.Sequence)) AS refLast30 MATCH (g:Gene) WHERE g <> ref AND SUBSTRING(g.Sequence, toInteger(SIZE(g.Sequence) * 0.7), SIZE(g.Sequence)) = refLast30 RETURN g.Label AS Gene

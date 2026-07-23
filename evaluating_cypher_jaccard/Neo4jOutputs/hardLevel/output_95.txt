@@ -1,0 +1,16 @@
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "expression_in_autoimmune": "under_expressed_in",
+  "expression_in_cardiovascular": "over_expressed_in",
+  "d1.Label": "type 1 diabetes mellitus 1",
+  "d2.Label": "myocardial infarction"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "expression_in_autoimmune": "under_expressed_in",
+  "expression_in_cardiovascular": "over_expressed_in",
+  "d1.Label": "multiple sclerosis",
+  "d2.Label": "myocardial infarction"
+}
+

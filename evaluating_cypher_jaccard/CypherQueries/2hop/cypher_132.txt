@@ -1,0 +1,1 @@
+MATCH (d:Disease)<-[:is_causal_germline_mutation_in]-(m:miRNA) RETURN DISTINCT d.Label AS Disease, m.Label AS miRNA

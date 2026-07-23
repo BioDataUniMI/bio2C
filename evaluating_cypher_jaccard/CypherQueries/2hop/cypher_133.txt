@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r]->(d:Disease) WHERE TYPE(r) CONTAINS 'causal' AND TYPE(r) CONTAINS 'germline' RETURN type(r) AS RelationType, d.Label AS Disease, m.Label AS miRNA

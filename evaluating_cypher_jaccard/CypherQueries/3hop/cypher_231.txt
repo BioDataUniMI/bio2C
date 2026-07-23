@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:function_of]->(m:miRNA {Label:'hsa-miR-661'})-[:develops_from]->(pre:pre_miRNA)-[:transcribed_from]->(g:Gene) RETURN go.Label AS GOterm, pre.Label AS Pre_miRNA, g.Label AS Gene

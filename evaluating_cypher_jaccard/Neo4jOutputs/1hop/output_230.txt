@@ -1,0 +1,29 @@
+{
+  "miRNA": "hsa-miR-21-3p",
+  "Location": "extracellular exosome",
+  "Methods": [
+    "immunobeads (epcam, cd24)",
+    "gel filtration chromatography",
+    "immunobeads (epcam)",
+    "sucrose density gradient",
+    "ultracentrifugation",
+    "filtration",
+    "differential centrifugation"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "Location": "extracellular exosome",
+  "Methods": [
+    "immunobeads (epcam, cd24)",
+    "gel filtration chromatography",
+    "norgen biotek exosome kit",
+    "immunobeads (epcam)",
+    "sucrose density gradient",
+    "ultracentrifugation",
+    "filtration",
+    "differential centrifugation"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Return the top 5 diseases with the highest amount of distinct phenotypes that characterize GO terms which are part of biological processes. In case of ties, order alphabetically by disease label.

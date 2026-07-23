@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+

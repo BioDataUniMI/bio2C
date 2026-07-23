@@ -1,0 +1,1 @@
+Which miRNAs whose sequences contain both the motifs 'CCCCCCC' and 'GGG' do regulate the activity of genes? Return the labels of those miRNAs and of the regulated genes.

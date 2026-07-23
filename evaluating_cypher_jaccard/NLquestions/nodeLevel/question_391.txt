@@ -1,0 +1,1 @@
+Find the neurodegenerative diseases such that their: 1) labels contain 'epilepsy'; 2) their description mention gene mutation containing the term 'gene' and the term 'mutation'.

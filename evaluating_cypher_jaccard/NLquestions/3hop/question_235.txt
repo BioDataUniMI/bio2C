@@ -1,0 +1,1 @@
+Identify the pre-miRNAs transcribed from the gene 'MIR590' that develop into miRNAs, and the GO terms for which these miRNAs have a function. Return the labels of the gene, the pre-miRNA, the miRNA, and the GO term.

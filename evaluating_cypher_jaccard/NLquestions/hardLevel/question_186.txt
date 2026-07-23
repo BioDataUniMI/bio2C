@@ -1,0 +1,1 @@
+Retrieve the types of diseases caused or contributed to by the precursor microRNA 'microRNA hsa-mir-222 precursor'.

@@ -1,0 +1,41 @@
+{
+  "CardiovascularDisease": "acute myocarditis",
+  "Contributing_miRNAs": [
+    "hsa-miR-221-5p",
+    "hsa-miR-29b-3p"
+  ]
+}
+
+{
+  "CardiovascularDisease": "cardiac arrhythmia, ankyrin-B-related",
+  "Contributing_miRNAs": [
+    "hsa-miR-133a-3p",
+    "hsa-miR-1-3p",
+    "hsa-miR-192-5p"
+  ]
+}
+
+{
+  "CardiovascularDisease": "pericardial effusion",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-375 precursor",
+    "microRNA hsa-mir-203a precursor",
+    "microRNA hsa-mir-29c precursor"
+  ]
+}
+
+{
+  "CardiovascularDisease": "Tako-tsubo cardiomyopathy",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-34a precursor"
+  ]
+}
+
+{
+  "CardiovascularDisease": "coronary restenosis",
+  "Contributing_miRNAs": [
+    "microRNA hsa-mir-150 precursor",
+    "microRNA hsa-mir-21 precursor"
+  ]
+}
+

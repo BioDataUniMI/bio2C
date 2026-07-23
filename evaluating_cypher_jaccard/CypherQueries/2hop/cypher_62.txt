@@ -1,0 +1,1 @@
+MATCH (c:Cancer {Label: 'hamartoma'})-[:expresses]->(m:miRNA)-[r:located_in|part_of|is_active_in]->(cc:Cellular_component) RETURN m.Label AS miRNA, type(r) AS Relation, cc.Label AS CellularComponent

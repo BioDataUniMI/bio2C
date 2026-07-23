@@ -1,0 +1,1 @@
+Identify genes that have a synonym containing 'ribosomal' and are not pseudogenes (i.e., they do not have 'pseudogene' in their synonym). Return the genes' label.

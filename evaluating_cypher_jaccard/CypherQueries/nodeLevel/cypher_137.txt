@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR' AND ANY(coord IN g.Genomic_coordinates WHERE coord =~ '^chr(13|23).*') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates

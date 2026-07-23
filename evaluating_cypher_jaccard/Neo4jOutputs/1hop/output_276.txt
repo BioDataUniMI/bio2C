@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Congestive heart failure",
+  "CardiovascularDisease": "congestive heart failure"
+}
+
+{
+  "Phenotype": "Hypergonadotropic hypogonadism",
+  "CardiovascularDisease": "dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome"
+}
+
+{
+  "Phenotype": "Dilated cardiomyopathy",
+  "CardiovascularDisease": "dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome"
+}
+
+{
+  "Phenotype": "Dextrocardia",
+  "CardiovascularDisease": "dextrocardia"
+}
+
+{
+  "Phenotype": "Eosinophilia",
+  "CardiovascularDisease": "hypereosinophilic syndrome"
+}
+

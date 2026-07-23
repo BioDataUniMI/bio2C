@@ -1,0 +1,1 @@
+List human miRNAs with genomic coordinate exclusively on chromosome 1 (chr1:) whose sequence ends with 'UA'.

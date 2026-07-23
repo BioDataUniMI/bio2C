@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(g:GO)-[:has_part]->(cc:Cellular_component) WHERE m.Label CONTAINS '133a-5p' RETURN m.Label AS miRNA, g.Label AS ParentGO, cc.Label AS CellularComponent

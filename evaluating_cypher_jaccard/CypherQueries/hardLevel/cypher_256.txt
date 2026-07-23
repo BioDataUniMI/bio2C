@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d) WITH p, COUNT(DISTINCT d) AS DisorderCount WITH MAX(DisorderCount) AS MaxCount MATCH (p:Phenotype)-[:phenotype_of]->(d) WITH p, COUNT(DISTINCT d) AS DisorderCount, MaxCount WHERE DisorderCount = MaxCount RETURN p.Label AS Phenotype, DisorderCount

@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Abdominal pain",
+  "Cancer": "malignant pancreatic neoplasm",
+  "overexpressed_miRNAs": 1498
+}
+
+{
+  "Phenotype": "Acute pancreatitis",
+  "Cancer": "malignant pancreatic neoplasm",
+  "overexpressed_miRNAs": 1498
+}
+
+{
+  "Phenotype": "Cough",
+  "Cancer": "lung cancer",
+  "overexpressed_miRNAs": 1244
+}
+
+{
+  "Phenotype": "Hemoptysis",
+  "Cancer": "lung carcinoma",
+  "overexpressed_miRNAs": 1244
+}
+
+{
+  "Phenotype": "Weight loss",
+  "Cancer": "lung carcinoma",
+  "overexpressed_miRNAs": 1244
+}
+

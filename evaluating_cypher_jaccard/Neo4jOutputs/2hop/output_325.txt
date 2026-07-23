@@ -1,0 +1,20 @@
+{
+  "Disease": "precocious puberty",
+  "GOterm": "developmental process involved in reproduction"
+}
+
+{
+  "Disease": "precocious puberty",
+  "GOterm": "developmental process involved in reproduction"
+}
+
+{
+  "Disease": "central precocious puberty",
+  "GOterm": "gonadotropin secretion"
+}
+
+{
+  "Disease": "central precocious puberty",
+  "GOterm": "gonadotropin secretion"
+}
+

@@ -1,0 +1,16 @@
+{
+  "d.Label": "invasive non-typhoidal salmonellosis"
+}
+
+{
+  "d.Label": "invasive scopulariopsis infection"
+}
+
+{
+  "d.Label": "candidiasis, invasive"
+}
+
+{
+  "d.Label": "invasive aspergillosis"
+}
+

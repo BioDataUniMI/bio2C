@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer {Label:'lung adenocarcinoma'}) WHERE SIZE(m.Sequence) < 30 WITH m, c, SIZE(SPLIT(m.Sequence, 'G')) - 1 AS G_count ORDER BY G_count DESC LIMIT 3 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_Length, G_count AS Number_of_G, c.Label AS Cancer

@@ -1,0 +1,1 @@
+Count all miRNAs recorded as causal somatic mutations in 'esophageal' cancers whose parent cancer is 'adenocarcinoma' and have a parent phenotype.

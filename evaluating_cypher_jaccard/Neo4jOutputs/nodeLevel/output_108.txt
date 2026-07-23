@@ -1,0 +1,16 @@
+{
+  "Gene": "N gene of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "Gene": "S gene of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "Gene": "M gene of severe acute respiratory syndrome coronavirus 2"
+}
+
+{
+  "Gene": "E gene of severe acute respiratory syndrome coronavirus 2"
+}
+

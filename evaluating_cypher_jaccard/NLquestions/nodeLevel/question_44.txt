@@ -1,0 +1,1 @@
+Which human miRNAs are located on chromosome X (use the property 'Genomic_coordinates' and check if at least one item start with 'chrX') and have sequences ending with 'CU'?

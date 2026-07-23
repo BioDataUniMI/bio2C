@@ -1,0 +1,1 @@
+Calculate the maximum length of miRNAs over-expressed in cardiovascular diseases, separating those whose label contains 'precursor' and those that do not. Return group type, maximum sequence length, and number of miRNAs.

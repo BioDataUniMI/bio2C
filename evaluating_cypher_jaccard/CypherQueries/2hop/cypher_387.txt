@@ -1,0 +1,1 @@
+MATCH (pm1:pre_miRNA)-[:develops_into]->(m:miRNA{Label:'hsa-miR-320b'})-[:directly_regulates_activity_of]->(pm2:pre_miRNA) RETURN pm1.Label AS Precursor, pm2.Label AS RegulatedPrecursor

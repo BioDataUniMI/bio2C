@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:located_in]->(g:GO) WHERE 'differential centrifugation' IN r.Method RETURN DISTINCT g.Label AS GOTerm, g.ID AS ID, g.URI AS URI

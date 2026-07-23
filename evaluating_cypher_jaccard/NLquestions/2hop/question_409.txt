@@ -1,0 +1,1 @@
+Identify the diseases and corresponding parent cancers exhibiting the phenotype labeled as 'Quadriceps muscle atrophy'.

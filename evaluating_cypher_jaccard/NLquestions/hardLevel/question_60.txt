@@ -1,0 +1,1 @@
+Find miRNAs expressed in cancers and under-expressed in phenotypes where the cancer contain the string 'noma' in their Label or Description and also the phenotype label contains 'noma'. Count how many times the dinucleotide 'GU' appears in each miRNA sequence and return that count together with the phenotype and cancer label.

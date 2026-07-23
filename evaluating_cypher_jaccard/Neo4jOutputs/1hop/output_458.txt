@@ -1,0 +1,25 @@
+{
+  "g1.Label": "nuclear outer membrane",
+  "g2.Label": "cell nucleus"
+}
+
+{
+  "g1.Label": "mitochondrial outer membrane",
+  "g2.Label": "mitochondrion"
+}
+
+{
+  "g1.Label": "chromoplast outer membrane",
+  "g2.Label": "chromoplast"
+}
+
+{
+  "g1.Label": "organelle outer membrane",
+  "g2.Label": "organelle"
+}
+
+{
+  "g1.Label": "cyanelle outer membrane",
+  "g2.Label": "cyanelle"
+}
+

@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing the word 'presynaptic' but do not contain the word 'active'? Return nodes' labels and IDs.

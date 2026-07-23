@@ -1,0 +1,1 @@
+Find GO terms that have a synonym containing 'immunoglobulin'.

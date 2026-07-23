@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-324-3p",
+  "precursor_miRNA": "microRNA hsa-mir-324 precursor",
+  "biological_process": "sensory perception of sound",
+  "phenotype": "Unilateral deafness"
+}
+
+{
+  "miRNA": "hsa-miR-324-5p",
+  "precursor_miRNA": "microRNA hsa-mir-324 precursor",
+  "biological_process": "sensory perception of sound",
+  "phenotype": "Unilateral deafness"
+}
+
+{
+  "miRNA": "hsa-miR-455-3p",
+  "precursor_miRNA": "microRNA hsa-mir-455 precursor",
+  "biological_process": "sensory perception of sound",
+  "phenotype": "Unilateral deafness"
+}
+
+{
+  "miRNA": "hsa-miR-455-5p",
+  "precursor_miRNA": "microRNA hsa-mir-455 precursor",
+  "biological_process": "sensory perception of sound",
+  "phenotype": "Unilateral deafness"
+}
+
+{
+  "miRNA": "hsa-miR-762",
+  "precursor_miRNA": "microRNA hsa-mir-762 precursor",
+  "biological_process": "sensory perception of sound",
+  "phenotype": "Unilateral deafness"
+}
+

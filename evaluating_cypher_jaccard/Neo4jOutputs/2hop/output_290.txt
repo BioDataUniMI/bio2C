@@ -1,0 +1,6 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "BiologicalProcess": "cartilage development"
+}
+

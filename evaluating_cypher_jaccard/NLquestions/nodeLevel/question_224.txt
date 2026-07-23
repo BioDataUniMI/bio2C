@@ -1,0 +1,1 @@
+Return diseases whose descriptions mention 'tachycardia' and labels include 'syndrome'.

@@ -1,0 +1,1 @@
+Find each GO term that having pre-miRNAs as their part of, and determine which of those pre-miRNAs has the shortest sequence. Return the GO term and the minimum pre-miRNA sequence length.

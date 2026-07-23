@@ -1,0 +1,1 @@
+For each disease, count the number of distinct phenotypes that are characteristic of GO terms that have molecular functions as parts. Return the disease label and the phenotype count.

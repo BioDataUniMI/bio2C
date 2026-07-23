@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chrY') RETURN g.Label AS GeneLabel, g.Genomic_coordinates AS GenomicCoordinates

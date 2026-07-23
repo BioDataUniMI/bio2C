@@ -1,0 +1,1 @@
+Which diseases are subclasses of diseases whose description contains 'rare' and are caused by disruption of molecular functions that are regulated by GO terms? Return the disease label, its parent disease label, disrupted molecular function label, and regulating GO term label.

@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "synaptic membrane",
+  "NumberOfMiRNAs": 1
+}
+

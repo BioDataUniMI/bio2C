@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.ID ENDS WITH '0233' RETURN p.Label AS Phenotype, p.ID AS PhenotypeID

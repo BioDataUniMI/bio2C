@@ -1,0 +1,1 @@
+Find all genes that are transcribed into pre-miRNAs which are over-expressed in phenotypes having at least one synonym containing the string 'myelom'. Return the gene, the corresponding pre-miRNA, and the phenotype label.

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:formed_as_result_of]->(go1:GO)-[:part_of]->(go2:GO) RETURN cc.Label AS Cellular_Component, go1.Label AS GO_Term, go2.Label AS Parent_GO

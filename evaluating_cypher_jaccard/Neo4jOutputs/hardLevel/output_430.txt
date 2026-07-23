@@ -1,0 +1,55 @@
+{
+  "miRNA": "microRNA hsa-mir-6859 precursor (hsa-mir-6859 1 to 4)",
+  "nGenes": 4,
+  "geneList": [
+    "MIR6859-2",
+    "MIR6859-3",
+    "MIR6859-1",
+    "MIR6859-4"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3670 precursor (hsa-mir-3670 1 to 4)",
+  "nGenes": 4,
+  "geneList": [
+    "MIR3670-1",
+    "MIR3670-2",
+    "MIR3670-3",
+    "MIR3670-4"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1244 precursor (hsa-mir-1244 1 to 4)",
+  "nGenes": 4,
+  "geneList": [
+    "MIR1244-1",
+    "MIR1244-3",
+    "MIR1244-2",
+    "MIR1244-4"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-6511a precursor (hsa-mir-6511a 1 to 4)",
+  "nGenes": 4,
+  "geneList": [
+    "MIR6511A3",
+    "MIR6511A4",
+    "MIR6511A1",
+    "MIR6511A2"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "nGenes": 4,
+  "geneList": [
+    "MIR1302-2",
+    "MIR1302-9",
+    "MIR1302-10",
+    "MIR1302-11"
+  ]
+}
+

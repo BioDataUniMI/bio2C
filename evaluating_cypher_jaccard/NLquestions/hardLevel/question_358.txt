@@ -1,0 +1,1 @@
+What is the average number of distinct miRNAs regulating genes that cause or contribute to diseases? Return the average number of miRNAs per gene.

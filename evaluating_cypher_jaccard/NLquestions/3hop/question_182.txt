@@ -1,0 +1,1 @@
+For each disease whose label contains 'ocarcinoma', compute the number of unique pre-miRNAs that are over-expressed in that disease and whose phenotypes are characteristic of GO terms. Return the disease label and the count of pre-miRNAs, ordered by count in descending order.

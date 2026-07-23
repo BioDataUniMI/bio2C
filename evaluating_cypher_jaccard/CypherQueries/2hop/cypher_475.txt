@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:function_of]->(m:miRNA)-[:is_causal_somatic_mutation_in]->(c:Cancer {Label:'gastric adenocarcinoma'}) RETURN go.Label AS GO_Term, m.Label AS miRNA

@@ -1,0 +1,1 @@
+In which biological processes (that are part of GO) the miRNA 'hsa-miR-181a-5p' participates in? In which cellular components those GO occur? Return the GO term label, the biological process label, the miRNA label, and the cellular component label.

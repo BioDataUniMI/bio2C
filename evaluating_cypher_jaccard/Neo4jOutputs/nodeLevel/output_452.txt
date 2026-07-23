@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Extremely elevated creatine kinase",
+  "p.Description": "an increased creatine kinase level more than 50x above the upper normal level."
+}
+
+{
+  "Phenotype": "Increased circulating creatine kinase MB isoform",
+  "p.Description": "an increased concentration of the mb isoform of creatine kinase in the blood circulation."
+}
+
+{
+  "Phenotype": "Highly elevated creatine kinase",
+  "p.Description": "an increased cpk level between 4x and 50x above the upper normal level."
+}
+
+{
+  "Phenotype": "Increased circulating creatine kinase BB isoform",
+  "p.Description": "an increased concentration of the bb isoform of creatine kinase in the blood circulation."
+}
+
+{
+  "Phenotype": "Increased circulating creatine kinase MM isoform",
+  "p.Description": "an increased concentration of the mm isoform of creatine kinase in the blood circulation."
+}
+

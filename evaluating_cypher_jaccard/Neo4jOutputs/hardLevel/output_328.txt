@@ -1,0 +1,30 @@
+{
+  "Disease": "familial prostate carcinoma",
+  "GeneLabelLength": 5,
+  "miRNACount": 181
+}
+
+{
+  "Disease": "prostate cancer, hereditary",
+  "GeneLabelLength": 5,
+  "miRNACount": 181
+}
+
+{
+  "Disease": "prostate cancer, hereditary, 1",
+  "GeneLabelLength": 5,
+  "miRNACount": 181
+}
+
+{
+  "Disease": "breast cancer",
+  "GeneLabelLength": 5,
+  "miRNACount": 180
+}
+
+{
+  "Disease": "breast carcinoma",
+  "GeneLabelLength": 5,
+  "miRNACount": 180
+}
+

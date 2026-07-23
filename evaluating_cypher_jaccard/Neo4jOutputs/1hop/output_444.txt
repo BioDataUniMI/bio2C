@@ -1,0 +1,47 @@
+{
+  "bp.Label": "axo-dendritic transport",
+  "cc.Label": "microtubule",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "anterograde axonal transport",
+  "cc.Label": "microtubule",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "retrograde axonal transport",
+  "cc.Label": "microtubule",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "cytoskeleton-dependent intracellular transport",
+  "cc.Label": "polymeric cytoskeletal fiber",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "transport along microtubule",
+  "cc.Label": "microtubule",
+  "r.Source": [
+    "CLO",
+    "GO",
+    "Uberon"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Find pre-miRNAs that have a biological process as their function, where that biological process have a GO terms as parts, and the GO terms are regulated by the biological process labeled as 'regulation of blood coagulation'. Return the label of the: pre-miRNA, biological process, and GO term

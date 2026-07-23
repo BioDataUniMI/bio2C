@@ -1,0 +1,15 @@
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "AU_content_percentage": 60.0
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "AU_content_percentage": 55.68181818181818
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "AU_content_percentage": 51.388888888888886
+}
+

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-485-5p",
+  "BiologicalProcess": "cellular response to hypoxia"
+}
+
+{
+  "miRNA": "hsa-miR-485-5p",
+  "BiologicalProcess": "cellular response to oxygen levels"
+}
+
+{
+  "miRNA": "hsa-miR-485-5p",
+  "BiologicalProcess": "positive regulation of lipid biosynthetic process"
+}
+
+{
+  "miRNA": "hsa-miR-485-5p",
+  "BiologicalProcess": "regulation of hormone biosynthetic process"
+}
+
+{
+  "miRNA": "hsa-miR-485-5p",
+  "BiologicalProcess": "positive regulation of fatty acid metabolic process"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label STARTS WITH 'METT' RETURN g.Label AS Gene

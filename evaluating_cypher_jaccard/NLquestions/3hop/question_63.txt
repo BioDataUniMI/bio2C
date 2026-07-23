@@ -1,0 +1,1 @@
+Which infectious diseases have basis in the feature of diseases that have phenotypes also found in the cancer labeled as 'central nervous system sarcoma'? Return the labels of: the infectious disease, the disease and the phenotype.

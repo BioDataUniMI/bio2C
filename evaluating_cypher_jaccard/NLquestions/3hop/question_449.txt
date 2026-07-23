@@ -1,0 +1,1 @@
+Identify cancers whose label contains the word 'malignant' where under-expressed miRNAs are in similarity relationship with pre-miRNAs participating in GO terms whose label contains the string 'biological process'. Return the GO term label, pre-miRNA label, miRNA label, and cancer label.

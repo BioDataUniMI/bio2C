@@ -1,0 +1,1 @@
+Retrieve the first 20% of the miRNA sequence for miRNAs in homology with precursor miRNAs that cause or contribute to the disease labeled as 'hemophilia A'.

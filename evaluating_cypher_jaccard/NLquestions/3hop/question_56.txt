@@ -1,0 +1,1 @@
+Which primary diseases are characterized by the over-expression of precursor miRNAs and have as a feature another disease that has the phenotype labeled 'Cellulitis'? Return the label of the diseases and the phenotype.

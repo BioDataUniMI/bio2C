@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-223-3p",
+  "MolecularFunction": "lncRNA binding"
+}
+
+{
+  "miRNA": "hsa-miR-361-5p",
+  "MolecularFunction": "lncRNA binding"
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "MolecularFunction": "lncRNA binding"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "MolecularFunction": "single-stranded RNA binding"
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "MolecularFunction": "lncRNA binding"
+}
+

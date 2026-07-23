@@ -1,0 +1,25 @@
+{
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "RelationshipType": "causes_or_contributes_to_condition"
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "RelationshipType": "causes_or_contributes_to_condition"
+}
+
+{
+  "Disease": "myasthenia gravis",
+  "RelationshipType": "causes_or_contributes_to_condition"
+}
+
+{
+  "Disease": "vitiligo",
+  "RelationshipType": "causes_or_contributes_to_condition"
+}
+
+{
+  "Disease": "systemic lupus erythematosus",
+  "RelationshipType": "causes_or_contributes_to_condition"
+}
+

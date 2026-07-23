@@ -1,0 +1,30 @@
+{
+  "Phenotype_label": "Glioblastoma multiforme",
+  "miRNA": "microRNA hsa-mir-3908 precursor",
+  "sequence_length": 126
+}
+
+{
+  "Phenotype_label": "Ovarian neoplasm",
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "sequence_length": 137
+}
+
+{
+  "Phenotype_label": "Non-small cell lung carcinoma",
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "sequence_length": 137
+}
+
+{
+  "Phenotype_label": "Glioblastoma multiforme",
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "sequence_length": 137
+}
+
+{
+  "Phenotype_label": "Glioma",
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "sequence_length": 137
+}
+

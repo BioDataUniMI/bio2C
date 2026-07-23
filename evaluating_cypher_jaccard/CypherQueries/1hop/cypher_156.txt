@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:has_function]->(g:GO {Label:'cell motility'}) RETURN m.Label AS miRNA, r.Source AS Source

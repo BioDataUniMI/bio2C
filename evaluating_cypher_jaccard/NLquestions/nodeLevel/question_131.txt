@@ -1,0 +1,1 @@
+List precursor miRNAs whose description mentions the letter 'b' and whose sequence is at least 100 nucleotides long.

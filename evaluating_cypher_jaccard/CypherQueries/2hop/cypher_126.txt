@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease)<-[:over_expressed_in]-(pre:pre_miRNA) WHERE d.Label CONTAINS 'adult' RETURN d.Label AS AdultInfectiousDisease UNION MATCH (d:Infectious_disease)-[:expresses]->(m:miRNA) WHERE d.Label CONTAINS 'adult' RETURN d.Label AS AdultInfectiousDisease

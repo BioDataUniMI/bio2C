@@ -1,0 +1,1 @@
+MATCH (c:Cellular_component)-[r:location_of]->(m:miRNA) WHERE r.RNAsister_score > 0.97 RETURN COUNT(r) AS nLocationRelationships

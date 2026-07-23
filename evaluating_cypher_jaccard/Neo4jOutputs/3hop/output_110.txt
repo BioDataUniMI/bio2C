@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "blood coagulation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-205 precursor",
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "blood coagulation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "blood coagulation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)",
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "blood coagulation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-23a precursor",
+  "BiologicalProcess": "wound healing",
+  "GO_Term": "blood coagulation"
+}
+

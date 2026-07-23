@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN MIN(SIZE(m.Sequence)) AS Shortest_Sequence_Length

@@ -1,0 +1,1 @@
+Identify the phenotypes of the autoimmune disease labeled as 'Sjogren syndrome' that shares features with other diseases having phenotypes also found in the cancer labeled as 'esophagus sarcoma'? Return the label of disease and phenotype.

@@ -1,0 +1,21 @@
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p",
+  "CellularComponent": "extracellular exosome",
+  "CellularComponentDescription": "a vesicle that is released into the extracellular region by fusion of the limiting endosomal memb..."
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "CellularComponent": "extracellular exosome",
+  "CellularComponentDescription": "a vesicle that is released into the extracellular region by fusion of the limiting endosomal memb..."
+}
+
+{
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-5p",
+  "CellularComponent": "glutamate-cysteine ligase complex",
+  "CellularComponentDescription": "an enzyme complex that catalyzes the ligation of glutamate to cysteine, forming glutamylcysteine."
+}
+

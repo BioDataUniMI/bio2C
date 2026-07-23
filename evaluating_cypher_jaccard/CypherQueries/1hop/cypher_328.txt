@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT (m)-[:function_of]->(:GO) AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr15' OR coord STARTS WITH 'chr14') AND m.Sequence STARTS WITH 'AG' AND m.Sequence ENDS WITH 'AU' RETURN m.Label

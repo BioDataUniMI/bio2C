@@ -1,0 +1,15 @@
+{
+  "mf1": {
+    "Description": "enables the energy-independent facilitated diffusion of a calcium ion through a transmembrane aqu...",
+    "Label": "calcium channel activity",
+    "ID": "GO:0005262",
+    "URI": "http://purl.obolibrary.org/obo/GO_0005262"
+  },
+  "mf2": {
+    "Description": "modulates the activity of a calcium channel.",
+    "Label": "calcium channel regulator activity",
+    "ID": "GO:0005246",
+    "URI": "http://purl.obolibrary.org/obo/GO_0005246"
+  }
+}
+

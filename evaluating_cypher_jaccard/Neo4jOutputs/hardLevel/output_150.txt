@@ -1,0 +1,4 @@
+{
+  "ProportionEndingWithA": 0.22725375626043406
+}
+

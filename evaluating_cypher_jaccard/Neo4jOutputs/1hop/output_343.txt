@@ -1,0 +1,40 @@
+{
+  "m1.Label": "hsa-miR-6132",
+  "m2.Label": "microRNA hsa-mir-6132 precursor",
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-6128",
+  "m2.Label": "microRNA hsa-mir-6128 precursor",
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-646",
+  "m2.Label": "microRNA hsa-mir-646 precursor",
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-548ap-3p",
+  "m2.Label": "microRNA hsa-mir-548ap precursor",
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "m1.Label": "hsa-miR-548ap-5p",
+  "m2.Label": "microRNA hsa-mir-548ap precursor",
+  "r.Source": [
+    "miRBase"
+  ]
+}
+

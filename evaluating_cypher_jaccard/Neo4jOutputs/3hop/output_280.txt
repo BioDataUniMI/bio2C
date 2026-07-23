@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "benign muscle neoplasm",
+  "Phenotype": "Hepatitis",
+  "GOterm": "inflammatory response"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Hepatitis",
+  "GOterm": "inflammatory response"
+}
+

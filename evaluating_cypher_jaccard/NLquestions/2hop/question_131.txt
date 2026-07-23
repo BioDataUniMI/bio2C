@@ -1,0 +1,1 @@
+List miRNAs transcribed from one gene and also regulates the activity of a different gene. Return the source genes label, miRNAs label, and target genes label.

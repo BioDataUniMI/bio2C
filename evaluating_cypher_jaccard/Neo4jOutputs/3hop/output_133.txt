@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-33b-5p",
+  "BiologicalProcess": "telomere maintenance",
+  "MolecularFunction": "site-specific telomere resolvase activity",
+  "GOterm": "telomere maintenance"
+}
+
+{
+  "miRNA": "hsa-miR-144-5p",
+  "BiologicalProcess": "telomere maintenance",
+  "MolecularFunction": "site-specific telomere resolvase activity",
+  "GOterm": "telomere maintenance"
+}
+
+{
+  "miRNA": "hsa-miR-550a-3p",
+  "BiologicalProcess": "telomere maintenance",
+  "MolecularFunction": "site-specific telomere resolvase activity",
+  "GOterm": "telomere maintenance"
+}
+
+{
+  "miRNA": "hsa-miR-25-5p",
+  "BiologicalProcess": "telomere maintenance",
+  "MolecularFunction": "site-specific telomere resolvase activity",
+  "GOterm": "telomere maintenance"
+}
+
+{
+  "miRNA": "hsa-miR-34b-5p",
+  "BiologicalProcess": "telomere maintenance",
+  "MolecularFunction": "site-specific telomere resolvase activity",
+  "GOterm": "telomere maintenance"
+}
+

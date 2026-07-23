@@ -1,0 +1,1 @@
+Which biological processes have as parts GO terms that are characteristic of phenotypes containing 'corpus callosum' in their labels and are phenotypes of diseases whose label contain 'developmental disorder'? Return the disease label, the phenotype label, the GO term, and the biological process.

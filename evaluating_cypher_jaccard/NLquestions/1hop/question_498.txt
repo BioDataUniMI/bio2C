@@ -1,0 +1,1 @@
+Find cancers or phenotypes in which the miRNA 'hsa-miR-520f-3p' acts as a causal somatic mutation. Return the miRNA label, the target label, the type of the target (LABELS), and mutations.

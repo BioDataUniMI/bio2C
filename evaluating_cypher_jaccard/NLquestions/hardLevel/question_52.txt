@@ -1,0 +1,1 @@
+Which cancers are associated with the miRNAs 'hsa-miR-155-5p' via two or more distinct types of relationships? Return the disease label, and the list of relationship types for each miRNA-cancer pair.

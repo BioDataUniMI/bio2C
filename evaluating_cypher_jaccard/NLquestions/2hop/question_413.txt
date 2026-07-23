@@ -1,0 +1,1 @@
+Find molecular functions part of GO terms whose disruption cause the disease 'coenzyme Q10 deficiency'.

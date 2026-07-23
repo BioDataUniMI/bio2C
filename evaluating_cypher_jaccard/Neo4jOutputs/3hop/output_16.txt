@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-372 precursor",
+  "precursor_miRNA": "microRNA hsa-mir-371a precursor",
+  "disease": "childhood testicular germ cell tumor",
+  "phenotype": "Childhood onset"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-371b precursor",
+  "precursor_miRNA": "microRNA hsa-mir-371a precursor",
+  "disease": "childhood testicular germ cell tumor",
+  "phenotype": "Childhood onset"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-371a precursor",
+  "precursor_miRNA": "microRNA hsa-mir-372 precursor",
+  "disease": "childhood testicular germ cell tumor",
+  "phenotype": "Childhood onset"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-106a precursor",
+  "precursor_miRNA": "microRNA hsa-mir-20b precursor",
+  "disease": "childhood testicular germ cell tumor",
+  "phenotype": "Childhood onset"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1283 precursor (hsa-mir-1283-1)",
+  "precursor_miRNA": "microRNA hsa-mir-520b precursor",
+  "disease": "childhood testicular germ cell tumor",
+  "phenotype": "Childhood onset"
+}
+

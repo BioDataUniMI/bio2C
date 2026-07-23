@@ -1,0 +1,1 @@
+ MATCH (g:Gene)-[r:transcribed_to]->(m:miRNA) WHERE SIZE(m.Sequence) = 180 RETURN m.Label, r

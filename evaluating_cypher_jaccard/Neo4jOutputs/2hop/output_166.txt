@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-4689",
+  "BiologicalProcess": "positive regulation of protein kinase activity",
+  "GO": "positive regulation of protein autophosphorylation"
+}
+
+{
+  "miRNA": "hsa-miR-4689",
+  "BiologicalProcess": "muscle cell differentiation",
+  "GO": "muscle structure development"
+}
+
+{
+  "miRNA": "hsa-miR-4689",
+  "BiologicalProcess": "glial cell development",
+  "GO": "glial cell differentiation"
+}
+
+{
+  "miRNA": "hsa-miR-4689",
+  "BiologicalProcess": "glial cell differentiation",
+  "GO": "gliogenesis"
+}
+
+{
+  "miRNA": "hsa-miR-4689",
+  "BiologicalProcess": "chemical synaptic transmission",
+  "GO": "transmission of nerve impulse"
+}
+

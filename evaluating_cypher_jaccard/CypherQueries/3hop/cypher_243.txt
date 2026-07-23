@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_part]->(g1:GO), (bp)-[:occurs_in]->(g2:GO), (bp)-[:has_primary_input]->(g3:GO) RETURN bp.Label AS BiologicalProcess, g1.Label AS PartGO, g2.Label AS OccursInGO, g3.Label AS PrimaryInputGO

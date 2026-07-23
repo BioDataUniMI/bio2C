@@ -1,0 +1,1 @@
+Do miRNAs that act upstream of or within biological processes whose label contains 'necrosis' show a high G-to-C ratio, where the ratio is defined as the number of guanine (G) nucleotides divided by the number of cytosine (C) nucleotides? Return each miRNA label and its G-to-C ratio, sorted by G-to-C ratio in descending order.

@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:predisposes_towards]->(d2:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(cv:Cardiovascular_disease) RETURN cv.Label AS CardiovascularDisease, COUNT(DISTINCT p) AS PhenotypeCount ORDER BY COUNT(DISTINCT p) DESC, cv.Label ASC LIMIT 5

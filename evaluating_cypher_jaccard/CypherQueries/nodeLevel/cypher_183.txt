@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE toLower(p.Label) CONTAINS 'neoplasm' AND ANY(syn IN p.Synonym WHERE toLower(syn) CONTAINS 'tumor') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

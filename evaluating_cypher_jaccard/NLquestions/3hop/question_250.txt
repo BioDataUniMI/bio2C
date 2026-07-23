@@ -1,0 +1,1 @@
+Which autoimmune diseases are subclasses of the cancer labeled as 'tenosynovial giant cell tumor', and which phenotypes of these cancers are characteristic of GO terms? Return the labels of the autoimmune disease, the phenotype, and the GO term.

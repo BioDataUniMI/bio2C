@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label: 'hsa-miR-155-5p'})-[:expressed_in]->(d:Disease)-[:has_phenotype]->(:Phenotype)-[:characteristic_of]->(go:GO) RETURN d.Label AS Disease, go.Label AS GOterm

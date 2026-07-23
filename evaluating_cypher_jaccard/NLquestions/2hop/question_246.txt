@@ -1,0 +1,1 @@
+Identify diseases that express miRNAs by which the molecular function labeled as 'protein binding' is enabled.

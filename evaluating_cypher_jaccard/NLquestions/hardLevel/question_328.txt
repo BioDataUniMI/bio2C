@@ -1,0 +1,1 @@
+For each pair of disease and gene label length, count how many distinct miRNAs regulate the activity of genes (of that label length) that cause or contribute to the disease. Return the top 5 results, ordered by miRNA count in descending order and, in case of ties, by disease label in ascending alphabetical order.

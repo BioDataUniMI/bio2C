@@ -1,0 +1,1 @@
+Identify the diseases whose labels contain both 'deafness' and 'unilateral', where these diseases have phenotypes that characterize biological processes in which pre-miRNAs participate. Return the pre-miRNA label, biological process label, phenotype label, and disease label.

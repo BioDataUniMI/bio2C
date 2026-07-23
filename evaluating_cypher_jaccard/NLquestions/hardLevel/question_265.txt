@@ -1,0 +1,1 @@
+Retrieve the top 5 genes whose activity is regulated by the largest number of miRNAs, ordered by the number of regulating miRNAs (descending) and by gene label (alphabetically) in case of ties. Return the gene label and the number of regulating miRNAs.

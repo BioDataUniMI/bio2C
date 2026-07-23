@@ -1,0 +1,1 @@
+Retrieve the 'GeneMANIA_weight' of the genetic interaction between genes regulated by miRNAs. Keep only genes that cause or contribute to diseases whose label contains the word 'hereditary'. Return the labels of the miRNA, genes, disease, and the 'GeneMANIA_weight'.

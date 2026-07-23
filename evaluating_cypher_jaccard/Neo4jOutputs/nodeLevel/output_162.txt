@@ -1,0 +1,15 @@
+{
+  "CellularComponent": "plastid chromosome",
+  "Description": "a circular dna molecule containing plastid encoded genes."
+}
+
+{
+  "CellularComponent": "chromosome, subtelomeric region",
+  "Description": "a region of the chromosome, adjacent to the telomere (on the centromeric side) that contains repe..."
+}
+
+{
+  "CellularComponent": "chloroplast chromosome",
+  "Description": "a circular dna molecule containing chloroplast encoded genes."
+}
+

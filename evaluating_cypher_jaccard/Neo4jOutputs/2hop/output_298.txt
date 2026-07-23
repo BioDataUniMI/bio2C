@@ -1,0 +1,44 @@
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "miRNACoordinates": [
+    "chr5:160485372-160485393+"
+  ],
+  "CardiovascularDisease": "Noonan syndrome 9"
+}
+
+{
+  "miRNA": "hsa-miR-124-3p",
+  "miRNACoordinates": [
+    "chr8:9903399-9903420-",
+    "chr20:63178552-63178573+",
+    "chr8:64379210-64379231+"
+  ],
+  "CardiovascularDisease": "Noonan syndrome 9"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "miRNACoordinates": [
+    "chr5:160485372-160485393+"
+  ],
+  "CardiovascularDisease": "Noonan syndrome 7"
+}
+
+{
+  "miRNA": "hsa-miR-124-3p",
+  "miRNACoordinates": [
+    "chr8:9903399-9903420-",
+    "chr20:63178552-63178573+",
+    "chr8:64379210-64379231+"
+  ],
+  "CardiovascularDisease": "Noonan syndrome 7"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "miRNACoordinates": [
+    "chr5:160485372-160485393+"
+  ],
+  "CardiovascularDisease": "Noonan syndrome 6"
+}
+

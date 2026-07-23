@@ -1,0 +1,1 @@
+Retrieve all distinct genomic coordinates for genes that cause or contribute to infectious diseases whose label contains 'COVID', returning the full chromosome coordinate strings ordered alphabetically.

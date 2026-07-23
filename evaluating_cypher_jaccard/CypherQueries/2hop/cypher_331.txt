@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'microRNA hsa-mir-7704 precursor'})-[:part_of]->(cc:Cellular_component)-[:participates_in]->(bp:Biological_process) RETURN cc.Label AS CellularComponent, bp.Label AS BiologicalProcess

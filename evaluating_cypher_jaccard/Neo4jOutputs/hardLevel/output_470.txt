@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-195-5p",
+  "Disease": "COVID-19",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-let-7b-3p",
+  "Disease": "COVID-19",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "Disease": "COVID-19",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Disease": "COVID-19",
+  "RNAsister_score": 0.968971
+}
+
+{
+  "miRNA": "hsa-miR-15a-5p",
+  "Disease": "COVID-19",
+  "RNAsister_score": 0.968971
+}
+

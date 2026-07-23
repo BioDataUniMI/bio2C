@@ -1,0 +1,1 @@
+List diseases caused by the disruption of GO terms that have the pre-miRNA labeled as 'microRNA hsa-mir-324 precursor' as a participant. Note that this pre-miRNA develops into miRNAs. Return the disease label, GO term label, pre-miRNA label, miRNA label, and the source reporting the disruption.

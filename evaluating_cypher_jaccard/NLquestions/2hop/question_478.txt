@@ -1,0 +1,1 @@
+Find all miRNAs where a molecular function directly negatively regulates the molecular function labeled as 'catalytic activity' and the regulated molecular function is a function of the miRNA. Return the regulating molecular function and the miRNA labels.

@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Species = 'Homo sapiens' AND g.Label STARTS WITH 'MIR7' AND SIZE(g.Sequence) > 120 RETURN g.Label AS Gene, SIZE(g.Sequence) AS Length

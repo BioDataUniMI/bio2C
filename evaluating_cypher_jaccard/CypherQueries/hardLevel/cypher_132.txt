@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(mf:Molecular_function) UNWIND m.Genomic_coordinates AS coord WITH mf, m, SPLIT(coord, ':')[0] AS chr WITH mf, chr, COLLECT(m.Label) AS mirnas RETURN mf.Label AS MolecularFunction, chr AS Chromosome, mirnas AS miRNAs

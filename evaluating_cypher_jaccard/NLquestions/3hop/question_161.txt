@@ -1,0 +1,1 @@
+Find genes with labels longer than 8 characters whose activity is regulated by miRNAs that interact with miRNAs developed from pre-miRNAs containing the string 'mir-9-3'. Return the label of: the pre-miRNA, the miRNAs, and the gene.

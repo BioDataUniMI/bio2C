@@ -1,0 +1,1 @@
+MATCH (bp1:Biological_process)-[r:encompasses]->(bp2:Biological_process) WHERE bp2.Label CONTAINS 'checkpoint' RETURN bp1.Label, bp2.Label

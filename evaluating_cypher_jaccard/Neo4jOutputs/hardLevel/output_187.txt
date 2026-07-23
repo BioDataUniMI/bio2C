@@ -1,0 +1,5 @@
+{
+  "disease_type": "Cancer",
+  "count": 264
+}
+

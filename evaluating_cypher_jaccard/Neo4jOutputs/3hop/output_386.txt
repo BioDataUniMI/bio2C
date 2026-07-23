@@ -1,0 +1,35 @@
+{
+  "Disease": "rhabdomyoma",
+  "ParentCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Disease": "benign smooth muscle neoplasm",
+  "ParentCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "SYNCRIP"
+}
+
+{
+  "Disease": "rhabdomyoma",
+  "ParentCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "IGF2BP1"
+}
+
+{
+  "Disease": "benign smooth muscle neoplasm",
+  "ParentCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "IGF2BP1"
+}
+
+{
+  "Disease": "rhabdomyoma",
+  "ParentCancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "KPNA2P3"
+}
+

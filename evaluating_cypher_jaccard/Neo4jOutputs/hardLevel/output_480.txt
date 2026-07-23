@@ -1,0 +1,37 @@
+{
+  "p.Label": "Increased circulating creatine kinase MB isoform",
+  "matching_synonyms": [
+    "Aumento de la isoforma MB de la creatina quinasa circulante"
+  ]
+}
+
+{
+  "p.Label": "Reduced brain creatine level by MRS",
+  "matching_synonyms": [
+    "Nivel de creatina cerebral reducido por espectroscopia por resonancia magnética (ERM)",
+    "Riduzione del livello di creatina cerebrale mediante MRS"
+  ]
+}
+
+{
+  "p.Label": "Elevated urinary creatine level",
+  "matching_synonyms": [
+    "Elevati livelli di creatina nelle urine",
+    "Nivel elevado de creatina en orina"
+  ]
+}
+
+{
+  "p.Label": "Reduced CSF creatine concentration",
+  "matching_synonyms": [
+    "Disminución de la concentración de creatina en el líquido cefalorraquídeo"
+  ]
+}
+
+{
+  "p.Label": "Decreased circulating creatine kinase concentration",
+  "matching_synonyms": [
+    "Disminución de la concentración de creatina quinasa circulante"
+  ]
+}
+

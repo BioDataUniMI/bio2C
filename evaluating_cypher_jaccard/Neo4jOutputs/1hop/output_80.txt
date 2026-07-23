@@ -1,0 +1,41 @@
+{
+  "Method": [
+    "microarray analysis"
+  ],
+  "miRNA": "hsa-miR-210-5p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "Method": [
+    "microarray analysis"
+  ],
+  "miRNA": "hsa-miR-210-3p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "miRNA": "hsa-miR-328-3p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "Method": [
+    "microarray analysis"
+  ],
+  "miRNA": "hsa-miR-15a-5p",
+  "Disease": "Alzheimer disease"
+}
+
+{
+  "Method": [
+    "microarray analysis"
+  ],
+  "miRNA": "hsa-miR-363-3p",
+  "Disease": "Alzheimer disease"
+}
+

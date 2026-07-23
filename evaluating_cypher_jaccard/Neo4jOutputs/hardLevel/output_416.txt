@@ -1,0 +1,10 @@
+{
+  "miRNA": "hsa-let-7e-5p",
+  "GC_skew": 1.0
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "GC_skew": -0.3333333333333333
+}
+

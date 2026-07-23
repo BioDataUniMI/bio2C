@@ -1,0 +1,40 @@
+{
+  "miRNAs": [
+    "microRNA hsa-mir-127 precursor",
+    "microRNA hsa-mir-2392 precursor",
+    "microRNA hsa-mir-337 precursor"
+  ]
+}
+
+{
+  "miRNAs": [
+    "microRNA hsa-mir-127 precursor",
+    "microRNA hsa-mir-2392 precursor",
+    "microRNA hsa-mir-665 precursor"
+  ]
+}
+
+{
+  "miRNAs": [
+    "microRNA hsa-mir-127 precursor",
+    "microRNA hsa-mir-2392 precursor",
+    "microRNA hsa-mir-493 precursor"
+  ]
+}
+
+{
+  "miRNAs": [
+    "microRNA hsa-mir-127 precursor",
+    "microRNA hsa-mir-2392 precursor",
+    "microRNA hsa-mir-770 precursor"
+  ]
+}
+
+{
+  "miRNAs": [
+    "microRNA hsa-mir-127 precursor",
+    "microRNA hsa-mir-2392 precursor",
+    "microRNA hsa-mir-370 precursor"
+  ]
+}
+

@@ -1,0 +1,40 @@
+{
+  "DiseaseLabel": "normal pressure hydrocephalus",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "subacute inflammatory demyelinating polyneuropathy",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Marchiafava-Bignami disease",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "autosomal dominant optic atrophy plus syndrome",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "spinal muscular atrophy, type II",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+

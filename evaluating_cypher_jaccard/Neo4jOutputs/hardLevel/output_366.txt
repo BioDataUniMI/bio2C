@@ -1,0 +1,8 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "NumMiRNAs": 518,
+  "GOTerms": [
+    "extracellular space"
+  ]
+}
+

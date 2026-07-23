@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "exosome (RNase complex)",
+  "MolecularFunction": "RNA binding"
+}
+
+{
+  "CellularComponent": "RNA polymerase IV complex",
+  "MolecularFunction": "RNA polymerase IV activity"
+}
+
+{
+  "CellularComponent": "RNA polymerase V complex",
+  "MolecularFunction": "RNA polymerase V activity"
+}
+
+{
+  "CellularComponent": "RNA polymerase III complex",
+  "MolecularFunction": "RNA polymerase III activity"
+}
+
+{
+  "CellularComponent": "RNA polymerase I complex",
+  "MolecularFunction": "RNA polymerase I activity"
+}
+

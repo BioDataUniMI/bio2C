@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-100 precursor",
+  "Disease": "coronary artery disorder"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-195 precursor",
+  "Disease": "congestive heart failure"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "Disease": "congestive heart failure"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-126 precursor",
+  "Disease": "Fabry disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Disease": "myocardial infarction"
+}
+

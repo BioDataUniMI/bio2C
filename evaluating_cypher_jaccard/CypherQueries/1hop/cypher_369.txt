@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:in_homology_relationship_with]->(m2:miRNA) WHERE m1.Label CONTAINS 'stem-loop' AND m1<m2 RETURN m1.Label AS miRNA1, m2.Label AS miRNA2

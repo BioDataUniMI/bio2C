@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:capable_of]->(mf:Molecular_function) WHERE mf.Label STARTS WITH 'RNA' RETURN  cc.Label AS CellularComponent, mf.Label AS MolecularFunction

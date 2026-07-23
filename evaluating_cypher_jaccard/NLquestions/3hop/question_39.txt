@@ -1,0 +1,1 @@
+Identify the genes transcribed to precursor miRNAs that have as functions biological processes that are also function of the miRNA labeled as 'microRNA hsa-mir-1288 precursor'. Return the gene and the biological process labels.

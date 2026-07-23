@@ -1,0 +1,1 @@
+Which diseases whose label contain 'obesity' have phenotypes containing in their labels the string 'Decreased response'?

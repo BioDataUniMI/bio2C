@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Atrial cardiomyopathy"
+}
+
+{
+  "Phenotype": "Minicore myopathy"
+}
+
+{
+  "Phenotype": "Restrictive cardiomyopathy"
+}
+
+{
+  "Phenotype": "Right ventricular noncompaction cardiomyopathy"
+}
+
+{
+  "Phenotype": "Scapuloperoneal myopathy"
+}
+

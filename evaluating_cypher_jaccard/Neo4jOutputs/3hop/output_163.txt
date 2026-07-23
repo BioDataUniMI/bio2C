@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-143 precursor",
+  "Interacting_miRNA": "hsa-miR-143-5p",
+  "Target_miRNA": "hsa-miR-145-5p",
+  "Gene": "TNFSF13"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Target_miRNA": "hsa-let-7d-5p",
+  "Gene": "TNFRSF10B"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-2)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Target_miRNA": "hsa-let-7d-5p",
+  "Gene": "TNFRSF10B"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-9 precursor (hsa-mir-9-1)",
+  "Interacting_miRNA": "hsa-miR-9-5p",
+  "Target_miRNA": "hsa-let-7d-5p",
+  "Gene": "TNFRSF10B"
+}
+
+{
+  "Pre_miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "Interacting_miRNA": "hsa-let-7d-5p",
+  "Target_miRNA": "hsa-miR-9-5p",
+  "Gene": "TNPO1P1"
+}
+

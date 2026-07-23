@@ -1,0 +1,1 @@
+How many genes have label ending with a number and all genomic coordinate starting with 'chrX'?

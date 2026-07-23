@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label IS NOT NULL AND NOT g.Label CONTAINS ' ' RETURN MAX(SIZE(g.Label)) AS MaxGeneLength

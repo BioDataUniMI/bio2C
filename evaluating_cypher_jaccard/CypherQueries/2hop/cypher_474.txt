@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_transport_across]->(cc:Cellular_component)-[:bounding_layer_of]->(cc1:Cellular_component {Label:'Golgi apparatus'}) RETURN bp.Label AS Biological_Process, cc.Label AS Cellular_Component

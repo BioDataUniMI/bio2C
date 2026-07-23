@@ -1,0 +1,25 @@
+{
+  "lastLetter": "a",
+  "miRNACount": 69
+}
+
+{
+  "lastLetter": "b",
+  "miRNACount": 68
+}
+
+{
+  "lastLetter": "c",
+  "miRNACount": 16
+}
+
+{
+  "lastLetter": "d",
+  "miRNACount": 9
+}
+
+{
+  "lastLetter": "e",
+  "miRNACount": 7
+}
+

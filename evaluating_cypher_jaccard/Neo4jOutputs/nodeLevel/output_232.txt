@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "transcription ternary complex",
+  "Description": "a protein-dna-rna complex composed of rna polymerase, template dna, and an rna transcript."
+}
+

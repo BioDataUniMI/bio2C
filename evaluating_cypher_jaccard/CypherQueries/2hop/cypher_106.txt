@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[:disease_causes_disruption_of]->(go:GO)-[:has_participant]->(m:miRNA) RETURN cd.Label AS CardiovascularDisease, go.Label AS GO, m.Label AS miRNA

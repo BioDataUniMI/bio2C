@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "CDP-choline pathway",
+  "MolecularFunction1": "choline kinase activity",
+  "MolecularFunction2": "diacylglycerol cholinephosphotransferase activity"
+}
+
+{
+  "BiologicalProcess": "sucrose catabolic process to fructose-6-phosphate through glucose and fructose",
+  "MolecularFunction1": "sucrose alpha-glucosidase activity",
+  "MolecularFunction2": "glucose-6-phosphate isomerase activity"
+}
+
+{
+  "BiologicalProcess": "methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione",
+  "MolecularFunction1": "lactoylglutathione lyase activity",
+  "MolecularFunction2": "hydroxyacylglutathione hydrolase activity"
+}
+
+{
+  "BiologicalProcess": "mannose to fructose-6-phosphate catabolic process",
+  "MolecularFunction1": "mannokinase activity",
+  "MolecularFunction2": "mannose-6-phosphate isomerase activity"
+}
+
+{
+  "BiologicalProcess": "pentose-phosphate shunt, oxidative branch",
+  "MolecularFunction1": "glucose-6-phosphate dehydrogenase activity",
+  "MolecularFunction2": "phosphogluconate dehydrogenase (decarboxylating) activity"
+}
+

@@ -1,0 +1,8 @@
+{
+  "cd": {
+    "Label": "vertebral, cardiac, renal, and limb defects syndrome 2",
+    "ID": "MONDO:0060555",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0060555"
+  }
+}
+

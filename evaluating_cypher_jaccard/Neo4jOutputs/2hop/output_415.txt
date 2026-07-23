@@ -1,0 +1,6 @@
+{
+  "Disease": "senior-loken syndrome 3",
+  "GOterm": "micturition",
+  "PhenotypeCount": 1
+}
+

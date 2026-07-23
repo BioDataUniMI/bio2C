@@ -1,0 +1,1 @@
+Find miRNAs that develop from a pre-miRNA where the miRNA contains the sequence 'AAAA'. Return the labels and sequences of both the miRNA and the pre-miRNA.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Macular edema'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(ancestor:Disease)<-[:subclassof]-(c:Cancer)<-[:over_expressed_in]-(m:miRNA) RETURN COUNT(DISTINCT m) AS MiRNACount

@@ -1,0 +1,1 @@
+Which miRNAs that are over-expressed in a disease have at least one genomic coordinate on chromosome 1 whose start position lies within the first 1,000,000 base pairs of the chromosome? Return the label of the miRNA and disease.

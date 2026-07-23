@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label:'MIR548D2'})-[:transcribed_to]->(m:miRNA)-[:participates_in]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOterm

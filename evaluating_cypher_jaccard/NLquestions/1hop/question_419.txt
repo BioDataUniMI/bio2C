@@ -1,0 +1,1 @@
+List all properties of the molecular function that are regulated by another molecular function whose description contains the string 'calcium channel'.

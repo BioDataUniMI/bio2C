@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.Label CONTAINS 'breast' AND c.Label CONTAINS 'familial' RETURN c.Label AS CancerLabel

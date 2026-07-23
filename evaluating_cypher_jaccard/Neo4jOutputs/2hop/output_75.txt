@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-141-3p",
+  "MolecularFunction": "transcription corepressor activity",
+  "BiologicalProcess": "negative regulation of DNA-templated transcription"
+}
+
+{
+  "miRNA": "hsa-miR-34a-3p",
+  "MolecularFunction": "transcription corepressor activity",
+  "BiologicalProcess": "negative regulation of DNA-templated transcription"
+}
+
+{
+  "miRNA": "hsa-miR-101-3p",
+  "MolecularFunction": "translation repressor activity",
+  "BiologicalProcess": "negative regulation of translation"
+}
+
+{
+  "miRNA": "hsa-miR-29c-5p",
+  "MolecularFunction": "transcription corepressor activity",
+  "BiologicalProcess": "negative regulation of DNA-templated transcription"
+}
+
+{
+  "miRNA": "hsa-miR-25-3p",
+  "MolecularFunction": "translation repressor activity",
+  "BiologicalProcess": "negative regulation of translation"
+}
+

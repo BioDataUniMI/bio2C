@@ -1,0 +1,1 @@
+Which miRNAs missing at least one nucleotide among {C, A, G, U} in their sequence and are over-expressed in GO terms that are subclasses of other GO terms, which are positively regulated by another GO term? Return the miRNA label, its sequence, the GO term label, its parent GO term label, and the positively regulating GO term label.

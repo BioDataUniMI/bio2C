@@ -1,0 +1,25 @@
+{
+  "bp.Label": "blood coagulation, common pathway",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0072377"
+}
+
+{
+  "bp.Label": "establishment of glial blood-brain barrier",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0060857"
+}
+
+{
+  "bp.Label": "blood coagulation, extrinsic pathway",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0007598"
+}
+
+{
+  "bp.Label": "phosphatidylserine exposure on blood platelet",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_0097045"
+}
+
+{
+  "bp.Label": "lipid transport across blood-brain barrier",
+  "bp.URI": "http://purl.obolibrary.org/obo/GO_1990379"
+}
+

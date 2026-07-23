@@ -1,0 +1,1 @@
+Identify phenotypes that are the quality of another phenotype such that at least one of the two phenotype label contains the string 'sub'.

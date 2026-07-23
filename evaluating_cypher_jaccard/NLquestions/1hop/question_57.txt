@@ -1,0 +1,1 @@
+Return all miRNAs under-expressed in biological processes such that the 'context' property characterizing this relationship contains the item 'hepg2 cells'.

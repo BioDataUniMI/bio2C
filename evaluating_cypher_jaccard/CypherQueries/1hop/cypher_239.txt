@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[r:has_material_basis_in_somatic_mutation_in]->(pm:pre_miRNA) WHERE c.Label CONTAINS 'hepatocellular' AND SIZE(r.Mutation) = 3 RETURN c.Label AS Cancer, pm.Label AS Precursor, r.Mutation AS Mutations

@@ -1,0 +1,44 @@
+{
+  "g.Label": "adenosine to inosine editing",
+  "p.Label": "microRNA hsa-mir-376a precursor (hsa-mir-376a-2)",
+  "p.Genomic_coordinates": [
+    "chr14:101040069-101040148+"
+  ],
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "g.Label": "adenosine to inosine editing",
+  "p.Label": "microRNA hsa-mir-376b precursor",
+  "p.Genomic_coordinates": [
+    "chr14:101040436-101040535+"
+  ],
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "g.Label": "adenosine to inosine editing",
+  "p.Label": "microRNA hsa-mir-376c precursor",
+  "p.Genomic_coordinates": [
+    "chr14:101039690-101039755+"
+  ],
+  "r.Source": [
+    "miRBase"
+  ]
+}
+
+{
+  "g.Label": "adenosine to inosine editing",
+  "p.Label": "microRNA hsa-mir-376a precursor (hsa-mir-376a-1)",
+  "p.Genomic_coordinates": [
+    "chr14:101040782-101040849+"
+  ],
+  "r.Source": [
+    "miRBase"
+  ]
+}
+

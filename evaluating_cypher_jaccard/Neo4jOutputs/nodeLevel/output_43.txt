@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Molluscoid pseudotumors",
+  "Synonyms": [
+    "Molluscoïde pseudotumoren",
+    "Pseudotumores moluscoides",
+    "Molluskoid psödotümörler",
+    "軟属腫様偽腫瘍",
+    "Pseudotumeurs molluscoïdes",
+    "软假瘤",
+    "Molluskoide Pseudotumore",
+    "Moluskoidní pseudotumory",
+    "Pseudotumori molluscoidi"
+  ]
+}
+
+{
+  "Phenotype": "Carcinoid tumor",
+  "Synonyms": [
+    "Tumore carcinoide",
+    "Karsinoid tümör",
+    "Karzinoid-Tumor",
+    "Carcinoide",
+    "Karcinoid",
+    "カルチノイド",
+    "Tumeur carcinoïde",
+    "类癌",
+    "Carcinoïd tumor"
+  ]
+}
+

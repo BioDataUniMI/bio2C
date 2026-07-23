@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease) WHERE toLower(cd.Label) CONTAINS 'leber' AND NOT cd:Cancer RETURN cd.Label AS DiseaseLabel, LABELS(cd) AS Classifications

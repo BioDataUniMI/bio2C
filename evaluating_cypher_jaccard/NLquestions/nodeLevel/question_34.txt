@@ -1,0 +1,1 @@
+Retrieve cellular components with label containing 'nucleus' as a stand-alone word.

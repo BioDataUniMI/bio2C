@@ -1,0 +1,1 @@
+MATCH (c:Cancer {Label :'lipoma'})-[:expresses]->(m:miRNA)-[:enables]->(go:GO) RETURN m.Label AS miRNA, go.Label AS GOterm

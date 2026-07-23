@@ -1,0 +1,18 @@
+{
+  "source_label": "coenzyme F420-1:gamma-L-glutamate ligase activity",
+  "target_label": "coenzyme F420-0 gamma-glutamyl ligase activity",
+  "relationship_types": [
+    "subclassof",
+    "part_of"
+  ]
+}
+
+{
+  "source_label": "coenzyme F420-0:L-glutamate ligase activity",
+  "target_label": "coenzyme F420-0 gamma-glutamyl ligase activity",
+  "relationship_types": [
+    "subclassof",
+    "part_of"
+  ]
+}
+

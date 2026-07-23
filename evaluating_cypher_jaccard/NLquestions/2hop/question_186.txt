@@ -1,0 +1,1 @@
+Identify miRNAs that are transcribed from genes and regulate the activity of specific target genes and return the miRNA, the target gene, the sequence lengths of both the target gene and the source gene.

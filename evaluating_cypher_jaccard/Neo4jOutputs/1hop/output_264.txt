@@ -1,0 +1,20 @@
+{
+  "Disease": "nonimmune chronic idiopathic neutropenia of adults"
+}
+
+{
+  "Disease": "nonimmune chronic idiopathic neutropenia of adults"
+}
+
+{
+  "Disease": "nonimmune chronic idiopathic neutropenia of adults"
+}
+
+{
+  "Disease": "nonimmune chronic idiopathic neutropenia of adults"
+}
+
+{
+  "Disease": "nonimmune chronic idiopathic neutropenia of adults"
+}
+

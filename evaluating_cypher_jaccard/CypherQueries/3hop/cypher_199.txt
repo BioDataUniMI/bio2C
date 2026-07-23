@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(d:Disease {Label: 'lung carcinoma'}) WHERE m.Label IN ['hsa-let-7a-5p', 'hsa-let-7a-3p'] RETURN c.Label AS Cancer, g.Label AS Gene

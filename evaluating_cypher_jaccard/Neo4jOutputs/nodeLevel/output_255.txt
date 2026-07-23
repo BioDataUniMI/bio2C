@@ -1,0 +1,4 @@
+{
+  "AverageSequenceLength": 48.184374999999996
+}
+

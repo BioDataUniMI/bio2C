@@ -1,0 +1,1 @@
+Identify miRNAs that participate in biological processes whose labels contain 'telomere maintenance', and have as part the molecular functions along with the GO terms that those molecular functions are part of. Return the miRNA label, biological process label, molecular function label, and GO term label.

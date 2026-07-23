@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-miR-1468-3p",
+  "pre_miRNA": "microRNA hsa-mir-1468 precursor",
+  "num_AAA": 3,
+  "miRNA_sequence": "AGCAAAAUAAGCAAAUGGAAAA",
+  "pre_miRNA_sequence": "GGUGGGUGGUUUCUCCGUUUGCCUGUUUCGCUGAUGUGCAUUCAACUCAUUCUCAGCAAAAUAAGCAAAUGGAAAAUUCGUCCAUC"
+}
+
+{
+  "miRNA": "hsa-miR-3613-3p",
+  "pre_miRNA": "microRNA hsa-mir-3613 precursor",
+  "num_AAA": 3,
+  "miRNA_sequence": "ACAAAAAAAAAAGCCCAACCCUUC",
+  "pre_miRNA_sequence": "UGGUUGGGUUUGGAUUGUUGUACUUUUUUUUUUGUUCGUUGCAUUUUUAGGAACAAAAAAAAAAGCCCAACCCUUCACACCACUUCA"
+}
+
+{
+  "miRNA": "hsa-miR-4668-5p",
+  "pre_miRNA": "microRNA hsa-mir-4668 precursor",
+  "num_AAA": 3,
+  "miRNA_sequence": "AGGGAAAAAAAAAAGGAUUUGUC",
+  "pre_miRNA_sequence": "AGGGAAAAAAAAAAGGAUUUGUCUUGUAGCCAGGAUAUUGUUUUAAAGAAAAUCCUUUUUGUUUUUCCAG"
+}
+

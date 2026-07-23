@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA {Label:'microRNA hsa-mir-519a precursor (hsa-mir-519a-2)'})-[:develops_into]->(m:miRNA)-[:located_in]->(cc:Cellular_component) RETURN m.Label AS miRNA, cc.Label AS CellularComponent

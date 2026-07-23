@@ -1,0 +1,30 @@
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "phenotype": "Maculopapular exanthema",
+  "cancer": "mast cell leukemia"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "phenotype": "Myalgia",
+  "cancer": "hairy cell leukemia"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "phenotype": "Myalgia",
+  "cancer": "T-cell leukemia"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "phenotype": "Arthralgia",
+  "cancer": "hairy cell leukemia"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "phenotype": "Headache",
+  "cancer": "mast cell leukemia"
+}
+

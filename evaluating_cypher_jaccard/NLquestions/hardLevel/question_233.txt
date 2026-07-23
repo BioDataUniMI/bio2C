@@ -1,0 +1,1 @@
+Return a single list containing the first 10% of distinct miRNAs (ordered by miRNA label) that participate in GO terms whose label contains 'ncRNA'. For each miRNA in the list, include its label and sequence.

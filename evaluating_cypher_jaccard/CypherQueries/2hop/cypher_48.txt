@@ -1,0 +1,1 @@
+MATCH (c:Cancer {Label:'Warthin tumor'})-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(cond) WHERE cond.Label CONTAINS 'anemia type 2' RETURN p.Label, cond.Label, HEAD(labels(cond))

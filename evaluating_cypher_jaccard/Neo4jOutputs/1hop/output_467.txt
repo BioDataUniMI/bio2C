@@ -1,0 +1,18 @@
+{
+  "md1.Label": "mental disease course",
+  "md2.Label": "mental disease",
+  "TYPE(r)": "realizes",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+
+{
+  "md1.Label": "mental disease course",
+  "md2.Label": "pathological mental process",
+  "TYPE(r)": "has_occurrent_part",
+  "r.Source": [
+    "Mondo"
+  ]
+}
+

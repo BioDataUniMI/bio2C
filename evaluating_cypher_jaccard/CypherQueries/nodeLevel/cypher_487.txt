@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.ID STARTS WITH 'GO:009857' AND NOT cc.Label CONTAINS 'chromosome' RETURN cc.Label AS CellularComponent, cc.ID

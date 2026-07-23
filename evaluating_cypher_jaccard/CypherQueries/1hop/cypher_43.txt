@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'č' OR  ANY(s IN p.Synonym WHERE s CONTAINS 'č') RETURN DISTINCT p.ID AS Phenotype_ID, p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms

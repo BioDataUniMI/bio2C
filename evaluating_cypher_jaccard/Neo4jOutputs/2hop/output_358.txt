@@ -1,0 +1,5 @@
+{
+  "RegulatedGO": "B cell mediated immunity",
+  "miRNA": "hsa-miR-106a-5p"
+}
+

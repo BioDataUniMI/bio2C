@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE c.Label =~ '.*\\bpolyp\\b.*' AND NOT c.Description CONTAINS 'benign' AND NOT c.Description CONTAINS 'non-neoplastic' RETURN c.Label AS CancerLabel, c.Description AS Description

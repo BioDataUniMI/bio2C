@@ -1,0 +1,35 @@
+{
+  "Disease": "rhabdomyoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ARHGAP42P1"
+}
+
+{
+  "Disease": "benign smooth muscle neoplasm",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ARHGAP42P1"
+}
+
+{
+  "Disease": "rhabdomyoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "EIF4EBP2P2"
+}
+
+{
+  "Disease": "benign smooth muscle neoplasm",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "EIF4EBP2P2"
+}
+
+{
+  "Disease": "rhabdomyoma",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "ARHGAP42P2"
+}
+

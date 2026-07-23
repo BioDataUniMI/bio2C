@@ -1,0 +1,1 @@
+Consider miRNAs expressed in malignant cancers and under-expressed in phenotypes (i.e., the Cancer contains the word 'malignant' in its Label or Description and the Phenotype label contains the word 'Colon'). Count how many times the dinucleotide 'GU' appears in each miRNA sequence and return that count together with the Phenotype and Cancer labels.

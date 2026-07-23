@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR500B",
+  "Pre_miRNA": "microRNA hsa-mir-500b precursor",
+  "miRNA": "hsa-miR-500b-5p",
+  "Disease": "carcinoma of esophagus"
+}
+
+{
+  "Gene": "MIR190B",
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-3p",
+  "Disease": "carcinoma of esophagus"
+}
+
+{
+  "Gene": "MIR190B",
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-5p",
+  "Disease": "carcinoma of esophagus"
+}
+
+{
+  "Gene": "MIR6780B",
+  "Pre_miRNA": "microRNA hsa-mir-6780b precursor",
+  "miRNA": "hsa-miR-6780b-5p",
+  "Disease": "carcinoma of esophagus"
+}
+
+{
+  "Gene": "MIR6780B",
+  "Pre_miRNA": "microRNA hsa-mir-6780b precursor",
+  "miRNA": "hsa-miR-6780b-3p",
+  "Disease": "carcinoma of esophagus"
+}
+

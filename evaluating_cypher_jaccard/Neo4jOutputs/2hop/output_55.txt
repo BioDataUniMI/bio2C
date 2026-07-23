@@ -1,0 +1,30 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "Term": "modification of postsynaptic actin cytoskeleton"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "Term": "protein polymerization"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "Term": "regulation of small GTPase mediated signal transduction"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "Term": "small GTPase-mediated signal transduction"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "miRNA": "hsa-miR-31-5p",
+  "Term": "apoptotic process"
+}
+

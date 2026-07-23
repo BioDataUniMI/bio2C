@@ -1,0 +1,25 @@
+{
+  "GeneLabel": "MIR1469",
+  "SequenceLength": 47
+}
+
+{
+  "GeneLabel": "MIR2054",
+  "SequenceLength": 49
+}
+
+{
+  "GeneLabel": "MIR1973",
+  "SequenceLength": 44
+}
+
+{
+  "GeneLabel": "MIR3713",
+  "SequenceLength": 45
+}
+
+{
+  "GeneLabel": "MIR4430",
+  "SequenceLength": 49
+}
+

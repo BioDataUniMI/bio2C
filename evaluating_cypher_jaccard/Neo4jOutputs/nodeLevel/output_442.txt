@@ -1,0 +1,21 @@
+{
+  "mf.Label": "ion transmembrane transporter activity",
+  "mf.Synonym": [
+    "monoatomic ion transmembrane transporter activity"
+  ]
+}
+
+{
+  "mf.Label": "monoatomic anion transmembrane transporter activity",
+  "mf.Synonym": [
+    "anion transmembrane transporter activity"
+  ]
+}
+
+{
+  "mf.Label": "gene product or complex activity",
+  "mf.Synonym": [
+    "molecular_function"
+  ]
+}
+

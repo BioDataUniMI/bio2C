@@ -1,0 +1,1 @@
+Identify miRNAs that are participants in biological processes whose disruption causes the disease labeled as 'Telangiectasia of the skin' that has the phenotype labeled as 'blood coagulation disease'. Return the label of biological processes and miRNAs, along with the miRNA sequence lengths.

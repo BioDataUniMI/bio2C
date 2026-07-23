@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label =~ '.*polymerase\s+[IVXLCDM]+.*' RETURN cc.Label AS CellularComponent, cc.ID

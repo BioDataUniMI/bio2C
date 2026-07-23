@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-21-3p",
+  "RNAsisterScore": 0.972499427280493
+}
+
+{
+  "miRNA": "microRNA hsa-mir-21 precursor",
+  "RNAsisterScore": 0.9724994272804932
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "RNAsisterScore": 0.972023975622681
+}
+
+{
+  "miRNA": "let-7b stem-loop (hsa-let-7b)",
+  "RNAsisterScore": 0.972016299762704
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1246 precursor",
+  "RNAsisterScore": 0.972023968748984
+}
+

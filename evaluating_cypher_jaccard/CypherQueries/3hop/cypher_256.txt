@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-410-3p'})-[:participates_in]->(bp:Biological_process)<-[:part_of]-(go:GO)-[:occurs_in]->(cc:Cellular_component) RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess, go.Label AS GOterm, cc.Label AS CellularComponent

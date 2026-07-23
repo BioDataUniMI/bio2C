@@ -1,0 +1,25 @@
+{
+  "Process": "mitotic M phase",
+  "ContextProcess": "mitotic cell cycle"
+}
+
+{
+  "Process": "mitotic G2 DNA damage checkpoint signaling",
+  "ContextProcess": "mitotic G2 phase"
+}
+
+{
+  "Process": "mitotic G1 cell size control checkpoint signaling",
+  "ContextProcess": "G1 phase"
+}
+
+{
+  "Process": "mitotic G2 cell size control checkpoint signaling",
+  "ContextProcess": "G2 phase"
+}
+
+{
+  "Process": "mitotic G1 DNA damage checkpoint signaling",
+  "ContextProcess": "mitotic G1 phase"
+}
+

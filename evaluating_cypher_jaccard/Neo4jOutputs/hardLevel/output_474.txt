@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "ossification",
+  "phenotypeCount": 67
+}
+
+{
+  "BiologicalProcess": "inflammatory response",
+  "phenotypeCount": 53
+}
+
+{
+  "BiologicalProcess": "bone resorption",
+  "phenotypeCount": 45
+}
+
+{
+  "BiologicalProcess": "pigmentation",
+  "phenotypeCount": 37
+}
+
+{
+  "BiologicalProcess": "reflex",
+  "phenotypeCount": 14
+}
+

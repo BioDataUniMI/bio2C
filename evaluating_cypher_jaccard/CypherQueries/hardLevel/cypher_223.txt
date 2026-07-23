@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease {Label:'rheumatoid arthritis'}) UNWIND m.Genomic_coordinates AS coord RETURN DISTINCT coord AS Chromosome, m.Label AS miRNA

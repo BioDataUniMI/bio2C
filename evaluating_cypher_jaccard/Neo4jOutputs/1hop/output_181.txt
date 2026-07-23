@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of calvaria"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of cervical vertebral bodies"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of capital femoral epiphysis"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of thoracic vertebral bodies"
+}
+
+{
+  "BiologicalProcess": "ossification",
+  "Phenotype": "Absent ossification of the trapezium"
+}
+

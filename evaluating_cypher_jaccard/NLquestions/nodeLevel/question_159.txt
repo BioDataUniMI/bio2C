@@ -1,0 +1,1 @@
+Identify cellular components whose label includes mitochondria whose descriptions include 'outer membrane'.

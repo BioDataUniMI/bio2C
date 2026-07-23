@@ -1,0 +1,1 @@
+Find phenotypes whose label contains 'Acute' and that are characterized by under-expressed miRNAs whose labels do not end with 'p' or 'precursor'.

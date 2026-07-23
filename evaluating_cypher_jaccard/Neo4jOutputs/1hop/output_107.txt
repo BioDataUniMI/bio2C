@@ -1,0 +1,31 @@
+{
+  "Phenotype": "Endometriosis",
+  "Source": [
+    "miR2Disease"
+  ],
+  "Method": [
+    "microarray analysis"
+  ]
+}
+
+{
+  "Phenotype": "Chronic pancreatitis",
+  "Source": [
+    "miR2Disease"
+  ],
+  "Method": [
+    "microarray analysis"
+  ]
+}
+
+{
+  "Phenotype": "Neoplasm of the pancreas",
+  "Source": [
+    "miR2Disease",
+    "dbDEMC"
+  ],
+  "Method": [
+    "microarray analysis"
+  ]
+}
+

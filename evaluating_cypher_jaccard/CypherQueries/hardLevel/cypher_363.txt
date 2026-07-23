@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:function_of]->(m:miRNA)-[:acts_upstream_of_or_within]->(bp:Biological_process) WITH go, m, COUNT(DISTINCT bp) AS processCount WHERE processCount >= 4 WITH go, MAX(processCount) AS maxProcessCount RETURN go.Label AS GO, maxProcessCount AS processes

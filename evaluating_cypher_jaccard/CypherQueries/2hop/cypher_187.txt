@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:has_material_basis_in_somatic_mutation_in]->(m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE c.Label CONTAINS 'esophageal' RETURN m.Label AS miRNA, cc.Label AS CellularComponent

@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "regulation of animal organ morphogenesis",
+  "miRNA": "hsa-miR-324-3p",
+  "RegulatedGene": "POM121B"
+}
+
+{
+  "BiologicalProcess": "regulation of establishment of planar polarity",
+  "miRNA": "hsa-miR-324-3p",
+  "RegulatedGene": "POM121B"
+}
+
+{
+  "BiologicalProcess": "regulation of cellular response to stress",
+  "miRNA": "hsa-miR-324-3p",
+  "RegulatedGene": "POM121B"
+}
+
+{
+  "BiologicalProcess": "epithelial tube formation",
+  "miRNA": "hsa-miR-324-3p",
+  "RegulatedGene": "POM121B"
+}
+
+{
+  "BiologicalProcess": "mesonephric tubule development",
+  "miRNA": "hsa-miR-324-3p",
+  "RegulatedGene": "POM121B"
+}
+

@@ -1,0 +1,8 @@
+{
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "G_Count": 46,
+  "BiologicalProcesses": [
+    "inflammatory response"
+  ]
+}
+

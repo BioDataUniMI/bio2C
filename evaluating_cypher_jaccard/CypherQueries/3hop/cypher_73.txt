@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process {Label:'olfactory bulb axon guidance'})-[:subclassof]->(go:GO)-[:has_primary_input]->(cc1:Cellular_component)<-[:subclassof]-(cc2:Cellular_component) RETURN cc2.Label AS CellularComponent, cc1.Label AS ParentCellularComponent, go.Label AS GO_Term

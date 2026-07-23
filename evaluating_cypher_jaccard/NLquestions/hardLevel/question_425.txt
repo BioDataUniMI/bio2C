@@ -1,0 +1,1 @@
+For miRNAs that are under-expressed in autoimmune diseases whose label contains 'rheumatoid', which miRNAs have higher relative sequence length, where relative length is defined as the miRNA sequence length divided by 22 nucleotides? Return each miRNA label and its relative sequence length,, sorted by relative sequence length in descending order.

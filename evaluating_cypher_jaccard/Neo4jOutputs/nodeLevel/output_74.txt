@@ -1,0 +1,16 @@
+{
+  "Phenotype": "Retrocerebellar cyst",
+  "Synonyms": [
+    "Retrozerebellare Zyste",
+    "Kyste rétro-cérébelleux",
+    "Cisto retrocerebelar",
+    "Cisti retrocerebellare",
+    "後部小脳嚢胞",
+    "Quiste retrocerebelar",
+    "Retrocerebelární cysta",
+    "Retrocerebellar囊肿",
+    "Retrocerebellaire cyste",
+    "Retroserebellar kist"
+  ]
+}
+

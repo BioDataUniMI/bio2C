@@ -1,0 +1,1 @@
+Identify phenotypes with labels ending in 'deficiency' that have at least one synonym. Return phenotypes' label and their synonym count.

@@ -1,0 +1,1 @@
+Find cardiovascular diseases that are associated with miRNAs whose genomic coordinates are exclusively on chrX or chrY (i.e., no coordinates on other chromosomes). For each disease, return the disease label and the associated miRNAs' label with their genomic coordinates (use the COLLECT clause to return a list of genomic coordinates).

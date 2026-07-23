@@ -1,0 +1,10 @@
+{
+  "relation": "has_part",
+  "goTermCount": 4984
+}
+
+{
+  "relation": "part_of",
+  "goTermCount": 2176
+}
+

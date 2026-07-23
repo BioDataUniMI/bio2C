@@ -1,0 +1,28 @@
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "apoptotic process",
+  "ActiveMiRNA": "hsa-miR-518b",
+  "LocatedMiRNA": "Hsa-Mir-105-P2_pre stem-loop"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "apoptotic process",
+  "ActiveMiRNA": "hsa-miR-518b",
+  "LocatedMiRNA": "Hsa-Mir-105-P1_pre stem-loop"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "apoptotic process",
+  "ActiveMiRNA": "hsa-miR-518b",
+  "LocatedMiRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-1)"
+}
+
+{
+  "ActiveGOterm": "cellular_component",
+  "UnderexpressedGOterm": "apoptotic process",
+  "ActiveMiRNA": "hsa-miR-518b",
+  "LocatedMiRNA": "microRNA hsa-mir-105 precursor (hsa-mir-105-2)"
+}
+                                                                                                                                                                            ^}

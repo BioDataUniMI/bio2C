@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-138-5p",
+  "Sequence": "AGCUGGUGUUGUGAAUCAGGCCG",
+  "Length": 23,
+  "MolecularFunction": "histone H3K27 monomethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-200c-3p",
+  "Sequence": "UAAUACUGCCGGGUAAUGAUGGA",
+  "Length": 23,
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity"
+}
+

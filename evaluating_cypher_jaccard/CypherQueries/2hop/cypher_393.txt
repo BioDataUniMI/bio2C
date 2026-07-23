@@ -1,0 +1,1 @@
+MATCH (m:miRNA{Label:'hsa-miR-1229-5p'})-[:over_expressed_in]->(c:Cancer)-[:disease_has_feature]->(p:Phenotype)-[:phenotype_of]->(cd:Cardiovascular_disease) RETURN DISTINCT m.Label AS miRNA, c.Label AS Cancer, p.Label AS Phenotype, cd.Label AS Disease

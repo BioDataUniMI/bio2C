@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Number_of_Autoimmune_Diseases": 2
+}
+
+{
+  "miRNA": "hsa-miR-20b-3p",
+  "Number_of_Autoimmune_Diseases": 1
+}
+
+{
+  "miRNA": "hsa-miR-20b-5p",
+  "Number_of_Autoimmune_Diseases": 1
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Number_of_Autoimmune_Diseases": 1
+}
+
+{
+  "miRNA": "microRNA hsa-mir-107 precursor",
+  "Number_of_Autoimmune_Diseases": 1
+}
+

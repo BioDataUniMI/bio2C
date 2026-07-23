@@ -1,0 +1,20 @@
+{
+  "miRNA": "microRNA hsa-mir-20b precursor"
+}
+
+{
+  "miRNA": "hsa-miR-20b-3p"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-223 precursor"
+}
+
+{
+  "miRNA": "hsa-miR-20b-5p"
+}
+
+{
+  "miRNA": "hsa-miR-326"
+}
+

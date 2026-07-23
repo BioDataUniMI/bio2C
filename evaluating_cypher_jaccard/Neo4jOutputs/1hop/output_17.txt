@@ -1,0 +1,5 @@
+{
+  "min_miRNA_length": 16,
+  "min_parent_length": 47
+}
+

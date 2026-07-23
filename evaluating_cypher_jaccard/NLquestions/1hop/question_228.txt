@@ -1,0 +1,1 @@
+Find  GO terms that are part of cellular components containing 'plasma membrane' in their label.

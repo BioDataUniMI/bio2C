@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'genome replication' AND NOT (g.Label CONTAINS 'regulation' OR g.Label CONTAINS 'modulation') RETURN g.Label

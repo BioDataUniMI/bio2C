@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(mf:Molecular_function) UNWIND m.Genomic_coordinates AS coord WITH m, mf, coord WHERE coord STARTS WITH 'chr' AND NOT mf.Label CONTAINS 'protein' WITH SPLIT(coord, ':')[0] AS chromosome, m RETURN chromosome AS Chromosome, COUNT(DISTINCT m) AS miRNA_Count ORDER BY miRNA_Count DESC, Chromosome ASC LIMIT 3

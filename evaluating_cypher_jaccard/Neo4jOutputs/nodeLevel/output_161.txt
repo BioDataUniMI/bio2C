@@ -1,0 +1,25 @@
+{
+  "Disease": "20q13.33 microdeletion syndrome",
+  "d.Description": "20q13.33 is a rare chromosomal anomaly syndrome resulting from the partial deletion of the long a..."
+}
+
+{
+  "Disease": "intellectual developmental disorder with cardiac defects and dysmorphic facies",
+  "d.Description": "a rare, genetic, neurodevelopmental disorder characterized by global developmental delay, congeni..."
+}
+
+{
+  "Disease": "NRXN1-related severe neurodevelopmental disorder-motor stereotypies-chronic constipation-sleep-wa...",
+  "d.Description": "a rare, genetic, neurodevelopmental disorder characterized by global developmental delay, severe ..."
+}
+
+{
+  "Disease": "chromosome 15q11.2 deletion syndrome",
+  "d.Description": "15q11.2 microdeletion syndrome is a rare partial autosomal monosomy with a variable phenotypic ex..."
+}
+
+{
+  "Disease": "encephalopathy due to mitochondrial and peroxisomal fission defect",
+  "d.Description": "a rare mitochondrial disease characterized by a variable phenotype comprising delayed psychomotor..."
+}
+

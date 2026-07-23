@@ -1,0 +1,30 @@
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUdoma"
+}
+
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUDom"
+}
+
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUD瘤"
+}
+
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUdoom"
+}
+
+{
+  "Gene": "BAP1",
+  "Phenotype": "APUdoma",
+  "One_Word_Synonym": "APUdome"
+}
+

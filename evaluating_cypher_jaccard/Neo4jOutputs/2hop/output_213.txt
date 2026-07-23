@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-200a-3p",
+  "Cancer": "cervical squamous cell carcinoma",
+  "ParentDisease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-200a-3p",
+  "Cancer": "cervical adenocarcinoma",
+  "ParentDisease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-514a-3p",
+  "Cancer": "cervical carcinoma",
+  "ParentDisease": "cervical cancer"
+}
+
+{
+  "miRNA": "hsa-miR-301a-3p",
+  "Cancer": "cervical squamous cell carcinoma",
+  "ParentDisease": "cervical carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-125a-3p",
+  "Cancer": "cervical carcinoma",
+  "ParentDisease": "cervical cancer"
+}
+

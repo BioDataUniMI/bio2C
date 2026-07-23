@@ -1,0 +1,1 @@
+Retrieve a collected list of distinct Gene Ontology terms that regulate the molecular function labeled 'catalytic activity', ordered by the source of regulation and then by GO term label.

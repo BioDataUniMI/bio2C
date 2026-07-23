@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[r:disease_caused_by_disruption_of]->(g:GO)-[:has_participant]->(pre:pre_miRNA {Label:'microRNA hsa-mir-324 precursor'})-[:develops_into]->(m:miRNA) RETURN d.Label AS Disease, g.Label AS GOterm, pre.Label AS Pre_miRNA, m.Label AS miRNA, r.Source AS DisruptionSource

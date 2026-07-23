@@ -1,0 +1,1 @@
+Find all autoimmune diseases that are also classified as neurodegenerative diseases and have miRNAs causing or contributing to them.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-500b-5p'})-[r:under_expressed_in]->(b:GO) RETURN r.Source AS Source, b.Label AS GO_term

@@ -1,0 +1,25 @@
+{
+  "GO": "glial cell development",
+  "Participant": "hsa-miR-340-5p"
+}
+
+{
+  "GO": "glial cell development",
+  "Participant": "hsa-miR-20a-3p"
+}
+
+{
+  "GO": "glial cell development",
+  "Participant": "hsa-miR-377-3p"
+}
+
+{
+  "GO": "glial cell development",
+  "Participant": "hsa-miR-4689"
+}
+
+{
+  "GO": "glial cell development",
+  "Participant": "hsa-miR-574-3p"
+}
+

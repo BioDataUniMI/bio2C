@@ -1,0 +1,1 @@
+Identify the diseases whose label contains the word 'diabetes' that are caused or contributed to by genes with activity regulated by miRNAs expressed in the cancer 'adenoma'. Return the labels of the cancer, the miRNA, the gene, and the disease.

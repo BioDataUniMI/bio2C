@@ -1,0 +1,20 @@
+{
+  "g.Label": "TPP1"
+}
+
+{
+  "g.Label": "TPH2"
+}
+
+{
+  "g.Label": "TP53"
+}
+
+{
+  "g.Label": "TP73"
+}
+
+{
+  "g.Label": "TPBG"
+}
+

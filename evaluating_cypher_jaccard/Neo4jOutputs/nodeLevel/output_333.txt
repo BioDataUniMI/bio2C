@@ -1,0 +1,9 @@
+{
+  "c": {
+    "Description": "an extremely rare adenosarcoma that arises from the uterine ligament.",
+    "Label": "uterine ligament adenosarcoma",
+    "ID": "MONDO:0200000",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0200000"
+  }
+}
+

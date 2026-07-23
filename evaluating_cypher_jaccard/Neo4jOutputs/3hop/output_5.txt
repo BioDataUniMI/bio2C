@@ -1,0 +1,36 @@
+{
+  "cancerType": "follicular thyroid adenoma",
+  "parentDisease": "adenoma",
+  "expressed_miRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7a-5p"
+  ]
+}
+
+{
+  "cancerType": "Ewing sarcoma",
+  "parentDisease": "sarcoma",
+  "expressed_miRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7a-5p"
+  ]
+}
+
+{
+  "cancerType": "osteosarcoma",
+  "parentDisease": "sarcoma",
+  "expressed_miRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7a-5p"
+  ]
+}
+
+{
+  "cancerType": "chondrosarcoma",
+  "parentDisease": "sarcoma",
+  "expressed_miRNAs": [
+    "hsa-let-7a-3p",
+    "hsa-let-7a-5p"
+  ]
+}
+

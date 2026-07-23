@@ -1,0 +1,15 @@
+{
+  "CellularComponent": "cytoskeleton of presynaptic active zone",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0048788"
+}
+
+{
+  "CellularComponent": "presynaptic active zone cytoplasmic component",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0098831"
+}
+
+{
+  "CellularComponent": "presynaptic active zone",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0048786"
+}
+

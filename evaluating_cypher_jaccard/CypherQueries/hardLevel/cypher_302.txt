@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH p, m, COUNT(DISTINCT g) AS geneCount WHERE geneCount > 200 RETURN p.Label AS Pre_miRNA, m.Label AS miRNA, geneCount

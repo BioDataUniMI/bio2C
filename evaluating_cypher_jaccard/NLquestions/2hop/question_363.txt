@@ -1,0 +1,1 @@
+Return GO terms that are part of the biological process labeled as 'micturition', together with phenotypes that characterize this biological process.

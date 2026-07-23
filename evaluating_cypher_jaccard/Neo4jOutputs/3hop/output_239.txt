@@ -1,0 +1,25 @@
+{
+  "Disease": "cardiac rhythm disease",
+  "PhenotypeCount": 19
+}
+
+{
+  "Disease": "ischemic disease",
+  "PhenotypeCount": 19
+}
+
+{
+  "Disease": "vestibular disorder",
+  "PhenotypeCount": 28
+}
+
+{
+  "Disease": "congestive heart failure",
+  "PhenotypeCount": 30
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "PhenotypeCount": 49
+}
+

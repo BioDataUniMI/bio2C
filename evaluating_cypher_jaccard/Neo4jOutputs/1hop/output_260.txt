@@ -1,0 +1,12 @@
+{
+  "TargetGene": "CCND2"
+}
+
+{
+  "TargetGene": "SNHG12"
+}
+
+{
+  "TargetGene": "NAMPT"
+}
+

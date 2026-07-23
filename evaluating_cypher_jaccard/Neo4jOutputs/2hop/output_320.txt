@@ -1,0 +1,12 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-302c precursor",
+  "miRNA": "microRNA hsa-mir-302d precursor",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-302c precursor",
+  "miRNA": "microRNA hsa-mir-302a precursor",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+

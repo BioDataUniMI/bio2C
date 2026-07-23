@@ -1,0 +1,5 @@
+{
+  "bp.Label": "phospholipase C-activating opsin-mediated signaling pathway",
+  "bp.Description": "a phospholipase c-activating receptor g protein-coupled receptor signaling pathway that starts wi..."
+}
+

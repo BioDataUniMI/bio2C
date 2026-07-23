@@ -1,0 +1,1 @@
+Which miRNAs located on chromosome 9 or 19 are under-expressed in biological processes? Return miRNAs' distinct label, and the associated processes' ID and label.

@@ -1,0 +1,11 @@
+{
+  "m1.Label": "hsa-miR-320d",
+  "m2.Label": "microRNA hsa-mir-6501 precursor",
+  "PROPERTIES(r)": {
+    "Source": [
+      "TargetScan"
+    ],
+    "Weighted_CS_score": -0.02
+  }
+}
+

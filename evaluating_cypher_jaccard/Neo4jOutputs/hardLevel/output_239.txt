@@ -1,0 +1,15 @@
+{
+  "Chromosome": "chrX",
+  "miRNA_Count": 30
+}
+
+{
+  "Chromosome": "chr1",
+  "miRNA_Count": 29
+}
+
+{
+  "Chromosome": "chr14",
+  "miRNA_Count": 26
+}
+

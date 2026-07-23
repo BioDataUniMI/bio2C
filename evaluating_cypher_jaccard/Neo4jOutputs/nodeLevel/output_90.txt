@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Factor XIII subunit B deficiency",
+  "SynonymCount": 7
+}
+
+{
+  "Phenotype": "Cellular immunodeficiency",
+  "SynonymCount": 9
+}
+
+{
+  "Phenotype": "Severe combined immunodeficiency",
+  "SynonymCount": 9
+}
+
+{
+  "Phenotype": "Sulfite oxidase deficiency",
+  "SynonymCount": 7
+}
+
+{
+  "Phenotype": "Aldehyde oxidase deficiency",
+  "SynonymCount": 7
+}
+

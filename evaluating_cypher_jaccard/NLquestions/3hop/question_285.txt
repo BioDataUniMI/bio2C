@@ -1,0 +1,1 @@
+Discover pre-miRNAs transcribed from genes that develop into mature miRNAs that regulate target genes with 11-character-long labels. Return the source gene label, pre-miRNA label, miRNA label, and target gene label.

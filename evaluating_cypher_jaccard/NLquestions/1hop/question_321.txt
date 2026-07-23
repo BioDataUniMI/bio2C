@@ -1,0 +1,1 @@
+Find miRNAs that have the following characteristics: 1) they do not have any 'has_participant' relationship with any other miRNA; 2) they have a sequence that ends with 'UA'; 3) their location (property named 'Genomic_coordinates') contains elements starting with 'chrX'.

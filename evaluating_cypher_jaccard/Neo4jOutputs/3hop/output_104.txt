@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-143 precursor",
+  "miRNA": "hsa-miR-143-3p",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-203a precursor",
+  "miRNA": "hsa-miR-203a-3p",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-100 precursor",
+  "miRNA": "hsa-miR-100-5p",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-19a precursor",
+  "miRNA": "hsa-miR-19a-3p",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-130a precursor",
+  "miRNA": "hsa-miR-130a-3p",
+  "Gene": "TNF",
+  "AutoimmuneDisease": "adult dermatomyositis"
+}
+

@@ -1,0 +1,1 @@
+List genes starting with the character 'H' that are targeted by miRNAs located in cellular components containing the string 'intracellular vesicle' in their label and that have GO terms as a part. Return the GO term label, cellular component label, miRNA label, and target gene label.

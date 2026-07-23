@@ -1,0 +1,1 @@
+Which miRNAs starting with 'hsa-miR-2' have a sequence of at least 23 nucleotides and are not located in the 'nucleus' (a cellular component)? Return the distinct miRNA labels and their sequence length.

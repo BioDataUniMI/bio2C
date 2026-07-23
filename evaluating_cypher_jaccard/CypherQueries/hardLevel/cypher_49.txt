@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:genetically_interacts_with]->(g2:Gene) WITH DISTINCT g2 WHERE ANY(s IN COALESCE(g2.Synonym, []) WHERE toLower(s) CONTAINS 'histone') AND ANY(c IN (g2.Genomic_coordinates) WHERE toLower(c) STARTS WITH 'chrx') RETURN g2.Label AS Gene, g2.Synonym AS Synonyms, g2.Genomic_coordinates AS Genomic_Coordinates ORDER BY g2.Label

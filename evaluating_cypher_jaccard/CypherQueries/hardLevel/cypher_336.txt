@@ -1,0 +1,1 @@
+MATCH (c:Cancer) WHERE (c)-[:disease_has_feature]->(:Phenotype) MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(c) WHERE (g)-[:genetically_interacts_with]-(:Gene) RETURN c.Label AS Cancer, COUNT(DISTINCT g) AS GeneCount

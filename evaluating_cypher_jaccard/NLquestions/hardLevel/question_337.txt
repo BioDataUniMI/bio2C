@@ -1,0 +1,1 @@
+For each disease that is caused by disruption of GO terms that have molecular functions as parts, where those molecular functions are part of biological processes, how many distinct molecular functions are involved? Return the disease label and the molecular function count.

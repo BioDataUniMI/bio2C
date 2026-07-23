@@ -1,0 +1,1 @@
+List the description, synonyms, and URI of the phenotype labeled as 'Cotard delusion'.

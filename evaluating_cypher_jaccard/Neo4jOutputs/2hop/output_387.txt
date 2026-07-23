@@ -1,0 +1,10 @@
+{
+  "Precursor": "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)",
+  "RegulatedPrecursor": "microRNA hsa-mir-6501 precursor"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+  "RegulatedPrecursor": "microRNA hsa-mir-6501 precursor"
+}
+

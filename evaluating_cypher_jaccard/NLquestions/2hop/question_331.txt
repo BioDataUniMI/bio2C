@@ -1,0 +1,1 @@
+Identify the biological processes in which cellular components, for which the miRNA 'microRNA hsa-mir-7704 precursor' is part of, participate. Return the cellular component, and biological process labels.

@@ -1,0 +1,1 @@
+For miRNAs linked to biological processes, how many distinct miRNAs are covered by the 'has_participant' relationship and how many by 'participates_in'? Return the relationship type and the miRNA count for each.

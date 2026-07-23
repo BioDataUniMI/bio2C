@@ -1,0 +1,1 @@
+Find diseases whose labels contain the word 'childhood' and such that over-expressed miRNAs have genomic coordinates starting with 'chr21'.

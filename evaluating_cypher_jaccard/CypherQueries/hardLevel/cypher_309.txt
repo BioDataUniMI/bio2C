@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(bp:Biological_process) WITH DISTINCT bp, pre.Label AS preLabel ORDER BY bp.Label ASC, preLabel ASC WITH bp, COLLECT(preLabel) AS preList, COUNT(preLabel) AS PreMiRNACount RETURN bp.Label AS BiologicalProcess, preList[0..10] AS ExamplePreMiRNAs, PreMiRNACount

@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "InteractingGene": "CDY1",
+  "Disease": "spermatogenic failure, Y-linked, 2"
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "InteractingGene": "CGB5",
+  "Disease": "polycystic ovary syndrome"
+}
+

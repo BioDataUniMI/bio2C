@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO)-[:part_of]->(bp:Biological_process) WHERE g.Label CONTAINS 'B cell' RETURN m.Label AS miRNA, g.Label AS GO_term, bp.Label AS Biological_process

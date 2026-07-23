@@ -1,0 +1,1 @@
+MATCH (c:Cancer)<-[:causes_or_contributes_to_condition]-(g2:Gene)-[:genetically_interacts_with]->(g1:Gene) WHERE c.Label CONTAINS 'skin' OR c.Description CONTAINS 'skin' RETURN c.Label AS Cancer, g1.Label AS Gene1, g2.Label AS Gene2

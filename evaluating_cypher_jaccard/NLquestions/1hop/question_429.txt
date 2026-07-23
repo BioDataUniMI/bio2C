@@ -1,0 +1,1 @@
+Retrieve miRNAs causing or contributing to diseases supported by the PubMed article with ID '22677230'.

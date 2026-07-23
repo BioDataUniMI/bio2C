@@ -1,0 +1,1 @@
+For each miRNAs, identify the pre-miRNAs that developed from them and return the minimum length of their sequences.

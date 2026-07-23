@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene {Label: 'XDH'})-[:causes_or_contributes_to_condition]->(card:Cardiovascular_disease)-[:disease_has_feature]->(ph:Phenotype) RETURN m.Label AS miRNA, g.Label AS Gene, card.Label AS CardiovascularDisease, ph.Label AS Phenotype

@@ -1,0 +1,1 @@
+List molecular functions whose: 1) labels contain the string 'G-protein'; 2) descriptions contain 'potassium'; and 3) descriptions do not contain 'binding'. Return only their labels.

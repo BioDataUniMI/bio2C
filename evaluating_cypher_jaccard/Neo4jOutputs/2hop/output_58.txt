@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Gene": "DDX17",
+  "g2.Label": "H4C16",
+  "GeneMANIA_weight": 1.3e-08
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Gene": "ABCF2",
+  "g2.Label": "H4C16",
+  "GeneMANIA_weight": 2.4e-08
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "Gene": "ITIH5",
+  "g2.Label": "CDY1",
+  "GeneMANIA_weight": 1.3e-07
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "Gene": "ITIH5",
+  "g2.Label": "GTF2H2C",
+  "GeneMANIA_weight": 5.4e-05
+}
+
+{
+  "miRNA": "hsa-miR-29a-3p",
+  "Gene": "ITIH5",
+  "g2.Label": "CGB5",
+  "GeneMANIA_weight": 6e-05
+}
+

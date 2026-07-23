@@ -1,0 +1,1 @@
+Return diseases that do not have any phenotype and whose description mentions the string 'skeletal disorders'.

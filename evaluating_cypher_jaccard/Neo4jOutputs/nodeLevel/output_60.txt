@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR8062",
+  "g.Genomic_coordinates": [
+    "chr20:7371608-7371692+"
+  ]
+}
+
+{
+  "Gene": "MIR8080",
+  "g.Genomic_coordinates": [
+    "chr2:79866495-79866583-"
+  ]
+}
+
+{
+  "Gene": "MIR8069",
+  "g.Genomic_coordinates": [
+    "chr21:13724189-13724274+"
+  ]
+}
+
+{
+  "Gene": "MIR8485",
+  "g.Genomic_coordinates": [
+    "chr2:50696172-50696262-"
+  ]
+}
+
+{
+  "Gene": "MIR802",
+  "g.Genomic_coordinates": [
+    "chr21:35720715-35720808+"
+  ]
+}
+

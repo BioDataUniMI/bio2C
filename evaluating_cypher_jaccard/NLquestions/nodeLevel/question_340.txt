@@ -1,0 +1,1 @@
+Retrieve the cancers whose descriptions contain 'some authors', return their label and identifier (ID).

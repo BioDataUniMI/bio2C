@@ -1,0 +1,6 @@
+{
+  "miRNA": "hsa-miR-3163",
+  "BiologicalProcess": "regulation of DNA recombination",
+  "GOTerm": "DNA recombination"
+}
+

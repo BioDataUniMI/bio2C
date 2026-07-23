@@ -1,0 +1,25 @@
+{
+  "miRNA1": "let-7c stem-loop (hsa-let-7c)",
+  "miRNA2": "let-7a-1 stem-loop (hsa-let-7a-1)"
+}
+
+{
+  "miRNA1": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "miRNA2": "let-7a-1 stem-loop (hsa-let-7a-1)"
+}
+
+{
+  "miRNA1": "let-7f-1 stem-loop (hsa-let-7f-1)",
+  "miRNA2": "let-7a-1 stem-loop (hsa-let-7a-1)"
+}
+
+{
+  "miRNA1": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "miRNA2": "let-7g stem-loop (hsa-let-7g)"
+}
+
+{
+  "miRNA1": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "miRNA2": "let-7a-2 stem-loop (hsa-let-7a-2)"
+}
+

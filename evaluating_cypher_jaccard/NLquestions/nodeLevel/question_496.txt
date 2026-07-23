@@ -1,0 +1,1 @@
+Identify genes that have a synonym containing 'DEAD' but do not have the word 'pseudogene' within the same synonym.

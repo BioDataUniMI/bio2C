@@ -1,0 +1,36 @@
+{
+  "p.Label": "microRNA hsa-mir-3156 precursor (hsa-mir-3156-3)",
+  "p.Genomic_coordinates": [
+    "chr21:13406384-13406460-"
+  ]
+}
+
+{
+  "p.Label": "microRNA hsa-mir-6814 precursor",
+  "p.Genomic_coordinates": [
+    "chr21:41746772-41746841-"
+  ]
+}
+
+{
+  "p.Label": "microRNA hsa-mir-5692b precursor",
+  "p.Genomic_coordinates": [
+    "chr21:42950928-42951014-"
+  ]
+}
+
+{
+  "p.Label": "microRNA hsa-mir-4760 precursor",
+  "p.Genomic_coordinates": [
+    "chr21:40212352-40212431-",
+    "chrHG2265_PATCH:352006-352085-"
+  ]
+}
+
+{
+  "p.Label": "microRNA hsa-mir-3118 precursor (hsa-mir-3118-1)",
+  "p.Genomic_coordinates": [
+    "chr21:13644775-13644850-"
+  ]
+}
+

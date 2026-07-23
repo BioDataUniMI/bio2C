@@ -1,0 +1,25 @@
+{
+  "common_chr": "chr2",
+  "pair_count": 120
+}
+
+{
+  "common_chr": "chr5",
+  "pair_count": 115
+}
+
+{
+  "common_chr": "chr13",
+  "pair_count": 34
+}
+
+{
+  "common_chr": "chr1",
+  "pair_count": 320
+}
+
+{
+  "common_chr": "chr19",
+  "pair_count": 112
+}
+

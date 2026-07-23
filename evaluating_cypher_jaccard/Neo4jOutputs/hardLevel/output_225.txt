@@ -1,0 +1,71 @@
+{
+  "Disease": "tuberculosis",
+  "miRNAs": [
+    "microRNA hsa-mir-1281 precursor"
+  ],
+  "Number_of_miRNAs": 1
+}
+
+{
+  "Disease": "silicotuberculosis",
+  "miRNAs": [
+    "microRNA hsa-mir-29c precursor"
+  ],
+  "Number_of_miRNAs": 1
+}
+
+{
+  "Disease": "hand, foot and mouth disease",
+  "miRNAs": [
+    "hsa-miR-24-3p",
+    "hsa-miR-93-5p",
+    "hsa-miR-93-3p"
+  ],
+  "Number_of_miRNAs": 3
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNAs": [
+    "hsa-miR-4304",
+    "hsa-miR-4285",
+    "hsa-miR-4251",
+    "hsa-miR-4300",
+    "hsa-miR-5680",
+    "hsa-miR-4283",
+    "hsa-miR-3660",
+    "hsa-miR-425-3p",
+    "hsa-miR-133a-3p",
+    "hsa-miR-625-3p",
+    "hsa-miR-767-5p",
+    "hsa-miR-509-3-5p",
+    "hsa-miR-205-3p",
+    "hsa-miR-133b",
+    "hsa-miR-652-5p",
+    "hsa-miR-125b-1-3p",
+    "hsa-miR-488-5p",
+    "hsa-miR-4271",
+    "hsa-miR-765",
+    "hsa-miR-218-2-3p",
+    "hsa-miR-3200-5p",
+    "hsa-miR-3185",
+    "hsa-miR-382-3p",
+    "hsa-miR-2116-5p",
+    "hsa-miR-193b-3p",
+    "hsa-miR-527",
+    "hsa-let-7e-5p",
+    "hsa-miR-516b-5p",
+    "hsa-miR-489-3p"
+  ],
+  "Number_of_miRNAs": 29
+}
+
+{
+  "Disease": "viral infectious disease",
+  "miRNAs": [
+    "hsa-miR-32-5p",
+    "hsa-miR-32-3p"
+  ],
+  "Number_of_miRNAs": 2
+}
+

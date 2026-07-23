@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-3660",
+  "miRNA_sequence": "ACUGACAGGAGAGCAUUUUGA",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-205-3p",
+  "miRNA_sequence": "GAUUUCAGUGGAGUGAAGUUC",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-488-5p",
+  "miRNA_sequence": "CCCAGAUAAUGGCACUCUCAA",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-765",
+  "miRNA_sequence": "UGGAGGAGAAGGAAGGUGAUG",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-382-3p",
+  "miRNA_sequence": "AAUCAUUCACGGACAACACUU",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+

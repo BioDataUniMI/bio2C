@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE (g.Label CONTAINS 'alcohol' AND NOT g.Label CONTAINS 'regulation' AND NOT g:Cellular_component) AND g.Description CONTAINS 'catalysis' AND g.Description CONTAINS '+' RETURN g.Label

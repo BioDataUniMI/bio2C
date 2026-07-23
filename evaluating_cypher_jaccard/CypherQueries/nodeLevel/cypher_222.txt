@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Description CONTAINS 'autoimmune' AND d.Description CONTAINS 'inflammation' AND NOT d.Label CONTAINS 'cancer' RETURN d.Label AS Disease, d.Description AS Description

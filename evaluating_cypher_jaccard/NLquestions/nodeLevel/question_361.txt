@@ -1,0 +1,1 @@
+Count how many autoimmune diseases have labels containing 'celiac disease, susceptibility to'.

@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Feeding difficulties",
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+
+{
+  "Phenotype": "Decreased urinary potassium",
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+
+{
+  "Phenotype": "Hypovolemia",
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+
+{
+  "Phenotype": "Decreased circulating aldosterone concentration",
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+
+{
+  "Phenotype": "Hyponatremia",
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+

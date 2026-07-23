@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'sclerosis' AND NOT n:Autoimmune_disease AND NOT n:Cancer RETURN n.Label AS DiseaseLabel, LABELS(n)

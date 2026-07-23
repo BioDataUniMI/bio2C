@@ -1,0 +1,41 @@
+{
+  "miRNA": "hsa-miR-19b-3p",
+  "Length": 23,
+  "GenomicCoordinates": [
+    "chrX:134169683-134169705-",
+    "chr13:91351245-91351267+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-221-3p",
+  "Length": 23,
+  "GenomicCoordinates": [
+    "chrX:45746180-45746202-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-513c-3p",
+  "Length": 23,
+  "GenomicCoordinates": [
+    "chrX:147189717-147189739-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-224-3p",
+  "Length": 23,
+  "GenomicCoordinates": [
+    "chrX:151958584-151958606-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-508-3p",
+  "Length": 23,
+  "GenomicCoordinates": [
+    "chrX:147236945-147236967-"
+  ]
+}
+

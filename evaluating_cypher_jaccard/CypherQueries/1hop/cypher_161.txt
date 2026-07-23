@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:enables]->(g:GO) WHERE 'IDA' IN r.GO_evidence AND 'GOC' IN r.Source RETURN DISTINCT g.Label AS GOTerm, g.ID AS ID, g.URI AS URI

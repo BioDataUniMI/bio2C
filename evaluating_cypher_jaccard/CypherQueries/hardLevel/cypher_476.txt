@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(:Disease) RETURN 'over_expressed' AS expressionType, COUNT(DISTINCT m) AS miRNACount UNION MATCH (m:miRNA)-[:under_expressed_in]->(:Disease) RETURN 'under_expressed' AS expressionType, COUNT(DISTINCT m) AS miRNACount

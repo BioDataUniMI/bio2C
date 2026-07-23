@@ -1,0 +1,40 @@
+{
+  "PhenotypeLabel": "Cerebriform connective tissue nevus",
+  "PhenotypeSynonym": [
+    "Nevo de tejido conjuntivo cerebriforme"
+  ],
+  "p.ID": "HP:6000009"
+}
+
+{
+  "PhenotypeLabel": "Holster sign",
+  "PhenotypeSynonym": [
+    "Signo de Holster"
+  ],
+  "p.ID": "HP:6000006"
+}
+
+{
+  "PhenotypeLabel": "Hemidiaphragm elevation",
+  "PhenotypeSynonym": [
+    "Elevación del hemidiafragma"
+  ],
+  "p.ID": "HP:6000008"
+}
+
+{
+  "PhenotypeLabel": "Lymphangiosarcoma",
+  "PhenotypeSynonym": [
+    "Linfangiosarcoma"
+  ],
+  "p.ID": "HP:6000004"
+}
+
+{
+  "PhenotypeLabel": "Olecranon fracture",
+  "PhenotypeSynonym": [
+    "Fractura de olécranon"
+  ],
+  "p.ID": "HP:6000002"
+}
+

@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Inferior oblique muscle weakness",
+  "p.Description": "decreased strength of the inferior oblique muscle."
+}
+
+{
+  "Phenotype": "Superior rectus muscle weakness",
+  "p.Description": "decreased strength of the superior rectus muscle."
+}
+
+{
+  "Phenotype": "Medial rectus muscle weakness",
+  "p.Description": "decreased strength of the medial rectus muscle."
+}
+
+{
+  "Phenotype": "Abdominal wall muscle weakness",
+  "p.Description": "decreased strength of the abdominal musculature."
+}
+
+{
+  "Phenotype": "Neck muscle weakness",
+  "p.Description": "decreased strength of the neck musculature."
+}
+

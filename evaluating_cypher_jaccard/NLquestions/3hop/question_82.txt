@@ -1,0 +1,1 @@
+Find miRNAs that are parts of the cellular component labeled as 'extracellular exosome'. Note that this types of miRNAs develop from pre-miRNAs that are under-expressed in infectious diseases. Return the miRNA label, pre-miRNA label, infectious disease label, and the false discovery rate (a property named 'FDR' in the database) associated with the under-expression.

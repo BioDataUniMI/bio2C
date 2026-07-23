@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:expressed_in]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:has_phenotype]->(p:Phenotype) RETURN COUNT(DISTINCT m) AS miRNACount

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:part_of]->(g:GO) WHERE m.Label ENDS WITH '5-5p' RETURN m.Label AS miRNA, g.Label AS GO, r.Source AS Sources

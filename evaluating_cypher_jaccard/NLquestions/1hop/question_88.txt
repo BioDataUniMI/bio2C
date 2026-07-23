@@ -1,0 +1,1 @@
+List the genomic coordinates of miRNAs that are under-expressed in the autoimmune disease labeled as 'rheumatoid arthritis'.

@@ -1,0 +1,25 @@
+{
+  "Cancer": "adenoma",
+  "miRNACount": 2
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNACount": 2
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNACount": 2
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNACount": 2
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNACount": 2
+}
+

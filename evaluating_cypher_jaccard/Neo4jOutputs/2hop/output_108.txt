@@ -1,0 +1,12 @@
+{
+  "Phenotype": "Gastrostomy tube feeding in infancy",
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Gastrostomy tube feeding in infancy",
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p"
+}
+

@@ -1,0 +1,50 @@
+{
+  "MolecularFunction": "glutamate-gated calcium ion channel activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway",
+  "Sources": [
+    "GO",
+    "Mondo"
+  ]
+}
+
+{
+  "MolecularFunction": "kainate selective glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway",
+  "Sources": [
+    "GO",
+    "Mondo"
+  ]
+}
+
+{
+  "MolecularFunction": "NMDA glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway",
+  "Sources": [
+    "GO",
+    "Mondo"
+  ]
+}
+
+{
+  "MolecularFunction": "AMPA glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway",
+  "Sources": [
+    "GO",
+    "Mondo"
+  ]
+}
+
+{
+  "MolecularFunction": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity",
+  "GO_Term": "G protein-coupled glutamate receptor activity",
+  "BiologicalProcess": "G protein-coupled glutamate receptor signaling pathway",
+  "Sources": [
+    "GO",
+    "Uberon"
+  ]
+}
+

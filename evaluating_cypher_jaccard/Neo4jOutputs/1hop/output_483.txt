@@ -1,0 +1,10 @@
+{
+  "RegulationType": "negatively_regulates",
+  "Count": 151
+}
+
+{
+  "RegulationType": "positively_regulates",
+  "Count": 177
+}
+

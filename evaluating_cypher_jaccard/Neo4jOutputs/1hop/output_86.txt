@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-375 precursor",
+  "Disease": "type 1 diabetes mellitus 1"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-214 precursor",
+  "Disease": "type 1 diabetes mellitus 1"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-365b precursor",
+  "Disease": "Sjogren syndrome"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-487b precursor",
+  "Disease": "Sjogren syndrome"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-374c precursor",
+  "Disease": "Sjogren syndrome"
+}
+

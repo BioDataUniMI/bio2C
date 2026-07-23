@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Fractured scaphoid bone"
+}
+
+{
+  "Phenotype": "Elevated bone scintigraphy uptake"
+}
+
+{
+  "Phenotype": "Triangular lunate bone"
+}
+
+{
+  "Phenotype": "Positive probe-to-bone test"
+}
+
+{
+  "Phenotype": "Long-bone fracture"
+}
+

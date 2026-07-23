@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:has_function]->(bp1:Biological_process)-[:part_of]->(bp2:Biological_process {Label:'generation of neurons'}) RETURN g.Label AS gene, pre.Label AS precursor_miRNA, bp1.Label AS biological_process

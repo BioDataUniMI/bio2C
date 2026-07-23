@@ -1,0 +1,1 @@
+Find cancers and their expressed miRNAs located in cellular components that are part of the GO term labeled as 'apical part of cell'. Return the cancer label, miRNA label, cellular component label.

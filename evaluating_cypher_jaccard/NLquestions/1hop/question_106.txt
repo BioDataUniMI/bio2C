@@ -1,0 +1,1 @@
+Find all phenotypes in which the miRNA 'hsa-miR-5692b' is over-expressed. Return the phenotype label and the source stating the over-expression.

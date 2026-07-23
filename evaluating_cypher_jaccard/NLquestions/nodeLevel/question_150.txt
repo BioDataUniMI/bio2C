@@ -1,0 +1,1 @@
+List diseases containing 'thyroid' in the label and whose descriptions include 'adenocarcinoma'.

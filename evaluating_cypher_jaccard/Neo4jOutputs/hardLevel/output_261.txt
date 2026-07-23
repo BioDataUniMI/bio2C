@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-152-5p",
+  "Disease": "asthma",
+  "AU_count": 12
+}
+
+{
+  "miRNA": "hsa-miR-137-3p",
+  "Disease": "schizophrenia",
+  "AU_count": 15
+}
+
+{
+  "miRNA": "hsa-miR-548d-3p",
+  "Disease": "major depressive disorder",
+  "AU_count": 14
+}
+
+{
+  "miRNA": "hsa-miR-548d-3p",
+  "Disease": "endogenous depression",
+  "AU_count": 14
+}
+
+{
+  "miRNA": "hsa-miR-152-3p",
+  "Disease": "asthma",
+  "AU_count": 11
+}
+

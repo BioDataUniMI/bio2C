@@ -1,0 +1,1 @@
+Identify genes that are transcribed into miRNAs which are known to regulate the activity of genes, and report the source genes, the miRNAs, and the target genes, considering only cases where at least one gene causes or contributes to a disease.

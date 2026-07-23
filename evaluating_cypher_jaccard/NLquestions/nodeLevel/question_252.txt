@@ -1,0 +1,1 @@
+Find miRNAs whose sequences contain a motif of 13 consecutive As. Return their labels and sequences length.

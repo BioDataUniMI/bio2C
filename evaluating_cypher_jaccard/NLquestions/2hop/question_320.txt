@@ -1,0 +1,1 @@
+Identify cancers whose labels contains the string 'malignant pancreatic' that are characterized by under-expressed miRNAs similar to pre-miRNAs containing the string '302c' in their label. Return the pre-miRNA, miRNA, and cancer labels.

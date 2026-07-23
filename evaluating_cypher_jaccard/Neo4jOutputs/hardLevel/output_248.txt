@@ -1,0 +1,40 @@
+{
+  "Entity": "pathological mental process",
+  "Mental_disease": "mental disorder",
+  "RelationshipTypes": [
+    "manifestation_of"
+  ]
+}
+
+{
+  "Entity": "obsessive-compulsive personality disorder",
+  "Mental_disease": "compulsion",
+  "RelationshipTypes": [
+    "realized_in"
+  ]
+}
+
+{
+  "Entity": "phobic disorder",
+  "Mental_disease": "phobia",
+  "RelationshipTypes": [
+    "realized_in"
+  ]
+}
+
+{
+  "Entity": "enuresis",
+  "Mental_disease": "enuresis",
+  "RelationshipTypes": [
+    "realized_in"
+  ]
+}
+
+{
+  "Entity": "obsessive-compulsive personality disorder",
+  "Mental_disease": "obsession",
+  "RelationshipTypes": [
+    "realized_in"
+  ]
+}
+

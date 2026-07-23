@@ -1,0 +1,1 @@
+Find the labels of GO terms whose labels contain 'alcohol', do NOT contain 'regulation', are NOT cellular components, and whose descriptions contain both the words 'catalysis' and '+'.

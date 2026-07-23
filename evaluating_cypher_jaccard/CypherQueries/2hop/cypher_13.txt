@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'MIR411'})-[:transcribed_to]->(m:miRNA)-[:over_expressed_in]->(c:Cancer) RETURN c.Label AS Cancer, m.Label AS miRNA

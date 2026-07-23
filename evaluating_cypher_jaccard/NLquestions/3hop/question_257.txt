@@ -1,0 +1,1 @@
+In which cellular components do biological processes in which the miRNA 'hsa-miR-206' participates and their GO terms occur? Return the cellular component label, the GO term label, the biological process label, and the miRNA label.

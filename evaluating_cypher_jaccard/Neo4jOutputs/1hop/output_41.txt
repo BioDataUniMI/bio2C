@@ -1,0 +1,32 @@
+{
+  "miRNA": "microRNA hsa-mir-337 precursor",
+  "Phenotype_label": "Cutaneous T-cell lymphoma",
+  "Phenotype_synonyms": [
+    "Kožní T-lymfom",
+    "皮肤T细胞淋巴瘤",
+    "Kutanöz T hücreli lenfoma",
+    "Linfoma cutáneo de células T",
+    "Cutaan T-cel lymfoom",
+    "Linfoma cutaneo a cellule T",
+    "Kutanes T-Zell-Lymphom",
+    "皮膚T-細胞リンパ腫",
+    "Lymphome à cellules T cutané"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-150 precursor",
+  "Phenotype_label": "Cutaneous T-cell lymphoma",
+  "Phenotype_synonyms": [
+    "Kožní T-lymfom",
+    "皮肤T细胞淋巴瘤",
+    "Kutanöz T hücreli lenfoma",
+    "Linfoma cutáneo de células T",
+    "Cutaan T-cel lymfoom",
+    "Linfoma cutaneo a cellule T",
+    "Kutanes T-Zell-Lymphom",
+    "皮膚T-細胞リンパ腫",
+    "Lymphome à cellules T cutané"
+  ]
+}
+

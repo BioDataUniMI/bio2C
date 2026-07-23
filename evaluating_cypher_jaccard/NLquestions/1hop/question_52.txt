@@ -1,0 +1,1 @@
+Which miRNAs are under-expressed in biological processes whose description contains 'defensive reaction'? Return miRNAs and associated processes' label.

@@ -1,0 +1,1 @@
+Identify precursor miRNAs whose label matches the regex '0b[whatever]precursor' and that develop into miRNAs over-expressed in 'pediatric'-like diseases. Report the corresponding precursor miRNAs, mature miRNAs, and diseases' labels.

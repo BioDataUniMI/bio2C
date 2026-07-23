@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE SIZE(m.Sequence) > 100 AND m.Sequence CONTAINS 'AAAA' WITH SIZE(m.Sequence) AS seqLen, COLLECT(m.Label) AS miRNAs WHERE SIZE(miRNAs) > 1 RETURN seqLen AS sequenceLength, miRNAs ORDER BY sequenceLength

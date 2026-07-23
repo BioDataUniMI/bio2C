@@ -1,0 +1,1 @@
+Among genes that are transcribed from any pre-miRNA and contribute to the cancer labeled as 'renal cell adenocarcinoma', retrieve the three gene-cancer pairs with the longest gene sequence lengths (breaking ties alphabetically by gene label). For these results, return the gene label, its sequence length, and the list of associated cancer labels.

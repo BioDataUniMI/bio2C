@@ -1,0 +1,1 @@
+Find all subclassof paths of length one or more between genes. Return the distinct sequences of gene labels along each path, and only include paths where the starting gene label is alphabetically smaller than the ending gene label.

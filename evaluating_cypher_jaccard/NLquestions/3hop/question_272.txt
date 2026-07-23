@@ -1,0 +1,1 @@
+What phenotypes are features of cardiovascular diseases caused or contributed to by the gene 'XDH', whose activity is regulated by miRNAs? Return the miRNA label, gene label, cardiovascular disease label, and phenotype label.

@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Process_label": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-485 precursor",
+  "Process_label": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200b precursor",
+  "Process_label": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-98 precursor",
+  "Process_label": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Process_label": "inflammatory response"
+}
+

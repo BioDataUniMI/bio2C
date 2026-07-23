@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:under_expressed_in]->(go:GO) WITH p, go, (SIZE(SPLIT(p.Sequence, 'AAA')) - 1 + SIZE(SPLIT(p.Sequence, 'UUU')) - 1 + SIZE(SPLIT(p.Sequence, 'GGG')) - 1 + SIZE(SPLIT(p.Sequence, 'CCC')) - 1) AS TotalTripletCount RETURN p.ID AS pre_miRNA_ID, TotalTripletCount, COLLECT(DISTINCT go.Label) AS GO_terms ORDER BY TotalTripletCount DESC, p.ID ASC LIMIT 3

@@ -1,0 +1,1 @@
+Identify miRNAs whose GO function contains the string 'T-helper' in its label and that are over-expressed in esophagus cancers. Return the GO term, miRNA, and cancer labels.

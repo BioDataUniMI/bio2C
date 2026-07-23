@@ -1,0 +1,30 @@
+{
+  "Gene": "CCNG1",
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "lung benign neoplasm"
+}
+
+{
+  "Gene": "CCND2",
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "benign colon neoplasm"
+}
+
+{
+  "Gene": "CASP8",
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "lung benign neoplasm"
+}
+
+{
+  "Gene": "CASP8",
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "benign colon neoplasm"
+}
+
+{
+  "Gene": "HMGA2",
+  "miRNA": "hsa-let-7a-5p",
+  "Disease": "benign neoplasm"
+}
+

@@ -1,0 +1,9 @@
+{
+  "miRNA": "microRNA hsa-mir-10b precursor",
+  "ParentDisease": "disorder of development or morphogenesis",
+  "GOterm": "developmental process",
+  "Sources": [
+    "Mondo"
+  ]
+}
+

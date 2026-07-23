@@ -1,0 +1,1 @@
+Which sources localize miRNAs expressed in diseases into cellular components where the biological process labeled as 'mitochondrial RNA modification' occurs? Return the cellular component label, miRNA label, disease label, and the source confirming the information.

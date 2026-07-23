@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'obsessive-compulsive personality disorder'})-[r:realized_in]->(md:Mental_disease) RETURN d.Label, md.Label, r.Source

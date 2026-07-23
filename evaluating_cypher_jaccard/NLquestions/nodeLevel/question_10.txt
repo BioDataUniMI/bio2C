@@ -1,0 +1,1 @@
+Which genes with labels starting with 'MIR' that have genomic coordinates on chromosomes 1 or 2 have at least 5 synonyms?

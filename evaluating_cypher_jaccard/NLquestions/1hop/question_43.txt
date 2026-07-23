@@ -1,0 +1,1 @@
+Find phenotypes whose label or synonyms contain the special character 'č' and are characterized by under-expressed miRNAs.

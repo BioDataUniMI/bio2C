@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA), (m1)-[:located_in]->(cc:Cellular_component)-[:adjacent_to]->(go:GO{Label: 'cytoplasm'}) RETURN m1.Label AS miRNA, m2.Label AS developed_from_miRNA, cc.Label AS cellular_component

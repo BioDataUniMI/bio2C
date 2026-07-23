@@ -1,0 +1,20 @@
+{
+  "MolecularFunction": "alpha-amylase activity"
+}
+
+{
+  "MolecularFunction": "isoamylase activity"
+}
+
+{
+  "MolecularFunction": "amylase activity"
+}
+
+{
+  "MolecularFunction": "alpha-amylase inhibitor activity"
+}
+
+{
+  "MolecularFunction": "beta-amylase activity"
+}
+

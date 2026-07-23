@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-9-5p",
+  "Gene": "ATG5"
+}
+
+{
+  "miRNA": "hsa-miR-17-5p",
+  "Gene": "ADAR"
+}
+
+{
+  "miRNA": "hsa-miR-340-5p",
+  "Gene": "TGFA"
+}
+
+{
+  "miRNA": "hsa-miR-340-5p",
+  "Gene": "VAV3"
+}
+
+{
+  "miRNA": "hsa-miR-153-3p",
+  "Gene": "SNCA"
+}
+

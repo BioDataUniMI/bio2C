@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfContexts": 31
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfContexts": 29
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfContexts": 25
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfContexts": 28
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfContexts": 34
+}
+

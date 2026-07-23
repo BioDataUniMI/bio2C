@@ -1,0 +1,1 @@
+Consider the infectious disease labeled as 'adult T-cell leukemia/lymphoma' and find all pre-miRNAs that have at least 5 repetitions of 'CU' in their sequence. Return the pre-miRNA ID, the sequence, and the total count of 'CU' repeats.

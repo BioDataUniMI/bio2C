@@ -1,0 +1,1 @@
+How many distinct miRNAs and precursor miRNAs are connected to the cardiovascular disease labeled 'myocardial infarction' through any type of relationship? Return the disease label and the total count of distinct RNAs (miRNAs + pre-miRNAs).

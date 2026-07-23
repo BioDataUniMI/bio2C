@@ -1,0 +1,1 @@
+MATCH (:GO)-[:part_of]->(bp:Biological_process)-[:has_characteristic]->(p:Phenotype) RETURN bp.Label AS BiologicalProcess, COUNT(DISTINCT p) AS PhenotypeCount ORDER BY PhenotypeCount DESC, BiologicalProcess ASC LIMIT 5

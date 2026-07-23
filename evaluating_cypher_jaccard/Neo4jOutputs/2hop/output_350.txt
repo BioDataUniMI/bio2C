@@ -1,0 +1,5 @@
+{
+  "ParentDisease": "Cockayne syndrome",
+  "Phenotype": "Growth delay"
+}
+

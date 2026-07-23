@@ -1,0 +1,1 @@
+List cancers and their expressed miRNAs located in the cellular component labeled as 'heterochromatin' and the GO terms part of them. Return the cancer label, miRNA label, cellular component label, and GO term label.

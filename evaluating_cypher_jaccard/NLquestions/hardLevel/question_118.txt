@@ -1,0 +1,1 @@
+Which pre-miRNA that have a functional association with GO term has the highest count of any single nucleotide (A, C, G, or T) in its sequence? Return the pre-miRNA label, the GO term label, and that maximum count, breaking ties alphabetically by pre-miRNA label and then GO term label.

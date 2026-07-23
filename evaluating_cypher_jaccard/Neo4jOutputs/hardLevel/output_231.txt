@@ -1,0 +1,6 @@
+{
+  "miRNA": "hsa-miR-584-5p",
+  "Sequence": "UUAUGGUUUGCCUGGGACUGAG",
+  "Disease": "multiple sclerosis"
+}
+

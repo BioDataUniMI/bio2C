@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(g.Label) = 2 RETURN m.Label AS miRNA, g.Label AS Gene

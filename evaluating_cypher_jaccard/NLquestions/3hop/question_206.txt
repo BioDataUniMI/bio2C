@@ -1,0 +1,1 @@
+Identify the diseases that cause the disruption of GO terms having biological processes as a part, such that the disease has the phenotype labeled as 'Feeding difficulties'. Return the label of: the disease, the disrupted GO term, and the biological process.

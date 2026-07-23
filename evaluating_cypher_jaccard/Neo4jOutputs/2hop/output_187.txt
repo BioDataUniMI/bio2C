@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-204-5p",
+  "CellularComponent": "microvesicle"
+}
+
+{
+  "miRNA": "hsa-miR-204-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "hsa-miR-95-3p",
+  "CellularComponent": "protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-miR-95-3p",
+  "CellularComponent": "serine/threonine protein kinase complex"
+}
+
+{
+  "miRNA": "hsa-miR-95-3p",
+  "CellularComponent": "extracellular exosome"
+}
+

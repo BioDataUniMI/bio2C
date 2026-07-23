@@ -1,0 +1,1 @@
+MATCH (bd:Disease)-[:has_phenotype]->(p:Phenotype)<-[:has_phenotype]-(nd:Neurodegenerative_disease) WHERE p.Label CONTAINS 'pseudo' AND bd.Label CONTAINS 'benign' RETURN nd.Label AS NeurodegenerativeDisease

@@ -1,0 +1,8 @@
+{
+  "n": {
+    "Label": "Huntington disease-like syndrome due to C9ORF72 expansions",
+    "ID": "MONDO:0018425",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0018425"
+  }
+}
+

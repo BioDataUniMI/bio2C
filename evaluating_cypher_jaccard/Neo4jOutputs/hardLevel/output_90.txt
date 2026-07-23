@@ -1,0 +1,15 @@
+{
+  "Biological_process": "inflammatory response",
+  "miRNA_Count": 126
+}
+
+{
+  "Biological_process": "cell death",
+  "miRNA_Count": 14
+}
+
+{
+  "Biological_process": "cell killing",
+  "miRNA_Count": 14
+}
+

@@ -1,0 +1,1 @@
+Find all miRNAs that develop from a pre-miRNA where the miRNA label ends with a letter but not 'a', 'b', 'c', or 'p' (also in upper case). Return the miRNA and pre-miRNA labels and their sequences.

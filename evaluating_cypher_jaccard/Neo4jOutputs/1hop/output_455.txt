@@ -1,0 +1,40 @@
+{
+  "g1.Label": "protein-containing complex localization",
+  "g2.Label": "protein-containing complex",
+  "g1.ID": "GO:0031503",
+  "g2.ID": "GO:0032991",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g1.Label": "organelle localization",
+  "g2.Label": "organelle",
+  "g1.ID": "GO:0051640",
+  "g2.ID": "GO:0043226",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g1.Label": "vesicle targeting, to, from or within Golgi",
+  "g2.Label": "Golgi-associated vesicle",
+  "g1.ID": "GO:0048199",
+  "g2.ID": "GO:0005798",
+  "r.Source": [
+    "CLO"
+  ]
+}
+
+{
+  "g1.Label": "establishment of organelle localization",
+  "g2.Label": "organelle",
+  "g1.ID": "GO:0051656",
+  "g2.ID": "GO:0043226",
+  "r.Source": [
+    "CLO"
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Mature_miRNA": "hsa-miR-744-3p",
+  "TargetGene": "TGFB1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Mature_miRNA": "hsa-miR-744-5p",
+  "TargetGene": "SLC7A5"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Mature_miRNA": "hsa-miR-744-5p",
+  "TargetGene": "TGFB1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Mature_miRNA": "hsa-miR-744-5p",
+  "TargetGene": "ILF2P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-744 precursor",
+  "Mature_miRNA": "hsa-miR-744-5p",
+  "TargetGene": "MPRIPP1"
+}
+

@@ -1,0 +1,1 @@
+Find phenotypes that: 1) do not have a phenotype as a quality; 2) have no synonyms; and 3) whose description contains 'virus'.

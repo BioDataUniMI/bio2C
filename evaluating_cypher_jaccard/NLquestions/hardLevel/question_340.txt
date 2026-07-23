@@ -1,0 +1,1 @@
+For each neurodegenerative disease that has a phenotype whose label contains 'gallbladder', where that phenotype is also a phenotype of a disease whose label contains 'oma', how many distinct miRNAs are expressed in the -oma- disease? Return the neurodegenerative disease label and the miRNA count.

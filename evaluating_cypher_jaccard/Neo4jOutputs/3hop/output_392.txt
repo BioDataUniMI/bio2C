@@ -1,0 +1,35 @@
+{
+  "Gene": "BRAF",
+  "miRNA": "hsa-miR-143-3p",
+  "CardiovascularDisease": "Noonan syndrome",
+  "NumPhenotypes": 574
+}
+
+{
+  "Gene": "BRAF",
+  "miRNA": "hsa-miR-145-5p",
+  "CardiovascularDisease": "Noonan syndrome",
+  "NumPhenotypes": 574
+}
+
+{
+  "Gene": "BRAF",
+  "miRNA": "hsa-miR-193a-3p",
+  "CardiovascularDisease": "Noonan syndrome",
+  "NumPhenotypes": 574
+}
+
+{
+  "Gene": "BRAF",
+  "miRNA": "hsa-miR-524-5p",
+  "CardiovascularDisease": "Noonan syndrome",
+  "NumPhenotypes": 574
+}
+
+{
+  "Gene": "BRAF",
+  "miRNA": "hsa-miR-579-3p",
+  "CardiovascularDisease": "Noonan syndrome",
+  "NumPhenotypes": 574
+}
+

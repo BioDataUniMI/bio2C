@@ -1,0 +1,11 @@
+{
+  "properties(d)": {
+    "ID": "MONDO:0859331",
+    "Label": "Rabin-Pappas syndrome",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0859331"
+  },
+  "Phenotype": "Conductive hearing impairment",
+  "GOterm": "vibrational conductance of sound to the inner ear",
+  "BiologicalProcess": "sensory perception of sound"
+}
+

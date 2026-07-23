@@ -1,0 +1,15 @@
+{
+  "miRNA": "hsa-miR-150-5p",
+  "Disease": "inherited disease susceptibility"
+}
+
+{
+  "miRNA": "hsa-miR-150-5p",
+  "Disease": "nasopharyngeal carcinoma, susceptibility to, 3"
+}
+
+{
+  "miRNA": "hsa-miR-150-5p",
+  "Disease": "nasopharyngeal carcinoma, susceptibility to, 1"
+}
+

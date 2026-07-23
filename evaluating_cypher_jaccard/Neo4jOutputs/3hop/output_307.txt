@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR664B",
+  "miRNA": "microRNA hsa-mir-664b precursor",
+  "GOterm": "RNA processing",
+  "BiologicalProcess": "RNA biosynthetic process"
+}
+
+{
+  "Gene": "MIR664B",
+  "miRNA": "microRNA hsa-mir-664b precursor",
+  "GOterm": "RNA processing",
+  "BiologicalProcess": "gene expression"
+}
+
+{
+  "Gene": "MIR3651",
+  "miRNA": "microRNA hsa-mir-3651 precursor",
+  "GOterm": "RNA processing",
+  "BiologicalProcess": "RNA biosynthetic process"
+}
+
+{
+  "Gene": "MIR3651",
+  "miRNA": "microRNA hsa-mir-3651 precursor",
+  "GOterm": "RNA processing",
+  "BiologicalProcess": "gene expression"
+}
+
+{
+  "Gene": "MIR664A",
+  "miRNA": "microRNA hsa-mir-664a precursor",
+  "GOterm": "RNA processing",
+  "BiologicalProcess": "RNA biosynthetic process"
+}
+

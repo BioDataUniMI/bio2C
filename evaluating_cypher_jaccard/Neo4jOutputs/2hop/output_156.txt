@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-431-5p",
+  "Cancer": "childhood malignant neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "Cancer": "childhood malignant neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-331-5p",
+  "Cancer": "childhood malignant neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-431-5p",
+  "Cancer": "malignant pancreatic neoplasm"
+}
+

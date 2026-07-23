@@ -1,0 +1,46 @@
+{
+  "sequenceLength": 101,
+  "miRNAs": [
+    "microRNA hsa-mir-1282 precursor",
+    "microRNA hsa-mir-3978 precursor",
+    "microRNA hsa-mir-518c precursor"
+  ]
+}
+
+{
+  "sequenceLength": 102,
+  "miRNAs": [
+    "microRNA hsa-mir-3913 precursor (hsa-mir-3913-1)",
+    "microRNA hsa-mir-12132 precursor",
+    "microRNA hsa-mir-548h precursor (hsa-mir-548h-1)",
+    "microRNA hsa-mir-133a precursor (hsa-mir-133a-2)",
+    "microRNA hsa-mir-3940 precursor"
+  ]
+}
+
+{
+  "sequenceLength": 105,
+  "miRNAs": [
+    "microRNA hsa-mir-548f precursor (hsa-mir-548f-4)",
+    "microRNA hsa-mir-1253 precursor"
+  ]
+}
+
+{
+  "sequenceLength": 106,
+  "miRNAs": [
+    "microRNA hsa-mir-7849 precursor",
+    "microRNA hsa-mir-1248 precursor",
+    "microRNA hsa-mir-6083 precursor"
+  ]
+}
+
+{
+  "sequenceLength": 109,
+  "miRNAs": [
+    "microRNA hsa-mir-6128 precursor",
+    "microRNA hsa-mir-6129 precursor",
+    "microRNA hsa-mir-9985 precursor"
+  ]
+}
+

@@ -1,0 +1,1 @@
+Which five miRNAs have the highest GC content, where GC content is defined as the percentage of guanine (G) and cytosine (C) nucleotides relative to the total miRNA sequence length? Return the miRNA labels, their GC content percentages, and their genomic coordinates, ordering alphabetically by miRNA in case of ties.

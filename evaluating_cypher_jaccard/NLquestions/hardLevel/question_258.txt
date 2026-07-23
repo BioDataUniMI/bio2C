@@ -1,0 +1,1 @@
+Return the top 3 'miRNA-transcribed from-gene' pairs where the miRNA has the highest GC content, where GC content is defined as the percentage of guanine G and cytosine C nucleotides relative to the total miRNA sequence length. Return the miRNA label, its GC content percentage, and the associated gene label, ordering alphabetically by miRNA label in case of ties.

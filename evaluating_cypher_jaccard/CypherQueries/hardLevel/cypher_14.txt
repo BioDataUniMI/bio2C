@@ -1,0 +1,1 @@
+MATCH (m:pre_miRNA)-[r:over_expressed_in]->(p:Phenotype) WITH m, p, SIZE(m.Sequence) AS seq_len WITH COLLECT({pre_miRNA: m.Label, Phenotype: p.Label, seq_len: seq_len}) AS all_data, MIN(seq_len) AS min_len, MAX(seq_len) AS max_len RETURN [x IN all_data WHERE x.seq_len = min_len] AS smallest_sequence, [x IN all_data WHERE x.seq_len = max_len] AS greatest_sequence

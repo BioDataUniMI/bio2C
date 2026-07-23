@@ -1,0 +1,1 @@
+Identify, for the cancer labeled as 'Warthin tumor', the phenotypes shared with conditions whose label contains 'anemia type 2', together with their main condition category.

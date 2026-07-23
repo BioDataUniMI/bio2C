@@ -1,0 +1,1 @@
+Identify biological processes whose disruption causes neurodegenerative diseases that have the phenotype labeled as 'Coxa valga', and return the labels of the disease and the biological process.

@@ -1,0 +1,5 @@
+{
+  "Phenotype": "Autosomal recessive inheritance",
+  "DisorderCount": 4496
+}
+

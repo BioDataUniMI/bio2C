@@ -1,0 +1,1 @@
+Count the number of miRNA pairs wherea first miRNA causes or contributes to a cancer and the second miRNA is expressed by a disease that is an ancestor of that cancer within 1 to 3 subclass levels, and both have the same sequence length.

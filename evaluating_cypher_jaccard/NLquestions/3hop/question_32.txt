@@ -1,0 +1,1 @@
+Consider the gene 'POMGNT2'. Which cardiovascular diseases POMGNT2 causes or contributes to are known to share features with other cardiovascular diseases whose labels contain 'muscular dystrophy' and are subclasses of broader diseases? Return the label of the: primary cardiovascular disease, related cardiovascular disease, and parent disease.

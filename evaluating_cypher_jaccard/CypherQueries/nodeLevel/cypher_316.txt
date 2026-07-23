@@ -1,0 +1,1 @@
+MATCH (d:Disease {URI: 'http://purl.obolibrary.org/obo/MONDO_0011451'}) RETURN d

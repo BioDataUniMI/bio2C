@@ -1,0 +1,25 @@
+{
+  "Disease": "angiostrongyliasis",
+  "PhenotypeCount": 1
+}
+
+{
+  "Disease": "progressive supranuclear palsy",
+  "PhenotypeCount": 1
+}
+
+{
+  "Disease": "supranuclear palsy, progressive, 1",
+  "PhenotypeCount": 1
+}
+
+{
+  "Disease": "motor nerve neuritis",
+  "PhenotypeCount": 1
+}
+
+{
+  "Disease": "lymphadenitis",
+  "PhenotypeCount": 1
+}
+

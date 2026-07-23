@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(:Infectious_disease) WITH m, SIZE(m.Sequence) AS seq_len RETURN DISTINCT m.Label AS miRNA, SUBSTRING(m.Sequence, toInteger((seq_len - 4)/2), 4) AS Middle_4_letters

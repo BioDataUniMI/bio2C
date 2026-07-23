@@ -1,0 +1,20 @@
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Cancer": "sarcoma",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Cancer": "lipoma",
+  "CellularComponent": "RISC complex"
+}
+
+{
+  "Cancer": "hamartoma",
+  "CellularComponent": "RISC complex"
+}
+

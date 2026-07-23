@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene {Label:'KL'}) RETURN m.Label AS miRNA

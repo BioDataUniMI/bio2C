@@ -1,0 +1,1 @@
+Retrieve the description and the species of the biological process labeled as 'female pregnancy'.

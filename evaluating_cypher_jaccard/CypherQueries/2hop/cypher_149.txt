@@ -1,0 +1,1 @@
+MATCH (mf1:Molecular_function)-[:starts]->(bp:Biological_process)<-[:ends]-(mf2:Molecular_function) WHERE mf1 <> mf2 RETURN DISTINCT bp.Label AS BiologicalProcess, mf1.Label AS MolecularFunction1, mf2.Label AS MolecularFunction2

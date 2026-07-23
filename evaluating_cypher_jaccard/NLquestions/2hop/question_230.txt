@@ -1,0 +1,1 @@
+Identify genes with 4-character long labels whose activity is regulated by miRNAs developed from the pre-miRNAs containing '519a-2' in their label. Return the gene label and the labels and the genomic coordinates of both the pre-miRNAs and the miRNAs.

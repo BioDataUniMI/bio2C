@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-9-5p",
+  "BiologicalProcess": "mitochondrial RNA metabolic process",
+  "CellularComponent": "mitochondrion",
+  "GOterm": "ocelloid"
+}
+
+{
+  "miRNA": "hsa-miR-9-5p",
+  "BiologicalProcess": "mitochondrial RNA metabolic process",
+  "CellularComponent": "mitochondrion",
+  "GOterm": "cytoplasm"
+}
+

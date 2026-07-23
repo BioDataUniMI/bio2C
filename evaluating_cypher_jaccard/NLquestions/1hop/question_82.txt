@@ -1,0 +1,1 @@
+Which miRNAs with a sequence length of 23 are under-expressed in neurodegenerative diseases whose descriptions start with the string 'a progressive'?

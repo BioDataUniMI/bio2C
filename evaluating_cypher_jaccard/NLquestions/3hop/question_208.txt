@@ -1,0 +1,1 @@
+Find all phenotypes of diseases that cause disruption of GO terms having biological processes as part where either the GO term or the biological process labels contains 'heart'. Return the label of: phenotype, disease, GO terms and biological process.

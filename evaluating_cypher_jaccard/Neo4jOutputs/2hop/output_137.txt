@@ -1,0 +1,24 @@
+{
+  "Gene": "MIR1202",
+  "miRNA": "microRNA hsa-mir-1202 precursor",
+  "Neurodegenerative_Disease": "Alzheimer disease"
+}
+
+{
+  "Gene": "MIR1202",
+  "miRNA": "microRNA hsa-mir-1202 precursor",
+  "Neurodegenerative_Disease": "Alzheimer disease type 1"
+}
+
+{
+  "Gene": "MIR584",
+  "miRNA": "microRNA hsa-mir-584 precursor",
+  "Neurodegenerative_Disease": "multiple sclerosis"
+}
+
+{
+  "Gene": "MIR549A",
+  "miRNA": "microRNA hsa-mir-549a precursor",
+  "Neurodegenerative_Disease": "multiple sclerosis"
+}
+

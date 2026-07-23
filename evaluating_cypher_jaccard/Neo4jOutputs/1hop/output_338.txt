@@ -1,0 +1,25 @@
+{
+  "d.Label": "pityriasis lichenoides",
+  "d.Description": "a rare cutaneous disorder of unknown etiology that can present either as an acute condition, with..."
+}
+
+{
+  "d.Label": "systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood",
+  "d.Description": "systemic epstein-barr virus (ebv)-positive t-cell lymphoproliferative disease of childhood is a r..."
+}
+
+{
+  "d.Label": "pneumonia caused by pseudomonas aeruginosa infection",
+  "d.Description": "a rare pulmonary disease characterized by primary or nonbacteremic pneumonia most frequently aris..."
+}
+
+{
+  "d.Label": "cerebral sinovenous thrombosis",
+  "d.Description": "a rare but serious cerebrovascular disorder involving thrombosis of the cerebral venous system. i..."
+}
+
+{
+  "d.Label": "myeloid neoplasm associated with PDGFRB rearrangement",
+  "d.Description": "a rare, malignant, neoplastic disease characterized by clonal proliferation of myeloid and/or lym..."
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[r1:transcribed_to]->(p:pre_miRNA)-[r2:develops_into]->(m:miRNA) WHERE g.Label =~ '.*C$' RETURN g.Label AS Gene, COUNT(DISTINCT r1) AS PrecursorCount, COUNT(DISTINCT r2) AS MatureMiRNAs

@@ -1,0 +1,1 @@
+For pre-miRNAs whose label contains the string 'microRNA hsa-mir-29', identify the infectious diseases in which they are over-expressed and the phenotypes of those diseases. Return the disease and phenotype labels.

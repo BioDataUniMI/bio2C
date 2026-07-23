@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(c:Cancer {Label:'benign muscle neoplasm'} )-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE SIZE(g.Label) = 7 RETURN d.Label AS Disease, c.Label AS ParentCancer, m.Label AS miRNA, g.Label AS Gene

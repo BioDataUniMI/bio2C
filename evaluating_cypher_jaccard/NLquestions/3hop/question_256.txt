@@ -1,0 +1,1 @@
+Find cellular components where GO terms, which are parts of biological processes in which the miRNA 'hsa-miR-410-3p' participates, occur. Return the miRNA label, the biological process label, the GO term label, and the cellular component label.

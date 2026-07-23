@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'cytosol' AND (go.Label CONTAINS 'transport' OR go.Label CONTAINS 'metabolic') RETURN cc.Label AS CellularComponent, go.Label AS GOTerm

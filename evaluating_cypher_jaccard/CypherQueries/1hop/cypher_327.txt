@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE NOT (d)-[:has_phenotype]->(:Phenotype) AND d.Description CONTAINS 'skeletal disorders' RETURN d.Label

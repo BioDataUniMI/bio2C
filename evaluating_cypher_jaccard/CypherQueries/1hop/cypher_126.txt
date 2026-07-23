@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) WHERE (b.Label CONTAINS 'protein' OR b.Description CONTAINS 'protein') AND b.Label CONTAINS 'DNA' RETURN m.Label AS miRNA, b.Label AS BiologicalProcess

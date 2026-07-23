@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:genetically_interacts_with]->(g2:Gene) WHERE SIZE(g1.Sequence) = SIZE(g2.Sequence) AND SIZE(g1.Sequence) < 500 WITH g1, g2, SIZE(g1.Sequence) AS g_length RETURN DISTINCT g1.Label AS Gene1, g2.Label AS Gene2, g_length AS Sequence_Length

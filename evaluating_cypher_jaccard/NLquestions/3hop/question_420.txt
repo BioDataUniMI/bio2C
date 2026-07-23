@@ -1,0 +1,1 @@
+Count how many diseases whose label contains the string 'neuropathy-sensorineural' are subclasses of other diseases having phenotypes characterizing specific GO terms.

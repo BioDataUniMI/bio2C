@@ -1,0 +1,1 @@
+How many 'GO-directly_regulates->GO' relationships exist in the database?

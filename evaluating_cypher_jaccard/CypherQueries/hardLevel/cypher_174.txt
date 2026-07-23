@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(go1:GO)-[:has_target_start_location]->(go2:GO), (go1)-[:has_target_end_location]->(go3:GO) WITH m, SIZE(m.Sequence) AS L WITH MIN(L) AS minL MATCH (m:miRNA) WHERE SIZE(m.Sequence) = minL WITH m, SIZE([x IN SPLIT(m.Sequence,'') WHERE x='C']) AS C_count ORDER BY m.Label ASC RETURN m.Label AS miRNA, C_count LIMIT 3

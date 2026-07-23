@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'microRNA hsa-mir-182 precursor'})-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE c.Label CONTAINS 'adenocarcinoma' RETURN m.Label AS miRNA, c.Label AS Cancer, d.Label AS Disease, p.Label AS Phenotype

@@ -1,0 +1,1 @@
+Which diseases with 'heart' in their label are subclasses of cancers and have phenotypes characteristic of the GO term labeled as 'inflammatory response'? Return the labels of: the phenotype, the disease, and the parent cancer.

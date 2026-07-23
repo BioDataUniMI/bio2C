@@ -1,0 +1,1 @@
+List biological processes that are negatively regulated by other biological processes whose label contains D as a standalone word, ordered first by the size of the source value and then by the biological process label.

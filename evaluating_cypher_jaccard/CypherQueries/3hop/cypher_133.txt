@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process)-[:has_part]->(mf:Molecular_function)-[:part_of]->(go:GO) WHERE bp.Label CONTAINS 'telomere maintenance' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess, mf.Label AS MolecularFunction, go.Label AS GOterm

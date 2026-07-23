@@ -1,0 +1,30 @@
+{
+  "Disease": "photosensitive trichothiodystrophy",
+  "BiologicalProcess": "nucleotide-excision repair",
+  "GOterm": "nucleotide-excision repair, DNA gap filling"
+}
+
+{
+  "Disease": "photosensitive trichothiodystrophy",
+  "BiologicalProcess": "nucleotide-excision repair",
+  "GOterm": "nucleotide-excision repair, preincision complex assembly"
+}
+
+{
+  "Disease": "photosensitive trichothiodystrophy",
+  "BiologicalProcess": "nucleotide-excision repair",
+  "GOterm": "nucleotide-excision repair, preincision complex stabilization"
+}
+
+{
+  "Disease": "photosensitive trichothiodystrophy",
+  "BiologicalProcess": "nucleotide-excision repair",
+  "GOterm": "nucleotide-excision repair, DNA damage removal"
+}
+
+{
+  "Disease": "photosensitive trichothiodystrophy",
+  "BiologicalProcess": "nucleotide-excision repair",
+  "GOterm": "nucleotide-excision repair, DNA duplex unwinding"
+}
+

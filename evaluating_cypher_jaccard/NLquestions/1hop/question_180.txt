@@ -1,0 +1,1 @@
+Find pre-miRNAs transcribed from genes whose label starts with 'MIR62'. Return the label of genes and miRNAs, and the source claiming the relationship.

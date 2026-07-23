@@ -1,0 +1,18 @@
+{
+  "CellularComponent": "RISC complex",
+  "miRNA": "hsa-let-7d-5p",
+  "SequenceLength": 22
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-1275",
+  "SequenceLength": 17
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-2861",
+  "SequenceLength": 19
+}
+

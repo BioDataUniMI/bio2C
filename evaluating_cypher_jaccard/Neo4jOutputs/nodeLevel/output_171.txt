@@ -1,0 +1,20 @@
+{
+  "GO": "seedling development"
+}
+
+{
+  "GO": "clypeo-labral disc morphogenesis"
+}
+
+{
+  "GO": "genital disc morphogenesis"
+}
+
+{
+  "GO": "vulval cell fate determination"
+}
+
+{
+  "GO": "pupal development"
+}
+

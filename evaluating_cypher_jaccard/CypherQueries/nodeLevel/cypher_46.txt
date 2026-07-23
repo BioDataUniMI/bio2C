@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'apoptosis' RETURN g.Label AS GOterm

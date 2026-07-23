@@ -1,0 +1,1 @@
+MATCH (:Disease)-[:has_phenotype]->(p:Phenotype) RETURN COUNT(DISTINCT p) AS UniquePhenotypes

@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "senescence-associated heterochromatin focus"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "apical plasma membrane"
+}
+

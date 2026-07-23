@@ -1,0 +1,1 @@
+List pre-miRNAs located in the GO term labeled as 'Cajal body' and the cellular components this GO term is part of.

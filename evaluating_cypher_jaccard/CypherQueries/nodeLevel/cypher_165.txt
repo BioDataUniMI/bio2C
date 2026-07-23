@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Description CONTAINS 'paracoccidioides brasiliensis' RETURN d.Label AS Disease, d.Description AS Description

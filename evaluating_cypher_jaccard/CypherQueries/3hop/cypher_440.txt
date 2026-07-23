@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'Li-Fraumeni syndrome'})<-[:causes_or_contributes_to_condition]-(g:Gene)<-[:regulates_activity_of]-(m:miRNA)<-[:expresses]-(c:Cancer) RETURN g.Label AS GeneLabels, g.Synonyms AS GeneSynonyms, m.Label AS miRNA, c.Label AS Cancer

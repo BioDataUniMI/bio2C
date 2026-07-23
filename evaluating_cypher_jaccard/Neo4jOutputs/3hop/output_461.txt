@@ -1,0 +1,6 @@
+{
+  "Gene": "H6PD",
+  "Disease": "cortisone reductase deficiency",
+  "GOterm": "11-beta-hydroxysteroid dehydrogenase [NAD(P)+] activity"
+}
+

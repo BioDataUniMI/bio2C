@@ -1,0 +1,1 @@
+Which GO terms have synonyms mentioning 'transport'? Return their labels and IDs.

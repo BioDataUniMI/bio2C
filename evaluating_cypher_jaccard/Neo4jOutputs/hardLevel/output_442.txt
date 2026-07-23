@@ -1,0 +1,4 @@
+{
+  "avg_MolecularFunctions_per_disease": 1.0109890109890112
+}
+

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:over_expressed_in]->(c:Cancer{Label:'meningioma'}) WHERE pre.Sequence ENDS WITH 'GACA' RETURN pre.Label AS pre_miRNA, m.Label AS miRNA

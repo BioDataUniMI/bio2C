@@ -1,0 +1,1 @@
+Which genes share the same last 70% of their sequence with at least one other gene? Return the groups of genes that share an identical last-70% sequence segment.

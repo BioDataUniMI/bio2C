@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE SIZE(g.Synonym) >= 20 AND ANY(s IN g.Synonym WHERE s CONTAINS 'kinase') RETURN g.Label AS Gene, g.Synonym AS Synonyms

@@ -1,0 +1,1 @@
+Which miRNAs participate in biological processes disrupted by diseases whose label contains the string 'carnitine palmitoyl' that have phenotypes containing the string 'aortic valve'? Return the phenotype label, disease label, biological process label, and miRNA label.

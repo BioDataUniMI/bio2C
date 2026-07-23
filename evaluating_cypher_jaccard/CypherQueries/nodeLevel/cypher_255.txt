@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN AVG(SIZE(m.Sequence)) AS AverageSequenceLength

@@ -1,0 +1,20 @@
+{
+  "g.Label": "envenomation resulting in negative regulation of voltage-gated calcium channel activity in anothe..."
+}
+
+{
+  "g.Label": "envenomation resulting in negative regulation of voltage-gated potassium channel activity in anot..."
+}
+
+{
+  "g.Label": "envenomation resulting in negative regulation of acid-sensing ion channel activity in another org..."
+}
+
+{
+  "g.Label": "envenomation resulting in negative regulation of calcium channel activity in another organism"
+}
+
+{
+  "g.Label": "envenomation resulting in negative regulation of high voltage-gated calcium channel activity in a..."
+}
+

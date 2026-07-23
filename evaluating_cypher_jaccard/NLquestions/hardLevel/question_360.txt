@@ -1,0 +1,1 @@
+Which gene(s) that cause or contribute to cardiovascular diseases are regulated by the maximum number of distinct miRNAs (including ties)? Return the gene label and the number of regulating miRNAs.

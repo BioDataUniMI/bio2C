@@ -1,0 +1,5 @@
+{
+  "Biological_Process": "autophagy",
+  "Description": "the cellular catabolic process in which cells digest cellular materials, such as organelles and o..."
+}
+

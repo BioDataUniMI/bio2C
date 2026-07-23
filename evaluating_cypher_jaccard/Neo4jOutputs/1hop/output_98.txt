@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-24-3p",
+  "miRNA_sequence": "UGGCUCAGUUCAGCAGGAACAG",
+  "Sequence_length": 22,
+  "Disease": "hand, foot and mouth disease"
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "miRNA_sequence": "CAAAGUGCUGUUCGUGCAGGUAG",
+  "Sequence_length": 23,
+  "Disease": "hand, foot and mouth disease"
+}
+
+{
+  "miRNA": "hsa-miR-93-3p",
+  "miRNA_sequence": "ACUGCUGAGCUAGCACUUCCCG",
+  "Sequence_length": 22,
+  "Disease": "hand, foot and mouth disease"
+}
+
+{
+  "miRNA": "hsa-miR-5680",
+  "miRNA_sequence": "GAGAAAUGCUGGACUAAUCUGC",
+  "Sequence_length": 22,
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-3660",
+  "miRNA_sequence": "ACUGACAGGAGAGCAUUUUGA",
+  "Sequence_length": 21,
+  "Disease": "Kaposi's sarcoma"
+}
+

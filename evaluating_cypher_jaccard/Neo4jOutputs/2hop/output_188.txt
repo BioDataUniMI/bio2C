@@ -1,0 +1,25 @@
+{
+  "Disease": "Graham-Boyle-Troxell syndrome",
+  "Cancer": "hamartoma of lung"
+}
+
+{
+  "Disease": "Graham-Boyle-Troxell syndrome",
+  "Cancer": "lung cancer"
+}
+
+{
+  "Disease": "Graham-Boyle-Troxell syndrome",
+  "Cancer": "kidney cancer"
+}
+
+{
+  "Disease": "astrocytic tumor",
+  "Cancer": "malignant glioma"
+}
+
+{
+  "Disease": "astrocytic tumor",
+  "Cancer": "glioma"
+}
+

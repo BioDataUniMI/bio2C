@@ -1,0 +1,1 @@
+Identify the cellular components in which miRNAs expressed by the cancer labeled 'breast cancer' are located. Return the miRNA and cellular component labels.

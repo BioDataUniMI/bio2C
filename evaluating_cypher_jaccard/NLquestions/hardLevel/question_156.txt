@@ -1,0 +1,1 @@
+Find the top 3 miRNAs with the highest number of 'U' nucleotides in their sequence, in case of ties, order the miRNAs alphabetically. Return miRNA label and the count of 'U' nucleotides.

@@ -1,0 +1,1 @@
+Which miRNAs ending with ‘18a-5p’ are over-expressed in cancers that are subclasses of a parent disease, where that same parent disease also has a subclass disease with the phenotype labeled ‘Macular edema’? Return the miRNA label, the phenotype-associated disease label, the cancer label, and the shared parent (parent) disease label.

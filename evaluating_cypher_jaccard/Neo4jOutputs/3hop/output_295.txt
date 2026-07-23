@@ -1,0 +1,28 @@
+{
+  "miRNA": "hsa-miR-659-3p",
+  "Disease": "frontotemporal dementia",
+  "NeurodegenerativeDisease": "inherited neurodegenerative disorder",
+  "Phenotype": "Split foot"
+}
+
+{
+  "miRNA": "hsa-miR-659-3p",
+  "Disease": "frontotemporal dementia",
+  "NeurodegenerativeDisease": "inherited neurodegenerative disorder",
+  "Phenotype": "Split hand"
+}
+
+{
+  "miRNA": "hsa-miR-659-3p",
+  "Disease": "frontotemporal dementia",
+  "NeurodegenerativeDisease": "inherited neurodegenerative disorder",
+  "Phenotype": "Hypodontia"
+}
+
+{
+  "miRNA": "hsa-miR-659-3p",
+  "Disease": "frontotemporal dementia",
+  "NeurodegenerativeDisease": "inherited neurodegenerative disorder",
+  "Phenotype": "Autosomal dominant inheritance"
+}
+

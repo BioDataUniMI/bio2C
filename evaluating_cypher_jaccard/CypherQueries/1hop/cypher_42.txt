@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE ANY(s IN p.Synonym WHERE s CONTAINS '卵巣新生物') RETURN DISTINCT p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms

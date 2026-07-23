@@ -1,0 +1,20 @@
+{
+  "CardiovascularDisease": "Friedreich ataxia"
+}
+
+{
+  "CardiovascularDisease": "acute myocarditis"
+}
+
+{
+  "CardiovascularDisease": "coronary artery disorder"
+}
+
+{
+  "CardiovascularDisease": "aortic valve disorder"
+}
+
+{
+  "CardiovascularDisease": "Friedreich ataxia 1"
+}
+

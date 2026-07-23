@@ -1,0 +1,1 @@
+MATCH (n1:Neurodegenerative_disease)-[r:disease_has_basis_in_feature]->(n2:Neurodegenerative_disease) WHERE ANY(src IN r.Source WHERE src = 'Mondo') RETURN DISTINCT n1.Label AS Starting_disease, n2.Label AS Target_disease ORDER BY Starting_disease, Target_disease

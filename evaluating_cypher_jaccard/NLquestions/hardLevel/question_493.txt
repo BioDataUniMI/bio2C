@@ -1,0 +1,1 @@
+Which pre-miRNAs whose labels contain 'e precursor' are associated via 'is_causal_somatic_mutation_in' with nodes whose labels contain 'Lung' and that are either typed 'Phenotype' or belong to a subclass hierarchy leading to a 'Phenotype' node? Return the node label of the phenotype and the pre-miRNA label.

@@ -1,0 +1,1 @@
+MATCH (c:Cellular_component) WHERE c.Label =~ '(?i).*\\bnucleus\\b.*' RETURN c.Label AS CellularComponent

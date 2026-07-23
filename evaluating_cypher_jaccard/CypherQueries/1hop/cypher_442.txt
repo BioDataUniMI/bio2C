@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[:disease_has_basis_in_feature]->(id:Infectious_disease) RETURN cd.Label, id.Label

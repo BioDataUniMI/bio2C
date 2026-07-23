@@ -1,0 +1,7 @@
+{
+  "Genes": [
+    "http://www.ncbi.nlm.nih.gov/gene/100049347",
+    "http://www.ncbi.nlm.nih.gov/gene/100049427"
+  ]
+}
+

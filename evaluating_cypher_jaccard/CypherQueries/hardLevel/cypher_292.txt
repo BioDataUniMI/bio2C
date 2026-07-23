@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WITH m, COUNT(DISTINCT g) AS target_count WHERE target_count > 150 RETURN m.Label, target_count

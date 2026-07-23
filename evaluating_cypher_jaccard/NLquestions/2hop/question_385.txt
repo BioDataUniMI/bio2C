@@ -1,0 +1,1 @@
+Which GO terms has part the cellular component which is the location of pre-miRNAs that cause or contribute to the autoimmune disease labeled as 'osteoarthritis'?

@@ -1,0 +1,20 @@
+{
+  "p1.Label": "high-arched",
+  "p2.Label": "normal"
+}
+
+{
+  "p1.Label": "hard",
+  "p2.Label": "normal"
+}
+
+{
+  "p1.Label": "having extra function",
+  "p2.Label": "normal"
+}
+
+{
+  "p1.Label": "has extra parts of type",
+  "p2.Label": "normal"
+}
+

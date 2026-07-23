@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Sequence CONTAINS 'UUUUUUUUUUUUUUUUUU' RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength

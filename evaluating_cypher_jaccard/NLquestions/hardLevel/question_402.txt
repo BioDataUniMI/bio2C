@@ -1,0 +1,1 @@
+List all genes that are characterized by a causal germline mutation relationship with diseases whose label contains 'gene', including cases where the mutation value is not available and cases where it is available and greater than 0.002, retur the gene label when available and otherwise the gene URI.

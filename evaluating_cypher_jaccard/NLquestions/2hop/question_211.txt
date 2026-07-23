@@ -1,0 +1,1 @@
+Which miRNAs whose label ends with '3p' are over-expressed in diseases containing the string 'cervical carcinoma' (case-insensitive) in their label and have phenotypes with labels containing the string 'visual loss'? Return the label of the miRNA, disease, and phenotype.

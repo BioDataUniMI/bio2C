@@ -1,0 +1,59 @@
+{
+  "Cellular_Component": "extracellular exosome",
+  "Shared_Last_10": "GUGCAGGUAG",
+  "mirnas": [
+    "hsa-miR-20b-5p",
+    "hsa-miR-93-5p",
+    "hsa-miR-17-5p",
+    "hsa-miR-106a-5p",
+    "hsa-miR-20a-5p"
+  ],
+  "miRNA_count": 5
+}
+
+{
+  "Cellular_Component": "microvesicle",
+  "Shared_Last_10": "GUGCAGGUAG",
+  "mirnas": [
+    "hsa-miR-20b-5p",
+    "hsa-miR-93-5p",
+    "hsa-miR-17-5p",
+    "hsa-miR-106a-5p"
+  ],
+  "miRNA_count": 4
+}
+
+{
+  "Cellular_Component": "extracellular exosome",
+  "Shared_Last_10": "AAAUCGGUUA",
+  "mirnas": [
+    "hsa-miR-29a-3p",
+    "hsa-miR-29c-3p",
+    "Hsa-Mir-29-P2d_pre stem-loop",
+    "Hsa-Mir-29-P2b_pre stem-loop"
+  ],
+  "miRNA_count": 4
+}
+
+{
+  "Cellular_Component": "extracellular exosome",
+  "Shared_Last_10": "UUGUAUAGUU",
+  "mirnas": [
+    "hsa-let-7e-5p",
+    "hsa-let-7f-5p",
+    "hsa-let-7a-5p"
+  ],
+  "miRNA_count": 3
+}
+
+{
+  "Cellular_Component": "extracellular exosome",
+  "Shared_Last_10": "GCAAAACUGA",
+  "mirnas": [
+    "hsa-miR-19a-3p",
+    "hsa-miR-19b-3p",
+    "Hsa-Mir-19-P1a_pre stem-loop"
+  ],
+  "miRNA_count": 3
+}
+

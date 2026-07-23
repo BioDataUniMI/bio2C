@@ -1,0 +1,46 @@
+{
+  "miRNA": "hsa-let-7a-2-3p",
+  "Disease": "bladder transitional cell carcinoma",
+  "RelationshipTypes": [
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-2-3p",
+  "Disease": "colorectal cancer",
+  "RelationshipTypes": [
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-2-3p",
+  "Disease": "gastric adenocarcinoma",
+  "RelationshipTypes": [
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "Burkitt lymphoma",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in"
+  ]
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "Hodgkins lymphoma",
+  "RelationshipTypes": [
+    "causes_or_contributes_to_condition",
+    "under_expressed_in",
+    "over_expressed_in"
+  ]
+}
+

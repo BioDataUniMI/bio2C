@@ -1,0 +1,6 @@
+{
+  "biological_process": "glucose metabolic process",
+  "regulating_biological_process": "positive regulation of glucose metabolic process",
+  "gene": "MIR1207"
+}
+

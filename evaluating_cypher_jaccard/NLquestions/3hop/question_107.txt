@@ -1,0 +1,1 @@
+Identify the pre-miRNAs that develop into miRNAs which regulate the activity of genes that genetically interact with the gene 'H4C16'. Return the pre-miRNA label, the miRNA label, and the regulated gene label.

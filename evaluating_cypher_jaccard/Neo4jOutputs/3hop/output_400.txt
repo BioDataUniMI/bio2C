@@ -1,0 +1,35 @@
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular vesicle",
+  "GOterm": "extracellular region"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "CellularComponent": "apical plasma membrane",
+  "GOterm": "apical part of cell"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular vesicle",
+  "GOterm": "extracellular region"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-5p",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular space"
+}
+

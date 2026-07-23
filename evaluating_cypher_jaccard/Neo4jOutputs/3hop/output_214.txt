@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "prostate cancer, hereditary"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "prostate cancer, hereditary, 13"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "prostate cancer, hereditary, 12"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "prostate cancer, hereditary, 9"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "prostate cancer, hereditary, 7"
+}
+

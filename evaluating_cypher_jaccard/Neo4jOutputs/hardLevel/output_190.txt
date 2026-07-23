@@ -1,0 +1,5 @@
+{
+  "gene": "PCDH15",
+  "last_30_characters": "ATGTTTCAAAAATAAATTTTCATTTGAAAA"
+}
+

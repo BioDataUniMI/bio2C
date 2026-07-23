@@ -1,0 +1,1 @@
+Which GO terms are part of cellular components and are location of miRNAs transcribed from genes, excluding GO terms whose labels contain 'extracellular' or 'nucleus'? Return labels of the: genes, miRNAs, GO terms, and cellular components.

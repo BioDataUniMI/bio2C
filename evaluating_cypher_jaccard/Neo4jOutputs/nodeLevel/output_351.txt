@@ -1,0 +1,44 @@
+{
+  "DiseaseLabel": "Leber congenital amaurosis 4",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cardiovascular_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Leber congenital amaurosis",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cardiovascular_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Leber plus disease",
+  "Classifications": [
+    "Disease",
+    "Cardiovascular_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Leber congenital amaurosis 15",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cardiovascular_disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Leber optic atrophy and dystonia",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cardiovascular_disease"
+  ]
+}
+

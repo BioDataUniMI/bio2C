@@ -1,0 +1,1 @@
+Which miRNAs are characterized by at least one genomic coordinate on chromosome 9 whose start position falls between 5 Mb and 10 Mb? Return the label of miRNA.

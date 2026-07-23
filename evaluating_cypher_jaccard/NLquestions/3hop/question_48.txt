@@ -1,0 +1,1 @@
+Which diseases predispose toward other diseases that express miRNAs which are causal somatic mutations in the disease labeled as 'squamous cell lung carcinoma'? Return the label the predisposing disease, the predisposed disease and miRNA.

@@ -1,0 +1,30 @@
+{
+  "PredisposingDisease": "ovarian cancer, familial, susceptibility to, 1",
+  "TargetDisease": "ovarian cancer",
+  "CardiovascularDisease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+}
+
+{
+  "PredisposingDisease": "ovarian cancer, susceptibility to, 1",
+  "TargetDisease": "ovarian cancer",
+  "CardiovascularDisease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+}
+
+{
+  "PredisposingDisease": "celiac disease, susceptibility to, 13",
+  "TargetDisease": "celiac disease",
+  "CardiovascularDisease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+}
+
+{
+  "PredisposingDisease": "celiac disease, susceptibility to, 12",
+  "TargetDisease": "celiac disease",
+  "CardiovascularDisease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+}
+
+{
+  "PredisposingDisease": "celiac disease, susceptibility to, 11",
+  "TargetDisease": "celiac disease",
+  "CardiovascularDisease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"
+}
+

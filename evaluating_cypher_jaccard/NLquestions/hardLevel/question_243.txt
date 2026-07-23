@@ -1,0 +1,1 @@
+For each miRNA that does not contain 'C', is part of GO terms, and has sequence length less than 24, calculate the percentage of 'U' nucleotides in its sequence. Return the miRNA label, sequence, and the percentage of 'U'.

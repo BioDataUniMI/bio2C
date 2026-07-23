@@ -1,0 +1,1 @@
+Find cellular components whose description includes 'membrane vesicle'. Return only their labels.

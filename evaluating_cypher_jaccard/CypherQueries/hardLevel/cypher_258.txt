@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:transcribed_from]->(g:Gene) WITH m, g, 100.0 * SIZE([n IN SPLIT(m.Sequence, '') WHERE n IN ['G','C']]) / SIZE(m.Sequence) AS GC_content_percentage RETURN m.Label AS miRNA, GC_content_percentage, g.Label AS Gene ORDER BY GC_content_percentage DESC, m.Label ASC LIMIT 3

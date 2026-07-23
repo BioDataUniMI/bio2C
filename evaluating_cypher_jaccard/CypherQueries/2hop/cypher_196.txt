@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:is_active_in]->(go:GO) RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, go.Label AS GOterm

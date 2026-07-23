@@ -1,0 +1,25 @@
+{
+  "miRNA": "Hsa-Mir-22-P1b_pre stem-loop",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "Hsa-Mir-29-P1b-v1_pre stem-loop",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "Hsa-Mir-29-P1b-v2_pre stem-loop",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "Hsa-Mir-10-P1b-v2_pre stem-loop",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "Hsa-Mir-10-P1b-v1_pre stem-loop",
+  "CellularComponent": "extracellular exosome"
+}
+

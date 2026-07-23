@@ -1,0 +1,1 @@
+Find miRNAs with genomic coordinates on chromosome 19 that are not involved in biological process. Return their sequences, genomic coordinates, and the labels of the processes.

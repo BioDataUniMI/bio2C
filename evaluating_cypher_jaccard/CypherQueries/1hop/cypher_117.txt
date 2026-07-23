@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr11:') RETURN n.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates

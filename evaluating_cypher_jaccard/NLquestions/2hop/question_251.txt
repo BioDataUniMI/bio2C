@@ -1,0 +1,1 @@
+Identify genes ending with a letter that are regulated by miRNAs ending with a number and cause or contribute to diseases whose label contains the string 'benign neoplasm'. Return the label of the gene, miRNA, and disease.

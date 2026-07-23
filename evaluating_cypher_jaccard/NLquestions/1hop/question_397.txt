@@ -1,0 +1,1 @@
+List precursor miRNAs longer than 120 nucleotides that are transcribed from known genes. Return only the distinct pre-miRNA labels and pre-miRNA length.

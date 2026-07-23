@@ -1,0 +1,1 @@
+Identify biological processes whose disruption causes autoimmune diseases that have the phenotype labeled as 'Cough'?

@@ -1,0 +1,10 @@
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "DisruptedProcess": "neuron migration"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "DisruptedProcess": "axon guidance"
+}
+

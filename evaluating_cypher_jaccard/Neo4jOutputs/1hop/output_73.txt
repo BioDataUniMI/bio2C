@@ -1,0 +1,32 @@
+{
+  "Disease": "endomyocardial fibrosis",
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Genomic_coordinates": [
+    "chrX:66018870-66018979+"
+  ]
+}
+
+{
+  "Disease": "myocardial infarction",
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Genomic_coordinates": [
+    "chrX:66018870-66018979+"
+  ]
+}
+
+{
+  "Disease": "myocardial infarction",
+  "miRNA": "microRNA hsa-mir-92a precursor (hsa-mir-92a-2)",
+  "Genomic_coordinates": [
+    "chrX:134169538-134169612-"
+  ]
+}
+
+{
+  "Disease": "myocardial ischemia",
+  "miRNA": "microRNA hsa-mir-421 precursor",
+  "Genomic_coordinates": [
+    "chrX:74218377-74218461-"
+  ]
+}
+

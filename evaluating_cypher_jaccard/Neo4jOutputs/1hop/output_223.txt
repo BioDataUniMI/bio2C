@@ -1,0 +1,72 @@
+{
+  "miRNA": "hsa-miR-181a-3p",
+  "GOTerm": "autophagy",
+  "Interactors": [
+    "ATG5",
+    "BECN1",
+    "ATG10",
+    "ATG12",
+    "UVRAG",
+    "ATG16L1"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-21-3p",
+  "GOTerm": "apoptotic process",
+  "Interactors": [
+    "RECK",
+    "SPRY2",
+    "PDCD4",
+    "PTEN",
+    "NFKB1",
+    "TIMP3",
+    "GAS5",
+    "TNF",
+    "SPRY1"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-135a-5p",
+  "GOTerm": "apoptotic process",
+  "Interactors": [
+    "BCL2",
+    "STAT6",
+    "BMPR2",
+    "TFAP2A",
+    "SMAD5"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-34a-3p",
+  "GOTerm": "apoptotic process",
+  "Interactors": [
+    "GCG",
+    "BCL2",
+    "TP53",
+    "FASLG",
+    "14-3-3sigma",
+    "CDKN1A",
+    "SPI1",
+    "MYCN",
+    "LEF1",
+    "TNFSF10",
+    "KLF4"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-200b-5p",
+  "GOTerm": "apoptotic process",
+  "Interactors": [
+    "COL3A1",
+    "SMN1",
+    "TGFB1",
+    "COL1A1",
+    "SERF1A",
+    "FN1"
+  ]
+}
+

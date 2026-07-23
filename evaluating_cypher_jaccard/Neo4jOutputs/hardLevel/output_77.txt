@@ -1,0 +1,24 @@
+{
+  "pre_miRNA_ID": "RNAcentral:URS00005FDE16_9606",
+  "TotalTripletCount": 8,
+  "GO_terms": [
+    "inflammatory response"
+  ]
+}
+
+{
+  "pre_miRNA_ID": "RNAcentral:URS000071F654_9606",
+  "TotalTripletCount": 7,
+  "GO_terms": [
+    "inflammatory response"
+  ]
+}
+
+{
+  "pre_miRNA_ID": "RNAcentral:URS000075DC96_9606",
+  "TotalTripletCount": 7,
+  "GO_terms": [
+    "inflammatory response"
+  ]
+}
+

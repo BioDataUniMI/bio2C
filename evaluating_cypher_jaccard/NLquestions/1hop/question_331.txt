@@ -1,0 +1,1 @@
+Return all autoimmune diseases that do not have any phenotype in the database and whose description contains 'variation'.

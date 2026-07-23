@@ -1,0 +1,1 @@
+Which miRNAs participate in biological processes that are part of GO terms whose labels contain “DNA”, and in which cellular components do those GO terms occur? Return the GO term label, the biological process label, the miRNA label, and the cellular component label.

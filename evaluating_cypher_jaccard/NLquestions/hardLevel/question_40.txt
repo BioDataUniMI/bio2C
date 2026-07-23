@@ -1,0 +1,1 @@
+List target genes regulated by miRNAs transcribed from genes having genomic coordinates on chromosome 17, and identify the sources of both the mentioned relationships. Return the label of: both genes, miRNA and the relationships sources.

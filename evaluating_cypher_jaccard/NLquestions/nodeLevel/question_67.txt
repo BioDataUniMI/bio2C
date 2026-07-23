@@ -1,0 +1,1 @@
+Find GO terms whose labels mention 'transport of viral material t' and descriptions mention 'membrane'.

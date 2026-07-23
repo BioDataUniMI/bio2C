@@ -1,0 +1,20 @@
+{
+  "cc.Label": "cyclin-dependent protein kinase holoenzyme complex",
+  "cc.ID": "GO:0000307"
+}
+
+{
+  "cc.Label": "cAMP-dependent protein kinase complex",
+  "cc.ID": "GO:0005952"
+}
+
+{
+  "cc.Label": "calcium- and calmodulin-dependent protein kinase complex",
+  "cc.ID": "GO:0005954"
+}
+
+{
+  "cc.Label": "cyclin-dependent protein kinase activating kinase holoenzyme complex",
+  "cc.ID": "GO:0019907"
+}
+

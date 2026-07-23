@@ -1,0 +1,7 @@
+{
+  "miRNA": "microRNA hsa-mir-4723 precursor",
+  "TargetGene": "WNT7A",
+  "TargetGeneLength": 63814,
+  "GeneLength": 81
+}
+

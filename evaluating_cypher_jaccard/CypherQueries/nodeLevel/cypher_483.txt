@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'host cell' AND (cc.Label CONTAINS 'antibodies' OR cc.Description CONTAINS 'antibodies') RETURN cc.Label AS CellularComponent, cc.Description

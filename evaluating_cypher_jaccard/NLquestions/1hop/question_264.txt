@@ -1,0 +1,1 @@
+Which diseases contain the string 'neutropenia of adults' (case-insensitive) in their label and have phenotype?

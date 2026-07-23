@@ -1,0 +1,1 @@
+Identify  GO terms whose label include RNA, excluding rRNA and lrRNA. that result in transport across cellular components.

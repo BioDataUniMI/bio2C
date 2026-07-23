@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[r:location_of]->(m:miRNA)-[:expressed_in]->(d:Disease) WHERE cc.Label CONTAINS 'nuclear' AND r.Source = ['miRPathDB'] RETURN cc.Label AS CellularComponent, m.Label AS miRNA, d.Label AS Disease, r.Source AS RelationSource

@@ -1,0 +1,1 @@
+Return the first half of the miRNA sequences that are under-expressed in the autoimmune disease labeled 'osteoarthritis'. Return the miRNA label, disease, and first half of the sequence.

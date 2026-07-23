@@ -1,0 +1,7 @@
+{
+  "BiologicalProcess": "neurotransmitter secretion",
+  "PartGO": "synaptic vesicle exocytosis",
+  "OccursInGO": "presynapse",
+  "PrimaryInputGO": "substance with neurotransmitter role"
+}
+

@@ -1,0 +1,43 @@
+{
+  "m.Sequence": "UCUCCCAACCCUUGUACCAGUG",
+  "m.Genomic_coordinates": [
+    "chr19:49500832-49500853-"
+  ],
+  "bp.Label": "regulation of vascular endothelial cell proliferation"
+}
+
+{
+  "m.Sequence": "AUCACAUUGCCAGGGAUUUCC",
+  "m.Genomic_coordinates": [
+    "chr19:13836595-13836615-"
+  ],
+  "bp.Label": "regulation of sprouting angiogenesis"
+}
+
+{
+  "m.Sequence": "CCCAGUGUUCAGACUACCUGUUC",
+  "m.Genomic_coordinates": [
+    "chr19:10817469-10817491-",
+    "chr1:172144592-172144614-"
+  ],
+  "bp.Label": "regulation of angiogenesis"
+}
+
+{
+  "m.Sequence": "CCCAGUGUUCAGACUACCUGUUC",
+  "m.Genomic_coordinates": [
+    "chr19:10817469-10817491-",
+    "chr1:172144592-172144614-"
+  ],
+  "bp.Label": "regulation of cardiac muscle cell proliferation"
+}
+
+{
+  "m.Sequence": "CCCAGUGUUCAGACUACCUGUUC",
+  "m.Genomic_coordinates": [
+    "chr19:10817469-10817491-",
+    "chr1:172144592-172144614-"
+  ],
+  "bp.Label": "regulation of connective tissue replacement"
+}
+

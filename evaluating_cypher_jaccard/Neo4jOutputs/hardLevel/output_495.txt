@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Phenotype": "Pancreatic adenocarcinoma",
+  "Context": [
+    "panc-1 cell"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-183-5p",
+  "Phenotype": "Pancreatic adenocarcinoma",
+  "Context": [
+    "panc-1 cell"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-675-5p",
+  "Phenotype": "Pancreatic adenocarcinoma",
+  "Context": [
+    "panc-1 cell"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-151a-5p",
+  "Phenotype": "Pancreatic adenocarcinoma",
+  "Context": [
+    "panc-1 cell"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "Phenotype": "Pancreatic adenocarcinoma",
+  "Context": [
+    "panc-1 cell"
+  ]
+}
+

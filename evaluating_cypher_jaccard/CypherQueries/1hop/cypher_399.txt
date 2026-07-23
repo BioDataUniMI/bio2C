@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'synapse' AND g.Label CONTAINS 'assembly' AND NOT (g)<-[:directly_regulates]-(:Molecular_function) RETURN g.Label AS GO

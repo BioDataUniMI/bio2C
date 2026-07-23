@@ -1,0 +1,1 @@
+Which cardiovascular diseases are caused by disruption of molecular functions, and how many distinct molecular functions are linked to each disease? Return each cardiovascular disease with the count of associated molecular functions, ranked by the highest count.

@@ -1,0 +1,1 @@
+Which phenotypes are shared between the disease labeled as 'X-linked Emery-Dreifuss muscular dystrophy' and the disease labeled as 'AIDS phobia'? Which cardiovascular diseases share features with 'X-linked Emery-Dreifuss muscular dystrophy'? Return the shared phenotype and the cardiovascular disease labels.

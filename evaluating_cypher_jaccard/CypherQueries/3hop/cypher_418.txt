@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(nd:Neurodegenerative_disease) RETURN COUNT(DISTINCT g) AS RegulatedGeneCount

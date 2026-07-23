@@ -1,0 +1,1 @@
+Count the number of phenotypes for each autoimmune disease whose label contains “syndrom”, where the disease has phenotypes that express miRNAs participating in biological processes. Return the autoimmune disease label and the distinct phenotype count, ordered by phenotype count descending.

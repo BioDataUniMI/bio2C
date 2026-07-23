@@ -1,0 +1,35 @@
+{
+  "SourceGene": "MIR1185-1",
+  "Pre_miRNA": "microRNA hsa-mir-1185 precursor (hsa-mir-1185-1)",
+  "miRNA": "hsa-miR-1185-5p",
+  "TargetGene": "PRELID3BP10"
+}
+
+{
+  "SourceGene": "MIR3924",
+  "Pre_miRNA": "microRNA hsa-mir-3924 precursor",
+  "miRNA": "hsa-miR-3924",
+  "TargetGene": "PRELID3BP10"
+}
+
+{
+  "SourceGene": "MIR33B",
+  "Pre_miRNA": "microRNA hsa-mir-33b precursor",
+  "miRNA": "hsa-miR-33b-5p",
+  "TargetGene": "PRELID3BP10"
+}
+
+{
+  "SourceGene": "MIR660",
+  "Pre_miRNA": "microRNA hsa-mir-660 precursor",
+  "miRNA": "hsa-miR-660-5p",
+  "TargetGene": "PRELID3BP10"
+}
+
+{
+  "SourceGene": "MIR3679",
+  "Pre_miRNA": "microRNA hsa-mir-3679 precursor",
+  "miRNA": "hsa-miR-3679-5p",
+  "TargetGene": "PRELID3BP10"
+}
+

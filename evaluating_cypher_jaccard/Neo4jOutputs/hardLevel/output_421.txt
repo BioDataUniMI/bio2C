@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-150 precursor",
+  "normalized_GC_content": 0.6666666666666666
+}
+
+{
+  "miRNA": "hsa-miR-4297",
+  "normalized_GC_content": 0.5625
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "normalized_GC_content": 0.5238095238095238
+}
+
+{
+  "miRNA": "hsa-miR-342-3p",
+  "normalized_GC_content": 0.5217391304347826
+}
+
+{
+  "miRNA": "hsa-miR-302c-5p",
+  "normalized_GC_content": 0.5
+}
+

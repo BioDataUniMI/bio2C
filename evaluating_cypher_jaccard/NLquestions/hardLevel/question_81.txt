@@ -1,0 +1,1 @@
+Consider pre-miRNAs expressed in the phenotype labeled as 'Asthma'. List all distinct chromosomes from its genomic coordinates. Return the pre-miRNA URI and the set of unique chromosomes.

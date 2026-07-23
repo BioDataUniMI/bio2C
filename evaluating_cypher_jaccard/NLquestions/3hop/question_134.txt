@@ -1,0 +1,1 @@
+Identify cancers whose label contains 'benign' that express miRNAs which regulate the activity of the gene CCNG1, where CCNG1 causes or contributes to diseases whose labels contain ‘lung’. Return the cancer label, miRNA label, gene label, and disease label

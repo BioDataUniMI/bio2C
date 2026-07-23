@@ -1,0 +1,1 @@
+Which are the top 5 GO terms whose cellular components are location of miRNAs that regulate the highest number of distinct genes? In case of ties, order GO terms alphabetically. Return the GO term label and the gene count.

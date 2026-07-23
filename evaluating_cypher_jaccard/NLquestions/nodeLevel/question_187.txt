@@ -1,0 +1,1 @@
+Retrieve cellular components whose label contains 'mitochondr' and description mentions 'matrix'.

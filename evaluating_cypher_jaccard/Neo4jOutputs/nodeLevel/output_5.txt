@@ -1,0 +1,56 @@
+{
+  "Phenotype": "Portal inflammation",
+  "Synonyms": [
+    "門脈炎症",
+    "Inflamación portal",
+    "门脉区炎症",
+    "Portální zánět"
+  ]
+}
+
+{
+  "Phenotype": "Urinary bladder inflammation",
+  "Synonyms": [
+    "Inflammation de la vessie urinaire",
+    "Inflamación de la vejiga urinaria",
+    "膀胱炎症",
+    "İdrar kesesi inflamasyonu",
+    "Blaasontsteking",
+    "膀胱炎",
+    "Zánět močového měchýře"
+  ]
+}
+
+{
+  "Phenotype": "Neuroinflammation",
+  "Synonyms": [
+    "神経炎症",
+    "Neurozánět",
+    "神经炎症",
+    "Neuroinflamación"
+  ]
+}
+
+{
+  "Phenotype": "Hepatic lobular inflammation",
+  "Synonyms": [
+    "肝小叶炎症",
+    "肝小葉炎症",
+    "Inflamación lobulillar hepática",
+    "Zánět jaterních lalůčků"
+  ]
+}
+
+{
+  "Phenotype": "Gastrointestinal inflammation",
+  "Synonyms": [
+    "Maladie inflammatoire gastrointestinale",
+    "Gastrointestinální zánět",
+    "胃腸炎症",
+    "Inflamación gastrointestinal",
+    "Gastro-intestinale inflammatie",
+    "胃肠道炎症",
+    "Gastrointestinal inflamasyon"
+  ]
+}
+

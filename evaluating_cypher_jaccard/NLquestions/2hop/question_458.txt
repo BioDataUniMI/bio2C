@@ -1,0 +1,1 @@
+Identify biological processes whose disruption is caused by diseases that are characterized by the phenotype labeled as 'Downturned corners of mouth' or the one labeled as 'Abnormal foot morphology'.

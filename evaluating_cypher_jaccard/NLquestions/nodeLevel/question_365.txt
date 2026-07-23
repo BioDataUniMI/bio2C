@@ -1,0 +1,1 @@
+Find the mental disease whose ID contains '122'.

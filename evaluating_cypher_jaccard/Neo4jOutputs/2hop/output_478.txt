@@ -1,0 +1,25 @@
+{
+  "Regulating_Function": "enzyme inhibitor activity",
+  "miRNA": "hsa-miR-25-3p"
+}
+
+{
+  "Regulating_Function": "enzyme inhibitor activity",
+  "miRNA": "hsa-miR-21-5p"
+}
+
+{
+  "Regulating_Function": "enzyme inhibitor activity",
+  "miRNA": "hsa-miR-16-5p"
+}
+
+{
+  "Regulating_Function": "enzyme inhibitor activity",
+  "miRNA": "hsa-miR-302b-3p"
+}
+
+{
+  "Regulating_Function": "enzyme inhibitor activity",
+  "miRNA": "hsa-miR-17-3p"
+}
+

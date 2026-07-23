@@ -1,0 +1,30 @@
+{
+  "Neurodegenerative_Disease": "acute hemorrhagic leukoencephalitis",
+  "Infectious_Disease": "acute hemorrhagic encephalitis",
+  "Phenotype": "Abnormal bleeding"
+}
+
+{
+  "Neurodegenerative_Disease": "geniculate herpes zoster",
+  "Infectious_Disease": "herpes zoster",
+  "Phenotype": "Paresthesia"
+}
+
+{
+  "Neurodegenerative_Disease": "bulbar polio",
+  "Infectious_Disease": "paralytic poliomyelitis",
+  "Phenotype": "Paralysis"
+}
+
+{
+  "Neurodegenerative_Disease": "bulbospinal polio",
+  "Infectious_Disease": "paralytic poliomyelitis",
+  "Phenotype": "Paralysis"
+}
+
+{
+  "Neurodegenerative_Disease": "spinal polio",
+  "Infectious_Disease": "paralytic poliomyelitis",
+  "Phenotype": "Paralysis"
+}
+

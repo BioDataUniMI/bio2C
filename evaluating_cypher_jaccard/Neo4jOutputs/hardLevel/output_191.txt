@@ -1,0 +1,5 @@
+{
+  "gene": "PCDH15",
+  "TTTT_count": 23106
+}
+

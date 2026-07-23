@@ -1,0 +1,1 @@
+MATCH (cv:Cardiovascular_disease)-[:disease_has_major_feature]->(p:Phenotype) WHERE NOT cv:Cancer RETURN p.Label AS Phenotype, cv.Label AS CardiovascularDisease

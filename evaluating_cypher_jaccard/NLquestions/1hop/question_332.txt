@@ -1,0 +1,1 @@
+Find cellular components that are not part of any other cellular component with the word 'pathways' mentioned in the description.

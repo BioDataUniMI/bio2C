@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA {Label:'hsa-miR-125b-5p'})-[:located_in]->(cc:Cellular_component) WHERE c.Label CONTAINS 'breast' RETURN c.Label AS Cancer, cc.Label AS CellularComponent, m.Label AS miRNA

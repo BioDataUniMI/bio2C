@@ -1,0 +1,1 @@
+Which are the phenotypes of diseases that are subclasses of neurodegenerative diseases having a phenotype containing the string 'Upper limb pain' in the label and whose disease label contains 'spastic paraplegia 90A'? Return the disease phenotype label, the disease label, the neurodegenerative superclass label, and the superclass phenotype label.

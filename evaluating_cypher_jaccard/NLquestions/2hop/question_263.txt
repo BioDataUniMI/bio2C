@@ -1,0 +1,1 @@
+Identify miRNAs expressed by phenotypes of diseases whose label contains the word 'bronchial'. Return the label of: the disease, phenotype, and miRNA.

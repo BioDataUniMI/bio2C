@@ -1,0 +1,1 @@
+Find phenotypes whose labels contain the word 'Childhood' that are phenotypes of diseases containing the word 'lupus' in their labels.

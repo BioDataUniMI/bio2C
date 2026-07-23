@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE toLower(d.Label) CONTAINS 'schizophrenia' RETURN  d.Label AS Disease, p.Label AS Phenotype

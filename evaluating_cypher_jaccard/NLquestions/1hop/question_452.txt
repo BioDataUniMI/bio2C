@@ -1,0 +1,1 @@
+Identify cellular components related to the nucleus, either by label or synonym, and the GO terms that are bounding layers of these components.

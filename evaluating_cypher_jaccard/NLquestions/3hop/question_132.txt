@@ -1,0 +1,1 @@
+Count the number of diseases whose labels contain 'lung' that are caused or contributed to by genes regulated by miRNAs expressed in cancers whose label contain 'breast'. Return the total count of distinct diseases.

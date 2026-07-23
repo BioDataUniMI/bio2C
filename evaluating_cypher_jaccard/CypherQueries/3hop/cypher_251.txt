@@ -1,0 +1,1 @@
+MATCH (d:Cardiovascular_disease)-[:subclassof]->(c:Cancer {Label: 'Beckwith-Wiedemann syndrome'})-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN d.Label AS CardiovascularDisease, p.Label AS Phenotype, go.Label AS GOterm

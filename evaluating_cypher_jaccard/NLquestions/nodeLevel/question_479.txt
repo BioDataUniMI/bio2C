@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing 'synaptic' and mention a distance expressed as a number followed by 'nm' in their description? Return their label, description and ID.

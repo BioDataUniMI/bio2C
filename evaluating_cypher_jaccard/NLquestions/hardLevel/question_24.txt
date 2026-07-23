@@ -1,0 +1,1 @@
+Find the top three (miRNA, cellular component) pairs where the miRNA is active in a cellular component and its sequence contains the substring 'GA' at least twice. Rank the pairs by descending miRNA sequence length, breaking ties alphabetically by miRNA label and then by cellular component label. Return the miRNA sequence, its sequence length, and the cellular component label.

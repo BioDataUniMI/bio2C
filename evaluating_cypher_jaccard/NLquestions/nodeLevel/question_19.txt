@@ -1,0 +1,1 @@
+Which genes contain 'MIR1' (case-insensitive) in their label and have at least one genomic coordinate on chromosome 7?

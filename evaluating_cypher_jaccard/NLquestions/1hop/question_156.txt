@@ -1,0 +1,1 @@
+List all miRNAs that have the GO 'cell motility' as function. Return the miRNA label and the source of the information for the relationship.

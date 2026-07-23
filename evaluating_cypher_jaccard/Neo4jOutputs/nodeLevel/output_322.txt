@@ -1,0 +1,16 @@
+{
+  "DiseaseLabel": "hypocatalasia, dog"
+}
+
+{
+  "DiseaseLabel": "cataract, FYCO1-related, dog"
+}
+
+{
+  "DiseaseLabel": "early onset cataract HSF4-related, dog"
+}
+
+{
+  "DiseaseLabel": "masticatory muscle myositis, dog"
+}
+

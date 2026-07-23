@@ -1,0 +1,1 @@
+In which neurodegenerative diseases is the miRNA 'hsa-miR-433-3p' expressed? Through which cellular components do these miRNAs participate in biological processes? Return the neurodegenerative disease label, the miRNA label, the cellular component label, and the biological process label.

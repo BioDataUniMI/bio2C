@@ -1,0 +1,12 @@
+{
+  "Gene": "KISS1R",
+  "Disease": "precocious puberty",
+  "GOterm": "endocrine process"
+}
+
+{
+  "Gene": "MKRN3",
+  "Disease": "precocious puberty",
+  "GOterm": "endocrine process"
+}
+

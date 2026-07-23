@@ -1,0 +1,1 @@
+List miRNAs that are expressed by diseases, have no annotated functions, and whose labels end with 'a-3p'. Return both the miRNA labels and their sequences.

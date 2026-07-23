@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-892c precursor",
+  "LongestGene": "STAG3L5P-PVRIG2P-PILRB",
+  "MaxGeneLabelLength": 22
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-760 precursor",
+  "LongestGene": "STAG3L5P-PVRIG2P-PILRB",
+  "MaxGeneLabelLength": 22
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-3614 precursor",
+  "LongestGene": "STAG3L5P-PVRIG2P-PILRB",
+  "MaxGeneLabelLength": 22
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-4676 precursor",
+  "LongestGene": "STAG3L5P-PVRIG2P-PILRB",
+  "MaxGeneLabelLength": 22
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-3612 precursor",
+  "LongestGene": "LINC00265-2P",
+  "MaxGeneLabelLength": 12
+}
+

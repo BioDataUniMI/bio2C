@@ -1,0 +1,1 @@
+Identify the precursor miRNAs transcribed from 'MIR103B2' gene and the corresponding mature miRNAs that  transcribe from the gene.

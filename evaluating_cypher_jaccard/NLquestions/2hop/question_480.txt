@@ -1,0 +1,1 @@
+Find all biological processes that results in formation of anatomical entity represented by a GO term,  where that GO term has parts that are other GO terms. Return the label of the biological process and the labels of both GO terms

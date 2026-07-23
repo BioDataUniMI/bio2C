@@ -1,0 +1,1 @@
+List the label and the ID of all GO terms whose label contain 'apoptosis'.

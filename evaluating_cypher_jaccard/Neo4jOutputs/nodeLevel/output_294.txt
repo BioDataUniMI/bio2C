@@ -1,0 +1,5 @@
+{
+  "GeneCount": 43,
+  "AverageSequenceLength": 34197.34883720931
+}
+

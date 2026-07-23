@@ -1,0 +1,12 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "BiologicalProcess": "apoptotic signaling pathway"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "BiologicalProcess": "apoptotic signaling pathway"
+}
+

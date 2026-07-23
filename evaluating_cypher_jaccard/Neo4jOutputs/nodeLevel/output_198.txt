@@ -1,0 +1,62 @@
+{
+  "p.Label": "Distal aortic arch hypoplasia",
+  "p.Synonym": [
+    "Hipoplasia del arco aórtico distal",
+    "遠位大動脈弓低形成",
+    "远端主动脉弓发育不全",
+    "Hypoplazie distálního aortálního oblouku"
+  ]
+}
+
+{
+  "p.Label": "Coarctation in the transverse aortic arch",
+  "p.Synonym": [
+    "Coartación en el arco aórtico transverso",
+    "横列大動脈弓部梗塞",
+    "Coarctation de l'arc aortique transverse",
+    "Transvers aortik arkta koarktasyon",
+    "横向主动脉弓缩窄",
+    "Koarktace v transverzální části aortálního oblouku"
+  ]
+}
+
+{
+  "p.Label": "Abnormal branching pattern of left aortic arch",
+  "p.Synonym": [
+    "Ramification anormale de l'arc aortique gauche",
+    "左大動脈弓の異常分枝パターン",
+    "左主动脉弓分支异常",
+    "Patrón de ramificación anormal del arco aórtico izquierdo",
+    "Sol aortik arkın anormal dallanma paterni",
+    "Abnormální větvení levého aortálního oblouku"
+  ]
+}
+
+{
+  "p.Label": "Aortic arch aneurysm",
+  "p.Synonym": [
+    "Aneurisma dell'arco aortico",
+    "Aortenbogenaneurysma",
+    "Dilatación del arco aórtico",
+    "Anevrysme de l'arche aortique",
+    "主动脉弓部瘤",
+    "Aneuryzma aortálního oblouku",
+    "大動脈弓拡張",
+    "Aortaboog aneurysma",
+    "Aort yayı dilatasyonu"
+  ]
+}
+
+{
+  "p.Label": "Interrupted aortic arch type C",
+  "p.Synonym": [
+    "C型大動脈弓離断",
+    "Interrupción del arco aórtico tipo c",
+    "Onderbroken aortaboog type C",
+    "Arche aortique type C interrompu",
+    "C型主动脉弓断离",
+    "Kesintiye uğramış aortik ark tip C",
+    "Přerušení aortálního oblouku, typ C"
+  ]
+}
+

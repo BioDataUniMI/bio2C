@@ -1,0 +1,25 @@
+{
+  "d.Label": "anti-p200 pemphigoid",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0018688"
+}
+
+{
+  "d.Label": "anti-NMDA receptor encephalitis",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0021081"
+}
+
+{
+  "d.Label": "anti-MDA5 dermatomyositis",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_1010064"
+}
+
+{
+  "d.Label": "anti-neutrophil antibody associated vasculitis",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0005435"
+}
+
+{
+  "d.Label": "anti-Mi2 dermatomyositis",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_1010065"
+}
+

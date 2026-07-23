@@ -1,0 +1,15 @@
+{
+  "Cancer_Type": "Breast carcinoma",
+  "pre_miRNA_count": 143
+}
+
+{
+  "Cancer_Type": "Lung adenocarcinoma",
+  "pre_miRNA_count": 122
+}
+
+{
+  "Cancer_Type": "Thyroid carcinoma",
+  "pre_miRNA_count": 3
+}
+

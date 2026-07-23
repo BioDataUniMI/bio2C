@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease {Label:'cardiomyopathy'}) RETURN m.Label AS miRNA

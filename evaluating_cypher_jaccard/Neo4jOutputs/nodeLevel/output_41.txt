@@ -1,0 +1,25 @@
+{
+  "GO": "mitochondrial processing peptidase complex",
+  "Description": "a protein complex consisting of a regulatory subunit (alpha-mpp) and a catalytic subunit (beta-mp..."
+}
+
+{
+  "GO": "mitochondrial [2Fe-2S] assembly complex",
+  "Description": "a protein complex capable of forming 2fe-2s clusters in mitochondria. in humans it consists of is..."
+}
+
+{
+  "GO": "outer mitochondrial membrane protein complex",
+  "Description": "any protein complex that is part of the outer mitochondrial membrane."
+}
+
+{
+  "GO": "extrinsic component of matrix side of mitochondrial inner membrane",
+  "Description": "the component of the matrix side of the mitochondrial inner membrane consisting of gene products ..."
+}
+
+{
+  "GO": "mitochondrial [4Fe-4S] assembly complex",
+  "Description": "a protein complex capable of condensing two 2fe-2s clusters into one 4fe-4s center in mitochondri..."
+}
+

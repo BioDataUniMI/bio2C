@@ -1,0 +1,1 @@
+Find cardiovascular diseases whose ID ends with '555'. Return all the properties (i.e., return the entire node).

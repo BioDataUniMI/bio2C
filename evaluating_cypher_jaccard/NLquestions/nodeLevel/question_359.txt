@@ -1,0 +1,1 @@
+Retrieve the autoimmune diseases whose label contains 'diabete' and whose description mentions 'chromosome 11'. Return their label, description, and URI.

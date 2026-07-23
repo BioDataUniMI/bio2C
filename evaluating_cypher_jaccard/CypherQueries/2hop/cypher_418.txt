@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:participates_in]->(go:GO) WHERE go.Label CONTAINS 'corticosteroid' RETURN c.Label, m.Label, go.Label

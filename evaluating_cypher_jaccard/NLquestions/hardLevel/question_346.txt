@@ -1,0 +1,1 @@
+Which miRNA-disease pairs are connected through exactly 11 distinct genes with activity regulated by the miRNA that cause or contribute to the disease? Return the miRNA label, disease label, and the number of mediator genes.

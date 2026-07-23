@@ -1,0 +1,30 @@
+{
+  "m.Label": "microRNA hsa-mir-130a precursor",
+  "pre.Label": "microRNA hsa-mir-130b precursor",
+  "ad.Label": "osteoarthritis"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-106a precursor",
+  "pre.Label": "microRNA hsa-mir-18a precursor",
+  "ad.Label": "Sjogren syndrome"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-106a precursor",
+  "pre.Label": "microRNA hsa-mir-18a precursor",
+  "ad.Label": "rheumatoid arthritis"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-106a precursor",
+  "pre.Label": "microRNA hsa-mir-18a precursor",
+  "ad.Label": "juvenile dermatomyositis"
+}
+
+{
+  "m.Label": "microRNA hsa-mir-106a precursor",
+  "pre.Label": "microRNA hsa-mir-18a precursor",
+  "ad.Label": "gout"
+}
+

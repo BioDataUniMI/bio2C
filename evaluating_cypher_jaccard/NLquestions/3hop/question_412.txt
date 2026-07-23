@@ -1,0 +1,1 @@
+Identify molecular functions containing the word 'RNA' or 'DNA' that are part of biological processes in which miRNAs characterized by a label ending with a number and expressed in phenotypes participate. Return the phenotype, miRNA, biological process, and molecular function labels.

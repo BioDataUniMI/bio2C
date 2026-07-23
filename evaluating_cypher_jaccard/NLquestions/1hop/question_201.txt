@@ -1,0 +1,1 @@
+Consider the miRNA hsa-miR-21-5p. What autoimmune diseases is it connected to? What is the type of these relationships (hint: use TYPE(relationship))?

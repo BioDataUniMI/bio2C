@@ -1,0 +1,6 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-648 precursor",
+  "miRNA": "hsa-miR-648",
+  "GOterm": "extracellular space"
+}
+

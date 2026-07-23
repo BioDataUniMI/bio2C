@@ -1,0 +1,1 @@
+Identify diseases that express miRNAs located in cellular components whose label contains the word 'nuclear', including only location relationships sourced exclusively from 'miRPathDB'. Return the label of the cellular component, miRNA, and disease, along with the relation sources.

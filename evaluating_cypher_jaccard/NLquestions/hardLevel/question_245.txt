@@ -1,0 +1,1 @@
+Consider 'hsa-miR-574-5p'. It is part of GO terms. Calculate the percentage of 'GU' dinucleotides in its sequence. Return the miRNA label, sequence, and the percentage of 'GU' dinucleotides.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN c.Label AS Disease, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates

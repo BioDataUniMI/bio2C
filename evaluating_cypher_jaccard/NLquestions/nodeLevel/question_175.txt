@@ -1,0 +1,1 @@
+Which diseases mention 'disability syndrome' in the label and 'recessive' in the description? Return only the gene label and ID.

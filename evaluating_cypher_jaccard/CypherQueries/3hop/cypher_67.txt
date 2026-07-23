@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease)-[:disease_has_basis_in_feature]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(g:GO {Label:'inflammatory response'}) RETURN i.Label AS infectious_disease, d.Label AS related_disease, p.Label AS phenotype

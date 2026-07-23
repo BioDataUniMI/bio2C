@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'MIR1827'})-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA) RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, pre.Genomic_coordinates AS Pre_miRNA_GenomicCoordinates, pre.Sequence AS Pre_miRNA_Sequence

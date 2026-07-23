@@ -1,0 +1,1 @@
+For the cellular component labeled as 'nuclear lumen', identify the GO terms it is part of, and the number of miRNAs located within it. 

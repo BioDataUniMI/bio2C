@@ -1,0 +1,1 @@
+Which miRNAs: 1) act upstream of the GO term labeled as 'blood vessel diameter maintenance'; 2) enable a GO term; 3) are not involved in another GO term? Return the labels of the miRNA and all GO terms.

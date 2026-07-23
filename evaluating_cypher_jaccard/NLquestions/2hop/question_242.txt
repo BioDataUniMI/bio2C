@@ -1,0 +1,1 @@
+Find pre-miRNAs that are in a similarity relationship with miRNAs located in the cellular component 'extracellular exosome'.

@@ -1,0 +1,1 @@
+Which genes whose activity is regulated by the 'hsa-miR-29a-3p' miRNA, genetically interact with other genes with sequence length less than 2,000 nucleotides that further genetically interact with other genes with sequence length greater than 5,000 nucleotides? Return the label of all genes.

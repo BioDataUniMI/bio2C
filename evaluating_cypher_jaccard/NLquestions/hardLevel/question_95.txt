@@ -1,0 +1,1 @@
+Find miRNAs that are under-expressed in autoimmune diseases but over-expressed in cardiovascular diseases. Return the miRNA label, type of expression in each disease and both diseases labels.

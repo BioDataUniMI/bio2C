@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease)-[r:realized_in_response_to_stimulus]->(cc:Cellular_component) RETURN ad.Label, ad.URI, cc.Label, cc.URI

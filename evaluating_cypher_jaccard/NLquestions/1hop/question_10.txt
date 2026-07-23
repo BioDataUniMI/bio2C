@@ -1,0 +1,1 @@
+Find miRNAs that develop from another miRNA, where the first miRNA's label ends with the character 'z', 'f', or 'w'.

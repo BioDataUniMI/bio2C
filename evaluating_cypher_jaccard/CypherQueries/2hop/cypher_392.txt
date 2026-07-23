@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE (d)<-[:causes_or_contributes_to_condition]-(:Gene)<-[:regulates_activity_of]-(:miRNA) RETURN AVG(SIZE([(d)-[:has_phenotype]->(p:Phenotype) | p])) AS AvgPhenotypes

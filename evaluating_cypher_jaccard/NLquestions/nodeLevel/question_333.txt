@@ -1,0 +1,1 @@
+Find the cancer that has the ID 'MONDO:0200000' and return all its properties (i.e., return the entire node).

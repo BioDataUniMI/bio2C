@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(g:GO) WHERE g.Label CONTAINS 'cell growth' RETURN g.Label AS GOTerm, COUNT(m) AS miRNAcount

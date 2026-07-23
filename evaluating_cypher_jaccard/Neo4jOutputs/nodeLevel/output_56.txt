@@ -1,0 +1,20 @@
+{
+  "g.Label": "regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction"
+}
+
+{
+  "g.Label": "postsynaptic neurotransmitter receptor cycle"
+}
+
+{
+  "g.Label": "synaptic vesicle recycling"
+}
+
+{
+  "g.Label": "host cell postsynaptic membrane"
+}
+
+{
+  "g.Label": "synapse"
+}
+

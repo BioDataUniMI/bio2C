@@ -1,0 +1,1 @@
+Return all the information of the phenotype that has the Spanish synonym 'Fractura de olécranon'.

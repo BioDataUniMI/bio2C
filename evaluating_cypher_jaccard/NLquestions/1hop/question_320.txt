@@ -1,0 +1,1 @@
+Return the diseases labeled as 'tachycardia' lacking any 'disease_triggers' relationships with biological processes.

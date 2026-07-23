@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'orofacial' and have phenotypes characterizing GO terms that are not part of any biological process. Return the disease label, phenotype label, and GO term label.

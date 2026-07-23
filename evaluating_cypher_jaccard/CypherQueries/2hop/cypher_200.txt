@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component) RETURN nd.Label AS NeurodegenerativeDisease, m.Label AS miRNA, cc.Label AS CellularComponent

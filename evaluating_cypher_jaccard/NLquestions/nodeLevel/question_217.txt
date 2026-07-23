@@ -1,0 +1,1 @@
+Which phenotypes have labels shorter than 5 characters?

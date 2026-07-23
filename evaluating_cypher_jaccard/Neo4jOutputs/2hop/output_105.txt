@@ -1,0 +1,20 @@
+{
+  "GOTerm": "response to light stimulus",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "GOTerm": "cellular response to peptide hormone stimulus",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "GOTerm": "cellular response to cytokine stimulus",
+  "miRNA": "hsa-miR-340-5p"
+}
+
+{
+  "GOTerm": "cellular response to hormone stimulus",
+  "miRNA": "hsa-miR-340-5p"
+}
+

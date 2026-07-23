@@ -1,0 +1,1 @@
+Which miRNAs have sequences containing both 'CUUU' and 'CUCUCU' and have as function GO terms that have as a target start location a GO term and a target end location a GO term? Return the miRNA and the GO terms labels.

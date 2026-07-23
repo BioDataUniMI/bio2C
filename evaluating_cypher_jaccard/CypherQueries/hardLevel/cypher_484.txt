@@ -1,0 +1,1 @@
+MATCH (a:Molecular_function)-[r]->(b:Molecular_function) WHERE TYPE(r) IN ['subclassof','part_of'] WITH a, b, COLLECT(TYPE(r)) AS relationship_types WHERE SIZE(relationship_types) > 1 RETURN a.Label AS source_label, b.Label AS target_label, relationship_types

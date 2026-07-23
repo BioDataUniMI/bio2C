@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'inflammation' AND ANY(syn IN p.Synonym WHERE NOT syn =~ '.*[A-Za-z].*') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

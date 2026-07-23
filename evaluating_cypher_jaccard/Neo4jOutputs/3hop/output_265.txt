@@ -1,0 +1,28 @@
+{
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p",
+  "BiologicalProcess": "intracellular signal transduction",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p",
+  "BiologicalProcess": "intracellular cholesterol transport",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p",
+  "BiologicalProcess": "intracellular sterol transport",
+  "CellularComponent": "intracellular anatomical structure"
+}
+
+{
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p",
+  "BiologicalProcess": "intracellular lipid transport",
+  "CellularComponent": "intracellular anatomical structure"
+}
+

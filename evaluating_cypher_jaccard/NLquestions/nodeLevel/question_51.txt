@@ -1,0 +1,1 @@
+Identify the molecular functions whose labels spotlight 'kinase binding' but do not contain 'serine/threonine'.

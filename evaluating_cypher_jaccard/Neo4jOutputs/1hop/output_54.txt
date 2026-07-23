@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Source": [
+    "ncRDeathDB"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-874-5p",
+  "Source": [
+    "ncRDeathDB"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-874-3p",
+  "Source": [
+    "ncRDeathDB"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Source": [
+    "ncRDeathDB"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-155-3p",
+  "Source": [
+    "ncRDeathDB"
+  ]
+}
+

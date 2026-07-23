@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases subclasses of other diseases that have phenotypes directed toward the biological process 'inflammatory response'. Return the neurodegenerative disease label, the parent disease label, and the phenotype label.

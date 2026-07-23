@@ -1,0 +1,1 @@
+Which biological processes starting with the letter 'L' have the cellular component labeled 'vacuolar lumen' as their target end location? Include ONLY process label and description, along with the sources confirming the information in the output.

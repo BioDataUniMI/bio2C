@@ -1,0 +1,1 @@
+Count phenotypes reported for each cardiovascular disease containing the string 'syndrome 7'.

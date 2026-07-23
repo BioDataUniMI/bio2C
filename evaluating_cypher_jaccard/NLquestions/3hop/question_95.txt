@@ -1,0 +1,1 @@
+Identify the pre-miRNAs that develop into miRNAs which regulate the activity of genes causing or contributing to the phenotype labeled as 'Rubral tremor'. Please consider only genes whose labels have more than four characters. Return the pre-miRNA label, the miRNA label, and the gene label.

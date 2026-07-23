@@ -1,0 +1,1 @@
+Which cellular components, that are part of at least one GO term, participate in other GO terms where miRNAs are located in the first GO terms? Return the miRNA label, the GO term containing the component, the cellular component label, and the GO term it participates in.

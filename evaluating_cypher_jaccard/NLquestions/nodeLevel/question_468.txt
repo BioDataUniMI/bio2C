@@ -1,0 +1,1 @@
+Find the phenotypes that have the Spanish synonym 'Fontanela hundida'. Return their label, synonyms, and URI.

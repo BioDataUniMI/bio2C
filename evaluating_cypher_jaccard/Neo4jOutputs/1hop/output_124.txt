@@ -1,0 +1,8 @@
+{
+  "Disease": "toxoplasmosis",
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Genomic_coordinates": [
+    "chr1:207801852-207801939-"
+  ]
+}
+

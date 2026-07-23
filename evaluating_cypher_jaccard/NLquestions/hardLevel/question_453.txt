@@ -1,0 +1,1 @@
+Which miRNAs share the same sequence length greater than 100 and contain the motif 'AAAA'? Return groups of miRNAs with identical sequence lengths, sorted by sequence length in ascending order..

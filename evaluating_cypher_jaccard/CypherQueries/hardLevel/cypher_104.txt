@@ -1,0 +1,1 @@
+MATCH (:miRNA)-[r:under_expressed_in]->(:Disease) RETURN MIN(r.FDR) AS min_FDR, MAX(r.FDR) AS max_FDR, (MAX(r.FDR) - MIN(r.FDR)) AS FDR_difference

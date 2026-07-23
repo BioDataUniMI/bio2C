@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(:Neurodegenerative_disease) UNWIND m.Genomic_coordinates AS coord WITH m, COUNT(coord) AS nCoords RETURN m.Label AS miRNA, nCoords ORDER BY nCoords DESC LIMIT 8

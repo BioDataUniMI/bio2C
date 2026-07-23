@@ -1,0 +1,1 @@
+Which cellular components whose labels contain 'nucleus' are not part of any other cellular component?

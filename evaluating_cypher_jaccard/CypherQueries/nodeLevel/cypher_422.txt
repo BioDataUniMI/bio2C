@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'envenomation' AND g.Label CONTAINS 'negative regulation' RETURN g.Label

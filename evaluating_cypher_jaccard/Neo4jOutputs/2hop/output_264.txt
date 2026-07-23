@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-5p"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "microRNA hsa-mir-148a precursor"
+}
+

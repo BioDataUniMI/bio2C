@@ -1,0 +1,1 @@
+Find diseases that cause disruption of biological processes containing the string 'thiamine transport' in their label.

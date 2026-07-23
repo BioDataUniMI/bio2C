@@ -1,0 +1,1 @@
+Find biological processes whose label or description contains the word 'amine' that result in transport to, from, or within GO terms. Return the processes' label, description, and GO terms' label.

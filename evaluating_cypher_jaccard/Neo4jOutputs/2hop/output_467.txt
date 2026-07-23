@@ -1,0 +1,20 @@
+{
+  "Gene": "MIR1202",
+  "Neurodegenerative_Disease": "Alzheimer disease"
+}
+
+{
+  "Gene": "MIR1202",
+  "Neurodegenerative_Disease": "Alzheimer disease type 1"
+}
+
+{
+  "Gene": "MIR584",
+  "Neurodegenerative_Disease": "multiple sclerosis"
+}
+
+{
+  "Gene": "MIR549A",
+  "Neurodegenerative_Disease": "multiple sclerosis"
+}
+

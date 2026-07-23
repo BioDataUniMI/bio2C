@@ -1,0 +1,26 @@
+{
+  "m.Label": "microRNA hsa-mir-3690 precursor (hsa-mir-3690-1%2C hsa-mir-3690-2)",
+  "m.Genomic_coordinates": [
+    "chrX:1293918-1293992+",
+    "chrY:1293918-1293992+"
+  ],
+  "p.Label": "microRNA hsa-mir-3690 precursor (hsa-mir-3690-1%2C hsa-mir-3690-2)",
+  "p.Genomic_coordinates": [
+    "chrX:1293918-1293992+",
+    "chrY:1293918-1293992+"
+  ]
+}
+
+{
+  "m.Label": "microRNA hsa-mir-6089 precursor (hsa-mir-6089-1%2C hsa-mir-6089-2)",
+  "m.Genomic_coordinates": [
+    "chrX:2609191-2609254+",
+    "chrY:2609191-2609254+"
+  ],
+  "p.Label": "microRNA hsa-mir-6089 precursor (hsa-mir-6089-1%2C hsa-mir-6089-2)",
+  "p.Genomic_coordinates": [
+    "chrX:2609191-2609254+",
+    "chrY:2609191-2609254+"
+  ]
+}
+

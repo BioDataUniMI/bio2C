@@ -1,0 +1,30 @@
+{
+  "GO": "cardiac chamber development",
+  "Parent_GO": "heart development",
+  "miRNA": "microRNA hsa-mir-21 precursor"
+}
+
+{
+  "GO": "cardiac chamber development",
+  "Parent_GO": "heart development",
+  "miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-1)"
+}
+
+{
+  "GO": "cardiac chamber development",
+  "Parent_GO": "heart development",
+  "miRNA": "microRNA hsa-mir-499b precursor"
+}
+
+{
+  "GO": "cardiac chamber development",
+  "Parent_GO": "heart development",
+  "miRNA": "microRNA hsa-mir-27b precursor"
+}
+
+{
+  "GO": "cardiac chamber development",
+  "Parent_GO": "heart development",
+  "miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-2)"
+}
+

@@ -1,0 +1,28 @@
+{
+  "GeneLabel": "CDK1",
+  "GeneIDs": "Ensembl:ENSG00000170312",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "GeneLabel": "CDKN2A",
+  "GeneIDs": "Ensembl:ENSG00000147889",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma"
+}
+
+{
+  "GeneLabel": "CDK1",
+  "GeneIDs": "Ensembl:ENSG00000170312",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast cancer"
+}
+
+{
+  "GeneLabel": "CDKN2A",
+  "GeneIDs": "Ensembl:ENSG00000147889",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast cancer"
+}
+

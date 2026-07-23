@@ -1,0 +1,1 @@
+Find all autoimmune disease that has phenotypes with at least one synonym consisting of exactly one non-English character. Return the autoimmune disease, the phenotype, and the matching synonyms.

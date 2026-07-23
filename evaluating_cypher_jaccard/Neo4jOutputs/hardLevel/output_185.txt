@@ -1,0 +1,25 @@
+{
+  "disease_type": "Other",
+  "count": 92
+}
+
+{
+  "disease_type": "Cancer",
+  "count": 35
+}
+
+{
+  "disease_type": "Infectious",
+  "count": 7
+}
+
+{
+  "disease_type": "Cardiovascular",
+  "count": 7
+}
+
+{
+  "disease_type": "Neurodegenerative",
+  "count": 5
+}
+

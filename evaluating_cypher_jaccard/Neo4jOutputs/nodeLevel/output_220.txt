@@ -1,0 +1,20 @@
+{
+  "p.Label": "Factor XIII subunit B deficiency"
+}
+
+{
+  "p.Label": "Cellular immunodeficiency"
+}
+
+{
+  "p.Label": "Severe combined immunodeficiency"
+}
+
+{
+  "p.Label": "Sulfite oxidase deficiency"
+}
+
+{
+  "p.Label": "Aldehyde oxidase deficiency"
+}
+

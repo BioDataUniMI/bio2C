@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(:Infectious_disease) RETURN MAX(SIZE(m.Sequence)) AS Max_Sequence_Length

@@ -1,0 +1,45 @@
+{
+  "m1.Label": "microRNA hsa-mir-146b precursor",
+  "m2.Label": "hsa-let-7a-3p",
+  "cancerType": "leiomyoma",
+  "parentDisease": [
+    "benign muscle neoplasm"
+  ]
+}
+
+{
+  "m1.Label": "microRNA hsa-mir-29c precursor",
+  "m2.Label": "hsa-let-7a-3p",
+  "cancerType": "leiomyoma",
+  "parentDisease": [
+    "benign muscle neoplasm"
+  ]
+}
+
+{
+  "m1.Label": "microRNA hsa-mir-335 precursor",
+  "m2.Label": "hsa-let-7a-3p",
+  "cancerType": "leiomyoma",
+  "parentDisease": [
+    "benign muscle neoplasm"
+  ]
+}
+
+{
+  "m1.Label": "microRNA hsa-mir-29a precursor",
+  "m2.Label": "hsa-let-7a-3p",
+  "cancerType": "leiomyoma",
+  "parentDisease": [
+    "benign muscle neoplasm"
+  ]
+}
+
+{
+  "m1.Label": "microRNA hsa-mir-139 precursor",
+  "m2.Label": "hsa-let-7a-3p",
+  "cancerType": "leiomyoma",
+  "parentDisease": [
+    "benign muscle neoplasm"
+  ]
+}
+

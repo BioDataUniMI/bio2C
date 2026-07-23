@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "immune response",
+  "NumberOfGOTerms": 39
+}
+
+{
+  "BiologicalProcess": "heart development",
+  "NumberOfGOTerms": 27
+}
+
+{
+  "BiologicalProcess": "inflammatory response",
+  "NumberOfGOTerms": 11
+}
+
+{
+  "BiologicalProcess": "brain development",
+  "NumberOfGOTerms": 10
+}
+
+{
+  "BiologicalProcess": "ovarian follicle development",
+  "NumberOfGOTerms": 7
+}
+

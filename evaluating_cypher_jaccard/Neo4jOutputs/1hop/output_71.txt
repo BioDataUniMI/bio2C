@@ -1,0 +1,21 @@
+{
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting"
+  ],
+  "m.Label": "hsa-miR-1-5p",
+  "c.Label": "congestive heart failure",
+  "c.Description": "failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, ..."
+}
+
+{
+  "Method": [
+    "qrt-pcr etc",
+    "northern blotting",
+    "quantitative reverse transcriptase pcr"
+  ],
+  "m.Label": "hsa-miR-1-3p",
+  "c.Label": "congestive heart failure",
+  "c.Description": "failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, ..."
+}
+

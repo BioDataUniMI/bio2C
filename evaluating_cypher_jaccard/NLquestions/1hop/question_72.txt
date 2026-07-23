@@ -1,0 +1,1 @@
+Find cardiovascular diseases in which miRNAs are under-expressed, where the description contains both 'blood' and 'flow'. Return the disease and miRNA labels.

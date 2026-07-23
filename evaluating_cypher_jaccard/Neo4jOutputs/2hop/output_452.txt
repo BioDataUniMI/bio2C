@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "Regulator_miRNA": "hsa-miR-31-5p",
+  "Gene": "CDK1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "Regulator_miRNA": "hsa-miR-31-5p",
+  "Gene": "NUMB"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "Regulator_miRNA": "hsa-miR-31-5p",
+  "Gene": "FZD3"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "Regulator_miRNA": "hsa-miR-31-5p",
+  "Gene": "TNS1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "Regulator_miRNA": "hsa-miR-31-5p",
+  "Gene": "FHP1"
+}
+

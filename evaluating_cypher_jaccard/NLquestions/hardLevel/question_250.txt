@@ -1,0 +1,1 @@
+Count how many miRNAs end with each alphabetic letter a-z/A-Z before '-3p'. Exclude numbers and other characters. Return the letter and the miRNA count, ordered alphabetically by letter.

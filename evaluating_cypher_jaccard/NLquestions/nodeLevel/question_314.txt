@@ -1,0 +1,1 @@
+Find diseases whose labels contain 'poisoning' and show how they are classified (use LABELS(d)).

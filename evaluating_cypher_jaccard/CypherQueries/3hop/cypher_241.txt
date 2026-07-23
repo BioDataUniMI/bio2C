@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Joint hypermobility'})-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_part]->(go:GO) RETURN  d.Label AS Disease, bp.Label AS DisruptedProcess, go.Label AS InvolvedGO

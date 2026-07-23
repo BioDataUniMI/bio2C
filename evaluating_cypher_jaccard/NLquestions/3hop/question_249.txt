@@ -1,0 +1,1 @@
+For the cancer labeled 'TSH producing pituitary tumor', identify its phenotypes and the GO terms that characterize those phenotypes. Also return the diseases that are subclasses of this cancer. Return the labels of the disease, the phenotype, and the GO term

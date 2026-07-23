@@ -1,0 +1,8 @@
+{
+  "miRNA": "hsa-miR-2392",
+  "Disease": "COVID-19",
+  "Sources": [
+    "RNADisease"
+  ]
+}
+

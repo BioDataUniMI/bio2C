@@ -1,0 +1,16 @@
+{
+  "Disease": "schizophrenia",
+  "miRNA": "hsa-miR-137-3p",
+  "PubMedID": [
+    "21926974"
+  ]
+}
+
+{
+  "Disease": "atopic eczema",
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "PubMedID": [
+    "23042114"
+  ]
+}
+

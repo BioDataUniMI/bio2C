@@ -1,0 +1,35 @@
+{
+  "Disease": "hypochromic anemia",
+  "Phenotype": "Hypochromic anemia",
+  "Gene": "TFRC",
+  "miRNA": "hsa-miR-370-5p"
+}
+
+{
+  "Disease": "hypochromic anemia",
+  "Phenotype": "Hypochromic anemia",
+  "Gene": "TFRC",
+  "miRNA": "hsa-miR-370-3p"
+}
+
+{
+  "Disease": "hypochromic anemia",
+  "Phenotype": "Hypochromic anemia",
+  "Gene": "TFRC",
+  "miRNA": "hsa-miR-320a-5p"
+}
+
+{
+  "Disease": "hypochromic anemia",
+  "Phenotype": "Hypochromic anemia",
+  "Gene": "TFRC",
+  "miRNA": "hsa-miR-320a-3p"
+}
+
+{
+  "Disease": "hypochromic anemia",
+  "Phenotype": "Hypochromic anemia",
+  "Gene": "TFRC",
+  "miRNA": "hsa-miR-210-3p"
+}
+

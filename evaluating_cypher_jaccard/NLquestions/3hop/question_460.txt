@@ -1,0 +1,1 @@
+Identify genes that cause or contribute to diseases with labels containing the word 'puberty' that are caused by the disruption of at least one GO term. Return the gene label, disease label, and GO term label.

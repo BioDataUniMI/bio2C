@@ -1,0 +1,25 @@
+{
+  "Disease": "retinitis pigmentosa-intellectual disability-deafness-hypogenitalism syndrome",
+  "Description": "retinitis pigmentosa - intellectual disability - deafness - hypogenitalism is an extremely rare s..."
+}
+
+{
+  "Disease": "ataxia - deafness - intellectual disability syndrome",
+  "Description": "this syndrome is characterized by progressive ataxia beginning during childhood, deafness and int..."
+}
+
+{
+  "Disease": "Charcot-Marie-Tooth disease-hearing loss-intellectual disability syndrome",
+  "Description": "a rare demyelinating hereditary motor and sensory neuropathy characterized by early-onset, slowly..."
+}
+
+{
+  "Disease": "X-linked intellectual disability, Schimke type",
+  "Description": "x-linked mental retardation, schimke type, is characterized by intellectual deficit, growth retar..."
+}
+
+{
+  "Disease": "microcephaly-deafness-intellectual disability syndrome",
+  "Description": "microcephaly-deafness-intellectual disability syndrome is characterized by microcephaly, deafness..."
+}
+

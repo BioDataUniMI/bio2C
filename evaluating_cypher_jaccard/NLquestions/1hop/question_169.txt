@@ -1,0 +1,1 @@
+List all miRNAs: 1) characterized by a sequence shorter than 24 nucleotides; 2) that contains no 'C's; and 3) part of at least one cellular component. Return the cellular component labels and miRNA labels.

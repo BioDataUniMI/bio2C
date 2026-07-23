@@ -1,0 +1,25 @@
+{
+  "Disease": "adrenocortical insufficiency",
+  "DisruptedProcess": "cortisol biosynthetic process"
+}
+
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis"
+}
+
+{
+  "Disease": "congestive heart failure",
+  "DisruptedProcess": "blood circulation"
+}
+
+{
+  "Disease": "cystinosis",
+  "DisruptedProcess": "intracellular cysteine homeostasis"
+}
+
+{
+  "Disease": "lysosomal lipid storage disorder",
+  "DisruptedProcess": "lipid catabolic process"
+}
+

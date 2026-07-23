@@ -1,0 +1,1 @@
+MATCH (:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'EEF' RETURN g.Label AS Gene, COUNT(DISTINCT m) AS regulatingMiRNAs

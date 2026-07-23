@@ -1,0 +1,1 @@
+How many pre-miRNAs develop into miRNAs participating in the biological process labeled as 'cellular response to dopamine', where GO terms are part of this process? Return the count of distinct pre-miRNAs.

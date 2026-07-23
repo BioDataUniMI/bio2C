@@ -1,0 +1,1 @@
+Identify the GO terms that are parts of biological processes whose disruption is caused by diseases having the phenotype labeled as 'Abnormality of the mouth'. Return the labels of: the disease, the disrupted biological process, and the GO term.

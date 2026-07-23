@@ -1,0 +1,25 @@
+{
+  "g.Label": "MIR1272",
+  "sequence_length": 129
+}
+
+{
+  "g.Label": "MIR1273H",
+  "sequence_length": 116
+}
+
+{
+  "g.Label": "MIR1271",
+  "sequence_length": 86
+}
+
+{
+  "g.Label": "MIR1270",
+  "sequence_length": 83
+}
+
+{
+  "g.Label": "MIR1276",
+  "sequence_length": 83
+}
+

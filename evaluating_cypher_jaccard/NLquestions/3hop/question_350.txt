@@ -1,0 +1,1 @@
+How many distinct miRNAs are expressed in diseases that are subclasses of cancers which also express a different miRNA? Count only miRNAs that are different from the miRNAs expressed directly by the cancer.

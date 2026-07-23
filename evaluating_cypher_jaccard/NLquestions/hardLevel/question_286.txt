@@ -1,0 +1,1 @@
+Which diseases have more than five miRNAs reported as causal germline mutations? Return the disease label and the miRNA count.

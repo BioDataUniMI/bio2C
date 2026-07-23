@@ -1,0 +1,25 @@
+{
+  "DiseaseLabel": "hepatitis, viral, animal",
+  "Description": "inflammation of the liver in animals due to viral infection."
+}
+
+{
+  "DiseaseLabel": "protozoan infections, animal",
+  "Description": "infections with unicellular organisms formerly members of the subkingdom protozoa. the infections..."
+}
+
+{
+  "DiseaseLabel": "helminthiasis, animal",
+  "Description": "infestation of animals with parasitic worms of the helminth class. the infestation may be experim..."
+}
+
+{
+  "DiseaseLabel": "mammary neoplasms, animal",
+  "Description": "tumors or cancer of the mammary gland in animals (mammary glands, animal)."
+}
+
+{
+  "DiseaseLabel": "salmonella infections, animal",
+  "Description": "infections in animals with bacteria of the genus salmonella."
+}
+

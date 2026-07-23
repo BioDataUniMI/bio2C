@@ -1,0 +1,1 @@
+List all phenotypes reported as 'phenotype_of' diseases whose label includes the word 'bronchopneumonia'.

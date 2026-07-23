@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label:'MIR625'})-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, t.Label AS TargetGene, SIZE(m.Sequence) AS MaturemiRNALength, SIZE(t.Sequence) AS TargetGeneLength, SIZE(pre.Sequence) AS Pre_miRNALength

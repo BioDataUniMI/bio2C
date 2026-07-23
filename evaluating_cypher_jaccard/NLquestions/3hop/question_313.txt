@@ -1,0 +1,1 @@
+Which GO terms are part of other GO terms that the miRNA 'hsa-miR-21-5p' acts upstream of? Return labels of both GO terms.

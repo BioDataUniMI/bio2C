@@ -1,0 +1,1 @@
+Given the gene 'SLC23A1' that causes or contributes to phenotypes that are subclasses of the phenotype labeled as 'Respiratory insufficiency', which cancers are these child phenotypes? Return the label of the cancer and the phenotype.

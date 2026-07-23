@@ -1,0 +1,1 @@
+Find cancers whose label or description contains 'breast' and in which under-expressed miRNAs have genomic coordinates on chromosome X. Return the distinct cancers' label.

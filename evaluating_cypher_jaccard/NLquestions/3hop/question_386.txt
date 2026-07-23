@@ -1,0 +1,1 @@
+Consider diseases that are subclasses of the cancer labeled as 'benign muscle neoplasm'. List the miRNAs expressed in those cancers and the genes these miRNAs regulate, but consider ONLY genes whose label is exactly 7 character-long.

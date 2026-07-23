@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Sequence =~ '.*A{75,}.*' RETURN g.Label AS GeneLabel

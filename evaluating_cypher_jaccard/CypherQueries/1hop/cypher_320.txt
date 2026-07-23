@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE NOT (d)-[:disease_triggers]-(:Biological_process) AND d.Label CONTAINS 'tachycardia' RETURN d.Label

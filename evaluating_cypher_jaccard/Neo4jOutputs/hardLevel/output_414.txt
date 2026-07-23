@@ -1,0 +1,25 @@
+{
+  "m.Label": "hsa-miR-1302",
+  "d.Label": "malignant glioma"
+}
+
+{
+  "m.Label": "hsa-miR-1302",
+  "d.Label": "colorectal carcinoma"
+}
+
+{
+  "m.Label": "hsa-miR-1302",
+  "d.Label": "glioma"
+}
+
+{
+  "m.Label": "hsa-miR-1302",
+  "d.Label": "carcinoma of esophagus"
+}
+
+{
+  "m.Label": "hsa-miR-1302",
+  "d.Label": "meningioma"
+}
+

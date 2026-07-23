@@ -1,0 +1,1 @@
+Which pre-miRNAs develop into miRNAs that regulate more than 200 gene activity? Return the label of the pre-miRNA and the miRNA and the count of genes.

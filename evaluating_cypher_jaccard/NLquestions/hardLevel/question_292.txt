@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of more than 150 target genes? Return the miRNA label and the gene count.

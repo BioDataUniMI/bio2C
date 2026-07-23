@@ -1,0 +1,16 @@
+{
+  "Gene": "MIR1469",
+  "miRNA": "microRNA hsa-mir-1469 precursor",
+  "Phenotype": "Neoplasm of the lung",
+  "Expression_Type": "under_expressed_in",
+  "Gene_Sequence_Length": 47
+}
+
+{
+  "Gene": "MIR2054",
+  "miRNA": "microRNA hsa-mir-2054 precursor",
+  "Phenotype": "Cardiomegaly",
+  "Expression_Type": "under_expressed_in",
+  "Gene_Sequence_Length": 49
+}
+

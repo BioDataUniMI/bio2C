@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-139-5p",
+  "Gene": "BMPR1A",
+  "Disease": "juvenile polyposis of infancy",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-139-5p",
+  "Gene": "BMPR1A",
+  "Disease": "juvenile polyposis syndrome",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-139-5p",
+  "Gene": "BMPR1A",
+  "Disease": "generalized juvenile polyposis/juvenile polyposis coli",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+

@@ -1,0 +1,1 @@
+List Homo sapiens miRNAs whose labels end with '3p' and have sequences at least 25 nucleotides long.

@@ -1,0 +1,1 @@
+Retrieve neurodegenerative diseases whose label mentions 'Alzheimer' (case-insensitive).

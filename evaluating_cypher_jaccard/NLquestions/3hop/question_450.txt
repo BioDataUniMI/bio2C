@@ -1,0 +1,1 @@
+Identify cancers whose label contains the word 'cervical' and where under-expressed miRNAs are in similarity relationship with pre-miRNAs whose labels contain '302' and participate in GO terms. Return the GO term label, pre-miRNA label, miRNA label, and cancer label.

@@ -1,0 +1,12 @@
+{
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "MolecularFunction": "MAP kinase kinase activity"
+}
+
+{
+  "Cancer": "breast cancer",
+  "miRNA": "hsa-miR-125b-5p",
+  "MolecularFunction": "MAP kinase kinase activity"
+}
+

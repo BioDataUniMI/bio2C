@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE SIZE([coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX']) > 2 RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

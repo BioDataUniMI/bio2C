@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(i:Infectious_disease) WHERE i.Label CONTAINS 'tuberculosis' RETURN m.Label AS miRNA, i.Label AS InfectiousDisease, r.Source AS Sources

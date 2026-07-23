@@ -1,0 +1,1 @@
+Find mental diseases whose description mention the name 'SUE' (case-insensitive) and also contains at least one of 'David', 'Derald', or 'Stanley' (all case-insensitive). Return their label and description.

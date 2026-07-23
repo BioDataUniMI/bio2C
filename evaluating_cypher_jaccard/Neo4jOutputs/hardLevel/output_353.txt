@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "NumberOfMiRNAs": 518
+}
+

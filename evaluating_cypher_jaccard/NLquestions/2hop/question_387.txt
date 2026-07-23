@@ -1,0 +1,1 @@
+Identify precursor miRNAs that develop into the mature miRNAs 'hsa-miR-320b' which in turn directly regulate the activity of other precursor miRNAs, along with the regulated precursor.

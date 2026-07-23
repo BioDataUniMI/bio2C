@@ -1,0 +1,35 @@
+{
+  "GOterm": "C-C chemokine binding",
+  "miRNA": "hsa-miR-150-5p",
+  "Cancer": "testicular germ cell tumor 1",
+  "SuperclassDisease": "testicular germ cell tumor"
+}
+
+{
+  "GOterm": "chemokine binding",
+  "miRNA": "hsa-miR-150-5p",
+  "Cancer": "testicular germ cell tumor 1",
+  "SuperclassDisease": "testicular germ cell tumor"
+}
+
+{
+  "GOterm": "chemokine receptor activity",
+  "miRNA": "hsa-miR-150-5p",
+  "Cancer": "testicular germ cell tumor 1",
+  "SuperclassDisease": "testicular germ cell tumor"
+}
+
+{
+  "GOterm": "C-C chemokine binding",
+  "miRNA": "hsa-miR-150-5p",
+  "Cancer": "childhood testicular germ cell tumor",
+  "SuperclassDisease": "childhood testicular neoplasm"
+}
+
+{
+  "GOterm": "C-C chemokine binding",
+  "miRNA": "hsa-miR-150-5p",
+  "Cancer": "childhood testicular germ cell tumor",
+  "SuperclassDisease": "childhood gonadal germ cell tumor"
+}
+

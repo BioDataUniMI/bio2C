@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:has_part]->(go:GO) WITH cc, COUNT(DISTINCT go) AS GOTermCount RETURN cc.Label AS CellularComponent, GOTermCount ORDER BY GOTermCount DESC

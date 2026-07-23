@@ -1,0 +1,5 @@
+{
+  "NodeType": "Biological_process",
+  "DisruptionCount": 4
+}
+

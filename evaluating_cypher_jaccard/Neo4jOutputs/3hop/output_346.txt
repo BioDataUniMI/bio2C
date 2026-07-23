@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "ParentDisease": "metastatic malignant neoplasm",
+  "Phenotype": "neoplastic, malignant",
+  "Sources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1204",
+  "ParentDisease": "metastatic malignant neoplasm",
+  "Phenotype": "neoplastic, malignant",
+  "Sources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-210-5p",
+  "ParentDisease": "metastatic malignant neoplasm",
+  "Phenotype": "neoplastic, malignant",
+  "Sources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-557",
+  "ParentDisease": "metastatic malignant neoplasm",
+  "Phenotype": "neoplastic, malignant",
+  "Sources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1298-3p",
+  "ParentDisease": "metastatic malignant neoplasm",
+  "Phenotype": "neoplastic, malignant",
+  "Sources": [
+    "dbDEMC"
+  ]
+}
+

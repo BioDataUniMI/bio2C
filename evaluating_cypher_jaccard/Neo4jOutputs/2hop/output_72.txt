@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-140-5p",
+  "Gene": "ADA",
+  "Disease": "autism"
+}
+
+{
+  "miRNA": "hsa-miR-140-5p",
+  "Gene": "ADA",
+  "Disease": "autism spectrum disorder"
+}
+
+{
+  "miRNA": "hsa-miR-559",
+  "Gene": "VCL",
+  "Disease": "autism"
+}
+
+{
+  "miRNA": "hsa-miR-663b",
+  "Gene": "VCL",
+  "Disease": "autism"
+}
+
+{
+  "miRNA": "hsa-miR-661",
+  "Gene": "VCL",
+  "Disease": "autism"
+}
+

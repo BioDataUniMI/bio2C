@@ -1,0 +1,1 @@
+Consider miRNAs that are transcribed from known genes and regulate target genes. Find both the differences in sequence length between the target and source genes, and the difference between the source gene and the miRNA. Return the target gene, miRNA, source gene, and both length differences.

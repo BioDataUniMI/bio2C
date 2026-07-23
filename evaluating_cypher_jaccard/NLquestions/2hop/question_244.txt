@@ -1,0 +1,1 @@
+Identify GO terms whose disruption is caused by diseases that are caused or contributed by genes characterized by a label of at least 8 characters. Return the label of: gene, disease, and disrupted GO term.

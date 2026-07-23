@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease {ID:'MONDO:0002960'}) RETURN n

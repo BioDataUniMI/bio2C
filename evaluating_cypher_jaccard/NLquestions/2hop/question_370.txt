@@ -1,0 +1,1 @@
+Retrieve all mature miRNAs that develop from pre-miRNAs transcribed from genes whose label ends with 'T'. Return the gene, pre-miRNA, and mature miRNA labels.

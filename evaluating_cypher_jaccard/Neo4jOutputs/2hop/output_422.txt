@@ -1,0 +1,10 @@
+{
+  "Precursor": "microRNA hsa-mir-31 precursor",
+  "Mature_miRNA": "hsa-miR-31-5p"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-125a precursor",
+  "Mature_miRNA": "hsa-miR-125a-5p"
+}
+

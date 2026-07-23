@@ -1,0 +1,10 @@
+{
+  "g.Label": "regulation of defense response to virus",
+  "g.Description": "any process that modulates the frequency, rate or extent of the antiviral response of a cell or o..."
+}
+
+{
+  "g.Label": "regulation of defense response to virus by host",
+  "g.Description": "any host process that modulates the frequency, rate, or extent of the antiviral response of a hos..."
+}
+

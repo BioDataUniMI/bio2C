@@ -1,0 +1,1 @@
+Find miRNAs that are in a homology relationship with pre-miRNAs where both the miRNA and the pre-miRNA have at least one genomic coordinate on chromosome Y. Return the labels and genomic coordinates of both involved entities.

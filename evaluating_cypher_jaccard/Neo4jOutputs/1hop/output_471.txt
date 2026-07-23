@@ -1,0 +1,5 @@
+{
+  "bp.Label": "long-chain fatty acid import into peroxisome",
+  "bp.Description": "the directed movement of a long-chain fatty acid into a peroxisome. a long-chain fatty acid has a..."
+}
+

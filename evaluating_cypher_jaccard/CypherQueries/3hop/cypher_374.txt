@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(g:GO)-[:part_of]->(bp:Biological_process) WHERE d.Label CONTAINS 'Rabin-Pappas' RETURN properties(d), p.Label AS Phenotype, g.Label AS GOterm, bp.Label AS BiologicalProcess

@@ -1,0 +1,25 @@
+{
+  "CardiovascularDisease": "Noonan syndrome",
+  "PhenotypeCount": 430
+}
+
+{
+  "CardiovascularDisease": "Noonan syndrome 1",
+  "PhenotypeCount": 428
+}
+
+{
+  "CardiovascularDisease": "Noonan syndrome 2",
+  "PhenotypeCount": 428
+}
+
+{
+  "CardiovascularDisease": "Noonan syndrome 3",
+  "PhenotypeCount": 427
+}
+
+{
+  "CardiovascularDisease": "Noonan syndrome 10",
+  "PhenotypeCount": 424
+}
+

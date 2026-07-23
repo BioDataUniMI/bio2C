@@ -1,0 +1,10 @@
+{
+  "Disease": "myocardial ischemia",
+  "miRNA": "microRNA hsa-mir-421 precursor"
+}
+
+{
+  "Disease": "myocardial ischemia",
+  "miRNA": "microRNA hsa-mir-367 precursor"
+}
+

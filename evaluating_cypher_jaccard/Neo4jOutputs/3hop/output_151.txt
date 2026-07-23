@@ -1,0 +1,10 @@
+{
+  "GOterm": "regulation of glucokinase activity",
+  "BiologicalProcess": "sucrose catabolic process to fructose-6-phosphate through glucose and fructose"
+}
+
+{
+  "GOterm": "regulation of glucokinase activity",
+  "BiologicalProcess": "glucose 6-phosphate metabolic process"
+}
+

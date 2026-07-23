@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE '肌酸磷酸激酶极度上升' IN p.Synonym RETURN p.Label

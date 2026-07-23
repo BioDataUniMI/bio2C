@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:subclassof]->(go1:GO)-[:has_primary_input]->(cc:Cellular_component)-[:subclassof]->(go2:GO {Label:'intracellular membrane-bounded organelle'}) RETURN bp.Label AS BiologicalProcess, go1.Label AS GO_Term1, cc.Label AS CellularComponent

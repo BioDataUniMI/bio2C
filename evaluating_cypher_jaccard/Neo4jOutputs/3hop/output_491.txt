@@ -1,0 +1,35 @@
+{
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "AutoimmuneDisease": "Graves disease, susceptibility to, 1",
+  "RegulatingMiRNA": "hsa-miR-486-5p"
+}
+
+{
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "AutoimmuneDisease": "gout",
+  "RegulatingMiRNA": "hsa-miR-486-5p"
+}
+
+{
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "AutoimmuneDisease": "uveoparotid fever",
+  "RegulatingMiRNA": "hsa-miR-486-5p"
+}
+
+{
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "AutoimmuneDisease": "osteoarthritis",
+  "RegulatingMiRNA": "hsa-miR-486-5p"
+}
+
+{
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "AutoimmuneDisease": "thyrotoxicosis",
+  "RegulatingMiRNA": "hsa-miR-486-5p"
+}
+

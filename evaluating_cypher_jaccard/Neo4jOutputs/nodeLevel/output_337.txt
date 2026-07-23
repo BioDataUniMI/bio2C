@@ -1,0 +1,24 @@
+{
+  "CancerLabel": "polyp of external auditory canal",
+  "Description": "a polyp that involves the external acoustic meatus."
+}
+
+{
+  "CancerLabel": "polyp of gallbladder",
+  "Description": "a polyp that involves the gall bladder."
+}
+
+{
+  "CancerLabel": "polyp of large intestine",
+  "Description": "a polyp that involves the large intestine."
+}
+
+{
+  "CancerLabel": "colorectal sessile serrated adenoma/polyp",
+  "Description": "a polyp that arises from the colon or rectum. it is characterized by the presence of serrated glands and the absence of generalized dysplasia. some authors have suggested that it is a precursor lesion for some colorectal adenocarcinomas with microsatellite instability."
+}
+
+{
+  "CancerLabel": "polyp of ureter",
+  "Description": "a polyp that involves the ureter."
+}

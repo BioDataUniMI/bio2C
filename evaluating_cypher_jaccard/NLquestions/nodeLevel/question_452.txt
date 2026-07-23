@@ -1,0 +1,1 @@
+Find the phenotypes whose: 1) labels contain 'kinase'; 2) descriptions contain 'increased'; and 3) descriptions contain either 'concentration' or 'level'.

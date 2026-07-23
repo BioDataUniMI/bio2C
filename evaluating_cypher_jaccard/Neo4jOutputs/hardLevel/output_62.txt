@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Phenotype": "Neoplasm of the lung",
+  "CU_Count": 4
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Phenotype": "Non-small cell lung carcinoma",
+  "CU_Count": 4
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Phenotype": "Burkitt lymphoma",
+  "CU_Count": 4
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Phenotype": "Hodgkin lymphoma",
+  "CU_Count": 4
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Phenotype": "Stomach cancer",
+  "CU_Count": 4
+}
+

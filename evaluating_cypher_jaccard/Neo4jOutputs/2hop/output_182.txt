@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-133a-5p",
+  "ParentGO": "extracellular region",
+  "CellularComponent": "female germline ring canal inner rim"
+}
+
+{
+  "miRNA": "hsa-miR-133a-5p",
+  "ParentGO": "extracellular region",
+  "CellularComponent": "mucus layer"
+}
+
+{
+  "miRNA": "hsa-miR-133a-5p",
+  "ParentGO": "extracellular region",
+  "CellularComponent": "CNTFR-CLCF1 complex"
+}
+
+{
+  "miRNA": "hsa-miR-133a-5p",
+  "ParentGO": "extracellular region",
+  "CellularComponent": "extraorganismal space"
+}
+
+{
+  "miRNA": "hsa-miR-133a-5p",
+  "ParentGO": "extracellular region",
+  "CellularComponent": "extrahaustorial matrix"
+}
+

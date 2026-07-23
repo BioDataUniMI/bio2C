@@ -1,0 +1,1 @@
+Find three miRNA–disease pairs where the miRNAs cause or contribute to diseases, ordered by the number of 'C' nucleotides in the miRNA sequence (highest first, and alphabetically by miRNA label in case of ties). Return the miRNA label, the count of 'C' nucleotides, and the collection of disease labels appearing within those three rows.

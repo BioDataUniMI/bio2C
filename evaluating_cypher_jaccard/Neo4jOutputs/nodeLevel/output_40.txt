@@ -1,0 +1,25 @@
+{
+  "Disease": "microcephaly-cerebellar hypoplasia-cardiac conduction defect syndrome",
+  "Description": "microcephaly-cerebellar hypoplasia-cardiac conduction defect syndrome is a rare, genetic congenit..."
+}
+
+{
+  "Disease": "microcephaly-cardiac defect-lung malsegmentation syndrome",
+  "Description": "microcephaly - cardiac defect - lung malsegmentation syndrome is a very rare syndrome characteriz..."
+}
+
+{
+  "Disease": "lung agenesis-heart defect-thumb anomalies syndrome",
+  "Description": "lung agenesis - heart defect - thumb anomalies is a very rare syndrome characterized by unilatera..."
+}
+
+{
+  "Disease": "splenogonadal fusion-limb defects-micrognathia syndrome",
+  "Description": "splenogonadal fusion-limb defects-micrognatia syndrome is a rare dysostosis syndrome characterize..."
+}
+
+{
+  "Disease": "choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome",
+  "Description": "choanal atresia - deafness - cardiac defects - dysmorphism syndrome, also known as burn-mckeown s..."
+}
+

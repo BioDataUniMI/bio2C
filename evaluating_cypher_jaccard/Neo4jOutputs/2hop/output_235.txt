@@ -1,0 +1,10 @@
+{
+  "GOterm": "ossification",
+  "BiologicalProcess": "bone mineralization"
+}
+
+{
+  "GOterm": "ossification",
+  "BiologicalProcess": "osteoblast differentiation"
+}
+

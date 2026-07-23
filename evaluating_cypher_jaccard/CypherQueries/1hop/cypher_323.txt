@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:increased_in_magnitude_relative_to]->(p2:Phenotype) WHERE NOT p1.Label CONTAINS 'increased' RETURN p1.Label, p2.Label

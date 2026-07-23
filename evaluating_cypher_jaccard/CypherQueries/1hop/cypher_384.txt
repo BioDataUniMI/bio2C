@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process) WHERE bp.Label CONTAINS 'endocrine process' RETURN d.Label AS Disease, bp.Label AS BiologicalProcess

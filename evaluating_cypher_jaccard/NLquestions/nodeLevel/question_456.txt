@@ -1,0 +1,1 @@
+Return the phenotypes whose labels contain the word 'creatine' and also contain either 'Reduced' or 'Decreased'.

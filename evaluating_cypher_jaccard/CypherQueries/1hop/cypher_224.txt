@@ -1,0 +1,1 @@
+MATCH (m:miRNA{Label:'microRNA hsa-mir-192 precursor'})-[:located_in]->(cc:Cellular_component) RETURN cc.Label AS CellularComponent

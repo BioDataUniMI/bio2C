@@ -1,0 +1,25 @@
+{
+  "Gene": "UBE2C",
+  "Disease": "breast neoplasm"
+}
+
+{
+  "Gene": "UBE2C",
+  "Disease": "chromosomal disorder"
+}
+
+{
+  "Gene": "UBE2C",
+  "Disease": "hereditary breast carcinoma"
+}
+
+{
+  "Gene": "UBE2C",
+  "Disease": "hepatocellular carcinoma"
+}
+
+{
+  "Gene": "UBE2C",
+  "Disease": "breast cancer"
+}
+

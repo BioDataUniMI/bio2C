@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:enables]->(mf:Molecular_function {Label:'gene product or complex activity'}) RETURN m.Label AS miRNA, mf.Label AS molecular_function

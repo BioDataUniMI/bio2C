@@ -1,0 +1,1 @@
+Find miRNAs whose sequences contain a motif of 7 consecutive Cs. Return their labels and sequence lengths.

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE pre.Label CONTAINS '31 precursor' AND SIZE(g.Label) = 4 RETURN pre.Label AS Pre_miRNA, m.Label AS Regulator_miRNA, g.Label AS Gene

@@ -1,0 +1,1 @@
+Which miRNAs have sequence length exactly 20 nucleotides and their sequences contains 'GGG' and 'AAA'?

@@ -1,0 +1,22 @@
+{
+  "DevelopingMiRNAlabel": "hsa-miR-200c-5p",
+  "ComponentLabel": "cytoplasmic side of plasma membrane",
+  "Go_term": {
+    "Description": "the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular...",
+    "Label": "cytoplasm",
+    "ID": "GO:0005737",
+    "URI": "http://purl.obolibrary.org/obo/GO_0005737"
+  }
+}
+
+{
+  "DevelopingMiRNAlabel": "hsa-miR-200c-5p",
+  "ComponentLabel": "cytoplasmic side of membrane",
+  "Go_term": {
+    "Description": "the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular...",
+    "Label": "cytoplasm",
+    "ID": "GO:0005737",
+    "URI": "http://purl.obolibrary.org/obo/GO_0005737"
+  }
+}
+

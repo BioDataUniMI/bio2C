@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:negatively_regulates]->(x) WHERE x:Biological_process OR x:Molecular_function WITH COLLECT(DISTINCT bp) AS bps MATCH (bp2:Biological_process)-[:negatively_regulates]->(mf:Molecular_function) WHERE bp2 IN bps RETURN SIZE(bps) AS BiologicalProcessCount, COUNT(DISTINCT mf) AS MolecularFunctionCount

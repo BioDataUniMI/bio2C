@@ -1,0 +1,20 @@
+{
+  "NeurodegenerativeDisease": "amyotrophic lateral sclerosis-parkinsonism-dementia complex",
+  "FeatureCount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "FeatureCount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "postpoliomyelitis syndrome",
+  "FeatureCount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "Menkes disease",
+  "FeatureCount": 2
+}
+

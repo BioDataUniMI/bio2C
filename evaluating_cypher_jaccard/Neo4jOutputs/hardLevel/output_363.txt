@@ -1,0 +1,10 @@
+{
+  "GO": "myosin binding",
+  "processes": 4
+}
+
+{
+  "GO": "cytoskeletal protein binding",
+  "processes": 4
+}
+

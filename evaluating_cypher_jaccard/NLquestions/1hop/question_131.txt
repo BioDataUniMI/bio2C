@@ -1,0 +1,1 @@
+Find all GO terms containing the standalone word 'gene', in which miRNAs participate.

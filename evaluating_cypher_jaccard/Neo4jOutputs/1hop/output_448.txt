@@ -1,0 +1,10 @@
+{
+  "g.Label": "small nucleolar ribonucleoprotein complex assembly",
+  "cc.Label": "sno(s)RNA-containing ribonucleoprotein complex"
+}
+
+{
+  "g.Label": "box H/ACA snoRNP assembly",
+  "cc.Label": "box H/ACA snoRNP complex"
+}
+

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'presynaptic' AND NOT cc.Label CONTAINS 'active' RETURN cc.Label AS CellularComponent, cc.ID

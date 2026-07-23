@@ -1,0 +1,20 @@
+{
+  "NeurodegenerativeDisease": "Alzheimer disease 18"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease 2"
+}
+
+{
+  "NeurodegenerativeDisease": "Alzheimer disease 12"
+}
+
+{
+  "NeurodegenerativeDisease": "early-onset autosomal dominant Alzheimer disease"
+}
+

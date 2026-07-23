@@ -1,0 +1,1 @@
+MATCH (b1:miRNA)-[r]->(b2:miRNA) WHERE TYPE(r) <> 'develops_from' AND ANY(coord IN b1.Genomic_coordinates WHERE coord =~ 'chr[A-Za-z].*') AND ANY(coord2 IN b2.Genomic_coordinates WHERE coord2 =~ 'chr[A-Za-z].*') AND SIZE(b1.Sequence) > 90 AND SIZE(b2.Sequence) > 90 RETURN b1.Label, r.Source, b2.Label

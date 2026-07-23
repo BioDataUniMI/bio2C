@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE c.Description CONTAINS 'common' RETURN DISTINCT c.Label AS Cancer_label

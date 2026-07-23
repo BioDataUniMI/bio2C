@@ -1,0 +1,25 @@
+{
+  "Cellular_Component": "nuclear envelope",
+  "Parent_Cellular_Component": "endomembrane system"
+}
+
+{
+  "Cellular_Component": "nuclear envelope",
+  "Parent_Cellular_Component": "cell nucleus"
+}
+
+{
+  "Cellular_Component": "nuclear envelope",
+  "Parent_Cellular_Component": "endomembrane system"
+}
+
+{
+  "Cellular_Component": "nuclear envelope",
+  "Parent_Cellular_Component": "cell nucleus"
+}
+
+{
+  "Cellular_Component": "peroxisomal membrane",
+  "Parent_Cellular_Component": "peroxisome"
+}
+

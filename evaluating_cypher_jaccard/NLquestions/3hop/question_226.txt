@@ -1,0 +1,1 @@
+Identify the GO terms that are part of cellular components where miRNAs expressed by cancers are located. Return the labels of the cancer, the miRNA, the cellular component, and the GO term.

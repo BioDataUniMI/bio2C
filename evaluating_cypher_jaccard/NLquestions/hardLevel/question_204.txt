@@ -1,0 +1,1 @@
+Find the difference between the maximum and minimum false discovery rate (FDR) for miRNAs that: 1) are participants in biological processes in which cellular components participate, and 2) are under-expressed in diseases of each type (cancer, autoimmune, neurodegenerative, infectious, and mental). Return the disease type and the FDR difference.

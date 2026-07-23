@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(c:Cancer {Label:'TSH producing pituitary tumor'})-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN d.Label AS Disease, p.Label AS Phenotype, go.Label AS GOterm

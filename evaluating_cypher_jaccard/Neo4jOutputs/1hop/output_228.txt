@@ -1,0 +1,25 @@
+{
+  "GOterm": "cytoplasmic side of plasma membrane, cell tip",
+  "CellularComponent": "plasma membrane of cell tip"
+}
+
+{
+  "GOterm": "chromatophore ribulose bisphosphate carboxylase complex",
+  "CellularComponent": "plasma membrane-derived chromatophore"
+}
+
+{
+  "GOterm": "plasma membrane-derived chromatophore membrane",
+  "CellularComponent": "plasma membrane-derived chromatophore"
+}
+
+{
+  "GOterm": "plasma membrane light-harvesting complex",
+  "CellularComponent": "plasma membrane-derived chromatophore"
+}
+
+{
+  "GOterm": "orthogonal array",
+  "CellularComponent": "plasma membrane"
+}
+

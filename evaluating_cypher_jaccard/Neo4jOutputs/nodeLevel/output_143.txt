@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-215-3p",
+  "GenomicCoordinates": [
+    "chr1:220117877-220117899-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-5087 precursor",
+  "GenomicCoordinates": [
+    "chr1:148334479-148334554-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-4424",
+  "GenomicCoordinates": [
+    "chr1:178677763-178677784+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-7852 precursor",
+  "GenomicCoordinates": [
+    "chr1:107897223-107897304+"
+  ]
+}
+
+{
+  "miRNA": "Hsa-Mir-29-P2d_pre stem-loop",
+  "GenomicCoordinates": [
+    "chr1:207801864-207801922-"
+  ]
+}
+

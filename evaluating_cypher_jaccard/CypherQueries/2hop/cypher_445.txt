@@ -1,0 +1,1 @@
+MATCH (d1:Disease)-[:subclassof]->(d2:Disease)-[:has_phenotype]->(p:Phenotype{Label:'Motor delay'}) WHERE d1.Label CONTAINS 'chronic' RETURN d1.Label AS Subtype, d2.Label AS Supertype, p.Label AS Phenotype

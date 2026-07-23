@@ -1,0 +1,1 @@
+Identify neurodegenerative diseases that exhibit phenotypes characteristic of GO terms which have as parts  other GO terms. Report the neurodegenerative disease, the phenotype, the primary GO term, and the GO term that is part of it.

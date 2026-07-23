@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "GO_Term": "positive regulation of stem cell proliferation",
+  "SequenceLength": 50
+}
+
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "GO_Term": "cellular response to glucose stimulus",
+  "SequenceLength": 50
+}
+
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "GO_Term": "long-term synaptic potentiation",
+  "SequenceLength": 50
+}
+
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "GO_Term": "miRNA-mediated post-transcriptional gene silencing",
+  "SequenceLength": 50
+}
+
+{
+  "miRNA": "microRNA 320c-2 (ENSG00000212051.1)",
+  "GO_Term": "negative regulation of gene expression",
+  "SequenceLength": 50
+}
+

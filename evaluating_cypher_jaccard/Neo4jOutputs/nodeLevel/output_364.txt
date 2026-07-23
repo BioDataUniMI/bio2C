@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "major depressive episode",
+  "d.Description": "the essential feature is a period of at least 2 weeks during which there is either depressed mood..."
+}
+
+{
+  "DiseaseLabel": "phobia",
+  "d.Description": "a persistent, irrational fear of a specific object, activity, or situation (the phobic stimulus) ..."
+}
+
+{
+  "DiseaseLabel": "dissociation",
+  "d.Description": "a disruption in the usually integrated functions of consciousness, memory, identity, or perceptio..."
+}
+
+{
+  "DiseaseLabel": "delusion",
+  "d.Description": "erroneous beliefs that usually involve a misinterpretation of perceptions or experiences. (their ..."
+}
+

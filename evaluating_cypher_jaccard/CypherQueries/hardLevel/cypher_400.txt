@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:is_causal_germline_mutation_in]->(d:Disease) WHERE d.Label CONTAINS 'Japanese medaka' RETURN COLLECT(DISTINCT COALESCE(g.Label, g.URI)) AS Genes

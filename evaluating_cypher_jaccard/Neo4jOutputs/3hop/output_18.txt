@@ -1,0 +1,8 @@
+{
+  "phenotype": "Childhood onset"
+}
+
+{
+  "phenotype": "acute"
+}
+

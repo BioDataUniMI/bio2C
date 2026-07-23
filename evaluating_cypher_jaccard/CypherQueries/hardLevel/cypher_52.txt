@@ -1,0 +1,1 @@
+MATCH (m:miRNA{Label:'hsa-miR-155-5p'})-[r]->(c:Cancer) WITH m, c, COLLECT(DISTINCT TYPE(r)) AS rels WHERE SIZE(rels) >= 2 RETURN c.Label AS Cancer, rels AS RelationshipTypes

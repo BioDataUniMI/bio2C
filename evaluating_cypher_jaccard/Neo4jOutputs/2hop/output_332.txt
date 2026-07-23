@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-200b precursor",
+  "miRNA": "hsa-miR-200b-5p",
+  "Disease": "pediatric lymphoma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-3p",
+  "Disease": "kidney Wilms tumor"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-3p",
+  "Disease": "pediatric meningioma"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-5p",
+  "Disease": "kidney Wilms tumor"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-190b precursor",
+  "miRNA": "hsa-miR-190b-5p",
+  "Disease": "pediatric meningioma"
+}
+

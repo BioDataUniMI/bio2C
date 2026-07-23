@@ -1,0 +1,25 @@
+{
+  "cd.Label": "glycogen storage disease II",
+  "cd.ID": "MONDO:0009290"
+}
+
+{
+  "cd.Label": "glycogen storage disease due to acid maltase deficiency, infantile onset",
+  "cd.ID": "MONDO:0017694"
+}
+
+{
+  "cd.Label": "giant cell myocarditis",
+  "cd.ID": "MONDO:0023232"
+}
+
+{
+  "cd.Label": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3",
+  "cd.ID": "MONDO:0014667"
+}
+
+{
+  "cd.Label": "alveolar capillary dysplasia with misalignment of pulmonary veins",
+  "cd.ID": "MONDO:0009934"
+}
+

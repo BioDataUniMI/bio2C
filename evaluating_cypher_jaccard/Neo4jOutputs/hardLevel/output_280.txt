@@ -1,0 +1,25 @@
+{
+  "Disease": "type 1 diabetes mellitus 1",
+  "Number_of_miRNAs": 2
+}
+
+{
+  "Disease": "Sjogren syndrome",
+  "Number_of_miRNAs": 5
+}
+
+{
+  "Disease": "osteoarthritis",
+  "Number_of_miRNAs": 9
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "Number_of_miRNAs": 5
+}
+
+{
+  "Disease": "osteoarthritis, knee",
+  "Number_of_miRNAs": 2
+}
+

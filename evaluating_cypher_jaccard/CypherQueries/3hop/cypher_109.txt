@@ -1,0 +1,1 @@
+MATCH (premirna:pre_miRNA {Label:'microRNA hsa-mir-203b precursor'})-[:has_function]->(bp:Biological_process)-[:has_part]->(go:GO)-[:has_participant]->(mirna:miRNA {Label:'hsa-miR-9-5p'}) RETURN bp.Label AS BiologicalProcess, go.Label AS GO_Term

@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA {Label:'hsa-let-7a-5p'})-[:located_in]->(cc:Cellular_component) WHERE cc.Description CONTAINS 'sirnas' AND c.Label =~ '.*oma$' RETURN c.Label AS Cancer, cc.Label AS CellularComponent

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g:GO AND (NOT g:Biological_process AND NOT g:Molecular_function AND NOT g:Cellular_component) AND g.Label CONTAINS 'anti' RETURN g.Label, g.ID

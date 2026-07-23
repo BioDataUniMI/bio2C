@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE d:Cancer AND d.Label CONTAINS 'STAT3' RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications

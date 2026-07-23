@@ -1,0 +1,6 @@
+{
+  "Cancer": "bone chondrosarcoma",
+  "miRNA": "hsa-miR-578",
+  "CellularComponent": "extracellular exosome"
+}
+

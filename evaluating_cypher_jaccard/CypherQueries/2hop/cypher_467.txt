@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(:pre_miRNA)-[:over_expressed_in]->(nd:Neurodegenerative_disease) RETURN g.Label AS Gene, nd.Label AS Neurodegenerative_Disease

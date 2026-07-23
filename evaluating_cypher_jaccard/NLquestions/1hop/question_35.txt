@@ -1,0 +1,1 @@
+List cancers where the under-expressed miRNAs have a sequence containing a 'UUUUUUU' motif.

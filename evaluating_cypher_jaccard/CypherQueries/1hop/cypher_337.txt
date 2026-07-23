@@ -1,0 +1,1 @@
+MATCH (d:Cardiovascular_disease) WHERE NOT (d)-[:disease_triggers]-(:Biological_process) AND d.Description CONTAINS 'infant' RETURN d.Label, d.Description

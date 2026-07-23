@@ -1,0 +1,15 @@
+{
+  "mf.Label": "long-chain-alcohol O-fatty-acyltransferase activity",
+  "mf.Description": "catalysis of the reaction: a long-chain-alcohol + acyl-coa = a long-chain ester + coa."
+}
+
+{
+  "mf.Label": "alcohol O-acetyltransferase activity",
+  "mf.Description": "catalysis of the reaction: acetyl-coa + an alcohol = coa + an acetyl ester."
+}
+
+{
+  "mf.Label": "alcohol O-cinnamoyltransferase activity",
+  "mf.Description": "catalysis of the reaction: an alcohol + 1-o-trans-cinnamoyl-beta-d-glucopyranose = beta-d-glucose..."
+}
+

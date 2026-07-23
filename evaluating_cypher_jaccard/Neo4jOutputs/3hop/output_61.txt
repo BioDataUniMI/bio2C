@@ -1,0 +1,35 @@
+{
+  "autoimmune_disease": "Sjogren syndrome",
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Skin ulcer",
+  "cancer": "infantile myofibromatosis"
+}
+
+{
+  "autoimmune_disease": "Sjogren syndrome",
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Skin ulcer",
+  "cancer": "juvenile hyaline fibromatosis"
+}
+
+{
+  "autoimmune_disease": "Sjogren syndrome",
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Skin ulcer",
+  "cancer": "myofibromatosis, infantile, 2"
+}
+
+{
+  "autoimmune_disease": "Sjogren syndrome",
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Skin ulcer",
+  "cancer": "myofibromatosis, infantile, 1"
+}
+
+{
+  "autoimmune_disease": "Sjogren syndrome",
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Peripheral neuropathy",
+  "cancer": "plantar fibromatosis"
+}
+

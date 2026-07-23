@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-182-5p",
+  "Gene": "NDRG1",
+  "CancerLabel": "smooth muscle tumor",
+  "CancerDescription": "a benign or malignant myomatous neoplasm arising from smooth muscle."
+}
+
+{
+  "miRNA": "hsa-miR-498-3p",
+  "Gene": "TERT",
+  "CancerLabel": "lymphoid leukemia",
+  "CancerDescription": "a malignant lymphocytic neoplasm of b-cell or t-cell lineage involving primarily the bone marrow ..."
+}
+
+{
+  "miRNA": "hsa-miR-1182",
+  "Gene": "TERT",
+  "CancerLabel": "lymphoid leukemia",
+  "CancerDescription": "a malignant lymphocytic neoplasm of b-cell or t-cell lineage involving primarily the bone marrow ..."
+}
+
+{
+  "miRNA": "hsa-miR-1266-5p",
+  "Gene": "TERT",
+  "CancerLabel": "lymphoid leukemia",
+  "CancerDescription": "a malignant lymphocytic neoplasm of b-cell or t-cell lineage involving primarily the bone marrow ..."
+}
+
+{
+  "miRNA": "hsa-miR-1207-5p",
+  "Gene": "TERT",
+  "CancerLabel": "lymphoid leukemia",
+  "CancerDescription": "a malignant lymphocytic neoplasm of b-cell or t-cell lineage involving primarily the bone marrow ..."
+}
+

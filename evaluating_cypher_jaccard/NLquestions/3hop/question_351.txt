@@ -1,0 +1,1 @@
+What are the top five diseases that are subclasses of cancers, where the parent cancer (that the disease is a subclass of) has the highest number of distinct miRNAs that are expressed in, under-expressed in, or over-expressed in that cancer? In case of ties, order the diseases alphabetically. Return the disease label and the total count of distinct miRNAs.

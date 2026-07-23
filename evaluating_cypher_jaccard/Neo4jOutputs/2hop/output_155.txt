@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-4999 precursor",
+  "Gene": "MIR4999",
+  "pre_miRNA": "microRNA hsa-mir-4999 precursor"
+}
+

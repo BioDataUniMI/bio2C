@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-520f-5p",
+  "Cancer": "exocrine pancreatic carcinoma",
+  "ParentDisease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "miRNA": "hsa-miR-518f-5p",
+  "Cancer": "exocrine pancreatic carcinoma",
+  "ParentDisease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "miRNA": "let-7f-1 stem-loop (hsa-let-7f-1)",
+  "Cancer": "exocrine pancreatic carcinoma",
+  "ParentDisease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "miRNA": "hsa-let-7f-5p",
+  "Cancer": "exocrine pancreatic carcinoma",
+  "ParentDisease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+
+{
+  "miRNA": "hsa-let-7f-1-3p",
+  "Cancer": "exocrine pancreatic carcinoma",
+  "ParentDisease": "malignant pancreatic neoplasm",
+  "Phenotype": "Intermittent painful muscle spasms"
+}
+

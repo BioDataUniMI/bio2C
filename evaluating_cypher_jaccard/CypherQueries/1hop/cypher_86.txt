@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) RETURN m.Label AS miRNA, a.Label AS Disease

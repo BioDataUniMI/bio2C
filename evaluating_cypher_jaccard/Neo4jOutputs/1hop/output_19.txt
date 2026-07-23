@@ -1,0 +1,70 @@
+{
+  "miRNA": "hsa-miR-548x-5p",
+  "pre_miRNA": "microRNA hsa-mir-548g precursor",
+  "miRNA_coords": [
+    "chr4:147344681-147344703-",
+    "chr21:18686135-18686157-",
+    "chrX:38023949-38023971-"
+  ],
+  "pre_miRNA_coords": [
+    "chr4:147344629-147344717-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548f-3p",
+  "pre_miRNA": "microRNA hsa-mir-548f precursor (hsa-mir-548f-4)",
+  "miRNA_coords": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ],
+  "pre_miRNA_coords": [
+    "chr7:147378017-147378121-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548f-3p",
+  "pre_miRNA": "microRNA hsa-mir-548f precursor (hsa-mir-548f-1)",
+  "miRNA_coords": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ],
+  "pre_miRNA_coords": [
+    "chr10:54607874-54607957-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548aj-3p",
+  "pre_miRNA": "microRNA hsa-mir-548aj precursor (hsa-mir-548aj-1)",
+  "miRNA_coords": [
+    "chrX:38023912-38023932-",
+    "chr6:132115199-132115219-"
+  ],
+  "pre_miRNA_coords": [
+    "chr6:132115192-132115263-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-548f-3p",
+  "pre_miRNA": "microRNA hsa-mir-548f precursor (hsa-mir-548f-3)",
+  "miRNA_coords": [
+    "chr2:212426284-212426302-",
+    "chrX:32641490-32641508-",
+    "chr10:54607889-54607907-",
+    "chr7:147378041-147378059-",
+    "chr5:110513844-110513862-"
+  ],
+  "pre_miRNA_coords": [
+    "chr5:110513829-110513915-"
+  ]
+}
+

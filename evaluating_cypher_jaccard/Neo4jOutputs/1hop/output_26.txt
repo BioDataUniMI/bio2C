@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-3908 precursor",
+  "Disease": "adult glioblastoma",
+  "miRNA_sequence": "GCCUGAGCAAUGUAGGUAGACUGUUUCUAAAAAAAUAAAAAGUUAAAAAAAUUUAUGUUAACGUGUAAUGUGUUUACUAAUUUUUUUUUUUUUUUUU..."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3908 precursor",
+  "Disease": "glioblastoma",
+  "miRNA_sequence": "GCCUGAGCAAUGUAGGUAGACUGUUUCUAAAAAAAUAAAAAGUUAAAAAAAUUUAUGUUAACGUGUAAUGUGUUUACUAAUUUUUUUUUUUUUUUUU..."
+}
+
+{
+  "miRNA": "hsa-miR-3613-3p",
+  "Disease": "childhood kidney Wilms tumor",
+  "miRNA_sequence": "ACAAAAAAAAAAGCCCAACCCUUC"
+}
+
+{
+  "miRNA": "hsa-miR-3613-3p",
+  "Disease": "kidney Wilms tumor",
+  "miRNA_sequence": "ACAAAAAAAAAAGCCCAACCCUUC"
+}
+
+{
+  "miRNA": "hsa-miR-3613-3p",
+  "Disease": "thyroid gland carcinoma",
+  "miRNA_sequence": "ACAAAAAAAAAAGCCCAACCCUUC"
+}
+

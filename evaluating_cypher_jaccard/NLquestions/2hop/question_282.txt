@@ -1,0 +1,1 @@
+Which GO terms have the phenotypes of the cancer labeled as 'pituitary gigantism' as characteristic phenotypes of them? Return the phenotype and GO term labels.?

@@ -1,0 +1,1 @@
+Identify miRNAs that participate in the biological process labeled as 'response to alcohol' and cause or contribute to the disease labeled as 'brain ischemia'.

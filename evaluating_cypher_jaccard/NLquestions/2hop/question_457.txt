@@ -1,0 +1,1 @@
+Identify miRNAs ending with '31-3p' or '31-5p' are located in the cellular component labeled as 'extracellular exosome' and their precursor pre-miRNAs (the ones they develop from).

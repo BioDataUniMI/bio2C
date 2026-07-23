@@ -1,0 +1,1 @@
+Which are the top 10 neurodegenerative diseases that share the highest number of phenotypes with their subclass diseases? Return the neurodegenerative disease label and the number of shared phenotypes.

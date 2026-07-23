@@ -1,0 +1,1 @@
+Find genes whose sequence contains the same number of 'A', 'G', and 'C' nucleotides that cause or contribute to cancers. Return the matching gene and cancer labels.

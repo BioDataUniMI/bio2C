@@ -1,0 +1,45 @@
+{
+  "Phenotype_label": "Ovarian neoplasm",
+  "miRNA": "hsa-miR-6089",
+  "miRNA_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "Phenotype_label": "Neoplasm of the lung",
+  "miRNA": "hsa-miR-6089",
+  "miRNA_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "Phenotype_label": "Sarcoma",
+  "miRNA": "hsa-miR-6089",
+  "miRNA_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "Phenotype_label": "Stomach cancer",
+  "miRNA": "hsa-miR-6089",
+  "miRNA_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "Phenotype_label": "Prostate cancer",
+  "miRNA": "hsa-miR-6089",
+  "miRNA_coordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+

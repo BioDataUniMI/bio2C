@@ -1,0 +1,74 @@
+{
+  "miRNA": "hsa-miR-16-1-3p",
+  "Process_label": "apoptotic process",
+  "Context": [
+    "chronic lymphocytic leukemia",
+    "gastric",
+    "hepatoma cell",
+    "mcf-7 cell line",
+    "cd4(+) t cells",
+    "breast| prostate",
+    "hepg2 cells",
+    "lymphocytic cell",
+    "osteosarcoma cells",
+    "lung cancer cells",
+    "tumor cell",
+    "ovarian cancer cells",
+    "lung non-small cell carcinoma",
+    "bladder cell",
+    "breast cancer cell lines and breast tumor samples",
+    "bone marrow plasma cells",
+    "squamous cell carcinomas and adenocarcinomas of the lung",
+    "lymphocytic leukemia cell",
+    "liver",
+    "glioma",
+    "breast cancer cells"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-16-5p",
+  "Process_label": "apoptotic process",
+  "Context": [
+    "breast cancer cells",
+    "mcf-7 cell line",
+    "breast| prostate",
+    "lymphocytic leukemia cell",
+    "breast cancer cell lines and breast tumor samples",
+    "hepg2 cells",
+    "liver",
+    "glioma",
+    "gastric",
+    "bone marrow plasma cells",
+    "lung cancer cells",
+    "tumor cell",
+    "ovarian cancer cells",
+    "squamous cell carcinomas and adenocarcinomas of the lung",
+    "lung non-small cell carcinoma",
+    "bladder cell"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-16-2-3p",
+  "Process_label": "apoptotic process",
+  "Context": [
+    "breast cancer cells",
+    "mcf-7 cell line",
+    "breast| prostate",
+    "lymphocytic leukemia cell",
+    "breast cancer cell lines and breast tumor samples",
+    "hepg2 cells",
+    "liver",
+    "glioma",
+    "gastric",
+    "bone marrow plasma cells",
+    "lung cancer cells",
+    "tumor cell",
+    "ovarian cancer cells",
+    "squamous cell carcinomas and adenocarcinomas of the lung",
+    "lung non-small cell carcinoma",
+    "bladder cell"
+  ]
+}
+

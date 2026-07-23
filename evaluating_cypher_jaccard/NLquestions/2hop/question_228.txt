@@ -1,0 +1,1 @@
+Identify miRNAs that develop from pre-miRNAs and regulate the activity of the gene 'TPI1P1'. Return the pre-miRNA and the miRNA labels

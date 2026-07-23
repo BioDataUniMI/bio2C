@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:part_of]->(g:GO) WHERE 'GOC' IN r.Source AND NOT m.Label CONTAINS 'precursor' AND NOT m.Label CONTAINS 'pre stem-loop' RETURN m.Label AS miRNA, g.Label AS GOTerm

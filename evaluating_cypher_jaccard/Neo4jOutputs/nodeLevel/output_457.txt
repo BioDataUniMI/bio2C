@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Anti-ryanodine receptor antibody"
+}
+
+{
+  "Phenotype": "Anti-ITPR1 antibody"
+}
+
+{
+  "Phenotype": "Anti-GABA(A)R antibody"
+}
+
+{
+  "Phenotype": "Anti-muscle-specific tyrosine kinase antibody"
+}
+
+{
+  "Phenotype": "Anti-GlyR antibody"
+}
+

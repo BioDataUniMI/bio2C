@@ -1,0 +1,1 @@
+Find pre-miRNAs whose sequence contains exactly 25 occurrences of 'G' and 25 occurrences of 'A' that are causal somatic mutations in diseases. Return the matching pre-miRNA and disease labels.

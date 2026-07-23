@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) WHERE t.Label IN ['SMG1P6', 'SMG1P7'] AND NOT m.Label ENDS WITH 'p' RETURN g.Label AS SourceGene, pre.Label AS Pre_miRNA, m.Label AS Mature_miRNA

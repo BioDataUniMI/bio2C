@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-4261",
+  "Description": "homo sapiens (human) hsa-mir-4261",
+  "Length": 16
+}
+
+{
+  "miRNA": "hsa-miR-4266",
+  "Description": "homo sapiens (human) hsa-mir-4266",
+  "Length": 16
+}
+
+{
+  "miRNA": "hsa-miR-4267",
+  "Description": "homo sapiens (human) hsa-mir-4267",
+  "Length": 16
+}
+
+{
+  "miRNA": "hsa-miR-4279",
+  "Description": "homo sapiens (human) hsa-mir-4279",
+  "Length": 16
+}
+
+{
+  "miRNA": "hsa-miR-4291",
+  "Description": "homo sapiens (human) hsa-mir-4291",
+  "Length": 16
+}
+

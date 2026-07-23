@@ -1,0 +1,14 @@
+{
+  "BiologicalProcess": "regulation of cell cycle",
+  "MolecularFunctionLabel": "cyclin-dependent protein kinase activity",
+  "MolecularFunctionDescription": "cyclin-dependent catalysis of the phosphorylation of an amino acid residue in a protein, usually ...",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "BiologicalProcess": "regulation of cell cycle",
+  "MolecularFunctionLabel": "cyclin-dependent protein kinase activity",
+  "MolecularFunctionDescription": "cyclin-dependent catalysis of the phosphorylation of an amino acid residue in a protein, usually ...",
+  "miRNA": "hsa-let-7a-5p"
+}
+

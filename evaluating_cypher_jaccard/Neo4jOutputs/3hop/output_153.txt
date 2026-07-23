@@ -1,0 +1,30 @@
+{
+  "Disease": "parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "young-onset Parkinson disease",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "Parkinson disease 22, autosomal dominant",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "juvenile onset Parkinson disease 19A",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+
+{
+  "Disease": "Parkinson disease 17",
+  "NeurodegenerativeDisease": "Parkinson disease",
+  "miRNA": "hsa-miR-433-3p"
+}
+

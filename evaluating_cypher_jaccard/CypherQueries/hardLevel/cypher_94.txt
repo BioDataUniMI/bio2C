@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r1:over_expressed_in|under_expressed_in]->(d1:Autoimmune_disease), (m)-[r2:over_expressed_in|under_expressed_in]->(d2:Cardiovascular_disease) RETURN m.Label AS miRNA, d1.Label AS autoimmune_disease, TYPE(r1) AS expression_in_autoimmune,d2.Label AS cardiovascular_disease, TYPE(r2) AS expression_in_cardiovascular, d1.Label, d2.Label

@@ -1,0 +1,1 @@
+Identify cellular components that contain the word 'extracellular' but do not contain 'nucleus', where miRNAs transcribed from genes are located. Return the gene, miRNA, and cellular component labels.

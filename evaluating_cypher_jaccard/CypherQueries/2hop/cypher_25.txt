@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_participant]->(m:miRNA)-[:located_in]->(cc:Cellular_component) WHERE go.Label CONTAINS 'mediated gene silencing' AND cc.Label CONTAINS 'SMAD protein complex' RETURN go.Label AS GO, cc.Label AS CellularComponent, COUNT(m) AS miRNAs ORDER BY miRNAs DESC, GO, CellularComponent

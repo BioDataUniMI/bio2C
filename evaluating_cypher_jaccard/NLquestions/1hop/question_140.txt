@@ -1,0 +1,1 @@
+Return the first 10 nucleotides of miRNA sequences that participate in molecular functions. Return the miRNA label, truncated sequence (i.e., first 10 nts), and associated molecular function label.

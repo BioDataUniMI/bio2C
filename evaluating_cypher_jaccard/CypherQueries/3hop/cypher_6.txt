@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(p1:Phenotype)-[:part_of]->(p2:Phenotype)-[:part_of]->(p3:Phenotype)-[:has_modifier]->(p4:Phenotype) RETURN m.Label AS miRNA, p1.Label AS phenotype, p2.Label AS parent_phenotype, p3.Label AS grandparent_phenotype, p4.Label AS modifier_phenotype

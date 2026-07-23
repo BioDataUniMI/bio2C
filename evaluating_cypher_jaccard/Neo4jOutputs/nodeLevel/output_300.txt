@@ -1,0 +1,25 @@
+{
+  "g.Label": "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+  "g.Description": "a gene of mycobacterium tuberculosis h37rv that has a protein-coding gene disposition"
+}
+
+{
+  "g.Label": "gene of severe acute respiratory syndrome coronavirus 2",
+  "g.Description": "a gene that is part of the genome of severe acute respiratory syndrome coronavirus 2."
+}
+
+{
+  "g.Label": "gene",
+  "g.Description": "a gene is a material entity that represents the entire dna sequence required for synthesis of a f..."
+}
+
+{
+  "g.Label": "gene of Proteobacteria",
+  "g.Description": "a gene of an organism of proteobacteria"
+}
+
+{
+  "g.Label": "gene of Brucella melitensis bv. 1 str. 16M",
+  "g.Description": "a gene of an organism of brucella melitensis bv. 1 str. 16m"
+}
+

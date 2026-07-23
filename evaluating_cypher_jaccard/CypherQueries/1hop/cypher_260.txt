@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-603'})-[:regulates_activity_of]->(t:Gene) RETURN t.Label AS TargetGene

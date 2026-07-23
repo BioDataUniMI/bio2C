@@ -1,0 +1,24 @@
+{
+  "pre_miRNA_ID": "RNAcentral:URS00006B7D0F_9606",
+  "CUCount": 9,
+  "Infectious_disease_terms": [
+    "adult T-cell leukemia/lymphoma"
+  ]
+}
+
+{
+  "pre_miRNA_ID": "RNAcentral:URS000075B799_9606",
+  "CUCount": 7,
+  "Infectious_disease_terms": [
+    "toxoplasmosis"
+  ]
+}
+
+{
+  "pre_miRNA_ID": "RNAcentral:URS00000AF93C_9606",
+  "CUCount": 6,
+  "Infectious_disease_terms": [
+    "toxoplasmosis"
+  ]
+}
+

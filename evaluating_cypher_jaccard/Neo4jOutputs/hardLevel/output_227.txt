@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-1281 precursor",
+  "Middle_4_letters": "UCUC"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Middle_4_letters": "CUGU"
+}
+
+{
+  "miRNA": "hsa-miR-24-3p",
+  "Middle_4_letters": "UCAG"
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "Middle_4_letters": "GUUC"
+}
+
+{
+  "miRNA": "hsa-miR-93-3p",
+  "Middle_4_letters": "CUAG"
+}
+

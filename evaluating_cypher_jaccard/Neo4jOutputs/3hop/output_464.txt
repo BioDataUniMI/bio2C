@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Neoplasm of the gallbladder",
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Neoplasm of the gallbladder",
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy, adult form"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Neoplasm of the gallbladder",
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy, late infantile form"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Neoplasm of the gallbladder",
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 9"
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Disease": "sarcoma",
+  "Phenotype": "Neoplasm of the gallbladder",
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 6"
+}
+

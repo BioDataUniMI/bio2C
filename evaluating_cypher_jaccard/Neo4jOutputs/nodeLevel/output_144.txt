@@ -1,0 +1,25 @@
+{
+  "g.Label": "phosphopantothenoylcysteine decarboxylase complex",
+  "g.Description": "a protein complex that catalyzes decarboxylation of 4'-phosphopantothenoylcysteine to yield 4'-ph..."
+}
+
+{
+  "g.Label": "ornithine catabolic process, by decarboxylation",
+  "g.Description": "the chemical reactions and pathways resulting in the breakdown of ornithine by decarboxylation."
+}
+
+{
+  "g.Label": "agmatine biosynthetic process",
+  "g.Description": "the chemical reactions and pathways resulting in the formation of agmatine ((4-aminobutyl)guanidi..."
+}
+
+{
+  "g.Label": "sulfopyruvate decarboxylase complex",
+  "g.Description": "a complex of two polypeptides which form a dodecamer (a6b6). catalyzes the decarboxylation of sul..."
+}
+
+{
+  "g.Label": "oxoadipate dehydrogenase complex",
+  "g.Description": "a multi-enzyme complex that catalyzes the oxidative decarboxylation of 2-oxoadipate to glutaryl-c..."
+}
+

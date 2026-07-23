@@ -1,0 +1,1 @@
+Find the miRNA(s) whose sequences contain the highest number of 'U' nucleotides (include ties). Return their labels, sequences, and the count of 'U's.

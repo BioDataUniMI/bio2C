@@ -1,0 +1,1 @@
+Identify genes regulated by miRNAs expressed in the 'adenoma' cancer that cause or contribute to diseases with labels containing the word 'benign'. Return the gene, miRNA, and disease labels.

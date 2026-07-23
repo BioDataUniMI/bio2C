@@ -1,0 +1,40 @@
+{
+  "PredisposingDisease": "leukemia, chronic lymphocytic, susceptibility to, 2",
+  "PredisposedDisease": "B-cell chronic lymphocytic leukemia",
+  "SharedPhenotypes": [
+    "Chronic lymphatic leukemia"
+  ]
+}
+
+{
+  "PredisposingDisease": "multiple sclerosis, susceptibility to",
+  "PredisposedDisease": "multiple sclerosis",
+  "SharedPhenotypes": [
+    "Muscle weakness"
+  ]
+}
+
+{
+  "PredisposingDisease": "Kaposi sarcoma, susceptibility to",
+  "PredisposedDisease": "Kaposi's sarcoma",
+  "SharedPhenotypes": [
+    "Hypermelanotic macule"
+  ]
+}
+
+{
+  "PredisposingDisease": "type 1 diabetes mellitus 10",
+  "PredisposedDisease": "type 1 diabetes mellitus",
+  "SharedPhenotypes": [
+    "Diabetes mellitus"
+  ]
+}
+
+{
+  "PredisposingDisease": "epilepsy, idiopathic generalized, susceptibility to, 7",
+  "PredisposedDisease": "idiopathic generalized epilepsy",
+  "SharedPhenotypes": [
+    "Bilateral tonic-clonic seizure"
+  ]
+}
+

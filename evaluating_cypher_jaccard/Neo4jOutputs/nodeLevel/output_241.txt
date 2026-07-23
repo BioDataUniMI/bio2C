@@ -1,0 +1,20 @@
+{
+  "Disease": "adult brainstem gliosarcoma"
+}
+
+{
+  "Disease": "adult brain ependymoma"
+}
+
+{
+  "Disease": "adult brain stem neoplasm"
+}
+
+{
+  "Disease": "adult brainstem astrocytoma"
+}
+
+{
+  "Disease": "adult brainstem mixed glioma"
+}
+

@@ -1,0 +1,1 @@
+List all miRNAs that are causal somatic mutations in nodes of type cancer or sublass of cancer (up to 5 hierarchy levels) whose label contains the word 'cervical'. Return the miRNA label and the cancer label.

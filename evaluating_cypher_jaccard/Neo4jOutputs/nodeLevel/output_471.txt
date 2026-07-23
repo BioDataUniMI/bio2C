@@ -1,0 +1,10 @@
+{
+  "p.Label": "Abnormal zona pellucida morphology",
+  "p.Description": "abnormal structure of the oocyte extracellular matrix region known as the zona pellucida."
+}
+
+{
+  "p.Label": "Thin zona pellucida",
+  "p.Description": "reduced thickness of the zona pellucida."
+}
+

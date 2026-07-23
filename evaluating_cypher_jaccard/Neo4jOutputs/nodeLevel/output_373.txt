@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "Kluver-Bucy syndrome",
+  "i.ID": "MONDO:0005817"
+}
+

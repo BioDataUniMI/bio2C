@@ -1,0 +1,1 @@
+Return the last 20% of the miRNA sequences having the maximum length among miRNAs under-expressed in infectious diseases. Include miRNA label, disease, and last 20% of the sequence.

@@ -1,0 +1,35 @@
+{
+  "BiologicalProcess": "blood circulation",
+  "Disease": "ischemic disease",
+  "Phenotype": "Oral cavity bleeding",
+  "miRNA": "hsa-miR-125a-5p"
+}
+
+{
+  "BiologicalProcess": "blood circulation",
+  "Disease": "ischemic disease",
+  "Phenotype": "Prolonged bleeding following circumcision",
+  "miRNA": "hsa-miR-125a-5p"
+}
+
+{
+  "BiologicalProcess": "blood circulation",
+  "Disease": "ischemic disease",
+  "Phenotype": "Prolonged bleeding following procedure",
+  "miRNA": "hsa-miR-125a-5p"
+}
+
+{
+  "BiologicalProcess": "blood circulation",
+  "Disease": "ischemic disease",
+  "Phenotype": "Prolonged bleeding after dental extraction",
+  "miRNA": "hsa-miR-125a-5p"
+}
+
+{
+  "BiologicalProcess": "blood circulation",
+  "Disease": "ischemic disease",
+  "Phenotype": "Prolonged bleeding after surgery",
+  "miRNA": "hsa-miR-125a-5p"
+}
+

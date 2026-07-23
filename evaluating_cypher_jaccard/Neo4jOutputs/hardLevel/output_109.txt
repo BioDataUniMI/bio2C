@@ -1,0 +1,15 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-876 precursor",
+  "Phenotype": "Thyroid carcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1324 precursor",
+  "Phenotype": "Thyroid carcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-1275 precursor",
+  "Phenotype": "Thyroid carcinoma"
+}
+

@@ -1,0 +1,1 @@
+Find the top five diseases ranked by the total number of PubMedIDs publications recorded across all under-expression relationships of pre-miRNAs in that disease. Return the disease label and this total PubMedID count, breaking ties by sorting alphabetically by disease label.

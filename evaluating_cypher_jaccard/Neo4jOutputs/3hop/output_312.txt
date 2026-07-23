@@ -1,0 +1,9 @@
+{
+  "go": {
+    "Description": "a protein complex that is wholly or partially contained within the lumen or membrane of the extra...",
+    "Label": "extracellular exosome complex",
+    "ID": "GO:1990563",
+    "URI": "http://purl.obolibrary.org/obo/GO_1990563"
+  }
+}
+

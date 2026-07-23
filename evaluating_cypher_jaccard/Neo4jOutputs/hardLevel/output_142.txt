@@ -1,0 +1,26 @@
+{
+  "Gene": "UBE2C",
+  "GeneSynonyms": [
+    "ubiquitin-protein ligase C",
+    "ubiquitin-conjugating enzyme E2 C",
+    "E2 ubiquitin-conjugating enzyme C",
+    "cyclin-selective ubiquitin carrier protein",
+    "ubiquitin conjugating enzyme E2 C",
+    "mitotic-specific ubiquitin-conjugating enzyme",
+    "ubiquitin conjugating enzyme E2C",
+    "dJ447F3.2",
+    "(E3-independent) E2 ubiquitin-conjugating enzyme C",
+    "UBCH10"
+  ],
+  "miRNA": "hsa-miR-4429",
+  "Diseases": [
+    "breast neoplasm",
+    "chromosomal disorder",
+    "hereditary breast carcinoma",
+    "hepatocellular carcinoma",
+    "breast cancer",
+    "fibrolamellar hepatocellular carcinoma",
+    "breast carcinoma"
+  ]
+}
+

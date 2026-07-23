@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:has_participant]->(pre:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA)-[:over_expressed_in]->(c:Cancer) WHERE pre.Label CONTAINS '93' AND c.Label CONTAINS 'hepatocellular' RETURN go.Label AS GOterm, pre.Label AS Pre_miRNA, m.Label AS miRNA, c.Label AS Cancer

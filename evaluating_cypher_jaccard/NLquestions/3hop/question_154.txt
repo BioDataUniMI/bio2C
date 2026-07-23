@@ -1,0 +1,1 @@
+Which miRNAs are expressed by neurodegenerative diseases that are superclasses of diseases which are characterized by the phenotype labeled as 'Drooling'? Return the label of the: disease, neurodegenerative disease, and miRNA.

@@ -1,0 +1,20 @@
+{
+  "Disease": "autosomal dominant rhegmatogenous retinal detachment"
+}
+
+{
+  "Disease": "tuberous sclerosis 1"
+}
+
+{
+  "Disease": "megalencephalic leukoencephalopathy with subcortical cysts 1"
+}
+
+{
+  "Disease": "sciatica"
+}
+
+{
+  "Disease": "Alzheimer disease"
+}
+

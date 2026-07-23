@@ -1,0 +1,20 @@
+{
+  "d.Label": "multiple sclerosis, susceptibility to, 2"
+}
+
+{
+  "d.Label": "primary progressive multiple sclerosis"
+}
+
+{
+  "d.Label": "chronic progressive multiple sclerosis"
+}
+
+{
+  "d.Label": "progressive relapsing multiple sclerosis"
+}
+
+{
+  "d.Label": "multiple sclerosis, susceptibility to, 3"
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(n:Neurodegenerative_disease)-[:has_phenotype]->(p:Phenotype)<-[:has_phenotype]-(cv:Cardiovascular_disease) WHERE (p.Label CONTAINS 'Middle age' OR p.Description CONTAINS 'Middle age') RETURN DISTINCT d.Label AS Disease, n.Label AS NeurodegenerativeDisease, p.Label AS Phenotype

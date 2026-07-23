@@ -1,0 +1,1 @@
+Find cancers whose descriptions contain the word 'size' and also contain a number followed by 'cm'.

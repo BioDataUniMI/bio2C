@@ -1,0 +1,1 @@
+Find the cellular components where pre-miRNAs similar to the 'microRNA hsa-mir-18b precursor' miRNAs are located.

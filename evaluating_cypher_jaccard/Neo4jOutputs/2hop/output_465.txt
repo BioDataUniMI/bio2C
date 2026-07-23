@@ -1,0 +1,40 @@
+{
+  "Similar_to": "microRNA hsa-mir-329 precursor (hsa-mir-329-1)",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ]
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-494 precursor",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ]
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-487a precursor",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ]
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-376c precursor",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ]
+}
+
+{
+  "Similar_to": "microRNA hsa-mir-543 precursor",
+  "Target_Type": [
+    "miRNA",
+    "pre_miRNA"
+  ]
+}
+

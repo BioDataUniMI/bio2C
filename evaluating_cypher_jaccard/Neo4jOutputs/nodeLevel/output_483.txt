@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "host cell PML body",
+  "cc.Description": "a nuclear body that reacts against sp100 auto-antibodies (pml = promyelocytic leukemia) located w..."
+}
+

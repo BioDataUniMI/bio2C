@@ -1,0 +1,24 @@
+{
+  "Disease": "silicotuberculosis",
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Number_of_U": 31
+}
+
+{
+  "Disease": "Zika virus infectious disease",
+  "miRNA": "microRNA hsa-mir-511 precursor",
+  "Number_of_U": 29
+}
+
+{
+  "Disease": "epidermodysplasia verruciformis",
+  "miRNA": "microRNA hsa-mir-146a precursor",
+  "Number_of_U": 34
+}
+
+{
+  "Disease": "pneumonia",
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Number_of_U": 28
+}
+

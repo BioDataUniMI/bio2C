@@ -1,0 +1,20 @@
+{
+  "p.Label": "Tall stature"
+}
+
+{
+  "p.Label": "High palate"
+}
+
+{
+  "p.Label": "High forehead"
+}
+
+{
+  "p.Label": "Increased vertebral height"
+}
+
+{
+  "p.Label": "Tall lumbar vertebral bodies"
+}
+

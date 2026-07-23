@@ -1,0 +1,30 @@
+{
+  "Gene": "MIR744",
+  "PreMiRNA": "microRNA hsa-mir-744 precursor",
+  "MatureMiRNA": "hsa-miR-744-5p"
+}
+
+{
+  "Gene": "MIR3144",
+  "PreMiRNA": "microRNA hsa-mir-3144 precursor",
+  "MatureMiRNA": "hsa-miR-3144-5p"
+}
+
+{
+  "Gene": "MIR3944",
+  "PreMiRNA": "microRNA hsa-mir-3944 precursor",
+  "MatureMiRNA": "hsa-miR-3944-5p"
+}
+
+{
+  "Gene": "MIR6744",
+  "PreMiRNA": "microRNA hsa-mir-6744 precursor",
+  "MatureMiRNA": "hsa-miR-6744-5p"
+}
+
+{
+  "Gene": "MIR7844",
+  "PreMiRNA": "microRNA hsa-mir-7844 precursor",
+  "MatureMiRNA": "hsa-miR-7844-5p"
+}
+

@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "TIM23 mitochondrial import inner membrane translocase complex",
+  "Description": "the protein transport machinery of the mitochondrial inner membrane that typically transports pro..."
+}
+
+{
+  "CellularComponent": "mitochondrial intracristal space",
+  "Description": "the space bounded by the mitochondrial cristae membranes, continuous with the intermembrane space."
+}
+
+{
+  "CellularComponent": "outer mitochondrial membrane protein complex",
+  "Description": "any protein complex that is part of the outer mitochondrial membrane."
+}
+
+{
+  "CellularComponent": "extrinsic component of matrix side of mitochondrial inner membrane",
+  "Description": "the component of the matrix side of the mitochondrial inner membrane consisting of gene products ..."
+}
+
+{
+  "CellularComponent": "matrix side of mitochondrial inner membrane",
+  "Description": "the side (leaflet) of the mitochondrial inner membrane that faces the matrix."
+}
+

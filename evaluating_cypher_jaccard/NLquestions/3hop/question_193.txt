@@ -1,0 +1,1 @@
+Identify the genes regulated by the miRNA 'hsa-miR-203a-3p' that cause or contribute to diseases caused by disruption of GO terms. Return the labels of the gene, the disease and the GO term.

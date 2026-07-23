@@ -1,0 +1,6 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-23a precursor",
+  "miRNA": "hsa-miR-23a-5p",
+  "MaxComponentCount": 24
+}
+

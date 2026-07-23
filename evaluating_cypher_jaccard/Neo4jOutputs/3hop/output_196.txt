@@ -1,0 +1,35 @@
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CCND2",
+  "Disease": "type 2 diabetes mellitus"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CCND2",
+  "Disease": "diabetes mellitus"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "NR1I2",
+  "Disease": "diabetes mellitus"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CASP8",
+  "Disease": "type 2 diabetes mellitus"
+}
+
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CASP8",
+  "Disease": "diabetes mellitus"
+}
+

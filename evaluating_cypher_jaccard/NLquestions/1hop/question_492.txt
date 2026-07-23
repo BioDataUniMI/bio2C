@@ -1,0 +1,1 @@
+Find miRNAs directly regulated by the miRNA 'hsa-miR-320d'. Return the labels of both the regulator and the target miRNAs, as well as the properties of the regulation relationship.

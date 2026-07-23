@@ -1,0 +1,35 @@
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "DisruptedGO": "axon guidance",
+  "MolecularFunction": "chemoattractant activity involved in axon guidance",
+  "BiologicalProcess": "chemoattraction of axon"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "DisruptedGO": "axon guidance",
+  "MolecularFunction": "chemoattractant activity involved in axon guidance",
+  "BiologicalProcess": "axon guidance"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "DisruptedGO": "axon guidance",
+  "MolecularFunction": "axon guidance receptor activity",
+  "BiologicalProcess": "axon guidance"
+}
+
+{
+  "Disease": "disorder of glycogen metabolism",
+  "DisruptedGO": "glycogen metabolic process",
+  "MolecularFunction": "glycogen debranching enzyme activity",
+  "BiologicalProcess": "glycogen metabolic process"
+}
+
+{
+  "Disease": "methylmalonic aciduria and homocystinuria type cblF",
+  "DisruptedGO": "cobalamin transport",
+  "MolecularFunction": "ABC-type vitamin B12 transporter activity",
+  "BiologicalProcess": "cobalamin transport"
+}
+

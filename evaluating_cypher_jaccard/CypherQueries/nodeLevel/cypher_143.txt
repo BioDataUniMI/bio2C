@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Species:'Homo sapiens'}) WHERE ALL(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr1:') AND m.Sequence ENDS WITH 'UA' RETURN m.Label AS miRNA, m.Genomic_coordinates AS GenomicCoordinates

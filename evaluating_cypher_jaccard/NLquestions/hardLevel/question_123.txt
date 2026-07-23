@@ -1,0 +1,1 @@
+Retrieve all distinct genomic coordinates for the gene 'CT47A12', returning the full chromosome coordinate strings (e.g., 'chrX:120977606-120980928-'). Order the result set alphabetically by chromosome coordinates.

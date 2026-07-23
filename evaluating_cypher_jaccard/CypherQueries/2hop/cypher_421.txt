@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:located_in]->(cc:Cellular_component {Label :'extracellular exosome'}) RETURN COUNT(DISTINCT p) AS Pre_miRNA_Count, COUNT(DISTINCT m) AS miRNA_Count

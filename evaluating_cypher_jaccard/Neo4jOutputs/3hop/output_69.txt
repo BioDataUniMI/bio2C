@@ -1,0 +1,30 @@
+{
+  "biological_process": "sympathetic neuron axon guidance",
+  "cellular_component": "growth cone",
+  "parent_cellular_component": "site of polarized growth"
+}
+
+{
+  "biological_process": "photoreceptor cell axon guidance",
+  "cellular_component": "growth cone",
+  "parent_cellular_component": "site of polarized growth"
+}
+
+{
+  "biological_process": "commissural neuron axon guidance",
+  "cellular_component": "growth cone",
+  "parent_cellular_component": "site of polarized growth"
+}
+
+{
+  "biological_process": "olfactory bulb axon guidance",
+  "cellular_component": "growth cone",
+  "parent_cellular_component": "site of polarized growth"
+}
+
+{
+  "biological_process": "interneuron axon guidance",
+  "cellular_component": "growth cone",
+  "parent_cellular_component": "site of polarized growth"
+}
+

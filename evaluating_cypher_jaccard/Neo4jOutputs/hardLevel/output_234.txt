@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-340-5p",
+  "First_10_Percent_Sequence": "UU"
+}
+
+{
+  "miRNA": "hsa-let-7e-5p",
+  "First_10_Percent_Sequence": "UG"
+}
+
+{
+  "miRNA": "hsa-miR-29b-1-5p",
+  "First_10_Percent_Sequence": "GC"
+}
+
+{
+  "miRNA": "hsa-miR-519a-3p",
+  "First_10_Percent_Sequence": "AA"
+}
+
+{
+  "miRNA": "hsa-miR-491-5p",
+  "First_10_Percent_Sequence": "AG"
+}
+

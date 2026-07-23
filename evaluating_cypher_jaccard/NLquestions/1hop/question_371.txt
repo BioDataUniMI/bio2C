@@ -1,0 +1,1 @@
+Return miRNAs that are annotated with biological processes whose labels contain the string 'cell motility' using the 'has_function' relationshyp type.

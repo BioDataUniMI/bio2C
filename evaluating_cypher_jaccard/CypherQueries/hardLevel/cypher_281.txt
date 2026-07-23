@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WITH i, m, SIZE(SPLIT(m.Sequence, 'U')) - 1 AS U_count WHERE U_count > 26 RETURN i.Label AS Disease, m.Label AS miRNA, U_count AS Number_of_U

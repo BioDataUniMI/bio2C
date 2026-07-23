@@ -1,0 +1,35 @@
+{
+  "GOTerm": "IgD immunoglobulin complex, GPI-anchored",
+  "Synonyms": [
+    "IgD immunoglobulin complex, GPI-anchored"
+  ]
+}
+
+{
+  "GOTerm": "IgD immunoglobulin complex",
+  "Synonyms": [
+    "IgD immunoglobulin complex"
+  ]
+}
+
+{
+  "GOTerm": "IgG immunoglobulin complex",
+  "Synonyms": [
+    "IgG immunoglobulin complex"
+  ]
+}
+
+{
+  "GOTerm": "IgA immunoglobulin complex, circulating",
+  "Synonyms": [
+    "IgA immunoglobulin complex, circulating"
+  ]
+}
+
+{
+  "GOTerm": "IgD immunoglobulin complex, circulating",
+  "Synonyms": [
+    "IgD immunoglobulin complex, circulating"
+  ]
+}
+

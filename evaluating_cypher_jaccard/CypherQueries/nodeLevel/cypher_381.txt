@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease) WHERE i.Description =~ '.*[0-9]+\s*day.*' AND (i.Label CONTAINS 'influenza' OR i.Description CONTAINS 'influenza') RETURN i.Label AS DiseaseLabel

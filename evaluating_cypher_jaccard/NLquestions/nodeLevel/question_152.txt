@@ -1,0 +1,1 @@
+Which precursor miRNAs have genomic coordinates on chromosome 1 (chr1:) and sequences longer than 100 nucleotides?

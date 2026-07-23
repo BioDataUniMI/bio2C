@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-30a-5p",
+  "SequenceLength": 22,
+  "GenomicCoordinates": [
+    "chr6:71403595-71403616-"
+  ],
+  "CellularComponent": "site of DNA damage"
+}
+
+{
+  "miRNA": "hsa-miR-155-5p",
+  "SequenceLength": 24,
+  "GenomicCoordinates": [
+    "chr21:25573983-25574006+"
+  ],
+  "CellularComponent": "chromatin"
+}
+
+{
+  "miRNA": "hsa-miR-196b-5p",
+  "SequenceLength": 22,
+  "GenomicCoordinates": [
+    "chr7:27169528-27169549-"
+  ],
+  "CellularComponent": "chromatin"
+}
+
+{
+  "miRNA": "hsa-miR-429",
+  "SequenceLength": 22,
+  "GenomicCoordinates": [
+    "chr1:1169055-1169076+"
+  ],
+  "CellularComponent": "chromatin"
+}
+
+{
+  "miRNA": "hsa-miR-30a-5p",
+  "SequenceLength": 22,
+  "GenomicCoordinates": [
+    "chr6:71403595-71403616-"
+  ],
+  "CellularComponent": "chromatin"
+}
+

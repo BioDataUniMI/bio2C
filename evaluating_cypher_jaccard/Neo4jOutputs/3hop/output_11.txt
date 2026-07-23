@@ -1,0 +1,12 @@
+{
+  "miRNA": "microRNA hsa-mir-3689f precursor",
+  "similar_miRNA": "microRNA hsa-mir-3689e precursor",
+  "gene": "MIR3689F"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3689f precursor",
+  "similar_miRNA": "microRNA hsa-mir-3689c precursor",
+  "gene": "MIR3689F"
+}
+

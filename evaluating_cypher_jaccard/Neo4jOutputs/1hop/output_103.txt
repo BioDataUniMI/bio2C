@@ -1,0 +1,23 @@
+{
+  "miRNA": "microRNA hsa-mir-1307 precursor",
+  "Chromosome": [
+    "chr10:103394253-103394401-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1307 precursor",
+  "Chromosome": [
+    "chr10:103394253-103394401-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-181d precursor",
+  "Chromosome": [
+    "chrCHR_HG109_PATCH:86716-86852+",
+    "chrHG109_PATCH:86716-86852+",
+    "chr19:13874875-13875011+"
+  ]
+}
+

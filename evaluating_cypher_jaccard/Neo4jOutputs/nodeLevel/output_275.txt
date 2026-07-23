@@ -1,0 +1,54 @@
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "SIZE(pm.Sequence)": 138,
+  "pm.Genomic_coordinates": [
+    "chr15:101960459-101960596-",
+    "chrCHR_HG2499_PATCH:66596-66733-",
+    "chr1:30366-30503+",
+    "chr19:71973-72110+",
+    "chrHG2499_PATCH:66596-66733-",
+    "chr9:30144-30281+"
+  ]
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-1184 precursor (hsa-mir-1184 1 to 3)",
+  "SIZE(pm.Sequence)": 99,
+  "pm.Genomic_coordinates": [
+    "chrX:155383100-155383198-",
+    "chrX:154887360-154887458-",
+    "chrX:155457517-155457615+"
+  ]
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-4509 precursor (hsa-mir-4509 1 to 3)",
+  "SIZE(pm.Sequence)": 94,
+  "pm.Genomic_coordinates": [
+    "chr15:23197827-23197920+",
+    "chr15:28426491-28426584+",
+    "chr15:28490752-28490845-"
+  ]
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-6770 precursor (hsa-mir-6770 1 to 3)",
+  "SIZE(pm.Sequence)": 60,
+  "pm.Genomic_coordinates": [
+    "chr16:16329305-16329364+",
+    "chr16:18379351-18379410-",
+    "chr16:14930820-14930879+"
+  ]
+}
+
+{
+  "Pre_miRNA_Label": "microRNA hsa-mir-3179 precursor (hsa-mir-3179 1 to 4)",
+  "SIZE(pm.Sequence)": 84,
+  "pm.Genomic_coordinates": [
+    "chr16:14901508-14901591+",
+    "chr16:18494493-18494576-",
+    "chr16:18411894-18411977-",
+    "chr16:16300159-16300242+"
+  ]
+}
+

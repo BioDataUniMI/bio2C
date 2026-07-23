@@ -1,0 +1,20 @@
+{
+  "MolecularFunction": "ADP:phosphate antiporter activity"
+}
+
+{
+  "MolecularFunction": "ADP-ribosylarginine hydrolase activity"
+}
+
+{
+  "MolecularFunction": "ADP-heptose-lipopolysaccharide heptosyltransferase activity"
+}
+
+{
+  "MolecularFunction": "ADP-glyceromanno-heptose 6-epimerase activity"
+}
+
+{
+  "MolecularFunction": "ADP-ribose pyrophosphohydrolase activity"
+}
+

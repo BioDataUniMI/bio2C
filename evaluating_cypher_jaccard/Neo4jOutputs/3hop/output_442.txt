@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-605-5p",
+  "BiologicalProcess": "intracellular protein transport",
+  "CellularComponent": "intracellular anatomical structure",
+  "GOterm": "unencapsulated part of cell"
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "intracellular protein transport",
+  "CellularComponent": "intracellular anatomical structure",
+  "GOterm": "unencapsulated part of cell"
+}
+
+{
+  "miRNA": "hsa-miR-942-5p",
+  "BiologicalProcess": "intracellular protein transport",
+  "CellularComponent": "intracellular anatomical structure",
+  "GOterm": "unencapsulated part of cell"
+}
+
+{
+  "miRNA": "hsa-miR-181a-5p",
+  "BiologicalProcess": "intracellular protein transport",
+  "CellularComponent": "intracellular anatomical structure",
+  "GOterm": "unencapsulated part of cell"
+}
+
+{
+  "miRNA": "hsa-miR-155-3p",
+  "BiologicalProcess": "intracellular protein transport",
+  "CellularComponent": "intracellular anatomical structure",
+  "GOterm": "unencapsulated part of cell"
+}
+

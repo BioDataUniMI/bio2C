@@ -1,0 +1,4 @@
+{
+  "d.Label": "autosomal recessive brachyolmia"
+}
+

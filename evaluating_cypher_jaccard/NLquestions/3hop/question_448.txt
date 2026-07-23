@@ -1,0 +1,1 @@
+Identify diseases caused by the disruption of GO terms that have molecular functions which are part of biological processes. Return the disease label, GO term label, molecular function label, and biological process label.

@@ -1,0 +1,1 @@
+Which miRNAs whose label ends with 'a precursor' cause or contribute to nodes that are either phenotypes or subclass of phenotypes whose label contains the word 'cerebral' through one or more hierarchical relationships? Return label of the miRNA and phenotype.

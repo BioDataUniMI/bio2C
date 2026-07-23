@@ -1,0 +1,1 @@
+Find GO terms that result in the organization of other GO terms where the relationship source includes ALL the following sources: 'CLO', 'GO', and 'Uberon'. Return the label of both GO terms along with the sources.

@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:disease_causes_disruption_of]->(go:GO)-[:function_of]->(m:miRNA)-[:transcribed_from]->(g:Gene) WHERE g.Label =~ '.*[0-9]$' RETURN c.Label AS Cancer, go.Label AS Disrupted_GO, m.Label AS miRNA, g.Label AS Gene

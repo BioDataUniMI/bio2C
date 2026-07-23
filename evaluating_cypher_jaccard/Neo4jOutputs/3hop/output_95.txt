@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-423 precursor",
+  "miRNA": "hsa-miR-423-5p",
+  "Gene": "CACNA2D2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1291 precursor",
+  "miRNA": "hsa-miR-1291",
+  "Gene": "SLC2A1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-22 precursor",
+  "miRNA": "hsa-miR-22-3p",
+  "Gene": "SLC2A1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-138 precursor (hsa-mir-138-1)",
+  "miRNA": "hsa-miR-138-5p",
+  "Gene": "NLRP3"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-138 precursor (hsa-mir-138-2)",
+  "miRNA": "hsa-miR-138-5p",
+  "Gene": "NLRP3"
+}
+

@@ -1,0 +1,10 @@
+{
+  "Gene": "H4C9",
+  "SynonymCount": 69
+}
+
+{
+  "Gene": "H4C11",
+  "SynonymCount": 68
+}
+

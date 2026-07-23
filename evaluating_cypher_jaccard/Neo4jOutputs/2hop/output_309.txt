@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of cyclin-dependent protein kinase activity"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of mitotic cell cycle phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of cell cycle phase transition"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of mitotic cell cycle"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "positive regulation of cyclin-dependent protein serine/threonine kinase activity"
+}
+

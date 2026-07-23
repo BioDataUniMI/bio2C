@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Label CONTAINS 'anion' AND (mf.Label CONTAINS 'transmembrane' OR mf.Description CONTAINS 'transmembrane') RETURN mf.Label, mf.ID

@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "distal dendrite",
+  "Description": "the dendrite of the dendritic tree that is farthest away from the neuronal cell body (the soma)."
+}
+
+{
+  "CellularComponent": "basal distal dendrite",
+  "Description": "any dendrite in a dendritic tree that emerges near the basal pole of a neuron (e.g. in bipolar ne..."
+}
+
+{
+  "CellularComponent": "dendritic branch point",
+  "Description": "the part of a dendritic tree where it branches, giving rise to a dendritic branch."
+}
+
+{
+  "CellularComponent": "apical proximal dendrite",
+  "Description": "the dendrite of the dendritic tree, which emerges near the apical pole of a neuron, and which is ..."
+}
+
+{
+  "CellularComponent": "basal proximal dendrite",
+  "Description": "any dendrite in a dendritic tree that emerges near the basal pole of a neuron (e.g. in bipolar ne..."
+}
+

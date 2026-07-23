@@ -1,0 +1,4 @@
+{
+  "AverageMiRNAsPerCellularComponent": 59.333333333333336
+}
+

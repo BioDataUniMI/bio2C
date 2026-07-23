@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in cancers (when FDR < 0.05) that have recorded phenotypic features, at least one genomic coordinate on chromosome 1 (use 'chr1:' as matching pattern), and contain the subsequence 'CAGUU'. Return the miRNA, cancer, phenotype, and FDR of under-expression relationship.

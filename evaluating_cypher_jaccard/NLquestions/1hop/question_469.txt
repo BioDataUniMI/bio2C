@@ -1,0 +1,1 @@
+Find the genomic coordinates and sequences of miRNAs that are not involved in biological processes whose label contains the string 'negative regulation'. Return the miRNA sequence and genomic coordinates, along with the process label.

@@ -1,0 +1,30 @@
+{
+  "Cancer": "lung cancer",
+  "Gene1": "H2AC11",
+  "Gene2": "H2BC4"
+}
+
+{
+  "Cancer": "lung cancer",
+  "Gene1": "H3C7",
+  "Gene2": "H2BC4"
+}
+
+{
+  "Cancer": "lung cancer",
+  "Gene1": "H4C5",
+  "Gene2": "H2BC4"
+}
+
+{
+  "Cancer": "lung cancer",
+  "Gene1": "H4C8",
+  "Gene2": "H2BC4"
+}
+
+{
+  "Cancer": "lung cancer",
+  "Gene1": "H3C2",
+  "Gene2": "H2BC4"
+}
+

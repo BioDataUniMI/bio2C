@@ -1,0 +1,1 @@
+Which miRNAs are characterized by all genomic coordinate located exclusively on chromosome 1 (i.e., each coordinate starts with 'chr1:') and, for every coordinate in the form 'chr:start-end', the start position (the number between ':' and '-' parsed as an integer) is less than or equal to 1,000,000 bp? Return the label of miRNA.

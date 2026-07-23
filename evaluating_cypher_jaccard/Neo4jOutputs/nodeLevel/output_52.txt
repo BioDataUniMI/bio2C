@@ -1,0 +1,20 @@
+{
+  "CellularComponent": "megasporocyte nucleus"
+}
+
+{
+  "CellularComponent": "micronucleus"
+}
+
+{
+  "CellularComponent": "polar nucleus"
+}
+
+{
+  "CellularComponent": "primary endosperm nucleus"
+}
+
+{
+  "CellularComponent": "male pronucleus"
+}
+

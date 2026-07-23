@@ -1,0 +1,1 @@
+Find the top 10 strongest associations between miRNAs and cardiovascular diseases, ranked by combWeight f the causes_or_contributes_to_condition relationship (descending). For ties, order by miRNA label alphabetically

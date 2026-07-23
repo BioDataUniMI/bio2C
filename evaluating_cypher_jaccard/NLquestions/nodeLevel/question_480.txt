@@ -1,0 +1,1 @@
+Which cellular components are characterized by labels containing the string 'active zone' and either contain the string 'cytoskelet' in their label or in their description? Return their label and URI.

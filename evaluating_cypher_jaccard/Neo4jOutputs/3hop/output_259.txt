@@ -1,0 +1,7 @@
+{
+  "GOterm": "nuclear DNA replication",
+  "BiologicalProcess": "telomere maintenance via semi-conservative replication",
+  "miRNA": "hsa-miR-24-3p",
+  "CellularComponent": "cell nucleus"
+}
+

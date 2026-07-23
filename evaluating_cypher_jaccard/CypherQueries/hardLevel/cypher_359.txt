@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:is_causal_germline_mutation_in]->(d1:Disease)-[:subclassof*7..]->(d2:Disease) WHERE d1 <> d2 AND d1.Label CONTAINS 'dog' RETURN DISTINCT d1.Label

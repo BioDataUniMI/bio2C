@@ -1,0 +1,16 @@
+{
+  "pre_miRNA": "Hsa-Mir-224_pre stem-loop",
+  "GenomicCoordinates": [
+    "chrX:151958582-151958651-"
+  ],
+  "Sequence": "CAAGUCACUAGUGGUUCCGUUUAGUAGAUGAUUGUGCAUUGUUUCAAAAUGGUGCCCUAGUGACUACAA"
+}
+
+{
+  "pre_miRNA": "Hsa-Mir-223_pre stem-loop",
+  "GenomicCoordinates": [
+    "chrX:66018894-66018959+"
+  ],
+  "Sequence": "CGUGUAUUUGACAAGCUGAGUUGGACACUCCAUGUGGUAGAGUGUCAGUUUGUCAAAUACCCCAA"
+}
+

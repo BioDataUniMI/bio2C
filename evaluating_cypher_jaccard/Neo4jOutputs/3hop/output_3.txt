@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-802",
+  "parentDisease": "hereditary disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "parentDisease": "hereditary disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-125b precursor (hsa-mir-125b-2)",
+  "parentDisease": "hereditary disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-99a precursor",
+  "parentDisease": "hereditary disease",
+  "characteristicDisease": "inherited"
+}
+
+{
+  "miRNA": "let-7c stem-loop (hsa-let-7c)",
+  "parentDisease": "hereditary disease",
+  "characteristicDisease": "inherited"
+}
+

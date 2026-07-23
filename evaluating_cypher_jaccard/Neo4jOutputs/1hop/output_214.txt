@@ -1,0 +1,41 @@
+{
+  "miRNA": "hsa-miR-184",
+  "BiologicalProcess": "apoptotic process",
+  "PubMedID": [
+    "18451220",
+    "25277131"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1246",
+  "BiologicalProcess": "apoptotic process",
+  "PubMedID": [
+    "25591821"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "apoptotic process",
+  "PubMedID": [
+    "20956382"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-638",
+  "BiologicalProcess": "apoptotic process",
+  "PubMedID": [
+    "25650662"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-650",
+  "BiologicalProcess": "apoptotic process",
+  "PubMedID": [
+    "23991130"
+  ]
+}
+

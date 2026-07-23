@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:acts_upstream_of]->(go:GO) WHERE SIZE(r.PubMedID) > 1 RETURN m.Label AS miRNA, go.Label AS GOTerm, r.PubMedID AS PubMedIDs

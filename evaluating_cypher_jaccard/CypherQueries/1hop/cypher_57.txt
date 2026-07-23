@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(b:Biological_process) WHERE ANY(c IN r.Context WHERE c = 'hepg2 cells') RETURN DISTINCT m.Label AS miRNA, b.Label AS Process_label, r.Context AS Context

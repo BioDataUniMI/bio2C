@@ -1,0 +1,10 @@
+{
+  "BiologicalProcess": "positive regulation of G2/M transition of mitotic cell cycle involved in cellular response to nit...",
+  "Description": "any positive regulation of g2/m transition of mitotic cell cycle that is involved in cellular res..."
+}
+
+{
+  "BiologicalProcess": "traversing start control point of mitotic cell cycle",
+  "Description": "a cell cycle process by which a cell commits to entering s phase via a positive feedback mechanis..."
+}
+

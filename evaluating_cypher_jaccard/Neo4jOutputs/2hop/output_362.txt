@@ -1,0 +1,30 @@
+{
+  "Cancer": "adenoma",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter"
+}
+
+{
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter"
+}
+
+{
+  "Cancer": "lipoma",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter"
+}
+
+{
+  "Cancer": "hamartoma",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-3p",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter"
+}
+

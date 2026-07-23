@@ -1,0 +1,30 @@
+{
+  "Gene": "VEGFA",
+  "Disease": "Leber congenital amaurosis 4",
+  "MaxMiRNACount": 55
+}
+
+{
+  "Gene": "VEGFA",
+  "Disease": "Leber congenital amaurosis",
+  "MaxMiRNACount": 55
+}
+
+{
+  "Gene": "VEGFA",
+  "Disease": "Alzheimer disease",
+  "MaxMiRNACount": 55
+}
+
+{
+  "Gene": "VEGFA",
+  "Disease": "Alzheimer disease 2",
+  "MaxMiRNACount": 55
+}
+
+{
+  "Gene": "VEGFA",
+  "Disease": "Alzheimer disease 12",
+  "MaxMiRNACount": 55
+}
+

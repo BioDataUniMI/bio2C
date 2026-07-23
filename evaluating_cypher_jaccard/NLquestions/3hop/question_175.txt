@@ -1,0 +1,1 @@
+For each biological process that is part of a GO term, how many unique phenotypes are associated with it? List the top 5 processes ordered by phenotype count in descending order and alphabetically by the label of the process to avoid ties.

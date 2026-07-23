@@ -1,0 +1,1 @@
+Find miRNAs that develop from a pre-miRNA such that the pre-miRNA sequence is exactly twice the length of the miRNA sequence.

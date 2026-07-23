@@ -1,0 +1,1 @@
+Find miRNAs whose sequences contain a motif of 19 consecutive Us. Return their label, sequences length, and URI.

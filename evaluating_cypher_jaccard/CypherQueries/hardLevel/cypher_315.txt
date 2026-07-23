@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WITH m, c, SIZE(m.Sequence) AS seq_len WITH MIN(seq_len) AS min_len WITH min_len MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) WITH m, c, SIZE(m.Sequence) AS seq_len, min_len WHERE seq_len = min_len RETURN c.Label AS Disease, m.Label AS miRNA, m.Sequence AS Sequence, seq_len AS Sequence_Length

@@ -1,0 +1,61 @@
+{
+  "d.Label": "breast carcinoma",
+  "r.Mutation": [
+    "COSN8316184",
+    "COSN8316185",
+    "COSN8316187",
+    "COSN8316183",
+    "COSN8316186",
+    "COSN14654230"
+  ],
+  "m.Label": "microRNA hsa-mir-4477b precursor"
+}
+
+{
+  "d.Label": "lung adenocarcinoma",
+  "r.Mutation": [
+    "COSN2380124",
+    "COSN2380123",
+    "COSN527617",
+    "COSN527616"
+  ],
+  "m.Label": "microRNA hsa-mir-1324 precursor"
+}
+
+{
+  "d.Label": "carcinoma of liver and intrahepatic biliary tract",
+  "r.Mutation": [
+    "COSN1310486",
+    "COSN1310482",
+    "COSN1310483",
+    "COSN1310481",
+    "COSN1310485",
+    "COSN1310484"
+  ],
+  "m.Label": "microRNA hsa-mir-3142 precursor"
+}
+
+{
+  "d.Label": "hepatocellular carcinoma",
+  "r.Mutation": [
+    "COSN1310486",
+    "COSN1310482",
+    "COSN1310483",
+    "COSN1310481",
+    "COSN1310485",
+    "COSN1310484"
+  ],
+  "m.Label": "microRNA hsa-mir-3142 precursor"
+}
+
+{
+  "d.Label": "breast carcinoma",
+  "r.Mutation": [
+    "COSN8314485",
+    "COSN522723",
+    "COSN522724",
+    "COSN522725"
+  ],
+  "m.Label": "microRNA hsa-mir-320e precursor"
+}
+

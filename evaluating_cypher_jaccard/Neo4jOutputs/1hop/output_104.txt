@@ -1,0 +1,43 @@
+{
+  "Disease": "childhood testicular germ cell tumor",
+  "miRNA": "hsa-miR-6501-3p",
+  "Genomic_coordinates": [
+    "chr21:33550705-33550727+"
+  ]
+}
+
+{
+  "Disease": "childhood testicular germ cell tumor",
+  "miRNA": "hsa-miR-6130",
+  "Genomic_coordinates": [
+    "chr21:23079354-23079372+"
+  ]
+}
+
+{
+  "Disease": "childhood testicular germ cell tumor",
+  "miRNA": "hsa-miR-802",
+  "Genomic_coordinates": [
+    "chr21:35720732-35720754+"
+  ]
+}
+
+{
+  "Disease": "childhood bladder carcinoma",
+  "miRNA": "hsa-miR-6724-5p",
+  "Genomic_coordinates": [
+    "chr21:8205325-8205347+",
+    "chr21:8249515-8249537+",
+    "chr21:8388372-8388394+",
+    "chr21:8432540-8432562+"
+  ]
+}
+
+{
+  "Disease": "childhood bladder carcinoma",
+  "miRNA": "hsa-miR-6814-3p",
+  "Genomic_coordinates": [
+    "chr21:41746772-41746793-"
+  ]
+}
+

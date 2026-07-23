@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:capable_of]->(mf:Molecular_function) WITH mf, COUNT(DISTINCT cc) AS NumComponents WHERE NumComponents >= 8 RETURN mf.Label AS MolecularFunction, NumComponents ORDER BY NumComponents DESC

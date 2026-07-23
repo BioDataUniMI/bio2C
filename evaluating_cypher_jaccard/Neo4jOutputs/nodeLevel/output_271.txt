@@ -1,0 +1,6 @@
+{
+  "miRNA": "microRNA hsa-mir-5588 precursor",
+  "SequenceLength": 63,
+  "pm.URI": "https://rnacentral.org/rna/URS0000759BED_9606"
+}
+

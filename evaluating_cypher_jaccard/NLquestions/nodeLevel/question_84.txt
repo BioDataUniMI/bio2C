@@ -1,0 +1,1 @@
+How many miRNAs have sequence length greater than 25 nucleotides and do not have 'GGGG' in their sequences?

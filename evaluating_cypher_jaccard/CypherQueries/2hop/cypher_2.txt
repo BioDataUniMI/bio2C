@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) WHERE g.Label ENDS WITH 'BA' RETURN pre.Label AS pre_miRNA, g.Label AS Gene, m.Label AS miRNA

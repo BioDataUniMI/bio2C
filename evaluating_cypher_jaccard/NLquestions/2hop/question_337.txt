@@ -1,0 +1,1 @@
+Identify miRNAs whose label ends with a number and that regulate the gene 'SOX2', which causes or contributes to cancers containing 'minim' or 'small', including the method of regulation.

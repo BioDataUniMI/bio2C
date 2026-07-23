@@ -1,0 +1,9 @@
+{
+  "cd": {
+    "Description": "a congestive cardiomyopathy caused by a combination of dietary deficiency of selenium and the pre...",
+    "Label": "Keshan disease",
+    "ID": "MONDO:0000241",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0000241"
+  }
+}
+

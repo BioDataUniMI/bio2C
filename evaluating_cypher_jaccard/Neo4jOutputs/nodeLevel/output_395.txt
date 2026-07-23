@@ -1,0 +1,20 @@
+{
+  "bp.Label": "regulation of neuron differentiation"
+}
+
+{
+  "bp.Label": "neuroblast proliferation"
+}
+
+{
+  "bp.Label": "embryo development ending in birth or egg hatching"
+}
+
+{
+  "bp.Label": "axo-dendritic transport"
+}
+
+{
+  "bp.Label": "behavior"
+}
+

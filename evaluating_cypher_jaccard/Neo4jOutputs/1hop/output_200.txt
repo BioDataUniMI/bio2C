@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-135a precursor (hsa-mir-135a-2)",
+  "Disease": "colorectal adenocarcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-196a precursor (hsa-mir-196a-2)",
+  "Disease": "colorectal adenocarcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-30c precursor (hsa-mir-30c-2)",
+  "Disease": "colorectal adenocarcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-216a precursor",
+  "Disease": "colorectal adenocarcinoma"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-181a precursor (hsa-mir-181a-1)",
+  "Disease": "colorectal adenocarcinoma"
+}
+

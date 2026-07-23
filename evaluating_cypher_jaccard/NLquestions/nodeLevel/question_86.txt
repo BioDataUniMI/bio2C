@@ -1,0 +1,1 @@
+List precursor miRNAs whose sequences end with 'AU' and whose genomic coordinates include at least one entry starting with 'chr1:'.

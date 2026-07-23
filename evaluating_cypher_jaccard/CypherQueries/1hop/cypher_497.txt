@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:acts_upstream_of_or_within]->(bp:Biological_process) WHERE bp.Label STARTS WITH 'positive regulation' RETURN m.Label, bp.Label, m.Genomic_coordinates, r.GO_evidence

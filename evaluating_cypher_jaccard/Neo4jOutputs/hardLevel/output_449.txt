@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-4522 precursor",
+  "cFirst": 13,
+  "cSecond": 13
+}
+
+{
+  "miRNA": "microRNA hsa-mir-219a precursor (hsa-mir-219a-1)",
+  "cFirst": 21,
+  "cSecond": 21
+}
+
+{
+  "miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-2)",
+  "cFirst": 13,
+  "cSecond": 13
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200b precursor",
+  "cFirst": 13,
+  "cSecond": 13
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4515 precursor",
+  "cFirst": 12,
+  "cSecond": 12
+}
+

@@ -1,0 +1,1 @@
+Count the number of miRNAs grouped by the number of T nucleotides in their associated gene, considering miRNAs transcribed from genes producing precursor miRNAs under-expressed in 'laryngeal squamous cell carcinoma'.

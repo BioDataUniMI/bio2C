@@ -1,0 +1,1 @@
+Identify the cellular components that are subclasses of other cellular components, where the parent cellular component serves as a primary input to a GO term of which the biological process labeled as 'olfactory bulb axon guidance' is a subclass. Return the cellular component label, the parent cellular component label, and the GO term label.

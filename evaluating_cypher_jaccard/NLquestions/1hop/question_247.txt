@@ -1,0 +1,1 @@
+Which diseases have causal somatic mutations in miRNAs reported by 'SomamiR'? Return their distinct label.

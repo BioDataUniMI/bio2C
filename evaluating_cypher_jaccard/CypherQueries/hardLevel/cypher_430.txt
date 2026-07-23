@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA) WITH m, COLLECT(DISTINCT g.Label) AS geneList, COUNT(DISTINCT g) AS nGenes WHERE nGenes > 3 RETURN m.Label AS miRNA, nGenes, geneList

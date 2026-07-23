@@ -1,0 +1,1 @@
+Which miRNAs develop from other miRNAs and are located in cellular components that are adjacent to the GO term labeled 'cytoplasm'? Return the labels of: the miRNA, the miRNA it develops from and the cellular component.

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-9-5p",
+  "TargetGene": "CCNG1",
+  "miRNA_U_Count": 11,
+  "Gene_T_Count": 3228
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "TargetGene": "CCNG1",
+  "miRNA_U_Count": 9,
+  "Gene_T_Count": 3228
+}
+
+{
+  "miRNA": "hsa-miR-122-5p",
+  "TargetGene": "CCNG1",
+  "miRNA_U_Count": 8,
+  "Gene_T_Count": 3228
+}
+
+{
+  "miRNA": "hsa-miR-27b-3p",
+  "TargetGene": "CCNG1",
+  "miRNA_U_Count": 7,
+  "Gene_T_Count": 3228
+}
+
+{
+  "miRNA": "hsa-miR-27a-3p",
+  "TargetGene": "CCNG1",
+  "miRNA_U_Count": 6,
+  "Gene_T_Count": 3228
+}
+

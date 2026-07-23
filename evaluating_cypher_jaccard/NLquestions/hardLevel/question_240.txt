@@ -1,0 +1,1 @@
+Consider the top 3 cellular components associated with the highest number of miRNAs located in them. Return the miRNA with the shortest sequence for each component. Include the miRNA label and sequence length. In case of ties, order components alphabetically.

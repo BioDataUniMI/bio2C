@@ -1,0 +1,1 @@
+How many different miRNAs are expressed by neurodegenerative diseases that participate in biological processes via their cellular components? Return the total number of distinct miRNAs.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WITH b, m, SIZE(m.Sequence) AS seq_length ORDER BY seq_length DESC, m.Label ASC LIMIT 5 RETURN b.Label AS Process_name, m.Label AS miRNA, m.Sequence AS miRNA_sequence, seq_length

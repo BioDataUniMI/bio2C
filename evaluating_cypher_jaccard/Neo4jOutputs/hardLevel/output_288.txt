@@ -1,0 +1,25 @@
+{
+  "Disease": "carcinoma of liver and intrahepatic biliary tract",
+  "miRNACount": 199
+}
+
+{
+  "Disease": "hepatocellular carcinoma",
+  "miRNACount": 199
+}
+
+{
+  "Disease": "breast carcinoma",
+  "miRNACount": 189
+}
+
+{
+  "Disease": "squamous cell lung carcinoma",
+  "miRNACount": 181
+}
+
+{
+  "Disease": "lung adenocarcinoma",
+  "miRNACount": 177
+}
+

@@ -1,0 +1,1 @@
+Which GO terms as part of cellular components, is the miRNA 'hsa-miR-23a-5p' located in, and what are the corresponding cellular components?

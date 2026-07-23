@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(g:GO) WHERE SIZE(m.Sequence) > 25 AND g.Label CONTAINS 'negative' RETURN m.Label AS miRNA, g.Label AS GO_Term

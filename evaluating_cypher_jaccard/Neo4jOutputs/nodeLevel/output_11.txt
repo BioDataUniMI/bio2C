@@ -1,0 +1,12 @@
+{
+  "GOTermLabel": "anion transmembrane transport",
+  "GOTermDescription": "the process in which a monoatomic anion is transported across a membrane. monatomic anions (also ...",
+  "SynonymCount": 1
+}
+
+{
+  "GOTermLabel": "ion transmembrane transport",
+  "GOTermDescription": "a process in which a monoatomic ion is transported across a membrane. monatomic ions (also called...",
+  "SynonymCount": 1
+}
+

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:over_expressed_in]->(a:Infectious_disease) WHERE 'HMDD' IN r.Source RETURN p.Label AS pre_miRNA, a.Label AS AutoimmuneDisease, r.Source AS Source

@@ -1,0 +1,1 @@
+Return all molecular functions that lack a 'subclassof' relationship with other molecular functions.

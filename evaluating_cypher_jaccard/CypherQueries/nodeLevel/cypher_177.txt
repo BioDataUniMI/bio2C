@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE toLower(g.Label) CONTAINS 'membrane' AND ANY(syn IN g.Synonym WHERE toLower(syn) CONTAINS 'transport') RETURN g.Label AS GOTerm, g.Synonym AS Synonyms

@@ -1,0 +1,76 @@
+{
+  "PathNodes": [
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:13529",
+      "label": "phoP"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:23713",
+      "label": "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+    }
+  ]
+}
+
+{
+  "PathNodes": [
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:13529",
+      "label": "phoP"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:23713",
+      "label": "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73679",
+      "label": "gene of Mycobacterium tuberculosis H37Rv"
+    }
+  ]
+}
+
+{
+  "PathNodes": [
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:13529",
+      "label": "phoP"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:23713",
+      "label": "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73679",
+      "label": "gene of Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:91162",
+      "label": "gene of Bacteria"
+    }
+  ]
+}
+
+{
+  "PathNodes": [
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:13529",
+      "label": "phoP"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:23713",
+      "label": "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:73679",
+      "label": "gene of Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:91162",
+      "label": "gene of Bacteria"
+    },
+    {
+      "elementId": "4:b030bc71-d6ee-4a7b-8048-e80d92b5d280:44794",
+      "label": "gene"
+    }
+  ]
+}
+

@@ -1,0 +1,1 @@
+Count the number of pre-miRNAs that are located in GO terms having a label containing the word 'exosome'.

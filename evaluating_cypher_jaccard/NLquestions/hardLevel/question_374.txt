@@ -1,0 +1,1 @@
+Retrieve all mental diseases that are manifestations of either a disease or another mental disease. Return the mental disease label, the type of entity it manifests from, and the corresponding label.

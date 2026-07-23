@@ -1,0 +1,25 @@
+{
+  "Disease": "iron deficiency anemia",
+  "BiologicalProcess": "intracellular iron ion homeostasis"
+}
+
+{
+  "Disease": "vestibular disorder",
+  "BiologicalProcess": "equilibrioception"
+}
+
+{
+  "Disease": "cardiac rhythm disease",
+  "BiologicalProcess": "heart process"
+}
+
+{
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "BiologicalProcess": "regulation of RNA splicing"
+}
+

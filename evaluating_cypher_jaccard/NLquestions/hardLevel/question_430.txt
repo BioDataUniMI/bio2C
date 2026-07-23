@@ -1,0 +1,1 @@
+Which miRNAs are transcribed from more than three genes, and which genes are responsible for their transcription? The number of genes is defined as the count of Gene nodes connected to each miRNA via a 'transcribed_to' relationship type. Return each miRNA label, the number of genes, and the list of gene labels.

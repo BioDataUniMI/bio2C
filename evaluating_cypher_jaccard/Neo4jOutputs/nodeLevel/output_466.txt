@@ -1,0 +1,7 @@
+{
+  "Phenotype": "Holster sign",
+  "p.Synonym": [
+    "Signo de Holster"
+  ]
+}
+

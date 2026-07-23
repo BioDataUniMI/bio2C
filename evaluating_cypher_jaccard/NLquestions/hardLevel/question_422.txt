@@ -1,0 +1,1 @@
+For miRNAs that are over-expressed in diseases whose label contains 'toxoplasmosis', return each miRNA label and its sequence length deviation, where length deviation is defined as the miRNA sequence length minus the average sequence length across all such miRNAs, sorted by length deviation in descending order.

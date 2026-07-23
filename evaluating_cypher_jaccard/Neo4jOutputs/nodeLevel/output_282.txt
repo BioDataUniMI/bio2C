@@ -1,0 +1,25 @@
+{
+  "pm.Label": "let-7c stem-loop (hsa-let-7c)",
+  "SIZE(pm.Sequence)": 84
+}
+
+{
+  "pm.Label": "let-7f-2 stem-loop (hsa-let-7f-2)",
+  "SIZE(pm.Sequence)": 83
+}
+
+{
+  "pm.Label": "let-7b stem-loop (hsa-let-7b)",
+  "SIZE(pm.Sequence)": 83
+}
+
+{
+  "pm.Label": "let-7d stem-loop (hsa-let-7d)",
+  "SIZE(pm.Sequence)": 87
+}
+
+{
+  "pm.Label": "let-7a-3 stem-loop (hsa-let-7a-3)",
+  "SIZE(pm.Sequence)": 74
+}
+

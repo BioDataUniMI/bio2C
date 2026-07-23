@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-4267",
+  "Length": 16,
+  "Sequence": "UCCAGCUCGGUGGCAC"
+}
+
+{
+  "miRNA": "hsa-miR-4485-5p",
+  "Length": 16,
+  "Sequence": "ACCGCCUGCCCAGUGA"
+}
+
+{
+  "miRNA": "hsa-miR-4291",
+  "Length": 16,
+  "Sequence": "UUCAGCAGGAACAGCU"
+}
+
+{
+  "miRNA": "hsa-miR-4310",
+  "Length": 16,
+  "Sequence": "GCAGCAUUCAUGUCCC"
+}
+
+{
+  "miRNA": "hsa-miR-4266",
+  "Length": 16,
+  "Sequence": "CUAGGAGGCCUUGGCC"
+}
+

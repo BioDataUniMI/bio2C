@@ -1,0 +1,1 @@
+Return all diseases associated with causal germline mutations in either miRNAs or precursor miRNAs, along with all properties of the corresponding relationships.

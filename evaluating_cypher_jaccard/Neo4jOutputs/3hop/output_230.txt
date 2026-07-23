@@ -1,0 +1,30 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "CellularComponent": "heterochromatin",
+  "GOterm": "RITS complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "extracellular exosome",
+  "GOterm": "extracellular exosome complex"
+}
+
+{
+  "Cancer": "adenoma",
+  "CellularComponent": "P-body",
+  "GOterm": "eif4e-cup complex"
+}
+

@@ -1,0 +1,1 @@
+Return human miRNAs transcribed from genes whose label ends with the character 'C'.

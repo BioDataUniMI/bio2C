@@ -1,0 +1,1 @@
+Identify diseases that are subclasses of other diseases and have phenotypes whose label contains the string 'Small placenta' along with their parent disease and phenotype.

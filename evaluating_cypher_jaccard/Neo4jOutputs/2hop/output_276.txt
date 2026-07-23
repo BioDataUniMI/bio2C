@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "epithelium development",
+  "BiologicalProcessDescription": "the process whose specific outcome is the progression of an epithelium over time, from its format..."
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "epithelium development",
+  "BiologicalProcessDescription": "the process whose specific outcome is the progression of an epithelium over time, from its format..."
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "epithelium development",
+  "BiologicalProcessDescription": "the process whose specific outcome is the progression of an epithelium over time, from its format..."
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "epithelium development",
+  "BiologicalProcessDescription": "the process whose specific outcome is the progression of an epithelium over time, from its format..."
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p",
+  "BiologicalProcess": "epithelium development",
+  "BiologicalProcessDescription": "the process whose specific outcome is the progression of an epithelium over time, from its format..."
+}
+

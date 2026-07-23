@@ -1,0 +1,1 @@
+Find pairs of miRNAs that genetically interact such that: 1) the first miRNA has at least one genomic coordinate on chromosome 16; 2) the second miRNA has no coordinates on chromosome 16. Retun the labels and genomic coordinates of both miRNAs.

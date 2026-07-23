@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE ANY(coord IN pm.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN MAX(SIZE(pm.Sequence)) AS MaxSequenceLength

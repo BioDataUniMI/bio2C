@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_active_in]->(cc:Cellular_component) RETURN cc.Label AS CellularComponent, COUNT(m) AS miRNACount ORDER BY miRNACount DESC, CellularComponent ASC LIMIT 10

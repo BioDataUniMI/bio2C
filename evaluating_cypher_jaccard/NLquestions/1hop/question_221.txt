@@ -1,0 +1,1 @@
+Which miRNAs are linked to GO terms via the relationship type 'enables'? Filter only relationships supported by more than one source.

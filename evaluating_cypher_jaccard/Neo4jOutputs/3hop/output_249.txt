@@ -1,0 +1,30 @@
+{
+  "Disease": "TSH-secreting pituitary adenoma",
+  "Phenotype": "Erectile dysfunction",
+  "GOterm": "penile erection"
+}
+
+{
+  "Disease": "malignant thyroid stimulating hormone producing neoplasm of pituitary gland",
+  "Phenotype": "Erectile dysfunction",
+  "GOterm": "penile erection"
+}
+
+{
+  "Disease": "TSH-secreting pituitary adenoma",
+  "Phenotype": "Congestive heart failure",
+  "GOterm": "heart contraction"
+}
+
+{
+  "Disease": "malignant thyroid stimulating hormone producing neoplasm of pituitary gland",
+  "Phenotype": "Congestive heart failure",
+  "GOterm": "heart contraction"
+}
+
+{
+  "Disease": "TSH-secreting pituitary adenoma",
+  "Phenotype": "Elevated circulating growth hormone concentration",
+  "GOterm": "growth hormone secretion"
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA) WHERE ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr13') RETURN g.Label AS Gene, g.Genomic_coordinates AS GeneCoords, m.Label AS miRNA

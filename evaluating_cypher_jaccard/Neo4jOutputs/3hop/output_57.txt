@@ -1,0 +1,35 @@
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Ankle weakness",
+  "phenotype_disease": "animal phobia"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Mildly elevated creatine kinase",
+  "phenotype_disease": "animal phobia"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Rimmed vacuoles",
+  "phenotype_disease": "animal phobia"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Respiratory insufficiency due to muscle weakness",
+  "phenotype_disease": "animal phobia"
+}
+
+{
+  "cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "phenotype": "Gait disturbance",
+  "phenotype_disease": "animal phobia"
+}
+

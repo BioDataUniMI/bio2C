@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE toLower(d.Description) CONTAINS 'sue' AND (toLower(d.Description) CONTAINS 'david' OR toLower(d.Description) CONTAINS 'derald' OR toLower(d.Description) CONTAINS 'stanley') RETURN d.Label AS DiseaseLabel, d.Description

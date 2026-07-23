@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'SYNC' AND c.Label CONTAINS 'benign' RETURN c.Label AS Cancer, m.Label AS miRNA, g.Label AS Gene

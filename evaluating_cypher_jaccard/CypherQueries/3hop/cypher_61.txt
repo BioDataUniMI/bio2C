@@ -1,0 +1,1 @@
+MATCH (a:Autoimmune_disease)-[:disease_shares_features_of]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(c:Cancer) WHERE c.Label CONTAINS 'fibromatosis' RETURN a.Label AS autoimmune_disease, d.Label AS related_disease, p.Label AS phenotype, c.Label AS cancer

@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "num_diseases": 72
+}
+

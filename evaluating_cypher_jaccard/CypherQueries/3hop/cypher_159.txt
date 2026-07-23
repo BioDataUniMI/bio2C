@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m1:miRNA)-[:interacts_with]->(m2:miRNA)-[:regulates_activity_of]->(g:Gene {Label:'TPI1P1'}) RETURN pre.Label AS Pre_miRNA, m1.Label AS Interacting_miRNA, m2.Label AS Regulator_miRNA

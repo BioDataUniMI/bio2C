@@ -1,0 +1,1 @@
+MATCH (premirna:pre_miRNA)-[:develops_into]->(mirna:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(ph:Phenotype) RETURN COUNT(DISTINCT g) AS Number_of_Genes

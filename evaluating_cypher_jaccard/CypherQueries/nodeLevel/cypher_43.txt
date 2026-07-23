@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'tumor' AND SIZE(p.Synonym) >= 8 RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

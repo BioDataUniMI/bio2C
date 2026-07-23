@@ -1,0 +1,54 @@
+{
+  "Cancer": "sarcoma",
+  "OverExpressionSources": [
+    "dbDEMC"
+  ],
+  "ExpressionSources": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "OverExpressionSources": [
+    "dbDEMC"
+  ],
+  "ExpressionSources": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "OverExpressionSources": [
+    "miRNet",
+    "PhenomiR"
+  ],
+  "ExpressionSources": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "OverExpressionSources": [
+    "miR2Disease",
+    "dbDEMC"
+  ],
+  "ExpressionSources": [
+    "miR2Disease"
+  ]
+}
+
+{
+  "Cancer": "breast carcinoma",
+  "OverExpressionSources": [
+    "miRNet",
+    "miRCancer",
+    "PhenomiR"
+  ],
+  "ExpressionSources": [
+    "miR2Disease"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH p = (g1:Gene)-[:subclassof*3..]->(g2:Gene) WHERE g1.Label < g2.Label RETURN DISTINCT [n IN NODES(p) | n.Label] AS PathLabels, SIZE(NODES(p)) AS PathLength

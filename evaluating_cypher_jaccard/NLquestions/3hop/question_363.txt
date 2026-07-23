@@ -1,0 +1,1 @@
+Which autoimmune diseases have phenotypes that are also phenotypes of cancers expressing the miRNA 'hsa-let-7a-5p'? Return the labels of the autoimmune disease, phenotype, and cancer.

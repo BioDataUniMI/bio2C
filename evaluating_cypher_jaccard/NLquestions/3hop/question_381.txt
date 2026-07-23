@@ -1,0 +1,1 @@
+Return diseases whose label contains the word 'perceptual' that are caused by disruption of GO terms which have pre-miRNA participants developing into miRNAs. Keep only entries where 'RNAcentral' is one of the sources reporting the participation relationship. Return the disease, GO term, pre-miRNA, miRNA, and the participation source in the output.

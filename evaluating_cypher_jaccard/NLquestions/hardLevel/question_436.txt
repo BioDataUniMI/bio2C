@@ -1,0 +1,1 @@
+How many relationships exist where a cellular component is the location of a miRNA and the RNAsister score of the relationship is greater than 0.97?

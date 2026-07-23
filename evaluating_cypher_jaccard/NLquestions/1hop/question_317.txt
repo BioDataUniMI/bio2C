@@ -1,0 +1,1 @@
+Retrieve miRNAs that :1) are not location of cellular components; 2) have genomic coordinates starting with 'chrX:5'; and 3) whose sequence ends with 'A'.

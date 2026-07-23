@@ -1,0 +1,5 @@
+{
+  "g.Label": "substance with EC 2.7.* (P-containing group transferase) inhibitor role",
+  "g.ID": "GOCHE:76668"
+}
+

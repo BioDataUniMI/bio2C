@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-132 precursor",
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "Phenotype": "Aplasia/Hypoplasia of the thumb"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-132 precursor",
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "Phenotype": "Aplasia/Hypoplasia of the corpus callosum"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "Phenotype": "Aplasia/Hypoplasia of the thumb"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "Phenotype": "Aplasia/Hypoplasia of the corpus callosum"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-146a precursor",
+  "Disease": "relapsing-remitting multiple sclerosis",
+  "Phenotype": "Aplasia/Hypoplasia of the thumb"
+}
+

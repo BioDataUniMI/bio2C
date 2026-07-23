@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease)<-[:under_expressed_in]-(m), (d)-[:subclassof]->(:Cancer) WHERE d.Label CONTAINS 'thyroid' OR d.Description CONTAINS 'thyroid' RETURN DISTINCT d.Label AS Disease

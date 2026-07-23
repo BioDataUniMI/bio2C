@@ -1,0 +1,1 @@
+Which miRNAs have the highest percentage of 'G' nucleotides in their sequence (return all ties)?

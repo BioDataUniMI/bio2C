@@ -1,0 +1,1 @@
+MATCH (c1:Cellular_component)-[r:overlaps|adjacent_to|bounding_layer_of]->(c2:Cellular_component) RETURN type(r) AS relationType, COUNT(DISTINCT c1) + COUNT(DISTINCT c2) AS componentCount

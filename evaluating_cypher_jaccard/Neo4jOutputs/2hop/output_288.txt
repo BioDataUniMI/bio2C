@@ -1,0 +1,20 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "Gene": "SMARCA4"
+}
+
+{
+  "miRNA": "hsa-miR-21-5p",
+  "Gene": "SMARCA4"
+}
+
+{
+  "miRNA": "hsa-miR-139-5p",
+  "Gene": "SMARCA4"
+}
+
+{
+  "miRNA": "hsa-miR-205-5p",
+  "Gene": "SIGMAR1"
+}
+

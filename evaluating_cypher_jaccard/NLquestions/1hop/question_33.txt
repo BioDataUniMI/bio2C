@@ -1,0 +1,1 @@
+Find miRNAs that are under-expressed in diseases whose label or description contains 'blood'. Consider only miRNAs ending with 'precursor'.

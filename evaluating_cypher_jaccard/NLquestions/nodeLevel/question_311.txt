@@ -1,0 +1,1 @@
+Find epilepsy dog diseases, i.e., diseases whose labels contain 'epilepsy' and 'dog'.

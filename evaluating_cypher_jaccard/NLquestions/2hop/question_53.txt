@@ -1,0 +1,1 @@
+Identify phenotypes that are characteristic of GO terms which are part of cellular components, and return the phenotype label, GO term label, and cellular component label.

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE n.Description CONTAINS 'demyelination' WITH n, COLLECT(DISTINCT r.Source) AS Sources, COLLECT(DISTINCT r.PubMedID) AS PubMedIDs, COUNT(DISTINCT r.Source) AS source_count RETURN n.Label AS Neurodegenerative_disease, Sources, PubMedIDs ORDER BY source_count DESC, n.Label ASC LIMIT 3

@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label CONTAINS 'MIR127' RETURN g.Label, SIZE(g.Sequence) AS sequence_length ORDER BY sequence_length DESC, g.Label ASC

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:has_part_that_occurs_in]->(g:GO) RETURN g.Label, p.Label, p.Genomic_coordinates, r.Source

@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the disease labeled as 'adult glioblastoma' with FDR < 0.05 measured by methods containing the word 'northern' in their label. Return the disease, list of miRNAs, and the FDRs.

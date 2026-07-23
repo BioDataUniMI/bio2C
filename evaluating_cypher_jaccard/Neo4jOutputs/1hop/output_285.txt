@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "ADP:phosphate antiporter activity",
+  "GO": "organophosphate:phosphate antiporter activity"
+}
+
+{
+  "MolecularFunction": "ADP:phosphate antiporter activity",
+  "GO": "antiporter activity"
+}
+
+{
+  "MolecularFunction": "ADP:phosphate antiporter activity",
+  "GO": "ADP transmembrane transporter activity"
+}
+
+{
+  "MolecularFunction": "ADP-ribosylarginine hydrolase activity",
+  "GO": "catalytic activity, acting on a protein"
+}
+
+{
+  "MolecularFunction": "ADP-ribosylarginine hydrolase activity",
+  "GO": "hydrolase activity, hydrolyzing N-glycosyl compounds"
+}
+

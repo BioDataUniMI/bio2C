@@ -1,0 +1,1 @@
+Count the distinct GO terms that are parts of GO terms which miRNAs developed from the pre-miRNA ‘microRNA hsa-mir-221 precursor’ act upstream of.

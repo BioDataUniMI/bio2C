@@ -1,0 +1,1 @@
+Retrieve the top 5 under-expressed 'pre-miRNAs-under-expressed in-cancers' pairs where the pre-miRNA has the longest sequence, ordered alphabetically by pre-miRNA label in case of ties. Return the cancer label, pre-miRNA label, and the pre-miRNA sequence length.

@@ -1,0 +1,20 @@
+{
+  "Disease": "ring chromosome 6"
+}
+
+{
+  "Disease": "ring chromosome 5"
+}
+
+{
+  "Disease": "choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome"
+}
+
+{
+  "Disease": "cleft lip and palate-craniofacial dysmorphism-congenital heart defect-hearing loss syndrome"
+}
+
+{
+  "Disease": "progressive sensorineural hearing loss-hypertrophic cardiomyopathy syndrome"
+}
+

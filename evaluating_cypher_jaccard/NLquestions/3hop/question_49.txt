@@ -1,0 +1,1 @@
+Which miRNAs are causal somatic mutations in the disease labeled 'ovarian cancer' and are expressed by diseases that are predisposed toward by other diseases? Return the miRNA label and the diseases label.

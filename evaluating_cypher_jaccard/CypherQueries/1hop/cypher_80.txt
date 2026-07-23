@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE n.Description CONTAINS 'progressive' AND SIZE(m.Sequence) = 22 RETURN r.Method AS Method, m.Label AS miRNA, n.Label AS Disease

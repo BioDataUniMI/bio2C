@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Cancer_ID": "MONDO:0005232",
+  "Cancer_label": "large cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-143-3p",
+  "Cancer_ID": "MONDO:0005232",
+  "Cancer_label": "large cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-133a-3p",
+  "Cancer_ID": "MONDO:0005232",
+  "Cancer_label": "large cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-195-5p",
+  "Cancer_ID": "MONDO:0005232",
+  "Cancer_label": "large cell carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Cancer_ID": "MONDO:0005232",
+  "Cancer_label": "large cell carcinoma"
+}
+

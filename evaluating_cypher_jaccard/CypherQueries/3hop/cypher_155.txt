@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Juvenile onset'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:expresses]->(m:miRNA) RETURN nd.Label AS NeurodegenerativeDisease, d.Label AS Disease, m.Label AS miRNA

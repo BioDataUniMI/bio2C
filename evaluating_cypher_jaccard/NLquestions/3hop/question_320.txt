@@ -1,0 +1,1 @@
+Find miRNAs and their sequence and genomic coordinates, that are expressed in the cancer labeled as 'familial multiple lipomatosis' and have molecular functions that are parts of biological processes? Return the label of the: biological processes, molecular functions and miRNAs, along with the miRNA sequences and genomic coordinates.

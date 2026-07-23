@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-1229-5p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "congenital-onset Steinert myotonic dystrophy"
+}
+
+{
+  "miRNA": "hsa-miR-1229-5p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant"
+}
+
+{
+  "miRNA": "hsa-miR-1229-5p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "progressive familial heart block"
+}
+
+{
+  "miRNA": "hsa-miR-1229-5p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "AA amyloidosis"
+}
+
+{
+  "miRNA": "hsa-miR-1229-5p",
+  "Cancer": "liver cancer",
+  "Phenotype": "Abdominal pain",
+  "Disease": "idiopathic acute eosinophilic pneumonia"
+}
+

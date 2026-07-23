@@ -1,0 +1,20 @@
+{
+  "CancerLabel": "breast cancer, familial, susceptibility to, 3"
+}
+
+{
+  "CancerLabel": "breast-ovarian cancer, familial, susceptibility to, 4"
+}
+
+{
+  "CancerLabel": "breast cancer, familial, susceptibility to, 2"
+}
+
+{
+  "CancerLabel": "breast-ovarian cancer, familial, susceptibility to, 3"
+}
+
+{
+  "CancerLabel": "breast-ovarian cancer, familial, susceptibility to, 2"
+}
+

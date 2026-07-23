@@ -1,0 +1,10 @@
+{
+  "disease_type": "Cancer",
+  "max_FDR": 0.009999129
+}
+
+{
+  "disease_type": "Infectious",
+  "max_FDR": 0.00896109
+}
+

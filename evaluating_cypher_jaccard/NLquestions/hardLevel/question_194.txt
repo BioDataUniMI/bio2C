@@ -1,0 +1,1 @@
+Find the 4-letter consecutive nucleotide sequence (AAAA, CCCC, GGGG, TTTT) that occurs most frequently in the longest gene among genes that cause or contribute to diseases characterized with phenotypes that are also phenotypes of other diseases. Return the gene label, the 4-letter sequence, and its count.

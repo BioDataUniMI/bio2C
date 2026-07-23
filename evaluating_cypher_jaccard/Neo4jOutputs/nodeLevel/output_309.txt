@@ -1,0 +1,10 @@
+{
+  "DiseaseLabel": "Al Gazali Khidr Prem Chandran syndrome",
+  "Classifications": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cancer",
+    "Autoimmune_disease"
+  ]
+}
+

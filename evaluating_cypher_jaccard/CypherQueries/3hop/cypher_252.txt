@@ -1,0 +1,1 @@
+MATCH (go:GO {Label: 'inflammatory response'})<-[:characteristic_of]-(p:Phenotype)<-[:has_phenotype]-(d:Disease)-[:subclassof]->(c:Cancer) WHERE d.Label CONTAINS 'heart' RETURN  p.Label AS Phenotype, d.Label AS Disease, c.Label AS ParentCancer

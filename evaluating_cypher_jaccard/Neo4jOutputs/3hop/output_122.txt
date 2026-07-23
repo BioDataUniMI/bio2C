@@ -1,0 +1,21 @@
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-let-7c-5p",
+  "RegulatedGene": "CDC25A"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-let-7c-5p",
+  "RegulatedGene": "TNFRSF10B"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-miR-150-5p",
+  "RegulatedGene": "POM121B"
+}
+

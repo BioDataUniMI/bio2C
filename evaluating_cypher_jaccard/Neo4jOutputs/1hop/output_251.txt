@@ -1,0 +1,5 @@
+{
+  "Gene": "MIR548Y",
+  "miRNA": "microRNA hsa-mir-548y precursor"
+}
+

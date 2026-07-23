@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Anorexia",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-485-3p"
+}
+
+{
+  "Phenotype": "Anorexia",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-765"
+}
+
+{
+  "Phenotype": "Anorexia",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p"
+}
+
+{
+  "Phenotype": "Anorexia",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-509-5p"
+}
+
+{
+  "Phenotype": "Anorexia",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-509-3p"
+}
+

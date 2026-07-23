@@ -1,0 +1,1 @@
+Find all miRNAs having the genomic coordinates on chr3 and whose sequence contains 'UUUUU' that are under-expressed in phenotypes whose label does NOT contain the word 'oma'.

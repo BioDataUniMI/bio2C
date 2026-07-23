@@ -1,0 +1,1 @@
+Which cancers are caused or contributed by the miRNA 'hsa-miR-125b-5p' and are subclasses of diseases that express other miRNAs? Return the cancer and parent disease labels, and the list of expressed miRNAs labels 

@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'Madras' RETURN d.Label AS Disease, p.Label AS Phenotype

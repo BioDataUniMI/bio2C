@@ -1,0 +1,1 @@
+Find the label of all genes whose activity is regulated by the miRNA labeled as 'hsa-miR-34a-3p'.

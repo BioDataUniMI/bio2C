@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Seizure",
+  "numDiseases": 226,
+  "numCancers": 7,
+  "TotalShared": 233
+}
+
+{
+  "Phenotype": "Global developmental delay",
+  "numDiseases": 200,
+  "numCancers": 7,
+  "TotalShared": 207
+}
+
+{
+  "Phenotype": "Autosomal recessive inheritance",
+  "numDiseases": 166,
+  "numCancers": 2,
+  "TotalShared": 168
+}
+
+{
+  "Phenotype": "Microcephaly",
+  "numDiseases": 158,
+  "numCancers": 4,
+  "TotalShared": 162
+}
+
+{
+  "Phenotype": "Intellectual disability",
+  "numDiseases": 139,
+  "numCancers": 12,
+  "TotalShared": 151
+}
+

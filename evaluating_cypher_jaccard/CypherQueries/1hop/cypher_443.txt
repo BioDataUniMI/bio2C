@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:results_in_transport_across]->(cc:Cellular_component {Label:'plasma membrane'}) WHERE NOT bp.Label CONTAINS 'plasma' RETURN bp.Label, cc.Label

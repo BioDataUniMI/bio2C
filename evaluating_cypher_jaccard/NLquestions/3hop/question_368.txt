@@ -1,0 +1,1 @@
+How many diseases are caused or contributed by the gene 'TGFB1', which genetically interacts with the gene 'ABCF2' regulated by the miRNA 'hsa-miR-486-5p'?

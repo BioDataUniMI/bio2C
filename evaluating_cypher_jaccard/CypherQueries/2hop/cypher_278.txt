@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene), (m)-[:located_in]->(cc:Cellular_component) WHERE SIZE(g.Label) = 2 AND m.Sequence ENDS WITH 'A' RETURN m.Label AS miRNA, m.Sequence AS miRNASequence, g.Label AS Gene, cc.Label AS CellularComponent

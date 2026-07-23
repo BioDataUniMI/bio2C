@@ -1,0 +1,1 @@
+Find the disease type with the maximum number of diseases caused or contributed to by precursor microRNAs. Return the disease type and the number of diseases, breaking ties by disease type in ascending alphabetical order.

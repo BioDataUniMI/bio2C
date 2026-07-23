@@ -1,0 +1,5 @@
+{
+  "miRNA": "hsa-miR-378j",
+  "GOtermLabel": "apoptotic process"
+}
+

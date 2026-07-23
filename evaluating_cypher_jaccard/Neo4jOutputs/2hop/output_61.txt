@@ -1,0 +1,45 @@
+{
+  "Mature_miRNA": "hsa-miR-612",
+  "Term": "positive regulation of cell motility",
+  "TermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "Mature_miRNA": "hsa-miR-612",
+  "Term": "cellular response to peptide",
+  "TermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "Mature_miRNA": "hsa-miR-612",
+  "Term": "response to peptide",
+  "TermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "Mature_miRNA": "hsa-miR-612",
+  "Term": "cellular response to peptide hormone stimulus",
+  "TermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+
+{
+  "Mature_miRNA": "hsa-miR-612",
+  "Term": "response to peptide hormone",
+  "TermType": [
+    "Biological_process",
+    "GO"
+  ]
+}
+

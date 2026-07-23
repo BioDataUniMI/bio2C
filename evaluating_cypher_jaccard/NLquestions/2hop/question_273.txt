@@ -1,0 +1,1 @@
+Identify biological processes whose disruption is caused by diseases that have the phenotype labeled as 'Abnormality of the mouth'. Return the disease and disrupted process labels.

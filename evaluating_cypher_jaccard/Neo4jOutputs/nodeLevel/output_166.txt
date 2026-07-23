@@ -1,0 +1,25 @@
+{
+  "Disease": "opiate dependence",
+  "Description": "disorders related or resulting from abuse or mis-use of opioids."
+}
+
+{
+  "Disease": "hallucinogen abuse",
+  "Description": "a substance abuse that involves the recurring use of hallucinogenic drugs despite negative conseq..."
+}
+
+{
+  "Disease": "chronic laryngitis",
+  "Description": "persistent laryngitis usually caused by smoking, heavy alcohol consumption, voice abuse, or gastr..."
+}
+
+{
+  "Disease": "dilated cardiomyopathy",
+  "Description": "cardiomyopathy which is characterized by dilation and contractile dysfunction of the left and rig..."
+}
+
+{
+  "Disease": "potassium deficiency",
+  "Description": "a condition due to decreased dietary intake of potassium, as in starvation or failure to administ..."
+}
+

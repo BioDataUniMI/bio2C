@@ -1,0 +1,1 @@
+Count the number of occurrences of the subsequence 'TTTT' in the sequence of the longest gene among genes that cause or contribute to diseases characterized with phenotypes that are also phenotypes of other diseases. In case of ties, select the gene alphabetically. Return the gene label and the number of 'TTTT' occurrences.

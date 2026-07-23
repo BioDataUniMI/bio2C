@@ -1,0 +1,24 @@
+{
+  "MolecularFunction": "glutamate-gated calcium ion channel activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway"
+}
+
+{
+  "MolecularFunction": "kainate selective glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway"
+}
+
+{
+  "MolecularFunction": "NMDA glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway"
+}
+
+{
+  "MolecularFunction": "AMPA glutamate receptor activity",
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway"
+}
+

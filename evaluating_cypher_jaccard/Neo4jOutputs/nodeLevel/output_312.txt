@@ -1,0 +1,8 @@
+{
+  "DiseaseLabel": "juvenile idiopathic epilepsy, horse"
+}
+
+{
+  "DiseaseLabel": "epilepsy, horse"
+}
+

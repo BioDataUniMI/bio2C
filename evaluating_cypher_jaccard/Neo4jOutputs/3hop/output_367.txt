@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Regulated_Gene": "ABCF2",
+  "Interacting_Gene": "TGFB1",
+  "Disease": "cervical disk degenerative disorder",
+  "r.Source": [
+    "GeneMANIA"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Regulated_Gene": "ABCF2",
+  "Interacting_Gene": "TGFB1",
+  "Disease": "lumbar disk degenerative disorder",
+  "r.Source": [
+    "GeneMANIA"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "Regulated_Gene": "ABCF2",
+  "Interacting_Gene": "TGFB1",
+  "Disease": "intervertebral disk degenerative disorder",
+  "r.Source": [
+    "GeneMANIA"
+  ]
+}
+

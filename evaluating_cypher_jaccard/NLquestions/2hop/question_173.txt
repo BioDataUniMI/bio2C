@@ -1,0 +1,1 @@
+How many phenotypes have the diseases causally influenced by the miRNA 'hsa-miR-660-3p'?

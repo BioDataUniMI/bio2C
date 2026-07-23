@@ -1,0 +1,6 @@
+{
+  "biological_process": "glucose metabolic process",
+  "gene": "MIR1237",
+  "precursor_miRNA": "microRNA hsa-mir-1237 precursor"
+}
+

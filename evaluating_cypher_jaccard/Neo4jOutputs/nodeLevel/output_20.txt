@@ -1,0 +1,25 @@
+{
+  "GO": "monoatomic anion transport",
+  "GO_ID": "GO:0006820"
+}
+
+{
+  "GO": "monoatomic ion transport",
+  "GO_ID": "GO:0006811"
+}
+
+{
+  "GO": "anion transmembrane transport",
+  "GO_ID": "GO:0098656"
+}
+
+{
+  "GO": "ion transmembrane transporter activity",
+  "GO_ID": "GO:0015075"
+}
+
+{
+  "GO": "monoatomic cation transport",
+  "GO_ID": "GO:0006812"
+}
+

@@ -1,0 +1,1 @@
+List the node types that are connected to diseases via a 'has_characteristic' relationship, and report how many such connections each type has, ordered from highest to lowest.

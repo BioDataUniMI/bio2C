@@ -1,0 +1,1 @@
+ Retrieve the 'Mutation' reported by the relationships between diseases that have material basis in somatic mutation in miRNAs having sequences ending with 'A'. Moreover, each relationship MUST include at least 4 mutations.

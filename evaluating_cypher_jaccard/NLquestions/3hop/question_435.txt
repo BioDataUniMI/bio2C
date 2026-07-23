@@ -1,0 +1,1 @@
+Which cancers express miRNAs that participate in biological processes where the molecular function labeled as 'cadherin binding involved in cell-cell adhesion' is a part? Return the cancer label, miRNA label, and biological process label.

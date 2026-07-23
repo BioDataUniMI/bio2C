@@ -1,0 +1,1 @@
+Find all biological processes that result in formation of anatomical entity represented in the database via a GO term which has part the cellular component labeled as 'microtubule'. Return the label of the biological process and the GO term.

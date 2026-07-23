@@ -1,0 +1,10 @@
+{
+  "InfectiousDisease": "pertussis",
+  "MajorFeature": "Whooping cough"
+}
+
+{
+  "InfectiousDisease": "adenovirus renal infection",
+  "MajorFeature": "Severe adenovirus infection"
+}
+

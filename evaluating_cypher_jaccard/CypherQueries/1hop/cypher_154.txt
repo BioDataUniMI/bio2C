@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(b:Biological_process) RETURN DISTINCT b.Label AS BiologicalProcess, b.ID AS ID, b.URI AS URI

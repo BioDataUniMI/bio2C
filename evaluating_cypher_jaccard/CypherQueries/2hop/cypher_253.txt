@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:located_in]->(cc:Cellular_component {Label:'extracellular exosome'})-[:part_of]->(go:GO) WHERE m.Label CONTAINS '181b' RETURN m.Label AS miRNA, go.Label AS GOterm

@@ -1,0 +1,1 @@
+Identify genes whose labels end with three digits followed by the letter 'C', and report the miRNAs transcribed from those genes together with their corresponding precursor miRNAs.

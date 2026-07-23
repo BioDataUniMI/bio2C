@@ -1,0 +1,1 @@
+How many miRNA-gene pairs have both the miRNA that regulate the activity and the regulated gene their genomic coordinate starting on the same chromosome?

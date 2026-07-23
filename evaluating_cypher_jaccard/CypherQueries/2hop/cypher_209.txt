@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(go:GO) WHERE go.Label CONTAINS 'auditory' RETURN pre.Label AS Pre_miRNA, m.Label AS Mature_miRNA, go.Label AS GOterm

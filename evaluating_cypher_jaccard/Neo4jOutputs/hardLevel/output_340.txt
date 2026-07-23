@@ -1,0 +1,25 @@
+{
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy",
+  "miRNACount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy, adult form",
+  "miRNACount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "metachromatic leukodystrophy, late infantile form",
+  "miRNACount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 9",
+  "miRNACount": 2
+}
+
+{
+  "NeurodegenerativeDisease": "hypomyelinating leukodystrophy 6",
+  "miRNACount": 2
+}
+

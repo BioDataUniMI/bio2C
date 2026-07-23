@@ -1,0 +1,1 @@
+Consider the miRNA 'hsa-miR-183-3p', known to be part of cellular components. Find the molecular functions enabled by its precursor miRNA (from which it develops). Return the pre-miRNA label, molecular function label, source of enabling relationship, and the label of the cellular component having the miRNA as part.

@@ -1,0 +1,1 @@
+MATCH (g:Gene) UNWIND g.Genomic_coordinates AS coord WITH g, COUNT(coord) AS nCoords RETURN g.Label AS Gene, nCoords ORDER BY nCoords DESC LIMIT 20

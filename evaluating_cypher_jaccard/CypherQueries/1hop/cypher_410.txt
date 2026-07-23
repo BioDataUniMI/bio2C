@@ -1,0 +1,1 @@
+MATCH (id:Infectious_disease)-[:disease_triggers]->(go:GO) RETURN id.Label AS InfectiousDisease, go.Label AS GOterms

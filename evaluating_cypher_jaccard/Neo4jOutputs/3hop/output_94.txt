@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "miRNA": "hsa-miR-21-5p",
+  "Gene": "VEGFA"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "miRNA": "hsa-miR-21-5p",
+  "Gene": "TGFBR2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "miRNA": "hsa-miR-21-5p",
+  "Gene": "SOX2"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-1)",
+  "miRNA": "hsa-miR-1-3p",
+  "Gene": "VEGFA"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-1)",
+  "miRNA": "hsa-miR-1-3p",
+  "Gene": "CDK4"
+}
+

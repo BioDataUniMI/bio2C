@@ -1,0 +1,35 @@
+{
+  "Gene": "MIR590",
+  "Pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "miRNA": "hsa-miR-590-5p",
+  "GOterm": "SMAD binding"
+}
+
+{
+  "Gene": "MIR590",
+  "Pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "miRNA": "hsa-miR-590-5p",
+  "GOterm": "type I transforming growth factor beta receptor binding"
+}
+
+{
+  "Gene": "MIR590",
+  "Pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "miRNA": "hsa-miR-590-5p",
+  "GOterm": "collagen binding"
+}
+
+{
+  "Gene": "MIR590",
+  "Pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "miRNA": "hsa-miR-590-5p",
+  "GOterm": "transforming growth factor beta receptor binding"
+}
+
+{
+  "Gene": "MIR590",
+  "Pre_miRNA": "microRNA hsa-mir-590 precursor",
+  "miRNA": "hsa-miR-590-5p",
+  "GOterm": "cytokine receptor binding"
+}
+

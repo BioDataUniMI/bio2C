@@ -1,0 +1,1 @@
+List all diseases that contain 'basal ganglia' in their label and show how they are classified (use LABELS(Disease). Return diseases' labels and types.

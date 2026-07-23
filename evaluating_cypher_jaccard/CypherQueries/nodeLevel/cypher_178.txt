@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'cell cycle' AND SIZE(g.Synonym) >= 3 RETURN COUNT(g.Label) AS HowManyGOterms

@@ -1,0 +1,1 @@
+Find the phenotypes of the disease labeled 'iron deficiency anemia' whose label contains the word 'hair'.

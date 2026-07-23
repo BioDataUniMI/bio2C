@@ -1,0 +1,20 @@
+{
+  "mf.Label": "MAP kinase activity"
+}
+
+{
+  "mf.Label": "corticotropin-releasing hormone receptor binding"
+}
+
+{
+  "mf.Label": "mechanosensitive potassium channel activity"
+}
+
+{
+  "mf.Label": "extracellular matrix structural constituent conferring tensile strength"
+}
+
+{
+  "mf.Label": "neuromedin U binding"
+}
+

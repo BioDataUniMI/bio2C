@@ -1,0 +1,25 @@
+{
+  "PhenotypeCount": 2,
+  "Cancer": "primary aldosteronism"
+}
+
+{
+  "PhenotypeCount": 1,
+  "Cancer": "acute lymphoblastic leukemia"
+}
+
+{
+  "PhenotypeCount": 1,
+  "Cancer": "leukemia"
+}
+
+{
+  "PhenotypeCount": 2,
+  "Cancer": "lung carcinoma"
+}
+
+{
+  "PhenotypeCount": 1,
+  "Cancer": "malignant mesothelioma"
+}
+

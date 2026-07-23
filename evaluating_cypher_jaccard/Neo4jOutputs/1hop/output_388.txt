@@ -1,0 +1,10 @@
+{
+  "WholeProcess": "reproduction",
+  "PartProcess": "reproductive process"
+}
+
+{
+  "WholeProcess": "multicellular organism reproduction",
+  "PartProcess": "multicellular organismal reproductive process"
+}
+

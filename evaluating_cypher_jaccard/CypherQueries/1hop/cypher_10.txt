@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:develops_from]->(m2:miRNA) WHERE (m1.Label ENDS WITH 'z' OR m1.Label ENDS WITH 'f' OR m1.Label ENDS WITH 'w') RETURN m1.Label AS miRNA, m2.Label AS Parent_miRNA

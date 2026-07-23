@@ -1,0 +1,1 @@
+How many genes whose label ends with '12' are regulated by miRNAs developed from pre-miRNAs? Return the count of such distinct genes.

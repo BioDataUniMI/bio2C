@@ -1,0 +1,1 @@
+Which diseases that are infectious diseases or any infectious disease subtype are caused or contributed to by microRNAs whose label contains the string 'mir-127'? Return the disease label and the miRNA label.

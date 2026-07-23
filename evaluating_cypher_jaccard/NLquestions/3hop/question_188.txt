@@ -1,0 +1,1 @@
+Identify all pre-miRNAs that are in a similarity relationship with miRNAs located in the cellular component labeled 'extracellular exosome'. Identify also the biological processes in which this component participates. Return the labels of the pre-miRNA, the miRNA and the biological process.

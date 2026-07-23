@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-148a precursor",
+  "Disease": "asthma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-155 precursor",
+  "Disease": "hypertensive disorder"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-152 precursor",
+  "Disease": "asthma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-148b precursor",
+  "Disease": "asthma"
+}
+
+{
+  "miRNA": "hsa-miR-198",
+  "Disease": "schizophrenia"
+}
+

@@ -1,0 +1,1 @@
+Find all diseases that an infectious disease predisposes towards and the diseases that are the basis of features of those diseases. Return the infectious disease, the Disease and the feature_Basis_Disease labels

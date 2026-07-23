@@ -1,0 +1,1 @@
+Identify the cellular components part of GO terms where the miRNA 'hsa-miR-519a-2-5p', that develops from pre-miRNAs, is located. Return the labels of the pre-miRNA, the cellular component, and the GO term.

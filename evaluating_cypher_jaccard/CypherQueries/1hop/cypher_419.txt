@@ -1,0 +1,1 @@
+MATCH (mf1:Molecular_function)-[:regulated_by]->(mf2:Molecular_function ) WHERE mf2.Description CONTAINS 'calcium channel' RETURN mf1, mf2

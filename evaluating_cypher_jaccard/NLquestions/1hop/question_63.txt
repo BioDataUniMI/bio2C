@@ -1,0 +1,1 @@
+Which source(s) report the under-expression of the miRNA labelled as 'hsa-miR-500b-5p'? Which are the GO terms involved in the under-expression?

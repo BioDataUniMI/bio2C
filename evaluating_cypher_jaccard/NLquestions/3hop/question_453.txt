@@ -1,0 +1,1 @@
+Find cancers having as a feature the phenotype labeled as 'Cough', and identify gene pairs where one gene genetically interacts with another contributing to those cancers. Return the cancer label, gene1 label, and gene2 label.

@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'stress stimuli' RETURN mf AS MolecularFunction

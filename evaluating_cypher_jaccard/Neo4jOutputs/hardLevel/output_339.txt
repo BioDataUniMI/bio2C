@@ -1,0 +1,25 @@
+{
+  "GOterm": "extracellular space",
+  "GeneCount": 3079
+}
+
+{
+  "GOterm": "extracellular region",
+  "GeneCount": 1917
+}
+
+{
+  "GOterm": "intracellular anatomical structure",
+  "GeneCount": 1227
+}
+
+{
+  "GOterm": "cytoplasm",
+  "GeneCount": 1179
+}
+
+{
+  "GOterm": "cell nucleus",
+  "GeneCount": 1162
+}
+

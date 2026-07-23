@@ -1,0 +1,1 @@
+List all phenotypes of the disease whose label contains 'hypercalcemia' via the 'has_characteristic' relationship type. Return the the phenotypes label and the disease label and elementId  

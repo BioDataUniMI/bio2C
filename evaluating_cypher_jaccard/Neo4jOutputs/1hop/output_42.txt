@@ -1,0 +1,13 @@
+{
+  "Phenotype_label": "Ovarian neoplasm",
+  "Phenotype_synonyms": [
+    "卵巢肿瘤",
+    "Ovarieel neoplasma",
+    "Novotvar vaječníku",
+    "Neoplasia de ovario",
+    "卵巣新生物",
+    "Néoplasie de l'ovaire",
+    "Over neoplazmı"
+  ]
+}
+

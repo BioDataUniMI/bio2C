@@ -1,0 +1,11 @@
+{
+  "g1.Label": "clathrin-sculpted monoamine transport vesicle membrane",
+  "g1.Description": "the lipid bilayer surrounding a clathrin-sculpted monoamine transport vesicle.",
+  "g2.Label": "clathrin-sculpted monoamine transport vesicle",
+  "PROPERTIES(r)": {
+    "Source": [
+      "GO"
+    ]
+  }
+}
+

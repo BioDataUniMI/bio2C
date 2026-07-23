@@ -1,0 +1,1 @@
+Find the cellular components whose labels contain 'intracellular' and whose descriptions contain the string 'a network of proteins'. Return their label and ID.

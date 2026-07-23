@@ -1,0 +1,7 @@
+{
+  "d1.Label": "enuresis",
+  "d1.Description": "an elimination disorder characterized by urinary incontinence, whether involuntary or intentional...",
+  "d2.Label": "enuresis",
+  "d2.Description": "the habitual voiding of urine during the day or night into one's clothes, bed, or floor. the beha..."
+}
+

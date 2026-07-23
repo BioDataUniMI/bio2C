@@ -1,0 +1,78 @@
+{
+  "Gene": "ZNF667-AS1",
+  "Cancers": [
+    "uterine cervix carcinoma in situ",
+    "bile duct neoplasm",
+    "neoplasm of esophagus",
+    "uterine cervix neoplasm",
+    "breast neoplasm",
+    "gastric neoplasm",
+    "cholangiocarcinoma",
+    "carcinoma of esophagus",
+    "soft tissue sarcoma",
+    "epithelioid sarcoma",
+    "hereditary breast carcinoma",
+    "hereditary diffuse gastric adenocarcinoma",
+    "esophageal cancer",
+    "breast cancer",
+    "malignant mesothelioma",
+    "bile duct carcinoma",
+    "cervical adenocarcinoma",
+    "cervical carcinoma",
+    "sarcoma",
+    "mesothelioma",
+    "breast carcinoma",
+    "gastric carcinoma",
+    "anal canal carcinoma in situ",
+    "squamous carcinoma in situ",
+    "intrahepatic cholangiocarcinoma",
+    "bile duct adenocarcinoma",
+    "bile duct cancer",
+    "cervical cancer",
+    "carcinosarcoma",
+    "spindle cell sarcoma",
+    "benign mesothelioma",
+    "gastric cancer"
+  ]
+}
+
+{
+  "Gene": "HMMR-AS1",
+  "Cancers": [
+    "hepatocellular carcinoma",
+    "fibrolamellar hepatocellular carcinoma"
+  ]
+}
+
+{
+  "Gene": "RNASEH2A",
+  "Cancers": [
+    "lung neoplasm",
+    "lung cancer",
+    "non-small cell lung carcinoma",
+    "lung carcinoma",
+    "lung adenocarcinoma",
+    "minimally invasive lung adenocarcinoma",
+    "lung benign neoplasm"
+  ]
+}
+
+{
+  "Gene": "RN7SL776P",
+  "Cancers": [
+    "basal cell carcinoma",
+    "basal cell neoplasm",
+    "skin basal cell carcinoma",
+    "skin pigmented basal cell carcinoma"
+  ]
+}
+
+{
+  "Gene": "RNU6-148P",
+  "Cancers": [
+    "prostate cancer, hereditary",
+    "familial prostate carcinoma",
+    "prostate cancer, hereditary, 1"
+  ]
+}
+

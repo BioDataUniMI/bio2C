@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-3613-5p",
+  "miRNA_Sequence": "UGUUGUACUUUUUUUUUUGUUC",
+  "Cancer_label": "childhood kidney Wilms tumor"
+}
+
+{
+  "miRNA": "hsa-miR-3613-5p",
+  "miRNA_Sequence": "UGUUGUACUUUUUUUUUUGUUC",
+  "Cancer_label": "kidney Wilms tumor"
+}
+
+{
+  "miRNA": "hsa-miR-3613-5p",
+  "miRNA_Sequence": "UGUUGUACUUUUUUUUUUGUUC",
+  "Cancer_label": "medullary thyroid gland carcinoma"
+}
+
+{
+  "miRNA": "hsa-miR-3613-5p",
+  "miRNA_Sequence": "UGUUGUACUUUUUUUUUUGUUC",
+  "Cancer_label": "Wilms tumor"
+}
+
+{
+  "miRNA": "hsa-miR-3613-5p",
+  "miRNA_Sequence": "UGUUGUACUUUUUUUUUUGUUC",
+  "Cancer_label": "head and neck cancer"
+}
+

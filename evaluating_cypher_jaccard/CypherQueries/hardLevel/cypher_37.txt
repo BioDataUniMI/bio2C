@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:causes_or_contributes_to_condition]->(p:Phenotype {Label: 'APUdoma'}) WHERE p.Synonym IS NOT NULL UNWIND p.Synonym AS synonym WITH g, p, TRIM(synonym) AS syn WHERE NOT syn CONTAINS ' ' RETURN DISTINCT g.Label AS Gene, p.Label AS Phenotype, syn AS One_Word_Synonym ORDER BY syn

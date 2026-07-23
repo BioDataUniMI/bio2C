@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:in_homology_relationship_with]->(m2:miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease {Label:'breast carcinoma'}) WHERE SIZE(m.Sequence) >= SIZE(m2.Sequence) + 30 RETURN g.Label AS Gene, m.Label AS miRNA, SIZE(m.Sequence) AS MiRNA_Length, m2.Label AS Homologous_miRNA, SIZE(m2.Sequence) AS Homologous_miRNA_Length

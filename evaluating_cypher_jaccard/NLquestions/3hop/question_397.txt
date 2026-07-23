@@ -1,0 +1,1 @@
+Retrieve all properties of diseases that cause disruption of biological processes occurring in cellular components. Return the disease properties (PROPERTIES(disease)), biological process label, and cellular component label.

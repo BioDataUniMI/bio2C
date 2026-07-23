@@ -1,0 +1,1 @@
+Count the number of distinct biological processes that negatively regulate at least one biological process or molecular function, and the number of distinct molecular functions that are negatively regulated by those processes. Return both counts.

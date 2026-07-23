@@ -1,0 +1,30 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-3648 precursor (hsa-mir-3648-1%2C hsa-mir-3648-2)",
+  "Description": "homo sapiens (human) microrna hsa-mir-3648 precursor (hsa-mir-3648-1, hsa-mir-3648-2)",
+  "Length": 180
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-6753 precursor",
+  "Description": "homo sapiens (human) microrna hsa-mir-6753 precursor",
+  "Length": 164
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-7851 precursor",
+  "Description": "homo sapiens (human) microrna hsa-mir-7851 precursor",
+  "Length": 160
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-3180 precursor (hsa-mir-3180-4)",
+  "Description": "homo sapiens (human) microrna hsa-mir-3180 precursor (hsa-mir-3180-4)",
+  "Length": 153
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-3180 precursor (hsa-mir-3180-5)",
+  "Description": "homo sapiens (human) microrna hsa-mir-3180 precursor (hsa-mir-3180-5)",
+  "Length": 153
+}
+

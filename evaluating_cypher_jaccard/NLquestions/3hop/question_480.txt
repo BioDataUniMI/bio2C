@@ -1,0 +1,1 @@
+Which diseases cause disruption of a GO term that regulates another GO term, and are also caused by the disruption of another different GO term? Return the label of diseases an all GO terms.

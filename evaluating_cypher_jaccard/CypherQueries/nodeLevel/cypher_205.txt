@@ -1,0 +1,1 @@
+MATCH (d:Infectious_disease) WHERE d.Label CONTAINS 'herpetic' AND d.Description CONTAINS 'painful' RETURN d

@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-205 precursor",
+  "Sequence_length": 110,
+  "GO_term": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-182 precursor",
+  "Sequence_length": 110,
+  "GO_term": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-210 precursor",
+  "Sequence_length": 110,
+  "GO_term": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "Sequence_length": 110,
+  "GO_term": "inflammatory response"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-671 precursor",
+  "Sequence_length": 118,
+  "GO_term": "inflammatory response"
+}
+

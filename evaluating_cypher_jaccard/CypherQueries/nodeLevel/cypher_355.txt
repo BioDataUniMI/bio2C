@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE d:Cancer AND (d:Neurodegenerative_disease OR d:Infectious_disease) RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications

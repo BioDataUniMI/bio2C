@@ -1,0 +1,20 @@
+{
+  "gene": "MIR625",
+  "biological_process": "glucose metabolic process"
+}
+
+{
+  "gene": "MIR1207",
+  "biological_process": "glucose metabolic process"
+}
+
+{
+  "gene": "MIR1237",
+  "biological_process": "glucose metabolic process"
+}
+
+{
+  "gene": "MIR1288",
+  "biological_process": "glucose metabolic process"
+}
+

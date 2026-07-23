@@ -1,0 +1,1 @@
+Find the classification of GO terms whose IDs start with 'GOCHE'.

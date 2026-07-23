@@ -1,0 +1,1 @@
+Return 'Cardiovascular_disease' whose 'Description' contains the word 'infant' and that lack any 'disease_triggers' relationships with 'Biological_process'es.

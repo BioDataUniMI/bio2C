@@ -1,0 +1,20 @@
+{
+  "bp.Label": "regulation of cellular response to alcohol"
+}
+
+{
+  "bp.Label": "alcohol metabolic process"
+}
+
+{
+  "bp.Label": "alcohol catabolic process"
+}
+
+{
+  "bp.Label": "aromatic primary alcohol biosynthetic process"
+}
+
+{
+  "bp.Label": "fatty alcohol biosynthetic process"
+}
+

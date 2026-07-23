@@ -1,0 +1,1 @@
+Which 'obesity'-labeled diseases that are subclasses of other diseases are caused or contributed by genes with only 2-character-long labels? What are their parent diseases?

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:part_of]->(cc:Cellular_component) WHERE SIZE(m.Sequence) < 24 AND NOT m.Sequence CONTAINS 'C' RETURN cc.Label AS CellularComponent, m.Label AS miRNA

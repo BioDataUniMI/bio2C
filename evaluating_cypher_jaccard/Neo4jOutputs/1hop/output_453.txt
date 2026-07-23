@@ -1,0 +1,18 @@
+{
+  "cc.Label": "mitotic G2 phase",
+  "g.Label": "mitotic G2 DNA damage checkpoint signaling",
+  "g.Description": "a mitotic cell cycle checkpoint that detects and negatively regulates progression through the g2/..."
+}
+
+{
+  "cc.Label": "mitotic G1 phase",
+  "g.Label": "mitotic G1 DNA damage checkpoint signaling",
+  "g.Description": "a signal transduction process that contributes to a mitotic cell cycle g1/s transition dna damage..."
+}
+
+{
+  "cc.Label": "mitotic S phase",
+  "g.Label": "mitotic intra-S DNA damage checkpoint signaling",
+  "g.Description": "a mitotic cell cycle checkpoint that slows dna synthesis in response to dna damage by the prevent..."
+}
+

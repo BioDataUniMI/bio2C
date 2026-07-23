@@ -1,0 +1,1 @@
+Find molecular functions that have no regulatory relationships ('regulates' or 'regulated_by') with GO terms and whose labels contain the word 'acetylation'.

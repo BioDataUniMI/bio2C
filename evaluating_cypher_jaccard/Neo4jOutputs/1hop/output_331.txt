@@ -1,0 +1,20 @@
+{
+  "a.Label": "RNASEH2A-related type 1 interferonopathy"
+}
+
+{
+  "a.Label": "SAMHD1-related type 1 interferonopathy"
+}
+
+{
+  "a.Label": "type 1 diabetes mellitus 1"
+}
+
+{
+  "a.Label": "Sharpin-related autoinflammatory syndrome"
+}
+
+{
+  "a.Label": "IFIH1-related type 1 interferonopathy"
+}
+

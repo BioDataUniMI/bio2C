@@ -1,0 +1,1 @@
+Calculate the percentage of 'U' nucleotides in miRNAs that do not contain 'C', are part of GO terms, and have sequence length less than 24.

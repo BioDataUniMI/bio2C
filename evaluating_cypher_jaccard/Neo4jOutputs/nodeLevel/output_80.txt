@@ -1,0 +1,5 @@
+{
+  "MolecularFunction": "mRNA cap binding complex binding",
+  "Description": "binding to a mrna cap binding complex."
+}
+

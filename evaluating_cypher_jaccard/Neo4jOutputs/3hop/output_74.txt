@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "GO_Function": "chromatin remodeling",
+  "MolecularFunction": "histone modifying activity",
+  "Sub_GO_Term": "ATP-dependent chromatin remodeler activity"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-31 precursor",
+  "GO_Function": "chromatin remodeling",
+  "MolecularFunction": "ATP-dependent chromatin remodeler activity",
+  "Sub_GO_Term": "histone modifying activity"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "GO_Function": "chromatin remodeling",
+  "MolecularFunction": "histone modifying activity",
+  "Sub_GO_Term": "ATP-dependent chromatin remodeler activity"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-21 precursor",
+  "GO_Function": "chromatin remodeling",
+  "MolecularFunction": "ATP-dependent chromatin remodeler activity",
+  "Sub_GO_Term": "histone modifying activity"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-132 precursor",
+  "GO_Function": "chromatin remodeling",
+  "MolecularFunction": "histone modifying activity",
+  "Sub_GO_Term": "ATP-dependent chromatin remodeler activity"
+}
+

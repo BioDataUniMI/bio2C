@@ -1,0 +1,28 @@
+{
+  "cc.Label": "vesicle",
+  "cc.Description": "any small, fluid-filled, spherical organelle enclosed by membrane.",
+  "g.Label": "vesicle fusion with peroxisome",
+  "TYPE(r)": "results_in_fusion_of"
+}
+
+{
+  "cc.Label": "vesicle",
+  "cc.Description": "any small, fluid-filled, spherical organelle enclosed by membrane.",
+  "g.Label": "vesicle fusion with endoplasmic reticulum",
+  "TYPE(r)": "results_in_fusion_of"
+}
+
+{
+  "cc.Label": "vesicle",
+  "cc.Description": "any small, fluid-filled, spherical organelle enclosed by membrane.",
+  "g.Label": "vesicle fusion with Golgi apparatus",
+  "TYPE(r)": "results_in_fusion_of"
+}
+
+{
+  "cc.Label": "vesicle",
+  "cc.Description": "any small, fluid-filled, spherical organelle enclosed by membrane.",
+  "g.Label": "vesicle fusion with vacuole",
+  "TYPE(r)": "results_in_fusion_of"
+}
+

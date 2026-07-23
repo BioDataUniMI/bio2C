@@ -1,0 +1,10 @@
+{
+  "g.Label": "beta-alanyl-dopamine hydrolase activity",
+  "g.Description": "catalysis of the reaction: n-beta-alanyl dopamine + h2o = dopamine + beta-alanine."
+}
+
+{
+  "g.Label": "dopamine beta-monooxygenase activity",
+  "g.Description": "catalysis of the reaction: l-ascorbate + dopamine + o2 = (r)-noradrenaline + dehydroascorbate + h2o."
+}
+

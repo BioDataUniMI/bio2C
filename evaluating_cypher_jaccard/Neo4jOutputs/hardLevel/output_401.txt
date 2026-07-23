@@ -1,0 +1,15 @@
+{
+  "GeneURIs": [
+    "http://www.ncbi.nlm.nih.gov/gene/100049427",
+    "http://www.ncbi.nlm.nih.gov/gene/100008753",
+    "http://www.ncbi.nlm.nih.gov/gene/102408280",
+    "http://www.ncbi.nlm.nih.gov/gene/101683509",
+    "http://www.ncbi.nlm.nih.gov/gene/116563217",
+    "http://www.ncbi.nlm.nih.gov/gene/112932288",
+    "http://www.ncbi.nlm.nih.gov/gene/280951",
+    "http://www.ncbi.nlm.nih.gov/gene/403405",
+    "http://www.ncbi.nlm.nih.gov/gene/122912503",
+    "http://www.ncbi.nlm.nih.gov/gene/751100"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'cell' AND SIZE(g.Synonym) > 0 RETURN g.Label AS GOTerm, SIZE(g.Synonym) AS SynonymCount

@@ -1,0 +1,1 @@
+MATCH (go:GO {Label: 'sister chromatid biorientation'})-[:part_of]->(bp:Biological_process)-[:has_characteristic]->(p:Phenotype) RETURN bp.Label AS BiologicalProcess, p.Label AS Phenotype

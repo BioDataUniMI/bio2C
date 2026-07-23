@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'liver' that are caused or contributed by genes from which miRNAs are transcribed and that are functions of the GO term whose label contain the word 'cholesterol'. Return the GO term label, miRNA label, gene label, and disease label.

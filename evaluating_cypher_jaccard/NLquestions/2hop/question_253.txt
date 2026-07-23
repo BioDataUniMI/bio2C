@@ -1,0 +1,1 @@
+Identify GO terms that include the 'extracellular exosome' cellular component as a part where miRNAs with labels containing '181b' are located. Return the miRNA and GO term labels.

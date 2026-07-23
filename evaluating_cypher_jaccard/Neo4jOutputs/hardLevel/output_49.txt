@@ -1,0 +1,35 @@
+{
+  "Gene": "H2AB3",
+  "Synonyms": [
+    "histone H2A-Bbd type 2/3",
+    "H2A histone family member B3",
+    "H2AB2",
+    "H2A.B variant histone 3",
+    "H2AFB",
+    "H2A.Bbd",
+    "H2A Barr body-deficient",
+    "H2AFB2,",
+    "H2ABBD",
+    "H2A.B.1",
+    "histone variant H2A, Barr-body deficient",
+    "H2AFB3"
+  ],
+  "Genomic_Coordinates": [
+    "chrX:155459415-155460005-"
+  ]
+}
+
+{
+  "Gene": "H2AL3",
+  "Synonyms": [
+    "H2A.L.3",
+    "H2AL1RP",
+    "histone H2A-like 3",
+    "H2A.L variant histone 3",
+    "H2A.L variant histone R, pseudogene"
+  ],
+  "Genomic_Coordinates": [
+    "chrX:37994272-37994904+"
+  ]
+}
+

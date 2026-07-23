@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-521",
+  "Disease": "autosomal dominant Robinow syndrome 1"
+}
+
+{
+  "miRNA": "hsa-miR-521",
+  "Disease": "autosomal dominant Robinow syndrome 3"
+}
+
+{
+  "miRNA": "hsa-miR-521",
+  "Disease": "autosomal dominant Robinow syndrome 2"
+}
+
+{
+  "miRNA": "hsa-miR-521",
+  "Disease": "autosomal recessive multiple pterygium syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-521",
+  "Disease": "autosomal dominant Robinow syndrome"
+}
+

@@ -1,0 +1,1 @@
+Identify diseases that are caused or contributed to by genes starting with 'CC', ending with '1', and having a 5-character-long label. Moreover, keep only genes regulated by miRNAs expressed in cancers whose label contains the string 'lipomatosis'. Return the cancer, miRNA, gene, and disease labels.

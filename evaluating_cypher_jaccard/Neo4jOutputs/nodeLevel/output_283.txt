@@ -1,0 +1,20 @@
+{
+  "GeneLabel": "LRPPRC"
+}
+
+{
+  "GeneLabel": "CTDSPL"
+}
+
+{
+  "GeneLabel": "HNRNPR"
+}
+
+{
+  "GeneLabel": "MRGPRF"
+}
+
+{
+  "GeneLabel": "CLCNKB"
+}
+

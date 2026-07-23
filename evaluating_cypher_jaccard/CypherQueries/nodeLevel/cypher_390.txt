@@ -1,0 +1,1 @@
+MATCH (n:Neurodegenerative_disease) WHERE n.Label CONTAINS 'Alzheimer' AND n.Description CONTAINS 'pld3' RETURN n.Label, n.Description

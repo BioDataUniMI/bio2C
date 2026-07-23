@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:subclassof]->(c:Cancer)-[:expresses]->(m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE c.Label CONTAINS 'muscle' AND size(g.Label) > 9 RETURN  d.Label AS Disease, c.Label AS Cancer, m.Label AS miRNA, g.Label AS Gene

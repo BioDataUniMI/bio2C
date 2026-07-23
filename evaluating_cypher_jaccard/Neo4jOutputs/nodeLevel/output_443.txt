@@ -1,0 +1,25 @@
+{
+  "mf.Label": "monoatomic anion channel activity",
+  "mf.ID": "GO:0005253"
+}
+
+{
+  "mf.Label": "ATPase-coupled inorganic anion transmembrane transporter activity",
+  "mf.ID": "GO:0043225"
+}
+
+{
+  "mf.Label": "organic anion transmembrane transporter activity",
+  "mf.ID": "GO:0008514"
+}
+
+{
+  "mf.Label": "monoatomic anion transmembrane transporter activity",
+  "mf.ID": "GO:0008509"
+}
+
+{
+  "mf.Label": "volume-sensitive anion channel activity",
+  "mf.ID": "GO:0005225"
+}
+

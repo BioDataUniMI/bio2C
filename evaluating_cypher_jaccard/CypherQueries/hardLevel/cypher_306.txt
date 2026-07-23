@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Disease {Label:'Alzheimer disease'}) WHERE (d)-[:has_phenotype]->(:Phenotype {Label:'Seizure'}) WITH m, d MATCH (p:Phenotype {Label:'Seizure'})<-[:disease_has_feature]-(other:Disease) RETURN DISTINCT m.Label AS miRNA, d.Label AS AlzheimerDisease, p.Label AS Phenotype, COLLECT(DISTINCT other.Label) AS OtherDiseases

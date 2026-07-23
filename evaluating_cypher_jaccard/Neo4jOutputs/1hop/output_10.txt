@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-548aw",
+  "Parent_miRNA": "microRNA hsa-mir-548aw precursor"
+}
+
+{
+  "miRNA": "hsa-miR-548z",
+  "Parent_miRNA": "microRNA hsa-mir-548z precursor"
+}
+
+{
+  "miRNA": "hsa-miR-3689f",
+  "Parent_miRNA": "microRNA hsa-mir-3689f precursor"
+}
+
+{
+  "miRNA": "hsa-miR-548z",
+  "Parent_miRNA": "microRNA hsa-mir-548h precursor (hsa-mir-548h-4)"
+}
+
+{
+  "miRNA": "hsa-miR-302f",
+  "Parent_miRNA": "microRNA hsa-mir-302f precursor"
+}
+

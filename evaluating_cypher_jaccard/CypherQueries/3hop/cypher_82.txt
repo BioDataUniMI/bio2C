@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component {Label:'extracellular exosome'})-[:has_part]->(mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA)-[r:under_expressed_in]->(id:Infectious_disease) RETURN mirna.Label AS miRNA, premirna.Label AS Pre_miRNA, id.Label AS InfectiousDisease, r.FDR AS FDR

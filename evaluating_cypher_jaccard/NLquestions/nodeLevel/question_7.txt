@@ -1,0 +1,1 @@
+Which molecular functions have labels containing 'kinase activator'?

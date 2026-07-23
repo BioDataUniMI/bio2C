@@ -1,0 +1,1 @@
+Identify pre-miRNAs that are overexpressed in the autoimmune disease labeled as 'rheumatoid arthritis'. List the phenotypes of this disease along with the GO terms that characterize them. Return the labels of pre-miRNA,  phenotype, and GO term.

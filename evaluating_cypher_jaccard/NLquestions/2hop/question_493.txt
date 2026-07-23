@@ -1,0 +1,1 @@
+Identify genes that cause or contribute to neurodegenerative diseases which predispose towards other diseases, excluding genes with any genomic coordinates on chromosome X. Return the gene, the neurodegenerative disease labels and the gene's genomic coordinates.

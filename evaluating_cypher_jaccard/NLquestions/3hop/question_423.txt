@@ -1,0 +1,1 @@
+Identify GO terms that cellular components are part of and in which miRNAs expressed in neurodegenerative diseases are located. Return the neurodegenerative disease label, miRNA label, cellular component label, and GO term label.

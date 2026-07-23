@@ -1,0 +1,1 @@
+Which genes are transcribed into pre-miRNAs that mature into miRNAs regulating the activity of target genes that cause or contribute to the disease labeled as 'thoracic cancer'? Return the source gene label, pre-miRNA label, mature miRNA label, and target gene label.

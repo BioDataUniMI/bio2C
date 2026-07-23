@@ -1,0 +1,48 @@
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNA_Label": "hsa-miR-3622b-5p",
+  "miRNA_Genomic_coordinates": [
+    "chr8:27701726-27701745-"
+  ]
+}
+
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNA_Label": "hsa-miR-125a-5p",
+  "miRNA_Genomic_coordinates": [
+    "chr19:51693268-51693291+"
+  ]
+}
+
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNA_Label": "hsa-miR-199a-5p",
+  "miRNA_Genomic_coordinates": [
+    "chr19:10817469-10817491-",
+    "chr1:172144592-172144614-"
+  ]
+}
+
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNA_Label": "hsa-miR-129-1-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr7:128207920-128207941+"
+  ]
+}
+
+{
+  "ParentGO": "regulation of protein autophosphorylation",
+  "RegulatedGO": "protein autophosphorylation",
+  "miRNA_Label": "hsa-miR-199b-3p",
+  "miRNA_Genomic_coordinates": [
+    "chr19:10817429-10817450-",
+    "chr1:172144554-172144575-",
+    "chr9:128244745-128244766-"
+  ]
+}
+

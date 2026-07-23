@@ -1,0 +1,7 @@
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "Gene": "XDH",
+  "CardiovascularDisease": "congestive heart failure",
+  "Phenotype": "Dyspnea"
+}
+

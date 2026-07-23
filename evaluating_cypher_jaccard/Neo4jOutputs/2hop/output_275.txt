@@ -1,0 +1,20 @@
+{
+  "Disease": "iron deficiency anemia",
+  "DisruptedProcess": "intracellular iron ion homeostasis"
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "DisruptedProcess": "blood coagulation"
+}
+
+{
+  "Disease": "myotonic dystrophy",
+  "DisruptedProcess": "regulation of RNA splicing"
+}
+
+{
+  "Disease": "muscular dystrophy-dystroglycanopathy",
+  "DisruptedProcess": "protein glycosylation"
+}
+

@@ -1,0 +1,15 @@
+{
+  "GOTerm": "blood coagulation, fibrin clot formation",
+  "Disease": "blood coagulation disease"
+}
+
+{
+  "GOTerm": "thrombocyte activation",
+  "Disease": "blood coagulation disease"
+}
+
+{
+  "GOTerm": "platelet activation",
+  "Disease": "blood coagulation disease"
+}
+

@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "MaxMiRNACount": 447
+}
+

@@ -1,0 +1,10 @@
+{
+  "mf.Label": "N-feruloylglycine deacylase activity",
+  "mf.ID": "GO:0050128"
+}
+
+{
+  "mf.Label": "pH-gated monoatomic ion channel activity",
+  "mf.ID": "GO:0160128"
+}
+

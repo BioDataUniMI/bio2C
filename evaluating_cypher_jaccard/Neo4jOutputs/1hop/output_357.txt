@@ -1,0 +1,25 @@
+{
+  "GO": "neurotransmitter secretion",
+  "CellularComponent": "presynapse"
+}
+
+{
+  "GO": "synaptic vesicle exocytosis",
+  "CellularComponent": "presynapse"
+}
+
+{
+  "GO": "release of sequestered calcium ion into presynaptic cytosol",
+  "CellularComponent": "presynapse"
+}
+
+{
+  "GO": "voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium le...",
+  "CellularComponent": "presynapse"
+}
+
+{
+  "GO": "voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic c...",
+  "CellularComponent": "presynapse"
+}
+

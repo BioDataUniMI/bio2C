@@ -1,0 +1,1 @@
+Consider the cancer labeled as 'hamartoma' that express miRNAs under-expressed in phenotype. Count the amount of 'CU' dinucleotide pairs in each miRNA. Return also the corresponding phenotype labels.

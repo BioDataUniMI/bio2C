@@ -1,0 +1,25 @@
+{
+  "Process_name": "apoptotic process",
+  "mirna_count": 410
+}
+
+{
+  "Process_name": "autophagy",
+  "mirna_count": 224
+}
+
+{
+  "Process_name": "inflammatory response",
+  "mirna_count": 15
+}
+
+{
+  "Process_name": "programmed necrotic cell death",
+  "mirna_count": 7
+}
+
+{
+  "Process_name": "cell death",
+  "mirna_count": 1
+}
+

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-let-7c-3p",
+  "Parent_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "miRNA": "hsa-let-7c-5p",
+  "Parent_miRNA": "let-7c stem-loop (hsa-let-7c)"
+}
+
+{
+  "miRNA": "hsa-let-7f-5p",
+  "Parent_miRNA": "let-7f-2 stem-loop (hsa-let-7f-2)"
+}
+
+{
+  "miRNA": "hsa-let-7f-2-3p",
+  "Parent_miRNA": "let-7f-2 stem-loop (hsa-let-7f-2)"
+}
+
+{
+  "miRNA": "hsa-let-7b-3p",
+  "Parent_miRNA": "let-7b stem-loop (hsa-let-7b)"
+}
+

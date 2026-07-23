@@ -1,0 +1,1 @@
+Return all properties of the cancer labeled 'lung carcinoma'.

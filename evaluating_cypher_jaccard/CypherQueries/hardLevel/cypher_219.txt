@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE c.Description CONTAINS 'common' WITH c, SPLIT(c.Description, ' ') AS words WITH c, words, [i IN range(0, SIZE(words)-2) WHERE words[i] = 'common'] AS positions UNWIND positions AS pos RETURN DISTINCT c.Label AS Cancer_label, words[pos+1] AS word_after_common

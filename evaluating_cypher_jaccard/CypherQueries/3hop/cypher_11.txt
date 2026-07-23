@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:in_similarity_relationship_with]->(m2:miRNA), (m1)-[:transcribed_from]->(g:Gene) WHERE g.Sequence ENDS WITH 'CTC' RETURN m1.Label AS miRNA, m2.Label AS similar_miRNA, g.Label AS gene

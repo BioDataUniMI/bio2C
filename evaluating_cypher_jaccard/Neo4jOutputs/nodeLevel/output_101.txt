@@ -1,0 +1,5 @@
+{
+  "Disease": "human HOXA1 syndromes",
+  "Description": "human hoxa1 syndromes is characterized by deafness, central hypoventilation, congenital ocular pa..."
+}
+

@@ -1,0 +1,1 @@
+Report the sequence lengths and genomic coordinates of pre-miRNAs transcribed from the gene 'MIR744' that develop into mature miRNAs, along with the corresponding mature miRNAs.

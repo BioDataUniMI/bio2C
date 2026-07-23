@@ -1,0 +1,1 @@
+MATCH (g1:GO)-[r:bounding_layer_of]->(g2:GO) WHERE g1.Description CONTAINS 'monoamine' RETURN g1.Label, g1.Description, g2.Label, PROPERTIES(r)

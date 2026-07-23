@@ -1,0 +1,20 @@
+{
+  "miRNA": "microRNA hsa-mir-141 precursor",
+  "GO_Description": "the series of events that restore integrity to a damaged tissue, following an injury."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-130b precursor",
+  "GO_Description": "the series of events that restore integrity to a damaged tissue, following an injury."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-6727 precursor",
+  "GO_Description": "the series of events that restore integrity to a damaged tissue, following an injury."
+}
+
+{
+  "miRNA": "microRNA hsa-mir-93 precursor",
+  "GO_Description": "the series of events that restore integrity to a damaged tissue, following an injury."
+}
+

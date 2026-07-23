@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-514a-3p",
+  "GenomicCoordinates": [
+    "chrX:147279266-147279286-",
+    "chrX:147284655-147284675-",
+    "chrX:147281957-147281977-"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1184 precursor (hsa-mir-1184 1 to 3)",
+  "GenomicCoordinates": [
+    "chrX:155383100-155383198-",
+    "chrX:154887360-154887458-",
+    "chrX:155457517-155457615+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-1184",
+  "GenomicCoordinates": [
+    "chrX:154887376-154887398-",
+    "chrX:155457577-155457599+",
+    "chrX:155383116-155383138-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-514a-5p",
+  "GenomicCoordinates": [
+    "chrX:147279301-147279323-",
+    "chrX:147281992-147282014-",
+    "chrX:147284690-147284712-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-509-3p",
+  "GenomicCoordinates": [
+    "chrX:147260550-147260571-",
+    "chrX:147259662-147259683-",
+    "chrX:147258775-147258796-"
+  ]
+}
+

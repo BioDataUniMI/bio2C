@@ -1,0 +1,10 @@
+{
+  "CancerLabel": "polyp of middle ear",
+  "Description": "a benign polypoid growth in the middle ear."
+}
+
+{
+  "CancerLabel": "fibroepithelial polyp of urethra",
+  "Description": "a benign polypoid lesion of mesodermal origin that arises from the urethra."
+}
+

@@ -1,0 +1,1 @@
+MATCH (pre1:pre_miRNA)-[:in_homology_relationship_with]->(m:miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(pre2:pre_miRNA) WHERE g.Label =~ '.*A$' RETURN pre1.Label AS Pre_miRNA_Homolog, m.Label AS miRNA, g.Label AS Gene, pre2.Label AS Transcribed_pre_miRNA

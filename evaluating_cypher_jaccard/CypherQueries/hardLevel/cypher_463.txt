@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:over_expressed_in|under_expressed_in|expressed_in]->(d:Disease) WITH m, COUNT(DISTINCT [x IN labels(d) WHERE x <> 'Disease'][0]) AS nTypes RETURN nTypes, COUNT(m) AS miRNACount ORDER BY nTypes

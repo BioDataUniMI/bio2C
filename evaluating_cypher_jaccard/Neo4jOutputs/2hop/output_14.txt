@@ -1,0 +1,15 @@
+{
+  "BiologicalProcess": "negative regulation of protein serine/threonine kinase activity",
+  "miRNA": "hsa-miR-106b-5p"
+}
+
+{
+  "BiologicalProcess": "negative regulation of protein metabolic process",
+  "miRNA": "hsa-miR-106b-5p"
+}
+
+{
+  "BiologicalProcess": "negative regulation of protein phosphorylation",
+  "miRNA": "hsa-miR-106b-5p"
+}
+

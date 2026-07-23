@@ -1,0 +1,1 @@
+Find all pre-miRNAs whose labels contain '%'. Return their label, description and sequence length.

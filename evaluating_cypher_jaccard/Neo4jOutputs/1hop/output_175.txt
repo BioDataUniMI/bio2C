@@ -1,0 +1,15 @@
+{
+  "Phenotype": "Cervical vertebral agenesis",
+  "Disease": "cervical vertebrae, agenesis of"
+}
+
+{
+  "Phenotype": "Abnormality of the neck",
+  "Disease": "cervical vertebrae, agenesis of"
+}
+
+{
+  "Phenotype": "Autosomal recessive inheritance",
+  "Disease": "cervical vertebrae, agenesis of"
+}
+

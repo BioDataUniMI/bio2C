@@ -1,0 +1,30 @@
+{
+  "regulation_effect": "negative",
+  "relationship_type": "directly_negatively_regulated_by",
+  "total": 65
+}
+
+{
+  "regulation_effect": "negative",
+  "relationship_type": "negatively_regulated_by",
+  "total": 9
+}
+
+{
+  "regulation_effect": "positive",
+  "relationship_type": "directly_positively_regulates",
+  "total": 57
+}
+
+{
+  "regulation_effect": "unspecified",
+  "relationship_type": "directly_regulated_by",
+  "total": 36
+}
+
+{
+  "regulation_effect": "unspecified",
+  "relationship_type": "regulated_by",
+  "total": 15
+}
+

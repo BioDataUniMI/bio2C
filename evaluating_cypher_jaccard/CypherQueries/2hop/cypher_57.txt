@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label: 'amnestic disorder'})-[:disease_causes_disruption_of]->(t:GO)-[:has_participant]->(m:miRNA) RETURN t.Label AS DisruptedGOTerm, m.Label AS Participant_miRNA

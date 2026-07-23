@@ -1,0 +1,1 @@
+Consider the disease labeled as 'pulmonary agenesis'. Identify the biological processes containing the word 'negative' in which miRNAs expressed by its phenotypes participate. Return the label of the phenotype, the miRNA, and the biological process.

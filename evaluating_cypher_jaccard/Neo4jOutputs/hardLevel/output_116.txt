@@ -1,0 +1,45 @@
+{
+  "Gene": "CACNA1D",
+  "Phenotype": "Bipolar affective disorder",
+  "Genomic_coordinates": [
+    "chr3:53328963-53813733+"
+  ],
+  "Sequence_Length": 484771
+}
+
+{
+  "Gene": "ADCY2",
+  "Phenotype": "Bipolar affective disorder",
+  "Genomic_coordinates": [
+    "chr5:7396138-7830081+"
+  ],
+  "Sequence_Length": 433944
+}
+
+{
+  "Gene": "SRPK2",
+  "Phenotype": "Bipolar affective disorder",
+  "Genomic_coordinates": [
+    "chr7:105110704-105399308-"
+  ],
+  "Sequence_Length": 288605
+}
+
+{
+  "Gene": "TRANK1",
+  "Phenotype": "Bipolar affective disorder",
+  "Genomic_coordinates": [
+    "chr3:36826819-36945057-"
+  ],
+  "Sequence_Length": 118239
+}
+
+{
+  "Gene": "DIXDC1",
+  "Phenotype": "Bipolar affective disorder",
+  "Genomic_coordinates": [
+    "chr11:111927144-112022653+"
+  ],
+  "Sequence_Length": 95510
+}
+

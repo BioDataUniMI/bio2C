@@ -1,0 +1,1 @@
+Find all genes that cause or contribute to autoimmune diseases which predispose towards other diseases, restricted to genes with at least one genomic coordinate on chromosome 3 or 11. Return the gene and the autoimmune disease labels, and the gene's genomic coordinates.

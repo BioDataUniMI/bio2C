@@ -1,0 +1,30 @@
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-483-5p",
+  "BiologicalProcess": "positive regulation of smooth muscle contraction"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-483-5p",
+  "BiologicalProcess": "positive regulation of muscle contraction"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-483-5p",
+  "BiologicalProcess": "regulation of smooth muscle contraction"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-483-5p",
+  "BiologicalProcess": "smooth muscle contraction"
+}
+
+{
+  "Cancer": "hepatocellular carcinoma",
+  "miRNA": "hsa-miR-483-5p",
+  "BiologicalProcess": "regulation of muscle contraction"
+}
+

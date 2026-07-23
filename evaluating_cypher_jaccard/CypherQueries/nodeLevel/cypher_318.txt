@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'liver' AND NOT d.Label CONTAINS 'polycystic' AND NOT d.Label CONTAINS 'Oliver' AND NOT d.Label CONTAINS 'infantile' AND NOT d:Cancer RETURN d.Label AS DiseaseLabel, LABELS(d) AS Classifications

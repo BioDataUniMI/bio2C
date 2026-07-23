@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p"
+}
+
+{
+  "Phenotype": "Hamartoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Lipoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-5p"
+}
+

@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:transcribed_from]->(g:Gene {Label: 'MIR103B2'})-[:transcribed_to]->(m:miRNA) RETURN p.Label AS Precursor_miRNA, m.Label AS Mature_miRNA

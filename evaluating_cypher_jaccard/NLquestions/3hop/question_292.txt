@@ -1,0 +1,1 @@
+List miRNAs with GO term functions whose label contains the word 'myoblast' and that are over-expressed in cancers whose label contains the string 'squamous cell', along with their parent disease. Return the GO term label, the miRNA label, the cancer label, and the parent disease label.

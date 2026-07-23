@@ -1,0 +1,1 @@
+Identify the miRNAs that participate in the biological process labeled 'apoptotic process', the genes with labels longer than 7 characters that they regulate, and the diseases whose label contains 'persistent' that are caused or contributed to by those genes. Return the label of: the miRNA, the gene, and the disease.

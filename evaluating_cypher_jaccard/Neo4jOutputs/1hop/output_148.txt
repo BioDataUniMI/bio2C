@@ -1,0 +1,25 @@
+{
+  "AutoimmuneDisease": "mixed connective tissue disease",
+  "Contributing_miRNAs": "microRNA hsa-mir-146a precursor"
+}
+
+{
+  "AutoimmuneDisease": "mixed connective tissue disease",
+  "Contributing_miRNAs": "microRNA hsa-mir-126 precursor"
+}
+
+{
+  "AutoimmuneDisease": "mixed connective tissue disease",
+  "Contributing_miRNAs": "hsa-miR-143-3p"
+}
+
+{
+  "AutoimmuneDisease": "mixed connective tissue disease",
+  "Contributing_miRNAs": "microRNA hsa-mir-155 precursor"
+}
+
+{
+  "AutoimmuneDisease": "mixed connective tissue disease",
+  "Contributing_miRNAs": "microRNA hsa-mir-29a precursor"
+}
+

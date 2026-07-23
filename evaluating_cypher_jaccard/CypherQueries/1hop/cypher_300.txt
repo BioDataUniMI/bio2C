@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:part_of]->(p2:Phenotype) WHERE p2.Label CONTAINS 'hemangioma' RETURN p1.Label AS Phenotype, p2.Label AS BroaderPhenotype

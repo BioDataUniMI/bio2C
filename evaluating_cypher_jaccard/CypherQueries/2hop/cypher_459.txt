@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)<-[:under_expressed_in]-(m) WHERE m.Label ENDS WITH 'a' RETURN DISTINCT m.Label AS miRNA

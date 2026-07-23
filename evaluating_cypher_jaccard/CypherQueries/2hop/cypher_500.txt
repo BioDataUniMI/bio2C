@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:part_of]->(g2:GO)-[:function_of]->(m:miRNA) WHERE g.Label CONTAINS 'cardiac chamber' RETURN g.Label AS GO, g2.Label AS Parent_GO, m.Label AS miRNA

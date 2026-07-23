@@ -1,0 +1,42 @@
+{
+  "bp.Label": "L-histidine transmembrane import into vacuole",
+  "bp.Description": "the directed movement of l-histidine into the vacuole across the vacuolar membrane.",
+  "r.Source": [
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "L-tyrosine transmembrane import into vacuole",
+  "bp.Description": "the directed movement of l-tyrosine into the vacuole across the vacuolar membrane.",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "L-glutamate transmembrane import into vacuole",
+  "bp.Description": "the directed movement of l-glutamate into the vacuole across the vacuolar membrane.",
+  "r.Source": [
+    "GO",
+    "Uberon"
+  ]
+}
+
+{
+  "bp.Label": "L-lysine transmembrane import into vacuole",
+  "bp.Description": "the directed movement of l-lysine into the vacuole across the vacuolar membrane.",
+  "r.Source": [
+    "GO"
+  ]
+}
+
+{
+  "bp.Label": "L-arginine transmembrane import into vacuole",
+  "bp.Description": "the directed movement of l-arginine into the vacuole across the vacuolar membrane.",
+  "r.Source": [
+    "GO"
+  ]
+}
+

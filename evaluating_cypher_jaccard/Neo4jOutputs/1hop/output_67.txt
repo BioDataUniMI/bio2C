@@ -1,0 +1,24 @@
+{
+  "GO_term": "apoptotic process",
+  "miRNA": "hsa-miR-185-5p",
+  "miRNA_sequence": "UGGAGAGAAAGGCAGUUCCUGA",
+  "Context": [
+    "clear cell renal cell",
+    "prostate carcinoma cell",
+    "pancreatic β-cell",
+    "renal cells"
+  ]
+}
+
+{
+  "GO_term": "apoptotic process",
+  "miRNA": "hsa-miR-185-3p",
+  "miRNA_sequence": "AGGGGCUGGCUUUCCUCUGGUC",
+  "Context": [
+    "clear cell renal cell",
+    "prostate carcinoma cell",
+    "pancreatic β-cell",
+    "renal cells"
+  ]
+}
+

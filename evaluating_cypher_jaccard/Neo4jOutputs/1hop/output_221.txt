@@ -1,0 +1,8 @@
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "Sources": [
+    "GOC",
+    "RNAcentral"
+  ]
+}
+

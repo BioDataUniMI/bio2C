@@ -1,0 +1,1 @@
+Return cellular components with descriptions referring to 'giardia species'.

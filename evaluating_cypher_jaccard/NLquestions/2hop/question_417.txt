@@ -1,0 +1,1 @@
+Consider the cancer labeled as 'lipoma'. List the miRNAs it expresses and GO terms those miRNAs enable.

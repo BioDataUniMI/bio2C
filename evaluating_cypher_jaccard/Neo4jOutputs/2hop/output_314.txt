@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Type I diabetes mellitus",
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Type I diabetes mellitus",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Abnormal facial shape",
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Global developmental delay",
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Deeply set eye",
+  "Cancer": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+

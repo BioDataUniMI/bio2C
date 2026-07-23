@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'modulation' AND (g.Label CONTAINS 'virus' OR g.Label CONTAINS 'viral') RETURN g.Label

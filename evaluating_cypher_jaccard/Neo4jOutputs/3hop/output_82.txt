@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-1281",
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "FDR": null
+}
+
+{
+  "miRNA": "hsa-miR-149-3p",
+  "Pre_miRNA": "microRNA hsa-mir-149 precursor",
+  "InfectiousDisease": "syphilis",
+  "FDR": null
+}
+
+{
+  "miRNA": "hsa-miR-383-3p",
+  "Pre_miRNA": "microRNA hsa-mir-383 precursor",
+  "InfectiousDisease": "syphilis",
+  "FDR": null
+}
+
+{
+  "miRNA": "hsa-miR-146a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "InfectiousDisease": "epidermodysplasia verruciformis",
+  "FDR": null
+}
+
+{
+  "miRNA": "hsa-miR-223-5p",
+  "Pre_miRNA": "microRNA hsa-mir-223 precursor",
+  "InfectiousDisease": "pneumonia",
+  "FDR": null
+}
+

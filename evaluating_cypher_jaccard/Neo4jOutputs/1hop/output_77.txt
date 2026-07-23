@@ -1,0 +1,18 @@
+{
+  "Disease": "multiple sclerosis",
+  "miRNA": "hsa-miR-326",
+  "Sequence_length": 20
+}
+
+{
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-101-3p",
+  "Sequence_length": 21
+}
+
+{
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-106b-5p",
+  "Sequence_length": 21
+}
+

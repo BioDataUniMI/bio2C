@@ -1,0 +1,15 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-127 precursor",
+  "Cytosine_count": 25,
+  "Phenotypes": [
+    "Schizophrenia",
+    "Ovarian neoplasm",
+    "Stomach cancer",
+    "Prostate cancer",
+    "Bladder neoplasm",
+    "Breast carcinoma",
+    "Medulloblastoma",
+    "Hepatocellular carcinoma"
+  ]
+}
+

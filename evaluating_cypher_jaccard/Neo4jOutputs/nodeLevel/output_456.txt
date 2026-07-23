@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Reduced brain creatine level by MRS"
+}
+
+{
+  "Phenotype": "Reduced CSF creatine concentration"
+}
+
+{
+  "Phenotype": "Decreased circulating creatine kinase concentration"
+}
+
+{
+  "Phenotype": "Reduced circulating creatine concentration"
+}
+
+{
+  "Phenotype": "Decreased urinary creatine level"
+}
+

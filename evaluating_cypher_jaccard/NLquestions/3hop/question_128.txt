@@ -1,0 +1,1 @@
+Identify molecular functions whose label contains 'RNA' or 'DNA' and that are parts of biological processes in which miRNAs participate. Keep only miRNAs whose label ends with a number and are expressed in phenotypes. Return the phenotype label, miRNA label, biological process label, and molecular function label.

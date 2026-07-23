@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-200c-3p",
+  "Sequence": "UAAUACUGCCGGGUAAUGAUGGA",
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Sequence": "AACAUUCAACCUGUCGGUGAGU",
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-200a-3p",
+  "Sequence": "UAACACUGUCUGGUAACGAUGU",
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Sequence": "AACAUUCAACCUGUCGGUGAGU",
+  "MolecularFunction": "histone H3K9 trimethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "Sequence": "AACAUUCAACCUGUCGGUGAGU",
+  "MolecularFunction": "histone H3K9me2 methyltransferase activity"
+}
+

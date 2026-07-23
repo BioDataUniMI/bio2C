@@ -1,0 +1,1 @@
+Trace the sources of the 'disease_has_feature' relationship types for the autoimmune diseases that have phenotypes which are also phenotypes of cancers expressing the miRNA 'hsa-let-7a-3p'. Return the labels of the autoimmune disease, phenotype, cancer, and the relationship sources.

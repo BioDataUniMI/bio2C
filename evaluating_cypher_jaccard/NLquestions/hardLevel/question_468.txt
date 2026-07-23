@@ -1,0 +1,1 @@
+Which miRNAs are linked to pre-miRNAs through similarity relationships but have no homology relationships with any pre-miRNA, and which pre-miRNAs are collected as supporting similarity links?

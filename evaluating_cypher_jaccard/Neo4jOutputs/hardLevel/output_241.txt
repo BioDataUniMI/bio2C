@@ -1,0 +1,21 @@
+{
+  "CellularComponent": "RISC complex",
+  "ID": "GO:0016442",
+  "URI": "http://purl.obolibrary.org/obo/GO_0016442",
+  "NumberOfMiRNAs": 632
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "ID": "GO:0070062",
+  "URI": "http://purl.obolibrary.org/obo/GO_0070062",
+  "NumberOfMiRNAs": 518
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "ID": "GO:1990742",
+  "URI": "http://purl.obolibrary.org/obo/GO_1990742",
+  "NumberOfMiRNAs": 159
+}
+

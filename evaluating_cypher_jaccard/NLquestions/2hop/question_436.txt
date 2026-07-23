@@ -1,0 +1,1 @@
+Identify miRNAs that participate in biological processes and their GO terms, where the miRNAs are transcribed from genes with genomic coordinates located on chromosome 1 or 2 (use 'chr1:' or 'chr2:' as matching patterns). Return the miRNA label, GO term label, and biological process label.

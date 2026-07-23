@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'hsa-miR-429'})-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease) WHERE c.Label CONTAINS 'childhood' RETURN c.Label AS Cancer, d.Label AS Disease

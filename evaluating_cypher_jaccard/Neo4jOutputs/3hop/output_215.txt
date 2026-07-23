@@ -1,0 +1,28 @@
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "nephrotic syndrome 16"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "nephrotic syndrome, type 10"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "nephrotic syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-486-5p",
+  "RegulatedGene": "ABCF2",
+  "InteractingGene": "TGFB1",
+  "Disease": "familial nephrotic syndrome"
+}
+

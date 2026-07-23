@@ -1,0 +1,5 @@
+{
+  "Disease": "carcinoma of esophagus",
+  "Disease_description": "esophageal carcinoma (ec) is a tumor arising in the epithelial cells lining the esophagus and can..."
+}
+

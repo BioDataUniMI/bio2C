@@ -1,0 +1,13 @@
+{
+  "Phenotype": "Minicore myopathy",
+  "Synonyms": [
+    "ミニコア (マルチコア) ミオパチー",
+    "Minicore myopathie",
+    "小核肌病",
+    "Myopathie  à multi minicores",
+    "Miopatía minicore (multicore)",
+    "Minicore myopatie",
+    "Minikor miyopati"
+  ]
+}
+

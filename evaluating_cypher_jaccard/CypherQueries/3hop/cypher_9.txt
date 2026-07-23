@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(go1:GO)-[:subclassof]->(go2:GO)-[:positively_regulated_by]->(go3:GO) WHERE go2.Label CONTAINS 'catabolic process' RETURN m.Label AS miRNA, go1.Label AS go_term, go2.Label AS parent_go_term, go3.Label AS positively_regulating_go

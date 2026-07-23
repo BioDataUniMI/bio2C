@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:under_expressed_in]->(c:Cancer) UNWIND r.Source AS src WITH c, COLLECT(DISTINCT toLower(src)) AS sources WHERE 'phenomir' IN sources RETURN c.Label AS Cancer, SIZE(sources) AS source_count ORDER BY source_count DESC, Cancer ASC LIMIT 3

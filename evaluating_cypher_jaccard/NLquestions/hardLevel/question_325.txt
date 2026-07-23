@@ -1,0 +1,1 @@
+Which cancers share features of other cancers that are subclasses (through between 10 and 12 subclassof levels) of a disease? Return the distinct labels of the cancer, the related cancer, and the disease, ordered alphabetically.

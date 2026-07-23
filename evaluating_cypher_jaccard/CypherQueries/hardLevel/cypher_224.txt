@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) WITH a, COLLECT(DISTINCT m.Label) AS miRNAs, COUNT(DISTINCT m) AS miRNA_count WITH COLLECT({d:a, miRNAs:miRNAs, c:miRNA_count}) AS rows, MAX(miRNA_count) AS max_count UNWIND rows AS row WITH row WHERE row.c = max_count RETURN row.d.Label AS Disease, row.c AS Number_of_miRNAs, row.miRNAs AS miRNAs

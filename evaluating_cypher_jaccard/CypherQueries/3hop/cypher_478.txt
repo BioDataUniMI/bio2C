@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA {Label:'hsa-miR-125b-5p'})-[:located_in]->(cc:Cellular_component {Label:'apical plasma membrane'})<-[:part_of]-(go:GO) RETURN c.Label AS Cancer, m.Label AS miRNA, cc.Label AS CellularComponent, go.Label AS GOterm

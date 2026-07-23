@@ -1,0 +1,25 @@
+{
+  "g.Label": "substance with antifungal agent role",
+  "g.ID": "GOCHE:35718"
+}
+
+{
+  "g.Label": "substance with antineoplastic agent role",
+  "g.ID": "GOCHE:35610"
+}
+
+{
+  "g.Label": "substance with antidepressant role",
+  "g.ID": "GOCHE:35469"
+}
+
+{
+  "g.Label": "substance with antimicrobial agent role",
+  "g.ID": "GOCHE:33281"
+}
+
+{
+  "g.Label": "substance with antipsychotic agent role",
+  "g.ID": "GOCHE:35476"
+}
+

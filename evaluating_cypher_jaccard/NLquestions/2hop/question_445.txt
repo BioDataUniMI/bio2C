@@ -1,0 +1,1 @@
+List diseases: 1) whose label contains the word 'chronic'; 2) that are subclasses of other disease; and 3) whose supertype disease has the phenotype labeled as “Motor delay”. Return the subtype and supertype disease labels.

@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[r:expresses]->(m:miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO) RETURN c.Label AS Cancer, m.Label AS miRNA, cc.Label AS CellularComponent, go.Label AS GOterm, r.Source AS ExpressionSource

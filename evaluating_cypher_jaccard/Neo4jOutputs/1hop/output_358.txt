@@ -1,0 +1,25 @@
+{
+  "Disease": "Madras motor neuron disease",
+  "Phenotype": "Schizophrenia"
+}
+
+{
+  "Disease": "Madras motor neuron disease",
+  "Phenotype": "Facial palsy"
+}
+
+{
+  "Disease": "Madras motor neuron disease",
+  "Phenotype": "Reduced visual acuity"
+}
+
+{
+  "Disease": "Madras motor neuron disease",
+  "Phenotype": "Limb fasciculations"
+}
+
+{
+  "Disease": "Madras motor neuron disease",
+  "Phenotype": "Hyperactive deep tendon reflexes"
+}
+

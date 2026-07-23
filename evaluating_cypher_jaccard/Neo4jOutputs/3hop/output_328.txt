@@ -1,0 +1,25 @@
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "neonatal lupus erythematosus"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "familial Mediterranean fever"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "mevalonate kinase deficiency"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "periodic fever syndrome"
+}
+
+{
+  "ParentDisease": "Cockayne syndrome",
+  "AutoimmuneDisease": "autoimmune lymphoproliferative syndrome due to CTLA4 haploinsufficiency"
+}
+

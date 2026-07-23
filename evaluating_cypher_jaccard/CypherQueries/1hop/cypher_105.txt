@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(p:Phenotype) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr21') AND p.Label CONTAINS 'Chronic' RETURN p.Label AS Phenotype, m.Label AS miRNA, m.Genomic_coordinates AS Genomic_coordinates

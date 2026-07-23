@@ -1,0 +1,1 @@
+Identify diseases whose label contains the word 'infections' and have phenotypes that are also characteristic of GO terms

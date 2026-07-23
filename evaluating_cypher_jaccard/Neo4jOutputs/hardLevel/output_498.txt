@@ -1,0 +1,20 @@
+{
+  "Disease": "AIDS",
+  "miRNA": "microRNA hsa-mir-127 precursor"
+}
+
+{
+  "Disease": "pneumonia",
+  "miRNA": "microRNA hsa-mir-127 precursor"
+}
+
+{
+  "Disease": "hepatitis B virus infection",
+  "miRNA": "microRNA hsa-mir-1271 precursor"
+}
+
+{
+  "Disease": "pneumonia",
+  "miRNA": "microRNA hsa-mir-1271 precursor"
+}
+

@@ -1,0 +1,1 @@
+Find all genetic interaction paths of up to three steps between genes such that all genes in each path are distinct, all interactions have a 'GeneMANIA_weight' equal to 0.003, and the first gene label is alphabetically smaller than the last gene label to avoid duplicate paths. Return the list of gene labels along each path.

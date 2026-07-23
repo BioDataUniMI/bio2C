@@ -1,0 +1,1 @@
+How many genes cause or contribute to a given number of distinct disease types (i.e., the distribution of genes by number of disease types they are linked to), excluding the generic 'Disease' label and ranked by? Return the results sorted by the number of distinct disease types in ascending order

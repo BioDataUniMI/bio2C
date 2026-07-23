@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Autoimmune_disease": "chronic primary adrenal insufficiency"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Autoimmune_disease": "rheumatoid arthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-31 precursor",
+  "Autoimmune_disease": "osteoarthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3168 precursor",
+  "Autoimmune_disease": "rheumatoid arthritis"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-3150a precursor",
+  "Autoimmune_disease": "rheumatoid arthritis"
+}
+

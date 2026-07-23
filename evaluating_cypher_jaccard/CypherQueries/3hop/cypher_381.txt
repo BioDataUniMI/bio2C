@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(g:GO)-[r:has_participant]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA) WHERE d.Label CONTAINS 'perceptual' AND 'RNAcentral' IN r.Source RETURN d.Label AS Disease, g.Label AS GOterm, pre.Label AS Pre_miRNA, m.Label AS miRNA, r.Source AS ParticipationSource

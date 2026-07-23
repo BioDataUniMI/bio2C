@@ -1,0 +1,1 @@
+Find genes (labels and IDs) whose activity is regulated by miRNAs expressed in cancers that cause or contribute to the disease labeled as 'plasmablastic lymphoma'. Return also the label of cancers and miRNAs.

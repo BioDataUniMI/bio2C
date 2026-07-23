@@ -1,0 +1,1 @@
+Find cancers that express miRNAs which are under-expressed in the phenotype labeled as 'Neoplasm of the lung', and return the cancer, miRNA, and phenotype labels.

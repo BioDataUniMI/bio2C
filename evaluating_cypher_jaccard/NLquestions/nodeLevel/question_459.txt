@@ -1,0 +1,1 @@
+Find the phenotypes whose labels contain the word 'collagen' and are characterized by a synonym containing the Spanish string 'Elevación'.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE 'Fractura de olécranon' IN p.Synonym RETURN p

@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:has_part]->(child) WHERE g.Label CONTAINS 'Golgi membrane' RETURN g.Label AS GO, COUNT(child) AS PartCount

@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)<-[:part_of]-(mf:Molecular_function)<-[:has_part]-(go:GO)<-[:disease_caused_by_disruption_of]-(d:Disease) RETURN d.Label AS Disease, go.Label AS DisruptedGO, mf.Label AS MolecularFunction, bp.Label AS BiologicalProcess

@@ -1,0 +1,25 @@
+{
+  "BiologicalProcess": "translational termination",
+  "NumMolecularFunctions": 1
+}
+
+{
+  "BiologicalProcess": "regulation of translational initiation by eIF2 alpha phosphorylation",
+  "NumMolecularFunctions": 1
+}
+
+{
+  "BiologicalProcess": "post-translational protein modification",
+  "NumMolecularFunctions": 2
+}
+
+{
+  "BiologicalProcess": "translational initiation",
+  "NumMolecularFunctions": 2
+}
+
+{
+  "BiologicalProcess": "translational elongation",
+  "NumMolecularFunctions": 1
+}
+

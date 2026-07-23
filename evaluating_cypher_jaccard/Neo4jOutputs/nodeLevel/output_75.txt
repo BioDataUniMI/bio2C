@@ -1,0 +1,80 @@
+{
+  "Phenotype": "Ovarian cyst",
+  "Synonyms": [
+    "Quiste ovárico",
+    "Yumurtalık kisti",
+    "Kyste ovarien",
+    "Cisti ovarica",
+    "Ovariální cysta",
+    "Cisto ovariano",
+    "Ovariumcyste",
+    "Eierstockzyste",
+    "卵巢囊肿",
+    "卵巣嚢胞"
+  ]
+}
+
+{
+  "Phenotype": "Multiple renal cysts",
+  "Synonyms": [
+    "Mnohočetné ledvinné cysty",
+    "Cisti renali multiple",
+    "Múltiplos cistos renais",
+    "Çoklu renal kistler",
+    "多发性肾囊肿",
+    "Kystes rénaux multiples",
+    "Multipele niercysten",
+    "Quistes renales múltiples",
+    "多発性腎嚢胞",
+    "Mehrere Nierenzysten"
+  ]
+}
+
+{
+  "Phenotype": "Periventricular cysts",
+  "Synonyms": [
+    "Periventriküler kistler",
+    "Periventrikulární cysty",
+    "Periventrikuläre Zysten",
+    "脑室周围囊肿",
+    "Cisti periventricolari",
+    "Kystes périventriculaires",
+    "脳室周囲嚢胞",
+    "Cistos periventriculares",
+    "Quistes periventriculares",
+    "Periventriculaire cysten"
+  ]
+}
+
+{
+  "Phenotype": "Epidermoid cyst",
+  "Synonyms": [
+    "Quiste epidermoide",
+    "Epidermoidní cysta",
+    "類表皮嚢胞",
+    "Cisto epidermoide",
+    "Epidermal kist",
+    "Kystes épidermoïdes",
+    "Epidermoïd cyste",
+    "Cisti epidermoidea",
+    "Epidermoidzyste",
+    "表皮样囊肿"
+  ]
+}
+
+{
+  "Phenotype": "Cerebellar cyst",
+  "Synonyms": [
+    "Zerebellarzyste",
+    "Quiste cerebeloso",
+    "小脑囊肿",
+    "Cisto cerebelar",
+    "Serebellar kistler",
+    "小脳嚢胞",
+    "Kyste cérébelleux",
+    "Mozečková cysta",
+    "Cerebellaire cyste",
+    "Cisti cerebellare"
+  ]
+}
+

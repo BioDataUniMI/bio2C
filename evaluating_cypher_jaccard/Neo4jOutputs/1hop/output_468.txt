@@ -1,0 +1,26 @@
+{
+  "m.Label": "hsa-miR-199b-5p",
+  "bp.Label": "regulation of angiogenesis",
+  "PROPERTIES(r)": {
+    "Source": [
+      "GOC"
+    ],
+    "GO_evidence": [
+      "ISS"
+    ]
+  }
+}
+
+{
+  "m.Label": "hsa-miR-199a-5p",
+  "bp.Label": "regulation of angiogenesis",
+  "PROPERTIES(r)": {
+    "Source": [
+      "GOC"
+    ],
+    "GO_evidence": [
+      "ISS"
+    ]
+  }
+}
+

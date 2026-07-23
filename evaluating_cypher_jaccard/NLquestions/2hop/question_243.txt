@@ -1,0 +1,1 @@
+Identify the cellular components in which miRNAs expressed by the cancer labeled as 'benign muscle neoplasm' are located, returning the miRNA, and cellular component labels.

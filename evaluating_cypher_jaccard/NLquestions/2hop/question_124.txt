@@ -1,0 +1,1 @@
+Find cancers expressing miRNAs that participate in GO terms whose label contains the string 'transition of mitotic cell cycle'. Return the cancer, miRNA, and GO term labels.

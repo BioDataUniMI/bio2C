@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE m.Sequence CONTAINS 'AAAA' RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Sequence AS miRNA_sequence, p.Sequence AS pre_miRNA_sequence

@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Abnormal hair quantity",
+  "Disease": "prolactin-producing pituitary gland adenoma",
+  "ParentCancer": "familial isolated pituitary adenoma"
+}
+
+{
+  "Phenotype": "Abnormal hair quantity",
+  "Disease": "benign neoplasm of pituitary gland",
+  "ParentCancer": "benign reproductive system neoplasm"
+}
+
+{
+  "Phenotype": "Abnormal hair quantity",
+  "Disease": "prolactin-producing pituitary gland adenoma",
+  "ParentCancer": "prolactin producing pituitary tumor"
+}
+
+{
+  "Phenotype": "Abnormal hair quantity",
+  "Disease": "benign neoplasm of pituitary gland",
+  "ParentCancer": "bone benign neoplasm"
+}
+
+{
+  "Phenotype": "Sparse body hair",
+  "Disease": "anal gland neoplasm",
+  "ParentCancer": "anus neoplasm"
+}
+

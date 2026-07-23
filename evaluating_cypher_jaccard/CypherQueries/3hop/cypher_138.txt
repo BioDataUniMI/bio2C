@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease)-[:subclassof]->(parent:Disease)<-[:under_expressed_in]-(m:miRNA) WHERE d.Label CONTAINS 'skin basal cell' RETURN DISTINCT p.Label AS Phenotype, d.Label AS Disease, parent.Label

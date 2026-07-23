@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-152-5p",
+  "CellularComponent": "extracellular exosome"
+}
+
+{
+  "miRNA": "hsa-miR-152-5p",
+  "CellularComponent": "recycling endosome membrane"
+}
+
+{
+  "miRNA": "hsa-miR-152-5p",
+  "CellularComponent": "recycling endosome"
+}
+
+{
+  "miRNA": "hsa-miR-152-5p",
+  "CellularComponent": "early endosome membrane"
+}
+
+{
+  "miRNA": "hsa-miR-152-5p",
+  "CellularComponent": "endosome membrane"
+}
+

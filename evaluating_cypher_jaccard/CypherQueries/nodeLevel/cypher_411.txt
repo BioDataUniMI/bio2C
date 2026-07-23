@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE (bp.Label CONTAINS 'catabolic' OR bp.Label CONTAINS 'metabolic') AND (bp.Description CONTAINS 'chemical reactions' AND bp.Description CONTAINS 'receptor') RETURN bp.Label

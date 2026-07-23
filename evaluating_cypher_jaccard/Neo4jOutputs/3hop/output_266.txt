@@ -1,0 +1,14 @@
+{
+  "CellularComponent": "intracellular anatomical structure",
+  "BiologicalProcess": "intracellular signal transduction",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder"
+}
+
+{
+  "CellularComponent": "intracellular anatomical structure",
+  "BiologicalProcess": "intracellular protein transport",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder"
+}
+

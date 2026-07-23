@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "Gene": "CD36",
+  "InfectiousDisease": "staphylococcal infection"
+}
+
+{
+  "miRNA": "hsa-miR-1236-3p",
+  "Gene": "TLR2",
+  "InfectiousDisease": "staphylococcal infection"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "Gene": "TLR2",
+  "InfectiousDisease": "staphylococcal infection"
+}
+
+{
+  "miRNA": "hsa-miR-105-5p",
+  "Gene": "TLR2",
+  "InfectiousDisease": "staphylococcal infection"
+}
+
+{
+  "miRNA": "hsa-miR-144-3p",
+  "Gene": "TLR2",
+  "InfectiousDisease": "staphylococcal infection"
+}
+

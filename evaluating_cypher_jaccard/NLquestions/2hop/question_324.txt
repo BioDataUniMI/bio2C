@@ -1,0 +1,1 @@
+Identify miRNAs expressed in cancers, and that are located in the cellular component labeled as 'P-body'. Return the cancer and miRNA labels.

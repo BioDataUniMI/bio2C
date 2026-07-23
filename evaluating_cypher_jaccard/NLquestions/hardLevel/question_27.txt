@@ -1,0 +1,1 @@
+Find Gene1-Gene2 pairs that genetically interact with each other such that Gene2 has a sequence of at least 50,000 bases longer than Gene1. Return both gene labels, their sequence lengths, and the difference.

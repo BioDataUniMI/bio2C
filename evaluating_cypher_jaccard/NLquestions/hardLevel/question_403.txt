@@ -1,0 +1,1 @@
+List all genes that cause or contribute to autoimmune diseases whose label contains celiac, ordered by gene label.

@@ -1,0 +1,1 @@
+Which microRNAs with 'mir-31' in their label cause or contribute to any autoimmune disease or to any node subclass of autoimmune diseases via a one-or-more hierarchical relationship? Return the miRNA label and the associated autoimmune disease label.

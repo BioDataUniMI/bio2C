@@ -1,0 +1,20 @@
+
+{
+  "GO_Term": "miRNA-mediated post-transcriptional gene silencing"
+}
+
+{
+  "GO_Term": "positive regulation of miRNA-mediated gene silencing"
+}
+
+{
+  "GO_Term": "regulation of miRNA-mediated gene silencing"
+}
+
+{
+  "GO_Term": "negative regulation of gene expression, epigenetic"
+}
+
+{
+  "GO_Term": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+}

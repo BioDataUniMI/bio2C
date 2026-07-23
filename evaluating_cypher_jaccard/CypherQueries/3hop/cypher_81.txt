@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:has_part]->(mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA)-[r:under_expressed_in]->(id:Infectious_disease) RETURN cc.Label AS CellularComponent, mirna.Label AS miRNA, premirna.Label AS Pre_miRNA, id.Label AS InfectiousDisease, r.Source AS Source

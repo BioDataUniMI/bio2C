@@ -1,0 +1,40 @@
+{
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-363-3p",
+  "Genomic_coordinates": [
+    "chrX:134169382-134169403-"
+  ]
+}
+
+{
+  "Disease": "Alzheimer disease",
+  "miRNA": "hsa-miR-363-5p",
+  "Genomic_coordinates": [
+    "chrX:134169425-134169446-"
+  ]
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "miRNA": "microRNA hsa-mir-20b precursor",
+  "Genomic_coordinates": [
+    "chrX:134169809-134169877-"
+  ]
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "miRNA": "hsa-miR-20b-3p",
+  "Genomic_coordinates": [
+    "chrX:134169813-134169834-"
+  ]
+}
+
+{
+  "Disease": "multiple sclerosis",
+  "miRNA": "microRNA hsa-mir-223 precursor",
+  "Genomic_coordinates": [
+    "chrX:66018870-66018979+"
+  ]
+}
+

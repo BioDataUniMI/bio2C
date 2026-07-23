@@ -1,0 +1,1 @@
+What are the top 5 diseases by number of miRNAs that are causal somatic mutations in them? In case of ties, order diseases alphabetically. Return the disease label and the miRNA count.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:located_in]->(x) WHERE SIZE(r.Method) >= 7 RETURN m.Label AS miRNA, x.Label AS Location, r.Method AS Methods

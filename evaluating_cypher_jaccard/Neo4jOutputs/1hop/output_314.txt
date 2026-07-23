@@ -1,0 +1,8 @@
+{
+  "c.Label": "phosphatidylinositol 3-kinase complex, class IA"
+}
+
+{
+  "c.Label": "phosphatidylinositol 3-kinase complex, class IB"
+}
+

@@ -1,0 +1,5 @@
+{
+  "MolecularFunction": "transmembrane transporter binding",
+  "Description": "binding to a transmembrane transporter, a protein or protein complex that enables the transfer of..."
+}
+

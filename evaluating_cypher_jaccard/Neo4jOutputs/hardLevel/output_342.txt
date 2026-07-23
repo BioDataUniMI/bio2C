@@ -1,0 +1,6 @@
+{
+  "GO_term": "protein targeting to vacuole involved in autophagy",
+  "Biological_process": "autophagy",
+  "MaxMiRNACount": 83
+}
+

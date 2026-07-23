@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-634",
+  "ParentDisease": "hereditary neoplastic syndrome",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedCancer": "neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-637",
+  "ParentDisease": "hereditary neoplastic syndrome",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedCancer": "neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-630",
+  "ParentDisease": "hereditary neoplastic syndrome",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedCancer": "neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-631",
+  "ParentDisease": "hereditary neoplastic syndrome",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedCancer": "neoplasm"
+}
+
+{
+  "miRNA": "hsa-miR-638",
+  "ParentDisease": "hereditary neoplastic syndrome",
+  "Cancer": "nasopharyngeal carcinoma, susceptibility to, 1",
+  "PredisposedCancer": "neoplasm"
+}
+

@@ -1,0 +1,1 @@
+Find miRNAs that are part of cellular components and are characterized by a high number of annotation contexts (more than 24). Return the component label and the number of contexts.

@@ -1,0 +1,35 @@
+{
+  "CellularComponent": "IgD B cell receptor complex",
+  "Synonyms": [
+    "IgD B cell receptor complex"
+  ]
+}
+
+{
+  "CellularComponent": "cellular_component",
+  "Synonyms": [
+    "cellular_component"
+  ]
+}
+
+{
+  "CellularComponent": "cell nucleus",
+  "Synonyms": [
+    "nucleus"
+  ]
+}
+
+{
+  "CellularComponent": "intracellular membraneless organelle",
+  "Synonyms": [
+    "intracellular non-membrane-bounded organelle"
+  ]
+}
+
+{
+  "CellularComponent": "IgA B cell receptor complex",
+  "Synonyms": [
+    "IgA B cell receptor complex"
+  ]
+}
+

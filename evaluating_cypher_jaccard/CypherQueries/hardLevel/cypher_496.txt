@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:part_of]->(go:GO) WITH go.Label AS GOLabel, MIN(SIZE(p.Sequence)) AS MinSeqLength RETURN GOLabel, MinSeqLength

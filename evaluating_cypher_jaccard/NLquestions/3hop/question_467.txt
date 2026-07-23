@@ -1,0 +1,1 @@
+How many different miRNAs developed from predursor miRNAs are located in the cellular component labeled as 'extracellular exosome' and are known to be part of GO terms? Return the distinct miRNA count.

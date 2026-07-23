@@ -1,0 +1,1 @@
+Find miRNAs whose genomic coordinates are located on both chromosome X and chromosome Y. Return their labels and genomic coordinates.

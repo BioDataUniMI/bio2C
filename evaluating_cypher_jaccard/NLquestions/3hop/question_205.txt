@@ -1,0 +1,1 @@
+Identify the top 5 cellular components, which are part of GO terms in which the highest number of miRNAs matured from pre-miRNAs are located. In case of ties, order them alphabetically. Return the label of the cellular component and the distinct count of miRNAs.

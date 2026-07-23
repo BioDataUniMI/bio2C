@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-646",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "Leber congenital amaurosis 4",
+  "Phenotype": "Schizophrenia"
+}
+
+{
+  "miRNA": "hsa-miR-646",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "Leber congenital amaurosis 4",
+  "Phenotype": "Subretinal fluid"
+}
+
+{
+  "miRNA": "hsa-miR-646",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "Leber congenital amaurosis 4",
+  "Phenotype": "Hypoautofluorescent macular lesion"
+}
+
+{
+  "miRNA": "hsa-miR-646",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "Leber congenital amaurosis 4",
+  "Phenotype": "Hyperautofluorescent macular lesion"
+}
+
+{
+  "miRNA": "hsa-miR-646",
+  "Gene": "VEGFA",
+  "CardiovascularDisease": "Leber congenital amaurosis 4",
+  "Phenotype": "Perifoveal ring of hyperautofluorescence"
+}
+

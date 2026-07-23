@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function)-[:subclassof]->(go:GO)-[:starts]->(bp:Biological_process)-[:has_participant]->(mirna:miRNA {Label:'hsa-miR-124-3p'}) RETURN mf.Label AS MolecularFunction, go.Label AS GO_Term, bp.Label AS BiologicalProcess

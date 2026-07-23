@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of the gene 'BAP1' that cause or contribute to diseases whose label contains the word 'susceptibility'? Return the miRNA and the disease labels.

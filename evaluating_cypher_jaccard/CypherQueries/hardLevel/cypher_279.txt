@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) WITH m, COUNT(DISTINCT a) AS disease_count ORDER BY disease_count DESC, m.Label ASC LIMIT 5 RETURN m.Label AS miRNA, disease_count AS Number_of_Autoimmune_Diseases

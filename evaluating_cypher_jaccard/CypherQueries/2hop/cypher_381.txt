@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_caused_by_disruption_of]->(g:GO)-[:has_participant]->(m:miRNA) WHERE g.Label CONTAINS 'homeostasis' RETURN  d.Label AS Disease, g.Label AS GOterm, m.Label AS miRNA

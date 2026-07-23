@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) CONTAINS 'celiac' AND d.Description IS NOT NULL RETURN d.Label, d.Description

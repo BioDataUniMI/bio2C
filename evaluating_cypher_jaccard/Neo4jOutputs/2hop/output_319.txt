@@ -1,0 +1,5 @@
+{
+  "DisruptedGO": "glycogen metabolic process",
+  "MolecularFunction": "glycogen debranching enzyme activity"
+}
+

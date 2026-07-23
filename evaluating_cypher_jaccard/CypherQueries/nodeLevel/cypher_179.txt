@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE mf.Description CONTAINS 'kinase' AND mf.Label ENDS WITH 'inhibitor activity' RETURN mf.Label AS MolecularFunction, mf.Description AS Description

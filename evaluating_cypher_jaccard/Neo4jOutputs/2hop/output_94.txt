@@ -1,0 +1,20 @@
+{
+  "Cancer": "brain glioma"
+}
+
+{
+  "Cancer": "brain neoplasm"
+}
+
+{
+  "Cancer": "arteriovenous malformations of the brain"
+}
+
+{
+  "Cancer": "brain cancer"
+}
+
+{
+  "Cancer": "primary brain neoplasm"
+}
+

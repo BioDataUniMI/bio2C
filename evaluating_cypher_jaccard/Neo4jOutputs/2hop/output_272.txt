@@ -1,0 +1,9 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1827 precursor",
+  "miRNA": "hsa-miR-1827",
+  "Pre_miRNA_GenomicCoordinates": [
+    "chr12:100189884-100189949+"
+  ],
+  "Pre_miRNA_Sequence": "UCAGCAGCACAGCCUUCAGCCUAAAGCAAUGAGAAGCCUCUGAAAGGCUGAGGCAGUAGAUUGAAU"
+}
+

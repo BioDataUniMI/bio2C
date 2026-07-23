@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Abnormal external ear cartilage morphology",
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+
+{
+  "Phenotype": "Narrow palpebral fissure",
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+
+{
+  "Phenotype": "Heterotaxy",
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+
+{
+  "Phenotype": "Heart murmur",
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+
+{
+  "Phenotype": "Feeding difficulties",
+  "Disease": "vestibular disorder",
+  "DisruptedGO": "equilibrioception",
+  "BiologicalProcess": "detection of mechanical stimulus involved in equilibrioception"
+}
+

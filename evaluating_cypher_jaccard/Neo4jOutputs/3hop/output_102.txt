@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-145 precursor",
+  "miRNA": "hsa-miR-145-5p",
+  "Gene": "TIRAP"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-24 precursor (hsa-mir-24-1)",
+  "miRNA": "hsa-miR-24-3p",
+  "Gene": "CORO1A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-24 precursor (hsa-mir-24-2)",
+  "miRNA": "hsa-miR-24-3p",
+  "Gene": "CORO1A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-222 precursor",
+  "miRNA": "hsa-miR-222-3p",
+  "Gene": "CORO1A"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-221 precursor",
+  "miRNA": "hsa-miR-221-3p",
+  "Gene": "CORO1A"
+}
+

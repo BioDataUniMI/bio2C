@@ -1,0 +1,20 @@
+{
+  "DiseaseLabel": "chronic progressive multiple sclerosis",
+  "ID": "MONDO:0005284"
+}
+
+{
+  "DiseaseLabel": "relapsing-remitting multiple sclerosis",
+  "ID": "MONDO:0005314"
+}
+
+{
+  "DiseaseLabel": "pediatric multiple sclerosis",
+  "ID": "MONDO:0018784"
+}
+
+{
+  "DiseaseLabel": "Marburg acute multiple sclerosis",
+  "ID": "MONDO:0016429"
+}
+

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "Phenotype": "Semantic dementia",
+  "Disease": "familial Alzheimer disease"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "Phenotype": "Semantic dementia",
+  "Disease": "early-onset autosomal dominant Alzheimer disease"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "Phenotype": "Semantic dementia",
+  "Disease": "Alzheimer disease 14"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "Phenotype": "Semantic dementia",
+  "Disease": "Alzheimer disease 13"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "NeurodegenerativeDisease": "Alzheimer disease",
+  "Phenotype": "Semantic dementia",
+  "Disease": "Alzheimer disease 12"
+}
+

@@ -1,0 +1,1 @@
+Find the mental disease that has the URI 'http://purl.obolibrary.org/obo/MFOMD_0000001', and return its label and description.

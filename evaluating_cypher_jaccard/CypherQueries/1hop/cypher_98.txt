@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(i:Infectious_disease) WHERE SIZE(m.Sequence) > 20 AND SIZE(m.Sequence) < 24  RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, i.Label AS Disease

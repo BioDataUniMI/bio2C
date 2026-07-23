@@ -1,0 +1,6 @@
+{
+  "d.Label": "type 1 diabetes mellitus 4",
+  "d.Description": "an inherited susceptibility or predisposition to developing type 1 diabetes mellitus that has mat...",
+  "d.URI": "http://purl.obolibrary.org/obo/MONDO_0010862"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:not_involved_in]->(bp:Biological_process {Label:'regulation of angiogenesis'}) RETURN m.Label, bp.Label, PROPERTIES(r)

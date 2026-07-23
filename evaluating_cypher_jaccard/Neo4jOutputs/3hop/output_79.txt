@@ -1,0 +1,20 @@
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-183-3p",
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Source": [
+    "GOC"
+  ]
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-183-3p",
+  "Pre_miRNA": "microRNA hsa-mir-183 precursor",
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "Source": [
+    "GOC"
+  ]
+}
+

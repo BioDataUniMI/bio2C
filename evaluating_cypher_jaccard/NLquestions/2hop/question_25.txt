@@ -1,0 +1,1 @@
+Identify, for each Gene Ontology term whose label contains 'mediated gene silencing' and each cellular component corresponding to the 'SMAD protein complex', the number of the GO term participant miRNAs that are located in that cellular component, and order the results by the miRNA count.

@@ -1,0 +1,1 @@
+Return the number of of distinct miRNAs enabling molecular functions.

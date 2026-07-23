@@ -1,0 +1,1 @@
+MATCH (c:Cardiovascular_disease)-[:disease_shares_features_of]->(d1:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(d2:Disease {Label:'animal phobia'}) RETURN c.Label AS cardiovascular_disease, d1.Label AS related_disease, p.Label AS phenotype, d2.Label AS phenotype_disease

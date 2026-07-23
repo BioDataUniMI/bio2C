@@ -1,0 +1,1 @@
+MATCH (p:Phenotype )-[:has_quality]->(q:Phenotype {Label:'increased height'}) RETURN p.Label

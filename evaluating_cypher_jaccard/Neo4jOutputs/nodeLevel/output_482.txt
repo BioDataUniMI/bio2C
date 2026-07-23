@@ -1,0 +1,10 @@
+{
+  "CellularComponent": "cytoplasmic side of trans-Golgi network transport vesicle membrane",
+  "cc.Description": "the side (leaflet) of the trans-golgi network transport vesicle membrane that faces the cytoplasm."
+}
+
+{
+  "CellularComponent": "lumenal side of trans-Golgi network transport vesicle membrane",
+  "cc.Description": "the side (leaflet) of the trans-golgi network transport vesicle membrane that faces the lumen."
+}
+

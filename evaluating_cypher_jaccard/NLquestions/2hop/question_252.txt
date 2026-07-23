@@ -1,0 +1,1 @@
+Consider the miRNA 'hsa-miR-519a-2-5p'. Identify the precursor miRNAs it develops from and their cellular component in which this miRNA is located. Return the precursor miRNA, miRNA, and cellular component labels.

@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[:disease_caused_by_disruption_of]->(g)-[:has_characteristic]->(p:Phenotype) WHERE g:Molecular_function OR g:Biological_process RETURN cd.Label AS CardiovascularDisease, g.Label AS DisruptedTerm, p.Label AS Phenotype, LABELS(g) AS TermType

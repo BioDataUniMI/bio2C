@@ -1,0 +1,35 @@
+{
+  "mf.Label": "potassium channel activity",
+  "mf.Synonym": [
+    "potassium channel activity"
+  ]
+}
+
+{
+  "mf.Label": "interleukin-2 receptor activity",
+  "mf.Synonym": [
+    "interleukin-2 receptor activity"
+  ]
+}
+
+{
+  "mf.Label": "thyrotropin-releasing hormone receptor activity",
+  "mf.Synonym": [
+    "thyrotropin-releasing hormone receptor activity"
+  ]
+}
+
+{
+  "mf.Label": "voltage-gated monoatomic ion channel activity",
+  "mf.Synonym": [
+    "voltage-gated monoatomic ion channel activity"
+  ]
+}
+
+{
+  "mf.Label": "G protein-coupled bile acid receptor activity",
+  "mf.Synonym": [
+    "G protein-coupled bile acid receptor activity"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease) RETURN 'somatic_mutation' AS mutationType, COUNT(DISTINCT m) AS miRNACount UNION MATCH (m:miRNA)-[:is_causal_germline_mutation_in]->(d:Disease) RETURN 'germline_mutation' AS mutationType, COUNT(DISTINCT m) AS miRNACount

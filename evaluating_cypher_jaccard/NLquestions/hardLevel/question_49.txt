@@ -1,0 +1,1 @@
+Consider all genes that genetically interact with other target genes. Find all target genes that have at least one synonym containing the word 'histone' (case-insensitive) and are located on chromosome X (chrX). Return the gene label, synonyms, and genomic coordinates ordered by gene label.

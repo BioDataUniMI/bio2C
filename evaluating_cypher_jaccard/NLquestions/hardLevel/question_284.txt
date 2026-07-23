@@ -1,0 +1,1 @@
+Find the top 3 miRNA over-expressed in the cancer labeled 'lung adenocarcinoma' with sequence length less than 30 and the highest number of 'G' nucleotides in their sequence. Return miRNA label, sequence length, number of Gs, and cancer label.

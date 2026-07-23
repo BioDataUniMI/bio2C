@@ -1,0 +1,1 @@
+Which Homo sapiens miRNAs have sequences of at least 23 nucleotides, labels ending with '3p', and at least one genomic coordinate on chromosome X?

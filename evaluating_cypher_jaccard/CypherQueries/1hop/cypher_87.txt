@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(a:Autoimmune_disease) WHERE m.Sequence CONTAINS 'AAGG' RETURN m.Label AS miRNA, m.Sequence AS Sequence, a.Label AS Disease

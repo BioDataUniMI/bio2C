@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'transport of viral material t' AND g.Description CONTAINS 'membrane' RETURN g.Label AS GO, g.Description AS Description

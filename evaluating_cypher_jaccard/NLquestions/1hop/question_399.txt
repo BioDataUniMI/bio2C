@@ -1,0 +1,1 @@
+Which GO terms containing both the word 'synapse' and 'assembly' are not directly regulated by any molecular function?

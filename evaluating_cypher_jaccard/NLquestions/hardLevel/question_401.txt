@@ -1,0 +1,1 @@
+List all genes that are characterized by a causal germline mutation relationship with diseases whose label contains 'TYR-related', including genes with no sequence and genes whose available sequence has length greater than 3000, and return the list of gene URIs.

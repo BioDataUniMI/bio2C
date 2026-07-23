@@ -1,0 +1,1 @@
+MATCH (c:Cellular_component) WHERE NOT (c)-[:part_of]->(:Cellular_component) AND c.Description CONTAINS 'pathways' RETURN c.Label

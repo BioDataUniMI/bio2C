@@ -1,0 +1,18 @@
+{
+  "Disease": "heart conduction disease",
+  "DisruptedGO": "cardiac conduction",
+  "BiologicalProcess": "cell-cell signaling involved in cardiac conduction"
+}
+
+{
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "G protein-coupled acetylcholine receptor signaling pathway involved in heart process"
+}
+
+{
+  "Disease": "cardiac rhythm disease",
+  "DisruptedGO": "heart process",
+  "BiologicalProcess": "adenylate cyclase-activating adrenergic receptor signaling pathway involved in heart process"
+}
+

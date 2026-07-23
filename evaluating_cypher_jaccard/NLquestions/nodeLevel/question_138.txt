@@ -1,0 +1,1 @@
+Which Homo sapiens miRNAs starting with 'hsa-miR-20' followed by a number from 1 to 9 have exactly 22-nucleotide sequences?

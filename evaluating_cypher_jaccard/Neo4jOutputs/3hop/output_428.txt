@@ -1,0 +1,24 @@
+{
+  "Disease": "chronic recurrent multifocal osteomyelitis",
+  "GeneLabelLength": 4,
+  "miRNACount": 31
+}
+
+{
+  "Disease": "bacterial arthritis",
+  "GeneLabelLength": 3,
+  "miRNACount": 10
+}
+
+{
+  "Disease": "chronic recurrent multifocal osteomyelitis",
+  "GeneLabelLength": 3,
+  "miRNACount": 10
+}
+
+{
+  "Disease": "infective arthritis",
+  "GeneLabelLength": 3,
+  "miRNACount": 10
+}
+

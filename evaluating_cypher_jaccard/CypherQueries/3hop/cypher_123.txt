@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:regulates_activity_of]->(t:Gene)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE d.Label CONTAINS 'sclerosis' AND NOT d.Label CONTAINS 'juvenile' RETURN DISTINCT g.Label AS SourceGene, m.Label AS miRNA, t.Label AS TargetGene, d.Label AS Disease

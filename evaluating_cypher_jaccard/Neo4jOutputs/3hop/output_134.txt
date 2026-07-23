@@ -1,0 +1,28 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung neoplasm"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung cancer"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung carcinoma"
+}
+
+{
+  "Cancer": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p",
+  "Gene": "CCNG1",
+  "Disease": "lung benign neoplasm"
+}
+

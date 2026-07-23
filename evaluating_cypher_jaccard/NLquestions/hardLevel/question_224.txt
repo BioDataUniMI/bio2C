@@ -1,0 +1,1 @@
+List all miRNAs for every autoimmune disease that has the highest (maximum) number of under-expressed miRNAs (including ties). Return the disease label, number of miRNAs, and the list of miRNA labels.

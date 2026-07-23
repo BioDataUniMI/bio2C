@@ -1,0 +1,1 @@
+Which miRNAs regulate the activity of genes such that both the miRNA and the gene are both characterized by at least one genomic coordinates' item starting with 'chr22'? Return their labels.

@@ -1,0 +1,1 @@
+MATCH (g:GO)-[r:happens_during]->(cc:Biological_process) WHERE g.Description CONTAINS 'dna damage' RETURN cc.Label, g.Label, g.Description

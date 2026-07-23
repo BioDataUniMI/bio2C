@@ -1,0 +1,10 @@
+{
+  "cd.Label": "Leber optic atrophy, susceptibility to",
+  "LABELS(cd)": [
+    "Neurodegenerative_disease",
+    "Disease",
+    "Cardiovascular_disease"
+  ],
+  "nd.Label": "Leber hereditary optic neuropathy"
+}
+

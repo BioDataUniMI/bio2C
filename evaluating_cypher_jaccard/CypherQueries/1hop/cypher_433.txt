@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:phenotype_of]->(d:Disease) WHERE d.Label CONTAINS 'lupus' AND p.Label CONTAINS 'Childhood' RETURN p.Label AS Phenotype, d.Label AS Disease

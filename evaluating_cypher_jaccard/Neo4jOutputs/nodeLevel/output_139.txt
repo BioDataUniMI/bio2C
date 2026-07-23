@@ -1,0 +1,25 @@
+{
+  "GO": "respiratory chain complex III",
+  "Description": "a protein complex that transfers electrons from ubiquinol to cytochrome c and translocates two pr..."
+}
+
+{
+  "GO": "serine hydrolase activity",
+  "Description": "catalysis of the hydrolysis of a substrate by a catalytic mechanism that involves a catalytic tri..."
+}
+
+{
+  "GO": "cytochrome b6f complex",
+  "Description": "complex that transfers electrons from reduced plastoquinone to oxidized plastocyanin and transloc..."
+}
+
+{
+  "GO": "proton-transporting two-sector ATPase complex, catalytic domain",
+  "Description": "a protein complex that forms part of a proton-transporting two-sector atpase complex and catalyze..."
+}
+
+{
+  "GO": "serine-type endopeptidase activity",
+  "Description": "catalysis of the hydrolysis of internal, alpha-peptide bonds in a polypeptide chain by a catalyti..."
+}
+

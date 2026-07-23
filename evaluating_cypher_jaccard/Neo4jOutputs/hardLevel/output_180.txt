@@ -1,0 +1,18 @@
+{
+  "miRNA": {
+    "Description": "homo sapiens (human) microrna hsa-mir-374a precursor",
+    "Label": "microRNA hsa-mir-374a precursor",
+    "Sequence": "UACAUCGGCCAUUAUAAUACAACCUGAUAAGUGUUAUAGCACUUAUCAGAUUGUAUUGUAAUUGUCUGUGUA",
+    "ID": "RNAcentral:URS000075BDBF_9606",
+    "Species": "Homo sapiens",
+    "URI": "https://rnacentral.org/rna/URS000075BDBF_9606",
+    "Genomic_coordinates": [
+      "chrX:74287286-74287357-"
+    ]
+  },
+  "last_30_percent_pre_miRNA_sequence": "UGUAUUAUCAUUGUCCGUGUCU",
+  "disrupted_molecular_functions": [
+    "catalysis of the reaction: l-glutaminyl-[protein] + l-lysyl-[protein] = [protein]-l-lysyl-n(6)-5-..."
+  ]
+}
+

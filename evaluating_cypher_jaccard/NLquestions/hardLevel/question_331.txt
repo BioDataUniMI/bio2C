@@ -1,0 +1,1 @@
+Calculate the average number of distinct phenotypes per disease for diseases with phenotypes characterizing GO terms that are part of biological processes.

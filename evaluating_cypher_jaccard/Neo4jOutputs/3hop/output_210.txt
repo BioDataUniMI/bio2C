@@ -1,0 +1,25 @@
+{
+  "Disease": "iron deficiency anemia",
+  "PhenotypeCount": 95
+}
+
+{
+  "Disease": "blood coagulation disease",
+  "PhenotypeCount": 95
+}
+
+{
+  "Disease": "dysostosis",
+  "PhenotypeCount": 63
+}
+
+{
+  "Disease": "cartilage development disorder",
+  "PhenotypeCount": 49
+}
+
+{
+  "Disease": "congestive heart failure",
+  "PhenotypeCount": 30
+}
+

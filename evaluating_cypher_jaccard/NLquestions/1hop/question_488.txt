@@ -1,0 +1,1 @@
+Find biological processes whose description starts with the word 'progression' and that encompass GO terms. Return the labels of both the processes and the GO terms.

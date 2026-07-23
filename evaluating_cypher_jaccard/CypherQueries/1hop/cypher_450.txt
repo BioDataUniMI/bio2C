@@ -1,0 +1,1 @@
+MATCH (bp1:Biological_process)-[:encompasses]->(bp2:Biological_process) WHERE bp1.Label CONTAINS 'phase' AND NOT bp2.Label CONTAINS 'phase' RETURN bp1.Label, bp2.Label

@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH m, (SIZE(m.Sequence) - SIZE(REPLACE(m.Sequence, 'AUG', ''))) / 3 AS AUG_count RETURN m.Label AS miRNA, AUG_count ORDER BY AUG_count DESC, m.Label ASC LIMIT 3

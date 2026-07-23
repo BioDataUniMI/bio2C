@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-423-5p",
+  "miRNASequence": "UGAGGGGCAGAGAGCGAGACUUU",
+  "TargetGene": "CACNA2D2"
+}
+
+{
+  "miRNA": "hsa-miR-153-3p",
+  "miRNASequence": "UUGCAUAGUCACAAAAGUGAUC",
+  "TargetGene": "SNCA"
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "miRNASequence": "UGGAAGACUAGUGAUUUUGUUGUU",
+  "TargetGene": "SNCA"
+}
+
+{
+  "miRNA": "hsa-miR-1291",
+  "miRNASequence": "UGGCCCUGACUGAAGACCAGCAGU",
+  "TargetGene": "SLC2A1"
+}
+
+{
+  "miRNA": "hsa-miR-22-3p",
+  "miRNASequence": "AAGCUGCCAGUUGAAGAACUGU",
+  "TargetGene": "SLC2A1"
+}
+

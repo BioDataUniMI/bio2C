@@ -1,0 +1,1 @@
+Which biological processes have as characteristic the widest range of disease-related phenotypes? Return the top five biological processes ranked by the number of distinct phenotypes, sorting by phenotype count in descending order and breaking ties by biological process name in ascending alphabetical order.

@@ -1,0 +1,1 @@
+Identify 'skin'-like cancers that involve pairs of genetically interacting genes where one gene cause or contributes to the cancer. Return the cancer and both gene labels.

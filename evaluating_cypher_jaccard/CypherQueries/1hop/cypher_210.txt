@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:under_expressed_in]->(n:Neurodegenerative_disease) WHERE '32920076' IN r.PubMedID RETURN m.Label AS miRNA, n.Label AS NeurodegenerativeDisease

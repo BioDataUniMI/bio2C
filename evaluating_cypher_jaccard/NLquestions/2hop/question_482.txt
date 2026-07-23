@@ -1,0 +1,1 @@
+Find all GO terms representing processes that have as causal agents cellular components which are part of another cellular component, where either the cellular component or its parent has a description containing the string “cellular fusion”. Return the GO term and the labels and descriptions of both cellular components

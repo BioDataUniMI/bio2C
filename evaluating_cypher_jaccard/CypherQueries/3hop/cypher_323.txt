@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Hypoplastic pubic ramus'})-[:phenotype_of]->(d:Disease)-[:disease_causes_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) RETURN d.Label AS Disease, bp.Label AS BiologicalProcess, m.Label AS miRNA_Label, m.Genomic_coordinates AS miRNA_Genomic_coordinates 

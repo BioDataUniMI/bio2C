@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d1:Disease)-[:subclassof]->(d2:Disease)-[:has_characteristic]->(d3:Disease) WHERE (d1.Label CONTAINS 'kidney' OR d1.Description CONTAINS 'kidney') AND d3.Label CONTAINS 'inherited' RETURN m.Label AS miRNA, d1.Label AS sourceDisease, d2.Label AS parentDisease, d3.Label AS characteristicDisease

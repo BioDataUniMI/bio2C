@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:over_expressed_in]->(d:Disease) WHERE SIZE(r.PubMedID) > 0 WITH d, COLLECT(DISTINCT p) AS pre_miRNAs, COLLECT(r.PubMedID) AS pubmed_lists RETURN d.Label AS Disease, SIZE(pre_miRNAs) AS pre_miRNA_count, SIZE(REDUCE(s = [], l IN pubmed_lists | s + l)) AS PubMed_count ORDER BY PubMed_count DESC LIMIT 1

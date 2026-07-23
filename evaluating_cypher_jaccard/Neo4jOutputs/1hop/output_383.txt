@@ -1,0 +1,5 @@
+{
+  "Disease": "disorder of thiamine metabolism and transport",
+  "BiologicalProcess": "thiamine transport"
+}
+

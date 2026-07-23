@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'membrane' AND ANY(s IN g.Synonym WHERE s CONTAINS 'plasma') RETURN g.Label AS GOTerm, g.Synonym AS Synonyms

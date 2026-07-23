@@ -1,0 +1,10 @@
+{
+  "Phenotype": "Lung adenocarcinoma",
+  "pre_miRNA": "microRNA hsa-mir-518e precursor"
+}
+
+{
+  "Phenotype": "Lung adenocarcinoma",
+  "pre_miRNA": "microRNA hsa-mir-30e precursor"
+}
+

@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'rna' AND cc.Description CONTAINS 'dna' RETURN cc.Label AS CellularComponent, cc.Description AS Description

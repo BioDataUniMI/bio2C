@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-424 precursor",
+  "purine_content_percentage": 59.183673469387756
+}
+
+{
+  "miRNA": "microRNA hsa-mir-17 precursor",
+  "purine_content_percentage": 55.95238095238095
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34c precursor",
+  "purine_content_percentage": 54.54545454545455
+}
+
+{
+  "miRNA": "microRNA hsa-mir-153 precursor (hsa-mir-153-2)",
+  "purine_content_percentage": 54.02298850574713
+}
+
+{
+  "miRNA": "let-7d stem-loop (hsa-let-7d)",
+  "purine_content_percentage": 54.02298850574713
+}
+

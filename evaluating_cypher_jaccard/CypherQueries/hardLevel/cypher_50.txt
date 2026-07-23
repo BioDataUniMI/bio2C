@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:genetically_interacts_with]->(g2:Gene) WHERE ANY(c1 IN g1.Genomic_coordinates WHERE c1 STARTS WITH 'chrX') AND ANY(c2 IN g2.Genomic_coordinates WHERE c2 STARTS WITH 'chrX') RETURN COUNT(DISTINCT [g1.Label, g2.Label]) AS ChrX_Interaction_Count

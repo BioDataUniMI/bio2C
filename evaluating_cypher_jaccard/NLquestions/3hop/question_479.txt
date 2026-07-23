@@ -1,0 +1,1 @@
+List pre-miRNAs and their mature miRNAs that regulate the gene SOX2 and cause and contribute to cancers containing the word 'small' or 'non-small' in their label. Filter only miRNAs that are characterized by a label ending with a number. Return the pre-miRNA label, miRNA label, gene label, and cancer label.

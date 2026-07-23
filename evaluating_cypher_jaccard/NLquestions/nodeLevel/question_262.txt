@@ -1,0 +1,1 @@
+Find miRNAs that have more than 2 genomic coordinates on chromosome X. Return their labels and all genomic coordinates.

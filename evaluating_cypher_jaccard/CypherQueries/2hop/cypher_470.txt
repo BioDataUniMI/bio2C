@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:over_expressed_in]->(ph:Phenotype) WHERE ANY(s IN ph.Synonym WHERE s CONTAINS 'myelom') RETURN g.Label AS Gene, pre.Label AS Pre_miRNA, ph.Label AS Phenotype_Label

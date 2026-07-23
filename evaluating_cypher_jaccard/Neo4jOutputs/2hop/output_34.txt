@@ -1,0 +1,30 @@
+{
+  "Disease": "malignant colon neoplasm",
+  "DiseaseLabels": [
+    "Disease",
+    "Cancer"
+  ],
+  "Gene": "MIR1271",
+  "Precursor": "microRNA hsa-mir-1271 precursor"
+}
+
+{
+  "Disease": "malignant colon neoplasm",
+  "DiseaseLabels": [
+    "Disease",
+    "Cancer"
+  ],
+  "Gene": "MIR1273C",
+  "Precursor": "microRNA hsa-mir-1273c precursor"
+}
+
+{
+  "Disease": "malignant pancreatic neoplasm",
+  "DiseaseLabels": [
+    "Disease",
+    "Cancer"
+  ],
+  "Gene": "MIR1179",
+  "Precursor": "microRNA hsa-mir-1179 precursor"
+}
+

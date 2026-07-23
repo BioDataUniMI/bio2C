@@ -1,0 +1,25 @@
+{
+  "CancerLabel": "colorectal sessile serrated adenoma/polyp",
+  "ID": "MONDO:0006164"
+}
+
+{
+  "CancerLabel": "colon sessile serrated adenoma/polyp",
+  "ID": "MONDO:0006156"
+}
+
+{
+  "CancerLabel": "protoplasmic astrocytoma",
+  "ID": "MONDO:0016687"
+}
+
+{
+  "CancerLabel": "breast giant fibroadenoma",
+  "ID": "MONDO:0004150"
+}
+
+{
+  "CancerLabel": "colon serrated polyposis",
+  "ID": "MONDO:0100290"
+}
+

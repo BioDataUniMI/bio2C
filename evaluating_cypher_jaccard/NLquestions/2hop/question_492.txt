@@ -1,0 +1,1 @@
+Which genes are causal germline mutations in diseases whose label contains 'MYH3'? Return the genes URI and the diseases label.

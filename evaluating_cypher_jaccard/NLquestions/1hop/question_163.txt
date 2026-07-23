@@ -1,0 +1,1 @@
+List all GO terms in which miRNAs are located, where the method is 'differential centrifugation'. Return distinct GO term labels, IDs, and URIs.

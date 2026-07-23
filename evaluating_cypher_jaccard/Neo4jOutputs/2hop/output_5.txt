@@ -1,0 +1,30 @@
+{
+  "Disease": "respiratory infections, recurrent, and failure to thrive with or without diarrhea",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p"
+}
+
+{
+  "Disease": "neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and br...",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-5p"
+}
+
+{
+  "Disease": "neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-5p"
+}
+
+{
+  "Disease": "pontocerebellar hypoplasia, hypotonia, and respiratory insufficiency syndrome, neonatal lethal",
+  "Phenotype": "Hypertension",
+  "miRNA": "hsa-miR-155-3p"
+}
+
+{
+  "Disease": "respiratory infections, recurrent, and failure to thrive with or without diarrhea",
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-3p"
+}
+

@@ -1,0 +1,35 @@
+{
+  "SourceGene": "MIR6088",
+  "Pre_miRNA": "microRNA hsa-mir-6088 precursor",
+  "Mature_miRNA": "hsa-miR-6088",
+  "TargetGene": "SMG1P7"
+}
+
+{
+  "SourceGene": "MIR6088",
+  "Pre_miRNA": "microRNA hsa-mir-6088 precursor",
+  "Mature_miRNA": "hsa-miR-6088",
+  "TargetGene": "SMG1P6"
+}
+
+{
+  "SourceGene": "MIR3666",
+  "Pre_miRNA": "microRNA hsa-mir-3666 precursor",
+  "Mature_miRNA": "hsa-miR-3666",
+  "TargetGene": "SMG1P6"
+}
+
+{
+  "SourceGene": "MIR421",
+  "Pre_miRNA": "microRNA hsa-mir-421 precursor",
+  "Mature_miRNA": "hsa-miR-421",
+  "TargetGene": "SMG1P7"
+}
+
+{
+  "SourceGene": "MIR3167",
+  "Pre_miRNA": "microRNA hsa-mir-3167 precursor",
+  "Mature_miRNA": "hsa-miR-3167",
+  "TargetGene": "SMG1P7"
+}
+

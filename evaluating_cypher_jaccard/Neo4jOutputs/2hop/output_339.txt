@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-659-5p",
+  "NeurodegenerativeDisease": "frontotemporal dementia with motor neuron disease",
+  "Phenotype": "Frontotemporal dementia"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "NeurodegenerativeDisease": "progressive non-fluent aphasia",
+  "Phenotype": "Frontotemporal dementia"
+}
+
+{
+  "miRNA": "hsa-miR-659-5p",
+  "NeurodegenerativeDisease": "inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+  "Phenotype": "Frontotemporal dementia"
+}
+

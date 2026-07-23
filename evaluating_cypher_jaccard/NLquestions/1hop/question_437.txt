@@ -1,0 +1,1 @@
+Which phenotypes whose label contains the word 'ataxia' are characterized by at least one synonym?

@@ -1,0 +1,1 @@
+How many miRNAs are in a homology relationship with precursor miRNAs that cause or contribute to diseases whose descriptions contain 'childhood' or 'pediatric' and that have as characteristic the phenotype labeled as 'Childhood onset'? Return the count of distinct miRNAs.

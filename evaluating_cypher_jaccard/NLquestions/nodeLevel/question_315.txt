@@ -1,0 +1,1 @@
+Find the disease that has the ID 'MONDO:0013150'. Return all its properties (i.e., the entire node).

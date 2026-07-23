@@ -1,0 +1,1 @@
+For each neurodegenerative disease, list all over-expressed miRNAs and their sequences. Return disease label, list of miRNA labels, and list of sequences.

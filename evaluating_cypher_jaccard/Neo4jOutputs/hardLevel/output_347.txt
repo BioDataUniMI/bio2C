@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "MaxNumberOfBiologicalProcesses": 3564
+}
+

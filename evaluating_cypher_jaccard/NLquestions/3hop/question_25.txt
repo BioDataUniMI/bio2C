@@ -1,0 +1,1 @@
+How many distinct diseases have phenotypes that are characteristic of the disease labeled 'hypercalcemia, infantile', which is caused or contributed by the gene 'KL'? Return the count of related diseases.

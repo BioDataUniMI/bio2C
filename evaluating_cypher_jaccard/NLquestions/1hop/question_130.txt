@@ -1,0 +1,1 @@
+Find all miRNAs with sequences longer than 25 nucleotides that participate in GO terms having a label that contains the word 'negative'.

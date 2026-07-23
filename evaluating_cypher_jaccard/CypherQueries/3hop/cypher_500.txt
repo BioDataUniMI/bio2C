@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:is_active_in]->(g:GO)-[:location_of]->(m2), (m1)-[:over_expressed_in]->(g2:GO) RETURN DISTINCT g.Label AS ActiveGOterm, g2.Label AS UnderexpressedGOterm, m1.Label AS ActiveMiRNA, m2.Label AS LocatedMiRNA

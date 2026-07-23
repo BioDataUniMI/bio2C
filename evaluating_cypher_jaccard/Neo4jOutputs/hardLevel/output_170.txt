@@ -1,0 +1,8 @@
+{
+  "miRNA": "hsa-let-7f-1-3p",
+  "genomic_coordinate": "chr9:94176409-94176430+",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+

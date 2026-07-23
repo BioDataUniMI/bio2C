@@ -1,0 +1,30 @@
+{
+  "Cancer": "ACTH-producing pituitary gland carcinoma",
+  "Phenotype": "Abnormal circulating adrenocorticotropin concentration",
+  "RelatedDisease": "glucocorticoid deficiency 1"
+}
+
+{
+  "Cancer": "ACTH-producing pituitary gland carcinoma",
+  "Phenotype": "Abnormal circulating adrenocorticotropin concentration",
+  "RelatedDisease": "glioma susceptibility 1"
+}
+
+{
+  "Cancer": "ACTH-producing pituitary gland carcinoma",
+  "Phenotype": "Abnormal circulating adrenocorticotropin concentration",
+  "RelatedDisease": "astrocytic tumor"
+}
+
+{
+  "Cancer": "ACTH-producing pituitary gland carcinoma",
+  "Phenotype": "Abnormal circulating adrenocorticotropin concentration",
+  "RelatedDisease": "primary brain neoplasm"
+}
+
+{
+  "Cancer": "ACTH-producing pituitary gland carcinoma",
+  "Phenotype": "Abnormal circulating adrenocorticotropin concentration",
+  "RelatedDisease": "brain neoplasm"
+}
+

@@ -1,0 +1,8 @@
+{
+  "Gene": "UNC93B1",
+  "Infectious_Disease": "herpes simplex encephalitis, susceptibility to, 1",
+  "Genomic_Coordinates": [
+    "chr11:67991100-68004982-"
+  ]
+}
+

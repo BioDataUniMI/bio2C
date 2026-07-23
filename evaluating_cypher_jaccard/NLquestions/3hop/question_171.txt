@@ -1,0 +1,1 @@
+Identify the gene that is transcribed into a pre-miRNA from which mature miRNAs develop and regulate the target gene 'MTA2'. Return the label of the: gene, pre-miRNA, and miRNA.

@@ -1,0 +1,25 @@
+{
+  "Disease": "enthesitis-related juvenile idiopathic arthritis",
+  "Description": "enthesitis-related juvenile idiopathic arthritis is a subtype of juvenile idiopathic arthritis th..."
+}
+
+{
+  "Disease": "hemophagocytic syndrome",
+  "Description": "hemophagocytic syndrome (hps) is a rare immune disease and a potentially life-threatening disorde..."
+}
+
+{
+  "Disease": "immunodeficiency 98 with autoinflammation, X-linked",
+  "Description": "an immunodeficiency disease characterized by onset of recurrent infections associated with lympho..."
+}
+
+{
+  "Disease": "acute hemorrhagic leukoencephalitis",
+  "Description": "acute hemorrhagic leukoencephalitis(ahl) is a veryrareform of acute disseminated encephalomyeliti..."
+}
+
+{
+  "Disease": "autoimmune myocarditis",
+  "Description": "autoimmune myocarditis is an autoimmune disease that affects the heart. the condition is characte..."
+}
+

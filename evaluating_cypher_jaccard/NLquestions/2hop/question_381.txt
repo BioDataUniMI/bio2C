@@ -1,0 +1,1 @@
+Identify diseases caused by disruption of GO terms containing 'homeostasis' in their labels that have miRNA participants. Return the disease, GO term, and miRNA labels.

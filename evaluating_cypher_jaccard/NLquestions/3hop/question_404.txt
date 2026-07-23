@@ -1,0 +1,1 @@
+List all gene-pre-miRNA-miRNA maturation chains such that the resulting miRNA regulates the gene 'MTCO1P12'. Return the label of the gene, pre-miRNA, mature miRNA.

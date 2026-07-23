@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "apoptotic process involved in development"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "visual system development"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "circulatory system development"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "renal system development"
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "BiologicalProcess": "epithelium development"
+}
+

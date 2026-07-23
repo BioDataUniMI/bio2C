@@ -1,0 +1,1 @@
+Identify phenotypes of cancers labeled as 'malignant glioma' that are caused or contributed by pre-miRNAs containing 'hsa-mir-106b'. Return the pre-miRNA and phenotype labels.

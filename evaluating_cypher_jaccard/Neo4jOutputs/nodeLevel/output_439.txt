@@ -1,0 +1,11 @@
+{
+  "mf.Label": "calcitonin gene-related peptide binding"
+}
+
+{
+  "mf.Label": "calcitonin gene-related peptide receptor activity"
+}
+
+{
+  "mf.Label": "gene product or complex activity"
+}

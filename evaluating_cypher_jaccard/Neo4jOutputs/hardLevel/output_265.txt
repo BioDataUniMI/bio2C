@@ -1,0 +1,25 @@
+{
+  "Gene": "POM121B",
+  "num_miRNAs": 154
+}
+
+{
+  "Gene": "CEP170P1",
+  "num_miRNAs": 109
+}
+
+{
+  "Gene": "SMG1P3",
+  "num_miRNAs": 106
+}
+
+{
+  "Gene": "EEF1A1P10",
+  "num_miRNAs": 105
+}
+
+{
+  "Gene": "BAGE2",
+  "num_miRNAs": 101
+}
+

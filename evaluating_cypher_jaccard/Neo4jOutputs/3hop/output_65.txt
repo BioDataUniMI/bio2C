@@ -1,0 +1,12 @@
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Miscarriage"
+}
+
+{
+  "infectious_disease": "Zika virus congenital syndrome",
+  "related_disease": "Zika virus infectious disease",
+  "phenotype": "Intrauterine growth retardation"
+}
+

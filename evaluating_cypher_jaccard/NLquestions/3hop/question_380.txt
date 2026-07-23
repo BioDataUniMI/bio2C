@@ -1,0 +1,1 @@
+Count the diseases caused by the disruption of GO terms that in which pre-miRNAs participate. Consider only pre-miRNAs developing into miRNAs; and keep only and entries where the sources reporting the development relationship includes 'miRBase'.

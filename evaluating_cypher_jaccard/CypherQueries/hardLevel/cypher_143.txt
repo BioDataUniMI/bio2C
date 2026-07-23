@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r]-(d:Disease) WITH m, d, COLLECT(DISTINCT TYPE(r)) AS rel_types WHERE SIZE(rel_types) >= 2 RETURN m.Label AS miRNA, d.Label AS Disease, rel_types AS RelationshipTypes ORDER BY miRNA, Disease

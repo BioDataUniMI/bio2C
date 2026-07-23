@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "num_diseases": 72
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "num_diseases": 71
+}
+
+{
+  "miRNA": "hsa-miR-1-3p",
+  "num_diseases": 68
+}
+
+{
+  "miRNA": "hsa-miR-150-5p",
+  "num_diseases": 68
+}
+
+{
+  "miRNA": "microRNA hsa-mir-145 precursor",
+  "num_diseases": 68
+}
+

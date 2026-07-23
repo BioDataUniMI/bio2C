@@ -1,0 +1,35 @@
+{
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma",
+  "Phenotype": "Small hand"
+}
+
+{
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma",
+  "Phenotype": "Malar prominence"
+}
+
+{
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma",
+  "Phenotype": "Uplifted earlobe"
+}
+
+{
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma",
+  "Phenotype": "Microtia"
+}
+
+{
+  "MolecularFunction": "mRNA 3'-UTR binding",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "breast carcinoma",
+  "Phenotype": "Short stature"
+}
+

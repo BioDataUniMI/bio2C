@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "benign muscle neoplasm",
+  "MethodCount": 2
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "adenoma",
+  "MethodCount": 2
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "sarcoma",
+  "MethodCount": 2
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "lipoma",
+  "MethodCount": 2
+}
+
+{
+  "miRNA": "hsa-let-7a-3p",
+  "Cancer": "hamartoma",
+  "MethodCount": 2
+}
+

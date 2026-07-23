@@ -1,0 +1,23 @@
+{
+  "BiologicalProcess": "regulation of cell cycle",
+  "MolecularFunction": "cyclin-dependent protein kinase activity",
+  "miRNA_Label": "hsa-let-7a-3p",
+  "miRNA_Sequence": "CUAUACAAUCUACUGUCUUUC",
+  "miRNA_Genomic_coordinates": [
+    "chr9:94176013-94176033+",
+    "chr22:46112800-46112820+"
+  ]
+}
+
+{
+  "BiologicalProcess": "regulation of cell cycle",
+  "MolecularFunction": "cyclin-dependent protein kinase activity",
+  "miRNA_Label": "hsa-let-7a-5p",
+  "miRNA_Sequence": "UGAGGUAGUAGGUUGUAUAGUU",
+  "miRNA_Genomic_coordinates": [
+    "chr11:122146568-122146589-",
+    "chr9:94175962-94175983+",
+    "chr22:46112752-46112773+"
+  ]
+}
+

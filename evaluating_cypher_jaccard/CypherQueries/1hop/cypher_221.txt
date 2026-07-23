@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:enables]->(:GO) WHERE SIZE(r.Source) > 1 RETURN m.Label AS miRNA, r.Source AS Sources

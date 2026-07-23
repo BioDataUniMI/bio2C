@@ -1,0 +1,1 @@
+Find the miRNA(s) that are under-expressed in the highest number of autoimmune diseases (including ties). Return the miRNA label, number of autoimmune diseases, and genomic coordinates.

@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'cardiomyopathy' AND d.Description CONTAINS 'familial' RETURN d.Label, d.Description

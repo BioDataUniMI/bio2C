@@ -1,0 +1,1 @@
+How are biological processes connected to GO terms through has_part and part_of relationships, and how many distinct GO terms are linked by each relationship type?

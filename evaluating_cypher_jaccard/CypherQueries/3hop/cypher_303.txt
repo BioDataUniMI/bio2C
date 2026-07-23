@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(bp:Biological_process {Label: 'cellular response to dopamine'})<-[:part_of]-(go:GO) WHERE m.Label ENDS WITH '214-3p' RETURN  pre.Label AS Pre_miRNA, m.Label AS miRNA, bp.Label AS BiologicalProcess, go.Label AS GOpart

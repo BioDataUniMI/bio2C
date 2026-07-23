@@ -1,0 +1,1 @@
+List Homo sapiens precursor miRNAs whose label mentions '19b precursor'. Return only miRNAs' label and their IDs.

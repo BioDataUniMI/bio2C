@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE NOT (m)-[:participates_in]->(:Biological_process) AND SIZE(m.Sequence) < 17 RETURN m.Label AS miRNA, SIZE(m.Sequence) AS SequenceLength ORDER BY SequenceLength ASC, miRNA ASC

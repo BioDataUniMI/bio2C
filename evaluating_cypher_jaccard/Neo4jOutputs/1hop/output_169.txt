@@ -1,0 +1,20 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-let-7e-5p"
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-574-5p"
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-574-5p"
+}
+
+{
+  "CellularComponent": "RISC complex",
+  "miRNA": "hsa-miR-206"
+}
+

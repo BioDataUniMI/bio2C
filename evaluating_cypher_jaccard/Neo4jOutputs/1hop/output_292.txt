@@ -1,0 +1,5 @@
+{
+  "GO": "Golgi membrane",
+  "PartCount": 4
+}
+

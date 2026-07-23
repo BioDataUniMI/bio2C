@@ -1,0 +1,1 @@
+Which diseases are indirectly caused by miRNAs through more than 10 genes that those miRNAs regulate? Return the label of the miRNA and the disease and the count of genes.

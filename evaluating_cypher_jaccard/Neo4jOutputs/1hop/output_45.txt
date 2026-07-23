@@ -1,0 +1,42 @@
+{
+  "Phenotype_label": "Small cell lung carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "miRNA_coordinates": [
+    "chr11:122099809-122099830-",
+    "chr21:16590253-16590274+"
+  ]
+}
+
+{
+  "Phenotype_label": "Small cell lung carcinoma",
+  "miRNA": "hsa-miR-99a-5p",
+  "miRNA_coordinates": [
+    "chr21:16539101-16539122+"
+  ]
+}
+
+{
+  "Phenotype_label": "Neoplasm of the lung",
+  "miRNA": "hsa-miR-155-5p",
+  "miRNA_coordinates": [
+    "chr21:25573983-25574006+"
+  ]
+}
+
+{
+  "Phenotype_label": "Neoplasm of the lung",
+  "miRNA": "hsa-miR-6814-5p",
+  "miRNA_coordinates": [
+    "chr21:41746815-41746836-"
+  ]
+}
+
+{
+  "Phenotype_label": "Neoplasm of the lung",
+  "miRNA": "hsa-miR-8069",
+  "miRNA_coordinates": [
+    "chr21:13724242-13724264+",
+    "chr21:6859224-6859246+"
+  ]
+}
+

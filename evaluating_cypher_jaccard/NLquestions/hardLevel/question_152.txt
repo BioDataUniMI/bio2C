@@ -1,0 +1,1 @@
+For each neurodegenerative disease whose description starts with 'a progressive', find miRNAs with a sequence length of 23 that are under-expressed in that disease. Return, for each disease, the disease label, its description, and up to five example miRNA labels.

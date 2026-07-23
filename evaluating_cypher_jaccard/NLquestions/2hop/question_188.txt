@@ -1,0 +1,1 @@
+List cancers that are superclasses of diseases having as phenotype the one labeled as 'Severe short stature', excluding diseases whose label contains the string 'oma'. Return the disease and the cancer labels.

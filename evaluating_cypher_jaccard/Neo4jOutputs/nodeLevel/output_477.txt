@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "extrinsic component of presynaptic endosome membrane",
+  "cc.ID": "GO:0099007"
+}
+
+{
+  "CellularComponent": "presynaptic intermediate filament cytoskeleton",
+  "cc.ID": "GO:0099182"
+}
+
+{
+  "CellularComponent": "extrinsic component of presynaptic endocytic zone membrane",
+  "cc.ID": "GO:0098894"
+}
+
+{
+  "CellularComponent": "presynaptic endosome membrane",
+  "cc.ID": "GO:0098954"
+}
+
+{
+  "CellularComponent": "presynaptic endocytic zone",
+  "cc.ID": "GO:0098833"
+}
+

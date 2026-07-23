@@ -1,0 +1,308 @@
+[
+  {
+    "question": "What is the sequence and genomic location of hsa-miR-21-5p?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-21-5p'}) RETURN m.Sequence, m.Genomic_coordinates",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_1"
+  },
+  {
+    "question": "What are the genomic coordinates of hsa-miR-155-5p?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-155-5p'}) RETURN m.Genomic_coordinates",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_2"
+  },
+  {
+    "question": "What is the sequence and genomic location of hsa-miR-21-3p?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-21-3p'}) RETURN m.Sequence, m.Genomic_coordinates",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_3"
+  },
+  {
+    "question": "What is the functional annotation (description, synonyms, genomic coordinates, species, ID, and URI) of TP53?",
+    "cypher": "MATCH (g:Gene {Label: 'TP53'}) RETURN g.Description, g.Synonym, g.Genomic_coordinates, g.Species, g.ID, g.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_4"
+  },
+  {
+    "question": "What information (description, sequence, synonyms, genomic coordinates, species, ID, and URI) is available for the gene RANP5?",
+    "cypher": "MATCH (g:Gene {Label: 'RANP5'}) RETURN g.Description, g.Synonym, g.Sequence, g.Genomic_coordinates, g.Species, g.ID, g.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_5"
+  },
+  {
+    "question": "Talking about 'Alzheimer disease' (a neurodegenerative disorder), what is the description and how is it identified (ID and URI) in the database?",
+    "cypher": "MATCH (d:Neurodegenerative_disease {Label: 'Alzheimer disease'}) RETURN d.Description, d.ID, d.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_6"
+  },
+  {
+  "question": "What information (description, synonyms, ID, and URI) is recorded for 'breast cancer'?",
+    "cypher": "MATCH (c:Cancer {Label: 'breast cancer'}) RETURN c.Description, c.Synonym, c.ID, c.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_7"
+  },
+  {
+    "question": "What information (description, synonyms, ID, and URI) is recorded for the biological process 'RNA methylation'?",
+    "cypher": "MATCH (bp:Biological_process {Label: 'RNA methylation'}) RETURN bp.Description, bp.Synonym, bp.ID, bp.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_8"
+  },
+  {
+    "question": "What are the molecular functions related to 'Wnt-protein binding' that are represented in the knowledge graph (I am interested in the label, description, synonyms, ID, and URI)?",
+    "cypher": "MATCH (mf:Molecular_function) WHERE toLower(mf.Label) CONTAINS 'wnt-protein binding' OR mf.Description CONTAINS 'wnt-protein binding' RETURN mf.Label, mf.Description, mf.Synonym, mf.ID, mf.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_9"
+  },
+  {
+    "question": "What annotation is available for the cellular component 'heterochromatin' (description, synonyms, ID and URI)?",
+    "cypher": "MATCH (cc:Cellular_component {Label: 'heterochromatin'}) RETURN cc.Description, cc.Synonym, cc.ID, cc.URI",
+    "level": "nodeLevel",
+    "ID": "nodeLevel/question_bio_10"
+  },
+  {
+  "question": "Which miRNA precursors are under-expressed in the 'cholangiocarcinoma' disease, and which PubMed IDs support those findings?",
+  "cypher": "MATCH (m:pre_miRNA)-[rel:under_expressed_in]->(d:Disease {Label: 'cholangiocarcinoma'}) RETURN m.Label, rel.PubMedID",
+  "level": "1hop",
+  "ID": "1hop/question_bio_1"
+},
+  {
+    "question": "Which miRNAs regulate the activity of the gene TP53, and what experimental evidence supports these interactions (sources, PubMed identifiers, methods)?",
+    "cypher": "MATCH (m:miRNA)-[rel:regulates_activity_of]->(g:Gene {Label: 'TP53'}) RETURN m.Label, rel.Source, rel.PubMedID, rel.Method",
+    "level": "1hop",
+    "ID": "1hop/question_bio_2"
+  },
+    {
+    "question": "Which miRNAs of the hsa-miR-3682 family are over-expressed in the cancer 'breast cancer', and what experimental methods were used to detect this?",
+    "cypher": "MATCH (m:miRNA)-[rel:over_expressed_in]->(c:Cancer {Label: 'breast cancer'}) WHERE toLower(m.Label) CONTAINS 'hsa-mir-3682' RETURN m.Label, rel.Method",
+    "level": "1hop",
+    "ID": "1hop/question_bio_3"
+  },
+  {
+    "question": "Which miRNAs are under-expressed in the disease 'Alzheimer disease', and which PubMed studies support these findings?",
+    "cypher": "MATCH (m:miRNA)-[rel:under_expressed_in]->(d:Disease {Label: 'Alzheimer disease'}) RETURN m.Label, rel.PubMedID",
+    "level": "1hop",
+    "ID": "1hop/question_bio_4"
+  },
+  {
+    "question": "Which biological processes involve hsa-miR-155-5p, and what literature evidence (PubMedID) supports its participation?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-155-5p'})-[rel:participates_in]->(bp:Biological_process) RETURN bp.Label, rel.PubMedID",
+    "level": "1hop",
+    "ID": "1hop/question_bio_5"
+  },
+  {
+    "question": "Which molecular functions are enabled by hsa-miR-34a (considering both -3p and -5p), and what GO evidence annotations are available for those enabling relationships?",
+    "cypher": "MATCH (m:miRNA)-[rel:enables]->(mf:Molecular_function) WHERE m.Label IN ['hsa-miR-34a-3p', 'hsa-miR-34a-5p'] RETURN m.Label, mf.Label, rel.GO_evidence",
+    "level": "1hop",
+    "ID": "1hop/question_bio_6"
+  },
+  {
+    "question": "Which neurodegenerative diseases are linked to hsa-miR-146a-5p, and what evidence (Source, PubMedID) supports those links?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-146a-5p'})-[rel]->(d:Neurodegenerative_disease) RETURN d.Label, rel.Source, rel.PubMedID",
+    "level": "1hop",
+    "ID": "1hop/question_bio_7"
+  },
+  {
+    "question": "Which miRNAs are located in the 'heterochromatin' cellular component, and what sources supports their localization?",
+    "cypher": "MATCH (m:miRNA)-[rel:located_in]->(cc:Cellular_component {Label: 'heterochromatin'}) RETURN m.Label, rel.Source",
+    "level": "1hop",
+    "ID": "1hop/question_bio_8"
+  },
+  {
+  "question": "Which SOX-like genes are regulated by hsa-miR-21-5p, and what supporting evidence (Source, PubMedID, Method) is available for these interactions?",
+  "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-21-5p'})-[rel:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'SOX' RETURN g.Label, rel.Source, rel.PubMedID, rel.Method",
+  "level": "1hop",
+    "ID": "1hop/question_bio_9"
+},
+{
+  "question": "Which cancers are caused or contributed to by hsa-miR-34a-5p, and what evidence (Source, PubMedID) supports these associations?",
+  "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-34a-5p'})-[rel:causes_or_contributes_to_condition]->(c:Cancer) RETURN c.Label, rel.Source, rel.PubMedID",
+  "level": "1hop",
+    "ID": "1hop/question_bio_10"
+},
+  {
+    "question": "Which genes are regulated by hsa-miR-21-5p and cause or contribute to the autism disease, and what evidence (Source, PubMedID) supports both the regulation and causality links?",
+    "cypher": "MATCH (m:miRNA {Label: 'hsa-miR-21-5p'})-[rel:regulates_activity_of]->(g:Gene)-[rel2:causes_or_contributes_to_condition]->(d:Disease {Label: 'autism'}) RETURN g.Label, rel.Source, rel.PubMedID, rel2.Source, rel2.PubMedID",
+    "level": "2hop",
+    "ID": "2hop/question_bio_1"
+  },
+  {
+    "question": "Which infectious diseases are caused or contributed to by miRNAs that develop from the precursor hsa-mir-34a? Include in the answer the miRNA and precursor labels.",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[rel:causes_or_contributes_to_condition]->(d:Infectious_disease) WHERE p.Label CONTAINS 'hsa-mir-34a' RETURN m.Label, p.Label, d.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_2"
+  },
+  {
+    "question": "Which miRNAs that regulate the gene TP53 are located in the 'extracellular exosome' cellular component?",
+    "cypher": "MATCH (cc:Cellular_component {Label: 'extracellular exosome'})<-[rel:located_in]-(m:miRNA)-[:regulates_activity_of]->(g:Gene {Label: 'TP53'}) RETURN m.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_3"
+  },
+  {
+    "question": "Which molecular functions are enabled by hsa-miR-340-5p when it is over-expressed in the 'breast cancer'? What source evidence is reported for the enabling relationships?",
+    "cypher": "MATCH (mf:Molecular_function) <-[rel:enables]-(m:miRNA {Label: 'hsa-miR-340-5p'})-[:over_expressed_in]->(c:Cancer {Label: 'breast cancer'}) RETURN m.Label, mf.Label, rel.Source",
+    "level": "2hop",
+    "ID": "2hop/question_bio_4"
+  },
+  {
+    "question": "Which cancers are linked to hsa-mir-21-like precursor miRNAs that are transcribed from genes?",
+    "cypher": "MATCH (g:Gene)-[:transcribed_to]->(m:pre_miRNA)-[]->(d:Cancer) WHERE m.Label CONTAINS 'hsa-mir-21' RETURN m.Label, g.Label, d.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_5"
+  },
+  {
+    "question": "Which miRNAs that are under-expressed in the 'Alzheimer disease' and participate in 'apoptotic processes'-related biological process?",
+    "cypher": "MATCH (bp:Biological_process)<-[rel:participates_in]-(m:miRNA)-[:under_expressed_in]->(d:Disease {Label: 'Alzheimer disease'}) WHERE bp.Label CONTAINS 'apoptotic process' OR bp.Description CONTAINS 'apoptotic process' RETURN m.Label, bp.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_6"
+  },
+    {
+    "question": "Which LAP genes are regulated by miRNAs that are located in the 'heterochromatin' cellular component?",
+    "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene), (m)-[:located_in]->(cc:Cellular_component {Label: 'heterochromatin'}) WHERE g.Label STARTS WITH 'LAP' RETURN g.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_7"
+  },
+  {
+    "question": "Which autoimmune diseases are linked to miRNAs that enable 'protein binding'-related molecular functions?",
+    "cypher": "MATCH (d:Autoimmune_disease)<-[rel]-(m:miRNA)-[:enables]->(mf:Molecular_function) WHERE mf.Label CONTAINS 'protein binding' OR mf.Description CONTAINS 'protein binding' RETURN m.Label, d.Label, mf.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_8"
+  },
+  {
+    "question": "Which miRNAs developed from precursors participate in any apoptosis-related biological processes?",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[rel:participates_in]->(bp:Biological_process) WHERE toLower(bp.Label) CONTAINS 'apoptosis' OR toLower(bp.Description) CONTAINS 'apoptosis' RETURN p.Label, m.Label, bp.Label",
+    "level": "2hop",
+    "ID": "2hop/question_bio_9"
+  },
+{
+  "question": "Which cancers are caused or contributed by miRNAs developed from the hsa-mir-21 precursor family?",
+  "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:causes_or_contributes_to_condition]->(c:Cancer) WHERE p.Label CONTAINS 'hsa-mir-217' RETURN p.Label, m.Label, c.Label",
+  "level": "2hop",
+  "ID": "2hop/question_bio_10"
+},
+  {
+    "question": "Which diseases are caused or contributed by the PPM1D gene when regulated by miRNAs developed from the hsa-mir-21 precursor family? Include the miRNAs, precursors, and disease labels in the output.",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene {Label:'PPM1D'})-[rel:causes_or_contributes_to_condition]->(d:Disease) WHERE p.Label CONTAINS 'hsa-mir-21' RETURN p.Label, m.Label, d.Label",
+    "level": "3hop",
+      "ID": "3hop/question_bio_1"
+  },
+  {
+    "question": "In which cellular components are miRNAs developed from the hsa-mir-34a precursor family located when they regulate the TP53 gene?",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene {Label: 'TP53'}) WHERE toLower(p.Label) CONTAINS 'hsa-mir-34a' MATCH (m)-[rel:located_in]->(cc:Cellular_component) RETURN p.Label, m.Label, cc.Label",
+    "level": "3hop",
+      "ID": "3hop/question_bio_2"
+  },
+  {
+    "question": "Which molecular functions are enabled by hsa-miR-340-5p when it is over-expressed in the cancer 'breast cancer' and developed from known precursor? What are those precursors and what is the source for the 'enables' relationships?",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA {Label: 'hsa-miR-340-5p'})-[:over_expressed_in]->(c:Cancer {Label: 'breast cancer'}), (m)-[rel:enables]->(mf:Molecular_function) RETURN p.Label, mf.Label, rel.Source",
+    "level": "3hop",
+        "ID": "3hop/question_bio_3"
+  },
+  {
+    "question": "Which autoimmune diseases are caused or contributed by miRNAs developed from hsa-mir-206 family precursor that enable molecular functions related to protein binding (check label or description)? What evidence supports those causal links (Source, PubMedID)?",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:enables]->(mf:Molecular_function) WHERE p.Label CONTAINS 'hsa-mir-206' AND (mf.Label CONTAINS 'protein binding' OR mf.Description CONTAINS 'protein binding') MATCH (m)-[rel:causes_or_contributes_to_condition]->(d:Autoimmune_disease) RETURN p.Label, m.Label, mf.Label, d.Label, rel.Source, rel.PubMedID",
+    "level": "3hop",
+    "ID": "3hop/question_bio_4"
+  },
+  {
+    "question": "Which genes with a label starting with 'RNP' are regulated by miRNAs that are located in the heterochromatin cellular component and under-expressed in the glioma disease?",
+    "cypher": "MATCH (d:Disease {Label: 'glioma'})<-[:under_expressed_in]-(m:miRNA)-[:located_in]->(cc:Cellular_component {Label: 'heterochromatin'}), (m)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'RNP' RETURN m.Label, g.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_5"
+  },
+  {
+      "question": "Which miRNAs developed from precursors participate in apoptosis-related biological processes (check label or description) and themselves cause or contribute to the 'tuberculosis' disease?",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'apoptotic process' OR bp.Description CONTAINS 'apoptotic process' MATCH (m)-[rel:causes_or_contributes_to_condition]->(d:Disease {Label: 'tuberculosis'}) RETURN p.Label, m.Label, bp.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_6"
+  },
+  {           
+    "question": "Which genes are transcribed to hsa-mir-21 family precursors that develop to miRNAs that cause or contribute to cancers, and what are those cancers and related precursor and miRNAs?",
+    "cypher": "MATCH (g:Gene)-[:transcribed_to]->(p:pre_miRNA)-[:develops_into]->(m:miRNA)-[rel:causes_or_contributes_to_condition]->(c:Cancer) WHERE p.Label CONTAINS 'hsa-mir-21' RETURN g.Label, p.Label, m.Label, c.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_7"
+  },
+  { 
+    "question": "Which neurodegenerative diseases are caused or contributed by miRNAs that regulate the gene TP53 and are located in the 'extracellular exosome' cellular component, and what are those miRNAs?",
+    "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene {Label: 'TP53'}), (m)-[:located_in]->(cc:Cellular_component {Label: 'extracellular exosome'}), (m)-[rel:causes_or_contributes_to_condition]->(d:Neurodegenerative_disease) RETURN m.Label, d.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_8"
+  },
+  {
+    "question": "Which precursors develop into miRNAs that are under-expressed in the 'Alzheimer disease' and that participate in the 'cellular senescence' biological process? Report also the miRNA labels.",
+    "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:under_expressed_in]->(d:Disease {Label: 'Alzheimer disease'}), (m)-[rel:participates_in]->(bp:Biological_process {Label: 'cellular senescence'}) RETURN p.Label, m.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_9"
+  },
+{
+   "question": "Which BCL-like genes are regulated by miRNAs derived from the hsa-mir-155 precursor family and cause or contribute to cancers?",
+  "cypher": "MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(g:Gene)-[:causes_or_contributes_to_condition]->(c:Cancer) WHERE p.Label CONTAINS 'hsa-mir-155' AND g.Label STARTS WITH 'BCL' RETURN p.Label, m.Label, g.Label, c.Label",
+    "level": "3hop",
+    "ID": "3hop/question_bio_10"
+},
+  {
+    "question": "Which data sources report over-expression of miRNAs in cancers, and how many distinct miRNAs are supported by each source?",
+    "cypher": "MATCH (m:miRNA)-[r:over_expressed_in]->(c:Cancer) WITH COALESCE(r.Source, []) AS sources, m UNWIND sources AS src RETURN src AS Source, COUNT(DISTINCT m) AS miRNA_count",
+     "level": "hardLevel",
+      "ID": "hardLevel/question_bio_1"
+  },
+  {
+    "question": "Which precursor miRNAs have genomic coordinates that map to different chromosomes, and what are those chromosomes?",
+    "cypher": "MATCH (m:pre_miRNA) UNWIND m.Genomic_coordinates AS coord WITH m, SPLIT(coord, ':')[0] AS chr WITH m, COLLECT(DISTINCT chr) AS chromosomes WHERE SIZE(chromosomes) > 1 RETURN m.Label, chromosomes",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_2"
+  },
+  {
+
+    "question": "Which precursor miRNAs are linked to the 'myopathy' disease by more than one type of relationship, and what are those relationship types?",
+    "cypher": "MATCH (m:pre_miRNA)-[r]->(d:Disease {Label: 'myopathy'}) WITH m, COLLECT(DISTINCT TYPE(r)) AS rels WHERE SIZE(rels) > 1 RETURN m.Label, rels",
+     "level": "hardLevel",
+      "ID": "hardLevel/question_bio_3"
+
+  },
+  { 
+
+   "question": "Which BRC-like genes have sequences containing repeated 'TT' dinucleotides, and how many 'TT' occurrences are present in each sequence (counting overlapping occurrences)?",
+    "cypher": "MATCH (g:Gene) WHERE g.Label STARTS WITH 'BRC' WITH g, [i IN RANGE(0, SIZE(g.Sequence)-2) WHERE SUBSTRING(g.Sequence, i, 2) = 'TT'] AS tt_pairs RETURN g.Label, SIZE(tt_pairs)",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_4"
+  },
+  {
+
+    "question": "Which miRNAs have the longest sequences among those causing diseases, and for each such miRNA, list all diseases they linked to?",
+    "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) WITH m, SIZE(m.Sequence) AS len WITH MAX(len) AS maxLen MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease) WHERE SIZE(m.Sequence) = maxLen RETURN m.Label, maxLen, COLLECT(DISTINCT d.Label)",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_5"
+  },
+  {
+    "question": "Which precursor miRNAs that cause or contribute to the 'glioblastoma' disease  have sequences shorter than the average length across all precursor miRNAs? Order the result by sequence length, from longest to shortest.",
+    "cypher": "MATCH (m:pre_miRNA) WITH AVG(SIZE(m.Sequence)) AS avg_len MATCH (m:pre_miRNA)-[:causes_or_contributes_to_condition]->(d:Disease {Label: 'glioblastoma'}) WHERE SIZE(m.Sequence) < avg_len RETURN m.Label, SIZE(m.Sequence) ORDER BY SIZE(m.Sequence) DESC",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_6"
+  },
+  {
+
+  "question": "For each neurodegenerative disease caused or contributed to by miRNAs, how many of those miRNAs fall into each sequence-length category (short <20, medium 20–24, long >24)?",
+    "cypher": "MATCH (m:miRNA)-[:causes_or_contributes_to_condition]->(d:Neurodegenerative_disease) WITH m, d, SIZE(m.Sequence) AS len RETURN d.Label, CASE WHEN len < 20 THEN 'short' WHEN len <= 24 THEN 'medium' ELSE 'long' END, COUNT(*)",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_7"
+  },
+  {
+    "question": "Which miRNAs regulate LINC-like genes and have sequences containing one or more occurrences of the triplets AAA, CCC, GGG, or UUU, and how many total occurrences of these motifs are in each miRNA?",
+    "cypher": "MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) WHERE g.Label STARTS WITH 'LINC' WITH m, g, (SIZE(SPLIT(m.Sequence,'AAA'))-1 + SIZE(SPLIT(m.Sequence,'CCC'))-1 + SIZE(SPLIT(m.Sequence,'GGG'))-1 + SIZE(SPLIT(m.Sequence,'UUU'))-1) AS motif_count WHERE motif_count > 0 RETURN m.Label, g.Label, motif_count",
+    "level": "hardLevel",
+      "ID": "hardLevel/question_bio_8"
+  },
+  {
+
+  "question": "Which precursor miRNAs are reported as under-expressed across more than one autoimmune diseases, and which diseases and data sources are reported?",
+  "cypher": "MATCH (m:pre_miRNA)-[r:under_expressed_in]->(d:Autoimmune_disease) WITH m, COLLECT(DISTINCT d.Label) AS diseases, COLLECT(DISTINCT r.Source) AS sources WHERE SIZE(diseases) > 1 RETURN m.Label, diseases, sources",
+  "level": "hardLevel",
+     "ID": "hardLevel/question_bio_9"
+},
+{
+  "question": "Among hsa-mir-205 family precursor miRNAs, which ones are linked to the 'glioma' cancer via more than one distinct type of relationship, and what kinds of associations are reported?",
+  "cypher": "MATCH (m:pre_miRNA)-[r]->(d:Cancer {Label: 'glioma'}) WITH m, COLLECT(DISTINCT TYPE(r)) AS rels WHERE m.Label CONTAINS 'hsa-mir-205' AND SIZE(rels) > 1 RETURN m.Label, rels",
+  "level": "hardLevel",
+    "ID": "hardLevel/question_bio_10"
+}
+]

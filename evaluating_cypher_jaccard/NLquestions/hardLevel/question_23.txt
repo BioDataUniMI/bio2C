@@ -1,0 +1,1 @@
+Find the top three (gene, cancer) pairs where the gene causes or contributes to the cancer and has the highest number of 'T' nucleotides in its sequence. Break ties by ordering alphabetically by gene label and then cancer label. Return the gene label, cancer label, and the count of 'T' nucleotides.

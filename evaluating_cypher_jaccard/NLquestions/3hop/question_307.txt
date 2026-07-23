@@ -1,0 +1,1 @@
+Which biological processes are characterized by GO terms as parts in which miRNAs transcribed from genes participate in? Return the label of the: genes, miRNAs, GO terms, and biological processes.

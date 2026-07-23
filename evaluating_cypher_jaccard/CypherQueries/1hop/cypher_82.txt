@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(n:Neurodegenerative_disease) WHERE SIZE(m.Sequence) = 23 AND n.Description STARTS WITH 'a progressive' RETURN m.Label AS miRNA, m.Sequence AS miRNA_sequence, SIZE(m.Sequence) AS Sequence_length, n.Label AS DiseaseLabel, n.Description AS DiseaseDescription

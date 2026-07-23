@@ -1,0 +1,35 @@
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "silicotuberculosis",
+  "Phenotype": "Delayed skeletal maturation",
+  "RelatedDisease": "pituitary dwarfism"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "familial Mediterranean fever",
+  "Phenotype": "Delayed skeletal maturation",
+  "RelatedDisease": "pituitary dwarfism"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "Meier-Gorlin syndrome",
+  "Phenotype": "Delayed skeletal maturation",
+  "RelatedDisease": "pituitary dwarfism"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "autosomal recessive familial Mediterranean fever",
+  "Phenotype": "Delayed skeletal maturation",
+  "RelatedDisease": "pituitary dwarfism"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "Meier-Gorlin syndrome 1",
+  "Phenotype": "Delayed skeletal maturation",
+  "RelatedDisease": "pituitary dwarfism"
+}
+

@@ -1,0 +1,1 @@
+MATCH (:GO)-[r:directly_regulates]->(:GO) RETURN COUNT(r) AS DirectRegulationCount

@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:quality_of]->(p2:Phenotype) WHERE p1.Label CONTAINS 'sub' OR p2.Label CONTAINS 'sub' RETURN p1.Label, p2.Label

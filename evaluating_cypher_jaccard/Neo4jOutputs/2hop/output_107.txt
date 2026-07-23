@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-542-5p",
+  "CellularComponent": "vesicle lumen",
+  "GO": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-23a-5p",
+  "CellularComponent": "vesicle lumen",
+  "GO": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-133a-3p",
+  "CellularComponent": "vesicle lumen",
+  "GO": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "CellularComponent": "vesicle lumen",
+  "GO": "vesicle"
+}
+
+{
+  "miRNA": "hsa-miR-23a-5p",
+  "CellularComponent": "cytoplasmic vesicle lumen",
+  "GO": "cytoplasmic vesicle"
+}
+

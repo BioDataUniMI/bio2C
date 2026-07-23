@@ -1,0 +1,1 @@
+Consider the miRNAs under-expressed in phenotypes whose description contains the word 'malignant'. Which cancers express those shorter than 22 nuleotides and with sequence that starts and ends with the same nucleotide? Return label of the: phenotype, cancers, and list of corresponding miRNAs.

@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE d.Label CONTAINS 'infantil' AND (d.Label CONTAINS 'fatal' OR d.Description CONTAINS 'fatal') RETURN d.Label AS DiseaseLabel, d.ID AS ID, d.URI AS URI

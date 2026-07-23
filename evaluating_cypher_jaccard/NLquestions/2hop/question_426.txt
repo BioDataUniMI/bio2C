@@ -1,0 +1,1 @@
+Identify the biological processes in which miRNAs ending with '485-5p' participate when they are the material basis in somatic mutations associated of the cancer labeled as 'lung adenocarcinoma'.

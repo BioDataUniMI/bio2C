@@ -1,0 +1,1 @@
+Find autoimmune neurodegenerative diseases other than 'multiple sclerosis' and return each disease label with the list of contributing 'precursor'-labeled miRNAs (use the COLLECT clause and return labels also for miRNAs).

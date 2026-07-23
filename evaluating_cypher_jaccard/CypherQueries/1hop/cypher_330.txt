@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE NOT (p)-[:has_quality]->(:Phenotype) AND (p.Synonym IS NULL OR SIZE(p.Synonym) = 0) AND p.Description CONTAINS 'virus' RETURN p.Label

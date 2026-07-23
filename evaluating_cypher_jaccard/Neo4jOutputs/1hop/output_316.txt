@@ -1,0 +1,20 @@
+{
+  "d.Label": "incessant infant ventricular tachycardia"
+}
+
+{
+  "d.Label": "ethylene glycol poisoning"
+}
+
+{
+  "d.Label": "selective pituitary resistance to thyroid hormone"
+}
+
+{
+  "d.Label": "multifocal atrial tachycardia"
+}
+
+{
+  "d.Label": "torsade-de-pointes syndrome with short coupling interval"
+}
+

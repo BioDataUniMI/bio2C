@@ -1,0 +1,1 @@
+Identify cancers that have long-labeled phenotypes (label length > 50 characters), where these phenotypes are shared with other diseases. Return the label of the: cancer, the phenotype, and the related disease.

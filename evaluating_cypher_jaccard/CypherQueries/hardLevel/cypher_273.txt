@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WITH b, COUNT(DISTINCT m) AS mirna_count ORDER BY mirna_count DESC, b.Label ASC LIMIT 5 RETURN b.Label AS Process_name, mirna_count

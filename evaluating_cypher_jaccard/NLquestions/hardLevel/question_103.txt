@@ -1,0 +1,1 @@
+Find miRNAs under-expressed in the disease labeled 'esophageal cancer' with FDR < 0.08 measured by northern blotting and sourced from dbDEMC, returning the label of the diseases, the list of miRNAs' labels, and the complete list of methods and sources.

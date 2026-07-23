@@ -1,0 +1,1 @@
+Find the sequence length of all Homo sapiens miRNAs starting with 'hsa-miR-20' that are located in known cellular components. Return only the distinct miRNA labels and their sequence length.

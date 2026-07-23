@@ -1,0 +1,1 @@
+MATCH (g:GO)-[:results_in_assembly_of]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'sno' RETURN g.Label, cc.Label

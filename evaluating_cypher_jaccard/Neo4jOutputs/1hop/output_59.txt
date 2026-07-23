@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-1207-5p",
+  "miRNA_sequence": "UGGCAGGGAGGCUGGGAGGGG",
+  "GO_term": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-1226-5p",
+  "miRNA_sequence": "GUGAGGGCAUGCAGGCCUGGAUGGGG",
+  "GO_term": "autophagy"
+}
+
+{
+  "miRNA": "hsa-miR-134-5p",
+  "miRNA_sequence": "UGUGACUGGUUGACCAGAGGGG",
+  "GO_term": "apoptotic process"
+}
+

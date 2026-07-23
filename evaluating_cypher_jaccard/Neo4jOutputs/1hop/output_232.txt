@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-16-1-3p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "miRNA": "hsa-miR-191-5p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "miRNA": "hsa-miR-195-5p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "miRNA": "hsa-miR-24-3p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+
+{
+  "miRNA": "hsa-miR-203a-5p",
+  "CellularComponent": "cyclin-dependent protein kinase holoenzyme complex"
+}
+

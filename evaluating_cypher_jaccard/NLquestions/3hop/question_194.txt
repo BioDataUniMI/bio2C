@@ -1,0 +1,1 @@
+Identify GO terms that have molecular functions as parts, the molecular functions enabled by miRNAs, and the diseases in which those miRNAs are expressed. Return the labels of the GO term, the molecular function, the miRNA, and the disease

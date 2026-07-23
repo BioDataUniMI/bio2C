@@ -1,0 +1,1 @@
+Which cardiovascular diseases are caused or contributed to by the gene 'ELOVL6', whose activity is regulated by miRNAs? What phenotypes do they have as features? Return the miRNA label, gene label, cardiovascular disease label, and phenotype label.

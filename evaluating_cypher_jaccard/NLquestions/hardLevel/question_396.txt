@@ -1,0 +1,1 @@
+Find genes whose labels start with any prefix from the set {ZN, HM, RN}, and for each gene, list the cancers it causes or contributes to.

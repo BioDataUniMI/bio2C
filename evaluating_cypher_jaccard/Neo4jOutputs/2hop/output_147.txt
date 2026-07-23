@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-152-5p",
+  "Cancer": "carcinoma of esophagus",
+  "FDR": 0.0002185814000314
+}
+
+{
+  "Phenotype": "Breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p",
+  "Cancer": "carcinoma of esophagus",
+  "FDR": 0.000632577425
+}
+
+{
+  "Phenotype": "Hypertension",
+  "miRNA": "hsa-miR-155-3p",
+  "Cancer": "carcinoma of esophagus",
+  "FDR": 0.0036471125
+}
+
+{
+  "Phenotype": "Schizophrenia",
+  "miRNA": "hsa-miR-206",
+  "Cancer": "carcinoma of esophagus",
+  "FDR": 9.24e-12
+}
+
+{
+  "Phenotype": "Asthma",
+  "miRNA": "hsa-miR-148a-3p",
+  "Cancer": "carcinoma of esophagus",
+  "FDR": 3.338900000000001e-07
+}
+

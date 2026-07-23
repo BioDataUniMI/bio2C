@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-320d",
+  "Gene": "TUSC3",
+  "Disease": "autosomal recessive non-syndromic intellectual disability"
+}
+
+{
+  "miRNA": "hsa-miR-320d",
+  "Gene": "TUSC3",
+  "Disease": "intellectual disability, autosomal recessive 7"
+}
+

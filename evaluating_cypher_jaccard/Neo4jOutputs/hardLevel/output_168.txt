@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-let-7f-1-3p",
+  "Sequence": "CUAUACAAUCUAUUGCCUUCCC",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-191-3p",
+  "Sequence": "GCUGCGCUUGGAUUUCGUCCCC",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-494-5p",
+  "Sequence": "AGGUUGUCCGUGUUGUCUUCUCU",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+
+{
+  "miRNA": "hsa-miR-1-5p",
+  "Sequence": "ACAUACUUCUUUAUAUGCCCAU",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+
+{
+  "miRNA": "hsa-miR-122-3p",
+  "Sequence": "AACGCCAUUAUCACACUAAAUA",
+  "go_term": "apoptotic process",
+  "parent_go_term": "programmed cell death",
+  "positively_regulating_go": "positive regulation of programmed cell death"
+}
+

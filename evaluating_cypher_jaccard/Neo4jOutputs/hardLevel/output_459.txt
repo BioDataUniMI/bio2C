@@ -1,0 +1,6 @@
+{
+  "miRNAsWith4Types": 107,
+  "totalMiRNAs": 2438,
+  "percentage": 4.388843314191961
+}
+

@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:located_in]->(go:GO {Label:'Cajal body'})<-[:part_of]-(cc:Cellular_component) RETURN pre.Label AS Pre_miRNA, cc.Label AS CellularComponent

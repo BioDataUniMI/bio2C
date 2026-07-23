@@ -1,0 +1,5 @@
+{
+  "RegulatedGO": "leukocyte mediated cytotoxicity",
+  "miRNA": "hsa-miR-150-5p"
+}
+

@@ -1,0 +1,50 @@
+{
+  "Disease": "alcoholic liver cirrhosis",
+  "Gene": "MIR885",
+  "miRNA": "microRNA hsa-mir-885 precursor",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "Disease": "alcoholic liver cirrhosis",
+  "Gene": "MIR3615",
+  "miRNA": "microRNA hsa-mir-3615 precursor",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "Disease": "alcoholic liver cirrhosis",
+  "Gene": "MIR532",
+  "miRNA": "microRNA hsa-mir-532 precursor",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "Disease": "alcoholic liver cirrhosis",
+  "Gene": "MIR589",
+  "miRNA": "microRNA hsa-mir-589 precursor",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+
+{
+  "Disease": "alcoholic liver cirrhosis",
+  "Gene": "MIR629",
+  "miRNA": "microRNA hsa-mir-629 precursor",
+  "RelationSource": [
+    "DisGeNET",
+    "CTD"
+  ]
+}
+

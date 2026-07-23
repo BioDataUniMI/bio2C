@@ -1,0 +1,1 @@
+Identify the pre-miRNAs that develop into miRNAs which regulate the activity of genes causing or contributing to the disease labeled 'thoracic cancer'. Return the pre-miRNA label, the miRNA label, the gene label.

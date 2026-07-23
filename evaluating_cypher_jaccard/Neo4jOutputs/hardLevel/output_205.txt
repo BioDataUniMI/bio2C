@@ -1,0 +1,10 @@
+{
+  "disease_type": "Cancer",
+  "average_FDR": 0.0018093362188944448
+}
+
+{
+  "disease_type": "Infectious",
+  "average_FDR": 0.000426571
+}
+

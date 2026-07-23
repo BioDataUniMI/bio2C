@@ -1,0 +1,1 @@
+Retrieve cancers and the miRNAs located in the cellular component labeled as 'P-body', which is part of GO terms. Return the cancer label, miRNA label, cellular component label, and GO term label.

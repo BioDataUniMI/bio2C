@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Label STARTS WITH 'MIR50' AND ANY(coord IN g.Genomic_coordinates WHERE coord STARTS WITH 'chr1:' OR coord STARTS WITH 'chr2:') RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates

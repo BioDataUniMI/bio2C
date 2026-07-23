@@ -1,0 +1,8 @@
+{
+  "mf.Label": "pH-gated calcium channel activity"
+}
+
+{
+  "mf.Label": "pH-gated sodium channel activity"
+}
+

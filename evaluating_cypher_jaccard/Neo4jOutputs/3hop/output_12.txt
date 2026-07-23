@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-200c-5p",
+  "developed_from_miRNA": "microRNA hsa-mir-200c precursor",
+  "cellular_component": "cytoplasmic side of plasma membrane"
+}
+
+{
+  "miRNA": "hsa-miR-200c-5p",
+  "developed_from_miRNA": "microRNA hsa-mir-200c precursor",
+  "cellular_component": "cytoplasmic side of membrane"
+}
+

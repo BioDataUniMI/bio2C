@@ -1,0 +1,1 @@
+List pre-miRNAs that develop into miRNAs ending with '214-3p' and participate in the biological process labeled as 'cellular response to dopamine', along with the GO terms that are part of that process.

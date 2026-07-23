@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:regulates_activity_of]->(g:Gene) UNWIND m.Genomic_coordinates AS m_coord UNWIND g.Genomic_coordinates AS g_coord WITH m, g, COLLECT(DISTINCT SPLIT(m_coord, ':')[0]) AS miRNA_chroms, COLLECT(DISTINCT SPLIT(g_coord, ':')[0]) AS gene_chroms WHERE miRNA_chroms = ['chrX'] AND gene_chroms = ['chrY'] RETURN m.Label AS miRNA, g.Label AS Gene

@@ -1,0 +1,1 @@
+How many miRNAs transcribed from genes are located GO terms that are part of a cellular component? Return the count of distinct miRNAs.

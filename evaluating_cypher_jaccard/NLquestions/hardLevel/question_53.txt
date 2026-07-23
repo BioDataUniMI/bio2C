@@ -1,0 +1,1 @@
+Find the top four GO terms such that: 1) the label contains either the the word 'positive' or 'negative'; 2) in which miRNAs participate; and 3) that are part of a specific biological process. Return the GO term label, the biological process, the type ('positive' or 'negative'), and the maximum miRNA sequence length, ordering alphabetically by GO label in case of ties.

@@ -1,0 +1,1 @@
+Find pre-miRNAs whose label contains the string '1 precursor' that develop into miRNAs which regulate the activity of genes that cause or contribute to the cancer labeled as 'benign neoplasm of brain'. Return the label of the: pre-miRNA, miRNA, and gene.

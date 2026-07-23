@@ -1,0 +1,51 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-410 precursor",
+  "Phenotype": "Acute lymphoblastic leukemia",
+  "Synonyms": [
+    "Akutní lymfoblastická leukémie",
+    "急性リンパ性白血病",
+    "Akut lenfoblastik lösemi",
+    "Leucémie lymphoblastique aigüe",
+    "Acute lymfatische leukemie",
+    "Akute lymphoblastische Leukämie",
+    "Leucemia linfoblastica acuta",
+    "Leucemia linfática aguda",
+    "急性淋巴细胞白血病"
+  ],
+  "non_latin_syn_count": 2
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-99a precursor",
+  "Phenotype": "Acute myeloid leukemia",
+  "Synonyms": [
+    "Akut myeloid lösemi",
+    "Leucémie myéloïde aigüe",
+    "急性骨髄性白血病",
+    "急性髓性白血病",
+    "Leucemia mieloide aguda",
+    "Akute myeloische Leukämie",
+    "Akutní myeloidní leukémie",
+    "Leucemia mieloide acuta",
+    "Acute myeloïde leukemie"
+  ],
+  "non_latin_syn_count": 2
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-125a precursor",
+  "Phenotype": "Acute myeloid leukemia",
+  "Synonyms": [
+    "Akut myeloid lösemi",
+    "Leucémie myéloïde aigüe",
+    "急性骨髄性白血病",
+    "急性髓性白血病",
+    "Leucemia mieloide aguda",
+    "Akute myeloische Leukämie",
+    "Akutní myeloidní leukémie",
+    "Leucemia mieloide acuta",
+    "Acute myeloïde leukemie"
+  ],
+  "non_latin_syn_count": 2
+}
+

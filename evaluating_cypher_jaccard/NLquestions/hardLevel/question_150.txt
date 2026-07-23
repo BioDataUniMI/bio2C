@@ -1,0 +1,1 @@
+What is the proportion of miRNAs whose sequence ends with 'A' compared to all miRNAs?

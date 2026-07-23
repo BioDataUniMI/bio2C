@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cardiovascular_disease) WITH CASE WHEN m.Label CONTAINS 'precursor' THEN 'precursor' ELSE 'non-precursor' END AS group_type, SIZE(m.Sequence) AS seq_len RETURN group_type, MAX(seq_len) AS Max_Sequence_Length, count(*) AS Num_miRNAs

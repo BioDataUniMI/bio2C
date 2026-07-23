@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-4645-5p",
+  "GO": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-505-5p",
+  "GO": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-3605-5p",
+  "GO": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-25-5p",
+  "GO": "microvesicle",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-25-5p",
+  "GO": "extracellular exosome",
+  "Sources": [
+    "Vesiclepedia",
+    "RNAcentral"
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "Gene": "TNFRSF1B",
+  "Disease": "hypersensitivity reaction disease",
+  "Disrupted_GO": "hypersensitivity"
+}
+
+{
+  "Gene": "TNFRSF1A",
+  "Disease": "hypersensitivity reaction disease",
+  "Disrupted_GO": "hypersensitivity"
+}
+
+{
+  "Gene": "TNFRSF10A",
+  "Disease": "anemia",
+  "Disrupted_GO": "erythrocyte homeostasis"
+}
+
+{
+  "Gene": "SERPINA6",
+  "Disease": "fatty liver disease",
+  "Disrupted_GO": "triglyceride-rich lipoprotein particle clearance"
+}
+
+{
+  "Gene": "TNFRSF1B",
+  "Disease": "fatty liver disease",
+  "Disrupted_GO": "triglyceride-rich lipoprotein particle clearance"
+}
+

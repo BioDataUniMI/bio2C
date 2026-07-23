@@ -1,0 +1,30 @@
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "BiologicalProcess": "axon guidance",
+  "GOterm": "Roundabout signaling pathway involved in axon guidance"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "BiologicalProcess": "axon guidance",
+  "GOterm": "chemoattractant activity involved in axon guidance"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "BiologicalProcess": "axon guidance",
+  "GOterm": "VEGF-activated neuropilin signaling pathway involved in axon guidance"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "BiologicalProcess": "axon guidance",
+  "GOterm": "semaphorin-plexin signaling pathway involved in axon guidance"
+}
+
+{
+  "Disease": "complex cortical dysplasia with other brain malformations",
+  "BiologicalProcess": "axon guidance",
+  "GOterm": "chemorepulsion of axon"
+}
+

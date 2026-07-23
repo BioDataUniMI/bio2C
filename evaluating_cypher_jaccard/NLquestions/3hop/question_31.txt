@@ -1,0 +1,1 @@
+Which genes cause or contribute to cardiovascular diseases that share features with other cardiovascular diseases whose labels contain 'muscular dystrophy' and that are subclasses of the disease labeled 'laminopathy'? Return the label of: gene, primary cardiovascular disease, related cardiovascular disease, and parent disease.

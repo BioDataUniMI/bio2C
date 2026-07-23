@@ -1,0 +1,1 @@
+Which cardiovascular diseases whose label ends with 'cardiomyopathy' have basis in feature of other diseases?

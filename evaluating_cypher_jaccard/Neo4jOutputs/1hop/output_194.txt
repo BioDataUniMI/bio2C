@@ -1,0 +1,25 @@
+{
+  "Disease": "tuberculosis",
+  "underexpressed_pre_miRNAs": 1
+}
+
+{
+  "Disease": "silicotuberculosis",
+  "underexpressed_pre_miRNAs": 1
+}
+
+{
+  "Disease": "COVID-19",
+  "underexpressed_pre_miRNAs": 2
+}
+
+{
+  "Disease": "syphilis",
+  "underexpressed_pre_miRNAs": 3
+}
+
+{
+  "Disease": "Zika virus infectious disease",
+  "underexpressed_pre_miRNAs": 1
+}
+

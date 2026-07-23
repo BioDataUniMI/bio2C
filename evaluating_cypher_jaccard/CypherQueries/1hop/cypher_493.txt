@@ -1,0 +1,1 @@
+MATCH (m1:miRNA)-[:genetically_interacts_with]->(m2:miRNA) WHERE ANY(coord IN m1.Genomic_coordinates WHERE coord CONTAINS 'chr16') AND NONE(coord IN m2.Genomic_coordinates WHERE coord CONTAINS 'chr16') RETURN m1.Label, m1.Genomic_coordinates, m2.Label, m2.Genomic_coordinates

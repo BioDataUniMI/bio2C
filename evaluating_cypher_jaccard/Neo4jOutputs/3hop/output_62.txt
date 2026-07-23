@@ -1,0 +1,5 @@
+{
+  "related_disease": "IgG4-related dacryoadenitis and sialadenitis",
+  "phenotype": "Skin ulcer"
+}
+

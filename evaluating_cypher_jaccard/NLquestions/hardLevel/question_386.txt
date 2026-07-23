@@ -1,0 +1,1 @@
+For all genes with a sequence shorter than 50 nucleotides, count the number of adenine (A), thymine (T), cytosine (C), and guanine (G) nucleotides in each gene and return the gene label along with these counts.

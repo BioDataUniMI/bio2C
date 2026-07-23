@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:disease_has_feature]->(p:Phenotype)-[:phenotype_of]->(cv:Cardiovascular_disease) WHERE d.Label CONTAINS 'allergic' RETURN d.Label AS disease, p.Label AS phenotype, cv.Label AS cardiovascular_disease

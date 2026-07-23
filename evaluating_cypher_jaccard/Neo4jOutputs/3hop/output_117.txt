@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Disease": "deafness, unilateral, with delayed endolymphatic hydrops"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-324 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Disease": "deafness, unilateral"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Disease": "deafness, unilateral, with delayed endolymphatic hydrops"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-455 precursor",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Disease": "deafness, unilateral"
+}
+
+{
+  "Pre_miRNA": "Hsa-Mir-455_pre stem-loop",
+  "BiologicalProcess": "sensory perception of sound",
+  "Phenotype": "Unilateral deafness",
+  "Disease": "deafness, unilateral, with delayed endolymphatic hydrops"
+}
+

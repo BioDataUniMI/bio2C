@@ -1,0 +1,25 @@
+{
+  "Cancer": "benign muscle neoplasm",
+  "expressed_miRNAs_count": 2
+}
+
+{
+  "Cancer": "adenoma",
+  "expressed_miRNAs_count": 2
+}
+
+{
+  "Cancer": "sarcoma",
+  "expressed_miRNAs_count": 2
+}
+
+{
+  "Cancer": "lipoma",
+  "expressed_miRNAs_count": 2
+}
+
+{
+  "Cancer": "hamartoma",
+  "expressed_miRNAs_count": 2
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(:Cancer)-[:has_phenotype]->(p:Phenotype)<-[:has_phenotype]-(c:Cancer) WHERE c.Label CONTAINS 'brain' RETURN DISTINCT c.Label AS Cancer

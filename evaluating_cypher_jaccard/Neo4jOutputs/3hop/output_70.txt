@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "mitophagy by internal vacuole formation",
+  "GO_Term1": "autophagy of mitochondrion",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "BiologicalProcess": "micromitophagy",
+  "GO_Term1": "autophagy of mitochondrion",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "BiologicalProcess": "mitophagy",
+  "GO_Term1": "autophagy of mitochondrion",
+  "CellularComponent": "mitochondrion"
+}
+
+{
+  "BiologicalProcess": "actin-dependent nuclear migration",
+  "GO_Term1": "nuclear migration",
+  "CellularComponent": "cell nucleus"
+}
+
+{
+  "BiologicalProcess": "nuclear migration by microtubule mediated pushing forces",
+  "GO_Term1": "nuclear migration",
+  "CellularComponent": "cell nucleus"
+}
+

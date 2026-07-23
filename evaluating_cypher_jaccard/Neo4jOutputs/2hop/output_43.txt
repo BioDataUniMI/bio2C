@@ -1,0 +1,50 @@
+{
+  "miRNA": "hsa-miR-30c-5p",
+  "MolecularFunction": "high-density lipoprotein particle binding",
+  "ParentTerm": "high-density lipoprotein particle receptor activity",
+  "ParentTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "MolecularFunction": "protein binding",
+  "ParentTerm": "protein carrier chaperone",
+  "ParentTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "MolecularFunction": "protein binding",
+  "ParentTerm": "ATP-dependent protein disaggregase activity",
+  "ParentTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "MolecularFunction": "protein binding",
+  "ParentTerm": "protein sequestering activity",
+  "ParentTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "MolecularFunction": "protein binding",
+  "ParentTerm": "molecular function regulator activity",
+  "ParentTermType": [
+    "GO",
+    "Molecular_function"
+  ]
+}
+

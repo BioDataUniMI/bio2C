@@ -1,0 +1,1 @@
+Return diseases caused by disruption of biological processes whose labels contain the string 'endocrine process'.

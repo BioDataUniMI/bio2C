@@ -1,0 +1,25 @@
+{
+  "GO_Term": "apoptotic process",
+  "m.Label": "hsa-miR-378f"
+}
+
+{
+  "GO_Term": "apoptotic process",
+  "m.Label": "hsa-miR-378e"
+}
+
+{
+  "GO_Term": "apoptotic process",
+  "m.Label": "hsa-miR-378d"
+}
+
+{
+  "GO_Term": "apoptotic process",
+  "m.Label": "hsa-miR-449a"
+}
+
+{
+  "GO_Term": "apoptotic process",
+  "m.Label": "hsa-miR-378i"
+}
+

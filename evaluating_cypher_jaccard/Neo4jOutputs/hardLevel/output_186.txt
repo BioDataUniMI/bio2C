@@ -1,0 +1,20 @@
+{
+  "disease_type": "Other"
+}
+
+{
+  "disease_type": "Cancer"
+}
+
+{
+  "disease_type": "Infectious"
+}
+
+{
+  "disease_type": "Cardiovascular"
+}
+
+{
+  "disease_type": "Neurodegenerative"
+}
+

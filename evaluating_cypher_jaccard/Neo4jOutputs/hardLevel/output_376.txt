@@ -1,0 +1,24 @@
+{
+  "Genes": [
+    "CXorf49",
+    "LOC101059915",
+    "CXorf49B"
+  ]
+}
+
+{
+  "Genes": [
+    "CXorf49",
+    "CXorf49B",
+    "LOC101059915"
+  ]
+}
+
+{
+  "Genes": [
+    "CXorf49B",
+    "CXorf49",
+    "LOC101059915"
+  ]
+}
+

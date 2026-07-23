@@ -1,0 +1,1 @@
+Among GO terms where miRNAs participate and are located on chromosome X or Y, find the top three GO term-chromosome pairs with the highest miRNA sequence lengths. Return the GO term label, the chromosome (chrX/chrY), and the highest miRNA sequence length, ordering alphabetically by GO label and chromosome in case of ties.

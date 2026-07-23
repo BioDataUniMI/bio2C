@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pm:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) WHERE g.Label ENDS WITH 'A' AND t.Label ENDS WITH 'P6' RETURN g.Label AS Gene, pm.Label AS Pre_miRNA, m.Label AS Mature_miRNA, t.Label AS TargetGene

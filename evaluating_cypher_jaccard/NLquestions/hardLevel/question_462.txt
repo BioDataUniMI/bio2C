@@ -1,0 +1,1 @@
+How many miRNAs are over-expressed in each possible number of distinct disease types i.e., the distribution of miRNAs by the number of disease types in which they are over-expressed (excluding the generic 'Disease' label)? Return the results sorted by the number of distinct disease types in ascending order.

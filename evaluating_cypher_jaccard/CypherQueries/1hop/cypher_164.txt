@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label: 'hsa-miR-152-3p'})-[r:located_in]->(g:GO) WHERE r.Context IS NOT NULL AND r.PubMedID IS NOT NULL RETURN g.Label AS GO_Term, r.Context AS Context, r.PubMedID AS PubMedID

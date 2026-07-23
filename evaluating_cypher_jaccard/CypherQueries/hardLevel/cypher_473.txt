@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE SIZE(g.Sequence) > 30000 WITH g, SIZE(g.Genomic_coordinates) AS GenomicCount WITH MAX(GenomicCount) AS MaxCount MATCH (g:Gene) WHERE SIZE(g.Sequence) > 30000 AND SIZE(g.Genomic_coordinates) = MaxCount RETURN g.Label AS Gene, g.Genomic_coordinates AS GenomicCoordinates, MaxCount AS GenomicCount

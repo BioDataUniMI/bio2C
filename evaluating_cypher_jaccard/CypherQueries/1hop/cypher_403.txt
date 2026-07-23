@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Species:'Homo sapiens'})-[:located_in]->(:Cellular_component) WHERE m.Label STARTS WITH 'hsa-miR-20' RETURN DISTINCT m.Label, SIZE(m.Sequence)

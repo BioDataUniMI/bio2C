@@ -1,0 +1,1 @@
+MATCH (ph:Phenotype)-[:characteristic_of]->(g:GO)-[:part_of]->(cc:Cellular_component {Label:'cytoplasm'}) RETURN ph.Label AS Phenotype, g.Label AS GOTerm

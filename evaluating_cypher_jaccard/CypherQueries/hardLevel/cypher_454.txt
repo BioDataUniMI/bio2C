@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH m.Label AS miRNA, SIZE(m.Sequence) AS len ORDER BY len WITH COLLECT({miRNA: miRNA, len: len}) AS rows UNWIND (rows[0..10] + rows[-10..]) AS r RETURN r.miRNA AS miRNA, r.len AS length 

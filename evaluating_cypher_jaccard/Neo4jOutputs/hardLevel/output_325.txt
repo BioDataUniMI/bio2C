@@ -1,0 +1,30 @@
+{
+  "cancer": "autosomal recessive dyskeratosis congenita 4",
+  "related_cancer": "dyskeratosis congenita, autosomal dominant 2",
+  "disease": "disease"
+}
+
+{
+  "cancer": "autosomal recessive dyskeratosis congenita 4",
+  "related_cancer": "dyskeratosis congenita, autosomal dominant 2",
+  "disease": "human disease"
+}
+
+{
+  "cancer": "autosomal recessive dyskeratosis congenita 4",
+  "related_cancer": "dyskeratosis congenita, autosomal dominant 2",
+  "disease": "musculoskeletal system disorder"
+}
+
+{
+  "cancer": "mycosis fungoides variant",
+  "related_cancer": "mycosis fungoides",
+  "disease": "cancer"
+}
+
+{
+  "cancer": "mycosis fungoides variant",
+  "related_cancer": "mycosis fungoides",
+  "disease": "cancer or benign tumor"
+}
+

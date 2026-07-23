@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:is_causal_somatic_mutation_in]->(d:Disease) WHERE toLower(d.Label) CONTAINS 'colorectal adenocarcinoma' RETURN p.Label AS pre_miRNA, d.Label AS Disease

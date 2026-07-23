@@ -1,0 +1,12 @@
+{
+  "group_type": "non-precursor",
+  "Average_Sequence_Length": 23.414634146341463,
+  "Num_miRNAs": 82
+}
+
+{
+  "group_type": "precursor",
+  "Average_Sequence_Length": 85.99999999999999,
+  "Num_miRNAs": 10
+}
+

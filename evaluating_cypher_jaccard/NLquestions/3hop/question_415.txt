@@ -1,0 +1,1 @@
+Consider the GO term labeled as 'chromosome'. Find the cellular components in which miRNAs are located and count how many distinct miRNAs are located in each component. Return the cellular component label, GO term label, and miRNA count.

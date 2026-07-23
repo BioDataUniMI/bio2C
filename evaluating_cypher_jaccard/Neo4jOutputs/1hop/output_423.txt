@@ -1,0 +1,25 @@
+{
+  "cc.Label": "bacterial extracellular vesicle",
+  "cc.Description": "small membrane vesicle (< 1 um) that buds off a prokaryotic cell plasma membrane, able to carry p..."
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory membrane",
+  "cc.Description": "one of the two endoplasmic reticulum-derived lipid bilayer membranes that bound a double membrane..."
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory outer membrane",
+  "cc.Description": "the outer of the two endoplasmic reticulum-derived lipid bilayer membranes that bound a double me..."
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory inner membrane",
+  "cc.Description": "the inner of the two endoplasmic reticulum-derived lipid bilayer membranes that bound a double me..."
+}
+
+{
+  "cc.Label": "double membrane vesicle viral factory lumen",
+  "cc.Description": "the volume surrounded by the inner membrane of a double membrane vesicle viral factory."
+}
+

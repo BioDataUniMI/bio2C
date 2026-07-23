@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE p.Label CONTAINS 'lung' UNWIND m.Genomic_coordinates AS coord RETURN COUNT(DISTINCT coord) AS num_unique_chromosomes

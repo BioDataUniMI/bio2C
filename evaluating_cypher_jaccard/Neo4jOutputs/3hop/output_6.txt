@@ -1,0 +1,40 @@
+{
+  "miRNA": "microRNA hsa-mir-1269b precursor",
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4458 precursor",
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-363 precursor",
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4295 precursor",
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-501 precursor",
+  "phenotype": "Hemangioma",
+  "parent_phenotype": "Facial hemangioma",
+  "grandparent_phenotype": "Facial capillary hemangioma",
+  "modifier_phenotype": "abnormal"
+}
+

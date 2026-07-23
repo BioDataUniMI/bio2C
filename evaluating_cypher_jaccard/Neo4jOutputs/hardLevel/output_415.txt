@@ -1,0 +1,10 @@
+{
+  "m.Label": "hsa-miR-12136",
+  "d.Label": "preeclampsia"
+}
+
+{
+  "m.Label": "hsa-miR-6859-3p",
+  "d.Label": "vitiligo"
+}
+

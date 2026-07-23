@@ -1,0 +1,5 @@
+{
+  "miRNA": "microRNA hsa-mir-12136 precursor",
+  "MolecularFunction": "triplet codon-amino acid adaptor activity"
+}
+

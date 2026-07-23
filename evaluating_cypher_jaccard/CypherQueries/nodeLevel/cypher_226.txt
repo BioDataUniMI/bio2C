@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE ANY(coord IN g.Genomic_coordinates WHERE toString(coord) STARTS WITH 'chr9') AND g.Label=~ '.*[A-Za-z]{2}$' RETURN g.Label AS Gene, g.Genomic_coordinates AS Coordinates

@@ -1,0 +1,5 @@
+{
+  "Gene": "MIR561",
+  "Pre_miRNA": "microRNA hsa-mir-561 precursor",
+  "Phenotype_Label": "Multiple myeloma"
+}

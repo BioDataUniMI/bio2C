@@ -1,0 +1,1 @@
+Which cancers express at least 2 different miRNAs, and how many miRNAs does each express? Return the cancer label and the number of miRNAs.

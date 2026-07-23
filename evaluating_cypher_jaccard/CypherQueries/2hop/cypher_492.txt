@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:is_causal_germline_mutation_in]->(d:Disease) WHERE d.Label CONTAINS 'MYH3' RETURN g.URI AS Gene_URI, d.Label AS Disease

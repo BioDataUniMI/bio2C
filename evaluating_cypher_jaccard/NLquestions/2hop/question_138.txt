@@ -1,0 +1,1 @@
+Identify human miRNAs that regulate genes which cause or contribute to cancers whose description contains the string 'malignant myomatous'. Return the miRNA label, gene label, and cancer label and description.

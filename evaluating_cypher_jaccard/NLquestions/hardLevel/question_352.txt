@@ -1,0 +1,1 @@
+Among GO terms whose disruption is caused by diseases, which GO term(s) are disrupted by the maximum number of distinct diseases (including ties)? Return the GO term label and the number of disrupting diseases.

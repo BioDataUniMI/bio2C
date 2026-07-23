@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process )<-[:part_of]-(mf:Molecular_function)<-[:has_function]-(m:miRNA)<-[:expresses]-(c:Cancer{Label: 'adenoma'}) RETURN bp.Label AS BiologicalProcess, mf.Label AS MolecularFunctionLabel, mf.Description AS MolecularFunctionDescription, m.Label AS miRNA

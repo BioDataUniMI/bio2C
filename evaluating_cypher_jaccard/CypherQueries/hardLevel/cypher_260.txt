@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WITH m, SIZE([n IN SPLIT(m.Sequence, '') WHERE n IN ['G','C']]) * 1.0 / SIZE(m.Sequence) AS GC_content RETURN m.Label AS miRNA, GC_content, m.Genomic_coordinates AS Genomic_coordinates ORDER BY GC_content DESC, m.Label ASC LIMIT 5

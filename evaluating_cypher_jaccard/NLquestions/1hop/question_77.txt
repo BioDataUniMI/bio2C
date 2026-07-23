@@ -1,0 +1,1 @@
+Return the 3 miRNA–cardiovascular disease pairs where the miRNA is under-expressed in the disease, ordered by descending miRNA sequence length and, in case of ties, alphabetically by miRNA label. Return the disease label, miRNA label, and sequence length.

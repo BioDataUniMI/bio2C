@@ -1,0 +1,25 @@
+{
+  "CellularComponent": "TIM23 mitochondrial import inner membrane translocase complex",
+  "Description": "the protein transport machinery of the mitochondrial inner membrane that typically transports pro..."
+}
+
+{
+  "CellularComponent": "extrinsic component of matrix side of mitochondrial inner membrane",
+  "Description": "the component of the matrix side of the mitochondrial inner membrane consisting of gene products ..."
+}
+
+{
+  "CellularComponent": "matrix side of mitochondrial inner membrane",
+  "Description": "the side (leaflet) of the mitochondrial inner membrane that faces the matrix."
+}
+
+{
+  "CellularComponent": "mitochondrial fatty acid beta-oxidation multienzyme complex",
+  "Description": "a multienzyme complex possessing three activities in two subunits (alpha and beta) that catalyzes..."
+}
+
+{
+  "CellularComponent": "mitochondrial permeability transition pore complex",
+  "Description": "a protein complex that connects the inner and outer membranes of animal mitochondria and acts as ..."
+}
+

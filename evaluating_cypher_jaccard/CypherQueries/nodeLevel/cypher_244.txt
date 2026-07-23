@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE SIZE(m.Sequence) < 17 RETURN m.Sequence, SIZE(m.Sequence) AS Length, m.Label AS miRNA, m.Description AS Description

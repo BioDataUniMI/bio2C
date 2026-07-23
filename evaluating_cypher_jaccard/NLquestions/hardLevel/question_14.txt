@@ -1,0 +1,1 @@
+Find all (pre-miRNA, phenotype) over-expression relationships where the pre-miRNA has either the shortest or the longest sequence length among all over-expressed pre-miRNAs in phenotypes. Return the matching pre-miRNA label, phenotype label, and the pre-miRNA sequence length.

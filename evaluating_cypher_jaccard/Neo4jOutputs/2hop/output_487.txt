@@ -1,0 +1,6 @@
+{
+  "Infectious_Disease": "kuru, susceptibility to",
+  "Disease": "kuru",
+  "Feature_Basis_Disease": "neurodegenerative disease"
+}
+

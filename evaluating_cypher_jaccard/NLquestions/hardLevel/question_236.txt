@@ -1,0 +1,1 @@
+Return the first 10 nucleotides of miRNA sequences in reverse order for miRNAs that participate in molecular functions. Return miRNA label, reversed truncated sequence, and associated molecular function label.

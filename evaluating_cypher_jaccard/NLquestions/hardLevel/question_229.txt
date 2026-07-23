@@ -1,0 +1,1 @@
+Calculate the average length of miRNAs over-expressed in cardiovascular diseases, separating those whose label contains 'precursor' and those that do not. Return group type, average sequence length, and number of miRNAs.

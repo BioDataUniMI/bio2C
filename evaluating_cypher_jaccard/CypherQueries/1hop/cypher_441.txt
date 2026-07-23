@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[r:has_target_end_location|has_target_start_location]->(cc:Cellular_component) WHERE bp.Label CONTAINS 'ribosomal' RETURN bp.Label, cc.Label, TYPE(r)

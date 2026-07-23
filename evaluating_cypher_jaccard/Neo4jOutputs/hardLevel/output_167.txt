@@ -1,0 +1,25 @@
+{
+  "biological_process": "apoptotic process",
+  "miRNA": "hsa-miR-500b-3p"
+}
+
+{
+  "biological_process": "apoptotic process",
+  "miRNA": "hsa-miR-106a-3p"
+}
+
+{
+  "biological_process": "apoptotic process",
+  "miRNA": "hsa-miR-503-3p"
+}
+
+{
+  "biological_process": "apoptotic process",
+  "miRNA": "hsa-miR-362-3p"
+}
+
+{
+  "biological_process": "apoptotic process",
+  "miRNA": "hsa-miR-513a-5p"
+}
+

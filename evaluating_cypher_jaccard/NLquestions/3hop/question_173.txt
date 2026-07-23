@@ -1,0 +1,1 @@
+Which phenotypes characterize biological processes of which the GO term labeled 'sister chromatid biorientation' is a part? Return the label of the biological process and the phenotype.

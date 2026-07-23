@@ -1,0 +1,1 @@
+Find the biological process(es) that are linked as functions of pre-miRNAs and that have GO terms as parts, selecting the process(es) with the highest number of distinct GO parts (including ties). Return the biological process label and the number of distinct GO terms.

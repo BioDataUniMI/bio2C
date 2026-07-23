@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-137-5p",
+  "miRNASequence": "ACGGGUAUUCUUGGGUGGAUAAU",
+  "Gene": "SERPINA3",
+  "Disease": "chronic renal failure syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-137-5p",
+  "miRNASequence": "ACGGGUAUUCUUGGGUGGAUAAU",
+  "Gene": "SERPINA3",
+  "Disease": "chronic kidney disease"
+}
+

@@ -1,0 +1,18 @@
+{
+  "miRNA": "hsa-miR-4271",
+  "Sequence": "GGGGGAAGAAAAGGUGGGG",
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-miR-765",
+  "Sequence": "UGGAGGAGAAGGAAGGUGAUG",
+  "Disease": "Kaposi's sarcoma"
+}
+
+{
+  "miRNA": "hsa-let-7e-5p",
+  "Sequence": "UGAGGUAGGAGGUUGUAUAGUU",
+  "Disease": "Kaposi's sarcoma"
+}
+

@@ -1,0 +1,1 @@
+Which miRNAs that are under-expressed in neurodegenerative diseases have the largest number of genomic coordinate entries, where the number of entries is defined as the count of genomic coordinates associated with each miRNA? Return the top 8 miRNAs ranked by this count (exactly 20, I don't care about ties).

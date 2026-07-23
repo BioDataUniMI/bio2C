@@ -1,0 +1,1 @@
+How many pre-miRNAs are over-expressed in the disease with the highest number of supporting PubMed publications? Return the disease label, the number of pre-miRNAs, and the PubMed publication count.

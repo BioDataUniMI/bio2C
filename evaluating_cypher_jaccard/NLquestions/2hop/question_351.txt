@@ -1,0 +1,1 @@
+Find the 'delay'-related phenotypes of the neurodegenerative disease labeled as 'COFS syndrome', and under which broader disease category does it fall.

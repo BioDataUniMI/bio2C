@@ -1,0 +1,1 @@
+MATCH (g1:Gene)-[:transcribed_to]->(m:miRNA)-[:regulates_activity_of]->(g2:Gene) WHERE g1 <> g2 AND ((g1)-[:causes_or_contributes_to_condition]->(:Disease) OR (g2)-[:causes_or_contributes_to_condition]->(:Disease)) RETURN g1.Label AS SourceGene, m.Label AS miRNA, g2.Label AS TargetGene

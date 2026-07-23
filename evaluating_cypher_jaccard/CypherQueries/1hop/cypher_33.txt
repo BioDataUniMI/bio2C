@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(d:Disease) WHERE (d.Label CONTAINS 'blood' OR d.Description CONTAINS 'blood') AND m.Label ENDS WITH 'precursor' RETURN m.Label AS miRNA, d.Label AS Disease_label, d.Description AS Disease_description

@@ -1,0 +1,40 @@
+{
+  "miRNA": "microRNA hsa-mir-4286 precursor",
+  "nCoords": 6
+}
+
+{
+  "miRNA": "hsa-miR-9-5p",
+  "nCoords": 3
+}
+
+{
+  "miRNA": "hsa-miR-9-3p",
+  "nCoords": 3
+}
+
+{
+  "miRNA": "hsa-miR-7-5p",
+  "nCoords": 3
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1306 precursor",
+  "nCoords": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4449 precursor",
+  "nCoords": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-590 precursor",
+  "nCoords": 2
+}
+
+{
+  "miRNA": "microRNA hsa-mir-142 precursor",
+  "nCoords": 2
+}
+

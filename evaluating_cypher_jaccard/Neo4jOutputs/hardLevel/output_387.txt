@@ -1,0 +1,99 @@
+{
+  "Gene": "TNF",
+  "Diseases": [
+    "type 1 diabetes mellitus 1",
+    "type 1 diabetes mellitus 12",
+    "SAPHO syndrome",
+    "osteoarthritis, spine",
+    "adult dermatomyositis",
+    "psoriatic arthritis",
+    "type 1 diabetes mellitus 21",
+    "serum sickness",
+    "type 1 diabetes mellitus 24",
+    "type 1 diabetes mellitus 18",
+    "type 1 diabetes mellitus 5",
+    "type 1 diabetes mellitus 10",
+    "scleroderma, familial progressive",
+    "osteoarthritis",
+    "type 1 diabetes mellitus 23",
+    "type 1 diabetes mellitus 7",
+    "systemic sclerosis",
+    "type 1 diabetes mellitus 4",
+    "infective arthritis",
+    "type 1 diabetes mellitus",
+    "systemic-onset juvenile idiopathic arthritis",
+    "type 1 diabetes mellitus 11",
+    "type 1 diabetes mellitus 20",
+    "type 1 diabetes mellitus 2",
+    "limited cutaneous systemic sclerosis",
+    "scleroderma",
+    "localized scleroderma",
+    "type 1 diabetes mellitus 8",
+    "type 1 diabetes mellitus 3",
+    "diffuse scleroderma",
+    "Hashimoto thyroiditis",
+    "type 1 diabetes mellitus 15",
+    "rheumatoid arthritis",
+    "type 1 diabetes mellitus 6",
+    "chronic recurrent multifocal osteomyelitis",
+    "psoriasis 14, pustular",
+    "type 1 diabetes mellitus 22",
+    "type 1 diabetes mellitus 13",
+    "arthritic joint disease",
+    "CREST syndrome",
+    "vitiligo",
+    "type 1 diabetes mellitus 19",
+    "diffuse cutaneous systemic sclerosis",
+    "juvenile idiopathic arthritis",
+    "linear scleroderma",
+    "juvenile dermatomyositis",
+    "type 1 diabetes mellitus 17",
+    "bacterial arthritis",
+    "dermatomyositis",
+    "autoimmune thyroid disease"
+  ],
+  "ATCG_100Times": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "CD68",
+  "Diseases": [
+    "psoriatic arthritis"
+  ],
+  "ATCG_100Times": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "CD14",
+  "Diseases": [
+    "enthesitis-related juvenile idiopathic arthritis",
+    "gout",
+    "psoriasis-related juvenile idiopathic arthritis",
+    "chronic childhood arthritis",
+    "systemic-onset juvenile idiopathic arthritis",
+    "juvenile idiopathic arthritis"
+  ],
+  "ATCG_100Times": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "H2BC8",
+  "Diseases": [
+    "enthesitis-related juvenile idiopathic arthritis",
+    "psoriasis-related juvenile idiopathic arthritis",
+    "chronic childhood arthritis",
+    "systemic-onset juvenile idiopathic arthritis",
+    "juvenile idiopathic arthritis"
+  ],
+  "ATCG_100Times": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+
+{
+  "Gene": "CDKN1C",
+  "Diseases": [
+    "adrenal hypoplasia, cytomegalic type",
+    "IMAGe syndrome"
+  ],
+  "ATCG_100Times": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGA..."
+}
+

@@ -1,0 +1,1 @@
+MATCH (d:Disease) WHERE toLower(d.Label) CONTAINS 'covid' AND NOT d:Infectious_disease RETURN d.Label AS DiseaseLabel

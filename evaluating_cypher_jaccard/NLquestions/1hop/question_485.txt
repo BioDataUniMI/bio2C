@@ -1,0 +1,1 @@
+Find biological processes that encompass other biological processes whose label contains 'checkpoint'. Include the labels of both the encompassing and the encompassed processes in the output.

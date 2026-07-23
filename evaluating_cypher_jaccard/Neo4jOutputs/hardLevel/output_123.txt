@@ -1,0 +1,20 @@
+{
+  "Full_Genomic_Coordinate": "chrX:120930250-120932301-"
+}
+
+{
+  "Full_Genomic_Coordinate": "chrX:120938701-120942023-"
+}
+
+{
+  "Full_Genomic_Coordinate": "chrX:120943561-120946883-"
+}
+
+{
+  "Full_Genomic_Coordinate": "chrX:120948422-120951744-"
+}
+
+{
+  "Full_Genomic_Coordinate": "chrX:120958165-120961487-"
+}
+

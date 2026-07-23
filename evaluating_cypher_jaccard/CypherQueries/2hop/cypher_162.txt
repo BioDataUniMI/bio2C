@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:interacts_with]->(m:miRNA)-[:over_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'childhood' RETURN p.Label AS Pre_miRNA, m.Label AS miRNA, c.Label AS Cancer

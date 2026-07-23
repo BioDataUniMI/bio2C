@@ -1,0 +1,1 @@
+Which miRNAs are under-expressed in the cancer labeled 'neoplastic meningitis', where that cancer is a subclass of a disease whose label contains the word 'metastatic' that have a characteristic phenotype? Return the label of miRNA and parent disease, the phenotype label and the sources reporting the under-expression relationship.

@@ -1,0 +1,1 @@
+List all unique chromosomes from the genomic coordinates of pre-miRNAs expressed in the phenotype labeled as 'Asthma'.

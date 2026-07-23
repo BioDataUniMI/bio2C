@@ -1,0 +1,1 @@
+Identify miRNAs transcribed from genes whose label ends with three digits followed by 'C', where the same gene also transcribes a pre-miRNA that develops into another miRNA. Return the gene label, source miRNA, pre-miRNA, and mature miRNA labels.

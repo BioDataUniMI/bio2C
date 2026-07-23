@@ -1,0 +1,1 @@
+Identify miRNAs that are not involved in a GO term which regulates another GO term whose label contains the word 'angiogenesis'. Return the miRNA and the regulated GO term labels.

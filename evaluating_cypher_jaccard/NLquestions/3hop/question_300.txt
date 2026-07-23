@@ -1,0 +1,1 @@
+Which miRNAs are expressed in benign cancers, regulate the activity of the gene 'CDK6', and cause or contribute to diseases whose label contains the word 'adult' but does not contain the words 'carcinoma', 'cancer', 'neoplasm', 'plastic', and 'syndrome'? Return the label of the: cancers, miRNAs and associated diseases.

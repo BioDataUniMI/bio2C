@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:transcribed_from]->(g:Gene)-[:transcribed_to]->(m:miRNA) RETURN COUNT(DISTINCT m) AS Num_miRNAs, COUNT(DISTINCT p) AS Num_Pre_miRNAs

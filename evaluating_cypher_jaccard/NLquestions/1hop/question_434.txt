@@ -1,0 +1,1 @@
+List diseases whose labels contain the word 'childhood' that have somatic mutation associations with miRNAs.

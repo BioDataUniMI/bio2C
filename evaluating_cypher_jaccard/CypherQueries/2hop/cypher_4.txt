@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) RETURN g.Label, m.Label, t.Label

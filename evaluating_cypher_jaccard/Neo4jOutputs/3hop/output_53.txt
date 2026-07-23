@@ -1,0 +1,30 @@
+{
+  "disease": "carcinoma",
+  "phenotype": "Calcification of cartilage",
+  "cancer": "gastric body carcinoma"
+}
+
+{
+  "disease": "carcinoma",
+  "phenotype": "Short stature",
+  "cancer": "gastric body carcinoma"
+}
+
+{
+  "disease": "carcinoma",
+  "phenotype": "Delayed epiphyseal ossification",
+  "cancer": "gastric body carcinoma"
+}
+
+{
+  "disease": "carcinoma",
+  "phenotype": "Abnormal facial shape",
+  "cancer": "gastric body carcinoma"
+}
+
+{
+  "disease": "carcinoma",
+  "phenotype": "Growth delay",
+  "cancer": "gastric body carcinoma"
+}
+

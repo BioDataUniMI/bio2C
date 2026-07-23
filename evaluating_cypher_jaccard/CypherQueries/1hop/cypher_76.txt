@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(c:Cardiovascular_disease) RETURN c.Label AS Disease, m.Label AS miRNA, SIZE(m.Sequence) AS Sequence_length ORDER BY SIZE(m.Sequence) DESC, m.Label ASC LIMIT 3

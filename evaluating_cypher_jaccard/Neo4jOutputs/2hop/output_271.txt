@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-143-3p",
+  "Pre_miRNA": "microRNA hsa-mir-143 precursor"
+}
+
+{
+  "miRNA": "hsa-miR-216a-5p",
+  "Pre_miRNA": "microRNA hsa-mir-216a precursor"
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "Pre_miRNA": "microRNA hsa-mir-29b precursor (hsa-mir-29b-1)"
+}
+
+{
+  "miRNA": "hsa-miR-29b-3p",
+  "Pre_miRNA": "microRNA hsa-mir-29b precursor (hsa-mir-29b-2)"
+}
+
+{
+  "miRNA": "hsa-miR-199a-5p",
+  "Pre_miRNA": "microRNA hsa-mir-199a precursor (hsa-mir-199a-2)"
+}
+

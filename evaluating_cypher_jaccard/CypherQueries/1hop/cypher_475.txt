@@ -1,0 +1,1 @@
+MATCH (cd:Cardiovascular_disease)-[r:disease_has_basis_in_feature]->(d:Disease) WHERE cd.Label ENDS WITH 'cardiomyopathy' RETURN cd.Label, d.Label

@@ -1,0 +1,50 @@
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-1281",
+  "Pre_miRNA": "microRNA hsa-mir-1281 precursor",
+  "InfectiousDisease": "tuberculosis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-149-3p",
+  "Pre_miRNA": "microRNA hsa-mir-149 precursor",
+  "InfectiousDisease": "syphilis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-383-3p",
+  "Pre_miRNA": "microRNA hsa-mir-383 precursor",
+  "InfectiousDisease": "syphilis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNA": "hsa-miR-383-3p",
+  "Pre_miRNA": "microRNA hsa-mir-383 precursor",
+  "InfectiousDisease": "syphilis",
+  "Source": [
+    "HMDD"
+  ]
+}
+
+{
+  "CellularComponent": "microvesicle",
+  "miRNA": "hsa-miR-146a-3p",
+  "Pre_miRNA": "microRNA hsa-mir-146a precursor",
+  "InfectiousDisease": "epidermodysplasia verruciformis",
+  "Source": [
+    "HMDD"
+  ]
+}
+

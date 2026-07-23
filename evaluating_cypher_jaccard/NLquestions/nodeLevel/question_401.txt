@@ -1,0 +1,1 @@
+List all biological processes whose labels contain 'cardiac muscle' but do not contain either the word 'positive' or 'negative'.

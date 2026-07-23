@@ -1,0 +1,1 @@
+Find cardiovascular diseases whose phenotypic features express human miRNAs. Return the disease, the phenotype feature, and miRNA labels.

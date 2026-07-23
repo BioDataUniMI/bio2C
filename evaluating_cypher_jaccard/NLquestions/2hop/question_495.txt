@@ -1,0 +1,1 @@
+Find all genes that cause or contribute to infectious diseases which predispose towards other diseases, excluding genes with any genomic coordinates on chromosome 14 or 4. Return the gene and the infectious disease labels, and the gene's genomic coordinates.

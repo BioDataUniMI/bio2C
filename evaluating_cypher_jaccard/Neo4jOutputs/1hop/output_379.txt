@@ -1,0 +1,32 @@
+{
+  "miRNA": "microRNA hsa-mir-376a precursor (hsa-mir-376a-2)",
+  "GOTerm": "adenosine to inosine editing",
+  "Sources": [
+    "miRBase"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-376b precursor",
+  "GOTerm": "adenosine to inosine editing",
+  "Sources": [
+    "miRBase"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-376c precursor",
+  "GOTerm": "adenosine to inosine editing",
+  "Sources": [
+    "miRBase"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-376a precursor (hsa-mir-376a-1)",
+  "GOTerm": "adenosine to inosine editing",
+  "Sources": [
+    "miRBase"
+  ]
+}
+

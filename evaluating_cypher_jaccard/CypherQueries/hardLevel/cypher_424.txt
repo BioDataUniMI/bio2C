@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(d:Infectious_disease) WHERE d.Label CONTAINS 'toxoplasmosis' RETURN m.Label AS miRNA, ABS(SIZE(m.Sequence) - 22) AS length_deviation ORDER BY length_deviation DESC

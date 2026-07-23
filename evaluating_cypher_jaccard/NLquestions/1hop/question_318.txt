@@ -1,0 +1,1 @@
+Retrieve biological processes without any 'results_in' relationship with any other biological processes and with labels referring to 'alcohol'.

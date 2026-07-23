@@ -1,0 +1,1 @@
+Which human miRNA have sequence exactly 28 nucleotides long? Return only the miRNAs' label, sequence, and URI.

@@ -1,0 +1,25 @@
+{
+  "pre_miRNA": "microRNA hsa-mir-514a precursor (hsa-mir-514a-1)",
+  "miRNA": "microRNA hsa-mir-506 precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-513a precursor (hsa-mir-513a-1)",
+  "miRNA": "microRNA hsa-mir-506 precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-513a precursor (hsa-mir-513a-2)",
+  "miRNA": "microRNA hsa-mir-506 precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-512 precursor (hsa-mir-512-1)",
+  "miRNA": "microRNA hsa-mir-506 precursor"
+}
+
+{
+  "pre_miRNA": "microRNA hsa-mir-509 precursor (hsa-mir-509-2)",
+  "miRNA": "microRNA hsa-mir-506 precursor"
+}
+

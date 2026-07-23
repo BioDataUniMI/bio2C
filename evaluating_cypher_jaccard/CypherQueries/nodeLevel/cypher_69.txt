@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.Label CONTAINS 'myopathy' AND ANY(syn IN p.Synonym WHERE syn CONTAINS 'minicore') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

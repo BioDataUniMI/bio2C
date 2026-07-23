@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'matrix' AND (cc.Description CONTAINS 'extracellular' OR cc.Description CONTAINS 'synaptic cleft') RETURN cc.Label

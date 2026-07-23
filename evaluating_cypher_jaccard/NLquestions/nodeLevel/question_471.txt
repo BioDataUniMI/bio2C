@@ -1,0 +1,1 @@
+Which phenotypes have labels containing the string 'zona pellucida' and descriptions containing either the word 'abnormal' or 'reduced'.

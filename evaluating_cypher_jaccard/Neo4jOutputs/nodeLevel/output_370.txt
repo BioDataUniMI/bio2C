@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "major depressive episode",
+  "d.Description": "the essential feature is a period of at least 2 weeks during which there is either depressed mood..."
+}
+

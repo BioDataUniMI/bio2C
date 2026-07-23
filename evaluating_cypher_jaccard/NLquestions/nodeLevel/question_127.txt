@@ -1,0 +1,1 @@
+List human miRNAs whose labels start with 'hsa-miR-2' and whose sequence length is between 18 and 21 nucleotides.

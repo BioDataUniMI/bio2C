@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "depressed mood episode",
+  "d.URI": "http://purl.obolibrary.org/obo/MFOMD_0000013"
+}
+

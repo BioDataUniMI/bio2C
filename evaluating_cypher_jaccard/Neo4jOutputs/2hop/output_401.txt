@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "silicotuberculosis",
+  "Phenotype": "Delayed skeletal maturation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "acromegaly",
+  "Phenotype": "Accelerated skeletal maturation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "familial Mediterranean fever",
+  "Phenotype": "Delayed skeletal maturation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "Meier-Gorlin syndrome",
+  "Phenotype": "Delayed skeletal maturation"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "Leigh syndrome",
+  "Phenotype": "Abnormality of the skeletal system"
+}
+

@@ -1,0 +1,15 @@
+{
+  "parent_disease": "laminopathy",
+  "gene_count": 19
+}
+
+{
+  "parent_disease": "Emery-Dreifuss muscular dystrophy",
+  "gene_count": 19
+}
+
+{
+  "parent_disease": "X-linked disease",
+  "gene_count": 19
+}
+

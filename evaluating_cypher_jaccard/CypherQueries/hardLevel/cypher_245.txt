@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label: 'hsa-miR-574-5p'})-[:part_of]->(g:GO) WITH m, m.Sequence AS seq, SIZE(m.Sequence) AS seq_length WITH m, seq, seq_length, SIZE([i IN RANGE(0, seq_length-2) WHERE SUBSTRING(seq, i, 2) = 'GU']) AS GU_count RETURN m.Label AS miRNA, seq AS Sequence, ROUND(100.0 * GU_count / (seq_length - 1), 2) AS PercentGU

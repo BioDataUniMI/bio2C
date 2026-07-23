@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:participates_in]->(bp:Biological_process)-[:has_participant]->(mirna:miRNA)-[r:under_expressed_in]->(d:Disease) WHERE r.FDR IS NOT NULL RETURN cc.Label AS CellularComponent, bp.Label AS BiologicalProcess, mirna.Label AS miRNA, d.Label AS Disease, r.FDR AS FDR ORDER BY r.FDR DESC, cc.Label ASC LIMIT 5

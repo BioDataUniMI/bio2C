@@ -1,0 +1,10 @@
+{
+  "bp": {
+    "Description": "the progression of a muscle structure over time, from its formation to its mature state. muscle s...",
+    "Label": "muscle structure development",
+    "ID": "GO:0061061",
+    "Species": "Eumetazoa",
+    "URI": "http://purl.obolibrary.org/obo/GO_0061061"
+  }
+}
+

@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease)-[:disease_has_feature]->(p:Phenotype)-[:phenotype_of]->(c:Cancer) WHERE c.Label CONTAINS 'lipomatosis' RETURN ad.Label AS AutoimmuneDisease, p.Label AS Phenotype, c.Label AS Cancer

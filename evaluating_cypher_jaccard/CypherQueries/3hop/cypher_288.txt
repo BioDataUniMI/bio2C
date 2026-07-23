@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:under_expressed_in]->(ad:Autoimmune_disease{Label:'rheumatoid arthritis'})-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(go:GO) RETURN pre.Label AS Pre_miRNA, p.Label AS Phenotype, go.Label AS GOterm

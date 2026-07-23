@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-125a precursor",
+  "Phenotype": "Dilatation of the cerebral artery"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29a precursor",
+  "Phenotype": "Dilatation of the cerebral artery"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-34a precursor",
+  "Phenotype": "Dilatation of the cerebral artery"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-130a precursor",
+  "Phenotype": "Dilatation of the cerebral artery"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-146a precursor",
+  "Phenotype": "Dilatation of the cerebral artery"
+}
+

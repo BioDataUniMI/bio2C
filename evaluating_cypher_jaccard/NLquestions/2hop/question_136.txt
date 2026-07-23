@@ -1,0 +1,1 @@
+Find pre-miRNAs that develop into miRNAs over-expressed in the cancer labeled as 'meningioma' and whose sequence ends with 'GACA'. Return the pre-miRNA label and miRNA label.

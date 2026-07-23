@@ -1,0 +1,25 @@
+{
+  "GOTerm": "negative regulation of fat cell differentiation",
+  "ParticipationCount": 1
+}
+
+{
+  "GOTerm": "negative regulation of cell differentiation",
+  "ParticipationCount": 1
+}
+
+{
+  "GOTerm": "response to oxygen levels",
+  "ParticipationCount": 1
+}
+
+{
+  "GOTerm": "response to muscle activity",
+  "ParticipationCount": 1
+}
+
+{
+  "GOTerm": "negative regulation of translation",
+  "ParticipationCount": 1
+}
+

@@ -1,0 +1,1 @@
+What are the top 8 cellular components that GO terms have as parts and that are location of the highest amount of distinct miRNAs developed from pre-miRNAs that cause or contribute to the autoimmune disease labeled as 'osteoarthritis'? Return the cellular component label and the count of miRNAs. To avoid ties, order also alphabetically by cellular component label.

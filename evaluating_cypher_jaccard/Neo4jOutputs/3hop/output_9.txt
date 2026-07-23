@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-372-5p",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-182-3p",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-210-5p",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-372-3p",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+
+{
+  "miRNA": "hsa-miR-204-3p",
+  "go_term": "autophagy",
+  "parent_go_term": "catabolic process",
+  "positively_regulating_go": "positive regulation of catabolic process"
+}
+

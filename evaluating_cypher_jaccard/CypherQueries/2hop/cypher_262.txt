@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label: 'hsa-miR-633'})-[:regulates_activity_of]->(g1:Gene)-[:genetically_interacts_with]->(g2:Gene) RETURN g1.Label AS RegulatedGene, g2.Label AS InteractingGene

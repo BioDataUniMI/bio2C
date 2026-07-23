@@ -1,0 +1,1 @@
+Retrieve all phenotypes whose label contains the word 'kinase' and that have at least one synonym containing the word 'chinasi'. Return only the phenotype label and its list of synonyms containing the word 'chinasi'.

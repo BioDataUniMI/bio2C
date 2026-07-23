@@ -1,0 +1,38 @@
+{
+  "PathLabels": [
+    "phoP",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+  ]
+}
+
+{
+  "PathLabels": [
+    "panC",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+  ]
+}
+
+{
+  "PathLabels": [
+    "fadD26",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv"
+  ]
+}
+
+{
+  "PathLabels": [
+    "fadD26",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+    "gene of Mycobacterium tuberculosis H37Rv"
+  ]
+}
+
+{
+  "PathLabels": [
+    "fadD26",
+    "protein-coding gene of Mycobacterium tuberculosis H37Rv",
+    "gene of Mycobacterium tuberculosis H37Rv",
+    "gene of Bacteria"
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Mitochondrial inheritance",
+  "GOTerm": "mitochondrion"
+}
+
+{
+  "Phenotype": "Mitochondrial myopathy",
+  "GOTerm": "mitochondrion"
+}
+
+{
+  "Phenotype": "Mitochondrial encephalopathy",
+  "GOTerm": "mitochondrion"
+}
+
+{
+  "Phenotype": "Abnormal mitochondria in muscle tissue",
+  "GOTerm": "mitochondrion"
+}
+
+{
+  "Phenotype": "Abnormal mitochondrial morphology",
+  "GOTerm": "mitochondrion"
+}
+

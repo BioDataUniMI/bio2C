@@ -1,0 +1,1 @@
+Retrieve pre-miRNAs that develop into miRNAs located in the cellular component labeled as 'postsynapse'. Return the pre-miRNA and the mature miRNA labels.

@@ -1,0 +1,1 @@
+Retrieve the 4 letters from the middle of miRNA sequences that are under-expressed in infectious diseases. Return the miRNA label and the middle 4 letters.

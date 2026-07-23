@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'microRNA hsa-mir-625 precursor'})-[:under_expressed_in]->(d:Disease) RETURN DISTINCT d.ID AS Disease_ID, d.Label AS Disease_label

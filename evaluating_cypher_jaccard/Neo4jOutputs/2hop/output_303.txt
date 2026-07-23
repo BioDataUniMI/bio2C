@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-1)",
+  "miRNA": "hsa-miR-1-3p",
+  "TargetGene": "TH"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-199a precursor (hsa-mir-199a-2)",
+  "miRNA": "hsa-miR-199a-5p",
+  "TargetGene": "KL"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-1 precursor (hsa-mir-1-2)",
+  "miRNA": "hsa-miR-1-3p",
+  "TargetGene": "TH"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-19a precursor",
+  "miRNA": "hsa-miR-19a-3p",
+  "TargetGene": "TF"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-122 precursor",
+  "miRNA": "hsa-miR-122-5p",
+  "TargetGene": "TG"
+}
+

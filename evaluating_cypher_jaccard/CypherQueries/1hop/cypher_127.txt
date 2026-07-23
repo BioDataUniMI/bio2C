@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:participates_in]->(b:Biological_process) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chr14:') RETURN COUNT(r) AS RelationshipCount

@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE m.Label ENDS WITH '-3p' WITH SUBSTRING(m.Label, SIZE(m.Label) - 4, 1) AS lastLetter WHERE lastLetter =~ '[a-zA-Z]' RETURN lastLetter, COUNT(*) AS miRNACount ORDER BY lastLetter

@@ -1,0 +1,1 @@
+Identify miRNAs expressed by cancers that are superclasses of diseases that have the phenotype 'Quadriceps muscle atrophy'. Return the disease label, cancer label, and miRNA label.

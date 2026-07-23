@@ -1,0 +1,25 @@
+{
+  "Disease": "Balo concentric sclerosis",
+  "Description": "tumefactive multiple sclerosis is characterized by a tumor-like lesion larger than two centimeter..."
+}
+
+{
+  "Disease": "intracranial primitive neuroectodermal tumor",
+  "Description": "a primitive neuroectodermal tumor that involves the brain."
+}
+
+{
+  "Disease": "primary non-gestational choriocarcinoma of ovary",
+  "Description": "primary non-gestational choriocarcinoma of ovary is a rare ovarian germ cell malignant tumor, ari..."
+}
+
+{
+  "Disease": "central nervous system hematopoietic neoplasm",
+  "Description": "a primary or metastatic neoplasm of hematopoietic origin that affects the brain, meninges, or spi..."
+}
+
+{
+  "Disease": "empty sella syndrome",
+  "Description": "empty sella syndrome (ess) is a condition that involves the sella turcica, a bony structure at th..."
+}
+

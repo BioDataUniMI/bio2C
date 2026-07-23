@@ -1,0 +1,1 @@
+Return GO terms whose labels contain 'kinase inhibitor' and do not contain 'protein'.

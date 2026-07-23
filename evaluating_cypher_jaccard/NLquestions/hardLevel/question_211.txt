@@ -1,0 +1,1 @@
+Which miRNAs genetically interact with another miRNA that is over-expressed in a cardiovascular disease, where both miRNAs have sequences containing the same number of 'A' nucleotides? Return the interacting miRNA, the over-expressed miRNA, the number of 'A's in both sequences, and the cardiovascular disease.

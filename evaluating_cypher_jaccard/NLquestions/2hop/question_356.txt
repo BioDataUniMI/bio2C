@@ -1,0 +1,1 @@
+Identify miRNAs ending with '3p' that regulate the activity of target genes contributing to diseases with 'neuropathy, congenital hypomyelinating' in their label. Return the miRNA, target gene, and disease labels.

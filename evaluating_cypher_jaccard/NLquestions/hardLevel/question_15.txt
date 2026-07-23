@@ -1,0 +1,1 @@
+Find the top three (pre-miRNA, phenotype) pairs where the pre-miRNA is over-expressed in phenotypes with the highest number of synonyms containing non-latin characters. Return their labels, phenotype labels, the synonyms, and the count of synonyms with non-latin characters. Order alphabetically by phenotype label in case of ties.

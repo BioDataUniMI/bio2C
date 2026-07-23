@@ -1,0 +1,25 @@
+{
+  "mf.Label": "inhibitory extracellular ligand-gated monoatomic ion channel activity",
+  "mf.Synonym": null
+}
+
+{
+  "mf.Label": "extracellular ligand-gated monoatomic ion channel activity",
+  "mf.Synonym": null
+}
+
+{
+  "mf.Label": "ATPase-coupled monoatomic cation transmembrane transporter activity",
+  "mf.Synonym": null
+}
+
+{
+  "mf.Label": "cyclic nucleotide-activated monoatomic ion channel activity",
+  "mf.Synonym": null
+}
+
+{
+  "mf.Label": "glycine betaine-activated nonselective monoatomic cation channel activity",
+  "mf.Synonym": null
+}
+

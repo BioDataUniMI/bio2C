@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->() RETURN AVG(SIZE(m.Sequence)) AS avg_miRNA_length

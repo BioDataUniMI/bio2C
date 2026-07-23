@@ -1,0 +1,27 @@
+{
+  "Gene1": "CXorf49",
+  "Gene2": "LOC101059915",
+  "Gene3": "CXorf49B",
+  "Gene1_Sequence_Length": 3915,
+  "Gene2_Sequence_Length": 3986,
+  "Gene3_Sequence_Length": 3856
+}
+
+{
+  "Gene1": "CXorf49",
+  "Gene2": "CXorf49B",
+  "Gene3": "LOC101059915",
+  "Gene1_Sequence_Length": 3915,
+  "Gene2_Sequence_Length": 3856,
+  "Gene3_Sequence_Length": 3986
+}
+
+{
+  "Gene1": "CXorf49B",
+  "Gene2": "CXorf49",
+  "Gene3": "LOC101059915",
+  "Gene1_Sequence_Length": 3856,
+  "Gene2_Sequence_Length": 3915,
+  "Gene3_Sequence_Length": 3986
+}
+

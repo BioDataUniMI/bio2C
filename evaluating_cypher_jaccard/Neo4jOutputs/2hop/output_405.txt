@@ -1,0 +1,30 @@
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-let-7c-5p"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-let-7e-3p"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-let-7f-5p"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-miR-150-5p"
+}
+
+{
+  "NeurodegenerativeDisease": "Cockayne syndrome",
+  "DisruptedProcess": "nucleotide-excision repair",
+  "miRNA": "hsa-miR-155-3p"
+}
+

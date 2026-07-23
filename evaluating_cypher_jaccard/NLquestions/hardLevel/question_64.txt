@@ -1,0 +1,1 @@
+Given miRNAs that contain 3 'CU' dinucleotide pairs and expressed by the cancer labeled 'breast carcinoma', in which phenotypes are they under-expressed? Return the label of phenotypes and miRNAs.

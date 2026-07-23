@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype) WITH d, COUNT(DISTINCT p) AS PhenotypeCount WHERE PhenotypeCount >= 450 RETURN d.Label AS Disease, PhenotypeCount

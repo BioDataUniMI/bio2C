@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:located_in]->(cc:Cellular_component)-[:part_of]->(go:GO{Label:'nuclear lumen'}) RETURN p.Label AS pre_miRNA, cc.Label AS CellularComponent

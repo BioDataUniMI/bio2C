@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-326",
+  "Sequence_length": 20,
+  "Genomic_coordinates": [
+    "chr11:75335108-75335127-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-101-3p",
+  "Sequence_length": 21,
+  "Genomic_coordinates": [
+    "chr9:4850345-4850365+",
+    "chr1:65058442-65058462-"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-106b-5p",
+  "Sequence_length": 21,
+  "Genomic_coordinates": [
+    "chr7:100094043-100094063-"
+  ]
+}
+

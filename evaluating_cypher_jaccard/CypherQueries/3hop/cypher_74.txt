@@ -1,0 +1,1 @@
+MATCH (mirna:pre_miRNA)-[:has_function]->(go1:GO)-[:has_part]->(mf:Molecular_function), (go1)-[:has_part]->(go2:GO) RETURN mirna.Label AS Pre_miRNA, go1.Label AS GO_Function, mf.Label AS MolecularFunction, go2.Label AS Sub_GO_Term

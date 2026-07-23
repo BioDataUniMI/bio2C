@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-140-5p",
+  "BiologicalProcess": "positive regulation of gene expression"
+}
+
+{
+  "miRNA": "hsa-miR-27b-5p",
+  "BiologicalProcess": "positive regulation of intrinsic apoptotic signaling pathway"
+}
+
+{
+  "miRNA": "hsa-miR-206",
+  "BiologicalProcess": "positive regulation of gene expression"
+}
+
+{
+  "miRNA": "hsa-miR-144-3p",
+  "BiologicalProcess": "positive regulation of gene expression"
+}
+
+{
+  "miRNA": "hsa-miR-144-3p",
+  "BiologicalProcess": "positive regulation of cell adhesion molecule production"
+}
+

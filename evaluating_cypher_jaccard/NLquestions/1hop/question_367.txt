@@ -1,0 +1,1 @@
+List miRNAs transcribed from genes of at least 150 nt long.

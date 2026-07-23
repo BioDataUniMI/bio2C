@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:has_function]->(bp:Biological_process)-[:regulated_by]->(go:GO {Label:'regulation of ossification'}) RETURN g.Label AS gene, pre.Label AS precursor_miRNA, bp.Label AS biological_process

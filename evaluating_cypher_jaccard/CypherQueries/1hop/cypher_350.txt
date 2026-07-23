@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:occurs_in]->(cc:Cellular_component) WHERE cc.Label CONTAINS 'membrane' RETURN go.Label AS GOTerm, cc.Label AS CellularComponent

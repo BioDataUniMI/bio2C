@@ -1,0 +1,6 @@
+{
+  "g.Label": "membrane attack complex",
+  "bp.Label": "complement-dependent cytotoxicity",
+  "bp.Description": "cell killing caused by the membrane attack complex formed following complement activation."
+}
+

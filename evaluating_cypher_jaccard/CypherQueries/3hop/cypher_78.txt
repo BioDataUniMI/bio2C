@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component)-[:has_part]->(mirna:miRNA)-[:develops_from]->(premirna:pre_miRNA)-[r:under_expressed_in]->(bp:Biological_process {Label:'inflammatory response'}) RETURN cc.Label AS CellularComponent, mirna.Label AS miRNA, premirna.Label AS Pre_miRNA, r.PubMedID AS PubMedID

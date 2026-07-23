@@ -1,0 +1,4 @@
+{
+  "average_gene_length": 55.6
+}
+

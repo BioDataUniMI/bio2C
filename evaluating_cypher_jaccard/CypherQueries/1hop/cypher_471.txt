@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process)-[:has_target_start_location]->(cc:Cellular_component {Label: 'cytosol'}) WHERE bp.Description CONTAINS 'carbon' RETURN bp.Label, bp.Description

@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "meiotic cell cycle",
+  "LocationGO": "extracellular exosome",
+  "MinMiRNACount": 1
+}
+
+{
+  "BiologicalProcess": "positive regulation of fat cell differentiation",
+  "LocationGO": "extracellular exosome",
+  "MinMiRNACount": 1
+}
+
+{
+  "BiologicalProcess": "ribonucleoprotein complex assembly",
+  "LocationGO": "extracellular exosome",
+  "MinMiRNACount": 1
+}
+
+{
+  "BiologicalProcess": "positive regulation of artery morphogenesis",
+  "LocationGO": "extracellular exosome",
+  "MinMiRNACount": 1
+}
+
+{
+  "BiologicalProcess": "genomic imprinting",
+  "LocationGO": "extracellular exosome",
+  "MinMiRNACount": 1
+}
+

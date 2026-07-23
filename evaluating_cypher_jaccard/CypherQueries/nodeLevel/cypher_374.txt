@@ -1,0 +1,1 @@
+MATCH (i:Infectious_disease) WHERE i.Label CONTAINS 'tuberculosis' AND i:Cardiovascular_disease RETURN i.Label AS DiseaseLabeltuberculosis, labels(i)

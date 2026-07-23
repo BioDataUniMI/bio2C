@@ -1,0 +1,9 @@
+{
+  "GO_Term": "glutamate-gated receptor activity",
+  "BiologicalProcess": "ionotropic glutamate receptor signaling pathway",
+  "miRNA": "hsa-miR-124-3p",
+  "Source": [
+    "miRPathDB"
+  ]
+}
+

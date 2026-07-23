@@ -1,0 +1,1 @@
+Find the infectious diseases that have miRNAs under-expressed containing fewer than 5 'A' nucleotides in their sequence. Return the disease label, miRNA label, and the number of 'A' nucleotides.

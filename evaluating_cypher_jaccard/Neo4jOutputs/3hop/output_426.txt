@@ -1,0 +1,35 @@
+{
+  "Phenotype": "Abnormal aortic valve morphology",
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation",
+  "miRNA": "hsa-miR-125a-5p"
+}
+
+{
+  "Phenotype": "Abnormal aortic valve morphology",
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation",
+  "miRNA": "hsa-miR-105-5p"
+}
+
+{
+  "Phenotype": "Abnormal aortic valve morphology",
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation",
+  "miRNA": "hsa-miR-33a-5p"
+}
+
+{
+  "Phenotype": "Abnormal aortic valve morphology",
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation",
+  "miRNA": "hsa-miR-144-3p"
+}
+
+{
+  "Phenotype": "Abnormal aortic valve morphology",
+  "Disease": "carnitine palmitoyl transferase 1A deficiency",
+  "BiologicalProcess": "fatty acid oxidation",
+  "miRNA": "hsa-miR-302b-3p"
+}
+

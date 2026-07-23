@@ -1,0 +1,1 @@
+Which miRNAs characterized by a label ending with '5p' and whose sequence ends with 'GGG' show altered expression in disorders whose label contains 'pancreatic' and that have other diseases as features? Return the distinct labels for the miRNAs, the pancreatic diseases, and the featured diseases.

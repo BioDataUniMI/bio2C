@@ -1,0 +1,100 @@
+{
+  "miRNA": "hsa-miR-145-5p",
+  "SequenceLength": 23,
+  "GeneLabels": [
+    "ONECUT2",
+    "VEGFA",
+    "TPT1",
+    "TLR4",
+    "TGFBR2",
+    "BRAF",
+    "SOX2",
+    "BNIP3",
+    "TIRAP",
+    "CDKN1A",
+    "SCHLAP1"
+  ],
+  "Disease": "prostate cancer, hereditary",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "SequenceLength": 23,
+  "GeneLabels": [
+    "ONECUT2",
+    "VEGFA",
+    "TPT1",
+    "TLR4",
+    "TGFBR2",
+    "BRAF",
+    "SOX2",
+    "BNIP3",
+    "TIRAP",
+    "CDKN1A",
+    "SCHLAP1"
+  ],
+  "Disease": "familial prostate carcinoma",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "SequenceLength": 23,
+  "GeneLabels": [
+    "ONECUT2",
+    "VEGFA",
+    "TPT1",
+    "TLR4",
+    "TGFBR2",
+    "BRAF",
+    "SOX2",
+    "BNIP3",
+    "TIRAP",
+    "CDKN1A",
+    "SCHLAP1"
+  ],
+  "Disease": "prostate neoplasm",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "SequenceLength": 23,
+  "GeneLabels": [
+    "ONECUT2",
+    "VEGFA",
+    "TPT1",
+    "TLR4",
+    "TGFBR2",
+    "BRAF",
+    "SOX2",
+    "BNIP3",
+    "TIRAP",
+    "CDKN1A",
+    "SCHLAP1"
+  ],
+  "Disease": "prostate cancer, hereditary, 13",
+  "mediatorGenes": 11
+}
+
+{
+  "miRNA": "hsa-miR-145-5p",
+  "SequenceLength": 23,
+  "GeneLabels": [
+    "ONECUT2",
+    "VEGFA",
+    "TPT1",
+    "TLR4",
+    "TGFBR2",
+    "BRAF",
+    "SOX2",
+    "BNIP3",
+    "TIRAP",
+    "CDKN1A",
+    "SCHLAP1"
+  ],
+  "Disease": "prostate cancer, hereditary, 12",
+  "mediatorGenes": 11
+}
+

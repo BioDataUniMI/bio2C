@@ -1,0 +1,1 @@
+Retrieve the top 5 miRNA-biological process pairs where the miRNA is under-expressed in the biological process and has the longest sequence length, breaking ties by miRNA label alphabetically. Return the process label, miRNA label, miRNA sequence, and sequence length.

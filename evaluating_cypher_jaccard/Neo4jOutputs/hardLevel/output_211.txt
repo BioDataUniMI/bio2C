@@ -1,0 +1,24 @@
+{
+  "miRNA": "microRNA hsa-mir-497 precursor",
+  "Parent_miRNA": "microRNA hsa-mir-195 precursor",
+  "num_A_miRNA": 19,
+  "num_A_parent": 19,
+  "CardiovascularDisease": "congestive heart failure"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-199a precursor (hsa-mir-199a-2)",
+  "Parent_miRNA": "microRNA hsa-mir-214 precursor",
+  "num_A_miRNA": 25,
+  "num_A_parent": 25,
+  "CardiovascularDisease": "myocardial infarction"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-497 precursor",
+  "Parent_miRNA": "microRNA hsa-mir-195 precursor",
+  "num_A_miRNA": 19,
+  "num_A_parent": 19,
+  "CardiovascularDisease": "heart failure"
+}
+

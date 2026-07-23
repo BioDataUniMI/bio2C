@@ -1,0 +1,9 @@
+{
+  "DiseaseLabel": "STAT3-related early-onset multisystem autoimmune disease",
+  "Classifications": [
+    "Disease",
+    "Cancer",
+    "Autoimmune_disease"
+  ]
+}
+

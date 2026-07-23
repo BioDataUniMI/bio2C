@@ -1,0 +1,1 @@
+Find Homo sapiens miRNAs starting with 'hsa-miR-1' whose sequences end with 'AAA'.

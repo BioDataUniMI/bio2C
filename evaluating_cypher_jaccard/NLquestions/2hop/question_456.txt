@@ -1,0 +1,1 @@
+Identify miRNAs whose sequence ends with 'AAU' that regulate the activity of the gene 'BUB1', and also retrieve the diseases caused or contributed to by that gene.

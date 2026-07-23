@@ -1,0 +1,1 @@
+MATCH (a:Molecular_function)-[r]->(b:Molecular_function) WHERE TYPE(r) CONTAINS 'regulated' WITH CASE WHEN TYPE(r) STARTS WITH 'directly_' THEN 'direct' ELSE 'indirect' END AS regulation_scope, TYPE(r) AS relationship_type RETURN regulation_scope, relationship_type, COUNT(*) AS total ORDER BY regulation_scope, total DESC

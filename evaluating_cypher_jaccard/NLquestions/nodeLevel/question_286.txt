@@ -1,0 +1,1 @@
+Which gene has the longest label (ignoring null or empty labels)? In case of ties, select the gene alphabetically.

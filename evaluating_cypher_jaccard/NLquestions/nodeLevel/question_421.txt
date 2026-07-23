@@ -1,0 +1,1 @@
+Find all GO terms whose labels contain 'regulation' and whose descriptions contain 'antiviral response'.

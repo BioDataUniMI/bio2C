@@ -1,0 +1,25 @@
+{
+  "bp.Label": "cellular response to nitrogen starvation",
+  "bp.ID": "GO:0006995"
+}
+
+{
+  "bp.Label": "induction of conjugation upon nitrogen starvation",
+  "bp.ID": "GO:0031142"
+}
+
+{
+  "bp.Label": "regulation of induction of conjugation upon nitrogen starvation",
+  "bp.ID": "GO:0060905"
+}
+
+{
+  "bp.Label": "L-lysine import into vacuole involved in cellular response to nitrogen starvation",
+  "bp.ID": "GO:1901482"
+}
+
+{
+  "bp.Label": "negative regulation of cellular response to nitrogen starvation",
+  "bp.ID": "GO:0010516"
+}
+

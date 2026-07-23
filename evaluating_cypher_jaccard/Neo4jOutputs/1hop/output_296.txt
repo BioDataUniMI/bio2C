@@ -1,0 +1,10 @@
+{
+  "CellularComponent": "protein-lipid complex",
+  "SharedMiRNAs": 1
+}
+
+{
+  "CellularComponent": "lipid droplet",
+  "SharedMiRNAs": 2
+}
+

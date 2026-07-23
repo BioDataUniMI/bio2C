@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Label:'microRNA hsa-mir-363 precursor'})-[:causes_or_contributes_to_condition]->(p1:Phenotype)-[:part_of]->(p2:Phenotype)-[:part_of]->(p3:Phenotype)-[:has_modifier]->(p4:Phenotype) RETURN p1.Label AS phenotype, p2.Label AS parent_phenotype, p3.Label AS grandparent_phenotype, p4.Label AS modifier_phenotype

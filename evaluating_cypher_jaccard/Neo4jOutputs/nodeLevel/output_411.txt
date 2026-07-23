@@ -1,0 +1,20 @@
+{
+  "bp.Label": "epidermal growth factor catabolic process"
+}
+
+{
+  "bp.Label": "hormone catabolic process"
+}
+
+{
+  "bp.Label": "negative regulation of low-density lipoprotein particle receptor catabolic process"
+}
+
+{
+  "bp.Label": "receptor metabolic process"
+}
+
+{
+  "bp.Label": "bacteriocin catabolic process"
+}
+

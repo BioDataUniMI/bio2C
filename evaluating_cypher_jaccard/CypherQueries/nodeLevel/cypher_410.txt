@@ -1,0 +1,1 @@
+MATCH (bp:Biological_process) WHERE bp.Description CONTAINS 'progression of the cell' OR bp.Description CONTAINS 'death of the cell' RETURN bp.Label, bp.ID

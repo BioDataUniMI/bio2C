@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-1302",
+  "nPreMiRNAs": 8
+}
+
+{
+  "miRNA": "hsa-miR-520c-5p",
+  "nPreMiRNAs": 4
+}
+
+{
+  "miRNA": "hsa-miR-548f-3p",
+  "nPreMiRNAs": 5
+}
+
+{
+  "miRNA": "hsa-miR-548i",
+  "nPreMiRNAs": 4
+}
+
+{
+  "miRNA": "hsa-miR-516b-3p",
+  "nPreMiRNAs": 4
+}
+

@@ -1,0 +1,1 @@
+Identify diseases whose label contains the string 'vitamin D' that are caused or contributed to by genes regulated by miRNAs. Return the miRNA, gene, and disease labels.

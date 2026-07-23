@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-541-5p",
+  "Sequence": "AAAGGAUUCUGCUGUCGGUCCCACU"
+}
+
+{
+  "miRNA": "hsa-miR-449c-5p",
+  "Sequence": "UAGGCAGUGUAUUGCUAGCGGCUGU"
+}
+
+{
+  "miRNA": "hsa-miR-519d-5p",
+  "Sequence": "CCUCCAAAGGGAAGCGCUUUCUGUU"
+}
+
+{
+  "miRNA": "hsa-miR-3180-5p",
+  "Sequence": "CUUCCAGACGCUCCGCCCCACGUCG"
+}
+
+{
+  "miRNA": "hsa-miR-3189-5p",
+  "Sequence": "UGCCCCAUCUGUGCCCUGGGUAGGA"
+}
+

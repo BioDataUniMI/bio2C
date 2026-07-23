@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-593 precursor",
+  "miRNA": "hsa-miR-593-3p",
+  "FDR": 0.006079534
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-888 precursor",
+  "miRNA": "hsa-miR-888-5p",
+  "FDR": 0.000265699
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-892b precursor",
+  "miRNA": "hsa-miR-892b",
+  "FDR": 0.006656435
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-553 precursor",
+  "miRNA": "hsa-miR-553",
+  "FDR": 5.33e-05
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-193a precursor",
+  "miRNA": "hsa-miR-193a-3p",
+  "FDR": 1.1e-07
+}
+

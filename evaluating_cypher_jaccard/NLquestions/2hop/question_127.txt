@@ -1,0 +1,1 @@
+Find cancers that express miRNAs participating in GO terms whose label contains the word 'cytokine'. Return the label of: the cancer, the miRNA, and the GO term labels.

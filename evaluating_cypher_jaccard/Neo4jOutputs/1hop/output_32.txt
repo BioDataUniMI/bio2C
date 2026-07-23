@@ -1,0 +1,25 @@
+{
+  "Disease_ID": "MONDO:0100342",
+  "Disease_label": "malignant glioma"
+}
+
+{
+  "Disease_ID": "MONDO:0024331",
+  "Disease_label": "colorectal carcinoma"
+}
+
+{
+  "Disease_ID": "MONDO:0021042",
+  "Disease_label": "glioma"
+}
+
+{
+  "Disease_ID": "MONDO:0007256",
+  "Disease_label": "hepatocellular carcinoma"
+}
+
+{
+  "Disease_ID": "MONDO:0007254",
+  "Disease_label": "breast cancer"
+}
+

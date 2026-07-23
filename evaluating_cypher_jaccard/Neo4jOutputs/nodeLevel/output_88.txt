@@ -1,0 +1,12 @@
+{
+  "miRNA": "hsa-miR-198"
+}
+
+{
+  "miRNA": "hsa-miR-1972"
+}
+
+{
+  "miRNA": "hsa-miR-1913"
+}
+

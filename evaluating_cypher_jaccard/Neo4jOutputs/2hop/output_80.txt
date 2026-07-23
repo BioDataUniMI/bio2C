@@ -1,0 +1,15 @@
+{
+  "Disease": "congestive heart failure",
+  "Num_miRNAs": 140
+}
+
+{
+  "Disease": "heart failure",
+  "Num_miRNAs": 140
+}
+
+{
+  "Disease": "congenital heart disease",
+  "Num_miRNAs": 94
+}
+

@@ -1,0 +1,30 @@
+{
+  "Disease": "hand, foot and mouth disease",
+  "miRNA": "hsa-miR-93-3p",
+  "Number_of_A": 4
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4304",
+  "Number_of_A": 3
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4285",
+  "Number_of_A": 3
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4300",
+  "Number_of_A": 3
+}
+
+{
+  "Disease": "Kaposi's sarcoma",
+  "miRNA": "hsa-miR-4283",
+  "Number_of_A": 2
+}
+

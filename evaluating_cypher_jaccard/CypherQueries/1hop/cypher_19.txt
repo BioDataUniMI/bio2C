@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') AND NONE(coord IN p.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN m.Label AS miRNA, p.Label AS pre_miRNA, m.Genomic_coordinates AS miRNA_coords, p.Genomic_coordinates AS pre_miRNA_coords

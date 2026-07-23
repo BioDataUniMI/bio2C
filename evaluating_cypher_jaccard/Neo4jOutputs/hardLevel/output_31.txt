@@ -1,0 +1,40 @@
+{
+  "Gene1": "CT47A12",
+  "Gene2": "CT47C1",
+  "Gene1_Length": 2052,
+  "Gene2_Length": 3773,
+  "Length_Difference": 1721
+}
+
+{
+  "Gene1": "CT47A12",
+  "Gene2": "CT47A10",
+  "Gene1_Length": 2052,
+  "Gene2_Length": 3323,
+  "Length_Difference": 1271
+}
+
+{
+  "Gene1": "CT47A12",
+  "Gene2": "CT47A9",
+  "Gene1_Length": 2052,
+  "Gene2_Length": 3323,
+  "Length_Difference": 1271
+}
+
+{
+  "Gene1": "CT47A12",
+  "Gene2": "CT47A8",
+  "Gene1_Length": 2052,
+  "Gene2_Length": 3323,
+  "Length_Difference": 1271
+}
+
+{
+  "Gene1": "CT47A12",
+  "Gene2": "CT47A5",
+  "Gene1_Length": 2052,
+  "Gene2_Length": 3323,
+  "Length_Difference": 1271
+}
+

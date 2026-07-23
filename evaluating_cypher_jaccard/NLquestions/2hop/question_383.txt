@@ -1,0 +1,1 @@
+Identify pre-miRNAs that develop into mature miRNAs which cause or contribute to diseases with labels containing 'gallbladder'. Return the pre-miRNA, mature miRNA, and disease labels.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Breast carcinoma'}) ,(parent:Phenotype)-[:subclassof*]->(p) RETURN parent.Label AS Parent

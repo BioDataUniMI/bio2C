@@ -1,0 +1,40 @@
+{
+  "Gene1": "ARPC4-TTLL3",
+  "Gene2": "NBPF10",
+  "Gene1_Length": 42320,
+  "Gene2_Length": 164290,
+  "Length_Difference": 121970
+}
+
+{
+  "Gene1": "MSANTD3-TMEFF1",
+  "Gene2": "SLCO1B3-SLCO1B7",
+  "Gene1_Length": 135366,
+  "Gene2_Length": 274572,
+  "Length_Difference": 139206
+}
+
+{
+  "Gene1": "POC1B-GALNT4",
+  "Gene2": "LY75-CD302",
+  "Gene1_Length": 6855,
+  "Gene2_Length": 132860,
+  "Length_Difference": 126005
+}
+
+{
+  "Gene1": "ZNF816-ZNF321P",
+  "Gene2": "ZNF717",
+  "Gene1_Length": 34349,
+  "Gene2_Length": 106924,
+  "Length_Difference": 72575
+}
+
+{
+  "Gene1": "ZNF816-ZNF321P",
+  "Gene2": "RBAK-RBAKDN",
+  "Gene1_Length": 34349,
+  "Gene2_Length": 89504,
+  "Length_Difference": 55155
+}
+

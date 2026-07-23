@@ -1,0 +1,45 @@
+{
+  "Gene": "MIR625",
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "Mature_miRNA": "hsa-miR-625-3p",
+  "RelationSource": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR625",
+  "Pre_miRNA": "microRNA hsa-mir-625 precursor",
+  "Mature_miRNA": "hsa-miR-625-5p",
+  "RelationSource": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR629",
+  "Pre_miRNA": "microRNA hsa-mir-629 precursor",
+  "Mature_miRNA": "hsa-miR-629-3p",
+  "RelationSource": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR629",
+  "Pre_miRNA": "microRNA hsa-mir-629 precursor",
+  "Mature_miRNA": "hsa-miR-629-5p",
+  "RelationSource": [
+    "Ensembl"
+  ]
+}
+
+{
+  "Gene": "MIR628",
+  "Pre_miRNA": "microRNA hsa-mir-628 precursor",
+  "Mature_miRNA": "hsa-miR-628-3p",
+  "RelationSource": [
+    "Ensembl"
+  ]
+}
+

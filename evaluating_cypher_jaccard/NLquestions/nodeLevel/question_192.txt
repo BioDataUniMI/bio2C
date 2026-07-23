@@ -1,0 +1,1 @@
+Find all the diseases whose labels contain 'valgus syndrome'. Return all the node properties (i.e., the entire nodes).

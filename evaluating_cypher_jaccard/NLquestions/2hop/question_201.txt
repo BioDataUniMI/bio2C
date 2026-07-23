@@ -1,0 +1,1 @@
+Identify phenotypes with label containing the word 'hair' that are phenotypes of diseases whose label contains the word 'gland' and that are subclasses of cancers. Report the corresponding phenotypes, diseases, and parent cancers labels

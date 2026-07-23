@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:over_expressed_in]->(c:Cancer) WHERE r.TANRIC_score IS NOT NULL RETURN c.Label AS Cancer, AVG(r.TANRIC_score) AS avg_TANRIC_score ORDER BY avg_TANRIC_score DESC

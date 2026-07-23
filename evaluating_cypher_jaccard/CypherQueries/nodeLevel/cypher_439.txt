@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE  mf.Label =~ '.*\bgene\b.*' RETURN mf.Label

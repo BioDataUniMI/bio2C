@@ -1,0 +1,30 @@
+{
+  "BiologicalProcess": "neuron projection extension",
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "BiologicalProcess": "neuron projection morphogenesis",
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "BiologicalProcess": "generation of neurons",
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "BiologicalProcess": "cell morphogenesis involved in neuron differentiation",
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "BiologicalProcess": "neuron development",
+  "miRNA": "hsa-miR-483-5p",
+  "Cancer": "carcinoma of liver and intrahepatic biliary tract"
+}
+

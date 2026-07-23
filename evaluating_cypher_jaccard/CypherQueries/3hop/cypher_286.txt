@@ -1,0 +1,1 @@
+MATCH (g:Gene {Label: 'CD9'})<-[:regulates_activity_of]-(m:miRNA)-[:causes_or_contributes_to_condition]->(d:Disease)-[:has_phenotype]->(p:Phenotype {Label: 'Pulmonary sequestration'}) RETURN d.Label AS Disease, g.Label AS Gene, m.Label AS miRNA, p.Label AS Phenotype

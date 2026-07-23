@@ -1,0 +1,35 @@
+{
+  "MolecularFunctionLabel": "cadherin binding involved in cell-cell adhesion",
+  "MolecularFunctionDescription": "any cadherin binding that occurs as part of the process of cell-cell adhesion.",
+  "BiologicalProcess": "cell-cell adhesion",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "MolecularFunctionLabel": "cell-cell adhesion mediator activity",
+  "MolecularFunctionDescription": "the binding by a cell-adhesion protein on the cell surface to an extracellular matrix component, ...",
+  "BiologicalProcess": "cell-cell adhesion",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "MolecularFunctionLabel": "cyclin-dependent protein kinase activity",
+  "MolecularFunctionDescription": "cyclin-dependent catalysis of the phosphorylation of an amino acid residue in a protein, usually ...",
+  "BiologicalProcess": "regulation of cell cycle",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "MolecularFunctionLabel": "translation repressor activity",
+  "MolecularFunctionDescription": "antagonizes ribosome-mediated translation of mrna into a polypeptide.",
+  "BiologicalProcess": "negative regulation of translation",
+  "miRNA": "hsa-let-7a-5p"
+}
+
+{
+  "MolecularFunctionLabel": "small RNA binding translational repressor activity",
+  "MolecularFunctionDescription": "a translational repressor activity that binds to a single-stranded small regulatory rna (either a...",
+  "BiologicalProcess": "post-transcriptional gene silencing",
+  "miRNA": "hsa-let-7a-5p"
+}
+

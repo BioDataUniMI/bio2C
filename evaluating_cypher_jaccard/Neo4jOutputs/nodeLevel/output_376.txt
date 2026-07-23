@@ -1,0 +1,25 @@
+{
+  "DiseaseLabel": "Kunjin virus infectous disease",
+  "i.ID": "MONDO:0000273"
+}
+
+{
+  "DiseaseLabel": "screw worm infectious disease",
+  "i.ID": "MONDO:0005954"
+}
+
+{
+  "DiseaseLabel": "mosquito-borne viral encephalitis",
+  "i.ID": "MONDO:0020601"
+}
+
+{
+  "DiseaseLabel": "chikungunya",
+  "i.ID": "MONDO:0017941"
+}
+
+{
+  "DiseaseLabel": "onchocerciasis",
+  "i.ID": "MONDO:0017137"
+}
+

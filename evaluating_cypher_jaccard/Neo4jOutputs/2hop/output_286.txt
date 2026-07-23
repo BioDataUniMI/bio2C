@@ -1,0 +1,30 @@
+{
+  "GOterm": "transcription by RNA polymerase II",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter",
+  "miRNA": "hsa-miR-298"
+}
+
+{
+  "GOterm": "transcription by RNA polymerase II",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter",
+  "miRNA": "hsa-miR-518c-3p"
+}
+
+{
+  "GOterm": "transcription by RNA polymerase II",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter",
+  "miRNA": "hsa-miR-613"
+}
+
+{
+  "GOterm": "transcription by RNA polymerase II",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter",
+  "miRNA": "hsa-miR-195-5p"
+}
+
+{
+  "GOterm": "transcription by RNA polymerase II",
+  "BiologicalProcess": "transcription initiation at RNA polymerase II promoter",
+  "miRNA": "hsa-miR-10b-5p"
+}
+

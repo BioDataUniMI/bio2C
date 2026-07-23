@@ -1,0 +1,1 @@
+Identify GO terms disrupted by diseases whose label contains the word 'puberty' and are caused or contributed to by genes. Return the disease and GO term labels.

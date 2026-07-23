@@ -1,0 +1,1 @@
+Among cellular components whose label contains 'membrane' and that have at least one miRNA located in them, which cellular component(s) are part of the highest number of distinct GO terms (including ties)? Return the cellular component label and the number of associated GO terms.

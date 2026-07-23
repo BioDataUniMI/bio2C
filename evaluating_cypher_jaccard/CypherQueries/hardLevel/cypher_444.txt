@@ -1,0 +1,1 @@
+MATCH (g:Gene) WITH g, SUBSTRING(g.Sequence, toInteger(SIZE(g.Sequence) * 0.3), SIZE(g.Sequence)) AS last70pct WITH last70pct, COLLECT(DISTINCT g.Label) AS genes WHERE SIZE(genes) > 1 RETURN genes 

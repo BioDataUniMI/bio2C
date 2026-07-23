@@ -1,0 +1,1 @@
+Which miRNAs share the same last 60% of their sequence with at least one other miRNA? Return the groups of miRNAs that share an identical last-60% sequence segment.

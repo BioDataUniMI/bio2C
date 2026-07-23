@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-4286 precursor",
+  "NeurodegenerativeDisease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-365b precursor",
+  "NeurodegenerativeDisease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4449 precursor",
+  "NeurodegenerativeDisease": "Alzheimer disease"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-4286 precursor",
+  "NeurodegenerativeDisease": "Alzheimer disease type 1"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-365b precursor",
+  "NeurodegenerativeDisease": "Alzheimer disease type 1"
+}
+

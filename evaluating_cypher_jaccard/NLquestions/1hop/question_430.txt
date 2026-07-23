@@ -1,0 +1,1 @@
+List miRNAs: 1) whose labels start with 'hsa-miR-2'; 2) whose sequence length is exactly 20 nucleotides; and 3) that cause or contribute to any infectious disease. Return the miRNA and disease labels and the evidence sources.

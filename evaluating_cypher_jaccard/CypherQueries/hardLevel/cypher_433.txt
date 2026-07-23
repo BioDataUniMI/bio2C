@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:over_expressed_in]->(c:Cancer) WHERE r.TANRIC_score > 0.2 RETURN c.Label AS Cancer, COUNT(r) AS nPreMiRNAs ORDER BY nPreMiRNAs DESC

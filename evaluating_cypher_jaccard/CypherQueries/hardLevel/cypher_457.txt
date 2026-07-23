@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:is_causal_germline_mutation_in]->(d:Disease) WITH m, COUNT(DISTINCT d) AS diseaseCount ORDER BY diseaseCount DESC LIMIT 20 MATCH (m)-[:is_causal_germline_mutation_in]->(d:Disease) RETURN m.Label AS miRNA, diseaseCount, COLLECT(DISTINCT d.Label) AS diseases ORDER BY diseaseCount DESC

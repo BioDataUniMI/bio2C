@@ -1,0 +1,1 @@
+Are diseases more frequently associated with miRNA over-expression or under-expression, based on the number of distinct miRNAs linked through each expression relationship? Return the expression type and the number of distinct miRNAs associated with each.

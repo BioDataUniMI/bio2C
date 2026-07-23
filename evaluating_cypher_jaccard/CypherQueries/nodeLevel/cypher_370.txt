@@ -1,0 +1,1 @@
+MATCH (d:Mental_disease) WHERE d.Description CONTAINS 'mood' AND NOT d.Label CONTAINS 'mood' RETURN d.Label AS DiseaseLabel, d.Description

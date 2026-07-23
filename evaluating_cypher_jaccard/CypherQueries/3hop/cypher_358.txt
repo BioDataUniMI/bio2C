@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) WHERE t.Label =~ '.*[0-9]{3}$' RETURN COUNT(DISTINCT g) AS RegulatingGeneCount

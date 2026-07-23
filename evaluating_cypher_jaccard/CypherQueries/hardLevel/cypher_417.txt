@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:has_function]->(b:Biological_process) WHERE toLower(b.Label) CONTAINS 'bone regeneration' WITH m, 100.0 * SIZE([n IN SPLIT(m.Sequence, '') WHERE n IN ['A','G']]) / SIZE(m.Sequence) AS purine_content_percentage RETURN m.Label AS miRNA, purine_content_percentage ORDER BY purine_content_percentage DESC

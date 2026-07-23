@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-1302",
+  "nCoords": 11
+}
+
+{
+  "miRNA": "microRNA hsa-mir-6724 precursor (hsa-mir-6724 1 to 4)",
+  "nCoords": 8
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1302 precursor (hsa-mir-1302-2%2C hsa-mir-1302 9 to 11)",
+  "nCoords": 6
+}
+
+{
+  "miRNA": "hsa-miR-519c-5p",
+  "nCoords": 6
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1244 precursor (hsa-mir-1244 1 to 4)",
+  "nCoords": 6
+}
+

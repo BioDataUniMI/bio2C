@@ -1,0 +1,1 @@
+Return the 5 records with the lowest FDR where a miRNA is under-expressed in a cancer and regulates the activity of a gene, showing the cancer label, miRNA label, gene label, and FDR, if multiple records have the same FDR, break ties by sorting alphabetically by Gene label.

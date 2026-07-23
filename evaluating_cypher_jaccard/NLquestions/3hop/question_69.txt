@@ -1,0 +1,1 @@
+Identify the cellular components that are primary inputs to the Gene Ontology (GO) term labeled 'axon guidance' and are subclasses of other cellular components. Moreover, select biological processes that are subclasses of 'axon guidance'. Return the biological process label, the cellular component label, and the parent cellular component label.

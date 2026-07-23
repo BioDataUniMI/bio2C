@@ -1,0 +1,1 @@
+Return the PubMed IDs supporting miRNA-regulates activity of->'KLF4' gene relationships.

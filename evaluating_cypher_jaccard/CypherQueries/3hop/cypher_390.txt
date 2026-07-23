@@ -1,0 +1,1 @@
+MATCH (pm1:pre_miRNA)-[:develops_into]->(m:miRNA)-[:interacts_with]->(pm2:pre_miRNA)-[:transcribed_from]->(g:Gene) RETURN pm1.Label AS Precursor, m.Label AS Mature_miRNA, pm2.Label AS InteractingPrecursor, g.Label AS Gene

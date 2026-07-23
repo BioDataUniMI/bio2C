@@ -1,0 +1,20 @@
+{
+  "GOterm": "symbiont-mediated activation of host apoptosis"
+}
+
+{
+  "GOterm": "positive regulation of execution phase of apoptosis"
+}
+
+{
+  "GOterm": "regulation of execution phase of apoptosis"
+}
+
+{
+  "GOterm": "symbiont-mediated perturbation of host apoptosis"
+}
+
+{
+  "GOterm": "negative regulation of execution phase of apoptosis"
+}
+

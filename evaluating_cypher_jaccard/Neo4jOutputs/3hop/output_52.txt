@@ -1,0 +1,6 @@
+{
+  "cancer": "keratoacanthoma",
+  "related_cancer": "squamous cell carcinoma",
+  "parent_disease": "carcinoma"
+}
+

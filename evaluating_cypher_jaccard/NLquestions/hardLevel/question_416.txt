@@ -1,0 +1,1 @@
+Do miRNAs that act upstream of or within biological processes whose label contains 'leukocyte' show a biased composition toward G or C, where the bias is measured as GC skew defined as (COUNT(G) - COUNT(C)) / (COUNT(G) + COUNT(C))? Return each miRNA label and its GC skew value, sorted by GC skew in descending order.

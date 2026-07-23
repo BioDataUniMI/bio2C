@@ -1,0 +1,1 @@
+Find miRNAs with the maximum number of 'U' nucleotides in their sequence. Return the miRNA label, sequence, and the count of 'U's.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:enables]->(mf:Molecular_function) WHERE m.Label ENDS WITH 'b-3p' RETURN DISTINCT m.Label AS miRNA, mf.Label AS MolecularFunction, r.Source AS Sources

@@ -1,0 +1,1 @@
+Find all paths of length 2 between genes such that all genes in each path are distinct, all interactions along the path have a 'GeneMANIA_weight' greater than 0.002, and the first gene label is alphabetically smaller than the last to avoid duplicate paths. Return the list of gene labels along each path.

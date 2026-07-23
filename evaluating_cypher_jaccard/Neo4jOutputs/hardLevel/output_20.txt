@@ -1,0 +1,25 @@
+{
+  "miRNA": "microRNA hsa-mir-1304 precursor",
+  "Disease": "breast carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-543 precursor",
+  "Disease": "carcinoma of liver and intrahepatic biliary tract"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-543 precursor",
+  "Disease": "hepatocellular carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-543 precursor",
+  "Disease": "exocrine pancreatic carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-543 precursor",
+  "Disease": "prostate adenocarcinoma"
+}
+

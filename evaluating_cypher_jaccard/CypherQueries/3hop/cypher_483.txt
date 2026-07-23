@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene) RETURN pre.Label AS Pre_miRNA, t.Label AS LongestGene, SIZE(t.Label) AS MaxGeneLabelLength ORDER BY MaxGeneLabelLength DESC, LongestGene ASC LIMIT 5

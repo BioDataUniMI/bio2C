@@ -1,0 +1,1 @@
+Which human genes starting with 'MIR8' have genomic coordinates exclusively on chromosome 2?

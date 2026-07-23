@@ -1,0 +1,1 @@
+List miRNAs that are reported as causal germline mutations in phenotypes with p-value below 0.05.

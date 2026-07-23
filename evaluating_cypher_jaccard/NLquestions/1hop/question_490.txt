@@ -1,0 +1,1 @@
+Find GO terms that result in the organization of GO terms, but only when the relationship source includes 'Uberon'. Return the labels of both GO terms and the sources.

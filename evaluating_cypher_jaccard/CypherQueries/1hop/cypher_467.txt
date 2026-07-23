@@ -1,0 +1,1 @@
+MATCH (md1:Mental_disease)-[r:realizes|has_occurrent_part]->(md2:Mental_disease) RETURN md1.Label, md2.Label, TYPE(r), r.Source

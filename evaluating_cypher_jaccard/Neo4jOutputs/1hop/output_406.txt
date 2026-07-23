@@ -1,0 +1,10 @@
+{
+  "p.Label": "Focal impaired awareness hemifacial clonic seizure",
+  "p.Synonym": [
+    "Convulsión clónicafocal hemifacial con pérdida de conciencia",
+    "意识受损的局灶性偏侧面肌阵挛发作",
+    "Fokální hemifaciální klonický záchvat s poruchnou vědomí",
+    "局所性意識障害性半側顔面間代発作"
+  ]
+}
+

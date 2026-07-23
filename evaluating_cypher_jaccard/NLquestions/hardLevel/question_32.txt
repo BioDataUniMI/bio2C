@@ -1,0 +1,1 @@
+Find genes whose sequence starts with 'CTC' or 'CTG' that cause or contribute to autoimmune diseases whose description contains the word 'intolerance'. Return the gene label, disease label, and disease description.

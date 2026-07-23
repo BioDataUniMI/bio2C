@@ -1,0 +1,25 @@
+{
+  "Phenotype": "Stippling of the epiphysis of the proximal phalanx of the 5th toe",
+  "PhenotypeID": "HP:0100233"
+}
+
+{
+  "Phenotype": "Anticipatory anxiety",
+  "PhenotypeID": "HP:5200233"
+}
+
+{
+  "Phenotype": "Carcinoid tumor of the pancreas",
+  "PhenotypeID": "HP:6000233"
+}
+
+{
+  "Phenotype": "Increased anti-meat allergen IgE antibody level",
+  "PhenotypeID": "HP:0410233"
+}
+
+{
+  "Phenotype": "Abnormal lymph-node cellular antigen expression",
+  "PhenotypeID": "HP:0020233"
+}
+

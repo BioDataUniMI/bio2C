@@ -1,0 +1,20 @@
+{
+  "miRNA": "microRNA hsa-mir-34c precursor",
+  "Disease": "AIDS"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-29c precursor",
+  "Disease": "AIDS"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-181c precursor",
+  "Disease": "AIDS"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-200c precursor",
+  "Disease": "AIDS"
+}
+

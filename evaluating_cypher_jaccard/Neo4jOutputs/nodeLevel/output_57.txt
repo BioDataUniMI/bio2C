@@ -1,0 +1,20 @@
+{
+  "Disease": "cerebral cortical dysplasia"
+}
+
+{
+  "Disease": "isolated focal cortical dysplasia"
+}
+
+{
+  "Disease": "Acrodysplasia with ossification abnormalities, short stature, and fibular hypoplasia"
+}
+
+{
+  "Disease": "oculodentodigital dysplasia"
+}
+
+{
+  "Disease": "pontine tegmental cap dysplasia"
+}
+

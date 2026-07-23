@@ -1,0 +1,1 @@
+How many GO terms have 'synaptic' in their description?

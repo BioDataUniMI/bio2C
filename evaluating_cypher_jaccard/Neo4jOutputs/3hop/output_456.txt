@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Intellectual disability",
+  "Disease": "benign muscle neoplasm",
+  "miRNA": "hsa-let-7a-3p"
+}
+
+{
+  "Phenotype": "Intellectual disability",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-485-3p"
+}
+
+{
+  "Phenotype": "Intellectual disability",
+  "Disease": "breast carcinoma",
+  "miRNA": "hsa-miR-125b-5p"
+}
+
+{
+  "Phenotype": "Intellectual disability",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-765"
+}
+
+{
+  "Phenotype": "Intellectual disability",
+  "Disease": "anxiety disorder",
+  "miRNA": "hsa-miR-128-3p"
+}
+

@@ -1,0 +1,25 @@
+{
+  "Disease": "thyroid gland papillary carcinoma",
+  "Description": "a differentiated adenocarcinoma arising from the follicular cells of the thyroid gland. radiation..."
+}
+
+{
+  "Disease": "thyroid gland adenocarcinoma",
+  "Description": "an adenocarcinoma arising from the follicular cells of the thyroid gland. according to the degree..."
+}
+
+{
+  "Disease": "follicular variant thyroid gland papillary carcinoma",
+  "Description": "a nonencapsulated variant of papillary carcinoma of the thyroid gland characterized by the predom..."
+}
+
+{
+  "Disease": "thyroid gland carcinoma",
+  "Description": "a carcinoma arising from the thyroid gland. it is usually an adenocarcinoma and includes the foll..."
+}
+
+{
+  "Disease": "thyroid gland papillary and follicular carcinoma",
+  "Description": "a thyroid neoplasm of mixed papillary and follicular arrangement. its biological behavior and pro..."
+}
+

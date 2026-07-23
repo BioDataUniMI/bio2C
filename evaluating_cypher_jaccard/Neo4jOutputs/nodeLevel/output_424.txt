@@ -1,0 +1,12 @@
+{
+  "g.Label": "viral RNA genome replication"
+}
+
+{
+  "g.Label": "viral DNA genome replication"
+}
+
+{
+  "g.Label": "viral genome replication"
+}
+

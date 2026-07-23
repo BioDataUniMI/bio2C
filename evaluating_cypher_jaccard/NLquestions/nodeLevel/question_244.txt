@@ -1,0 +1,1 @@
+Find miRNAs that have short sequences (less than 17 nucleotides). Return their labels, descriptions, and their sequence and sequence length. 

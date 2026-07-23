@@ -1,0 +1,20 @@
+{
+  "mf.Label": "protein phosphatase inhibitor activity"
+}
+
+{
+  "mf.Label": "phosphatase activator activity"
+}
+
+{
+  "mf.Label": "protein phosphatase regulator activity"
+}
+
+{
+  "mf.Label": "protein phosphatase 2B binding"
+}
+
+{
+  "mf.Label": "phosphatase binding"
+}
+

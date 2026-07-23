@@ -1,0 +1,1 @@
+Identify genes whose label ends with the letter 'C' and compute the number of distinct precursor miRNAs transcribed from those genes and the number of distinct mature miRNAs they produce, counting both the transcription and development relationships.

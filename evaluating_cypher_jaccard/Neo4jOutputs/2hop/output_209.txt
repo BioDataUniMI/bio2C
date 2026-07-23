@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-214 precursor",
+  "Mature_miRNA": "hsa-miR-214-3p",
+  "GOterm": "inner ear auditory receptor cell differentiation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-524 precursor",
+  "Mature_miRNA": "hsa-miR-524-5p",
+  "GOterm": "inner ear auditory receptor cell differentiation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-199b precursor",
+  "Mature_miRNA": "hsa-miR-199b-5p",
+  "GOterm": "inner ear auditory receptor cell differentiation"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-296 precursor",
+  "Mature_miRNA": "hsa-miR-296-5p",
+  "GOterm": "auditory receptor cell development"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-296 precursor",
+  "Mature_miRNA": "hsa-miR-296-5p",
+  "GOterm": "inner ear auditory receptor cell differentiation"
+}
+

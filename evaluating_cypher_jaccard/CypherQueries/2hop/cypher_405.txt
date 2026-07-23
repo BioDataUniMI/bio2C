@@ -1,0 +1,1 @@
+MATCH (nd:Neurodegenerative_disease)-[:disease_caused_by_disruption_of]->(bp:Biological_process)-[:has_participant]->(m:miRNA) RETURN nd.Label AS NeurodegenerativeDisease, bp.Label AS DisruptedProcess, m.Label AS miRNA

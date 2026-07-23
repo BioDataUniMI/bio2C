@@ -1,0 +1,1 @@
+Find all genes that are transcribed into pre-miRNAs which are over-expressed in neurodegenerative diseases. Return the gene and the associated neurodegenerative disease labels.

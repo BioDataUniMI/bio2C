@@ -1,0 +1,1 @@
+MATCH (m:miRNA {Species: 'Homo sapiens'})-[:transcribed_from]->(g:Gene) WHERE g.Label ENDS WITH 'C' RETURN m.Label AS miRNA, g.Label AS Gene

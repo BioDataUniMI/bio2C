@@ -1,0 +1,28 @@
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "AURKB",
+  "Disease": "hereditary diffuse gastric adenocarcinoma"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CASP8",
+  "Disease": "hereditary diffuse gastric adenocarcinoma"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "BMP2",
+  "Disease": "hereditary diffuse gastric adenocarcinoma"
+}
+
+{
+  "Cancer": "familial multiple lipomatosis",
+  "miRNA": "hsa-let-7a-5p",
+  "Gene": "CDKN1A",
+  "Disease": "hereditary diffuse gastric adenocarcinoma"
+}
+

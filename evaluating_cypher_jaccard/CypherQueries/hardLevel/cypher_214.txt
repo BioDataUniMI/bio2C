@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:develops_from]->(p:pre_miRNA) WITH m, p, (SIZE(SPLIT(m.Sequence, 'AAA')) - 1) AS num_AAA ORDER BY num_AAA DESC, m.Label ASC LIMIT 3 RETURN m.Label AS miRNA, p.Label AS pre_miRNA, num_AAA, m.Sequence AS miRNA_sequence, p.Sequence AS pre_miRNA_sequence

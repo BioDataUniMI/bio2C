@@ -1,0 +1,20 @@
+{
+  "Phenotype": "Cholangiocarcinoma"
+}
+
+{
+  "Phenotype": "Lung adenocarcinoma"
+}
+
+{
+  "Phenotype": "Thyroid carcinoma"
+}
+
+{
+  "Phenotype": "Hepatocellular carcinoma"
+}
+
+{
+  "Phenotype": "Non-small cell lung carcinoma"
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) WHERE SUBSTRING(m.Sequence, 0, 1) = SUBSTRING(m.Sequence, SIZE(m.Sequence)-1, 1) AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX') RETURN DISTINCT bp.Label AS biological_process, m.Label AS miRNA

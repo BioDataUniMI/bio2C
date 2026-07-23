@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-500b-5p",
+  "GO_term": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-193b-5p",
+  "GO_term": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-200b-5p",
+  "GO_term": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-125b-5p",
+  "GO_term": "apoptotic process"
+}
+
+{
+  "miRNA": "hsa-miR-34b-5p",
+  "GO_term": "apoptotic process"
+}
+

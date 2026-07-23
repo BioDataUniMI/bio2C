@@ -1,0 +1,1 @@
+Which biological processes are associated with the widest range of phenotypes via the 'has_characteristic' relationship type? Return the top five biological processes ranked by the number of distinct phenotypes in descending order, breaking ties by biological process name in ascending alphabetical order.

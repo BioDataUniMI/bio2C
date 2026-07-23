@@ -1,0 +1,12 @@
+{
+  "Disease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-5p"
+}
+
+{
+  "Disease": "Leber congenital amaurosis with early-onset deafness",
+  "Phenotype": "Hearing impairment",
+  "miRNA": "hsa-miR-96-3p"
+}
+

@@ -1,0 +1,1 @@
+MATCH (pm:pre_miRNA) WHERE pm.Label =~ '.*[d-z] precursor$' RETURN COUNT(pm) AS PreMiRNACount

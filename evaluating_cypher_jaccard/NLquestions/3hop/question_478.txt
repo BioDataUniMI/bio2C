@@ -1,0 +1,1 @@
+Which cancers express the miRNA 'hsa-miR-125b-5p' that is located in the apical plasma membrane cellular component (part of GO terms)? Return the cancer label, miRNA label, cellular component label, and GO term label.

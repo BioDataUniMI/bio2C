@@ -1,0 +1,24 @@
+{
+  "Gene1": "CGB5",
+  "Gene2": "CGB3",
+  "Gene1_Length": 1464,
+  "Gene2_Length": 1465,
+  "Min_Length_Difference": 1
+}
+
+{
+  "Gene1": "H2AC13",
+  "Gene2": "H3C8",
+  "Gene1_Length": 495,
+  "Gene2_Length": 496,
+  "Min_Length_Difference": 1
+}
+
+{
+  "Gene1": "H3C3",
+  "Gene2": "H2AC17",
+  "Gene1_Length": 486,
+  "Gene2_Length": 487,
+  "Min_Length_Difference": 1
+}
+

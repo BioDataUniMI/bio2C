@@ -1,0 +1,1 @@
+Find autoimmune diseases that are also cancers and whose labels mention the gene 'STAT3'.

@@ -1,0 +1,14 @@
+{
+  "miRNA": "hsa-miR-410-3p",
+  "BiologicalProcess": "regulation of transcription by RNA polymerase II",
+  "GOterm": "DNA-binding transcription factor activity, RNA polymerase II-specific",
+  "CellularComponent": "chromatin"
+}
+
+{
+  "miRNA": "hsa-miR-410-3p",
+  "BiologicalProcess": "transcription by RNA polymerase II",
+  "GOterm": "RNA polymerase II activity",
+  "CellularComponent": "chromatin"
+}
+

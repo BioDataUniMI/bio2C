@@ -1,0 +1,1 @@
+Find miRNA-neurodegenerative disease pairs where the miRNA has at least three different outgoing relationship types to the neurodegenerative disease. Return the miRNA label, the neurodegenerative disease label, and the relationship types.

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE p.ID STARTS WITH 'HP:600000' RETURN p.Label AS PhenotypeLabel, p.Synonym AS PhenotypeSynonym, p.ID

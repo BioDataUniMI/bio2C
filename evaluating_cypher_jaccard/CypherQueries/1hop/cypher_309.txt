@@ -1,0 +1,1 @@
+MATCH (mf:Molecular_function) WHERE NOT (mf)-[:subclassof]->(:Molecular_function) RETURN mf.Label

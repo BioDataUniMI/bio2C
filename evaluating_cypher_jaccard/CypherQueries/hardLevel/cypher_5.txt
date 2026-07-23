@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA {Label:'microRNA hsa-mir-127 precursor'})-[r:under_expressed_in]->(ph:Phenotype) WITH p, SIZE([x IN SPLIT(p.Sequence, '') WHERE x = 'C']) AS C_count, COLLECT(DISTINCT ph.Label) AS Phenotypes RETURN p.Label AS pre_miRNA, C_count AS Cytosine_count, Phenotypes

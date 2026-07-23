@@ -1,0 +1,1 @@
+Identify cancers whose label contains the word 'childhood' that over-express miRNAs connected to pre-miRNAs through interaction relashionship, and return the pre-miRNA, the miRNA, and the cancer labels.

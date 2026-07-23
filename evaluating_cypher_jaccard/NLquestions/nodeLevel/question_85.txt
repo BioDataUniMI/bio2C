@@ -1,0 +1,1 @@
+How many human miRNAs have sequence free from 'AGGGGA' and sequence length less than 20 nucleotides?

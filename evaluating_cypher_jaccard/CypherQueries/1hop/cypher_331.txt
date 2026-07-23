@@ -1,0 +1,1 @@
+MATCH (a:Autoimmune_disease) WHERE NOT (a)-[:has_phenotype]->(:Phenotype) AND a.Description CONTAINS 'variation' RETURN a.Label

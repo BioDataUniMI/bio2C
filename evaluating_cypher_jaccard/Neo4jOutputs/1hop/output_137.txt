@@ -1,0 +1,24 @@
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GenomicCoordinates": [
+    "chr19:13874725-13874746+"
+  ],
+  "MolecularFunction": "histone H3K9 monomethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GenomicCoordinates": [
+    "chr19:13874725-13874746+"
+  ],
+  "MolecularFunction": "histone H3K9 trimethyltransferase activity"
+}
+
+{
+  "miRNA": "hsa-miR-181c-5p",
+  "GenomicCoordinates": [
+    "chr19:13874725-13874746+"
+  ],
+  "MolecularFunction": "histone H3K9me2 methyltransferase activity"
+}
+

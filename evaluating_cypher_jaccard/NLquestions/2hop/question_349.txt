@@ -1,0 +1,1 @@
+Identify cancers and their expressed miRNAs that participate in the biological process labeled as 'transcription initiation at RNA polymerase II promoter'. Return the cancer and miRNA labels.

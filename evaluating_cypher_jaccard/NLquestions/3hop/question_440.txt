@@ -1,0 +1,1 @@
+Find genes (we want both label and synonyms) regulated by miRNAs expressed in cancers that cause or contribute to the disease labeled as 'Li-Fraumeni syndrome'. Return also the matching cancers and miRNAs' label.

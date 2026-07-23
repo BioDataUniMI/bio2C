@@ -1,0 +1,1 @@
+Find all the diseases where the miRNA labeled as 'microRNA hsa-mir-625 precursor' is under-expressed. Return their ID and label.

@@ -1,0 +1,1 @@
+Identify miRNAs that are not involved in the biological process labeled as 'regulation of angiogenesis'. Return miRNA and process label, along with all the properties (PROPERTIES(r)) of the relationship.

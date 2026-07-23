@@ -1,0 +1,1 @@
+Retrieve the last 30% of the sequence of the precursor miRNA 'microRNA hsa-mir-222 precursor' and the label of the infectuous diseases it contributes to.

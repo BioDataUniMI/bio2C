@@ -1,0 +1,1 @@
+MATCH (cc:Cellular_component) WHERE cc.Label CONTAINS 'network' AND (cc.Label CONTAINS 'side' OR cc.Description CONTAINS 'leaflet') RETURN cc.Label AS CellularComponent, cc.Description

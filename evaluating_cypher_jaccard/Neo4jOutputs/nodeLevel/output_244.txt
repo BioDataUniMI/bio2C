@@ -1,0 +1,35 @@
+{
+  "m.Sequence": "AGGAAACAGGGACCCA",
+  "Length": 16,
+  "miRNA": "hsa-miR-4261",
+  "Description": "homo sapiens (human) hsa-mir-4261"
+}
+
+{
+  "m.Sequence": "UCCAGCUCGGUGGCAC",
+  "Length": 16,
+  "miRNA": "hsa-miR-4267",
+  "Description": "homo sapiens (human) hsa-mir-4267"
+}
+
+{
+  "m.Sequence": "CUCUCCUCCCGGCUUC",
+  "Length": 16,
+  "miRNA": "hsa-miR-4279",
+  "Description": "homo sapiens (human) hsa-mir-4279"
+}
+
+{
+  "m.Sequence": "ACCGCCUGCCCAGUGA",
+  "Length": 16,
+  "miRNA": "hsa-miR-4485-5p",
+  "Description": "homo sapiens (human) hsa-mir-4485-5p"
+}
+
+{
+  "m.Sequence": "UUCAGCAGGAACAGCU",
+  "Length": 16,
+  "miRNA": "hsa-miR-4291",
+  "Description": "homo sapiens (human) hsa-mir-4291"
+}
+

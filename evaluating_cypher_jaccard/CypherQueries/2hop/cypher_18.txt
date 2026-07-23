@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:develops_into]->(m:miRNA)-[:over_expressed_in]->(c:Cancer) WHERE SIZE(p.Sequence) < 50 RETURN DISTINCT p.Label

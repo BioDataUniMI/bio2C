@@ -1,0 +1,8 @@
+{
+  "d": {
+    "Label": "basal ganglia calcification, idiopathic, childhood-onset",
+    "ID": "MONDO:0007247",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0007247"
+  }
+}
+

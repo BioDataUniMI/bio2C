@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:located_in]->(:GO) WHERE r.RNAsister_score > 0.972 RETURN m.Label AS miRNA, r.RNAsister_score AS RNAsisterScore

@@ -1,0 +1,7 @@
+{
+  "miRNA": "hsa-miR-10393-5p",
+  "pre_miRNA": "microRNA hsa-mir-10393 precursor",
+  "miRNA_sequence_length": 25,
+  "pre_miRNA_sequence_length": 50
+}
+

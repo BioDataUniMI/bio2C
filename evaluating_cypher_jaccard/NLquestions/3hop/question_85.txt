@@ -1,0 +1,1 @@
+Identify the miRNAs and their precursor pre-miRNAs from which they develop such that the miRNAs are not involved in specific GO terms, and the pre-miRNAs cause or contribute to a neurodegenerative disease supported by at least three PubMed references. Return the miRNA label, the pre-miRNA label, the GO term label, the neurodegenerative disease label, and the PubMed IDs.

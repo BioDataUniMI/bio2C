@@ -1,0 +1,1 @@
+Find miRNAs that regulate the activity of the gene 'FSTL1' which cause or contribute to cardiovascular diseases. Return the miRNA and disease labels.

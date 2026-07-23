@@ -1,0 +1,20 @@
+{
+  "Disease": "familial medullary thyroid carcinoma"
+}
+
+{
+  "Disease": "familial nonmedullary thyroid carcinoma"
+}
+
+{
+  "Disease": "multicentric papillary thyroid carcinoma"
+}
+
+{
+  "Disease": "thyroid gland papillary carcinoma"
+}
+
+{
+  "Disease": "thyroid gland adenocarcinoma"
+}
+

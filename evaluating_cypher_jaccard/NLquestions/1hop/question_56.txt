@@ -1,0 +1,1 @@
+Find all miRNAs that are under-expressed in biological processes. Consider only relationships with more than ten associated contexts. Return the distinct label of miRNAs and biological processes, and the list of contexts as well.

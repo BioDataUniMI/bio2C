@@ -1,0 +1,1 @@
+Which miRNAs have the genomic coordinates mapped to chromosome X and sequences ending with 'GA'?

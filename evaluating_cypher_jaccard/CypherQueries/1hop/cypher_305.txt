@@ -1,0 +1,1 @@
+MATCH (p:Phenotype)-[:characteristic_of]->(cc:Cellular_component) WHERE p.Label CONTAINS 'myopathy' RETURN p.Label AS Phenotype, cc.Label AS CellularComponent

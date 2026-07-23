@@ -1,0 +1,21 @@
+{
+  "CardiovascularDisease": "congestive heart failure",
+  "DisruptedGO": "blood circulation",
+  "Phenotype": "Abnormality of blood circulation",
+  "RelatedDisease": "dextro-looped transposition of the great arteries"
+}
+
+{
+  "CardiovascularDisease": "congestive heart failure",
+  "DisruptedGO": "blood circulation",
+  "Phenotype": "Abnormality of blood circulation",
+  "RelatedDisease": "cryptorchidism-arachnodactyly-intellectual disability syndrome"
+}
+
+{
+  "CardiovascularDisease": "congestive heart failure",
+  "DisruptedGO": "blood circulation",
+  "Phenotype": "Abnormality of blood circulation",
+  "RelatedDisease": "bladder exstrophy"
+}
+

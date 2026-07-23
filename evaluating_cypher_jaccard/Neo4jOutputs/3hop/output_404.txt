@@ -1,0 +1,30 @@
+{
+  "TranscribingGene": "MIR580",
+  "Pre_miRNA": "microRNA hsa-mir-580 precursor",
+  "miRNA": "hsa-miR-580-3p"
+}
+
+{
+  "TranscribingGene": "MIR5094",
+  "Pre_miRNA": "microRNA hsa-mir-5094 precursor",
+  "miRNA": "hsa-miR-5094"
+}
+
+{
+  "TranscribingGene": "MIR3924",
+  "Pre_miRNA": "microRNA hsa-mir-3924 precursor",
+  "miRNA": "hsa-miR-3924"
+}
+
+{
+  "TranscribingGene": "MIR4428",
+  "Pre_miRNA": "microRNA hsa-mir-4428 precursor",
+  "miRNA": "hsa-miR-4428"
+}
+
+{
+  "TranscribingGene": "MIR6504",
+  "Pre_miRNA": "microRNA hsa-mir-6504 precursor",
+  "miRNA": "hsa-miR-6504-5p"
+}
+

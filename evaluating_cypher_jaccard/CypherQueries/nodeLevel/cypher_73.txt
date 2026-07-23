@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'synapse-associated' AND g.ID STARTS WITH 'GO:01' RETURN g.Label AS GO, g.ID AS ID

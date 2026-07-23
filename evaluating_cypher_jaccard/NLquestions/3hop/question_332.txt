@@ -1,0 +1,1 @@
+Which diseases that have the phenotype labeled as 'Fatigue' are subclasses of cancers expressing miRNAs ending with '3p'? Return the label of diseases, parent cancers, and miRNAs.

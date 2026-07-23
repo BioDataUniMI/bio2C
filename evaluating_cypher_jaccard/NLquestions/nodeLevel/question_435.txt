@@ -1,0 +1,1 @@
+Return all information (i.e., the entire node with all its properties) of the molecular function labeled as 'piRNA cluster binding'.

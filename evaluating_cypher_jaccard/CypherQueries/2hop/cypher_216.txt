@@ -1,0 +1,1 @@
+MATCH (go:GO {Label:'cytoplasm'})-[:has_part]->(cc:Cellular_component)-[:location_of]->(m:miRNA) RETURN cc.Label AS CellularComponent, m.Label AS miRNA

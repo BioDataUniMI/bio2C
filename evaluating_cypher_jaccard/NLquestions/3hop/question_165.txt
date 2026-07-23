@@ -1,0 +1,1 @@
+Identify GO terms of which the cellular components are part. Moreover, retrieve miRNAs expressed in cancer and located in these cellular components. Return the cancer label, miRNA label, cellular component label, and GO term label.

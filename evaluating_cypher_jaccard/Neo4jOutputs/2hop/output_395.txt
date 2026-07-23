@@ -1,0 +1,6 @@
+{
+  "Disease": "disorder of peroxisomal transporter",
+  "BiologicalProcess": "peroxisomal transport",
+  "CellularComponent": "intracellular anatomical structure"
+}
+

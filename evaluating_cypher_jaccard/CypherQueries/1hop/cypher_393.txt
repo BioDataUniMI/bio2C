@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:over_expressed_in]->(go:GO) WHERE m.Label ENDS WITH 'j' RETURN m.Label AS miRNA, go.Label AS GOtermLabel

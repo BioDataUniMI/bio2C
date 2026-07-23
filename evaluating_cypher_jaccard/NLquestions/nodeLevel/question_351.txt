@@ -1,0 +1,1 @@
+List all cardiovascular diseases whose labels contain 'leber' (case-insensitive) and that are not cancers and return their label and node types (i.e., LABELS(Cardiovascular_disease)) to show how they are classified.

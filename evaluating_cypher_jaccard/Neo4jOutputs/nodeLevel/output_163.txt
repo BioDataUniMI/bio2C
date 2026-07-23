@@ -1,0 +1,20 @@
+{
+  "p.Label": "Hemifacial hypertrophy"
+}
+
+{
+  "p.Label": "Hemifacial atrophy"
+}
+
+{
+  "p.Label": "Focal aware hemifacial clonic seizure"
+}
+
+{
+  "p.Label": "Focal hemifacial clonic seizure"
+}
+
+{
+  "p.Label": "Hemifacial spasm"
+}
+

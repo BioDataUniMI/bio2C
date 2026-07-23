@@ -1,0 +1,30 @@
+{
+  "miRNA": "let-7c stem-loop (hsa-let-7c)",
+  "Homolog": "let-7a-1 stem-loop (hsa-let-7a-1)",
+  "OverExpressedIn": "neuroblastoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-106b precursor",
+  "Homolog": "microRNA hsa-mir-106a precursor",
+  "OverExpressedIn": "neuroblastoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-106a precursor",
+  "Homolog": "microRNA hsa-mir-106b precursor",
+  "OverExpressedIn": "retinoblastoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-106a precursor",
+  "Homolog": "microRNA hsa-mir-106b precursor",
+  "OverExpressedIn": "pediatric osteosarcoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-1)",
+  "Homolog": "microRNA hsa-mir-107 precursor",
+  "OverExpressedIn": "pediatric osteosarcoma"
+}
+

@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-9-5p",
+  "Gene": "VIM",
+  "Disease": "severe acute respiratory syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-17-5p",
+  "Gene": "VIM",
+  "Disease": "severe acute respiratory syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-708-5p",
+  "Gene": "TNF",
+  "Disease": "acute kidney failure"
+}
+
+{
+  "miRNA": "hsa-miR-17-5p",
+  "Gene": "CLU",
+  "Disease": "acute kidney failure"
+}
+
+{
+  "miRNA": "hsa-miR-9-5p",
+  "Gene": "VIM",
+  "Disease": "acute coronary syndrome"
+}
+

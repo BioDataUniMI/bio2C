@@ -1,0 +1,12 @@
+{
+  "Gene": "TNFRSF14",
+  "Autoimmune_Disease": "celiac disease",
+  "Description": "an autoimmune genetic disorder with an unknown pattern of inheritance that primarily affects the ..."
+}
+
+{
+  "Gene": "TNFRSF8",
+  "Autoimmune_Disease": "thyrotoxicosis",
+  "Description": "a hypermetabolic syndrome caused by the elevation of thyroid hormone levels in the serum. signs a..."
+}
+

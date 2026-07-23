@@ -1,0 +1,1 @@
+Which miRNAs are located on chromosome X and are characterized by genomic coordinates on both the positive and negative strands (chromosome ends with '+' and '-')?

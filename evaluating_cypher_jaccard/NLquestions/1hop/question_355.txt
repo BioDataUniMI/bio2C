@@ -1,0 +1,1 @@
+Find GO terms containing the word 'transport' or 'metabolic' that do occur in cellular components having labels containing the word 'cytosol'.

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(n:Neurodegenerative_disease) RETURN DISTINCT n.Label AS NeurodegenerativeDisease, m.Label AS miRNA

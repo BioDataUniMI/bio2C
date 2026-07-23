@@ -1,0 +1,16 @@
+{
+  "miRNA": "hsa-miR-137-3p",
+  "Phenotype": "Schizophrenia",
+  "PubMedIDs": [
+    "21926974"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-1208 precursor",
+  "Phenotype": "Atopic dermatitis",
+  "PubMedIDs": [
+    "23042114"
+  ]
+}
+

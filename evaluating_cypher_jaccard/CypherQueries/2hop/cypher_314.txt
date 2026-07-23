@@ -1,0 +1,1 @@
+MATCH (d:Disease {Label:'food allergy'})-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(c:Cancer)-[:expresses]->(m:miRNA) RETURN p.Label AS Phenotype, c.Label AS Cancer, m.Label AS miRNA

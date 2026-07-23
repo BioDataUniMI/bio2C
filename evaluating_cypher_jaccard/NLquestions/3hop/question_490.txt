@@ -1,0 +1,1 @@
+Which genes genetically interact with other genes that cause or contribute to diseases that have another disease as a feature? Return the source gene, the interacting gene, the disease, and the disease feature.

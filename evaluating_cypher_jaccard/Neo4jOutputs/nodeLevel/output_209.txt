@@ -1,0 +1,5 @@
+{
+  "Disease": "viral eye infection",
+  "Description": "infections of the eye caused by minute intracellular agents. these infections may lead to severe ..."
+}
+

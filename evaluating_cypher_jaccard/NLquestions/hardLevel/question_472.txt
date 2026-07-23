@@ -1,0 +1,1 @@
+Which are the top 5 genes mapped to the highest number of distinct chromosomes (based on chromosome prefixes in their genomic coordinate entries)? Return each gene's label, the number of distinct chromosomes it is mapped to, and the list of those chromosomes, ordered alphabetically in case of ties.

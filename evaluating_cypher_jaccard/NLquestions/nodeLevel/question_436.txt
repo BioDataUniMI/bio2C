@@ -1,0 +1,1 @@
+Find labels and URIs of the molecular functions that belong to the species 'Eumetazoa'.

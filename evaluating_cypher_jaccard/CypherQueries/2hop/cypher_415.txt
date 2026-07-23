@@ -1,0 +1,1 @@
+MATCH (d:Disease)-[:has_phenotype]->(p:Phenotype)-[:characteristic_of]->(g:GO) WHERE d.Label CONTAINS 'senior' RETURN d.Label AS Disease, g.Label AS GOterm, COUNT(DISTINCT p) AS PhenotypeCount

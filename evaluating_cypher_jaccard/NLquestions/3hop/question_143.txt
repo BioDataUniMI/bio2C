@@ -1,0 +1,1 @@
+In which cellular components (part of GO terms) miRNAs expressed in cancers are located? Return also the source(s) that report the expression relationship.

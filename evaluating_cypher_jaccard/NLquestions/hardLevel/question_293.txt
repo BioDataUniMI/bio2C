@@ -1,0 +1,1 @@
+Which phenotype is the phenotype of more than 2,000 distinct disorders? Return the phenotype label and the disorders count.

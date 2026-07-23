@@ -1,0 +1,14 @@
+{
+  "Phenotype": "Colon cancer",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-3p",
+  "GU_Count": 1
+}
+
+{
+  "Phenotype": "Colon cancer",
+  "Cancer": "sarcoma",
+  "miRNA": "hsa-let-7a-5p",
+  "GU_Count": 5
+}
+

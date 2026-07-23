@@ -1,0 +1,14 @@
+{
+  "Source": [
+    "miR2Disease"
+  ],
+  "miRNA": "hsa-miR-133b"
+}
+
+{
+  "Source": [
+    "miR2Disease"
+  ],
+  "miRNA": "hsa-miR-7-5p"
+}
+

@@ -1,0 +1,1 @@
+MATCH (t:Gene)<-[r2:regulates_activity_of]-(m:miRNA)-[r1:transcribed_from]->(s:Gene) WHERE ANY(c IN s.Genomic_coordinates WHERE c STARTS WITH 'chr17') RETURN DISTINCT t.Label AS TargetGene, m.Label AS miRNA, s.Label AS SourceGene, r1.Source AS r1_Source, r2.Source AS r2_Source

@@ -1,0 +1,24 @@
+{
+  "Phenotype": "Paroxysmal lethargy",
+  "Disease": "GLUT1 deficiency syndrome",
+  "Disrupted_GO": "D-glucose transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Paroxysmal involuntary eye movements",
+  "Disease": "GLUT1 deficiency syndrome",
+  "Disrupted_GO": "D-glucose transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Paroxysmal dystonia",
+  "Disease": "GLUT1 deficiency syndrome",
+  "Disrupted_GO": "D-glucose transmembrane transporter activity"
+}
+
+{
+  "Phenotype": "Paroxysmal dyspnea",
+  "Disease": "congenital heart malformation",
+  "Disrupted_GO": "heart development"
+}
+

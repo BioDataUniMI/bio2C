@@ -1,0 +1,1 @@
+Which miRNAs whose sequence ends with 'A' are over-expressed in biological processes that are negatively regulated by other biological processes, and what are those regulating processes? Return the miRNA, biological process, and regulating process labels.

@@ -1,0 +1,1 @@
+Return all properties of the diseases containing 'cardiomyopathy 1A' in their label.

@@ -1,0 +1,5 @@
+{
+  "CellularComponent": "monolayer-surrounded lipid storage body",
+  "cc.URI": "http://purl.obolibrary.org/obo/GO_0012511"
+}
+

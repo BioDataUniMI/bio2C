@@ -1,0 +1,20 @@
+{
+  "CellularComponent": "apical plasma membrane",
+  "GOTermCount": 5
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "GOTermCount": 1
+}
+
+{
+  "CellularComponent": "P-body",
+  "GOTermCount": 1
+}
+
+{
+  "CellularComponent": "heterochromatin",
+  "GOTermCount": 1
+}
+

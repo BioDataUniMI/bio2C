@@ -1,0 +1,78 @@
+{
+  "d.Label": "asthma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "miRdSNP"
+    ],
+    "Interactor": [
+      "NM_002127"
+    ],
+    "Mutation": [
+      "rs1063320"
+    ]
+  }
+}
+
+{
+  "d.Label": "schizophrenia",
+  "PROPERTIES(r)": {
+    "Source": [
+      "PolymiRTS"
+    ],
+    "p-value": 2e-11,
+    "PubMedID": [
+      "21926974"
+    ],
+    "Mutation": [
+      "rs1625579"
+    ]
+  }
+}
+
+{
+  "d.Label": "major depressive disorder",
+  "PROPERTIES(r)": {
+    "Source": [
+      "PolymiRTS"
+    ],
+    "p-value": 2e-06,
+    "PubMedID": [
+      "23377640"
+    ],
+    "Mutation": [
+      "rs10065906"
+    ]
+  }
+}
+
+{
+  "d.Label": "endogenous depression",
+  "PROPERTIES(r)": {
+    "Source": [
+      "PolymiRTS"
+    ],
+    "p-value": 2e-06,
+    "PubMedID": [
+      "23377640"
+    ],
+    "Mutation": [
+      "rs10065906"
+    ]
+  }
+}
+
+{
+  "d.Label": "asthma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "miRdSNP"
+    ],
+    "Interactor": [
+      "NM_002127"
+    ],
+    "Mutation": [
+      "rs1063320"
+    ]
+  }
+}
+

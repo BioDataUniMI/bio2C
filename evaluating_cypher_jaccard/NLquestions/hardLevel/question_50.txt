@@ -1,0 +1,1 @@
+Count the number of distinct gene pairs (g1-g2) where g1 genetically interacts with g2 and such that both genes have genomic coordinates located on chromosome X ('chrX'). Return the count.

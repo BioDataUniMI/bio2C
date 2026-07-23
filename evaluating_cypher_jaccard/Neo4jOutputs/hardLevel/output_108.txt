@@ -1,0 +1,30 @@
+{
+  "miRNA": "microRNA hsa-mir-518b precursor",
+  "Cancer_subtype": "cervical squamous cell carcinoma",
+  "Parent_cancer": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-518b precursor",
+  "Cancer_subtype": "cervical squamous cell carcinoma",
+  "Parent_cancer": "cervical carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-518b precursor",
+  "Cancer_subtype": "cervical squamous cell carcinoma",
+  "Parent_cancer": "squamous cell carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-596 precursor",
+  "Cancer_subtype": "cervical squamous cell carcinoma",
+  "Parent_cancer": "cervical squamous cell carcinoma"
+}
+
+{
+  "miRNA": "microRNA hsa-mir-596 precursor",
+  "Cancer_subtype": "cervical squamous cell carcinoma",
+  "Parent_cancer": "cervical carcinoma"
+}
+

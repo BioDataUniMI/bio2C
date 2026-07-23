@@ -1,0 +1,1 @@
+List the synonyms of phenotypes having at least one synonym containing the Czech word 'ortálního'.

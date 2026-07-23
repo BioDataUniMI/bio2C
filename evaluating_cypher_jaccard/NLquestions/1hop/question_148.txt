@@ -1,0 +1,1 @@
+Find all autoimmune diseases whose description contains 'women' and the miRNAs that cause or contribute to them.

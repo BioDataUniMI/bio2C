@@ -1,0 +1,25 @@
+{
+  "nTypes": 0,
+  "miRNACount": 4
+}
+
+{
+  "nTypes": 1,
+  "miRNACount": 2924
+}
+
+{
+  "nTypes": 2,
+  "miRNACount": 172
+}
+
+{
+  "nTypes": 3,
+  "miRNACount": 25
+}
+
+{
+  "nTypes": 4,
+  "miRNACount": 1
+}
+

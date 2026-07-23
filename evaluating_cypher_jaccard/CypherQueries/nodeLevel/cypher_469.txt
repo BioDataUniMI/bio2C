@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label: 'Cotard delusion'}) RETURN p.Description, p.Synonym, p.URI

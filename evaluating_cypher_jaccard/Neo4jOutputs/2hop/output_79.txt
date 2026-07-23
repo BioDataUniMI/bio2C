@@ -1,0 +1,45 @@
+{
+  "miRNA": "hsa-miR-613",
+  "Gene": "TBP",
+  "Cancer": "neoplastic meningitis",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-607",
+  "Gene": "FTO",
+  "Cancer": "neoplastic meningitis",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-30b-5p",
+  "Gene": "CAT",
+  "Cancer": "neoplastic meningitis",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-34b-3p",
+  "Gene": "YY1",
+  "Cancer": "neoplastic meningitis",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-335-5p",
+  "Gene": "SP1",
+  "Cancer": "neoplastic meningitis",
+  "EvidenceSources": [
+    "dbDEMC"
+  ]
+}
+

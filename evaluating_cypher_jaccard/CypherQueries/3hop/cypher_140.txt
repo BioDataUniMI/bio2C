@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(c:Cancer)-[:subclassof]->(d:Disease)-[:has_phenotype]->(p:Phenotype) WHERE d.Label CONTAINS 'cervical carcinoma' AND p.Label CONTAINS 'impairment' RETURN COUNT(DISTINCT m) AS MiRNACount

@@ -1,0 +1,8 @@
+{
+  "Phenotype": "Sunken fontanelle",
+  "p.Synonym": [
+    "Fontanela hundida"
+  ],
+  "p.URI": "http://purl.obolibrary.org/obo/HP_6000084"
+}
+

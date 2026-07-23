@@ -1,0 +1,25 @@
+{
+  "Disease": "Cowden disease",
+  "PhenotypeCount": 238
+}
+
+{
+  "Disease": "anaplastic astrocytoma",
+  "PhenotypeCount": 227
+}
+
+{
+  "Disease": "glioblastoma",
+  "PhenotypeCount": 210
+}
+
+{
+  "Disease": "glioma susceptibility 1",
+  "PhenotypeCount": 173
+}
+
+{
+  "Disease": "ependymoma",
+  "PhenotypeCount": 170
+}
+

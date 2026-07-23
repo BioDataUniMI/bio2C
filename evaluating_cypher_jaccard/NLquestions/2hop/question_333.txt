@@ -1,0 +1,1 @@
+Which diseases are classified under neurodegenerative diseases and share 'Middle-age'-related phenotypes with cardiovascular diseases? Return also the neurodegenerative parent label and the shared phenotype labels.

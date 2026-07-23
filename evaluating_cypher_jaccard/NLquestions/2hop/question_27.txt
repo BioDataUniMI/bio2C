@@ -1,0 +1,1 @@
+Identify the number of distinct diseases that share at least one phenotype with a cancer, considering phenotypes linked to diseases either directly or as disease features.

@@ -1,0 +1,35 @@
+{
+  "miRNA": "hsa-miR-326",
+  "Sequence": "CCUCUGGGCCCUUCCUCCAG",
+  "Length": 20,
+  "AutoimmuneDisease": "progressive relapsing multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Sequence": "CCUCUGGGCCCUUCCUCCAG",
+  "Length": 20,
+  "AutoimmuneDisease": "relapsing-remitting multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-599",
+  "Sequence": "GUUGUGUCAGUUUAUCAAAC",
+  "Length": 20,
+  "AutoimmuneDisease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-202-3p",
+  "Sequence": "AGAGGUAUAGGGCAUGGGAA",
+  "Length": 20,
+  "AutoimmuneDisease": "multiple sclerosis"
+}
+
+{
+  "miRNA": "hsa-miR-326",
+  "Sequence": "CCUCUGGGCCCUUCCUCCAG",
+  "Length": 20,
+  "AutoimmuneDisease": "multiple sclerosis"
+}
+

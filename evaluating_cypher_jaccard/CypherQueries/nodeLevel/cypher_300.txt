@@ -1,0 +1,1 @@
+MATCH (g:Gene) WHERE g.Description IS NOT NULL RETURN g.Label, g.Description

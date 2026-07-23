@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[r:located_in]->(go:GO) WHERE go.Label CONTAINS 'exosome' WITH p, r.RNAsister_score AS Score ORDER BY Score, p.Label RETURN COLLECT(DISTINCT p.Label) AS pre_miRNAs

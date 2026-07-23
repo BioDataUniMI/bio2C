@@ -1,0 +1,20 @@
+{
+  "GOterm": "positive regulation of insulin-like growth factor receptor signaling pathway"
+}
+
+{
+  "GOterm": "regulation of insulin-like growth factor receptor signaling pathway"
+}
+
+{
+  "GOterm": "insulin-like growth factor binary complex"
+}
+
+{
+  "GOterm": "insulin-like growth factor II binding"
+}
+
+{
+  "GOterm": "insulin-like growth factor I binding"
+}
+

@@ -1,0 +1,10 @@
+{
+  "Gene": "MIR584",
+  "Pre_miRNA": "microRNA hsa-mir-584 precursor"
+}
+
+{
+  "Gene": "MIR549A",
+  "Pre_miRNA": "microRNA hsa-mir-549a precursor"
+}
+

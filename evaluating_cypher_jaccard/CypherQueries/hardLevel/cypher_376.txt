@@ -1,0 +1,1 @@
+MATCH p = (g1:Gene)-[:genetically_interacts_with*1..3]->(g3:Gene) WHERE ALL(x IN NODES(p) WHERE SINGLE(y IN NODES(p) WHERE y = x)) AND ALL(rel IN RELATIONSHIPS(p) WHERE rel.GeneMANIA_weight = 0.003) AND NODES(p)[0].Label < NODES(p)[2].Label RETURN [n IN NODES(p) | n.Label] AS Genes

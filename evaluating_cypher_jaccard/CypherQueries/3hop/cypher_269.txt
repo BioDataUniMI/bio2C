@@ -1,0 +1,1 @@
+MATCH (p1:Phenotype)-[:phenotype_of]->(d:Disease)-[:subclassof]->(nd:Neurodegenerative_disease)-[:has_phenotype]->(p2:Phenotype) WHERE p2.Label = 'Lower limb hyperreflexia' AND d.Label CONTAINS '72b' RETURN  p1.Label AS DiseasePhenotype, d.Label AS Disease, nd.Label AS NeurodegenerativeSuperclass, p2.Label AS SuperclassPhenotype

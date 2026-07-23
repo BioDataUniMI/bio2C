@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-21-3p",
+  "normalized_GC_content": 0.5714285714285714
+}
+
+{
+  "miRNA": "hsa-miR-27a-3p",
+  "normalized_GC_content": 0.5238095238095238
+}
+
+{
+  "miRNA": "hsa-miR-93-5p",
+  "normalized_GC_content": 0.5217391304347826
+}
+
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "normalized_GC_content": 0.5
+}
+
+{
+  "miRNA": "hsa-miR-34a-5p",
+  "normalized_GC_content": 0.5
+}
+

@@ -1,0 +1,25 @@
+{
+  "MolecularFunction": "serotonin:sodium:chloride symporter activity",
+  "BiologicalProcess": "serotonin uptake"
+}
+
+{
+  "MolecularFunction": "serotonin-gated monoatomic cation channel activity",
+  "BiologicalProcess": "serotonin-gated cation-selective signaling pathway"
+}
+
+{
+  "MolecularFunction": "serotonin-gated monoatomic cation channel activity",
+  "BiologicalProcess": "serotonin receptor signaling pathway"
+}
+
+{
+  "MolecularFunction": "G protein-coupled serotonin receptor activity",
+  "BiologicalProcess": "G protein-coupled serotonin receptor signaling pathway"
+}
+
+{
+  "MolecularFunction": "serotonin-gated chloride channel activity",
+  "BiologicalProcess": "serotonin receptor signaling pathway"
+}
+

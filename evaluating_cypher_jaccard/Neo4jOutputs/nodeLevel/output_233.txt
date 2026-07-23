@@ -1,0 +1,25 @@
+{
+  "Gene": "C2",
+  "NameLength": 2
+}
+
+{
+  "Gene": "C3",
+  "NameLength": 2
+}
+
+{
+  "Gene": "C5",
+  "NameLength": 2
+}
+
+{
+  "Gene": "C6",
+  "NameLength": 2
+}
+
+{
+  "Gene": "C7",
+  "NameLength": 2
+}
+

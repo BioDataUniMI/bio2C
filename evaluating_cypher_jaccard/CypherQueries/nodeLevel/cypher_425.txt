@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Label CONTAINS 'genome' AND NOT (g.Label CONTAINS 'replication' OR g.Label CONTAINS 'viral') RETURN g.Label, LABELS(g)

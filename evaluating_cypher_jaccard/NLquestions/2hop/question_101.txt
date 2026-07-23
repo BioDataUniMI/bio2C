@@ -1,0 +1,1 @@
+Which cancers are associated with the over-expression of miRNAs and also express miRNAs? Return the cancer label together with the sources supporting the miRNA over-expression and miRNA expression evidence.

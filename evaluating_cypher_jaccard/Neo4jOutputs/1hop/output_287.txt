@@ -1,0 +1,15 @@
+{
+  "CellularComponent": "microvesicle",
+  "miRNACount": 158
+}
+
+{
+  "CellularComponent": "extracellular exosome",
+  "miRNACount": 733
+}
+
+{
+  "CellularComponent": "RISC complex",
+  "miRNACount": 631
+}
+

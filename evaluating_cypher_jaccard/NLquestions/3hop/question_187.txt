@@ -1,0 +1,1 @@
+Identify biological processes that cellular components participate in, where those cellular components are locations of miRNAs that are in a similarity relationship with pre-miRNAs. Return the labels of the pre-miRNA, miRNA, cellular component, and biological process.

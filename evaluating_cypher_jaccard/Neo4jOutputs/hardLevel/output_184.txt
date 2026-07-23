@@ -1,0 +1,24 @@
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_10_percent_sequence": "AUCUUCUAGCU",
+  "autoimmune_disease": "rheumatoid arthritis"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_10_percent_sequence": "AUCUUCUAGCU",
+  "autoimmune_disease": "osteoarthritis, knee"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_10_percent_sequence": "AUCUUCUAGCU",
+  "autoimmune_disease": "osteoarthritis"
+}
+
+{
+  "precursor_miRNA": "microRNA hsa-mir-222 precursor",
+  "last_10_percent_sequence": "AUCUUCUAGCU",
+  "autoimmune_disease": "celiac disease"
+}
+

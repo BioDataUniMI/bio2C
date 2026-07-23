@@ -1,0 +1,1 @@
+Identify the cellular components where the miRNA 'hsa-let-7a-5p', when expressed in cancers, is located with an RNAsister score lower than 0.97. Return the cancer label, cellular component label and RNAsister score.

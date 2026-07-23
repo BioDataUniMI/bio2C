@@ -1,0 +1,8 @@
+{
+  "GOTerm": "gene product or complex activity"
+}
+
+{
+  "GOTerm": "triplet codon-amino acid adaptor activity"
+}
+

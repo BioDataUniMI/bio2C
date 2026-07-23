@@ -1,0 +1,17 @@
+{
+  "d": {
+    "Description": "macular coloboma-cleft palate-hallux valgus syndrome is characterized by the association of bilat...",
+    "Label": "macular coloboma-cleft palate-hallux valgus syndrome",
+    "ID": "MONDO:0009001",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0009001"
+  }
+}
+
+{
+  "d": {
+    "Label": "severe intellectual disability-hypotonia-strabismus-coarse face-planovalgus syndrome",
+    "ID": "MONDO:0018572",
+    "URI": "http://purl.obolibrary.org/obo/MONDO_0018572"
+  }
+}
+

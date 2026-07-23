@@ -1,0 +1,1 @@
+MATCH (p:Phenotype {Label:'Heart block'})-[:phenotype_of]->(d:Disease)-[:subclassof]->(c:Cancer)-[:expresses]->(m:miRNA) WHERE m.Label ENDS WITH '5p' RETURN m.Label AS miRNA, c.Label AS Cancer, PROPERTIES(d)

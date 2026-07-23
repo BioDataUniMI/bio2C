@@ -1,0 +1,16 @@
+{
+  "miRNA": "microRNA hsa-mir-374a precursor",
+  "first_20_percent_sequence": "UACAUCGGCCAUUA",
+  "precursor_miRNA": {
+    "Description": "homo sapiens (human) microrna hsa-mir-374b precursor",
+    "Label": "microRNA hsa-mir-374b precursor",
+    "Sequence": "ACUCGGAUGGAUAUAAUACAACCUGCUAAGUGUCCUAGCACUUAGCAGGUUGUAUUAUCAUUGUCCGUGUCU",
+    "ID": "RNAcentral:URS000075BF8B_9606",
+    "Species": "Homo sapiens",
+    "URI": "https://rnacentral.org/rna/URS000075BF8B_9606",
+    "Genomic_coordinates": [
+      "chrX:74218547-74218618-"
+    ]
+  }
+}
+

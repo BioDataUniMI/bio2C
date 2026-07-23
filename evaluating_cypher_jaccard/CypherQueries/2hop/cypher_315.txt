@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'protein deacetylation' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess UNION MATCH (m:miRNA)-[:over_expressed_in]->(bp:Biological_process) WHERE bp.Label CONTAINS 'protein deacetylation' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess

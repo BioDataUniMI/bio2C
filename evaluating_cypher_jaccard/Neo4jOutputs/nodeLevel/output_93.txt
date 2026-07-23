@@ -1,0 +1,20 @@
+{
+  "GO": "outer mitochondrial membrane protein complex"
+}
+
+{
+  "GO": "protein import into mitochondrial intermembrane space"
+}
+
+{
+  "GO": "mitochondrial inner-outer membrane contact site"
+}
+
+{
+  "GO": "ferroptosis"
+}
+
+{
+  "GO": "mitochondrion-associated adherens complex"
+}
+

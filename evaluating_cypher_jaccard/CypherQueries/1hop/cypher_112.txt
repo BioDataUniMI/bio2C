@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:over_expressed_in]->(g:GO) WHERE NOT m.Label ENDS WITH 'p' RETURN g.Label AS GO_Term, m.Label

@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-125a-5p",
+  "BiologicalProcess": "positive regulation of protein deacetylation"
+}
+
+{
+  "miRNA": "hsa-miR-504-5p",
+  "BiologicalProcess": "positive regulation of protein deacetylation"
+}
+
+{
+  "miRNA": "hsa-miR-15b-5p",
+  "BiologicalProcess": "positive regulation of protein deacetylation"
+}
+
+{
+  "miRNA": "hsa-miR-663a",
+  "BiologicalProcess": "positive regulation of protein deacetylation"
+}
+
+{
+  "miRNA": "hsa-miR-185-5p",
+  "BiologicalProcess": "positive regulation of protein deacetylation"
+}
+

@@ -1,0 +1,8 @@
+{
+  "miRNA": "hsa-miR-620",
+  "Cancer": "malignant pancreatic neoplasm",
+  "ParentDisease": "malignant endocrine neoplasm",
+  "FDR": 4.38e-12,
+  "Phenotype": "Fine hair"
+}
+

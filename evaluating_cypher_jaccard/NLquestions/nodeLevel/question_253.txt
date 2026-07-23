@@ -1,0 +1,1 @@
+Find miRNAs whose sequences do not contain 'G' and contain at least one motif of four identical consecutive nucleotides (A, C or U). Return their labels and sequences.

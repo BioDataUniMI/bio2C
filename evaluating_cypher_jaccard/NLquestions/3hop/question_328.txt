@@ -1,0 +1,1 @@
+Which autoimmune diseases have the phenotype labeled as 'Growth delay', where this phenotype is a feature of diseases of which the neurodegenerative disease labeled as 'Cockayne syndrome type 2' is a subclass? Return the label of the parent diseases and autoimmune diseases.

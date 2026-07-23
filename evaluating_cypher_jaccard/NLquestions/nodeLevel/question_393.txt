@@ -1,0 +1,1 @@
+How many biological processes have labels that contain 'negative regulation'?

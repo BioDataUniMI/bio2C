@@ -1,0 +1,1 @@
+Consider the precursor miRNAs starting with 'microRNA hsa-mir-324' that are known to participate in biological processes whose descriptions contain 'stimulus' and have characteristic phenotypes. Return the labels of those pre_miRNAs and of the retrieved phenotypes.

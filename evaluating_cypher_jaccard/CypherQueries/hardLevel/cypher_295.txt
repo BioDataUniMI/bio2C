@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:over_expressed_in]->(c:Cancer) WITH c, COUNT(pre) AS num_pre_miRNAs WHERE num_pre_miRNAs >= 50 RETURN c.Label AS Cancer, num_pre_miRNAs

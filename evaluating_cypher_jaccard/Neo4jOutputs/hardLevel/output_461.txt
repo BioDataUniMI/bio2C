@@ -1,0 +1,25 @@
+{
+  "nTypes": 0,
+  "geneCount": 950
+}
+
+{
+  "nTypes": 1,
+  "geneCount": 1555
+}
+
+{
+  "nTypes": 2,
+  "geneCount": 334
+}
+
+{
+  "nTypes": 3,
+  "geneCount": 79
+}
+
+{
+  "nTypes": 4,
+  "geneCount": 22
+}
+

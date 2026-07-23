@@ -1,0 +1,1 @@
+List the pre-miRNAs located in Gene Ontology (GO) terms whose label contains 'exosome'. Return a collected list of distinct pre-miRNA labels, ordered first by RNAsister score and then alphabetically by pre-miRNA label.

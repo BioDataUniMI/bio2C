@@ -1,0 +1,10 @@
+{
+  "CancerLabel": "malignant glomus tumor",
+  "Description": "a very rare morphologic variant of glomus tumor with a size greater than 2 cm. the tumor arises i..."
+}
+
+{
+  "CancerLabel": "GRFoma",
+  "Description": "6cm and approximately 1/3 have metastasized at the time of diagnosis. it often co-occurs with zol..."
+}
+

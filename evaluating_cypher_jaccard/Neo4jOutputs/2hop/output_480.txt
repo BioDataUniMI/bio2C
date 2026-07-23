@@ -1,0 +1,18 @@
+{
+  "Biological_Process": "microtubule bundle formation",
+  "Formation_GO": "microtubule bundle",
+  "Anatomical_Entity_GO": "microtubule"
+}
+
+{
+  "Biological_Process": "germ tube formation",
+  "Formation_GO": "germ tube",
+  "Anatomical_Entity_GO": "germ tube septin ring"
+}
+
+{
+  "Biological_Process": "germ tube formation",
+  "Formation_GO": "germ tube",
+  "Anatomical_Entity_GO": "germ tube septin cap"
+}
+

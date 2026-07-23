@@ -1,0 +1,1 @@
+For the pre-miRNA 'microRNA hsa-mir-223 precursor', identify the autoimmune diseases in which it is overexpressed, the phenotypes of those diseases, and the GO terms that characterize those phenotypes. Return the labels of the autoimmune disease, the phenotype, and the GO term.

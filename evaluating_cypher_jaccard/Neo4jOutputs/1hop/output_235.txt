@@ -1,0 +1,61 @@
+{
+  "Disease": "squamous cell lung carcinoma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "SomamiR"
+    ],
+    "Mutation": [
+      "COSN8520411"
+    ]
+  }
+}
+
+{
+  "Disease": "breast carcinoma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "SomamiR"
+    ],
+    "Mutation": [
+      "COSN407884"
+    ]
+  }
+}
+
+{
+  "Disease": "squamous cell lung carcinoma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "SomamiR"
+    ],
+    "Mutation": [
+      "COSN2378349",
+      "COSN2378350"
+    ]
+  }
+}
+
+{
+  "Disease": "squamous cell lung carcinoma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "SomamiR"
+    ],
+    "Mutation": [
+      "COSN2378764"
+    ]
+  }
+}
+
+{
+  "Disease": "squamous cell lung carcinoma",
+  "PROPERTIES(r)": {
+    "Source": [
+      "SomamiR"
+    ],
+    "Mutation": [
+      "COSN493976"
+    ]
+  }
+}
+

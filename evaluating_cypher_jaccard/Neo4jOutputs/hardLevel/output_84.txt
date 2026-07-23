@@ -1,0 +1,15 @@
+{
+  "Autoimmune_disease": "osteoarthritis",
+  "miRNA_Count": 296
+}
+
+{
+  "Autoimmune_disease": "multiple sclerosis",
+  "miRNA_Count": 233
+}
+
+{
+  "Autoimmune_disease": "rheumatoid arthritis",
+  "miRNA_Count": 221
+}
+

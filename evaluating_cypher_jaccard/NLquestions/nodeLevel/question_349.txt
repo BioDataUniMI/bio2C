@@ -1,0 +1,1 @@
+Retrieve the descriptions of the cardiovascular diseases where the gene 'TNNI3' is mentioned (case-insensitive).

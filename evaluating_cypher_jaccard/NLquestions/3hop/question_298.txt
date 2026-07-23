@@ -1,0 +1,1 @@
+Which GO terms are the location of miRNAs transcribed from genes and are part of other GO terms, excluding GO terms whose labels contain 'cellular'? Return labels of the: genes, miRNAs, child GO terms, and parent GO terms.

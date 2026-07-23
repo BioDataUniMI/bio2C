@@ -1,0 +1,1 @@
+Identify genes that are transcribed into miRNAs whose label ends with the string 'f precursor' or 'e precursor', and report the homologous miRNAs associated with them.

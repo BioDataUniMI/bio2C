@@ -1,0 +1,1 @@
+Find all infectious diseases whose labels contain 'tuberculosis' and that are caused or contributed to by miRNAs.

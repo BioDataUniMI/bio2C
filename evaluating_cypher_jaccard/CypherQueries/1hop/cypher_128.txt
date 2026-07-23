@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:participates_in]->(b:Biological_process) WHERE NOT m.Sequence CONTAINS 'C' AND b.Label CONTAINS 'mitotic spindle' RETURN b.Label AS BiologicalProcess, m.Label AS miRNA, m.Sequence AS Sequence

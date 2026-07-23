@@ -1,0 +1,1 @@
+MATCH (m:miRNA) WHERE ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX' AND coord ENDS WITH '+') AND ANY(coord IN m.Genomic_coordinates WHERE coord STARTS WITH 'chrX' AND coord ENDS WITH '-') RETURN m.Label, m.Genomic_coordinates

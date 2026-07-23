@@ -1,0 +1,1 @@
+Identify the pre-miRNAs that develop into miRNAs which regulate the activity of genes causing or contributing to the neurodegenerative disease labeled as 'Cockayne syndrome type 2'. Return the pre-miRNA label, the miRNA label, the gene label.

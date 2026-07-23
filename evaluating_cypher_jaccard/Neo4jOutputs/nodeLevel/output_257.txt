@@ -1,0 +1,37 @@
+{
+  "miRNA": "microRNA hsa-mir-6089 precursor (hsa-mir-6089-1%2C hsa-mir-6089-2)",
+  "GenomicCoordinates": [
+    "chrX:2609191-2609254+",
+    "chrY:2609191-2609254+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-6089",
+  "GenomicCoordinates": [
+    "chrX:2609229-2609252+",
+    "chrY:2609229-2609252+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-12120 precursor",
+  "GenomicCoordinates": [
+    "chrY:13479177-13479266+"
+  ]
+}
+
+{
+  "miRNA": "hsa-miR-9985",
+  "GenomicCoordinates": [
+    "chrY:4606140-4606158+"
+  ]
+}
+
+{
+  "miRNA": "microRNA hsa-mir-9985 precursor",
+  "GenomicCoordinates": [
+    "chrY:4606120-4606228+"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:acts_upstream_of_or_within]->(bp:Biological_process) WHERE bp.Label CONTAINS 'positive regulation' RETURN m.Label AS miRNA, bp.Label AS BiologicalProcess

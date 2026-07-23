@@ -1,0 +1,1 @@
+MATCH (d1:Disease {Label:'transient neonatal myasthenia gravis'})-[:subclassof]->(d2:Disease)-[:disease_caused_by_disruption_of]->(mf:Molecular_function)-[:regulated_by]->(go:GO) RETURN mf.Label AS disrupted_molecular_function, go.Label AS regulating_go_term

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(b:Biological_process) WHERE b.Description CONTAINS 'defensive reaction' RETURN m.Label AS miRNA, b.Label AS Process_label

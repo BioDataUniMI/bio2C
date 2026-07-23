@@ -1,0 +1,18 @@
+{
+  "Gene": "ATG7",
+  "Cancer": "fibrolamellar hepatocellular carcinoma",
+  "T_count": null
+}
+
+{
+  "Gene": "ATG7",
+  "Cancer": "hepatocellular carcinoma",
+  "T_count": null
+}
+
+{
+  "Gene": "ATG7",
+  "Cancer": "malignant epithelial tumor of ovary",
+  "T_count": null
+}
+

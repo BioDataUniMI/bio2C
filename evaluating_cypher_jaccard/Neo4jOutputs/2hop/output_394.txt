@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-500b precursor",
+  "miRNA": "hsa-miR-500b-5p",
+  "TargetGene": "RPL35AP4",
+  "SequenceLength": 102
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-362 precursor",
+  "miRNA": "hsa-miR-362-5p",
+  "TargetGene": "RPL35AP4",
+  "SequenceLength": 102
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-107 precursor",
+  "miRNA": "hsa-miR-107",
+  "TargetGene": "SNRPGP7",
+  "SequenceLength": 106
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-1)",
+  "miRNA": "hsa-miR-103a-3p",
+  "TargetGene": "SNRPGP7",
+  "SequenceLength": 106
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-103a precursor (hsa-mir-103a-2)",
+  "miRNA": "hsa-miR-103a-3p",
+  "TargetGene": "SNRPGP7",
+  "SequenceLength": 106
+}
+

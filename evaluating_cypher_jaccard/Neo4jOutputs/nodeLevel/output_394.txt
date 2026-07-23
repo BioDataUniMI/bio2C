@@ -1,0 +1,45 @@
+{
+  "COUNT(bp)": 26428,
+  "LABELS(bp)": [
+    "Biological_process",
+    "GO"
+  ],
+  "bp.Species": null
+}
+
+{
+  "COUNT(bp)": 18,
+  "LABELS(bp)": [
+    "Biological_process",
+    "GO"
+  ],
+  "bp.Species": "Metazoa"
+}
+
+{
+  "COUNT(bp)": 2,
+  "LABELS(bp)": [
+    "Biological_process",
+    "GO"
+  ],
+  "bp.Species": "cellular organisms"
+}
+
+{
+  "COUNT(bp)": 11,
+  "LABELS(bp)": [
+    "Biological_process",
+    "GO"
+  ],
+  "bp.Species": "Arthropoda"
+}
+
+{
+  "COUNT(bp)": 12,
+  "LABELS(bp)": [
+    "Biological_process",
+    "GO"
+  ],
+  "bp.Species": "Eumetazoa"
+}
+

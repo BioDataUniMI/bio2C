@@ -1,0 +1,1 @@
+MATCH (go:GO)-[:part_of]->(cc:Cellular_component)-[:has_part]->(m:miRNA{Label:'microRNA hsa-mir-7704 precursor'}) RETURN go.Label AS GO_Term, cc.Label AS CellularComponent

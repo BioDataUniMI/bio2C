@@ -1,0 +1,1 @@
+MATCH (c:Cardiovascular_disease)<-[:phenotype_of]-(p:Phenotype) WHERE toLower(c.Label) CONTAINS 'syndrome 7' RETURN c.Label AS CardiovascularDisease, COUNT(p) AS PhenotypeCount

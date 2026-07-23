@@ -1,0 +1,25 @@
+{
+  "miRNA": "hsa-miR-4783-3p",
+  "Sequence": "CCCCGGUGUUGGGGCGCGUCUGC"
+}
+
+{
+  "miRNA": "hsa-miR-4292",
+  "Sequence": "CCCCUGGGCCGGCCUUGG"
+}
+
+{
+  "miRNA": "hsa-miR-718",
+  "Sequence": "CUUCCGCCCCGCCGGGCGUCG"
+}
+
+{
+  "miRNA": "hsa-miR-1292-3p",
+  "Sequence": "UCGCGCCCCGGCUCCCGUUC"
+}
+
+{
+  "miRNA": "hsa-miR-4707-5p",
+  "Sequence": "GCCCCGGCGCGGGCGGGUUCUGG"
+}
+

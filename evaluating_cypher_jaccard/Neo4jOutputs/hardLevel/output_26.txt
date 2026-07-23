@@ -1,0 +1,12 @@
+{
+  "Gene1": "H2AC16",
+  "Gene2": "H2BC10",
+  "Sequence_Length": 482
+}
+
+{
+  "Gene1": "H2BC10",
+  "Gene2": "H2AC16",
+  "Sequence_Length": 482
+}
+

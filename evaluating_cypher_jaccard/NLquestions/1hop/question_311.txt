@@ -1,0 +1,1 @@
+Find phenotypes that have a phenotype with the label 'increased height' as quality.

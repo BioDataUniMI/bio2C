@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:under_expressed_in]->(p:Phenotype) WHERE SIZE([s IN p.Synonym WHERE s =~ '.*[^a-zA-Z0-9 ].*']) >= 8 RETURN DISTINCT m.Label AS miRNA, p.Label AS Phenotype_label, p.Synonym AS Phenotype_synonyms

@@ -1,0 +1,1 @@
+MATCH (d:Autoimmune_disease) WHERE toLower(d.Label) CONTAINS 'diabete' AND toLower(d.Description) CONTAINS 'chromosome 11' RETURN d.Label, d.Description, d.URI

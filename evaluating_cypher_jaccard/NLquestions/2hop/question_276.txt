@@ -1,0 +1,1 @@
+Identify phenotypes of diseases whose label contains the word 'infection' that express miRNAs participating in the biological process labeled as 'epithelium development'. Return the descriptions of those biological processes along with the phenotype, miRNA, and process.

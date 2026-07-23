@@ -1,0 +1,6 @@
+{
+  "bp.Label": "chromaffin granule amine transport",
+  "bp.Description": "the directed movement of amines into, out of or within chromaffin granules.",
+  "g.Label": "chromaffin granule"
+}
+

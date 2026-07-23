@@ -1,0 +1,10 @@
+{
+  "miRNA": "hsa-miR-155-5p",
+  "CardiovascularDisease": "cardiofaciocutaneous syndrome"
+}
+
+{
+  "miRNA": "hsa-miR-146a-5p",
+  "CardiovascularDisease": "cardiofaciocutaneous syndrome"
+}
+

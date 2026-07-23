@@ -1,0 +1,40 @@
+{
+  "DiseaseLabel": "frontotemporal dementia and/or amyotrophic lateral sclerosis 2",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "amyotrophic lateral sclerosis type 3",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "amyotrophic lateral sclerosis-parkinsonism-dementia complex",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "Balo concentric sclerosis",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+
+{
+  "DiseaseLabel": "juvenile amyotrophic lateral sclerosis with dementia",
+  "LABELS(n)": [
+    "Neurodegenerative_disease",
+    "Disease"
+  ]
+}
+

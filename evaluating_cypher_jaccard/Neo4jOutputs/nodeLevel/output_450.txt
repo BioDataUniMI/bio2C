@@ -1,0 +1,20 @@
+{
+  "mf.Label": "intracellularly gated calcium channel activity"
+}
+
+{
+  "mf.Label": "G-protein gated monoatomic cation channel activity"
+}
+
+{
+  "mf.Label": "narrow pore, gated channel activity"
+}
+
+{
+  "mf.Label": "gated channel activity"
+}
+
+{
+  "mf.Label": "G-protein gated potassium channel activity"
+}
+

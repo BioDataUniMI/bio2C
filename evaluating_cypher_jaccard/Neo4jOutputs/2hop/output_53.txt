@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Mitochondrial inheritance",
+  "GOterm": "mitochondrion",
+  "CellularComponent": "ocelloid"
+}
+
+{
+  "Phenotype": "Mitochondrial inheritance",
+  "GOterm": "mitochondrion",
+  "CellularComponent": "cytoplasm"
+}
+
+{
+  "Phenotype": "Mitochondrial myopathy",
+  "GOterm": "mitochondrion",
+  "CellularComponent": "ocelloid"
+}
+
+{
+  "Phenotype": "Mitochondrial myopathy",
+  "GOterm": "mitochondrion",
+  "CellularComponent": "cytoplasm"
+}
+
+{
+  "Phenotype": "Mitochondrial encephalopathy",
+  "GOterm": "mitochondrion",
+  "CellularComponent": "ocelloid"
+}
+

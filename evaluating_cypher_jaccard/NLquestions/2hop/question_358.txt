@@ -1,0 +1,1 @@
+Identify miRNAs that participate in GO terms regulated by the GO term 'regulation of B cell antigen processing and presentation'. Return the regulated GO term, and miRNA labels.

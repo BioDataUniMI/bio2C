@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Aplasia/Hypoplasia of the distal phalanges of the toes",
+  "Disease": "skin basal cell carcinoma",
+  "parent.Label": "basal cell carcinoma"
+}
+
+{
+  "Phenotype": "Short distal phalanx of finger",
+  "Disease": "skin basal cell carcinoma",
+  "parent.Label": "basal cell carcinoma"
+}
+
+{
+  "Phenotype": "Iris hypopigmentation",
+  "Disease": "skin basal cell carcinoma",
+  "parent.Label": "basal cell carcinoma"
+}
+
+{
+  "Phenotype": "Global developmental delay",
+  "Disease": "skin basal cell carcinoma",
+  "parent.Label": "basal cell carcinoma"
+}
+
+{
+  "Phenotype": "Hypopigmentation of the skin",
+  "Disease": "skin basal cell carcinoma",
+  "parent.Label": "basal cell carcinoma"
+}
+

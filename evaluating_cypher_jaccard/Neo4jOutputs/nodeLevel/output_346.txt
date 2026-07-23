@@ -1,0 +1,5 @@
+{
+  "DiseaseLabel": "episodic angioedema with eosinophilia",
+  "DiseaseID": "MONDO:0500000"
+}
+

@@ -1,0 +1,1 @@
+Find miRNAs that regulate a gene with a label longer than 15 characters and are also under-expressed in the disease labeled as 'malignant pancreatic neoplasm', reporting the underexpression sources of evidence.

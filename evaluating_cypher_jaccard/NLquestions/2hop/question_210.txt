@@ -1,0 +1,1 @@
+Identify phenotypes of diseases whose label contains the string 'cervical vertebrae' and that are subclasses of other diseases. Return the label of: the phenotype, the disease, and the parent disease.

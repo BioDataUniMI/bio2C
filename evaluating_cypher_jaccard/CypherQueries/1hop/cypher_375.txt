@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[r:is_active_in]->(g:GO) RETURN m.Label AS miRNA, g.Label AS GOTerm, r.GO_evidence AS GOEvidence

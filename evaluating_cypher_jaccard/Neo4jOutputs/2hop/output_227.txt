@@ -1,0 +1,30 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-1306 precursor",
+  "Regulator_miRNA": "hsa-miR-1306-5p",
+  "Gene": "TPST2P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-204 precursor",
+  "Regulator_miRNA": "hsa-miR-204-5p",
+  "Gene": "TPST2P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-211 precursor",
+  "Regulator_miRNA": "hsa-miR-211-5p",
+  "Gene": "TPST2P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-149 precursor",
+  "Regulator_miRNA": "hsa-miR-149-5p",
+  "Gene": "TPST2P1"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-124 precursor (hsa-mir-124-1)",
+  "Regulator_miRNA": "hsa-miR-124-3p",
+  "Gene": "TPST2"
+}
+

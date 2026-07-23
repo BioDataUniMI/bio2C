@@ -1,0 +1,30 @@
+{
+  "Phenotype": "Lymphocytosis",
+  "Disease": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency",
+  "BiologicalProcess": "thymic T cell selection"
+}
+
+{
+  "Phenotype": "Decreased proportion of CD3-positive T cells",
+  "Disease": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency",
+  "BiologicalProcess": "thymic T cell selection"
+}
+
+{
+  "Phenotype": "Neonatal sepsis",
+  "Disease": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency",
+  "BiologicalProcess": "thymic T cell selection"
+}
+
+{
+  "Phenotype": "Psoriasiform lesion",
+  "Disease": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency",
+  "BiologicalProcess": "thymic T cell selection"
+}
+
+{
+  "Phenotype": "Decreased lymphocyte proliferation in response to mitogen",
+  "Disease": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency",
+  "BiologicalProcess": "thymic T cell selection"
+}
+

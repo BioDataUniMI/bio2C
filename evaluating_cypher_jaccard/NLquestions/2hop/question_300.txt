@@ -1,0 +1,1 @@
+Identify phenotypes, including all their synonyms, that are present in diseases where the miRNA 'hsa-miR-155-5p' is expressed. Return the label of the disease and the phenotype, along with the phenotype synonyms.

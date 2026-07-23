@@ -1,0 +1,1 @@
+Find miRNAs that act as causal germline mutations in diseases where the 'Interactor' of the relationship is not null. Return the miRNA label, disease label, miRNA genomic coordinates, and the mutations.

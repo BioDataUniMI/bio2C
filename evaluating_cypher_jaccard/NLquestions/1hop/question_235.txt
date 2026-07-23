@@ -1,0 +1,1 @@
+Return all diseases associated with causal somatic mutations in precursor miRNAs, along with the properties of the corresponding relationships.

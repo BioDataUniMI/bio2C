@@ -1,0 +1,20 @@
+{
+  "ModifierPhenotype": "Micropenis"
+}
+
+{
+  "ModifierPhenotype": "Severe periodontitis"
+}
+
+{
+  "ModifierPhenotype": "Tachypnea"
+}
+
+{
+  "ModifierPhenotype": "Polyphagia"
+}
+
+{
+  "ModifierPhenotype": "Osteomalacia"
+}
+

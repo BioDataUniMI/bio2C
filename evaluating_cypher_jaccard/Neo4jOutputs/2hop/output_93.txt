@@ -1,0 +1,25 @@
+{
+  "Precursor": "microRNA hsa-mir-625 precursor",
+  "Mature_miRNA": "hsa-miR-625-5p"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-9 precursor (hsa-mir-9-3)",
+  "Mature_miRNA": "hsa-miR-9-5p"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-708 precursor",
+  "Mature_miRNA": "hsa-miR-708-5p"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-184 precursor",
+  "Mature_miRNA": "hsa-miR-184"
+}
+
+{
+  "Precursor": "microRNA hsa-mir-206 precursor",
+  "Mature_miRNA": "hsa-miR-206"
+}
+

@@ -1,0 +1,1 @@
+MATCH (p:Phenotype) WHERE ANY(syn IN p.Synonym WHERE syn CONTAINS 'aortic') RETURN p.Label AS Phenotype, p.Synonym AS Synonyms

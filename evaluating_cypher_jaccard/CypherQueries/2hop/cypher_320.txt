@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA)-[:under_expressed_in]->(c:Cancer) WHERE c.Label CONTAINS 'malignant pancreatic' AND pre.Label CONTAINS '302c'  RETURN pre.Label AS Pre_miRNA, m.Label AS miRNA, c.Label AS Cancer

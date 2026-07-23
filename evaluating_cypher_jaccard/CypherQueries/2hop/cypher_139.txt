@@ -1,0 +1,1 @@
+MATCH (c:Cancer)-[:expresses]->(m:miRNA)-[:participates_in]->(go:GO) WHERE c.Label CONTAINS 'breast carcinoma' AND go.Label ENDS WITH 'process' RETURN c.Label AS Cancer, m.Label AS miRNA, go.Label AS GO_Term

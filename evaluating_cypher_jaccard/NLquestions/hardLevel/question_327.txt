@@ -1,0 +1,1 @@
+For each gene label length, find the disease(s) that are caused or contributed to by gene(s) of that label length with the highest number of distinct miRNAs regulating them (including ties). Return the disease label, the gene label length, and the maximum number of regulating miRNAs.

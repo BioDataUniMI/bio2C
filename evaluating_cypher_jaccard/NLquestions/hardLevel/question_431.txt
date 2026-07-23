@@ -1,0 +1,1 @@
+Which are the top 3 genes that cause or contribute to the highest number of autoimmune diseases? Return each gene along with the number of autoimmune diseases it is associated with and the list of those diseases, ranked by number of autoimmune diseases in descending order and breaking ties by gene name in ascending alphabetical order.

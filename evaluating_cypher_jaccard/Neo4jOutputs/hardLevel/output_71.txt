@@ -1,0 +1,24 @@
+{
+  "Gene": "MIR1247",
+  "MaxGeneLength": 136,
+  "Cancers": [
+    "renal cell adenocarcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR770",
+  "MaxGeneLength": 98,
+  "Cancers": [
+    "renal cell adenocarcinoma"
+  ]
+}
+
+{
+  "Gene": "MIR655",
+  "MaxGeneLength": 97,
+  "Cancers": [
+    "renal cell adenocarcinoma"
+  ]
+}
+

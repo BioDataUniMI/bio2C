@@ -1,0 +1,40 @@
+{
+  "miRNA": "hsa-miR-22-3p",
+  "SequenceLength": 22,
+  "GeneLabels": [
+    "BSG"
+  ],
+  "Disease": "COVID-19",
+  "mediatorGenes": 1
+}
+
+{
+  "miRNA": "hsa-miR-340-5p",
+  "SequenceLength": 22,
+  "GeneLabels": [
+    "BSG"
+  ],
+  "Disease": "COVID-19",
+  "mediatorGenes": 1
+}
+
+{
+  "miRNA": "hsa-miR-22-3p",
+  "SequenceLength": 22,
+  "GeneLabels": [
+    "BSG"
+  ],
+  "Disease": "Plasmodium falciparum malaria",
+  "mediatorGenes": 1
+}
+
+{
+  "miRNA": "hsa-miR-340-5p",
+  "SequenceLength": 22,
+  "GeneLabels": [
+    "BSG"
+  ],
+  "Disease": "Plasmodium falciparum malaria",
+  "mediatorGenes": 1
+}
+

@@ -1,0 +1,45 @@
+{
+  "CellularComponent": "nuclear outer membrane-endoplasmic reticulum membrane network",
+  "miRNA": "hsa-miR-128-3p",
+  "Disease": "anxiety disorder",
+  "RelationSource": [
+    "miRPathDB"
+  ]
+}
+
+{
+  "CellularComponent": "nuclear exosome focus",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder",
+  "RelationSource": [
+    "miRPathDB"
+  ]
+}
+
+{
+  "CellularComponent": "Mei2 nuclear dot complex",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder",
+  "RelationSource": [
+    "miRPathDB"
+  ]
+}
+
+{
+  "CellularComponent": "nuclear body",
+  "miRNA": "hsa-miR-155-3p",
+  "Disease": "hypertensive disorder",
+  "RelationSource": [
+    "miRPathDB"
+  ]
+}
+
+{
+  "CellularComponent": "nuclear lumen",
+  "miRNA": "hsa-miR-155-5p",
+  "Disease": "hypertensive disorder",
+  "RelationSource": [
+    "miRPathDB"
+  ]
+}
+

@@ -1,0 +1,1 @@
+MATCH (g:GO) WHERE g.Description CONTAINS 'proton' AND g.Description CONTAINS 'catalytic' RETURN g.Label AS GO, g.Description AS Description

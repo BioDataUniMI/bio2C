@@ -1,0 +1,25 @@
+{
+  "Disease": "incessant infant ventricular tachycardia",
+  "Description": "incessant infant ventricular tachycardia is a rare type of ventricular tachycardia (vt) character..."
+}
+
+{
+  "Disease": "ethylene glycol poisoning",
+  "Description": "ethylene glycol poisoning is a rare poisoning resulting in elevated anion gap metabolic acidosis,..."
+}
+
+{
+  "Disease": "selective pituitary resistance to thyroid hormone",
+  "Description": "pituitary resistance to thyroid hormone is a rare, genetic thyroid disease, due to reduced pituit..."
+}
+
+{
+  "Disease": "multifocal atrial tachycardia",
+  "Description": "multifocal atrial tachycardia is a rare supraventricular arrhythmia in neonates and young infants..."
+}
+
+{
+  "Disease": "torsade-de-pointes syndrome with short coupling interval",
+  "Description": "torsade-de-pointes (tdp) syndrome with short coupling interval is a very rare variant of torsade ..."
+}
+

@@ -1,0 +1,1 @@
+MATCH (m:miRNA)-[:expressed_in]->(d:Disease)-[:has_phenotype]->(p:Phenotype)-[:phenotype_of]->(nd:Neurodegenerative_disease) WHERE p.Label CONTAINS 'Hepatitis' AND d.Label CONTAINS 'benign' RETURN m.Label AS miRNA, d.Label AS Disease, p.Label AS Phenotype, nd.Label AS NeurodegenerativeDisease

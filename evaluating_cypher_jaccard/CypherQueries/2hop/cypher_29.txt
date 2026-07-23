@@ -1,0 +1,1 @@
+MATCH (p:pre_miRNA)-[:interacts_with]->(m:miRNA)-[:regulates_activity_of]->(g:Gene{Label:'ZEB2'}) RETURN p.Label AS Precursor_miRNA, m.Label AS miRNA

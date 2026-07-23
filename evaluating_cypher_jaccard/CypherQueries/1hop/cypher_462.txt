@@ -1,0 +1,1 @@
+MATCH (ad:Autoimmune_disease)-[r:disease_has_basis_in_dysfunction_of]->(cc:Cellular_component {Label: 'canonical inflammasome complex'}) RETURN ad.Label, r.Source

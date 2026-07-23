@@ -1,0 +1,1 @@
+Which miRNAs starting with 'hsa-miR-2' and ending with 'a-3p' have sequences between 20 and 24 nucleotides long and contain 'AAA' or 'UUU'?

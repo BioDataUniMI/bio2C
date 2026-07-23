@@ -1,0 +1,1 @@
+MATCH (c:Cancer{Label:'sarcoma'})-[:expresses]->(m:miRNA)-[:participates_in]->(bp:Biological_process)-[:has_part]->(mf:Molecular_function) RETURN mf.Label AS MolecularFunctionLabel, mf.Description AS MolecularFunctionDescription, bp.Label AS BiologicalProcess, m.Label AS miRNA

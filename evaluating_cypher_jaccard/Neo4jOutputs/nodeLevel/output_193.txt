@@ -1,0 +1,20 @@
+{
+  "CellularComponent": "T=28 icosahedral capsid"
+}
+
+{
+  "CellularComponent": "T=7 icosahedral viral capsid"
+}
+
+{
+  "CellularComponent": "T=9 icosahedral viral capsid"
+}
+
+{
+  "CellularComponent": "T=pseudo3 icosahedral viral capsid"
+}
+
+{
+  "CellularComponent": "T=2 icosahedral viral capsid"
+}
+

@@ -1,0 +1,1 @@
+Identify miRNAs expressed by cancers that share phenotypes with the disease labeled as 'food allergy'. Return the phenotype, cancer, and miRNA labels.

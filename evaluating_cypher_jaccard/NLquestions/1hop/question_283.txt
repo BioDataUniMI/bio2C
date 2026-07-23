@@ -1,0 +1,1 @@
+List diseases caused by disruption of molecular functions, returning the disease and the function labels.

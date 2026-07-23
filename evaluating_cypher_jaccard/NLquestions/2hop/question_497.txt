@@ -1,0 +1,1 @@
+Find the phenotypes feature of the infectious diseases that are superclasses of neurodegenerative diseases? Return the neurodegenerative disease, the infectious disease it is a subclass of, and the associated phenotype.

@@ -1,0 +1,35 @@
+{
+  "Pre_miRNA": "microRNA hsa-mir-320b precursor (hsa-mir-320b-1)",
+  "miRNA": "microRNA hsa-mir-320a precursor",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-320c precursor (hsa-mir-320c-1)",
+  "miRNA": "microRNA hsa-mir-320a precursor",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+
+{
+  "Pre_miRNA": "microRNA hsa-mir-320b precursor (hsa-mir-320b-2)",
+  "miRNA": "microRNA hsa-mir-320a precursor",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+
+{
+  "Pre_miRNA": "microRNA 320e (ENSG00000211513.5)",
+  "miRNA": "microRNA hsa-mir-320a precursor",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+
+{
+  "Pre_miRNA": "microRNA 320d-2 (ENSG00000221081.1)",
+  "miRNA": "microRNA hsa-mir-320a precursor",
+  "CellularComponent": "extracellular exosome",
+  "BiologicalProcess": "clathrin-dependent extracellular exosome endocytosis"
+}
+

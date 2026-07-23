@@ -1,0 +1,18 @@
+{
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "laminopathy"
+}
+
+{
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "Emery-Dreifuss muscular dystrophy"
+}
+
+{
+  "primary_cardiovascular_disease": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+  "related_cardiovascular_disease": "X-linked Emery-Dreifuss muscular dystrophy",
+  "parent_disease": "X-linked disease"
+}
+

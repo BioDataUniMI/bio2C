@@ -1,0 +1,30 @@
+{
+  "miRNA": "hsa-miR-2054",
+  "diseaseLabel": "Kaposi's sarcoma",
+  "DiseaseDescription": "a malignant neoplasm characterized by a vascular proliferation which usually contains blunt endot..."
+}
+
+{
+  "miRNA": "hsa-miR-4297",
+  "diseaseLabel": "Kaposi's sarcoma",
+  "DiseaseDescription": "a malignant neoplasm characterized by a vascular proliferation which usually contains blunt endot..."
+}
+
+{
+  "miRNA": "hsa-miR-302c-5p",
+  "diseaseLabel": "Kaposi's sarcoma",
+  "DiseaseDescription": "a malignant neoplasm characterized by a vascular proliferation which usually contains blunt endot..."
+}
+
+{
+  "miRNA": "hsa-miR-146b-5p",
+  "diseaseLabel": "Kaposi's sarcoma",
+  "DiseaseDescription": "a malignant neoplasm characterized by a vascular proliferation which usually contains blunt endot..."
+}
+
+{
+  "miRNA": "hsa-miR-31-5p",
+  "diseaseLabel": "Kaposi's sarcoma",
+  "DiseaseDescription": "a malignant neoplasm characterized by a vascular proliferation which usually contains blunt endot..."
+}
+

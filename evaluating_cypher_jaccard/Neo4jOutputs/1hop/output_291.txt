@@ -1,0 +1,20 @@
+{
+  "MolecularFunction": "Gi/o-coupled serotonin receptor activity"
+}
+
+{
+  "MolecularFunction": "Gq/11-coupled serotonin receptor activity"
+}
+
+{
+  "MolecularFunction": "PLC activating G protein-coupled glutamate receptor activity"
+}
+
+{
+  "MolecularFunction": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity"
+}
+
+{
+  "MolecularFunction": "adrenergic receptor activity"
+}
+

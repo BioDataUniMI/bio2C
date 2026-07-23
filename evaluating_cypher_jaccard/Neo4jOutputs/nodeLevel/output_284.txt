@@ -1,0 +1,25 @@
+{
+  "GeneLabel": "SI",
+  "SIZE(g.Sequence)": 99599
+}
+
+{
+  "GeneLabel": "TF",
+  "SIZE(g.Sequence)": 50602
+}
+
+{
+  "GeneLabel": "TG",
+  "SIZE(g.Sequence)": 267946
+}
+
+{
+  "GeneLabel": "TH",
+  "SIZE(g.Sequence)": 7887
+}
+
+{
+  "GeneLabel": "C2",
+  "SIZE(g.Sequence)": 47889
+}
+

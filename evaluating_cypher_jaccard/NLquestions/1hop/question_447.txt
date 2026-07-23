@@ -1,0 +1,1 @@
+Identify Gene Ontology terms that transport or maintain the localization of cellular components. Return GO term and component labels and the sources confirming the interaction.

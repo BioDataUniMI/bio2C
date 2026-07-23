@@ -1,0 +1,1 @@
+MATCH (g:Gene)-[:transcribed_to]->(pre:pre_miRNA)-[:develops_into]->(m:miRNA)-[:regulates_activity_of]->(t:Gene {Label: 'SMG1P7'}) RETURN  pre.Label AS Pre_miRNA, m.Label AS Mature_miRNA, t.Label AS TargetGene

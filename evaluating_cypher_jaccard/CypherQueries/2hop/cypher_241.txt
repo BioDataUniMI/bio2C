@@ -1,0 +1,1 @@
+MATCH (pre:pre_miRNA)-[:in_similarity_relationship_with]->(m:miRNA{Label:'microRNA hsa-mir-18b precursor'})-[:located_in]->(cc:Cellular_component) RETURN pre.Label AS Pre_miRNA, cc.Label AS CellularComponent
